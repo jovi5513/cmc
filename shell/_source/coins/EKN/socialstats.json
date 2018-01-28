@@ -1,0 +1,132 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "EKN",
+            "CoinName": "Elektron",
+            "Type": "Webpagecoinp",
+            "Points": 571
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28174,
+                    "Name": "EneCoin",
+                    "FullName": "EneCoin (ENE)",
+                    "ImageUrl": "\/media\/351506\/ene.png",
+                    "Url": "\/coins\/ene\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4597,
+                    "Name": "RazorCoin",
+                    "FullName": "RazorCoin (RZR)",
+                    "ImageUrl": "\/media\/20055\/rzr.png",
+                    "Url": "\/coins\/rzr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4435,
+                    "Name": "DarkShibe",
+                    "FullName": "DarkShibe (DSB)",
+                    "ImageUrl": "\/media\/20034\/dsb.png",
+                    "Url": "\/coins\/dsb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 607521,
+                    "Name": "Numus",
+                    "FullName": "Numus (NMS)",
+                    "ImageUrl": "\/media\/20780637\/nms.png",
+                    "Url": "\/coins\/nms\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 229307,
+                    "Name": "Veredictum",
+                    "FullName": "Veredictum (VNT)",
+                    "ImageUrl": "\/media\/1384044\/vnt.jpg",
+                    "Url": "\/coins\/vnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4418,
+                    "Name": "CopperLark",
+                    "FullName": "CopperLark (CLR)",
+                    "ImageUrl": "\/media\/19657\/clr.png",
+                    "Url": "\/coins\/clr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4595,
+                    "Name": "RotoCoin",
+                    "FullName": "RotoCoin (RT2)",
+                    "ImageUrl": "\/media\/19896\/rt2.png",
+                    "Url": "\/coins\/rt2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4602,
+                    "Name": "ShadeCoin",
+                    "FullName": "ShadeCoin (SHADE)",
+                    "ImageUrl": "\/media\/20056\/shade.png",
+                    "Url": "\/coins\/shade\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5381,
+                    "Name": "Unattanium",
+                    "FullName": "Unattanium (UNAT)",
+                    "ImageUrl": "\/media\/20456\/unat.png",
+                    "Url": "\/coins\/unat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28081,
+                    "Name": "Fusion",
+                    "FullName": "Fusion (FSN)",
+                    "ImageUrl": "\/media\/351495\/fsn.png",
+                    "Url": "\/coins\/fsn\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "Followers": 0,
+            "Points": 0,
+            "PageViewsSplit": {
+                "Overview": 548,
+                "Markets": 9,
+                "Analysis": 70,
+                "Charts": 42,
+                "Trades": 32,
+                "Orderbook": 0,
+                "Forum": 50,
+                "Influence": 17
+            },
+            "PageViews": 768
+        },
+        "Twitter": {
+            "followers": 536,
+            "following": "269",
+            "lists": 7,
+            "favourites": "253",
+            "statuses": 291,
+            "account_creation": "1428160148",
+            "name": "Elektron Foundation",
+            "link": "https:\/\/twitter.com\/ElektronCoin",
+            "Points": 571
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

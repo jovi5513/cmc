@@ -1,0 +1,221 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MLN",
+            "CoinName": "Melon",
+            "Type": "Webpagecoinp",
+            "Points": 23929
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 240322,
+                    "Name": "GoldMint",
+                    "FullName": "GoldMint (MNT)",
+                    "ImageUrl": "\/media\/9350745\/mntp.png",
+                    "Url": "\/coins\/mnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 175671,
+                    "Name": "Blocktix",
+                    "FullName": "Blocktix (TIX)",
+                    "ImageUrl": "\/media\/1383690\/tix.png",
+                    "Url": "\/coins\/tix\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 355702,
+                    "Name": "Dragonchain",
+                    "FullName": "Dragonchain (DRGN)",
+                    "ImageUrl": "\/media\/16746490\/drgn.png",
+                    "Url": "\/coins\/drgn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 345420,
+                    "Name": "Revain",
+                    "FullName": "Revain (R)",
+                    "ImageUrl": "\/media\/12318360\/r.png",
+                    "Url": "\/coins\/r\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 57481,
+                    "Name": "DubaiCoin",
+                    "FullName": "DubaiCoin (DBIX)",
+                    "ImageUrl": "\/media\/1382860\/dbix.png",
+                    "Url": "\/coins\/dbix\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20892,
+                    "Name": "BreakoutCoin",
+                    "FullName": "BreakoutCoin (BRK)",
+                    "ImageUrl": "\/media\/350981\/brk.png",
+                    "Url": "\/coins\/brk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 327632,
+                    "Name": "CanYaCoin",
+                    "FullName": "CanYaCoin (CAN*)",
+                    "ImageUrl": "\/media\/12318218\/canya.png",
+                    "Url": "\/coins\/can\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179896,
+                    "Name": "Populous",
+                    "FullName": "Populous (PPT)",
+                    "ImageUrl": "\/media\/1383747\/ppt.png",
+                    "Url": "\/coins\/ppt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4338,
+                    "Name": "BitBean",
+                    "FullName": "BitBean (BITB)",
+                    "ImageUrl": "\/media\/350879\/bitb.png",
+                    "Url": "\/coins\/bitb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 319254,
+                    "Name": "Cashaa",
+                    "FullName": "Cashaa (CAS)",
+                    "ImageUrl": "\/media\/12318148\/cas.png",
+                    "Url": "\/coins\/cas\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 596825,
+                    "Name": "djehaan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596825\/baf3fdbe-e8bb-4eb0-b6b0-5f6255cb76d8.jpg",
+                    "Url": "\/profile\/djehaan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 651476,
+                    "Name": "pwsmolak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/651476\/b1db1d33-e8b2-4442-8eee-27cedfe6cb77.jpg",
+                    "Url": "\/profile\/pwsmolak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 653704,
+                    "Name": "kabalanhd",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/653704\/e88bfef6-23bc-410a-abe9-7759febab519.jpg",
+                    "Url": "\/profile\/kabalanhd\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 484956,
+                    "Name": "stacieoh",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/484956\/ea09959d-2540-4a9e-81e9-c3f5a770fbec.png",
+                    "Url": "\/profile\/stacieoh\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 374451,
+                    "Name": "whixeru",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/374451\/1bc58ec3-e253-4698-b246-b82cf18b80aa.jpg",
+                    "Url": "\/profile\/whixeru\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 450891,
+                    "Name": "607BA65B",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/450891\/1f22e93d-35cc-46f4-aa51-0689ace0c9aa.jpg",
+                    "Url": "\/profile\/607BA65B\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 314067,
+                    "Name": "4C5ABAF6",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/314067\/894bd224-2d33-4bd3-a713-a180b67e8854.jpg",
+                    "Url": "\/profile\/4C5ABAF6\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 606247,
+                    "Name": "matt_84_young",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/606247\/61a42477-aa8a-43bc-8e2d-8d2d4d373253.jpg",
+                    "Url": "\/profile\/matt_84_young\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 221084,
+                    "Name": "carlo77",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/221084\/2ef704e3-e83d-4668-b776-633f3a4ef097.jpg",
+                    "Url": "\/profile\/carlo77\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 255182,
+                    "Name": "tbodashko",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/255182\/db1afb2d-d7a5-48e0-893b-e45b26b4b746.jpg",
+                    "Url": "\/profile\/tbodashko\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 192928,
+                    "Name": "chrbauer23",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/192928\/c9545abb-bf8f-420b-8e9e-c6a8f58dfd11.png",
+                    "Url": "\/profile\/chrbauer23\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 7985,
+            "Posts": "28",
+            "Comments": "11",
+            "Followers": 287,
+            "PageViewsSplit": {
+                "Overview": 31138,
+                "Markets": 1148,
+                "Analysis": 721,
+                "Charts": 3668,
+                "Trades": 1369,
+                "Orderbook": 21,
+                "Forum": 1113,
+                "Influence": 183
+            },
+            "PageViews": 39361
+        },
+        "Twitter": {
+            "favourites": "1157",
+            "statuses": 785,
+            "following": "302",
+            "account_creation": "1470757773",
+            "followers": 12700,
+            "name": "Melonport",
+            "link": "https:\/\/twitter.com\/melonport",
+            "lists": 368,
+            "Points": 14540
+        },
+        "Reddit": {
+            "posts_per_hour": "0.02",
+            "link": "https:\/\/www.reddit.com\/r\/melonproject\/",
+            "comments_per_hour": "0.15",
+            "posts_per_day": "0.56",
+            "active_users": 71,
+            "community_creation": "1468529921",
+            "subscribers": 1181,
+            "comments_per_day": 3.67,
+            "name": "melonproject",
+            "Points": 1401
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

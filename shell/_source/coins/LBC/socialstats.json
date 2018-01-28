@@ -1,0 +1,283 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "LBC",
+            "CoinName": "LBRY Credits",
+            "Type": "Webpagecoinp",
+            "Points": 78378
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 186277,
+                    "Name": "0x",
+                    "FullName": "0x (ZRX)",
+                    "ImageUrl": "\/media\/1383799\/zrx.png",
+                    "Url": "\/coins\/zrx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 66193,
+                    "Name": "Gnosis",
+                    "FullName": "Gnosis (GNO)",
+                    "ImageUrl": "\/media\/1383083\/gnosis-logo.png",
+                    "Url": "\/coins\/gno\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 187347,
+                    "Name": "Storj",
+                    "FullName": "Storj (STORJ)",
+                    "ImageUrl": "\/media\/20422\/sjcx.png",
+                    "Url": "\/coins\/storj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5288,
+                    "Name": "StorjCoin",
+                    "FullName": "StorjCoin (SJCX)",
+                    "ImageUrl": "\/media\/20422\/sjcx.png",
+                    "Url": "\/coins\/sjcx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 166548,
+                    "Name": "Monaco",
+                    "FullName": "Monaco (MCO)",
+                    "ImageUrl": "\/media\/1383653\/mco.jpg",
+                    "Url": "\/coins\/mco\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43042,
+                    "Name": "Waves Community Token",
+                    "FullName": "Waves Community Token (WCT)",
+                    "ImageUrl": "\/media\/350884\/waves_1.png",
+                    "Url": "\/coins\/wct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 26132,
+                    "Name": "Komodo",
+                    "FullName": "Komodo (KMD)",
+                    "ImageUrl": "\/media\/351408\/kmd.png",
+                    "Url": "\/coins\/kmd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 172091,
+                    "Name": "RaiBlocks",
+                    "FullName": "RaiBlocks (XRB)",
+                    "ImageUrl": "\/media\/1383674\/xrb.png",
+                    "Url": "\/coins\/xrb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 2349,
+                    "Name": "PeerCoin",
+                    "FullName": "PeerCoin (PPC)",
+                    "ImageUrl": "\/media\/19864\/peercoin-logo.png",
+                    "Url": "\/coins\/ppc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44003,
+                    "Name": "PacCoin",
+                    "FullName": "PacCoin (PAC)",
+                    "ImageUrl": "\/media\/20780670\/pac.png",
+                    "Url": "\/coins\/pac\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 675636,
+                    "Name": "tcacija",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675636\/fd3d329c-c48c-4593-95ff-95a1cb085892.jpg",
+                    "Url": "\/profile\/tcacija\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 673967,
+                    "Name": "gentelmen.vip",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673967\/1c2f493d-6ddd-43e1-b009-6b94436ef309.jpg",
+                    "Url": "\/profile\/gentelmen.vip\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 354303,
+                    "Name": "matrukens",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/354303\/359e2929-b24c-45cf-b39a-e3a86284d6c1.jpg",
+                    "Url": "\/profile\/matrukens\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 208204,
+                    "Name": "phmail2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/208204\/013e4957-43de-4ebf-8c0c-12a817aa283c.jpg",
+                    "Url": "\/profile\/phmail2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 492618,
+                    "Name": "ruslan236",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/492618\/9406873b-424b-4627-a68f-df89b56af631.jpg",
+                    "Url": "\/profile\/ruslan236\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670748,
+                    "Name": "joao.coito",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670748\/6d06b304-dc41-4076-9885-1129c99abcd9.jpg",
+                    "Url": "\/profile\/joao.coito\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 492043,
+                    "Name": "16A0823B",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/492043\/2a8a6334-e443-472d-9ba9-8b1ac5658b2d.jpg",
+                    "Url": "\/profile\/16A0823B\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 244701,
+                    "Name": "jrbucoff",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/244701\/a28dcf69-04e2-4581-bcc3-626e01cd0caf.jpg",
+                    "Url": "\/profile\/jrbucoff\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 512773,
+                    "Name": "ser1984",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/512773\/fe210693-ab76-484b-97ed-712f366b0dbe.jpg",
+                    "Url": "\/profile\/ser1984\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 663567,
+                    "Name": "janb.l33t",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/663567\/8b9986eb-5630-4429-aa3b-2adb98112307.jpg",
+                    "Url": "\/profile\/janb.l33t\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 499366,
+                    "Name": "jong.paramon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/499366\/95b8b2b2-b815-4fed-9997-289591b8b512.jpg",
+                    "Url": "\/profile\/jong.paramon\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 22000,
+            "Followers": 795,
+            "Posts": "57",
+            "Comments": "70",
+            "PageViewsSplit": {
+                "Overview": 71418,
+                "Markets": 2537,
+                "Analysis": 1349,
+                "Charts": 6812,
+                "Trades": 1473,
+                "Orderbook": 428,
+                "Forum": 3449,
+                "Influence": 542
+            },
+            "PageViews": 88008
+        },
+        "Twitter": {
+            "following": "628",
+            "account_creation": "1415223248",
+            "name": "LBRY",
+            "lists": 575,
+            "favourites": "3111",
+            "statuses": 2399,
+            "followers": 29073,
+            "link": "https:\/\/twitter.com\/LBRYio",
+            "Points": 31950
+        },
+        "Reddit": {
+            "posts_per_hour": "0.16",
+            "comments_per_hour": "0.72",
+            "posts_per_day": "3.86",
+            "comments_per_day": 17.3,
+            "name": "lbry",
+            "link": "https:\/\/www.reddit.com\/r\/lbry\/",
+            "active_users": 86,
+            "community_creation": "1435870765",
+            "subscribers": 3776,
+            "Points": 4068
+        },
+        "Facebook": {
+            "likes": 15240,
+            "link": "https:\/\/www.facebook.com\/lbryio\/",
+            "is_closed": "false",
+            "talking_about": "781",
+            "name": "LBRY",
+            "Points": 15240
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1484593532",
+                    "open_total_issues": "180",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "945",
+                    "size": "17998",
+                    "stars": 300,
+                    "last_update": "1515688368",
+                    "forks": 86,
+                    "url": "https:\/\/github.com\/lbryio\/lbry-app",
+                    "closed_issues": "339",
+                    "closed_pull_issues": "606",
+                    "fork": "false",
+                    "last_push": "1515953310",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "10",
+                    "language": "JavaScript",
+                    "subscribers": 66,
+                    "open_issues": "100"
+                },
+                {
+                    "created_at": "1440084250",
+                    "open_total_issues": "114",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "765",
+                    "size": "6978",
+                    "stars": 3635,
+                    "last_update": "1515943526",
+                    "forks": 195,
+                    "url": "https:\/\/github.com\/lbryio\/lbry",
+                    "closed_issues": "390",
+                    "closed_pull_issues": "375",
+                    "fork": "false",
+                    "last_push": "1515793380",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "14",
+                    "language": "Python",
+                    "subscribers": 139,
+                    "open_issues": "170"
+                }
+            ],
+            "Points": 5112
+        }
+    }
+}

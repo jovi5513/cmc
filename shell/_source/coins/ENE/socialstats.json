@@ -1,0 +1,176 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ENE",
+            "CoinName": "EneCoin",
+            "Type": "Webpagecoinp",
+            "Points": 218
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28176,
+                    "Name": "TDFB",
+                    "FullName": "TDFB (TDFB)",
+                    "ImageUrl": "\/media\/351507\/tdfb.png",
+                    "Url": "\/coins\/tdfb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5329,
+                    "Name": "EbolaShare",
+                    "FullName": "EbolaShare (EBS)",
+                    "ImageUrl": "\/media\/20267\/ebs.png",
+                    "Url": "\/coins\/ebs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30568,
+                    "Name": "AndromedaCoin",
+                    "FullName": "AndromedaCoin (AND)",
+                    "ImageUrl": "\/media\/351797\/and.png",
+                    "Url": "\/coins\/and\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182463,
+                    "Name": "Ammo Rewards",
+                    "FullName": "Ammo Rewards (AMMO)",
+                    "ImageUrl": "\/media\/1383778\/ammo.png",
+                    "Url": "\/coins\/ammo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 619929,
+                    "Name": "Accolade",
+                    "FullName": "Accolade (ACCO)",
+                    "ImageUrl": "\/media\/20780654\/acco.png",
+                    "Url": "\/coins\/acco\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4435,
+                    "Name": "DarkShibe",
+                    "FullName": "DarkShibe (DSB)",
+                    "ImageUrl": "\/media\/20034\/dsb.png",
+                    "Url": "\/coins\/dsb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4597,
+                    "Name": "RazorCoin",
+                    "FullName": "RazorCoin (RZR)",
+                    "ImageUrl": "\/media\/20055\/rzr.png",
+                    "Url": "\/coins\/rzr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 607521,
+                    "Name": "Numus",
+                    "FullName": "Numus (NMS)",
+                    "ImageUrl": "\/media\/20780637\/nms.png",
+                    "Url": "\/coins\/nms\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 229307,
+                    "Name": "Veredictum",
+                    "FullName": "Veredictum (VNT)",
+                    "ImageUrl": "\/media\/1384044\/vnt.jpg",
+                    "Url": "\/coins\/vnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5281,
+                    "Name": "Elektron",
+                    "FullName": "Elektron (EKN)",
+                    "ImageUrl": "\/media\/20270\/ekn.png",
+                    "Url": "\/coins\/ekn\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 317336,
+                    "Name": "vasomkheidze",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/317336\/30207858-bc2d-4f29-b020-546b4dff578c.jpg",
+                    "Url": "\/profile\/vasomkheidze\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 321034,
+                    "Name": "clure78",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/321034\/afddd2fb-5d8e-4f8b-8b47-8809d01c760b.jpg",
+                    "Url": "\/profile\/clure78\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 50,
+            "Followers": 2,
+            "PageViewsSplit": {
+                "Overview": 296,
+                "Markets": 25,
+                "Analysis": 16,
+                "Charts": 12,
+                "Trades": 13,
+                "Orderbook": 0,
+                "Forum": 20,
+                "Influence": 12
+            },
+            "PageViews": 394
+        },
+        "Twitter": {
+            "statuses": 36,
+            "favourites": "0",
+            "following": "49",
+            "account_creation": "1457530652",
+            "followers": 150,
+            "name": "EneCoin",
+            "link": "https:\/\/twitter.com\/ene_coin",
+            "lists": 3,
+            "Points": 165
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1457472536",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1457549557",
+                    "closed_total_issues": "0",
+                    "size": "4109",
+                    "stars": 0,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1457472624",
+                    "open_pull_issues": "0",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/die-ene\/enecoin",
+                    "closed_issues": "0",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "language": "C",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

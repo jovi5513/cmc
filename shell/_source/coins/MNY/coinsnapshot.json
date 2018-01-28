@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 0,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 0,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "MNY",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "8e-8",
+            "LASTUPDATE": "1502650669",
+            "LASTVOLUME": "137500",
+            "LASTVOLUMETO": "0.011000000000000001",
+            "LASTTRADEID": "NaN",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "8e-8",
+            "HIGHDAY": "8e-8",
+            "LOWDAY": "8e-8",
+            "OPEN24HOUR": "8e-8",
+            "HIGH24HOUR": "8e-8",
+            "LOW24HOUR": "8e-8",
+            "LASTMARKET": "WavesDEX"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "WavesDEX",
+                "FROMSYMBOL": "MNY",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "8e-8",
+                "LASTUPDATE": "1502650669",
+                "LASTVOLUME": "137500",
+                "LASTVOLUMETO": "0.011000000000000001",
+                "LASTTRADEID": "NaN",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "8e-8",
+                "HIGH24HOUR": "8e-8",
+                "LOW24HOUR": "8e-8"
+            }
+        ]
+    },
+    "Type": 100
+}

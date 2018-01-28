@@ -1,0 +1,87 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "SysCoin (SYS) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "SysCoin is a proof of work based alternative crypto currency with a block time of sixty seconds and 2 billion total currency units to be produced.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20062\/sys.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4618",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "SysCoin (SYS)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "SYS",
+            "Url": "\/coins\/sys\/",
+            "BaseAngularUrl": "\/coins\/sys\/",
+            "Name": "SysCoin",
+            "ImageUrl": "\/media\/20062\/sys.png",
+            "Description": "<p>SysCoin is a proof of work based alternative crypto currency with a block time of sixty seconds and 2 billion total currency units to be produced.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "2000000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "27\/04\/2014",
+            "Twitter": "@syscoin",
+            "AffiliateUrl": "http:\/\/syscoin.org\/",
+            "Website": "<a href='http:\/\/syscoin.org\/' target='_blank'>SysCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515949094,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "-",
+            "BlockNumber": 536970,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 2.4149978165905e+18,
+            "TotalCoinsMined": 530241251.36022,
+            "PreviousTotalCoinsMined": 530240918.79775,
+            "BlockReward": 16.629999997823
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~BTC38~SYS~BTC",
+            "2~Cryptsy~SYS~BTC",
+            "2~Novaexchange~SYS~BTC",
+            "2~TuxExchange~SYS~BTC",
+            "2~Novaexchange~SYS~LTC",
+            "2~Yobit~SYS~ETH",
+            "2~Yobit~SYS~USD",
+            "2~Yobit~SYS~RUR",
+            "2~Yobit~SYS~DOGE",
+            "2~BTC38~SYS~CNY",
+            "2~Yobit~SYS~WAVES",
+            "2~Poloniex~SYS~BTC",
+            "2~BitTrex~SYS~BTC",
+            "2~Cryptsy~SYS~XRP",
+            "2~LiveCoin~SYS~BTC",
+            "2~Novaexchange~SYS~ETH",
+            "2~Yobit~SYS~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~SYS~BTC~1~0.00006619~1515949072~1087.22019396~0.07201746~39431788~5870460.422766707~383.0190166229326~10175444.68106049~665.9891633854858~0.00006824~0.00006824~0.00006283~0.00006127~0.00006839~0.00006114~BitTrex~7ffe9",
+            "5~CCCAGG~SYS~LTC~4~0.088~1500086262~0.00113636~0.00009999968000000001~1500086262000~0~0~0~0~0.088~0.088~0.088~0.088~0.088~0.088~Novaexchange~7ffe9",
+            "5~CCCAGG~SYS~ETH~4~0.0006452~1515936959~0.17~0.00010968570000000001~200000091~718.3934441399999~0.571442360696712~975.5683828299999~0.7958175498728518~0.0007~0.0013~0.0006452~0.000777~0.0013~0.0004029~Yobit~7ffe9",
+            "5~CCCAGG~SYS~USD~2~0.98~1515946241~22.04062327~21.599806176069116~200000269~4328.73565683~4828.59272832055~5795.880057509999~6309.3034862512295~0.931~1.4~0.931~0.91~1.4~0.91~Yobit~7ffe9",
+            "5~CCCAGG~SYS~RUR~4~53.1~1515946717~0.00940624~0.49947134428218715~200000236~748.4723220599998~43578.01262711709~1354.5414777~78594.97249883573~57.5~62~52~55.38~62~49~Yobit~7ffe9",
+            "5~CCCAGG~SYS~DOGE~2~85.45~1515946072~44.71600737~3820.9828297665~200000115~717.5500199799999~65259.33503650491~880.727747~76187.9822657589~75~100~55.05~109~109~46~Yobit~7ffe9",
+            "5~CCCAGG~SYS~CNY~4~1.03~1507866359~228.431567~235.28451401~914087~0~0~0~0~1.03~1.03~1.03~1.03~1.03~1.03~BTC38~7ffe9",
+            "5~CCCAGG~SYS~WAVES~2~0.08052~1515941963~0.017168~0.0013824497663999999~200000015~0.02777421~0.0023664596721416995~0.68797497~0.020654482864673702~0.0277~0.09278~0.0277~0.07817~0.09278~0.0277~Yobit~7ffe9",
+            "5~CCCAGG~SYS~XRP~4~0.12958474~1452827323~0.1684299~0.02182594~110947044~0~0~0.12958474~0.12958474~0.12958474~Cryptsy~78ce9"
+        ]
+    },
+    "Type": 100
+}

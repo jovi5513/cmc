@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  
+  <!-- BEGIN BODY -->
+  <body class="color-default theme-sdtl sidebar-top fixed-topbar">
+    <!--[if lt IE 7]>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <section>
+      <!-- BEGIN SIDEBAR -->
+      {% include sidebar.html %}
+      <!-- END SIDEBAR -->
+      <div class="main-content">
+        <!-- BEGIN TOPBAR -->
+        {% include topbar.html %}
+        <!-- END TOPBAR -->
+        <!-- BEGIN PAGE CONTENT -->
+        <div class="page-content">
+          <div class="header">
+            <h1><strong>{{page.coin_a_symbol}}</strong> <small>Discussion</small></h1>
+            <div class="breadcrumb-wrapper">
+              <ol class="breadcrumb">
+                <li><a href="/">Homepage</a></li>
+                <li><a href="{{page.parent-url}}">{{page.coin_a_symbol}}</a></li>
+                <li class="active">{{page.coin_a_symbol}}</li>
+              </ol>
+            </div>
+          </div>
+
+
+          {% include marketcap.html %}
+
+
+          <div class="row">
+            <div class="col-md-12 col-xs-12">
+              <div class="panel">
+                <div class="panel-header">
+                  <h2><strong>{{page.coin_a_symbol}} Discussion</strong></h2>
+                </div>
+                <div class="panel-content">
+                  <div class="nav-tabs2">
+                    <ul class="nav nav-tabs nav-red">
+                      <li><a href="{{page.parent-url}}" ><i class="icon-home"></i> Ovewview</a></li>
+                      <li><a href="{{page.parent-url}}markets.html"><i class="icon-user"></i> Markets</a></li>
+                      <li><a href="{{page.parent-url}}news.html" ><i class="icon-cloud-download"></i> News</a></li>
+                      <li class="active"><a href="#discussion" ><i class="icon-cloud-download"></i> Discussion</a></li>
+                      <li><a href="{{page.parent-url}}historical.html" ><i class="icon-cloud-download"></i> Historical data</a></li>
+                      <li><a href="{{page.parent-url}}trend.html" ><i class="icon-cloud-download"></i> Trends</a></li>
+                      <li><a href="{{page.parent-url}}calculator.html" ><i class="icon-cloud-download"></i> Calculator</a></li>
+                    </ul>
+                    <div class="tab-content">
+                      <div class="tab-pane active" id="cmc-overview">
+
+                          <div class="row">
+
+                            <div class="col-md-6 col-xs-6">
+                              <div class="panel">
+                                
+                                <div class="panel-content widget-news">
+                                  <div class="withScroll" data-height="400">
+                                    <a href="#" class="message-item media">
+                                      <div class="media">
+                                        <div class="media-body">
+                                          <div class="pull-left p-r-10">
+                                            <i class="icon-lock-open pull-left"></i>
+                                          </div>
+                                          <div>
+                                            <small class="pull-right">28 Feb</small>
+                                            <h4 class="c-dark">Reset your account password</h4>
+                                            <p class="f-14 c-gray">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </a>
+                                    <a href="#" class="message-item media">
+                                      <div class="media">
+                                        <div class="media-body">
+                                          <div class="pull-left p-r-10">
+                                            <i class="icon-cloud-upload pull-left"></i>
+                                          </div>
+                                          <div>
+                                            <small class="pull-right">27 Feb</small>
+                                            <h4 class="c-dark">Check Dropbox</h4>
+                                            <p class="f-14 c-gray">Hello Steve, I have added new files in your Dropbox in order to show you how to...</p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </a>
+                                    <a href="#" class="message-item media">
+                                      <div class="media">
+                                        <div class="media-body">
+                                          <div class="pull-left p-r-10">
+                                            <i class="icon-docs pull-left"></i>
+                                          </div>
+                                          <div>
+                                            <small class="pull-right">27 Feb</small>
+                                            <h4 class="c-dark">New document added</h4>
+                                            <p class="f-14 c-gray">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </a>
+                                    <a href="#" class="message-item media">
+                                      <div class="media">
+                                        <div class="media-body">
+                                          <div class="pull-left p-r-10">
+                                            <i class="icon-present pull-left"></i>
+                                          </div>
+                                          <div>
+                                            <small class="pull-right">26 Feb</small>
+                                            <h4 class="c-dark">You receive a gift</h4>
+                                            <p class="f-14 c-gray">Hello Steve, I have added new files in your Dropbox in order to show you how to...</p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </a>
+                                    <a href="#" class="message-item media">
+                                      <div class="media">
+                                        <div class="media-body">
+                                          <div class="pull-left p-r-10">
+                                            <i class="icon-call-in pull-left"></i>
+                                          </div>
+                                          <div>
+                                            <small class="pull-right">25 Feb</small>
+                                            <h4 class="c-dark">Call Alfred for business</h4>
+                                            <p class="f-14 c-gray">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </a>
+                                    <a href="#" class="message-item media">
+                                      <div class="media">
+                                        <div class="media-body">
+                                          <div class="pull-left p-r-10">
+                                            <i class="icon-calendar pull-left"></i>
+                                          </div>
+                                          <div>
+                                            <small class="pull-right">25 Feb</small>
+                                            <h4 class="c-dark">Appointment at 8pm today</h4>
+                                            <p class="f-14 c-gray">Hello Steve, I have added new files in your Dropbox in order to show you how to...</p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </a>
+                                    <a href="#" class="message-item media">
+                                      <div class="media">
+                                        <div class="media-body">
+                                          <div class="pull-left p-r-10">
+                                            <i class="icon-rocket pull-left"></i>
+                                          </div>
+                                          <div>
+                                            <small class="pull-right">24 Feb</small>
+                                            <h4 class="c-dark">Trip to Mars begin</h4>
+                                            <p class="f-14 c-gray">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-md-6 col-xs-6">
+                              <div class="panel">
+                                
+                                <div class="panel-content widget-news">
+                                  <div class="withScroll" data-height="400">
+                                    <a href="#" class="message-item media">
+                                      <div class="media">
+                                        <div class="media-body">
+                                          <div class="pull-left p-r-10">
+                                            <i class="icon-lock-open pull-left"></i>
+                                          </div>
+                                          <div>
+                                            <small class="pull-right">28 Feb</small>
+                                            <h4 class="c-dark">Reset your account password</h4>
+                                            <p class="f-14 c-gray">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </a>
+                                    <a href="#" class="message-item media">
+                                      <div class="media">
+                                        <div class="media-body">
+                                          <div class="pull-left p-r-10">
+                                            <i class="icon-cloud-upload pull-left"></i>
+                                          </div>
+                                          <div>
+                                            <small class="pull-right">27 Feb</small>
+                                            <h4 class="c-dark">Check Dropbox</h4>
+                                            <p class="f-14 c-gray">Hello Steve, I have added new files in your Dropbox in order to show you how to...</p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </a>
+                                    <a href="#" class="message-item media">
+                                      <div class="media">
+                                        <div class="media-body">
+                                          <div class="pull-left p-r-10">
+                                            <i class="icon-docs pull-left"></i>
+                                          </div>
+                                          <div>
+                                            <small class="pull-right">27 Feb</small>
+                                            <h4 class="c-dark">New document added</h4>
+                                            <p class="f-14 c-gray">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </a>
+                                    <a href="#" class="message-item media">
+                                      <div class="media">
+                                        <div class="media-body">
+                                          <div class="pull-left p-r-10">
+                                            <i class="icon-present pull-left"></i>
+                                          </div>
+                                          <div>
+                                            <small class="pull-right">26 Feb</small>
+                                            <h4 class="c-dark">You receive a gift</h4>
+                                            <p class="f-14 c-gray">Hello Steve, I have added new files in your Dropbox in order to show you how to...</p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </a>
+                                    <a href="#" class="message-item media">
+                                      <div class="media">
+                                        <div class="media-body">
+                                          <div class="pull-left p-r-10">
+                                            <i class="icon-call-in pull-left"></i>
+                                          </div>
+                                          <div>
+                                            <small class="pull-right">25 Feb</small>
+                                            <h4 class="c-dark">Call Alfred for business</h4>
+                                            <p class="f-14 c-gray">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </a>
+                                    <a href="#" class="message-item media">
+                                      <div class="media">
+                                        <div class="media-body">
+                                          <div class="pull-left p-r-10">
+                                            <i class="icon-calendar pull-left"></i>
+                                          </div>
+                                          <div>
+                                            <small class="pull-right">25 Feb</small>
+                                            <h4 class="c-dark">Appointment at 8pm today</h4>
+                                            <p class="f-14 c-gray">Hello Steve, I have added new files in your Dropbox in order to show you how to...</p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </a>
+                                    <a href="#" class="message-item media">
+                                      <div class="media">
+                                        <div class="media-body">
+                                          <div class="pull-left p-r-10">
+                                            <i class="icon-rocket pull-left"></i>
+                                          </div>
+                                          <div>
+                                            <small class="pull-right">24 Feb</small>
+                                            <h4 class="c-dark">Trip to Mars begin</h4>
+                                            <p class="f-14 c-gray">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </a>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            
+
+                            
+                          </div>
+
+               
+                          <!-- end row -->
+
+                      </div>
+                     
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+
+          </div>
+          {{ content }}
+
+          
+          {% include footer.html %}
+        </div>
+        <!-- END PAGE CONTENT -->
+      </div>
+      <!-- END MAIN CONTENT -->
+
+    </section>
+    
+    <!-- BEGIN SEARCH -->
+    {% include search.html %}
+    <!-- END SEARCH -->
+    <!-- BEGIN PRELOADER -->
+    <div class="loader-overlay">
+      <div class="spinner">
+        <div class="bounce1"></div>
+        <div class="bounce2"></div>
+        <div class="bounce3"></div>
+      </div>
+    </div>
+    <!-- END PRELOADER -->
+    <a href="#" class="scrollup"><i class="fa fa-angle-up"></i></a> 
+    
+    {% include js.html %}
+
+
+    <!-- END PAGE SCRIPT -->
+    <script src="/skin/frontend/assets/admin/layout1/js/layout.js"></script>
+  </body>
+</html>

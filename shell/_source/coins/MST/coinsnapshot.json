@@ -1,0 +1,72 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 334674,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 632099.39226411,
+        "BlockReward": 0.052279219962656,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "MST",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00007503",
+            "LASTUPDATE": "1516092760",
+            "LASTVOLUME": "102.27705208",
+            "LASTVOLUMETO": "0.00766976",
+            "LASTTRADEID": "1516092760",
+            "VOLUMEDAY": "7125.134857939999",
+            "VOLUMEDAYTO": "0.6111265066551561",
+            "VOLUME24HOUR": "35315.953029480006",
+            "VOLUME24HOURTO": "2.9528351359648926",
+            "OPENDAY": "0.0000842",
+            "HIGHDAY": "0.0001001",
+            "LOWDAY": "0.0000654",
+            "OPEN24HOUR": "0.00007631",
+            "HIGH24HOUR": "0.0001033",
+            "LOW24HOUR": "0.00005983",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "MST",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00007996",
+                "LASTUPDATE": "1516088364",
+                "LASTVOLUME": "57.86508318",
+                "LASTVOLUMETO": "0.0046268920510728",
+                "LASTTRADEID": "200000361",
+                "VOLUME24HOUR": "13414.457748370001",
+                "VOLUME24HOURTO": "0.9944982459648929",
+                "OPEN24HOUR": "0.00004789",
+                "HIGH24HOUR": "0.00007996",
+                "LOW24HOUR": "0.00003559"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "MST",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00007499",
+                "LASTUPDATE": "1516092760",
+                "LASTVOLUME": "102.27705208",
+                "LASTVOLUMETO": "0.00766976",
+                "LASTTRADEID": "1516092760",
+                "VOLUME24HOUR": "21901.49528111",
+                "VOLUME24HOURTO": "1.9583368899999998",
+                "OPEN24HOUR": "0.00007653",
+                "HIGH24HOUR": "0.00010349",
+                "LOW24HOUR": "0.00006002"
+            }
+        ]
+    },
+    "Type": 100
+}

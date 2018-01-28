@@ -1,0 +1,72 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Byteball (GBYTE) - Live streaming prices and market cap",
+            "PageDescription": "Live Byteball prices from all markets and GBYTE coin market Capitalization. Stay up to date with the latest Byteball price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351835\/bytes.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "30736",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Byteball (GBYTE)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "GBYTE",
+            "Url": "\/coins\/gbyte\/",
+            "BaseAngularUrl": "\/coins\/gbyte\/",
+            "Name": "Byteball",
+            "ImageUrl": "\/media\/351835\/bytes.png",
+            "Description": "<p>Byteball is a decentralized database with it&#39;s own native cryptocurrency, Bytes,\u00a0that unlike most does not require PoW or PoS mining and does not have a blockchain nor blocks. Instead, Byteball links transactions by signing the hashes from the previous transactions on the new one. These\u00a0<span>links between\u00a0transactions form a DAG (Directed Acyclic Graph).\u00a0<\/span><span>Since Byteball has no blocks, there is no block size issue.<\/span><\/p><p>Byteball can be used as a means to transfer value between users in a transaction, either with Bytes or assets that can be issued on the network or as a decentralized data base that allows users to store information within it.\u00a0Byteball&#39;s<span>\u00a0currency, Bytes, are used to pay transaction fees in this network. Transactions can be meant to exchange value or to store any type of data. The transaction fees (Bytes) are relative to the Bytes used in the transaction, so if a transaction uses 500 Bytes, that&#39;s the tx fee that will be charged. This system gives the currency intrinsic value, each Byte is worth a byte of information that is stored on the network, which alows the system to scale according to its use.<\/span><\/p><p><span>1 GBYTE equals 1000000000 BYTES<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "1000000",
+            "Algorithm": "",
+            "ProofType": "",
+            "StartDate": "25\/12\/2016",
+            "Twitter": "@ByteballOrg",
+            "AffiliateUrl": "https:\/\/byteball.org\/",
+            "Website": "<a href='https:\/\/byteball.org\/' target='_blank'>Byteball<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926630,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 645222,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~GBYTE~BTC",
+            "2~BitSquare~GBYTE~BTC",
+            "2~BitTrex~GBYTE~BTC",
+            "2~Cryptopia~GBYTE~LTC",
+            "2~Cryptopia~GBYTE~UNO",
+            "2~Cryptopia~GBYTE~DOGE",
+            "2~CryptoX~GBYTE~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~GBYTE~BTC~4~0.06996~1515951503~0.0395632~0.0027678~16762427~2332.4792756699976~174.64588540487273~3670.7265719300003~282.57763864678805~0.08267~0.08294~0.06933~0.07852~0.08299~0.06933~BitTrex~7ffe9",
+            "5~CCCAGG~GBYTE~LTC~4~3.49051019~1514398282~0.08356904~0.29169859~1514398282~0~0~0~0~3.49~3.49051019~3.49~3.49051019~3.49051019~3.49051019~Cryptopia~7ffe9",
+            "5~CCCAGG~GBYTE~UNO~4~9.00074033~1497061871~0.00906023~0.08154878~1497061871~0~0~0~0~9.00074033~9.00074033~9.00074033~9.00074033~9.00074033~9.00074033~Cryptopia~7ffe9",
+            "5~CCCAGG~GBYTE~DOGE~4~86912.20763101~1514381140~0.00214951~186.81865942~1514381140~0~0~0~0~86912.21~86912.21~86912.20763101~86912.20763101~86912.20763101~86912.20763101~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

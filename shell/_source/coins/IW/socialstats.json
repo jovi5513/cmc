@@ -1,0 +1,232 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "IW",
+            "CoinName": "iWallet",
+            "Type": "Webpagecoinp",
+            "Points": 375
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 6101,
+                    "Name": "CryptoFocus",
+                    "FullName": "CryptoFocus (FCS)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/fcs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29196,
+                    "Name": "FireCoin",
+                    "FullName": "FireCoin (FIRE)",
+                    "ImageUrl": "\/media\/351625\/fire.png",
+                    "Url": "\/coins\/fire\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 201896,
+                    "Name": "Arena",
+                    "FullName": "Arena (ARENA)",
+                    "ImageUrl": "\/media\/12318225\/arena.png",
+                    "Url": "\/coins\/arena\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44955,
+                    "Name": "JaneCoin",
+                    "FullName": "JaneCoin (JANE)",
+                    "ImageUrl": "\/media\/1382640\/jane.png",
+                    "Url": "\/coins\/jane\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4554,
+                    "Name": "LitecoinDark",
+                    "FullName": "LitecoinDark (LTCD)",
+                    "ImageUrl": "\/media\/20043\/ltcd.png",
+                    "Url": "\/coins\/ltcd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5382,
+                    "Name": "SlimCoin",
+                    "FullName": "SlimCoin (SLM)",
+                    "ImageUrl": "\/media\/20426\/slm.png",
+                    "Url": "\/coins\/slm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34493,
+                    "Name": "PLNCoin",
+                    "FullName": "PLNCoin (PLNC)",
+                    "ImageUrl": "\/media\/352131\/plnc.png",
+                    "Url": "\/coins\/plnc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4609,
+                    "Name": "Spots",
+                    "FullName": "Spots (SPT)",
+                    "ImageUrl": "\/media\/19917\/spt.png",
+                    "Url": "\/coins\/spt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38026,
+                    "Name": "Avatar Coin",
+                    "FullName": "Avatar Coin (AV)",
+                    "ImageUrl": "\/media\/1382048\/av.png",
+                    "Url": "\/coins\/av\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21708,
+                    "Name": "Fuzzballs",
+                    "FullName": "Fuzzballs (FUZZ)",
+                    "ImageUrl": "\/media\/351025\/fuzz.png",
+                    "Url": "\/coins\/fuzz\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 548493,
+                    "Name": "n.kadri",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/548493\/16d15834-a70b-4f02-83ab-8d9ae71449f3.png",
+                    "Url": "\/profile\/n.kadri\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 124658,
+                    "Name": "MAHDIAGER",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/124658\/60590893-fea1-4054-bebc-ad243030163a.jpg",
+                    "Url": "\/profile\/MAHDIAGER\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 442644,
+                    "Name": "eharroldiii",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/442644\/62754be3-a314-4607-9da3-3ea7735b0c24.jpg",
+                    "Url": "\/profile\/eharroldiii\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 410815,
+                    "Name": "chicong7891",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/410815\/b224dcc2-0488-423a-a800-07402cb75233.jpg",
+                    "Url": "\/profile\/chicong7891\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 251303,
+                    "Name": "alxfirst",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/251303\/e0e8e794-921f-4ac2-9a18-7c72dfffffed.jpg",
+                    "Url": "\/profile\/alxfirst\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 381031,
+                    "Name": "phunglehuuthao",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/381031\/6dd92b1b-5ed2-47c5-8acf-185668beb32e.jpg",
+                    "Url": "\/profile\/phunglehuuthao\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 313985,
+                    "Name": "3E777E87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/313985\/a874f5aa-bf4d-49a4-a213-be79152fee45.png",
+                    "Url": "\/profile\/3E777E87\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 297085,
+                    "Name": "mailer1991",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/297085\/9ceee561-8bb7-444d-8710-06935d479efa.jpg",
+                    "Url": "\/profile\/mailer1991\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 220300,
+                    "Name": "lina.komysa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/220300\/9b5b1a3e-48a9-4d50-ae60-faa9ec978104.jpg",
+                    "Url": "\/profile\/lina.komysa\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 71644,
+                    "Name": "vanwykcory",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/71644\/ce02c3e0-1f7b-4c3b-af88-73a3d5a55136.png",
+                    "Url": "\/profile\/vanwykcory\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 15,
+            "Posts": "0",
+            "Points": 375,
+            "PageViewsSplit": {
+                "Overview": 658,
+                "Markets": 59,
+                "Analysis": 37,
+                "Charts": 43,
+                "Trades": 34,
+                "Orderbook": 1,
+                "Forum": 19,
+                "Influence": 14
+            },
+            "PageViews": 865
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1479661488",
+                    "url": "https:\/\/github.com\/iwcoin\/iw",
+                    "forks": 0,
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "subscribers": 0,
+                    "open_issues": "0",
+                    "size": "1511",
+                    "created_at": "1479661452",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1479661486",
+                    "stars": 0
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "MustangCoin (MST) - Live streaming prices and market cap",
+            "PageDescription": "Live MustangCoin prices from all markets and MST coin market Capitalization. Stay up to date with the latest MustangCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351529\/mst1.png",
+            "OgImageWidth": "256",
+            "OgImageHeight": "256"
+        },
+        "General": {
+            "Id": "28219",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "MustangCoin (MST)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "MST",
+            "Url": "\/coins\/mst\/",
+            "BaseAngularUrl": "\/coins\/mst\/",
+            "Name": "MustangCoin",
+            "ImageUrl": "\/media\/351529\/mst1.png",
+            "Description": "<p>MustangCoin is a Proof of Work\/Proof of Stake hybrid cryptocurrency. It uses the X11 Hashing algorithm and has a 90 second block time.\u00a0<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "3000000",
+            "Algorithm": "X11",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "05\/09\/2016",
+            "Twitter": "",
+            "AffiliateUrl": "http:\/\/mustangcoin.xyz\/",
+            "Website": "<a href='http:\/\/mustangcoin.xyz\/' target='_blank'>MustangCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515980848,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 334411,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 632072.35819702,
+            "PreviousTotalCoinsMined": 632071.33012246,
+            "BlockReward": 0.99944458916434
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptsy~MST~LTC",
+            "2~Cryptopia~MST~LTC",
+            "2~Cryptopia~MST~UNO",
+            "2~Yobit~MST~BTC",
+            "2~Cryptopia~MST~BTC",
+            "2~Yobit~MST~USD",
+            "2~Yobit~MST~ETH",
+            "2~Cryptopia~MST~DOT",
+            "2~Yobit~MST~WAVES",
+            "2~Yobit~MST~RUR",
+            "2~Cryptopia~MST~DOGE",
+            "2~Yobit~MST~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~MST~LTC~4~0.0025~1515185504~20~0.05~1515185504~0~0~0~0~0.0025~0.0025~0.0025~0.0025~0.0025~0.0025~Cryptopia~7ffe9",
+            "5~CCCAGG~MST~UNO~4~0.001~1496568089~768.39405~0.76839405~1496568089~0~0~0~0~0.001~0.001~0.001~0.001~0.001~0.001~Cryptopia~7ffe9",
+            "5~CCCAGG~MST~BTC~4~0.0000425~1515979623~20.45071066~0.00086916~1515979623.001~65.19995304~0.002771~5957.281956950001~0.248386488571582~0.00004298~0.00004298~0.0000425~0.00005~0.00005~0.00003304~Cryptopia~7ffe9",
+            "5~CCCAGG~MST~USD~1~0.94~1515965830~0.10639361~0.1000099923360639~200000006~0~0~7.186434169999999~0.7372149171433646~0.94~0.94~0.94~0.09~0.94~0.09~Yobit~7ffe9",
+            "5~CCCAGG~MST~ETH~1~0.0004027~1515925410~0.079869~0.0000321632463~200000154~0~0~31.7695547~0.012465385424088~0.0004027~0.0004027~0.0004027~0.000361~0.0004067~0.000361~Yobit~7ffe9",
+            "5~CCCAGG~MST~DOT~4~7.00000001~1487385082~2.4992098~17.494469~1487385082~0~0~0~0~7.00000001~7.00000001~7.00000001~7.00000001~7.00000001~7.00000001~Cryptopia~7ffe9",
+            "5~CCCAGG~MST~WAVES~4~0.6899999~1515825933~0.22828602~0.157517330971398~1~0~0~0~0~0.69~0.69~0.6899999~0.6899999~0.6899999~0.6899999~Yobit~7ffe9",
+            "5~CCCAGG~MST~RUR~4~33~1515904448~2.1~69.3~200000004~0~0~5.80699063~191.63069079~33~33~33~33~33~33~Yobit~7ffe9",
+            "5~CCCAGG~MST~DOGE~4~200~1515498445~0.72480036~144.960072~182857545~0~0~0~0~200~200~200~200~200~200~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

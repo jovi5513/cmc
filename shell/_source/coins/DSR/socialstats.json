@@ -1,0 +1,190 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "DSR",
+            "CoinName": "Desire",
+            "Type": "Webpagecoinp",
+            "Points": 1406
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20212,
+                    "Name": "CabbageUnit",
+                    "FullName": "CabbageUnit (CAB)",
+                    "ImageUrl": "\/media\/350896\/cab.png",
+                    "Url": "\/coins\/cab\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4426,
+                    "Name": "CraftCoin",
+                    "FullName": "CraftCoin (CRC)",
+                    "ImageUrl": "\/media\/19665\/crc.png",
+                    "Url": "\/coins\/crc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 364051,
+                    "Name": "Modulum",
+                    "FullName": "Modulum (MDL)",
+                    "ImageUrl": "\/media\/14913435\/mdl-ico.png",
+                    "Url": "\/coins\/mdl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3640,
+                    "Name": "DarkKush",
+                    "FullName": "DarkKush (DANK)",
+                    "ImageUrl": "\/media\/20247\/dank.png",
+                    "Url": "\/coins\/dank\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 311516,
+                    "Name": "Rhea",
+                    "FullName": "Rhea (RHEA)",
+                    "ImageUrl": "\/media\/12318096\/rhea.png",
+                    "Url": "\/coins\/rhea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 617055,
+                    "Name": "Sucre",
+                    "FullName": "Sucre (SUCR)",
+                    "ImageUrl": "\/media\/20780650\/sucr.png",
+                    "Url": "\/coins\/sucr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 345065,
+                    "Name": "RG Coin",
+                    "FullName": "RG Coin (RGC)",
+                    "ImageUrl": "\/media\/12318357\/rgc.png",
+                    "Url": "\/coins\/rgc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28336,
+                    "Name": "FCoin",
+                    "FullName": "FCoin (FX)",
+                    "ImageUrl": "\/media\/351527\/fx.png",
+                    "Url": "\/coins\/fx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20661,
+                    "Name": "MayaCoin",
+                    "FullName": "MayaCoin (MYC)",
+                    "ImageUrl": "\/media\/350947\/myc.png",
+                    "Url": "\/coins\/myc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21833,
+                    "Name": "Stakerush",
+                    "FullName": "Stakerush (STHR)",
+                    "ImageUrl": "\/media\/351042\/sthr.png",
+                    "Url": "\/coins\/sthr\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 126230,
+                    "Name": "k0zzu13",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/126230\/c11b00f3-014a-462d-8197-5620697ace6b.jpg",
+                    "Url": "\/profile\/k0zzu13\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 621956,
+                    "Name": "khawk",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/621956\/e4e743ab-dfde-49d1-8ea1-e0a93c6fd75e.jpg",
+                    "Url": "\/profile\/khawk\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 166169,
+                    "Name": "osipov.km",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/166169\/78b99b2d-ae12-4c2c-ac81-5f944c803995.jpg",
+                    "Url": "\/profile\/osipov.km\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 379238,
+                    "Name": "kjdowdle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/379238\/af331a97-ebb2-4ef9-a6c6-cd63d2a19e0d.jpg",
+                    "Url": "\/profile\/kjdowdle\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 100,
+            "Followers": 4,
+            "PageViewsSplit": {
+                "Overview": 154,
+                "Markets": 4,
+                "Analysis": 5,
+                "Charts": 0,
+                "Trades": 5,
+                "Orderbook": 0,
+                "Forum": 2,
+                "Influence": 5
+            },
+            "PageViews": 175
+        },
+        "Twitter": {
+            "statuses": 139,
+            "favourites": "8",
+            "following": "51",
+            "account_creation": "1506328207",
+            "followers": 1180,
+            "name": "Desire_crypto",
+            "link": "https:\/\/twitter.com\/DesireCoin",
+            "lists": 18,
+            "Points": 1270
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1508068739",
+                    "open_total_issues": "2",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "0",
+                    "size": "9584",
+                    "last_push": "1510495673",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "stars": 7,
+                    "open_pull_issues": "0",
+                    "last_update": "1515637918",
+                    "forks": 7,
+                    "url": "https:\/\/github.com\/lazyboozer\/Desire",
+                    "closed_issues": "0",
+                    "open_issues": "2",
+                    "language": "C++",
+                    "subscribers": 5,
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 36
+        }
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "B3",
+            "CoinName": "B3 Coin",
+            "Type": "Webpagecoinp",
+            "Points": 10640
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20892,
+                    "Name": "BreakoutCoin",
+                    "FullName": "BreakoutCoin (BRK)",
+                    "ImageUrl": "\/media\/350981\/brk.png",
+                    "Url": "\/coins\/brk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 327632,
+                    "Name": "CanYaCoin",
+                    "FullName": "CanYaCoin (CAN*)",
+                    "ImageUrl": "\/media\/12318218\/canya.png",
+                    "Url": "\/coins\/can\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179896,
+                    "Name": "Populous",
+                    "FullName": "Populous (PPT)",
+                    "ImageUrl": "\/media\/1383747\/ppt.png",
+                    "Url": "\/coins\/ppt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4338,
+                    "Name": "BitBean",
+                    "FullName": "BitBean (BITB)",
+                    "ImageUrl": "\/media\/350879\/bitb.png",
+                    "Url": "\/coins\/bitb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 319254,
+                    "Name": "Cashaa",
+                    "FullName": "Cashaa (CAS)",
+                    "ImageUrl": "\/media\/12318148\/cas.png",
+                    "Url": "\/coins\/cas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4346,
+                    "Name": "MoonCoin",
+                    "FullName": "MoonCoin (MOON)",
+                    "ImageUrl": "\/media\/19802\/moon.png",
+                    "Url": "\/coins\/moon\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 61877,
+                    "Name": "iEx.ec",
+                    "FullName": "iEx.ec (RLC)",
+                    "ImageUrl": "\/media\/12318418\/rlc.png",
+                    "Url": "\/coins\/rlc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5315,
+                    "Name": "Gulden",
+                    "FullName": "Gulden (NLG)",
+                    "ImageUrl": "\/media\/19828\/nlg.png",
+                    "Url": "\/coins\/nlg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 322002,
+                    "Name": "Yoyow",
+                    "FullName": "Yoyow (YOYOW)",
+                    "ImageUrl": "\/media\/12318178\/yoyow.png",
+                    "Url": "\/coins\/yoyow\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 15876,
+                    "Name": "Emercoin",
+                    "FullName": "Emercoin (EMC)",
+                    "ImageUrl": "\/media\/350611\/emc.png",
+                    "Url": "\/coins\/emc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 600517,
+                    "Name": "robx1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/600517\/6c9f2d9d-1819-465b-a697-bc28dc00ab44.jpg",
+                    "Url": "\/profile\/robx1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 302873,
+                    "Name": "bambam3333",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/302873\/7f501b70-6af5-4280-bfed-4b061102deab.jpg",
+                    "Url": "\/profile\/bambam3333\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 667324,
+                    "Name": "jensvo9el",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/667324\/e23fd007-7477-48db-87b8-0cc995caa142.jpg",
+                    "Url": "\/profile\/jensvo9el\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 538923,
+                    "Name": "mdk128",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/538923\/5dced43c-899f-4404-8384-4e8e2fd8e18c.jpg",
+                    "Url": "\/profile\/mdk128\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670331,
+                    "Name": "chioma.nwaubani",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670331\/3347fa92-ee24-4aec-a4ea-9576ec4525d7.jpg",
+                    "Url": "\/profile\/chioma.nwaubani\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16475,
+                    "Name": "sascha.seewald",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16475\/c3050561-6cf7-4afd-9c23-3f62b8762596.png",
+                    "Url": "\/profile\/sascha.seewald\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 133306,
+                    "Name": "markodjukic9",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/133306\/84723b43-b068-4b7c-a9af-fa82e5d3fbc1.jpg",
+                    "Url": "\/profile\/markodjukic9\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 550951,
+                    "Name": "blakeclarity",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/550951\/67141d2f-bf88-44ca-bbef-0a33671f7920.jpg",
+                    "Url": "\/profile\/blakeclarity\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 428321,
+                    "Name": "akreyii",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/428321\/b419bfab-668a-4bb3-9f5b-3b98e9bbd6ac.jpg",
+                    "Url": "\/profile\/akreyii\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 171344,
+                    "Name": "Totize",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/171344\/8c29dc13-9b14-438f-a8b7-353fd94c9d98.jpg",
+                    "Url": "\/profile\/Totize\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 103951,
+                    "Name": "woolyback39",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/103951\/5c3ff4a5-b0ba-4250-a8cf-0be0cc3383a2.jpg",
+                    "Url": "\/profile\/woolyback39\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 10625,
+            "Posts": "105",
+            "Comments": "105",
+            "Followers": 278,
+            "PageViewsSplit": {
+                "Overview": 33867,
+                "Markets": 3262,
+                "Analysis": 1249,
+                "Charts": 2933,
+                "Trades": 1729,
+                "Orderbook": 21,
+                "Forum": 3461,
+                "Influence": 446
+            },
+            "PageViews": 46968
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1472211358",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1480449420",
+                    "closed_total_issues": "7",
+                    "size": "4263",
+                    "stars": 2,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1477371803",
+                    "open_pull_issues": "0",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/B3-Coin\/B3_Coin",
+                    "closed_issues": "3",
+                    "open_issues": "0",
+                    "subscribers": 3,
+                    "language": "C++",
+                    "closed_pull_issues": "4"
+                }
+            ],
+            "Points": 11
+        }
+    }
+}

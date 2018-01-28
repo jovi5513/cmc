@@ -1,0 +1,250 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "AMS",
+            "CoinName": "Amsterdam Coin",
+            "Type": "Webpagecoinp",
+            "Points": 768
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 187431,
+                    "Name": "Scorecoin",
+                    "FullName": "Scorecoin (SCORE)",
+                    "ImageUrl": "\/media\/1383813\/score.png",
+                    "Url": "\/coins\/score\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5328,
+                    "Name": "Sativa Coin",
+                    "FullName": "Sativa Coin (STV)",
+                    "ImageUrl": "\/media\/20444\/stv.png",
+                    "Url": "\/coins\/stv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7626,
+                    "Name": "Bitz Coin",
+                    "FullName": "Bitz Coin (BITZ)",
+                    "ImageUrl": "\/media\/20654\/bitz.png",
+                    "Url": "\/coins\/bitz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 26113,
+                    "Name": "Cryptodex",
+                    "FullName": "Cryptodex (CDX)",
+                    "ImageUrl": "\/media\/351404\/cdx.png",
+                    "Url": "\/coins\/cdx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6099,
+                    "Name": "SkullBuzz",
+                    "FullName": "SkullBuzz (SKB)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/skb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 360229,
+                    "Name": "CryptoInsight",
+                    "FullName": "CryptoInsight (TKR)",
+                    "ImageUrl": "\/media\/14761909\/tkr.png",
+                    "Url": "\/coins\/tkr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28216,
+                    "Name": "ZayedCoin",
+                    "FullName": "ZayedCoin (ZYD)",
+                    "ImageUrl": "\/media\/351510\/zyd.png",
+                    "Url": "\/coins\/zyd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30391,
+                    "Name": "Zurcoin",
+                    "FullName": "Zurcoin (ZUR)",
+                    "ImageUrl": "\/media\/351758\/zur.png",
+                    "Url": "\/coins\/zur\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 334997,
+                    "Name": "Eloplay",
+                    "FullName": "Eloplay (ELT)",
+                    "ImageUrl": "\/media\/12318259\/elt.png",
+                    "Url": "\/coins\/elt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42685,
+                    "Name": "Elysium",
+                    "FullName": "Elysium (ELS)",
+                    "ImageUrl": "\/media\/1382400\/els.png",
+                    "Url": "\/coins\/els\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 601168,
+                    "Name": "epbus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/601168\/0a9a8594-ec54-4999-a130-bd681f484b36.jpg",
+                    "Url": "\/profile\/epbus\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 547327,
+                    "Name": "mshihadeh3",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/547327\/0ff09252-4b5c-4357-9e92-74e6a63440a0.jpg",
+                    "Url": "\/profile\/mshihadeh3\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 539853,
+                    "Name": "slvcrypto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/539853\/66fc9802-b474-4e19-814d-75692cb6e239.jpg",
+                    "Url": "\/profile\/slvcrypto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 533245,
+                    "Name": "peasantj219",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/533245\/07900e53-fcb3-433e-bda1-997f593fbf40.jpg",
+                    "Url": "\/profile\/peasantj219\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 436128,
+                    "Name": "m.keitel",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/436128\/aa4770a8-0dce-4176-9e6c-29467920cfce.jpg",
+                    "Url": "\/profile\/m.keitel\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 364617,
+                    "Name": "SaffaCrypt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/364617\/a5a10250-9b87-4af8-b75d-9be67efa73eb.png",
+                    "Url": "\/profile\/SaffaCrypt\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 198974,
+                    "Name": "anhthao2208",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/198974\/71eb97ca-71e6-4e7d-82e6-7b99297b62be.jpg",
+                    "Url": "\/profile\/anhthao2208\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 218816,
+                    "Name": "ingenlogics.inc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/218816\/607be62e-73ed-443e-b47f-09cf4d808e3d.jpg",
+                    "Url": "\/profile\/ingenlogics.inc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 241642,
+                    "Name": "jaap",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/241642\/dfa34bb5-958c-493f-a8b1-06d488631b9e.jpg",
+                    "Url": "\/profile\/jaap\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 635,
+            "Followers": 23,
+            "Posts": "2",
+            "Comments": "1",
+            "PageViewsSplit": {
+                "Overview": 2002,
+                "Markets": 166,
+                "Analysis": 82,
+                "Charts": 152,
+                "Trades": 126,
+                "Orderbook": 2,
+                "Forum": 52,
+                "Influence": 81
+            },
+            "PageViews": 2663
+        },
+        "Twitter": {
+            "following": "1",
+            "account_creation": "1444595168",
+            "name": "AmsterdamCoin",
+            "lists": 1,
+            "statuses": 46,
+            "favourites": "1",
+            "followers": 90,
+            "link": "https:\/\/twitter.com\/amsterdam_coin",
+            "Points": 95
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "comments_per_hour": "0.00",
+            "posts_per_day": "0.00",
+            "comments_per_day": 0.09,
+            "name": "AmsterdamCoinOfficial",
+            "link": "https:\/\/www.reddit.com\/r\/AmsterdamCoinOfficial\/",
+            "active_users": 4,
+            "community_creation": "1446492076",
+            "subscribers": 5,
+            "Points": 17
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1488190269",
+                    "open_total_issues": "3",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "4968",
+                    "closed_total_issues": "2",
+                    "stars": 1,
+                    "last_update": "1514477105",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/CoinProjects\/AmsterdamCoin",
+                    "closed_issues": "2",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1493152781",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 6,
+                    "open_issues": "3"
+                }
+            ],
+            "Points": 21
+        }
+    }
+}

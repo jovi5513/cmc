@@ -1,0 +1,271 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PAY",
+            "CoinName": "TenX",
+            "Type": "Webpagecoinp",
+            "Points": 222722
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4592,
+                    "Name": "ReddCoin",
+                    "FullName": "ReddCoin (RDD)",
+                    "ImageUrl": "\/media\/19887\/rdd.png",
+                    "Url": "\/coins\/rdd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5018,
+                    "Name": "VertCoin",
+                    "FullName": "VertCoin (VTC)",
+                    "ImageUrl": "\/media\/19945\/vtc.png",
+                    "Url": "\/coins\/vtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20131,
+                    "Name": "Waves",
+                    "FullName": "Waves (WAVES)",
+                    "ImageUrl": "\/media\/350884\/waves_1.png",
+                    "Url": "\/coins\/waves\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 347235,
+                    "Name": "Bitcoin Gold",
+                    "FullName": "Bitcoin Gold (BTG)",
+                    "ImageUrl": "\/media\/12318377\/btg.png",
+                    "Url": "\/coins\/btg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 361881,
+                    "Name": "Electroneum",
+                    "FullName": "Electroneum (ETN)",
+                    "ImageUrl": "\/media\/14761932\/electroneum.png",
+                    "Url": "\/coins\/etn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 17778,
+                    "Name": "Augur",
+                    "FullName": "Augur (REP)",
+                    "ImageUrl": "\/media\/350815\/augur-logo.png",
+                    "Url": "\/coins\/rep\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 166390,
+                    "Name": "Tezos",
+                    "FullName": "Tezos (XTZ)",
+                    "ImageUrl": "\/media\/1383651\/xbt.png",
+                    "Url": "\/coins\/xtz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32699,
+                    "Name": "ARK",
+                    "FullName": "ARK (ARK)",
+                    "ImageUrl": "\/media\/351931\/ark.png",
+                    "Url": "\/coins\/ark\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20333,
+                    "Name": "Steem",
+                    "FullName": "Steem (STEEM)",
+                    "ImageUrl": "\/media\/350907\/steem.png",
+                    "Url": "\/coins\/steem\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 112392,
+                    "Name": "QTUM",
+                    "FullName": "QTUM (QTUM)",
+                    "ImageUrl": "\/media\/1383382\/qtum.png",
+                    "Url": "\/coins\/qtum\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 344216,
+                    "Name": "one.two.free",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/344216\/13731b50-de6c-4c00-abfe-034ed4cccc04.png",
+                    "Url": "\/profile\/one.two.free\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 532766,
+                    "Name": "GreenGurly",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/532766\/804698b8-22d1-44b6-a518-16e1106ed970.jpg",
+                    "Url": "\/profile\/GreenGurly\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 673572,
+                    "Name": "greg.ys.chang",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673572\/a297b65a-10c2-4f0e-9d2f-183b3a73b873.jpg",
+                    "Url": "\/profile\/greg.ys.chang\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 209385,
+                    "Name": "DBD49B3B",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/209385\/6a3e2d1f-61d9-4e68-afd9-a65309588573.jpg",
+                    "Url": "\/profile\/DBD49B3B\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 438968,
+                    "Name": "fxgreenhawk",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/438968\/5a26a32e-2e4f-4e26-84a3-421a173d342f.png",
+                    "Url": "\/profile\/fxgreenhawk\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 632357,
+                    "Name": "keegan.ead",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/632357\/2a941c71-a978-424b-abc3-d7b4f2f2b90e.jpg",
+                    "Url": "\/profile\/keegan.ead\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 382141,
+                    "Name": "didimccoy",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/382141\/594a2ce4-8fce-48f7-9db5-80745386d743.jpg",
+                    "Url": "\/profile\/didimccoy\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 32215,
+                    "Name": "Bitaware",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/32215\/452fd030-b555-4738-af94-8c10c993716f.jpg",
+                    "Url": "\/profile\/Bitaware\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 571653,
+                    "Name": "alvaros",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/571653\/c8e29130-b903-4fb1-905b-02473aa4e5b9.jpg",
+                    "Url": "\/profile\/alvaros\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 54035,
+            "Followers": 1734,
+            "Posts": "259",
+            "Comments": "421",
+            "PageViewsSplit": {
+                "Overview": 119487,
+                "Markets": 5636,
+                "Analysis": 2122,
+                "Charts": 21738,
+                "Trades": 2957,
+                "Orderbook": 77,
+                "Forum": 13372,
+                "Influence": 727
+            },
+            "PageViews": 166116
+        },
+        "Twitter": {
+            "following": "59",
+            "account_creation": "1450365718",
+            "name": "TenX",
+            "lists": 1232,
+            "statuses": 1361,
+            "favourites": "1077",
+            "followers": 112728,
+            "link": "https:\/\/twitter.com\/tenxwallet",
+            "Points": 118889
+        },
+        "Reddit": {
+            "posts_per_hour": "0.26",
+            "comments_per_hour": "4.05",
+            "posts_per_day": "6.23",
+            "comments_per_day": 97.13,
+            "name": "TenX",
+            "link": "https:\/\/www.reddit.com\/r\/TenX\/",
+            "active_users": 2706,
+            "community_creation": "1496736783",
+            "subscribers": 12102,
+            "Points": 20414
+        },
+        "Facebook": {
+            "likes": 29365,
+            "link": "https:\/\/www.facebook.com\/tenxwallet\/",
+            "is_closed": "false",
+            "talking_about": "1930",
+            "name": "TenX",
+            "Points": 29365
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1425484378",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "InternalId": 3807,
+                        "Name": "dash",
+                        "Url": "https:\/\/github.com\/dashpay\/dash",
+                        "InternalData": {
+                            "Id": 3807,
+                            "Name": "DigitalCash",
+                            "Symbol": "DASH",
+                            "ImageUrl": "\/media\/20626\/imageedit_27_4355944719.png",
+                            "Type": "Webpagecoinp",
+                            "Url": "\/coins\/dash\/"
+                        }
+                    },
+                    "size": "67317",
+                    "closed_total_issues": "0",
+                    "stars": 0,
+                    "last_update": "1426626836",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/wonko433\/epay",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "true",
+                    "last_push": "1426448008",
+                    "source": {
+                        "InternalId": 1182,
+                        "Name": "bitcoin",
+                        "Url": "https:\/\/github.com\/bitcoin\/bitcoin",
+                        "InternalData": {
+                            "Id": 1182,
+                            "Name": "Bitcoin",
+                            "Symbol": "BTC",
+                            "ImageUrl": "\/media\/19633\/btc.png",
+                            "Type": "Webpagecoinp",
+                            "Url": "\/coins\/btc\/"
+                        }
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 1,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

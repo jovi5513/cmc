@@ -1,0 +1,221 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "WABI",
+            "CoinName": "WaBi",
+            "Type": "Webpagecoinp",
+            "Points": 39491
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 116180,
+                    "Name": "ZenCash",
+                    "FullName": "ZenCash (ZEN)",
+                    "ImageUrl": "\/media\/1383502\/zen.png",
+                    "Url": "\/coins\/zen\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22327,
+                    "Name": "Bancor Network Token",
+                    "FullName": "Bancor Network Token (BNT)",
+                    "ImageUrl": "\/media\/1383549\/bnt.jpg",
+                    "Url": "\/coins\/bnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 208914,
+                    "Name": "Monetha",
+                    "FullName": "Monetha (MTH)",
+                    "ImageUrl": "\/media\/1383976\/mth.png",
+                    "Url": "\/coins\/mth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 299397,
+                    "Name": "Waltonchain",
+                    "FullName": "Waltonchain (WTC)",
+                    "ImageUrl": "\/media\/12317959\/wtc.png",
+                    "Url": "\/coins\/wtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 335059,
+                    "Name": "Request Network",
+                    "FullName": "Request Network (REQ)",
+                    "ImageUrl": "\/media\/12318260\/req.png",
+                    "Url": "\/coins\/req\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29348,
+                    "Name": "Peerplays",
+                    "FullName": "Peerplays (PPY)",
+                    "ImageUrl": "\/media\/351630\/peerplays.png",
+                    "Url": "\/coins\/ppy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 12194,
+                    "Name": "Expanse",
+                    "FullName": "Expanse (EXP)",
+                    "ImageUrl": "\/media\/20707\/exp.png",
+                    "Url": "\/coins\/exp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20730,
+                    "Name": "AeonCoin",
+                    "FullName": "AeonCoin (AEON)",
+                    "ImageUrl": "\/media\/350955\/aeon.png",
+                    "Url": "\/coins\/aeon\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 67447,
+                    "Name": "Lunyr",
+                    "FullName": "Lunyr (LUN)",
+                    "ImageUrl": "\/media\/1383112\/lunyr-logo.png",
+                    "Url": "\/coins\/lun\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20157,
+                    "Name": "Gamecredits",
+                    "FullName": "Gamecredits (GAME)",
+                    "ImageUrl": "\/media\/350887\/game.png",
+                    "Url": "\/coins\/game\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 162207,
+                    "Name": "ryan.dolder",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/162207\/a5c4e031-9f96-4893-a85d-0ce4d4c7e17f.jpg",
+                    "Url": "\/profile\/ryan.dolder\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 649506,
+                    "Name": "stephmccarthy5",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/649506\/cd4cbc06-e7a6-4ae4-97df-737a3810d66e.jpg",
+                    "Url": "\/profile\/stephmccarthy5\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 671019,
+                    "Name": "Crypto2041",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/671019\/531ddf1a-3b0b-424b-8461-1306464c98c2.png",
+                    "Url": "\/profile\/Crypto2041\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 587131,
+                    "Name": "juanyvos",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/587131\/1f5dce10-6c87-4316-ad85-a1f058cd938f.jpg",
+                    "Url": "\/profile\/juanyvos\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 639110,
+                    "Name": "vigs1981",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/639110\/a995570c-75c4-4ec4-be66-17b735c43745.jpg",
+                    "Url": "\/profile\/vigs1981\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 636088,
+                    "Name": "kovach.d078",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/636088\/c9ebe457-5c99-405b-9560-0b09485a92a8.jpg",
+                    "Url": "\/profile\/kovach.d078\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 33687,
+                    "Name": "urban.bor.novak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/33687\/87ca8ac4-38a6-4594-9ede-29e953678265.jpg",
+                    "Url": "\/profile\/urban.bor.novak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 19653,
+                    "Name": "6171020",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/19653\/fd1b67db-d44a-42a9-90ca-f4eb1199ab5b.jpg",
+                    "Url": "\/profile\/6171020\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 671264,
+                    "Name": "f.kyriacou",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/671264\/0ecfa942-704d-484e-9ac3-7baa0347d2f8.jpg",
+                    "Url": "\/profile\/f.kyriacou\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 650135,
+                    "Name": "nerosgoethals",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/650135\/9952f964-afe4-4a9e-941e-d16f6ab0897f.jpg",
+                    "Url": "\/profile\/nerosgoethals\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 8810,
+            "Posts": "34",
+            "Comments": "36",
+            "Followers": 304,
+            "PageViewsSplit": {
+                "Overview": 25362,
+                "Markets": 1304,
+                "Analysis": 1328,
+                "Charts": 2155,
+                "Trades": 421,
+                "Orderbook": 3,
+                "Forum": 1934,
+                "Influence": 203
+            },
+            "PageViews": 32710
+        },
+        "Twitter": {
+            "favourites": "472",
+            "statuses": 456,
+            "following": "115",
+            "account_creation": "1499937112",
+            "followers": 21783,
+            "name": "WaBi \/ Walimai",
+            "link": "https:\/\/twitter.com\/wabiico",
+            "lists": 227,
+            "Points": 22918
+        },
+        "Reddit": {
+            "posts_per_hour": "0.18",
+            "link": "https:\/\/www.reddit.com\/r\/WabiToken\/",
+            "comments_per_hour": "1.15",
+            "posts_per_day": "4.34",
+            "active_users": 245,
+            "community_creation": "1509827631",
+            "subscribers": 6970,
+            "comments_per_day": 27.55,
+            "name": "WabiToken",
+            "Points": 7760
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

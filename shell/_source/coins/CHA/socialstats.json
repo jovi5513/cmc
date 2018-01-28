@@ -1,0 +1,147 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CHA",
+            "CoinName": "Charity Coin",
+            "Type": "Webpagecoinp",
+            "Points": 75
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 32785,
+                    "Name": "Zcrypt",
+                    "FullName": "Zcrypt (ZXT)",
+                    "ImageUrl": "\/media\/351936\/zxt.png",
+                    "Url": "\/coins\/zxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29758,
+                    "Name": "AntiLitecoin",
+                    "FullName": "AntiLitecoin (ANTC)",
+                    "ImageUrl": "\/media\/351690\/antc.png",
+                    "Url": "\/coins\/antc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4572,
+                    "Name": "Nybble",
+                    "FullName": "Nybble (NBL)",
+                    "ImageUrl": "\/media\/19825\/nbl.png",
+                    "Url": "\/coins\/nbl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 339431,
+                    "Name": "Kolion",
+                    "FullName": "Kolion (KOLION)",
+                    "ImageUrl": "\/media\/12318295\/kolion.png",
+                    "Url": "\/coins\/kolion\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4543,
+                    "Name": "JunkCoin",
+                    "FullName": "JunkCoin (JKC)",
+                    "ImageUrl": "\/media\/19757\/jkc.png",
+                    "Url": "\/coins\/jkc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28176,
+                    "Name": "TDFB",
+                    "FullName": "TDFB (TDFB)",
+                    "ImageUrl": "\/media\/351507\/tdfb.png",
+                    "Url": "\/coins\/tdfb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5329,
+                    "Name": "EbolaShare",
+                    "FullName": "EbolaShare (EBS)",
+                    "ImageUrl": "\/media\/20267\/ebs.png",
+                    "Url": "\/coins\/ebs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30568,
+                    "Name": "AndromedaCoin",
+                    "FullName": "AndromedaCoin (AND)",
+                    "ImageUrl": "\/media\/351797\/and.png",
+                    "Url": "\/coins\/and\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182463,
+                    "Name": "Ammo Rewards",
+                    "FullName": "Ammo Rewards (AMMO)",
+                    "ImageUrl": "\/media\/1383778\/ammo.png",
+                    "Url": "\/coins\/ammo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 619929,
+                    "Name": "Accolade",
+                    "FullName": "Accolade (ACCO)",
+                    "ImageUrl": "\/media\/20780654\/acco.png",
+                    "Url": "\/coins\/acco\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 257271,
+                    "Name": "kellykampen",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/257271\/04d8b809-49e2-4de8-9483-737391632c31.jpg",
+                    "Url": "\/profile\/kellykampen\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 25774,
+                    "Name": "rouhaibi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/25774\/37f4a176-30ff-4602-84fc-2fb528a58f17.jpg",
+                    "Url": "\/profile\/rouhaibi\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 273,
+                "Markets": 17,
+                "Analysis": 28,
+                "Charts": 17,
+                "Trades": 13,
+                "Orderbook": 2,
+                "Forum": 33,
+                "Influence": 7
+            },
+            "PageViews": 390
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CAIx",
+            "CoinName": "CAIx",
+            "Type": "Webpagecoinp",
+            "Points": 15627
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28652,
+                    "Name": "Ubiqoin",
+                    "FullName": "Ubiqoin (UBIQ)",
+                    "ImageUrl": "\/media\/351544\/ubiq.png",
+                    "Url": "\/coins\/ubiq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 15282,
+                    "Name": "CapriCoin",
+                    "FullName": "CapriCoin (CPC)",
+                    "ImageUrl": "\/media\/350560\/cpc.png",
+                    "Url": "\/coins\/cpc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 344086,
+                    "Name": "Playkey",
+                    "FullName": "Playkey (PKT)",
+                    "ImageUrl": "\/media\/12318349\/playkey.png",
+                    "Url": "\/coins\/pkt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 116425,
+                    "Name": "Qwark",
+                    "FullName": "Qwark (QWARK)",
+                    "ImageUrl": "\/media\/1383522\/qwark.png",
+                    "Url": "\/coins\/qwark\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 57676,
+                    "Name": "AMIS",
+                    "FullName": "AMIS (AMIS)",
+                    "ImageUrl": "\/media\/1382862\/amis.png",
+                    "Url": "\/coins\/amis\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 328667,
+                    "Name": "Cryptonetix",
+                    "FullName": "Cryptonetix (CIX)",
+                    "ImageUrl": "\/media\/12318222\/cnxasterisco.png",
+                    "Url": "\/coins\/cix\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20748,
+                    "Name": "EuropeCoin",
+                    "FullName": "EuropeCoin (ERC)",
+                    "ImageUrl": "\/media\/350960\/erc.png",
+                    "Url": "\/coins\/erc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 362769,
+                    "Name": "Xenon",
+                    "FullName": "Xenon (XNN)",
+                    "ImageUrl": "\/media\/14761938\/xnn.png",
+                    "Url": "\/coins\/xnn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34324,
+                    "Name": "XenixCoin",
+                    "FullName": "XenixCoin (XEN)",
+                    "ImageUrl": "\/media\/352119\/xen.jpg",
+                    "Url": "\/coins\/xen\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 357413,
+                    "Name": "CyberTrust",
+                    "FullName": "CyberTrust (CABS*)",
+                    "ImageUrl": "\/media\/14761917\/ctst.png",
+                    "Url": "\/coins\/cabsstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 302026,
+                    "Name": "gregorecris",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/302026\/7470d3fa-b26e-4555-b149-ebf8bde4316a.jpg",
+                    "Url": "\/profile\/gregorecris\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 301458,
+                    "Name": "itmel33",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/301458\/8c7c2133-cf34-4e92-9419-55dc84c535d7.jpg",
+                    "Url": "\/profile\/itmel33\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 46474,
+                    "Name": "MR173",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/46474\/7a5d721a-9732-4fb9-b649-171426e6336c.jpg",
+                    "Url": "\/profile\/MR173\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 86333,
+                    "Name": "87D938D4",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/86333\/dcd0fd1f-ea5c-4558-940a-eb5cde191341.jpg",
+                    "Url": "\/profile\/87D938D4\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 62874,
+                    "Name": "yashpalgreat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/62874\/2b209683-1742-41bf-b2bf-f937e2291898.jpg",
+                    "Url": "\/profile\/yashpalgreat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 175,
+            "Followers": 7,
+            "PageViewsSplit": {
+                "Overview": 593,
+                "Markets": 18,
+                "Analysis": 25,
+                "Charts": 13,
+                "Trades": 17,
+                "Orderbook": 1,
+                "Forum": 29,
+                "Influence": 4
+            },
+            "PageViews": 700
+        },
+        "Twitter": {
+            "favourites": "351",
+            "statuses": 35092,
+            "following": "9329",
+            "account_creation": "1389928531",
+            "followers": 12275,
+            "name": "Joseph Stuhlman",
+            "link": "https:\/\/twitter.com\/JStuhlman",
+            "lists": 624,
+            "Points": 15430
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "link": "https:\/\/www.reddit.com\/r\/CAIx\/",
+            "comments_per_hour": "0.00",
+            "posts_per_day": "0.01",
+            "active_users": 3,
+            "community_creation": "1399818848",
+            "comments_per_day": 0,
+            "subscribers": 13,
+            "name": "caix",
+            "Points": 22
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

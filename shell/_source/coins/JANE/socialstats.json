@@ -1,0 +1,232 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "JANE",
+            "CoinName": "JaneCoin",
+            "Type": "Webpagecoinp",
+            "Points": 377
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4560,
+                    "Name": "MediterraneanCoin",
+                    "FullName": "MediterraneanCoin (MED)",
+                    "ImageUrl": "\/media\/20046\/med.png",
+                    "Url": "\/coins\/med\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41125,
+                    "Name": "BitBoss",
+                    "FullName": "BitBoss (BOSS)",
+                    "ImageUrl": "\/media\/1382289\/boss.png",
+                    "Url": "\/coins\/boss\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6101,
+                    "Name": "CryptoFocus",
+                    "FullName": "CryptoFocus (FCS)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/fcs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29196,
+                    "Name": "FireCoin",
+                    "FullName": "FireCoin (FIRE)",
+                    "ImageUrl": "\/media\/351625\/fire.png",
+                    "Url": "\/coins\/fire\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 201896,
+                    "Name": "Arena",
+                    "FullName": "Arena (ARENA)",
+                    "ImageUrl": "\/media\/12318225\/arena.png",
+                    "Url": "\/coins\/arena\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4554,
+                    "Name": "LitecoinDark",
+                    "FullName": "LitecoinDark (LTCD)",
+                    "ImageUrl": "\/media\/20043\/ltcd.png",
+                    "Url": "\/coins\/ltcd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34334,
+                    "Name": "iWallet",
+                    "FullName": "iWallet (IW)",
+                    "ImageUrl": "\/media\/352121\/iw.png",
+                    "Url": "\/coins\/iw\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5382,
+                    "Name": "SlimCoin",
+                    "FullName": "SlimCoin (SLM)",
+                    "ImageUrl": "\/media\/20426\/slm.png",
+                    "Url": "\/coins\/slm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34493,
+                    "Name": "PLNCoin",
+                    "FullName": "PLNCoin (PLNC)",
+                    "ImageUrl": "\/media\/352131\/plnc.png",
+                    "Url": "\/coins\/plnc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4609,
+                    "Name": "Spots",
+                    "FullName": "Spots (SPT)",
+                    "ImageUrl": "\/media\/19917\/spt.png",
+                    "Url": "\/coins\/spt\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 640905,
+                    "Name": "Lana420",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/640905\/2a057ad4-6aed-4d90-bb59-d1dcc64fb5f6.jpg",
+                    "Url": "\/profile\/Lana420\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 124658,
+                    "Name": "MAHDIAGER",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/124658\/60590893-fea1-4054-bebc-ad243030163a.jpg",
+                    "Url": "\/profile\/MAHDIAGER\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 300410,
+                    "Name": "merukomeem",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/300410\/9ec43b85-b22a-46a6-9213-d5ca491b37b1.png",
+                    "Url": "\/profile\/merukomeem\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 471172,
+                    "Name": "coin.er1980",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/471172\/cd48b365-662e-4d28-9da1-eba3f70bf368.jpg",
+                    "Url": "\/profile\/coin.er1980\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 462728,
+                    "Name": "pdolleman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/462728\/68be93d1-ae13-4bdd-8085-1b45d9f62baa.jpg",
+                    "Url": "\/profile\/pdolleman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 420823,
+                    "Name": "mikebdtb6179",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/420823\/089b7142-b218-4ca5-a439-1850527af52c.jpg",
+                    "Url": "\/profile\/mikebdtb6179\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 434336,
+                    "Name": "cengiz.cinar.95",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/434336\/527451f4-adef-4e5a-aed6-86092220d6f8.jpg",
+                    "Url": "\/profile\/cengiz.cinar.95\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 357214,
+                    "Name": "gamemaster2001",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/357214\/e4ea5094-42e5-4c33-a402-34e477d75f7b.jpg",
+                    "Url": "\/profile\/gamemaster2001\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 132499,
+                    "Name": "zakraoui07",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/132499\/46605125-dde6-45be-9a12-eda7c969de04.jpg",
+                    "Url": "\/profile\/zakraoui07\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 127323,
+                    "Name": "rafa_lenda",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/127323\/b38338b2-25f0-4d80-8cac-789a9ec77b2a.jpg",
+                    "Url": "\/profile\/rafa_lenda\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 13,
+            "Points": 375,
+            "Posts": "2",
+            "PageViewsSplit": {
+                "Overview": 892,
+                "Markets": 79,
+                "Analysis": 30,
+                "Charts": 50,
+                "Trades": 36,
+                "Orderbook": 0,
+                "Forum": 14,
+                "Influence": 8
+            },
+            "PageViews": 1109
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 1,
+                    "open_total_issues": "0",
+                    "subscribers": 0,
+                    "size": "1594",
+                    "url": "https:\/\/github.com\/janecoindev\/jane",
+                    "last_update": "1480446447",
+                    "last_push": "1480446442",
+                    "created_at": "1480446425",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 2
+        }
+    }
+}

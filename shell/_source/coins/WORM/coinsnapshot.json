@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 223666,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 112664039.36964,
+        "BlockReward": 15.825433070852,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "WORM",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "7e-8",
+            "LASTUPDATE": "1510462632",
+            "LASTVOLUME": "1423.138",
+            "LASTVOLUMETO": "0.00009961966",
+            "LASTTRADEID": "1510462632001",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "7e-8",
+            "HIGHDAY": "7e-8",
+            "LOWDAY": "7e-8",
+            "OPEN24HOUR": "7e-8",
+            "HIGH24HOUR": "7e-8",
+            "LOW24HOUR": "7e-8",
+            "LASTMARKET": "Novaexchange"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Novaexchange",
+                "FROMSYMBOL": "WORM",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "7e-8",
+                "LASTUPDATE": "1510462632",
+                "LASTVOLUME": "1423.138",
+                "LASTVOLUMETO": "0.00009961966",
+                "LASTTRADEID": "1510462632001",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "7e-8",
+                "HIGH24HOUR": "7e-8",
+                "LOW24HOUR": "7e-8"
+            }
+        ]
+    },
+    "Type": 100
+}

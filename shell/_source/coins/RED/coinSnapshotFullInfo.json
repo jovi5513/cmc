@@ -1,0 +1,82 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Redcoin (RED) - Live streaming prices and market cap",
+            "PageDescription": "Live Redcoin prices from all markets and RED coin market Capitalization. Stay up to date with the latest Redcoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1383265\/red.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "79864",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Redcoin (RED)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "RED",
+            "Url": "\/coins\/red\/",
+            "BaseAngularUrl": "\/coins\/red\/",
+            "Name": "Redcoin",
+            "ImageUrl": "\/media\/1383265\/red.png",
+            "Description": "<p>Redcoin is a Proof of Work cryptocurrency based on the Scrypt algorithm.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "30\/06\/2013",
+            "Twitter": "",
+            "AffiliateUrl": "http:\/\/redcoin.pw\/",
+            "Website": "<a href='http:\/\/redcoin.pw\/' target='_blank'>Redcoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515981523,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 2067829,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 28723706723.521,
+            "PreviousTotalCoinsMined": 28723703005.811,
+            "BlockReward": 550.04372651236
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptsy~RED~LTC",
+            "2~Cryptopia~RED~XMR",
+            "2~Coinse~RED~BTC",
+            "2~BTER~RED~CNY",
+            "2~Cryptopia~RED~DOGE",
+            "2~Cryptopia~RED~BTC",
+            "2~Cryptopia~RED~FTC",
+            "2~Cryptopia~RED~POP",
+            "2~Cryptopia~RED~DOT",
+            "2~Cryptopia~RED~LTC",
+            "2~BTER~RED~LTC",
+            "2~Cryptopia~RED~UNO"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~RED~LTC~4~0.000081~1515194578~1483.12169986~0.12013286~1515194578~0~0~0~0~0.000081~0.000081~0.000081~0.000081~0.000081~0.000081~Cryptopia~7ffe9",
+            "5~CCCAGG~RED~XMR~4~0.00009001~1472031159~2.18193084~0.000196~1472031159~0~0~0~0~0.00009001~0.00009001~0.00009001~0.00009001~0.00009001~0.00009001~Cryptopia~7ffe9",
+            "5~CCCAGG~RED~BTC~1~0.00000172~1515981312~10037.03575508~0.0172637~1515981312~84083.65212467998~0.13716007~1002885.3785133399~1.51878624~0.00000152~0.00000172~0.00000152~0.00000157~0.00000172~0.00000135~Cryptopia~7ffe9",
+            "5~CCCAGG~RED~CNY~4~0.0031~1483587351~1858.088~5.7600728~13849259~0~0~0~0~0.0031~0.0031~0.0031~0.0031~0.0031~0.0031~BTER~7ffe9",
+            "5~CCCAGG~RED~DOGE~4~1.75~1515195621~2689.28342798~4706.24599896~1515195621~0~0~0~0~1.75~1.75~1.75~1.75~1.75~1.75~Cryptopia~7ffe9",
+            "5~CCCAGG~RED~FTC~4~0.07899999~1485035216~0.0556813~0.004399~1485035216~0~0~0~0~0.07899999~0.07899999~0.07899999~0.07899999~0.07899999~0.07899999~Cryptopia~7ffe9",
+            "5~CCCAGG~RED~POP~4~75~1457666093~1.16501336~87.376002~1457666093~0~0~0~0~75~75~75~75~75~75~Cryptopia~7ffe9",
+            "5~CCCAGG~RED~DOT~4~0.04900034~1488035580~0.75~0.03675~1488035580~0~0~0~0~0.04900034~0.04900034~0.04900034~0.04900034~0.04900034~0.04900034~Cryptopia~7ffe9",
+            "5~CCCAGG~RED~UNO~4~0.0001~1496540192~40.96015461~0.00409602~1496540192~0~0~0~0~0.0001~0.0001~0.0001~0.0001~0.0001~0.0001~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

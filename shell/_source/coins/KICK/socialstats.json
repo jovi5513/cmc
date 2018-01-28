@@ -1,0 +1,226 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "KICK",
+            "CoinName": "KickCoin",
+            "Type": "Webpagecoinp",
+            "Points": 47949
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20196,
+                    "Name": "Dashcoin",
+                    "FullName": "Dashcoin (DSH)",
+                    "ImageUrl": "\/media\/20026\/dash.png",
+                    "Url": "\/coins\/dsh\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 240142,
+                    "Name": "Wanchain",
+                    "FullName": "Wanchain (WAN)",
+                    "ImageUrl": "\/media\/9350742\/wan.jpg",
+                    "Url": "\/coins\/wan\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43044,
+                    "Name": "Ubiq",
+                    "FullName": "Ubiq (UBQ)",
+                    "ImageUrl": "\/media\/1382441\/ubq.png",
+                    "Url": "\/coins\/ubq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22015,
+                    "Name": "Rise",
+                    "FullName": "Rise (RISE)",
+                    "ImageUrl": "\/media\/351059\/rise.png",
+                    "Url": "\/coins\/rise\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 418778,
+                    "Name": "EthLend",
+                    "FullName": "EthLend (LEND)",
+                    "ImageUrl": "\/media\/16746444\/lend.png",
+                    "Url": "\/coins\/lend\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185689,
+                    "Name": "BitClave",
+                    "FullName": "BitClave (CAT*)",
+                    "ImageUrl": "\/media\/20780714\/cat.png",
+                    "Url": "\/coins\/cat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30022,
+                    "Name": "ZCoin",
+                    "FullName": "ZCoin (XZC)",
+                    "ImageUrl": "\/media\/1382780\/xzc1.png",
+                    "Url": "\/coins\/xzc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 116180,
+                    "Name": "ZenCash",
+                    "FullName": "ZenCash (ZEN)",
+                    "ImageUrl": "\/media\/1383502\/zen.png",
+                    "Url": "\/coins\/zen\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22327,
+                    "Name": "Bancor Network Token",
+                    "FullName": "Bancor Network Token (BNT)",
+                    "ImageUrl": "\/media\/1383549\/bnt.jpg",
+                    "Url": "\/coins\/bnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 208914,
+                    "Name": "Monetha",
+                    "FullName": "Monetha (MTH)",
+                    "ImageUrl": "\/media\/1383976\/mth.png",
+                    "Url": "\/coins\/mth\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 663379,
+                    "Name": "andrewm.wells91",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/663379\/0b5fe337-05f2-4605-904b-5d335da2414b.jpg",
+                    "Url": "\/profile\/andrewm.wells91\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 610804,
+                    "Name": "1973n21",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/610804\/313165b7-1494-4b08-90ef-1b17db52504f.jpg",
+                    "Url": "\/profile\/1973n21\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674699,
+                    "Name": "m.veretennikov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674699\/d1f60ce7-a8e8-4c27-a97c-9d2339e92207.png",
+                    "Url": "\/profile\/m.veretennikov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674323,
+                    "Name": "andref1976",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674323\/d70cefd9-bf56-4209-a3b4-df09978451f7.jpg",
+                    "Url": "\/profile\/andref1976\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 531892,
+                    "Name": "deansolloway",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/531892\/4f8c7966-76ce-47ad-aa31-60d5f590ae30.jpg",
+                    "Url": "\/profile\/deansolloway\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 664570,
+                    "Name": "egoitzbcn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/664570\/9ab0a74e-793d-47ae-90b9-7270fb5bbde0.jpg",
+                    "Url": "\/profile\/egoitzbcn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 659818,
+                    "Name": "e.w.carruthers",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/659818\/43c260b2-b330-4d6c-ae15-da723905c331.jpg",
+                    "Url": "\/profile\/e.w.carruthers\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 610037,
+                    "Name": "apgardner23",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/610037\/81ee4afd-246b-4756-a910-b3ed7f23dea9.jpg",
+                    "Url": "\/profile\/apgardner23\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 530003,
+                    "Name": "mauriziopossenti",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/530003\/591e80d1-20f6-4628-a8b3-da1ded9120fe.jpg",
+                    "Url": "\/profile\/mauriziopossenti\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 654854,
+                    "Name": "serg.chupak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/654854\/220eb129-169b-4e12-be11-1d6d7d48025d.jpg",
+                    "Url": "\/profile\/serg.chupak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 597880,
+                    "Name": "estmstudio",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/597880\/a76fbb87-3fad-4e76-9874-608aa6b1cc1b.jpg",
+                    "Url": "\/profile\/estmstudio\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 17040,
+            "Posts": "79",
+            "Comments": "124",
+            "Followers": 553,
+            "PageViewsSplit": {
+                "Overview": 55641,
+                "Markets": 4660,
+                "Analysis": 1521,
+                "Charts": 3862,
+                "Trades": 2228,
+                "Orderbook": 95,
+                "Forum": 4194,
+                "Influence": 656
+            },
+            "PageViews": 72857
+        },
+        "Twitter": {
+            "favourites": "730",
+            "statuses": 833,
+            "following": "552",
+            "account_creation": "1496935290",
+            "followers": 9589,
+            "name": "KICKICO.COM",
+            "link": "https:\/\/twitter.com\/KICKICOplatform",
+            "lists": 122,
+            "Points": 10199
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "link": "https:\/\/www.reddit.com\/r\/KickICO\/",
+            "comments_per_hour": "0.01",
+            "posts_per_day": "0.05",
+            "active_users": 6,
+            "community_creation": "1499968122",
+            "subscribers": 125,
+            "name": "KickICO",
+            "comments_per_day": 0.17,
+            "Points": 143
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "964",
+            "name": "Kickico",
+            "likes": 20560,
+            "link": "https:\/\/www.facebook.com\/kickicoplatform\/",
+            "Points": 20560
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

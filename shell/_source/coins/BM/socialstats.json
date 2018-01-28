@@ -1,0 +1,190 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BM",
+            "CoinName": "BitMoon",
+            "Type": "Webpagecoinp",
+            "Points": 128
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28317,
+                    "Name": "TodayCoin",
+                    "FullName": "TodayCoin (TODAY)",
+                    "ImageUrl": "\/media\/351521\/today.png",
+                    "Url": "\/coins\/today\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 63312,
+                    "Name": "EmporiumCoin",
+                    "FullName": "EmporiumCoin (EMPC)",
+                    "ImageUrl": "\/media\/1383081\/empc.png",
+                    "Url": "\/coins\/empc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28330,
+                    "Name": "Gold Pressed Latinum",
+                    "FullName": "Gold Pressed Latinum (GPL)",
+                    "ImageUrl": "\/media\/351525\/gpl.png",
+                    "Url": "\/coins\/gpl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22177,
+                    "Name": "Obscurebay",
+                    "FullName": "Obscurebay (OBS)",
+                    "ImageUrl": "\/media\/351064\/obs.png",
+                    "Url": "\/coins\/obs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 667444,
+                    "Name": "TheGCCcoin",
+                    "FullName": "TheGCCcoin (GCC*)",
+                    "ImageUrl": "\/media\/20780778\/gcc.png",
+                    "Url": "\/coins\/gccstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35226,
+                    "Name": "ShortyCoin",
+                    "FullName": "ShortyCoin (SHORTY)",
+                    "ImageUrl": "\/media\/352222\/shorty.png",
+                    "Url": "\/coins\/shorty\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43257,
+                    "Name": "SmurfCoin",
+                    "FullName": "SmurfCoin (SMF)",
+                    "ImageUrl": "\/media\/1382468\/xmf.png",
+                    "Url": "\/coins\/smf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44749,
+                    "Name": "ErrorCoin",
+                    "FullName": "ErrorCoin (ERR)",
+                    "ImageUrl": "\/media\/1382624\/err.png",
+                    "Url": "\/coins\/err\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7624,
+                    "Name": "SpinCoin",
+                    "FullName": "SpinCoin (SPC)",
+                    "ImageUrl": "\/media\/20655\/spc.png",
+                    "Url": "\/coins\/spc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35947,
+                    "Name": "NewInvestCoin",
+                    "FullName": "NewInvestCoin (NIC)",
+                    "ImageUrl": "\/media\/352309\/nic.png",
+                    "Url": "\/coins\/nic\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 316918,
+                    "Name": "ragwell",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/316918\/4e3c5f99-3a87-4292-a275-78fd492259f0.jpg",
+                    "Url": "\/profile\/ragwell\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 252990,
+                    "Name": "lkoomn01",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/252990\/f2ef4815-1dc3-461e-b184-cc3167586bae.jpg",
+                    "Url": "\/profile\/lkoomn01\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 57296,
+                    "Name": "lordbuckley1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/57296\/88e3fd7a-dc17-4314-a86b-a1b66ffc43ac.jpg",
+                    "Url": "\/profile\/lordbuckley1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 52167,
+                    "Name": "bentli67",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/52167\/b2a76863-f97e-47a4-8fdb-0bf7238a51ba.jpg",
+                    "Url": "\/profile\/bentli67\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 366,
+                "Markets": 12,
+                "Analysis": 62,
+                "Charts": 33,
+                "Trades": 53,
+                "Orderbook": 0,
+                "Forum": 12,
+                "Influence": 13
+            },
+            "PageViews": 551
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "36464",
+                    "url": "https:\/\/github.com\/BitMoon\/XBM",
+                    "last_update": "1468951266",
+                    "last_push": "1468942380",
+                    "created_at": "1468942309",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

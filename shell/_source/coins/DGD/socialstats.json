@@ -1,0 +1,221 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "DGD",
+            "CoinName": "Digix DAO",
+            "Type": "Webpagecoinp",
+            "Points": 23805
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 30736,
+                    "Name": "Byteball",
+                    "FullName": "Byteball (GBYTE)",
+                    "ImageUrl": "\/media\/351835\/bytes.png",
+                    "Url": "\/coins\/gbyte\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6103,
+                    "Name": "Nexus",
+                    "FullName": "Nexus (NXS)",
+                    "ImageUrl": "\/media\/1382387\/nexus.jpg",
+                    "Url": "\/coins\/nxs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185669,
+                    "Name": "InvestFeed",
+                    "FullName": "InvestFeed (IFT)",
+                    "ImageUrl": "\/media\/12318127\/ift.png",
+                    "Url": "\/coins\/ift\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186309,
+                    "Name": "Tierion",
+                    "FullName": "Tierion (TNT)",
+                    "ImageUrl": "\/media\/1383800\/tnt.png",
+                    "Url": "\/coins\/tnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 171986,
+                    "Name": "Tether",
+                    "FullName": "Tether (USDT)",
+                    "ImageUrl": "\/media\/1383672\/usdt.png",
+                    "Url": "\/coins\/usdt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 177863,
+                    "Name": "Santiment",
+                    "FullName": "Santiment (SAN)",
+                    "ImageUrl": "\/media\/1383730\/san.png",
+                    "Url": "\/coins\/san\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 194883,
+                    "Name": "Everex",
+                    "FullName": "Everex (EVX)",
+                    "ImageUrl": "\/media\/1383850\/evx.png",
+                    "Url": "\/coins\/evx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 213663,
+                    "Name": "FileCoin",
+                    "FullName": "FileCoin (FIL)",
+                    "ImageUrl": "\/media\/1383987\/fil.png",
+                    "Url": "\/coins\/fil\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25946,
+                    "Name": "Wings DAO",
+                    "FullName": "Wings DAO (WINGS)",
+                    "ImageUrl": "\/media\/1382758\/1wings.png",
+                    "Url": "\/coins\/wings\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 72438,
+                    "Name": "Humaniq",
+                    "FullName": "Humaniq (HMQ)",
+                    "ImageUrl": "\/media\/1383174\/hmq.png",
+                    "Url": "\/coins\/hmq\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 404238,
+                    "Name": "CryptoRiddle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/404238\/afb06b43-41db-46aa-a333-fa9d7aee48c0.jpg",
+                    "Url": "\/profile\/CryptoRiddle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 597966,
+                    "Name": "xavicn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/597966\/b9f73e52-440e-4b25-bde4-2af2bd4da86e.jpg",
+                    "Url": "\/profile\/xavicn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 651476,
+                    "Name": "pwsmolak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/651476\/b1db1d33-e8b2-4442-8eee-27cedfe6cb77.jpg",
+                    "Url": "\/profile\/pwsmolak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 654373,
+                    "Name": "dedeliciii.dede",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/654373\/22e86e48-c40e-4143-ae16-675eee6a3a68.jpg",
+                    "Url": "\/profile\/dedeliciii.dede\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 566743,
+                    "Name": "marc.buschor",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/566743\/9650cd9d-7582-41f6-b793-24ae7f88d0f7.jpg",
+                    "Url": "\/profile\/marc.buschor\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 485786,
+                    "Name": "russell.wilkie",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/485786\/3ff92ea6-2805-4611-80c0-c55cabdaf9ea.jpg",
+                    "Url": "\/profile\/russell.wilkie\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 567160,
+                    "Name": "ebocobena",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/567160\/b4811d5e-d95a-4646-a28e-82fb0e62bb00.jpg",
+                    "Url": "\/profile\/ebocobena\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 215841,
+                    "Name": "drivedog7",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/215841\/93649656-a33a-4199-bc2f-b80582f9c493.jpg",
+                    "Url": "\/profile\/drivedog7\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 473808,
+                    "Name": "robotexodus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/473808\/00d4303e-5380-4fb0-8899-5f353063b5e9.jpg",
+                    "Url": "\/profile\/robotexodus\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 596145,
+                    "Name": "witttrades",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596145\/8a549db1-e46a-4ada-ae9d-010e44dea40d.jpg",
+                    "Url": "\/profile\/witttrades\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 102330,
+                    "Name": "best4youteam",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/102330\/eca36c1c-6128-43f6-8eea-2bbe6bf4003c.jpg",
+                    "Url": "\/profile\/best4youteam\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 5550,
+            "Posts": "24",
+            "Comments": "15",
+            "Followers": 192,
+            "PageViewsSplit": {
+                "Overview": 17057,
+                "Markets": 1291,
+                "Analysis": 651,
+                "Charts": 2118,
+                "Trades": 1268,
+                "Orderbook": 13,
+                "Forum": 1026,
+                "Influence": 321
+            },
+            "PageViews": 23745
+        },
+        "Twitter": {
+            "favourites": "216",
+            "statuses": 374,
+            "following": "530",
+            "account_creation": "1418180091",
+            "followers": 8437,
+            "name": "DigixGlobal",
+            "link": "https:\/\/twitter.com\/DigixGlobal",
+            "lists": 277,
+            "Points": 9822
+        },
+        "Reddit": {
+            "posts_per_hour": "0.02",
+            "link": "https:\/\/www.reddit.com\/r\/digix\/",
+            "comments_per_hour": "0.10",
+            "posts_per_day": "0.44",
+            "active_users": 2183,
+            "community_creation": "1440056875",
+            "subscribers": 1878,
+            "comments_per_day": 2.45,
+            "name": "digix",
+            "Points": 8431
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

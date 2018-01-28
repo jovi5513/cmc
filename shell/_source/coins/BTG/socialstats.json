@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BTG",
+            "CoinName": "Bitcoin Gold",
+            "Type": "Webpagecoinp",
+            "Points": 165967
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 204788,
+                    "Name": "Binance Coin",
+                    "FullName": "Binance Coin (BNB)",
+                    "ImageUrl": "\/media\/1383947\/bnb.png",
+                    "Url": "\/coins\/bnb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 166503,
+                    "Name": "EOS",
+                    "FullName": "EOS (EOS)",
+                    "ImageUrl": "\/media\/1383652\/eos_1.png",
+                    "Url": "\/coins\/eos\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4592,
+                    "Name": "ReddCoin",
+                    "FullName": "ReddCoin (RDD)",
+                    "ImageUrl": "\/media\/19887\/rdd.png",
+                    "Url": "\/coins\/rdd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5018,
+                    "Name": "VertCoin",
+                    "FullName": "VertCoin (VTC)",
+                    "ImageUrl": "\/media\/19945\/vtc.png",
+                    "Url": "\/coins\/vtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20131,
+                    "Name": "Waves",
+                    "FullName": "Waves (WAVES)",
+                    "ImageUrl": "\/media\/350884\/waves_1.png",
+                    "Url": "\/coins\/waves\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 361881,
+                    "Name": "Electroneum",
+                    "FullName": "Electroneum (ETN)",
+                    "ImageUrl": "\/media\/14761932\/electroneum.png",
+                    "Url": "\/coins\/etn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45260,
+                    "Name": "TenX",
+                    "FullName": "TenX (PAY)",
+                    "ImageUrl": "\/media\/1383687\/pay.png",
+                    "Url": "\/coins\/pay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 17778,
+                    "Name": "Augur",
+                    "FullName": "Augur (REP)",
+                    "ImageUrl": "\/media\/350815\/augur-logo.png",
+                    "Url": "\/coins\/rep\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 166390,
+                    "Name": "Tezos",
+                    "FullName": "Tezos (XTZ)",
+                    "ImageUrl": "\/media\/1383651\/xbt.png",
+                    "Url": "\/coins\/xtz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20333,
+                    "Name": "Steem",
+                    "FullName": "Steem (STEEM)",
+                    "ImageUrl": "\/media\/350907\/steem.png",
+                    "Url": "\/coins\/steem\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 590526,
+                    "Name": "E61A16A0",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/590526\/bb4ee950-b148-4795-9b00-5a4921353392.jpg",
+                    "Url": "\/profile\/E61A16A0\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 417041,
+                    "Name": "politkin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/417041\/a381f5d5-6884-47d3-8715-b47d3d918c1c.jpg",
+                    "Url": "\/profile\/politkin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674442,
+                    "Name": "agronai",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674442\/9ef2112b-b9ba-4970-a6ee-81e86aaf46a3.jpg",
+                    "Url": "\/profile\/agronai\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 130109,
+                    "Name": "Piety",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/130109\/26f2f2a8-5cd7-494c-b899-147155824a0f.png",
+                    "Url": "\/profile\/Piety\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 631054,
+                    "Name": "tsyntylevych",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/631054\/4d3b0c95-34cc-43f7-a8a9-2c46d243c2e0.jpg",
+                    "Url": "\/profile\/tsyntylevych\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676601,
+                    "Name": "89521239774",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676601\/a1520058-d1d0-4b30-9430-f0922d1ebba4.jpg",
+                    "Url": "\/profile\/89521239774\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 672618,
+                    "Name": "BE343D0F",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/672618\/dded32d5-cebf-49c9-afe6-198a60b19d8d.jpg",
+                    "Url": "\/profile\/BE343D0F\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 608833,
+                    "Name": "andrew.valentine",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/608833\/92714627-b1df-43c4-ad60-02a4774e5408.jpg",
+                    "Url": "\/profile\/andrew.valentine\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674699,
+                    "Name": "m.veretennikov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674699\/d1f60ce7-a8e8-4c27-a97c-9d2339e92207.png",
+                    "Url": "\/profile\/m.veretennikov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 424283,
+                    "Name": "ltorres321",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/424283\/490b38f5-aad9-4ae3-816c-663b988d9393.jpg",
+                    "Url": "\/profile\/ltorres321\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 121186,
+                    "Name": "graeme.bryce",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/121186\/77cb2d63-0c19-42f4-a2bc-886137b348eb.jpg",
+                    "Url": "\/profile\/graeme.bryce\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2116,
+            "Posts": "911",
+            "Comments": "1375",
+            "Points": 89425,
+            "PageViewsSplit": {
+                "Overview": 340538,
+                "Markets": 44424,
+                "Analysis": 7278,
+                "Charts": 34410,
+                "Trades": 16715,
+                "Orderbook": 136,
+                "Forum": 68745,
+                "Influence": 1028
+            },
+            "PageViews": 513274
+        },
+        "Twitter": {
+            "favourites": "1449",
+            "statuses": 800,
+            "following": "531",
+            "account_creation": "1505524965",
+            "name": "Bitcoin Gold [BTG]",
+            "link": "https:\/\/twitter.com\/bitcoingold",
+            "lists": 588,
+            "followers": 57379,
+            "Points": 60319
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 14735,
+            "name": "Bitcoin Gold",
+            "link": "https:\/\/www.facebook.com\/bitcoingoldofficial\/",
+            "talking_about": "726",
+            "is_closed": "false",
+            "Points": 14735
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/BTCGPU\/BTCGPU",
+                    "last_update": "1515952453",
+                    "subscribers": 150,
+                    "size": "72389",
+                    "created_at": "1500789564",
+                    "open_pull_issues": "3",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "24",
+                    "stars": 485,
+                    "forks": 251,
+                    "closed_total_issues": "234",
+                    "closed_pull_issues": "81",
+                    "open_issues": "21",
+                    "closed_issues": "153",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1515339140"
+                }
+            ],
+            "Points": 1437
+        }
+    }
+}

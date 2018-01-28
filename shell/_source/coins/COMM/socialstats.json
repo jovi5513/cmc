@@ -1,0 +1,161 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "COMM",
+            "CoinName": "Community Coin",
+            "Type": "Webpagecoinp",
+            "Points": 387
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 446121,
+                    "Name": "CryptoWave",
+                    "FullName": "CryptoWave (CWV)",
+                    "ImageUrl": "\/media\/16746575\/cwv.png",
+                    "Url": "\/coins\/cwv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37195,
+                    "Name": "ConquestCoin",
+                    "FullName": "ConquestCoin (CQST)",
+                    "ImageUrl": "\/media\/1381983\/cqst.png",
+                    "Url": "\/coins\/cqst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5393,
+                    "Name": "OctoCoin",
+                    "FullName": "OctoCoin (OCTO)",
+                    "ImageUrl": "\/media\/19983\/888.png",
+                    "Url": "\/coins\/octo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21773,
+                    "Name": "XanaxCoin",
+                    "FullName": "XanaxCoin (XNX)",
+                    "ImageUrl": "\/media\/351033\/xnx.jpg",
+                    "Url": "\/coins\/xnx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4415,
+                    "Name": "CheckCoin",
+                    "FullName": "CheckCoin (CXC)",
+                    "ImageUrl": "\/media\/20246\/cxc.png",
+                    "Url": "\/coins\/cxc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44803,
+                    "Name": "EveryonesCoin",
+                    "FullName": "EveryonesCoin (EOC)",
+                    "ImageUrl": "\/media\/1382628\/eoc.png",
+                    "Url": "\/coins\/eoc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 586638,
+                    "Name": "BitAsean",
+                    "FullName": "BitAsean (BAS)",
+                    "ImageUrl": "\/media\/20780613\/bas.png",
+                    "Url": "\/coins\/bas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24887,
+                    "Name": "RustCoin",
+                    "FullName": "RustCoin (RUST)",
+                    "ImageUrl": "\/media\/351365\/rust.png",
+                    "Url": "\/coins\/rust\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28027,
+                    "Name": "Sense",
+                    "FullName": "Sense (SNS)",
+                    "ImageUrl": "\/media\/351494\/sns.png",
+                    "Url": "\/coins\/sns\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35228,
+                    "Name": "Procom",
+                    "FullName": "Procom (PCM)",
+                    "ImageUrl": "\/media\/352223\/pcm.png",
+                    "Url": "\/coins\/pcm\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 43004,
+                    "Name": "th59989",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/43004\/a82b31ac-9d91-4f7c-bd3b-c99db6ffcd91.jpg",
+                    "Url": "\/profile\/th59989\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 188028,
+                    "Name": "profilux_99",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/188028\/70d8cd13-f188-45d8-ae47-450ec6f3f13f.jpg",
+                    "Url": "\/profile\/profilux_99\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 20620,
+                    "Name": "giorgi.piero",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/20620\/7a407eed-beeb-4a4a-bf7a-8ac75f87c3b1.jpg",
+                    "Url": "\/profile\/giorgi.piero\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 15507,
+                    "Name": "danpbuelkpcs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/15507\/509173ad-f4f2-409b-9537-4050440b44aa.jpg",
+                    "Url": "\/profile\/danpbuelkpcs\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 1084,
+                "Markets": 43,
+                "Analysis": 36,
+                "Charts": 41,
+                "Trades": 19,
+                "Orderbook": 0,
+                "Forum": 29,
+                "Influence": 6
+            },
+            "PageViews": 1258
+        },
+        "Twitter": {
+            "followers": 257,
+            "following": "1",
+            "lists": 6,
+            "favourites": "52",
+            "statuses": 95,
+            "account_creation": "1397481257",
+            "name": "CommunityCoin",
+            "link": "https:\/\/twitter.com\/Community_Coin",
+            "Points": 287
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "FSN",
+            "CoinName": "Fusion",
+            "Type": "Webpagecoinp",
+            "Points": 55
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5281,
+                    "Name": "Elektron",
+                    "FullName": "Elektron (EKN)",
+                    "ImageUrl": "\/media\/20270\/ekn.png",
+                    "Url": "\/coins\/ekn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4418,
+                    "Name": "CopperLark",
+                    "FullName": "CopperLark (CLR)",
+                    "ImageUrl": "\/media\/19657\/clr.png",
+                    "Url": "\/coins\/clr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4595,
+                    "Name": "RotoCoin",
+                    "FullName": "RotoCoin (RT2)",
+                    "ImageUrl": "\/media\/19896\/rt2.png",
+                    "Url": "\/coins\/rt2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5381,
+                    "Name": "Unattanium",
+                    "FullName": "Unattanium (UNAT)",
+                    "ImageUrl": "\/media\/20456\/unat.png",
+                    "Url": "\/coins\/unat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4602,
+                    "Name": "ShadeCoin",
+                    "FullName": "ShadeCoin (SHADE)",
+                    "ImageUrl": "\/media\/20056\/shade.png",
+                    "Url": "\/coins\/shade\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5378,
+                    "Name": "BOOM Coin",
+                    "FullName": "BOOM Coin (BOOM)",
+                    "ImageUrl": "\/media\/20208\/boom.png",
+                    "Url": "\/coins\/boom\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 16717,
+                    "Name": "Nas2Coin",
+                    "FullName": "Nas2Coin (NAS2)",
+                    "ImageUrl": "\/media\/350776\/nas2.png",
+                    "Url": "\/coins\/nas2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30121,
+                    "Name": "CrankCoin",
+                    "FullName": "CrankCoin (CRNK)",
+                    "ImageUrl": "\/media\/351731\/crnk.png",
+                    "Url": "\/coins\/crnk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28087,
+                    "Name": "TotCoin",
+                    "FullName": "TotCoin (TOT)",
+                    "ImageUrl": "\/media\/351497\/tot.png",
+                    "Url": "\/coins\/tot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28665,
+                    "Name": "ERBCoin",
+                    "FullName": "ERBCoin (ERB)",
+                    "ImageUrl": "\/media\/351550\/erb.png",
+                    "Url": "\/coins\/erb\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 28639,
+                    "Name": "vesko.trader",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/28639\/f771a9fe-4576-4457-8604-7d85923fa032.jpg",
+                    "Url": "\/profile\/vesko.trader\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 1,
+            "Points": 50,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 401,
+                "Markets": 44,
+                "Analysis": 29,
+                "Charts": 49,
+                "Trades": 18,
+                "Orderbook": 0,
+                "Forum": 19,
+                "Influence": 14
+            },
+            "PageViews": 574
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 1,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "2564",
+                    "url": "https:\/\/github.com\/fusioncoin123\/fsn-src",
+                    "last_update": "1431041433",
+                    "last_push": "1431041431",
+                    "created_at": "1431040083",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 5
+        }
+    }
+}

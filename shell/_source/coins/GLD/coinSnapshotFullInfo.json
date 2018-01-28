@@ -1,0 +1,93 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "GoldCoin (GLD) - Live streaming prices and market cap",
+            "PageDescription": "Live GoldCoin prices from all markets and GLD coin market Capitalization. Stay up to date with the latest GoldCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19723\/gld.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "299"
+        },
+        "General": {
+            "Id": "4528",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "GoldCoin (GLD)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "GLD",
+            "Url": "\/coins\/gld\/",
+            "BaseAngularUrl": "\/coins\/gld\/",
+            "Name": "GoldCoin",
+            "ImageUrl": "\/media\/19723\/gld.png",
+            "Description": "<p>GoldCoin (GLD) is the Gold Standard of Digital Currency - With large vibrant support, trading communities, real world appeal and an extremely devoted development team, GoldCoin is the Gold Standard of Digital Currency. Block time + difficulty changes depending on the height of the block chain along with demarcated block rewards. The GoldCoin team have implemented Golden River - a method to adjust the block time each block to counteract large swings in hashing power pointed at the network - this method is smoother than than the Kimoto Gravity well meaning block times are more closely regulated.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "72245700",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "11\/05\/2013",
+            "Twitter": "@goldcoin",
+            "AffiliateUrl": "http:\/\/www.gldcoin.com\/",
+            "Website": "<a href='http:\/\/www.gldcoin.com\/' target='_blank'>GoldCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515981409,
+            "DifficultyAdjustment": "1 block - Golden River",
+            "BlockRewardReduction": "Dynamic",
+            "BlockNumber": 762463,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 19570142888,
+            "TotalCoinsMined": 40763455.999988,
+            "PreviousTotalCoinsMined": 40763427.999988,
+            "BlockReward": 4.0000000111759
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~GLD~BTC",
+            "2~Cryptopia~GLD~DOT",
+            "2~Novaexchange~GLD~ETH",
+            "2~CCEX~GLD~USD",
+            "2~Novaexchange~GLD~DOGE",
+            "2~CCEX~GLD~BTC",
+            "2~Cryptopia~GLD~UNO",
+            "2~Cryptopia~GLD~XMR",
+            "2~Cryptsy~GLD~LTC",
+            "2~Cryptopia~GLD~FTC",
+            "2~CCEX~GLD~ETH",
+            "2~Cryptopia~GLD~DOGE",
+            "2~Novaexchange~GLD~LTC",
+            "2~Cryptopia~GLD~LTC",
+            "2~CCEX~GLD~LTC",
+            "2~CCEX~GLD~DOGE",
+            "2~Cryptopia~GLD~POP",
+            "2~Cryptsy~GLD~BTC",
+            "2~BitTrex~GLD~BTC",
+            "2~Cryptsy~GLD~XRP",
+            "2~Cryptopia~GLD~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~GLD~BTC~4~0.00003113~1515982398~398.67027147~0.01238668~6133825~8269.98679291~0.25916102999999996~374626.28430573~11.927506529999999~0.00003076~0.00003162~0.00003075~0.00003213~0.00003496~0.00002962~BitTrex~7ffe9",
+            "5~CCCAGG~GLD~DOT~4~25.10000206~1488978801~0.00000167~0.000042~1488978801~0~0~0~0~25.10000206~25.10000206~25.10000206~25.10000206~25.10000206~25.10000206~Cryptopia~7ffe9",
+            "5~CCCAGG~GLD~ETH~4~0.00987~1504992898~0.08844883~0.0008729899521000001~1504992898000~0~0~0~0~0.00987~0.00987~0.00987~0.00987~0.00987~0.00987~Novaexchange~7ffe9",
+            "5~CCCAGG~GLD~USD~4~0.21~1515109281~11.35426438~2.3843955198~1910029~0~0~0~0~0.21~0.21~0.21~0.21~0.21~0.21~CCEX~7ffe9",
+            "5~CCCAGG~GLD~DOGE~4~40~1515178860~24.54456579~981.7826316~1515178860~0~0~0~0~40~40~40~40~40~40~Cryptopia~7ffe9",
+            "5~CCCAGG~GLD~UNO~4~0.00130008~1497227729~3.35628908~0.00436344~1497227729~0~0~0~0~0.00130008~0.00130008~0.00130008~0.00130008~0.00130008~0.00130008~Cryptopia~7ffe9",
+            "5~CCCAGG~GLD~XMR~4~0.0003583~1486693216~1308.18595475~0.468723~1486693216~0~0~0~0~0.0003583~0.0003583~0.0003583~0.0003583~0.0003583~0.0003583~Cryptopia~7ffe9",
+            "5~CCCAGG~GLD~LTC~4~0.00181~1515195021~4.70366778~0.00851364~1515195021~0~0~0~0~0.00181~0.00181~0.00181~0.00181~0.00181~0.00181~Cryptopia~7ffe9",
+            "5~CCCAGG~GLD~FTC~4~2.13777009~1488779943~0.3325488~0.710913~1488779943~0~0~0~0~2.13777009~2.13777009~2.13777009~2.13777009~2.13777009~2.13777009~Cryptopia~7ffe9",
+            "5~CCCAGG~GLD~POP~4~166.00000001~1456959374~0.00000387~0.000642~1456959374~0~0~0~0~166.00000001~166.00000001~166.00000001~166.00000001~166.00000001~166.00000001~Cryptopia~7ffe9",
+            "5~CCCAGG~GLD~XRP~4~0.29374525~1430835918~1~0.29374525~92199187~0~0~0.29374525~0.29374525~0.29374525~Cryptsy~78ce9"
+        ]
+    },
+    "Type": 100
+}

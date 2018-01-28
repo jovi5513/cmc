@@ -1,0 +1,241 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "LRC",
+            "CoinName": "Loopring",
+            "Type": "Webpagecoinp",
+            "Points": 21793
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 55650,
+                    "Name": "MobileGo",
+                    "FullName": "MobileGo (MGO)",
+                    "ImageUrl": "\/media\/1382798\/mgo.png",
+                    "Url": "\/coins\/mgo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188858,
+                    "Name": "AdToken",
+                    "FullName": "AdToken (ADT)",
+                    "ImageUrl": "\/media\/1383829\/adt.png",
+                    "Url": "\/coins\/adt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 446372,
+                    "Name": "Achain",
+                    "FullName": "Achain (ACT*)",
+                    "ImageUrl": "\/media\/16746576\/act.png",
+                    "Url": "\/coins\/actstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 178861,
+                    "Name": "Elastic",
+                    "FullName": "Elastic (XEL)",
+                    "ImageUrl": "\/media\/1383737\/xel.png",
+                    "Url": "\/coins\/xel\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 178467,
+                    "Name": "Wagerr",
+                    "FullName": "Wagerr (WGR)",
+                    "ImageUrl": "\/media\/1383736\/wgr.png",
+                    "Url": "\/coins\/wgr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5322,
+                    "Name": "Dnotes",
+                    "FullName": "Dnotes (NOTE)",
+                    "ImageUrl": "\/media\/19832\/note.png",
+                    "Url": "\/coins\/note\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4416,
+                    "Name": "CLAMS",
+                    "FullName": "CLAMS (CLAM)",
+                    "ImageUrl": "\/media\/20020\/clam.png",
+                    "Url": "\/coins\/clam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4630,
+                    "Name": "Unobtanium",
+                    "FullName": "Unobtanium (UNO)",
+                    "ImageUrl": "\/media\/20065\/uno.png",
+                    "Url": "\/coins\/uno\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 16125,
+                    "Name": "Bata",
+                    "FullName": "Bata (BTA)",
+                    "ImageUrl": "\/media\/1383113\/bta1.png",
+                    "Url": "\/coins\/bta\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 637681,
+                    "Name": "QLINK",
+                    "FullName": "QLINK (QLC)",
+                    "ImageUrl": "\/media\/20780665\/qlc.png",
+                    "Url": "\/coins\/qlc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 677715,
+                    "Name": "abuabhi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677715\/0a13c9dc-aadf-4248-bbec-8969de402e60.jpg",
+                    "Url": "\/profile\/abuabhi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676943,
+                    "Name": "nickkaplan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676943\/e4e3fa66-2730-47f2-a0ee-f780f722a6b3.jpg",
+                    "Url": "\/profile\/nickkaplan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 631054,
+                    "Name": "tsyntylevych",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/631054\/4d3b0c95-34cc-43f7-a8a9-2c46d243c2e0.jpg",
+                    "Url": "\/profile\/tsyntylevych\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 658322,
+                    "Name": "chrisbrooks19",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/658322\/eca735c4-de4d-4fe2-83b2-5b434bea5319.jpg",
+                    "Url": "\/profile\/chrisbrooks19\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 636386,
+                    "Name": "steve.zhc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/636386\/97cda852-3bae-42dc-904f-b7e8ffa230be.jpg",
+                    "Url": "\/profile\/steve.zhc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 655354,
+                    "Name": "Gully",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/655354\/2dcd4a95-1569-4548-a6ab-1c538773edc0.jpg",
+                    "Url": "\/profile\/Gully\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 256767,
+                    "Name": "nigelturner4",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/256767\/c2fb0bf2-923f-43ed-81c5-8db28b7912fe.jpg",
+                    "Url": "\/profile\/nigelturner4\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 368498,
+                    "Name": "Chillihot",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/368498\/ea6c5906-8dd3-4bd3-8e13-e14faebc98df.jpg",
+                    "Url": "\/profile\/Chillihot\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 672485,
+                    "Name": "53387B6F",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/672485\/749dce61-40ff-4aad-b9a9-fa829e5d0e8d.jpg",
+                    "Url": "\/profile\/53387B6F\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 660357,
+                    "Name": "rubnbubn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/660357\/727859ea-4c92-46a4-9cd6-488ee90065b4.jpg",
+                    "Url": "\/profile\/rubnbubn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 519304,
+                    "Name": "aleccapetillo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/519304\/a8c17e91-8607-41bd-b62c-b982ab5ad287.jpg",
+                    "Url": "\/profile\/aleccapetillo\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 4535,
+            "Posts": "19",
+            "Comments": "11",
+            "Followers": 158,
+            "PageViewsSplit": {
+                "Overview": 12923,
+                "Markets": 892,
+                "Analysis": 302,
+                "Charts": 1292,
+                "Trades": 322,
+                "Orderbook": 2,
+                "Forum": 1175,
+                "Influence": 101
+            },
+            "PageViews": 17009
+        },
+        "Twitter": {
+            "statuses": 1129,
+            "favourites": "988",
+            "following": "317",
+            "account_creation": "1190923682",
+            "followers": 15685,
+            "name": "Loopring",
+            "link": "https:\/\/twitter.com\/loopringorg",
+            "lists": 257,
+            "Points": 16971
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1503383668",
+                    "open_total_issues": "11",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1515959583",
+                    "closed_total_issues": "229",
+                    "size": "1445",
+                    "stars": 111,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1515911560",
+                    "open_pull_issues": "3",
+                    "forks": 29,
+                    "url": "https:\/\/github.com\/Loopring\/protocol",
+                    "closed_issues": "40",
+                    "language": "TypeScript",
+                    "subscribers": 39,
+                    "open_issues": "8",
+                    "closed_pull_issues": "189"
+                }
+            ],
+            "Points": 286
+        }
+    }
+}

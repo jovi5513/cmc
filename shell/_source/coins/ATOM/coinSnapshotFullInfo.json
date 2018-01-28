@@ -1,0 +1,91 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Atomic Coin (ATOM) - Live streaming prices and market cap",
+            "PageDescription": "Live Atomic Coin prices from all markets and ATOM coin market Capitalization. Stay up to date with the latest Atomic Coin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351685\/atom.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "29721",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Atomic Coin (ATOM)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ATOM",
+            "Url": "\/coins\/atom\/",
+            "BaseAngularUrl": "\/coins\/atom\/",
+            "Name": "Atomic Coin",
+            "ImageUrl": "\/media\/351685\/atom.png",
+            "Description": "<p><span>Atomic Coin is an hybrid PoW\/PoS using the Scrypt algorithm. 100% PoS interest will be reduced after 3 months after launch.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "12000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "23\/09\/2016",
+            "Twitter": "@AtomcoinProject",
+            "AffiliateUrl": "https:\/\/www.atomicproject.org\/",
+            "Website": "<a href='https:\/\/www.atomicproject.org\/' target='_blank'>Atomic Coin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515951400,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 715109,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 13670245.707913,
+            "PreviousTotalCoinsMined": 13670215.989843,
+            "BlockReward": 3.5053430620581
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~ATOM~DOT",
+            "2~Yobit~ATOM~WAVES",
+            "2~WavesDEX~ATOM~WAVES",
+            "2~Yobit~ATOM~ETH",
+            "2~Cryptopia~ATOM~BTC",
+            "2~Cryptopia~ATOM~LTC",
+            "2~Cryptopia~ATOM~XMR",
+            "2~Novaexchange~ATOM~LTC",
+            "2~Novaexchange~ATOM~MOON",
+            "2~Cryptopia~ATOM~FTC",
+            "2~Cryptopia~ATOM~UNO",
+            "2~Novaexchange~ATOM~DOGE",
+            "2~Yobit~ATOM~RUR",
+            "2~Novaexchange~ATOM~BTC",
+            "2~Cryptopia~ATOM~DOGE",
+            "2~Yobit~ATOM~USD",
+            "2~Yobit~ATOM~DOGE",
+            "2~Yobit~ATOM~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ATOM~DOT~4~444.99999999~1487961333~0.0001~0.0445~1487961333~0~0~0~0~444.99999999~444.99999999~444.99999999~444.99999999~444.99999999~444.99999999~Cryptopia~7ffe9",
+            "5~CCCAGG~ATOM~WAVES~4~0.04981297~1515852711~0.117~0.0058281174900000005~200000003~0~0~0~0~0.04981~0.04981297~0.04981~0.04981297~0.04981297~0.04981297~Yobit~7ffe9",
+            "5~CCCAGG~ATOM~ETH~4~0.0009~1515865856~2.22213992~0.001999925928~200000014~0~0~0~0~0.0009~0.0009~0.0009~0.0009~0.0009~0.0009~Yobit~7ffe9",
+            "5~CCCAGG~ATOM~BTC~2~0.00001897~1515951047~135.50560372~0.00257054~1515951047~182557.40067530007~3.3310555989554858~206559.43633766~3.689284983743044~0.00001519~0.0000198~0.00001517~0.00001601~0.0000198~0.0000146~Cryptopia~7ffe9",
+            "5~CCCAGG~ATOM~LTC~4~0.00100799~1515196837~34.13380697~0.03440654~1515196837~0~0~0~0~0.001008~0.001008~0.00100799~0.00100799~0.00100799~0.00100799~Cryptopia~7ffe9",
+            "5~CCCAGG~ATOM~XMR~4~0.00002912~1486695009~4585.4860558~0.133529~1486695009~0~0~0~0~0.00002912~0.00002912~0.00002912~0.00002912~0.00002912~0.00002912~Cryptopia~7ffe9",
+            "5~CCCAGG~ATOM~MOON~4~120.00000009~1501277703~0.09016~10.8192000081144~1501277703000~0~0~0~0~120.00000009~120.00000009~120.00000009~120.00000009~120.00000009~120.00000009~Novaexchange~7ffe9",
+            "5~CCCAGG~ATOM~FTC~4~14.998~1486518294~0.001~0.014998~1486518294~0~0~0~0~14.998~14.998~14.998~14.998~14.998~14.998~Cryptopia~7ffe9",
+            "5~CCCAGG~ATOM~UNO~4~0.00100006~1496857580~0.09749629~0.0000975~1496857580~0~0~0~0~0.00100006~0.00100006~0.00100006~0.00100006~0.00100006~0.00100006~Cryptopia~7ffe9",
+            "5~CCCAGG~ATOM~DOGE~2~7.9~1515920533~1.52259776~12.028522304~200000026~51.42279791~4503.046485404798~56.42279789~4539.546485008797~7.3~90~7.3~90~90~7.3~Yobit~7ffe9",
+            "5~CCCAGG~ATOM~RUR~4~25~1515920542~21.15143153~528.78578825~200000042~22.79323153~569.8307866082~32.9762554~772.7925162182~7~25~7~20~25~7~Yobit~7ffe9",
+            "5~CCCAGG~ATOM~USD~4~0.2~1515923766~1~0.2~200000053~226.79480987000002~88.80161695963913~491.26604811000004~186.13934429894562~0.2~0.65~0.2~0.2~0.65~0.2~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,76 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Krypton (KR) - Live streaming prices and market cap",
+            "PageDescription": "Live Krypton prices from all markets and KR coin market Capitalization. Stay up to date with the latest Krypton price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350974\/kr.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20822",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Krypton (KR)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "KR",
+            "Url": "\/coins\/kr\/",
+            "BaseAngularUrl": "\/coins\/kr\/",
+            "Name": "Krypton",
+            "ImageUrl": "\/media\/350974\/kr.png",
+            "Description": "<div class=\"4u 12u$(medium)\"><p>Krypton was developed from Ethereum&#39;s previous technology, Dagger-Hashimoto consensus algorithm. It enables developers to create and deploy Dapps and smart contract with fewer initial coins and in a shorter period of time.<\/p><\/div><div class=\"4u$ 12u$(medium)\"><p>\u00a0<\/p><\/div>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "",
+            "Algorithm": "Dagger-Hashimoto",
+            "ProofType": "PoW",
+            "StartDate": "15\/02\/2016",
+            "Twitter": "@covertress",
+            "AffiliateUrl": "http:\/\/krypton.rocks",
+            "Website": "<a href='http:\/\/krypton.rocks' target='_blank'>Krypton<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1492114551,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 15,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 2910710,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~KR~BTC",
+            "2~Novaexchange~KR~ETH",
+            "2~Yobit~KR~ETH",
+            "2~Yobit~KR~WAVES",
+            "2~Yobit~KR~USD",
+            "2~Yobit~KR~RUR",
+            "2~Yobit~KR~DOGE",
+            "2~BitTrex~KR~BTC",
+            "2~Novaexchange~KR~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~KR~BTC~4~0.0000135~1515872465~31.99106708~0.00043187940558~200000005~0~0~31.99106708~0.00043187940558~0.0000135~0.0000135~0.0000135~0.00001357~0.00001357~0.0000135~Yobit~7ffe9",
+            "5~CCCAGG~KR~ETH~4~0.0021~1515497327~0.08337605~0.00017508970499999996~182849527~0~0~0~0~0.0021~0.0021~0.0021~0.0021~0.0021~0.0021~Yobit~7ffe9",
+            "5~CCCAGG~KR~WAVES~4~0.02~1515116638~6.3501228~0.127002456~179682502~0~0~0~0~0.02~0.02~0.02~0.02~0.02~0.02~Yobit~7ffe9",
+            "5~CCCAGG~KR~USD~4~0.49889999~1515532793~12.19732691~6.085246273425731~183127512~0~0~0~0~0.4989~0.4989~0.49889999~0.49889999~0.49889999~0.49889999~Yobit~7ffe9",
+            "5~CCCAGG~KR~RUR~4~12.99999999~1515497318~0.08337605~1.0838886491662394~182849474~0~0~0~0~13~13~12.99999999~12.99999999~12.99999999~12.99999999~Yobit~7ffe9",
+            "5~CCCAGG~KR~DOGE~4~110.01000111~1514578238~0.22~24.2022002442~176687768~0~0~0~0~110.01~110.01000111~110.01~110.01000111~110.01000111~110.01000111~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

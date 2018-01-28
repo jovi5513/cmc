@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "007",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00016788",
+            "LASTUPDATE": "1515543986",
+            "LASTVOLUME": "1",
+            "LASTVOLUMETO": "0.00016788",
+            "LASTTRADEID": "183203083",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.0001679",
+            "HIGHDAY": "0.0001679",
+            "LOWDAY": "0.00016788",
+            "OPEN24HOUR": "0.00016788",
+            "HIGH24HOUR": "0.00016788",
+            "LOW24HOUR": "0.00016788",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "007",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.0000152",
+                "LASTUPDATE": "1437064163",
+                "LASTVOLUME": "150",
+                "LASTVOLUMETO": "0.00228",
+                "LASTTRADEID": "1437064163161",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.0000152",
+                "HIGH24HOUR": "0.0000152",
+                "LOW24HOUR": "0.0000152"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "007",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00016788",
+                "LASTUPDATE": "1515543986",
+                "LASTVOLUME": "1",
+                "LASTVOLUMETO": "0.00016788",
+                "LASTTRADEID": "183203083",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00016788",
+                "HIGH24HOUR": "0.00016788",
+                "LOW24HOUR": "0.00016788"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "007",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000345",
+                "LASTUPDATE": "1452819768",
+                "LASTVOLUME": "1",
+                "LASTVOLUMETO": "0.00000345",
+                "LASTTRADEID": "110945435",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000345",
+                "HIGH24HOUR": "0.00000345",
+                "LOW24HOUR": "0.00000345"
+            }
+        ]
+    },
+    "Type": 100
+}

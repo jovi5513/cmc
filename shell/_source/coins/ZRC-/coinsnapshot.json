@@ -1,0 +1,66 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "ZRC*",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00005223",
+            "LASTUPDATE": "1441449049",
+            "LASTVOLUME": "15.74413733",
+            "LASTVOLUMETO": "0.00082231",
+            "LASTTRADEID": "512828",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.00005223",
+            "HIGHDAY": "0.00005223",
+            "LOWDAY": "0.00005223",
+            "OPEN24HOUR": "0.00005223",
+            "HIGH24HOUR": "0.00005223",
+            "LOW24HOUR": "0.00005223",
+            "LASTMARKET": "BitTrex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "ZRC*",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.0000079",
+                "LASTUPDATE": "1452819393",
+                "LASTVOLUME": "986.5563503",
+                "LASTVOLUMETO": "0.0077938",
+                "LASTTRADEID": "110945394",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.0000079",
+                "HIGH24HOUR": "0.0000079",
+                "LOW24HOUR": "0.0000079"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "ZRC*",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00005223",
+                "LASTUPDATE": "1441449049",
+                "LASTVOLUME": "15.74413733",
+                "LASTVOLUMETO": "0.00082231",
+                "LASTTRADEID": "512828",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00005223",
+                "HIGH24HOUR": "0.00005223",
+                "LOW24HOUR": "0.00005223"
+            }
+        ]
+    },
+    "Type": 100
+}

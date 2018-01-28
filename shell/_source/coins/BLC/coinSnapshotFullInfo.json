@@ -1,0 +1,81 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BlakeCoin (BLC) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "BlakeCoin is based on the Blake-256 algorithm. The coin is merge mined and has a block reward, that varies based on the difficulty (25 coins + inflation(square root(difficulty * block height). The block time is 3 minutes and the block retargetting occurs every twenty successful hashing attempts.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19623\/blc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "120"
+        },
+        "General": {
+            "Id": "5362",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "BlakeCoin (BLC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BLC",
+            "Url": "\/coins\/blc\/",
+            "BaseAngularUrl": "\/coins\/blc\/",
+            "Name": "BlakeCoin",
+            "ImageUrl": "\/media\/19623\/blc.png",
+            "Description": "<p>BlakeCoin is based on the Blake-256 algorithm. The coin is merge mined and has a block reward, that varies based on the difficulty (25 coins + inflation(square root(difficulty * block height). The block time is 3 minutes and the block retargetting occurs every twenty successful hashing attempts. There are a total of 7 billion coins to be mined.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "7000000000",
+            "Algorithm": "Blake",
+            "ProofType": "PoW",
+            "StartDate": "07\/10\/2013",
+            "Twitter": "@BlakeCoin",
+            "AffiliateUrl": "https:\/\/blakecoin.org\/",
+            "Website": "<a href='https:\/\/blakecoin.org\/' target='_blank'>BlakeCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515927033,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 15122697,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~BLC~UNO",
+            "2~CCEX~BLC~DOGE",
+            "2~Cryptopia~BLC~XMR",
+            "2~Cryptopia~BLC~BTC",
+            "2~CCEX~BLC~USD",
+            "2~CCEX~BLC~LTC",
+            "2~Cryptopia~BLC~FTC",
+            "2~Cryptopia~BLC~DOGE",
+            "2~CCEX~BLC~BTC",
+            "2~Cryptopia~BLC~DOT",
+            "2~Cryptopia~BLC~LTC",
+            "2~BitTrex~BLC~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BLC~UNO~4~0.00017~1498075500~700.81466236~0.11913849~1498075500~0~0~0~0~0.00017~0.00017~0.00017~0.00017~0.00017~0.00017~Cryptopia~7ffe9",
+            "5~CCCAGG~BLC~DOGE~4~5~1515084289~103.68220133~518.41100665~1515084289~0~0~0~0~5~5~5~5~5~5~Cryptopia~7ffe9",
+            "5~CCCAGG~BLC~XMR~4~0.000028~1486695061~463.92452576~0.01299~1486695061~0~0~0~0~0.000028~0.000028~0.000028~0.000028~0.000028~0.000028~Cryptopia~7ffe9",
+            "5~CCCAGG~BLC~BTC~2~0.00000501~1515948918~2577.44530536~0.012913~1515948918~91000.08378924998~0.4084508799999999~106700.77492751999~0.46615723000000003~0.00000362~0.00000527~0.0000036~0.00000362~0.00000527~0.0000036~Cryptopia~7ffe9",
+            "5~CCCAGG~BLC~USD~4~0.080001~1515116254~0.998~0.079840998~1910204~0~0~0~0~0.08~0.080001~0.08~0.080001~0.080001~0.080001~CCEX~7ffe9",
+            "5~CCCAGG~BLC~LTC~4~0.00036999~1515196083~53.94761977~0.01996008~1515196083~0~0~0~0~0.00037~0.00037~0.00036999~0.00036999~0.00036999~0.00036999~Cryptopia~7ffe9",
+            "5~CCCAGG~BLC~FTC~4~0.29041001~1489034682~8.20508468~2.382839~1489034682~0~0~0~0~0.29041001~0.29041001~0.29041001~0.29041001~0.29041001~0.29041001~Cryptopia~7ffe9",
+            "5~CCCAGG~BLC~DOT~4~2.00001004~1486695916~307.89129196~615.785675~1486695916~0~0~0~0~2.00001004~2.00001004~2.00001004~2.00001004~2.00001004~2.00001004~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

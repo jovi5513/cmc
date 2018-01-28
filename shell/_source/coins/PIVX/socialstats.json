@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PIVX",
+            "CoinName": "Private Instant Verified Transaction",
+            "Type": "Webpagecoinp",
+            "Points": 126840
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 17778,
+                    "Name": "Augur",
+                    "FullName": "Augur (REP)",
+                    "ImageUrl": "\/media\/350815\/augur-logo.png",
+                    "Url": "\/coins\/rep\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 166390,
+                    "Name": "Tezos",
+                    "FullName": "Tezos (XTZ)",
+                    "ImageUrl": "\/media\/1383651\/xbt.png",
+                    "Url": "\/coins\/xtz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32699,
+                    "Name": "ARK",
+                    "FullName": "ARK (ARK)",
+                    "ImageUrl": "\/media\/351931\/ark.png",
+                    "Url": "\/coins\/ark\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20333,
+                    "Name": "Steem",
+                    "FullName": "Steem (STEEM)",
+                    "ImageUrl": "\/media\/350907\/steem.png",
+                    "Url": "\/coins\/steem\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 112392,
+                    "Name": "QTUM",
+                    "FullName": "QTUM (QTUM)",
+                    "ImageUrl": "\/media\/1383382\/qtum.png",
+                    "Url": "\/coins\/qtum\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5039,
+                    "Name": "Bitshares",
+                    "FullName": "Bitshares (BTS)",
+                    "ImageUrl": "\/media\/20705\/bts.png",
+                    "Url": "\/coins\/bts\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 139467,
+                    "Name": "Civic",
+                    "FullName": "Civic (CVC)",
+                    "ImageUrl": "\/media\/1383611\/cvc.png",
+                    "Url": "\/coins\/cvc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338018,
+                    "Name": "HextraCoin",
+                    "FullName": "HextraCoin (HXT)",
+                    "ImageUrl": "\/media\/12318282\/hxt.png",
+                    "Url": "\/coins\/hxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 13280,
+                    "Name": "Factoids",
+                    "FullName": "Factoids (FCT)",
+                    "ImageUrl": "\/media\/1382863\/fct1.png",
+                    "Url": "\/coins\/fct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 236131,
+                    "Name": "Vechain",
+                    "FullName": "Vechain (VEN)",
+                    "ImageUrl": "\/media\/12318129\/ven.png",
+                    "Url": "\/coins\/ven\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 420742,
+                    "Name": "luismufe",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/420742\/0f3becfa-6c08-4e4e-802c-eb44222f1eac.jpg",
+                    "Url": "\/profile\/luismufe\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 581429,
+                    "Name": "8D873E42",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/581429\/21782370-75bf-4a46-8fce-81448298ab74.jpg",
+                    "Url": "\/profile\/8D873E42\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674036,
+                    "Name": "yyyjs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674036\/02155960-e50c-4235-9c9a-95af7c656fad.jpg",
+                    "Url": "\/profile\/yyyjs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 641571,
+                    "Name": "F709920F",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/641571\/b2d3343d-e114-47b3-a2a0-8164c2f77f04.jpg",
+                    "Url": "\/profile\/F709920F\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 655354,
+                    "Name": "Gully",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/655354\/2dcd4a95-1569-4548-a6ab-1c538773edc0.jpg",
+                    "Url": "\/profile\/Gully\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 671616,
+                    "Name": "nurdiyansah",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/671616\/076479b5-5fda-4f09-b483-9a5a214e26f4.jpg",
+                    "Url": "\/profile\/nurdiyansah\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 613318,
+                    "Name": "1F93E812",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/613318\/a48d4a32-0b6b-4bea-8b92-382c997ec0be.jpg",
+                    "Url": "\/profile\/1F93E812\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 669649,
+                    "Name": "TommyVu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/669649\/a02dc92b-0c17-4a56-b4f2-893f248f9dba.jpg",
+                    "Url": "\/profile\/TommyVu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 402072,
+                    "Name": "D2910DB7",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/402072\/1e7d1e67-cd32-4971-bcb4-bebcb45c3e19.jpg",
+                    "Url": "\/profile\/D2910DB7\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 48410,
+            "Followers": 1495,
+            "Posts": "289",
+            "Comments": "381",
+            "PageViewsSplit": {
+                "Overview": 140078,
+                "Markets": 6512,
+                "Analysis": 3009,
+                "Charts": 15723,
+                "Trades": 4834,
+                "Orderbook": 152,
+                "Forum": 16119,
+                "Influence": 870
+            },
+            "PageViews": 187297
+        },
+        "Twitter": {
+            "following": "1054",
+            "account_creation": "1445830732",
+            "name": "PIVX",
+            "lists": 649,
+            "statuses": 1707,
+            "favourites": "1554",
+            "followers": 52212,
+            "link": "https:\/\/twitter.com\/_pivx",
+            "Points": 55458
+        },
+        "Reddit": {
+            "posts_per_hour": "0.24",
+            "comments_per_hour": "1.18",
+            "posts_per_day": "5.75",
+            "comments_per_day": 28.21,
+            "name": "pivx",
+            "link": "https:\/\/www.reddit.com\/r\/pivx\/",
+            "active_users": 2415,
+            "community_creation": "1482865184",
+            "subscribers": 6618,
+            "Points": 13919
+        },
+        "Facebook": {
+            "likes": 8279,
+            "link": "https:\/\/www.facebook.com\/PIVXCrypto\/",
+            "is_closed": "false",
+            "talking_about": "433",
+            "name": "PIVX",
+            "Points": 8279
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1454181624",
+                    "open_total_issues": "70",
+                    "parent": {
+                        "Name": "dash",
+                        "Url": "https:\/\/github.com\/dashpay\/dash",
+                        "InternalId": -1
+                    },
+                    "size": "97286",
+                    "closed_total_issues": "418",
+                    "stars": 193,
+                    "last_update": "1515941287",
+                    "forks": 136,
+                    "url": "https:\/\/github.com\/PIVX-Project\/PIVX",
+                    "closed_issues": "128",
+                    "closed_pull_issues": "290",
+                    "fork": "true",
+                    "last_push": "1515938142",
+                    "source": {
+                        "Name": "bitcoin",
+                        "Url": "https:\/\/github.com\/bitcoin\/bitcoin",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "12",
+                    "language": "C++",
+                    "subscribers": 97,
+                    "open_issues": "58"
+                }
+            ],
+            "Points": 756
+        }
+    }
+}

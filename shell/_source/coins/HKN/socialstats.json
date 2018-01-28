@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "HKN",
+            "CoinName": "Hacken",
+            "Type": "Webpagecoinp",
+            "Points": 8612
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 661777,
+                    "Name": "Sugar Exchange",
+                    "FullName": "Sugar Exchange (SGR)",
+                    "ImageUrl": "\/media\/20780766\/sgr.png",
+                    "Url": "\/coins\/sgr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 50754,
+                    "Name": "Pascal Lite",
+                    "FullName": "Pascal Lite (PASL)",
+                    "ImageUrl": "\/media\/1382741\/pasl.png",
+                    "Url": "\/coins\/pasl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 61902,
+                    "Name": "Atmos",
+                    "FullName": "Atmos (ATMS)",
+                    "ImageUrl": "\/media\/1383003\/atms.png",
+                    "Url": "\/coins\/atms\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 222200,
+                    "Name": "Authoreon",
+                    "FullName": "Authoreon (AUTH)",
+                    "ImageUrl": "\/media\/1384019\/auth.png",
+                    "Url": "\/coins\/auth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338180,
+                    "Name": "TrezarCoin",
+                    "FullName": "TrezarCoin (TZC)",
+                    "ImageUrl": "\/media\/12318285\/tzc.png",
+                    "Url": "\/coins\/tzc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42694,
+                    "Name": "Eryllium",
+                    "FullName": "Eryllium (ERY)",
+                    "ImageUrl": "\/media\/1382403\/ely2.png",
+                    "Url": "\/coins\/ery\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35681,
+                    "Name": "MoneyCoin",
+                    "FullName": "MoneyCoin (MONEY)",
+                    "ImageUrl": "\/media\/352249\/money.png",
+                    "Url": "\/coins\/money\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28204,
+                    "Name": "BlockPay",
+                    "FullName": "BlockPay (BLOCKPAY)",
+                    "ImageUrl": "\/media\/351508\/blockpay.png",
+                    "Url": "\/coins\/blockpay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 203183,
+                    "Name": "Solar DAO",
+                    "FullName": "Solar DAO (SDAO)",
+                    "ImageUrl": "\/media\/1383933\/sdao.png",
+                    "Url": "\/coins\/sdao\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45250,
+                    "Name": "Zilbercoin",
+                    "FullName": "Zilbercoin (ZBC)",
+                    "ImageUrl": "\/media\/1382652\/zbc.png",
+                    "Url": "\/coins\/zbc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 228880,
+                    "Name": "bdumitrascu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/228880\/87cc52df-a2f1-454a-a034-3e982ab16ade.jpg",
+                    "Url": "\/profile\/bdumitrascu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 364701,
+                    "Name": "Jesus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/364701\/e8085c4d-8cda-460c-873a-4ea18c54a717.png",
+                    "Url": "\/profile\/Jesus\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 460747,
+                    "Name": "benarji.kommana",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/460747\/3d2e7b2b-b729-46ee-9d24-46c384a9f99c.jpg",
+                    "Url": "\/profile\/benarji.kommana\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 627742,
+                    "Name": "ninjasteppa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/627742\/bfeb13ef-c16b-401b-8f72-f0d728b477eb.jpg",
+                    "Url": "\/profile\/ninjasteppa\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 657255,
+                    "Name": "raydmitrij",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/657255\/027e9a5f-8230-4278-b380-0d223bd4fb00.jpg",
+                    "Url": "\/profile\/raydmitrij\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 199034,
+                    "Name": "oanacak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/199034\/9e90b5d8-e70c-42e8-a548-56d8de324a23.jpg",
+                    "Url": "\/profile\/oanacak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 650681,
+                    "Name": "tameromara",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/650681\/69d13ee1-a7d2-49a5-a0f4-999b0ed02e05.jpg",
+                    "Url": "\/profile\/tameromara\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 239996,
+                    "Name": "xuquang222",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/239996\/4dd6c458-4e04-42fe-9e2a-66e338cd4bdf.jpg",
+                    "Url": "\/profile\/xuquang222\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 624789,
+                    "Name": "slymnysr",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/624789\/b8bb25e2-4eaa-4950-a67a-def977436d5b.jpg",
+                    "Url": "\/profile\/slymnysr\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 615157,
+                    "Name": "brensueship1961",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/615157\/85be6a2e-e267-4f19-bfc7-515fc06fb33a.jpg",
+                    "Url": "\/profile\/brensueship1961\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 575375,
+                    "Name": "colinjez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/575375\/ba58fc17-fcbd-4437-97c5-d157df8921c9.jpg",
+                    "Url": "\/profile\/colinjez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 400,
+            "Posts": "1",
+            "Followers": 15,
+            "PageViewsSplit": {
+                "Overview": 2360,
+                "Markets": 213,
+                "Analysis": 128,
+                "Charts": 138,
+                "Trades": 97,
+                "Orderbook": 0,
+                "Forum": 17,
+                "Influence": 15
+            },
+            "PageViews": 2968
+        },
+        "Twitter": {
+            "favourites": "698",
+            "statuses": 620,
+            "following": "99",
+            "account_creation": "1503060928",
+            "followers": 4173,
+            "name": "Hacken",
+            "link": "https:\/\/twitter.com\/Hacken_io",
+            "lists": 29,
+            "Points": 4318
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/hacken\/\/",
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "422",
+            "name": "Hacken",
+            "likes": 3894,
+            "link": "https:\/\/www.facebook.com\/hacken.io\/",
+            "Points": 3894
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

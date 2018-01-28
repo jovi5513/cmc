@@ -1,0 +1,79 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "CrownCoin (CRW) - Live streaming prices and market cap",
+            "PageDescription": "Live CrownCoin prices from all markets and CRW coin market Capitalization. Stay up to date with the latest CrownCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1383378\/crw1.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "7586",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "CrownCoin (CRW)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "CRW",
+            "Url": "\/coins\/crw\/",
+            "BaseAngularUrl": "\/coins\/crw\/",
+            "Name": "Crown Coin",
+            "ImageUrl": "\/media\/1383378\/crw1.png",
+            "Description": "<p><span>Crowncoin was created in 2014 as a proof of work digital currency and an alternative to FIAT currencies. CRW is a peer to peer digital currency, which enables to send and receive online payments between two parties without the need of financial institution.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "42000000",
+            "Algorithm": "SHA256",
+            "ProofType": "PoW",
+            "StartDate": "14\/10\/2014",
+            "Twitter": "@Crowncoin1",
+            "AffiliateUrl": "http:\/\/crown.tech\/",
+            "Website": "<a href='http:\/\/crown.tech\/' target='_blank'>Crown Coin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515949052,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 1709737,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 1.7712463207541e+18,
+            "TotalCoinsMined": 16761257.906924,
+            "PreviousTotalCoinsMined": 16761041.906924,
+            "BlockReward": 9.0000000006209
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~CRW~USD",
+            "2~Yobit~CRW~RUR",
+            "2~Yobit~CRW~WAVES",
+            "2~Yobit~CRW~BTC",
+            "2~Yobit~CRW~DOGE",
+            "2~CCEX~CRW~USD",
+            "2~CCEX~CRW~DOGE",
+            "2~CCEX~CRW~BTC",
+            "2~Yobit~CRW~ETH",
+            "2~CCEX~CRW~LTC",
+            "2~BitTrex~CRW~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~CRW~USD~4~3.60000002~1515595265~0.10000001~0.3600000380000002~183575866~0~0~0~0~3.6~3.60000002~3.6~3.60000002~3.60000002~3.60000002~Yobit~7ffe9",
+            "5~CCCAGG~CRW~RUR~1~51.10000128~1515848763~0.09981344~5.100466911761203~184322637~0~0~0~0~51.1~51.10000128~51.1~51.10000128~51.10000128~51.10000128~Yobit~7ffe9",
+            "5~CCCAGG~CRW~WAVES~4~0.33325~1508935152~0.0003007~0.000100208275~153438796~0~0~0~0~0.33325~0.33325~0.33325~0.33325~0.33325~0.33325~Yobit~7ffe9",
+            "5~CCCAGG~CRW~BTC~2~0.00029~1515949820~4.55244665~0.0013203~7198577~21034.399403690004~6.282959505971393~32893.81874252~9.978858846901907~0.0003046~0.0003122~0.00029~0.0002937~0.0003125~0.00029~BitTrex~7ffe9",
+            "5~CCCAGG~CRW~DOGE~4~29887.99989~1515690292~0.09306186~2781.432861443195~184303243~0~0~0~0~29888~29888~29887.99989~29887.99989~29887.99989~29887.99989~Yobit~7ffe9",
+            "5~CCCAGG~CRW~ETH~4~0.00000957~1514890726~130.14973465~0.0012455329606005~178154312~0~0~0~0~0.00000957~0.00000957~0.00000957~0.00000957~0.00000957~0.00000957~Yobit~7ffe9",
+            "5~CCCAGG~CRW~LTC~4~0.00020008~1514393479~80.07316319~0.0160210384910552~1826559~0~0~0~0~0.00020008~0.00020008~0.00020008~0.00020008~0.00020008~0.00020008~CCEX~7ffe9"
+        ]
+    },
+    "Type": 100
+}

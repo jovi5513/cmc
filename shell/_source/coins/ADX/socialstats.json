@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ADX",
+            "CoinName": "AdEx",
+            "Type": "Webpagecoinp",
+            "Points": 76480
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 75475,
+                    "Name": "MinersReward",
+                    "FullName": "MinersReward (MRT)",
+                    "ImageUrl": "\/media\/350884\/waves_1.png",
+                    "Url": "\/coins\/mrt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 177918,
+                    "Name": "Kin",
+                    "FullName": "Kin (KIN)",
+                    "ImageUrl": "\/media\/1383731\/kin.png",
+                    "Url": "\/coins\/kin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 218906,
+                    "Name": "Dentacoin",
+                    "FullName": "Dentacoin (DCN)",
+                    "ImageUrl": "\/media\/1383999\/dcn.png",
+                    "Url": "\/coins\/dcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 136244,
+                    "Name": "SONM",
+                    "FullName": "SONM (SNM)",
+                    "ImageUrl": "\/media\/1383564\/snm.png",
+                    "Url": "\/coins\/snm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4440,
+                    "Name": "Einsteinium",
+                    "FullName": "Einsteinium (EMC2)",
+                    "ImageUrl": "\/media\/20033\/emc2.png",
+                    "Url": "\/coins\/emc2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 299774,
+                    "Name": "U.CASH",
+                    "FullName": "U.CASH (UCASH)",
+                    "ImageUrl": "\/media\/12317962\/xuc.png",
+                    "Url": "\/coins\/ucash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4571,
+                    "Name": "NavCoin",
+                    "FullName": "NavCoin (NAV)",
+                    "ImageUrl": "\/media\/351431\/nav.png",
+                    "Url": "\/coins\/nav\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188811,
+                    "Name": "Po.et",
+                    "FullName": "Po.et (POE)",
+                    "ImageUrl": "\/media\/1383828\/poe.png",
+                    "Url": "\/coins\/poe\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 397757,
+                    "Name": "Quantstamp",
+                    "FullName": "Quantstamp (QSP)",
+                    "ImageUrl": "\/media\/15887408\/qsp.png",
+                    "Url": "\/coins\/qsp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4618,
+                    "Name": "SysCoin",
+                    "FullName": "SysCoin (SYS)",
+                    "ImageUrl": "\/media\/20062\/sys.png",
+                    "Url": "\/coins\/sys\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 632357,
+                    "Name": "keegan.ead",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/632357\/2a941c71-a978-424b-abc3-d7b4f2f2b90e.jpg",
+                    "Url": "\/profile\/keegan.ead\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 606084,
+                    "Name": "D3F0CEB9",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/606084\/b5f78355-8f57-4670-9ba8-09779b6f397b.jpg",
+                    "Url": "\/profile\/D3F0CEB9\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 368498,
+                    "Name": "Chillihot",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/368498\/ea6c5906-8dd3-4bd3-8e13-e14faebc98df.jpg",
+                    "Url": "\/profile\/Chillihot\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 313044,
+                    "Name": "crypto4life",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/313044\/5470fa45-d066-43e9-8494-ba902c9ea358.jpg",
+                    "Url": "\/profile\/crypto4life\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 403444,
+                    "Name": "7143A1CE",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/403444\/ead95033-6aea-4c16-ab93-ab6404de34ca.jpg",
+                    "Url": "\/profile\/7143A1CE\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 665436,
+                    "Name": "markonthemark",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/665436\/00308781-5544-4162-b9bb-45654fe19e21.jpg",
+                    "Url": "\/profile\/markonthemark\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 667719,
+                    "Name": "mertsr",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/667719\/0c43a92f-5f8e-41e1-b0ce-2d9a71f9ffa7.jpg",
+                    "Url": "\/profile\/mertsr\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 665065,
+                    "Name": "nashxp10",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/665065\/f756d7d5-feae-4656-8b84-e71ea6335d43.jpg",
+                    "Url": "\/profile\/nashxp10\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 652632,
+                    "Name": "boris.ebejer",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/652632\/0ff58019-6d1a-4a2d-8661-2371fe565ddf.jpg",
+                    "Url": "\/profile\/boris.ebejer\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 630906,
+                    "Name": "randomkoinz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/630906\/92e342fa-2108-4537-9082-407be6e95575.jpg",
+                    "Url": "\/profile\/randomkoinz\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 643,
+            "Posts": "98",
+            "Comments": "88",
+            "Points": 19405,
+            "PageViewsSplit": {
+                "Overview": 62975,
+                "Markets": 2624,
+                "Analysis": 1298,
+                "Charts": 7643,
+                "Trades": 1398,
+                "Orderbook": 56,
+                "Forum": 6569,
+                "Influence": 533
+            },
+            "PageViews": 83096
+        },
+        "Twitter": {
+            "favourites": "887",
+            "statuses": 334,
+            "following": "210",
+            "account_creation": "1496237279",
+            "name": "AdEx",
+            "link": "https:\/\/twitter.com\/AdEx_Network",
+            "lists": 562,
+            "followers": 46038,
+            "Points": 48848
+        },
+        "Reddit": {
+            "comments_per_hour": "0.26",
+            "comments_per_day": 6.15,
+            "link": "https:\/\/www.reddit.com\/r\/AdEx\/",
+            "posts_per_day": "1.29",
+            "active_users": 74,
+            "subscribers": 3552,
+            "posts_per_hour": "0.05",
+            "community_creation": "1496239870",
+            "name": "AdEx",
+            "Points": 3786
+        },
+        "Facebook": {
+            "likes": 4396,
+            "name": "AdEx Network",
+            "link": "https:\/\/www.facebook.com\/AdExNetwork\/",
+            "talking_about": "134",
+            "is_closed": "false",
+            "Points": 4396
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/AdExBlockchain\/adex-token",
+                    "last_update": "1515574454",
+                    "subscribers": 7,
+                    "size": "66",
+                    "created_at": "1497783121",
+                    "open_pull_issues": "0",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "JavaScript",
+                    "open_total_issues": "1",
+                    "stars": 10,
+                    "forks": 3,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "open_issues": "1",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1512749881"
+                }
+            ],
+            "Points": 37
+        }
+    }
+}

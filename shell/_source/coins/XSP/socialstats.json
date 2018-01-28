@@ -1,0 +1,182 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XSP",
+            "CoinName": "PoolStamp",
+            "Type": "Webpagecoinp",
+            "Points": 103
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5334,
+                    "Name": "NakomotoDark",
+                    "FullName": "NakomotoDark (NKT)",
+                    "ImageUrl": "\/media\/20371\/nkt.png",
+                    "Url": "\/coins\/nkt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33873,
+                    "Name": "PlatiniumCoin",
+                    "FullName": "PlatiniumCoin (PNC)",
+                    "ImageUrl": "\/media\/352085\/pnc.png",
+                    "Url": "\/coins\/pnc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37190,
+                    "Name": "MIScoin",
+                    "FullName": "MIScoin (MIS)",
+                    "ImageUrl": "\/media\/1381981\/mis.png",
+                    "Url": "\/coins\/mis\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 661719,
+                    "Name": "Force Coin",
+                    "FullName": "Force Coin (FOR)",
+                    "ImageUrl": "\/media\/20780764\/for.png",
+                    "Url": "\/coins\/for\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5021,
+                    "Name": "SapienceCoin",
+                    "FullName": "SapienceCoin (XAI)",
+                    "ImageUrl": "\/media\/20071\/xai.png",
+                    "Url": "\/coins\/xai\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21370,
+                    "Name": "FlyCoin",
+                    "FullName": "FlyCoin (FLY)",
+                    "ImageUrl": "\/media\/351013\/fly.png",
+                    "Url": "\/coins\/fly\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35687,
+                    "Name": "Horse Power",
+                    "FullName": "Horse Power (HSP)",
+                    "ImageUrl": "\/media\/352251\/hsp.png",
+                    "Url": "\/coins\/hsp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28700,
+                    "Name": "Lazarus",
+                    "FullName": "Lazarus (LAZ)",
+                    "ImageUrl": "\/media\/351552\/laz.png",
+                    "Url": "\/coins\/laz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4607,
+                    "Name": "SoleCoin",
+                    "FullName": "SoleCoin (SOLE)",
+                    "ImageUrl": "\/media\/20431\/sole.png",
+                    "Url": "\/coins\/sole\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 39710,
+                    "Name": "ReturnCoin",
+                    "FullName": "ReturnCoin (RNC)",
+                    "ImageUrl": "\/media\/1382240\/rnc.png",
+                    "Url": "\/coins\/rnc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 274610,
+                    "Name": "nigerbar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/274610\/23e6c0b8-ac8c-43f5-9a29-dda92d9c559f.png",
+                    "Url": "\/profile\/nigerbar\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 59772,
+                    "Name": "vitaliky5",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/59772\/8f592b39-b3d0-43ac-8e61-b74d9658b291.jpg",
+                    "Url": "\/profile\/vitaliky5\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 166851,
+                    "Name": "DBFC5376",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/166851\/71c7fe8b-5baa-4f7e-b6e0-08e83192c172.jpg",
+                    "Url": "\/profile\/DBFC5376\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 100,
+            "Followers": 4,
+            "PageViewsSplit": {
+                "Overview": 527,
+                "Markets": 13,
+                "Analysis": 13,
+                "Charts": 20,
+                "Trades": 11,
+                "Orderbook": 0,
+                "Forum": 9,
+                "Influence": 3
+            },
+            "PageViews": 596
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "forks": 0,
+                    "language": "C",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "closed_pull_issues": "0",
+                    "open_total_issues": "0",
+                    "last_update": "1419940884",
+                    "last_push": "1419940882",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "3088",
+                    "stars": 0,
+                    "closed_issues": "0",
+                    "fork": "false",
+                    "created_at": "1419940503",
+                    "open_pull_issues": "0",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "0",
+                    "url": "https:\/\/github.com\/poolstamp\/poolstamp"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

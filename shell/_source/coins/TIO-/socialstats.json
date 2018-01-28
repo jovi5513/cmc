@@ -1,0 +1,164 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "TIO*",
+            "CoinName": "Tio Tour Guides",
+            "Type": "Webpagecoinp",
+            "Points": 3410
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 71884,
+                    "Name": "BenjiRolls",
+                    "FullName": "BenjiRolls (BENJI)",
+                    "ImageUrl": "\/media\/1383163\/benji.png",
+                    "Url": "\/coins\/benji\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 319238,
+                    "Name": "Moya Token",
+                    "FullName": "Moya Token (MTK)",
+                    "ImageUrl": "\/media\/12318149\/mtk.png",
+                    "Url": "\/coins\/mtk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369029,
+                    "Name": "BlackholeCoin",
+                    "FullName": "BlackholeCoin (BHC*)",
+                    "ImageUrl": "\/media\/14913434\/bhc.png",
+                    "Url": "\/coins\/bhcstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20348,
+                    "Name": "BitalphaCoin",
+                    "FullName": "BitalphaCoin (BAC)",
+                    "ImageUrl": "\/media\/350913\/bac.png",
+                    "Url": "\/coins\/bac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45262,
+                    "Name": "OroCoin",
+                    "FullName": "OroCoin (ORO)",
+                    "ImageUrl": "\/media\/1382656\/oro.png",
+                    "Url": "\/coins\/oro\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5379,
+                    "Name": "Instamine Nuggets",
+                    "FullName": "Instamine Nuggets (MINE)",
+                    "ImageUrl": "\/media\/20356\/mine.png",
+                    "Url": "\/coins\/mine\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186253,
+                    "Name": "TribeToken",
+                    "FullName": "TribeToken (TRIBE)",
+                    "ImageUrl": "\/media\/1383797\/tribe.jpg",
+                    "Url": "\/coins\/tribe\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 23745,
+                    "Name": "iBankCoin",
+                    "FullName": "iBankCoin (IBANK)",
+                    "ImageUrl": "\/media\/351238\/ibank.png",
+                    "Url": "\/coins\/ibank\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29713,
+                    "Name": "Invictus",
+                    "FullName": "Invictus (INV)",
+                    "ImageUrl": "\/media\/351682\/inv.png",
+                    "Url": "\/coins\/inv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 378830,
+                    "Name": "LitecoinCash",
+                    "FullName": "LitecoinCash (LCASH)",
+                    "ImageUrl": "\/media\/14913550\/lcash.png",
+                    "Url": "\/coins\/lcash\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "PageViewsSplit": {
+                "Overview": 209,
+                "Markets": 9,
+                "Analysis": 17,
+                "Charts": 3,
+                "Trades": 6,
+                "Orderbook": 0,
+                "Forum": 4,
+                "Influence": 2
+            },
+            "PageViews": 250
+        },
+        "Twitter": {
+            "following": "6",
+            "account_creation": "1501558924",
+            "name": "Tio Guides",
+            "lists": 6,
+            "statuses": 154,
+            "favourites": "1",
+            "followers": 1544,
+            "link": "https:\/\/twitter.com\/TioTourGuides",
+            "Points": 1574
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 1833,
+            "link": "https:\/\/www.facebook.com\/tiotourguides\/",
+            "is_closed": "false",
+            "talking_about": "67",
+            "name": "Tio Tour Guides",
+            "Points": 1833
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1506240621",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "0",
+                    "size": "5",
+                    "stars": 0,
+                    "last_update": "1506242254",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/tios123\/Tio",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1506371756",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "open_issues": "0",
+                    "language": "JavaScript",
+                    "subscribers": 1
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

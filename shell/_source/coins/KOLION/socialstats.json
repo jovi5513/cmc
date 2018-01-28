@@ -1,0 +1,140 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "KOLION",
+            "CoinName": "Kolion",
+            "Type": "Webpagecoinp",
+            "Points": 75
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4530,
+                    "Name": "GlyphCoin",
+                    "FullName": "GlyphCoin (GLYPH)",
+                    "ImageUrl": "\/media\/19725\/glyph.png",
+                    "Url": "\/coins\/glyph\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 620037,
+                    "Name": "Bytether\u200a",
+                    "FullName": "Bytether\u200a (BTH)",
+                    "ImageUrl": "\/media\/20780656\/bth.png",
+                    "Url": "\/coins\/bth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32785,
+                    "Name": "Zcrypt",
+                    "FullName": "Zcrypt (ZXT)",
+                    "ImageUrl": "\/media\/351936\/zxt.png",
+                    "Url": "\/coins\/zxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4543,
+                    "Name": "JunkCoin",
+                    "FullName": "JunkCoin (JKC)",
+                    "ImageUrl": "\/media\/19757\/jkc.png",
+                    "Url": "\/coins\/jkc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4572,
+                    "Name": "Nybble",
+                    "FullName": "Nybble (NBL)",
+                    "ImageUrl": "\/media\/19825\/nbl.png",
+                    "Url": "\/coins\/nbl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29758,
+                    "Name": "AntiLitecoin",
+                    "FullName": "AntiLitecoin (ANTC)",
+                    "ImageUrl": "\/media\/351690\/antc.png",
+                    "Url": "\/coins\/antc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5329,
+                    "Name": "EbolaShare",
+                    "FullName": "EbolaShare (EBS)",
+                    "ImageUrl": "\/media\/20267\/ebs.png",
+                    "Url": "\/coins\/ebs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7580,
+                    "Name": "Charity Coin",
+                    "FullName": "Charity Coin (CHA)",
+                    "ImageUrl": "\/media\/19986\/a3c.png",
+                    "Url": "\/coins\/cha\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28176,
+                    "Name": "TDFB",
+                    "FullName": "TDFB (TDFB)",
+                    "ImageUrl": "\/media\/351507\/tdfb.png",
+                    "Url": "\/coins\/tdfb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182463,
+                    "Name": "Ammo Rewards",
+                    "FullName": "Ammo Rewards (AMMO)",
+                    "ImageUrl": "\/media\/1383778\/ammo.png",
+                    "Url": "\/coins\/ammo\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 381209,
+                    "Name": "viper_086",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/381209\/a8c991da-87f2-452f-9959-54cf3f63cf50.jpg",
+                    "Url": "\/profile\/viper_086\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 337970,
+                    "Name": "seihakhun",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/337970\/dded5009-9763-4059-a098-4e91aef48d73.jpg",
+                    "Url": "\/profile\/seihakhun\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Points": 75,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 231,
+                "Markets": 33,
+                "Analysis": 10,
+                "Charts": 25,
+                "Trades": 18,
+                "Orderbook": 0,
+                "Forum": 11,
+                "Influence": 7
+            },
+            "PageViews": 335
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

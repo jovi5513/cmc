@@ -1,0 +1,218 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PPP",
+            "CoinName": "PayPie",
+            "Type": "Webpagecoinp",
+            "Points": 10044
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 79864,
+                    "Name": "Redcoin",
+                    "FullName": "Redcoin (RED)",
+                    "ImageUrl": "\/media\/1383265\/red.png",
+                    "Url": "\/coins\/red\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4570,
+                    "Name": "Nautilus Coin",
+                    "FullName": "Nautilus Coin (NAUT)",
+                    "ImageUrl": "\/media\/19822\/naut.png",
+                    "Url": "\/coins\/naut\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20908,
+                    "Name": "ZeitCoin",
+                    "FullName": "ZeitCoin (ZEIT)",
+                    "ImageUrl": "\/media\/350984\/zeit.png",
+                    "Url": "\/coins\/zeit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20315,
+                    "Name": "BitCrystals",
+                    "FullName": "BitCrystals (BCY)",
+                    "ImageUrl": "\/media\/350903\/bcy.png",
+                    "Url": "\/coins\/bcy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 303943,
+                    "Name": "AB-Chain",
+                    "FullName": "AB-Chain (ABC)",
+                    "ImageUrl": "\/media\/12318006\/bac.png",
+                    "Url": "\/coins\/abc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 18670,
+                    "Name": "HOdlcoin",
+                    "FullName": "HOdlcoin (HODL)",
+                    "ImageUrl": "\/media\/350840\/hodl.png",
+                    "Url": "\/coins\/hodl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 377831,
+                    "Name": "Phore",
+                    "FullName": "Phore (PHR*)",
+                    "ImageUrl": "\/media\/14913549\/phr.png",
+                    "Url": "\/coins\/phrstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340966,
+                    "Name": "Everus",
+                    "FullName": "Everus (EVR)",
+                    "ImageUrl": "\/media\/12318332\/evr.png",
+                    "Url": "\/coins\/evr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186331,
+                    "Name": "Presearch",
+                    "FullName": "Presearch (PRE*)",
+                    "ImageUrl": "\/media\/1383801\/pst.png",
+                    "Url": "\/coins\/prestar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32694,
+                    "Name": "Darcrus",
+                    "FullName": "Darcrus (DAR)",
+                    "ImageUrl": "\/media\/351930\/dar.png",
+                    "Url": "\/coins\/dar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 677416,
+                    "Name": "plm_moons",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677416\/babd0678-de11-4461-8b2b-1deca2f958c6.jpg",
+                    "Url": "\/profile\/plm_moons\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 340358,
+                    "Name": "stearnsebills",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/340358\/9c30b4aa-e84f-427d-b1bd-4e8edb91981d.jpg",
+                    "Url": "\/profile\/stearnsebills\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 464770,
+                    "Name": "jpn.miyuki",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/464770\/126d7ca7-1a2a-4bdc-a0f9-b1b231dc01dc.jpg",
+                    "Url": "\/profile\/jpn.miyuki\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 522117,
+                    "Name": "onufriy47",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/522117\/93f96cd6-e847-4c0d-bd65-65bb14e4e29f.jpg",
+                    "Url": "\/profile\/onufriy47\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 662738,
+                    "Name": "arakel500",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/662738\/fa26c300-41bc-43bc-887d-74314441da08.jpg",
+                    "Url": "\/profile\/arakel500\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 460946,
+                    "Name": "canertara",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/460946\/155cc860-acf9-46af-9974-b7d6ece2af94.jpg",
+                    "Url": "\/profile\/canertara\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 549969,
+                    "Name": "22foss",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/549969\/0c0ca12d-f945-4cff-a4ed-10c6e65f3f21.jpg",
+                    "Url": "\/profile\/22foss\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 517469,
+                    "Name": "vanessa.druett",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/517469\/6bf4bf43-49b0-41b3-adb6-06047c4312a6.jpg",
+                    "Url": "\/profile\/vanessa.druett\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 594883,
+                    "Name": "gareth.cross",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/594883\/40fd8791-45fd-4df9-838a-631d125e7781.jpg",
+                    "Url": "\/profile\/gareth.cross\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 329520,
+                    "Name": "shahkhan_87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/329520\/1fc7a918-abe2-41f3-8f4e-4d38530bb47d.jpg",
+                    "Url": "\/profile\/shahkhan_87\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 592011,
+                    "Name": "west.packer",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/592011\/4d6bec62-82ba-4d5c-9eb4-9cd6e4a70420.jpg",
+                    "Url": "\/profile\/west.packer\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 2145,
+            "Posts": "7",
+            "Comments": "7",
+            "Followers": 76,
+            "PageViewsSplit": {
+                "Overview": 6021,
+                "Markets": 491,
+                "Analysis": 152,
+                "Charts": 603,
+                "Trades": 281,
+                "Orderbook": 3,
+                "Forum": 200,
+                "Influence": 47
+            },
+            "PageViews": 7798
+        },
+        "Twitter": {
+            "favourites": "4",
+            "statuses": 191,
+            "following": "2",
+            "account_creation": "1499723284",
+            "followers": 5582,
+            "name": "PayPie",
+            "link": "https:\/\/twitter.com\/PayPiePlatform",
+            "lists": 95,
+            "Points": 6057
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/PayPie\/\/",
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "46",
+            "name": "PayPie",
+            "likes": 1842,
+            "link": "https:\/\/www.facebook.com\/PayPiePlatform\/",
+            "Points": 1842
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

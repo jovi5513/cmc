@@ -1,0 +1,233 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "WEX",
+            "CoinName": "Wexcoin",
+            "Type": "Webpagecoinp",
+            "Points": 550
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 40842,
+                    "Name": "PayPeer",
+                    "FullName": "PayPeer (PAYP)",
+                    "ImageUrl": "\/media\/1382251\/payp.png",
+                    "Url": "\/coins\/payp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24892,
+                    "Name": "NewZealandCoin",
+                    "FullName": "NewZealandCoin (NZC)",
+                    "ImageUrl": "\/media\/351366\/nzc.png",
+                    "Url": "\/coins\/nzc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 255293,
+                    "Name": "Travel Coin",
+                    "FullName": "Travel Coin (TRV)",
+                    "ImageUrl": "\/media\/9350789\/trv.png",
+                    "Url": "\/coins\/trv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20823,
+                    "Name": "RevolverCoin",
+                    "FullName": "RevolverCoin (XRE)",
+                    "ImageUrl": "\/media\/350975\/xre.jpg",
+                    "Url": "\/coins\/xre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21981,
+                    "Name": "Stakers",
+                    "FullName": "Stakers (STA*)",
+                    "ImageUrl": "\/media\/351063\/sta.png",
+                    "Url": "\/coins\/stastar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 232556,
+                    "Name": "IwToken",
+                    "FullName": "IwToken (IWT)",
+                    "ImageUrl": "\/media\/1384048\/iwt.png",
+                    "Url": "\/coins\/iwt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 61667,
+                    "Name": "WavesGO",
+                    "FullName": "WavesGO (WGO)",
+                    "ImageUrl": "\/media\/1382998\/wgo.png",
+                    "Url": "\/coins\/wgo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43818,
+                    "Name": "MarxCoin",
+                    "FullName": "MarxCoin (MARX)",
+                    "ImageUrl": "\/media\/1382578\/marx.png",
+                    "Url": "\/coins\/marx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4441,
+                    "Name": "Emerald",
+                    "FullName": "Emerald (EMD)",
+                    "ImageUrl": "\/media\/20278\/emd.png",
+                    "Url": "\/coins\/emd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38959,
+                    "Name": "Astral",
+                    "FullName": "Astral (AST*)",
+                    "ImageUrl": "\/media\/1382170\/ast.png",
+                    "Url": "\/coins\/aststar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 405886,
+                    "Name": "geokara03",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/405886\/31a6a9cc-f112-48df-9da3-077880e95aab.jpg",
+                    "Url": "\/profile\/geokara03\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 239697,
+                    "Name": "malek_ghaemi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/239697\/c3b54d82-9018-4201-bb1f-054b14352bbb.jpg",
+                    "Url": "\/profile\/malek_ghaemi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 298576,
+                    "Name": "stintaru",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/298576\/8b79ab77-8ab0-43d6-9ebe-11f10401e650.jpg",
+                    "Url": "\/profile\/stintaru\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 197654,
+                    "Name": "45AA3A5",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/197654\/dd4538da-6547-4c5e-b692-88b1b4ee6be6.jpg",
+                    "Url": "\/profile\/45AA3A5\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 275441,
+                    "Name": "turimix",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/275441\/39187c30-c0f7-42f4-b785-b8bebe6f120d.jpg",
+                    "Url": "\/profile\/turimix\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 232333,
+                    "Name": "sipndot86",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/232333\/32455a24-e82d-494d-83b0-fa8a4edef560.jpg",
+                    "Url": "\/profile\/sipndot86\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 201999,
+                    "Name": "james.quigley.ie",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/201999\/72624995-cf15-4516-bf8e-614b6a44f736.jpg",
+                    "Url": "\/profile\/james.quigley.ie\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 200304,
+                    "Name": "anthonyryan1912",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/200304\/d95fcebb-2f0b-4225-bb68-6473570452ba.png",
+                    "Url": "\/profile\/anthonyryan1912\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 164513,
+                    "Name": "sergepetrov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/164513\/fc815ac0-1ff2-453b-bd2b-3eed36b44c5c.png",
+                    "Url": "\/profile\/sergepetrov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 159808,
+                    "Name": "kesnerhart",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/159808\/c3e4f5e5-059f-41b8-a9b7-d3961cd9672c.jpg",
+                    "Url": "\/profile\/kesnerhart\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 65541,
+                    "Name": "charityfundplus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/65541\/2afef154-f545-4a05-8606-357f07289b07.jpg",
+                    "Url": "\/profile\/charityfundplus\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 18,
+            "Points": 545,
+            "Posts": "3",
+            "Comments": "2",
+            "PageViewsSplit": {
+                "Overview": 3620,
+                "Markets": 146,
+                "Analysis": 164,
+                "Charts": 207,
+                "Trades": 102,
+                "Orderbook": 9,
+                "Forum": 77,
+                "Influence": 45
+            },
+            "PageViews": 4370
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 1,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "3167",
+                    "url": "https:\/\/github.com\/wexcoinofficial\/wexcoin",
+                    "last_update": "1469205700",
+                    "last_push": "1470123797",
+                    "created_at": "1469204282",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 5
+        }
+    }
+}

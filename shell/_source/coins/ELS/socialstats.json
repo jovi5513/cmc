@@ -1,0 +1,212 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ELS",
+            "CoinName": "Elysium",
+            "Type": "Webpagecoinp",
+            "Points": 1205
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 15284,
+                    "Name": "Amsterdam Coin",
+                    "FullName": "Amsterdam Coin (AMS)",
+                    "ImageUrl": "\/media\/350562\/ams.png",
+                    "Url": "\/coins\/ams\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 360229,
+                    "Name": "CryptoInsight",
+                    "FullName": "CryptoInsight (TKR)",
+                    "ImageUrl": "\/media\/14761909\/tkr.png",
+                    "Url": "\/coins\/tkr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28216,
+                    "Name": "ZayedCoin",
+                    "FullName": "ZayedCoin (ZYD)",
+                    "ImageUrl": "\/media\/351510\/zyd.png",
+                    "Url": "\/coins\/zyd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30391,
+                    "Name": "Zurcoin",
+                    "FullName": "Zurcoin (ZUR)",
+                    "ImageUrl": "\/media\/351758\/zur.png",
+                    "Url": "\/coins\/zur\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 334997,
+                    "Name": "Eloplay",
+                    "FullName": "Eloplay (ELT)",
+                    "ImageUrl": "\/media\/12318259\/elt.png",
+                    "Url": "\/coins\/elt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28764,
+                    "Name": "BitCurrency",
+                    "FullName": "BitCurrency (BTCR)",
+                    "ImageUrl": "\/media\/351554\/btr.png",
+                    "Url": "\/coins\/btcr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 453943,
+                    "Name": "FinTab",
+                    "FullName": "FinTab (FNT)",
+                    "ImageUrl": "\/media\/16746591\/fnt.png",
+                    "Url": "\/coins\/fnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 16127,
+                    "Name": "Karmacoin",
+                    "FullName": "Karmacoin (KARM)",
+                    "ImageUrl": "\/media\/350693\/karm.png",
+                    "Url": "\/coins\/karm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 347067,
+                    "Name": "WhaleCoin",
+                    "FullName": "WhaleCoin (WHL)",
+                    "ImageUrl": "\/media\/12318372\/whl.png",
+                    "Url": "\/coins\/whl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5367,
+                    "Name": "CyberCoin",
+                    "FullName": "CyberCoin (CC)",
+                    "ImageUrl": "\/media\/20225\/cc.png",
+                    "Url": "\/coins\/cc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 565952,
+                    "Name": "fab84l",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/565952\/4fefd9f4-637d-49e9-9b64-351e130c2ec3.jpg",
+                    "Url": "\/profile\/fab84l\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 124658,
+                    "Name": "MAHDIAGER",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/124658\/60590893-fea1-4054-bebc-ad243030163a.jpg",
+                    "Url": "\/profile\/MAHDIAGER\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 213517,
+                    "Name": "CryptoPhat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/213517\/f983e0dc-deda-4f41-bc33-fe8cda13b8b1.png",
+                    "Url": "\/profile\/CryptoPhat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 196106,
+                    "Name": "abai.d200071",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/196106\/b4cea2a8-cfc4-4bd5-a049-1ca8225e1393.jpg",
+                    "Url": "\/profile\/abai.d200071\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 184485,
+                    "Name": "brandonhenry07",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/184485\/d11ce176-ee86-40fc-b921-1e15610a4030.jpg",
+                    "Url": "\/profile\/brandonhenry07\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 131436,
+                    "Name": "xsane2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/131436\/50fdc623-04bb-4377-add5-49ae936ff21b.jpg",
+                    "Url": "\/profile\/xsane2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 183688,
+                    "Name": "ckbopanna",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/183688\/26d4f10f-392c-45be-b79d-40e454129e9f.jpg",
+                    "Url": "\/profile\/ckbopanna\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 154561,
+                    "Name": "siwesy",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/154561\/2e0a8e85-5fd4-40ab-8524-d62958fabcb4.png",
+                    "Url": "\/profile\/siwesy\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 164605,
+                    "Name": "radix",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/164605\/1c71d558-f3dc-43c7-85bf-f643718b1e06.jpg",
+                    "Url": "\/profile\/radix\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 159808,
+                    "Name": "kesnerhart",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/159808\/c3e4f5e5-059f-41b8-a9b7-d3961cd9672c.jpg",
+                    "Url": "\/profile\/kesnerhart\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 74565,
+                    "Name": "60CB97CB",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/74565\/ee58ffa1-6710-4454-a330-0896b48e1be7.jpg",
+                    "Url": "\/profile\/60CB97CB\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 16,
+            "Comments": "8",
+            "Points": 605,
+            "Posts": "5",
+            "PageViewsSplit": {
+                "Overview": 2153,
+                "Markets": 126,
+                "Analysis": 89,
+                "Charts": 388,
+                "Trades": 270,
+                "Orderbook": 7,
+                "Forum": 604,
+                "Influence": 43
+            },
+            "PageViews": 3680
+        },
+        "Twitter": {
+            "lists": 11,
+            "favourites": "11",
+            "name": "Elysium",
+            "statuses": 63,
+            "followers": 545,
+            "following": "1194",
+            "link": "https:\/\/twitter.com\/Elysium_coin",
+            "account_creation": "1486062080",
+            "Points": 600
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

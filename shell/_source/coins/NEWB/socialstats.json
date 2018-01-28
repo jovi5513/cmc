@@ -1,0 +1,146 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NEWB",
+            "CoinName": "Newbium",
+            "Type": "Webpagecoinp",
+            "Points": 4658
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5023,
+                    "Name": "Bitstake",
+                    "FullName": "Bitstake (XBS)",
+                    "ImageUrl": "\/media\/351060\/xbs_1.png",
+                    "Url": "\/coins\/xbs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41868,
+                    "Name": "HexxCoin",
+                    "FullName": "HexxCoin (HXX)",
+                    "ImageUrl": "\/media\/1382348\/hexx.jpg",
+                    "Url": "\/coins\/hxx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 241536,
+                    "Name": "Credo",
+                    "FullName": "Credo (CFT*)",
+                    "ImageUrl": "\/media\/9350747\/credo.jpg",
+                    "Url": "\/coins\/cftstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4420,
+                    "Name": "ChinaCoin",
+                    "FullName": "ChinaCoin (CNC)",
+                    "ImageUrl": "\/media\/20021\/cnc.png",
+                    "Url": "\/coins\/cnc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 419930,
+                    "Name": "BitCAD",
+                    "FullName": "BitCAD (BCD*)",
+                    "ImageUrl": "\/media\/16746454\/bcd.png",
+                    "Url": "\/coins\/bcdstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43933,
+                    "Name": "Tatiana Coin",
+                    "FullName": "Tatiana Coin (TAT)",
+                    "ImageUrl": "\/media\/1382594\/tat.png",
+                    "Url": "\/coins\/tat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34489,
+                    "Name": "FreeCoin",
+                    "FullName": "FreeCoin (FRE)",
+                    "ImageUrl": "\/media\/352129\/fre.png",
+                    "Url": "\/coins\/fre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25613,
+                    "Name": "ChronosCoin",
+                    "FullName": "ChronosCoin (CRX)",
+                    "ImageUrl": "\/media\/351388\/crx.png",
+                    "Url": "\/coins\/crx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29762,
+                    "Name": "JobsCoin",
+                    "FullName": "JobsCoin (JOBS)",
+                    "ImageUrl": "\/media\/351691\/jobs.png",
+                    "Url": "\/coins\/jobs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43602,
+                    "Name": "LePenCoin",
+                    "FullName": "LePenCoin (LEPEN)",
+                    "ImageUrl": "\/media\/1382507\/lepen.png",
+                    "Url": "\/coins\/lepen\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Posts": "0",
+            "Points": 25,
+            "Followers": 1,
+            "PageViewsSplit": {
+                "Overview": 180,
+                "Markets": 11,
+                "Analysis": 6,
+                "Charts": 6,
+                "Trades": 2,
+                "Orderbook": 0,
+                "Forum": 5,
+                "Influence": 4
+            },
+            "PageViews": 214
+        },
+        "Twitter": {
+            "favourites": "122",
+            "lists": 243,
+            "statuses": 2063,
+            "following": "238",
+            "account_creation": "1459615062",
+            "name": "Newbium",
+            "followers": 2999,
+            "link": "https:\/\/twitter.com\/newbiumcoin",
+            "Points": 4216
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "Newbium",
+            "likes": 417,
+            "link": "https:\/\/www.facebook.com\/newbium\/",
+            "talking_about": "5",
+            "is_closed": "false",
+            "Points": 417
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

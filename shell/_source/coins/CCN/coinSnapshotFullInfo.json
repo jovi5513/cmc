@@ -1,0 +1,78 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "CannaCoin (CCN) - Live streaming prices and market cap",
+            "PageDescription": "Live CannaCoin prices from all markets and CCN coin market Capitalization. Stay up to date with the latest CannaCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19643\/ccn.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4412",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Cannacoin (CCN)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "CCN",
+            "Url": "\/coins\/ccn\/",
+            "BaseAngularUrl": "\/coins\/ccn\/",
+            "Name": "CannaCoin",
+            "ImageUrl": "\/media\/19643\/ccn.png",
+            "Description": "<p>Cannacoin (CCN) is another coin trying to associate itself with the narcotics business. The block reward halves every year and difficulty retargets using the kimoto gravity well. The coin is scrypt, block time is 60 seconds, and the total supply is capped at 13.14 million.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "13140000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "22\/01\/2014",
+            "Twitter": "@CCNProject",
+            "AffiliateUrl": "http:\/\/cannacoin.cc\/index.php",
+            "Website": "<a href='http:\/\/cannacoin.cc\/index.php' target='_blank'>CannaCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515948190,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "50%",
+            "BlockNumber": 670467,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 4700428.3191381,
+            "PreviousTotalCoinsMined": 4700428.2818684,
+            "BlockReward": 0.010493026347831
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~CCN~DOT",
+            "2~Cryptsy~CCN~BTC",
+            "2~Cryptopia~CCN~XMR",
+            "2~Poloniex~CCN~BTC",
+            "2~Cryptopia~CCN~UNO",
+            "2~BitTrex~CCN~BTC",
+            "2~Cryptopia~CCN~LTC",
+            "2~Cryptopia~CCN~FTC",
+            "2~Cryptopia~CCN~BTC",
+            "2~Cryptopia~CCN~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~CCN~DOT~4~94.99999998~1487980428~2.35447527~223.675151~1487980428.002~0~0~0~0~94.99999998~94.99999998~94.99999998~94.99999998~94.99999998~94.99999998~Cryptopia~7ffe9",
+            "5~CCCAGG~CCN~BTC~4~0.00001659~1515945040~94~0.00155946~1515945040~30841.090309559997~0.48684420000000006~34554.35516464~0.5626051999999998~0.00001903~0.00001941~0.000014~0.00002057~0.00002148~0.000014~Cryptopia~7ffe9",
+            "5~CCCAGG~CCN~XMR~4~0.0006536~1486694919~403.78924821~0.263917~1486694919~0~0~0~0~0.0006536~0.0006536~0.0006536~0.0006536~0.0006536~0.0006536~Cryptopia~7ffe9",
+            "5~CCCAGG~CCN~UNO~4~0.00199999~1498058638~9.98003992~0.01995998~1498058638~0~0~0~0~0.00199999~0.00199999~0.00199999~0.00199999~0.00199999~0.00199999~Cryptopia~7ffe9",
+            "5~CCCAGG~CCN~LTC~4~0.0021~1515180188~792.0232178~1.66324876~1515180188~0~0~0~0~0.0021~0.0021~0.0021~0.0021~0.0021~0.0021~Cryptopia~7ffe9",
+            "5~CCCAGG~CCN~FTC~4~1.7~1477195573~0.0048~0.00816~1477195573~0~0~0~0~1.7~1.7~1.7~1.7~1.7~1.7~Cryptopia~7ffe9",
+            "5~CCCAGG~CCN~DOGE~4~40~1515188262~12.20543626~488.2174504~1515188262~0~0~0~0~40~40~40~40~40~40~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

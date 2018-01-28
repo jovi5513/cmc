@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "BQC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "4e-7",
+            "LASTUPDATE": "1483583509",
+            "LASTVOLUME": "309.87",
+            "LASTVOLUMETO": "0.000123948",
+            "LASTTRADEID": "13848821",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "4e-7",
+            "HIGHDAY": "4e-7",
+            "LOWDAY": "4e-7",
+            "OPEN24HOUR": "4e-7",
+            "HIGH24HOUR": "4e-7",
+            "LOW24HOUR": "4e-7",
+            "LASTMARKET": "BTER"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Coinse",
+                "FROMSYMBOL": "BQC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000299",
+                "LASTUPDATE": "1432250269",
+                "LASTVOLUME": "337.32385787",
+                "LASTVOLUMETO": "0.0010086",
+                "LASTTRADEID": "1432250269101",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000299",
+                "HIGH24HOUR": "0.00000299",
+                "LOW24HOUR": "0.00000299"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "BTER",
+                "FROMSYMBOL": "BQC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "4e-7",
+                "LASTUPDATE": "1483583509",
+                "LASTVOLUME": "309.87",
+                "LASTVOLUMETO": "0.000123948",
+                "LASTTRADEID": "13848821",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "4e-7",
+                "HIGH24HOUR": "4e-7",
+                "LOW24HOUR": "4e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "BQC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000114",
+                "LASTUPDATE": "1452802640",
+                "LASTVOLUME": "131.13131313",
+                "LASTVOLUMETO": "0.00014949",
+                "LASTTRADEID": "110940569",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000114",
+                "HIGH24HOUR": "0.00000114",
+                "LOW24HOUR": "0.00000114"
+            }
+        ]
+    },
+    "Type": 100
+}

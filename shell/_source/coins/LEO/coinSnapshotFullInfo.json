@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "LEOcoin (LEO) - Live streaming prices and market cap",
+            "PageDescription": "Live LEOcoin prices from all markets and LEO coin market Capitalization. Stay up to date with the latest LEOcoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351988\/leo.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "33001",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "LEOcoin (LEO)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "LEO",
+            "Url": "\/coins\/leo\/",
+            "BaseAngularUrl": "\/coins\/leo\/",
+            "Name": "LEOcoin",
+            "ImageUrl": "\/media\/351988\/leo.png",
+            "Description": "<p>LEOcoin is a Proof of Stake cryptocurrency developed from Litecoin. It uses the Scrypt-Jane algorithm and has a 5% premine. LEOcoin aims at being an easy-to-use, pseudonymous cryptocurrency.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "1000000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "17\/06\/2014",
+            "Twitter": "@LEOcoinORG",
+            "AffiliateUrl": "http:\/\/www.leocoin.org\/",
+            "Website": "<a href='http:\/\/www.leocoin.org\/' target='_blank'>LEOcoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515951676,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 96387600,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~LiveCoin~LEO~ETH",
+            "2~Cryptopia~LEO~DOGE",
+            "2~CCEX~LEO~USD",
+            "2~LiveCoin~LEO~BTC",
+            "2~CCEX~LEO~LTC",
+            "2~LiveCoin~LEO~USD",
+            "2~Novaexchange~LEO~BTC",
+            "2~CCEX~LEO~BTC",
+            "2~Cryptopia~LEO~DOT",
+            "2~CCEX~LEO~DOGE",
+            "2~Cryptopia~LEO~BTC",
+            "2~LiveCoin~LEO~RUR",
+            "2~Cryptopia~LEO~LTC",
+            "2~Cryptopia~LEO~FTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~LEO~ETH~4~0.0002016~1515932275~14.508~0.0029249578799999997~244430179~29.676518209999998~0.0059824760955897~29.676518209999998~0.0059824760955897~0.00022~0.00022~0.0002016~0.0002016~0.0002016~0.0002016~LiveCoin~7ffe9",
+            "5~CCCAGG~LEO~DOGE~4~12.00000054~1514747048~1.088~13.056000587520002~2155687~0~0~0~0~12.00000054~12.00000054~12.00000054~12.00000054~12.00000054~12.00000054~CCEX~7ffe9",
+            "5~CCCAGG~LEO~USD~4~0.23669~1515763436~49.64423~11.7502927987~242299964~0~0~0~0~0.2367~0.2367~0.23669~0.23669~0.23669~0.23669~LiveCoin~7ffe9",
+            "5~CCCAGG~LEO~BTC~4~0.00001858~1515848151~6.4203687~0.00011929045044600002~243619963~0~0~0~0~0.00001858~0.00001858~0.00001858~0.00001858~0.00001858~0.00001858~LiveCoin~7ffe9",
+            "5~CCCAGG~LEO~LTC~4~0.00003646~1512808663~0.01507538~5.496483548e-7~1783068~0~0~0~0~0.00003646~0.00003646~0.00003646~0.00003646~0.00003646~0.00003646~CCEX~7ffe9",
+            "5~CCCAGG~LEO~DOT~4~260.00000029~1488979272~0.00007921~0.020595~1488979272~0~0~0~0~260.00000029~260.00000029~260.00000029~260.00000029~260.00000029~260.00000029~Cryptopia~7ffe9",
+            "5~CCCAGG~LEO~RUR~4~15.95~1513978609~7.05339~112.5015705~228035860~0~0~0~0~15.95~15.95~15.95~15.95~15.95~15.95~LiveCoin~7ffe9",
+            "5~CCCAGG~LEO~FTC~4~20~1485740440~0.00598802~0.11976~1485740440~0~0~0~0~20~20~20~20~20~20~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

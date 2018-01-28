@@ -1,0 +1,225 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "LOOK",
+            "CoinName": "LookCoin",
+            "Type": "Webpagecoinp",
+            "Points": 275
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 199887,
+                    "Name": "Timereum",
+                    "FullName": "Timereum (TME)",
+                    "ImageUrl": "\/media\/1383905\/tme.png",
+                    "Url": "\/coins\/tme\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4536,
+                    "Name": "HeavyCoin",
+                    "FullName": "HeavyCoin (HVC)",
+                    "ImageUrl": "\/media\/19745\/hvc.png",
+                    "Url": "\/coins\/hvc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5357,
+                    "Name": "OrangeCoin",
+                    "FullName": "OrangeCoin (OC)",
+                    "ImageUrl": "\/media\/19843\/oc.png",
+                    "Url": "\/coins\/oc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 23425,
+                    "Name": "MMNXT ",
+                    "FullName": "MMNXT  (MMNXT)",
+                    "ImageUrl": "\/media\/351209\/nxtasset.png",
+                    "Url": "\/coins\/mmnxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 183189,
+                    "Name": "SocialCoin",
+                    "FullName": "SocialCoin (SOCC)",
+                    "ImageUrl": "\/media\/1383779\/socc.png",
+                    "Url": "\/coins\/socc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 63304,
+                    "Name": "Giotto Coin",
+                    "FullName": "Giotto Coin (GOT)",
+                    "ImageUrl": "\/media\/1383079\/got.png",
+                    "Url": "\/coins\/got\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41871,
+                    "Name": "Ghost Coin",
+                    "FullName": "Ghost Coin (SPKTR)",
+                    "ImageUrl": "\/media\/1382349\/spkr.png",
+                    "Url": "\/coins\/spktr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 243045,
+                    "Name": "Acumen",
+                    "FullName": "Acumen (AMT)",
+                    "ImageUrl": "\/media\/9350756\/amt.jpg",
+                    "Url": "\/coins\/amt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5345,
+                    "Name": "BitCredit",
+                    "FullName": "BitCredit (BCR)",
+                    "ImageUrl": "\/media\/20198\/bcr.png",
+                    "Url": "\/coins\/bcr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30126,
+                    "Name": "Victoriouscoin",
+                    "FullName": "Victoriouscoin (VTY)",
+                    "ImageUrl": "\/media\/351733\/vty.png",
+                    "Url": "\/coins\/vty\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 607328,
+                    "Name": "kamuglobal",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/607328\/1b997b6e-7df1-43e7-9073-e8c84501c2e8.jpg",
+                    "Url": "\/profile\/kamuglobal\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 219240,
+                    "Name": "master-trader",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/219240\/96c5aea5-518c-4dad-a3bf-eb7bd14aff7c.jpg",
+                    "Url": "\/profile\/master-trader\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 591128,
+                    "Name": "Ezig26",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/591128\/e9ebb79e-cca4-482e-8ec3-25b3536eef1a.jpg",
+                    "Url": "\/profile\/Ezig26\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 334073,
+                    "Name": "815kas",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/334073\/a02b77a0-92ac-4ef6-ac6f-bbf22818f10a.jpg",
+                    "Url": "\/profile\/815kas\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 520280,
+                    "Name": "JohnLambent",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/520280\/672fec8f-6bc6-4856-9340-82ebe356a3e5.jpg",
+                    "Url": "\/profile\/JohnLambent\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 555905,
+                    "Name": "fakeferns",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/555905\/b763c38d-65c4-419c-afed-3dbbb04faead.jpg",
+                    "Url": "\/profile\/fakeferns\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 30529,
+                    "Name": "zwoornbtc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/30529\/cd20f219-1e68-4cde-adc3-073790afbd7e.png",
+                    "Url": "\/profile\/zwoornbtc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 84226,
+                    "Name": "57C63FD4",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/84226\/b6ac938c-1b33-4aa3-9b55-aa0133fb80e9.jpg",
+                    "Url": "\/profile\/57C63FD4\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 10,
+            "Points": 275,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 869,
+                "Markets": 94,
+                "Analysis": 49,
+                "Charts": 47,
+                "Trades": 39,
+                "Orderbook": 0,
+                "Forum": 28,
+                "Influence": 9
+            },
+            "PageViews": 1135
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 0,
+                    "size": "1570",
+                    "url": "https:\/\/github.com\/lookcoindev\/look",
+                    "last_update": "1480847025",
+                    "last_push": "1480847022",
+                    "created_at": "1480846998",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

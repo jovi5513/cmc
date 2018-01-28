@@ -1,0 +1,146 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "VNT",
+            "CoinName": "Veredictum",
+            "Type": "Webpagecoinp",
+            "Points": 342
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 7580,
+                    "Name": "Charity Coin",
+                    "FullName": "Charity Coin (CHA)",
+                    "ImageUrl": "\/media\/19986\/a3c.png",
+                    "Url": "\/coins\/cha\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28176,
+                    "Name": "TDFB",
+                    "FullName": "TDFB (TDFB)",
+                    "ImageUrl": "\/media\/351507\/tdfb.png",
+                    "Url": "\/coins\/tdfb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182463,
+                    "Name": "Ammo Rewards",
+                    "FullName": "Ammo Rewards (AMMO)",
+                    "ImageUrl": "\/media\/1383778\/ammo.png",
+                    "Url": "\/coins\/ammo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30568,
+                    "Name": "AndromedaCoin",
+                    "FullName": "AndromedaCoin (AND)",
+                    "ImageUrl": "\/media\/351797\/and.png",
+                    "Url": "\/coins\/and\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 619929,
+                    "Name": "Accolade",
+                    "FullName": "Accolade (ACCO)",
+                    "ImageUrl": "\/media\/20780654\/acco.png",
+                    "Url": "\/coins\/acco\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4435,
+                    "Name": "DarkShibe",
+                    "FullName": "DarkShibe (DSB)",
+                    "ImageUrl": "\/media\/20034\/dsb.png",
+                    "Url": "\/coins\/dsb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4597,
+                    "Name": "RazorCoin",
+                    "FullName": "RazorCoin (RZR)",
+                    "ImageUrl": "\/media\/20055\/rzr.png",
+                    "Url": "\/coins\/rzr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 607521,
+                    "Name": "Numus",
+                    "FullName": "Numus (NMS)",
+                    "ImageUrl": "\/media\/20780637\/nms.png",
+                    "Url": "\/coins\/nms\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5281,
+                    "Name": "Elektron",
+                    "FullName": "Elektron (EKN)",
+                    "ImageUrl": "\/media\/20270\/ekn.png",
+                    "Url": "\/coins\/ekn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4418,
+                    "Name": "CopperLark",
+                    "FullName": "CopperLark (CLR)",
+                    "ImageUrl": "\/media\/19657\/clr.png",
+                    "Url": "\/coins\/clr\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 329520,
+                    "Name": "shahkhan_87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/329520\/1fc7a918-abe2-41f3-8f4e-4d38530bb47d.jpg",
+                    "Url": "\/profile\/shahkhan_87\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 1,
+            "Points": 25,
+            "PageViewsSplit": {
+                "Overview": 340,
+                "Markets": 7,
+                "Analysis": 13,
+                "Charts": 5,
+                "Trades": 1,
+                "Orderbook": 0,
+                "Forum": 13,
+                "Influence": 10
+            },
+            "PageViews": 389
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "subscribers": 8,
+            "posts_per_hour": "0.01",
+            "community_creation": "1501227991",
+            "comments_per_hour": "0.00",
+            "comments_per_day": 0.01,
+            "posts_per_day": "0.29",
+            "name": "ventanatoken",
+            "link": "https:\/\/www.reddit.com\/r\/ventanatoken\/",
+            "active_users": 2,
+            "Points": 14
+        },
+        "Facebook": {
+            "name": "Veredictum",
+            "likes": 303,
+            "link": "https:\/\/www.facebook.com\/veredictum.io\/",
+            "talking_about": "2",
+            "is_closed": "false",
+            "Points": 303
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

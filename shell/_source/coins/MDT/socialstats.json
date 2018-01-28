@@ -1,0 +1,170 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MDT",
+            "CoinName": "Midnight ",
+            "Type": "Webpagecoinp",
+            "Points": 220
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 29366,
+                    "Name": "NineElevenTruthCoin",
+                    "FullName": "NineElevenTruthCoin (NTC)",
+                    "ImageUrl": "\/media\/351631\/ntc.png",
+                    "Url": "\/coins\/ntc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32688,
+                    "Name": "NetBit",
+                    "FullName": "NetBit (NBIT)",
+                    "ImageUrl": "\/media\/351928\/nbit.png",
+                    "Url": "\/coins\/nbit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29711,
+                    "Name": "Craftcoin",
+                    "FullName": "Craftcoin (CRAFT)",
+                    "ImageUrl": "\/media\/351681\/craft.png",
+                    "Url": "\/coins\/craft\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5359,
+                    "Name": "FriendshipCoin",
+                    "FullName": "FriendshipCoin (FSC2)",
+                    "ImageUrl": "\/media\/19717\/fsc.png",
+                    "Url": "\/coins\/fsc2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20980,
+                    "Name": "Nebuchadnezzar",
+                    "FullName": "Nebuchadnezzar (NEBU)",
+                    "ImageUrl": "\/media\/350990\/nebu.png",
+                    "Url": "\/coins\/nebu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4591,
+                    "Name": "PayCoin",
+                    "FullName": "PayCoin (PYC)",
+                    "ImageUrl": "\/media\/19878\/pyc.png",
+                    "Url": "\/coins\/pyc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5290,
+                    "Name": "BigCoin",
+                    "FullName": "BigCoin (HUGE)",
+                    "ImageUrl": "\/media\/20318\/huge.png",
+                    "Url": "\/coins\/huge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 68088,
+                    "Name": "IvugeoEvolutionCoin",
+                    "FullName": "IvugeoEvolutionCoin (IEC)",
+                    "ImageUrl": "\/media\/1383144\/wsx.png",
+                    "Url": "\/coins\/iec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 13074,
+                    "Name": "CleverCoin",
+                    "FullName": "CleverCoin (CLV)",
+                    "ImageUrl": "\/media\/20727\/clv.png",
+                    "Url": "\/coins\/clv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4530,
+                    "Name": "GlyphCoin",
+                    "FullName": "GlyphCoin (GLYPH)",
+                    "ImageUrl": "\/media\/19725\/glyph.png",
+                    "Url": "\/coins\/glyph\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Posts": "1",
+            "Points": 50,
+            "Followers": 1,
+            "PageViewsSplit": {
+                "Overview": 497,
+                "Markets": 47,
+                "Analysis": 28,
+                "Charts": 23,
+                "Trades": 19,
+                "Orderbook": 0,
+                "Forum": 15,
+                "Influence": 6
+            },
+            "PageViews": 635
+        },
+        "Twitter": {
+            "favourites": "4",
+            "lists": 6,
+            "statuses": 5,
+            "following": "395",
+            "account_creation": "1437078451",
+            "name": "Midnight Currency",
+            "followers": 135,
+            "link": "https:\/\/twitter.com\/midnightmdt",
+            "Points": 165
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1436535093",
+                    "url": "https:\/\/github.com\/midnightmdt\/midnight",
+                    "forks": 1,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "size": "2153",
+                    "created_at": "1436532763",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1436586852",
+                    "stars": 0
+                }
+            ],
+            "Points": 5
+        }
+    }
+}

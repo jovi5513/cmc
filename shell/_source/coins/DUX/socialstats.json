@@ -1,0 +1,203 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "DUX",
+            "CoinName": "DuxCoin",
+            "Type": "Webpagecoinp",
+            "Points": 175
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 44952,
+                    "Name": "Solarflarecoin",
+                    "FullName": "Solarflarecoin (SFC)",
+                    "ImageUrl": "\/media\/1382639\/sfc.png",
+                    "Url": "\/coins\/sfc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4531,
+                    "Name": "GameLeagueCoin",
+                    "FullName": "GameLeagueCoin (GML)",
+                    "ImageUrl": "\/media\/19726\/gml.png",
+                    "Url": "\/coins\/gml\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188652,
+                    "Name": "BeachCoin",
+                    "FullName": "BeachCoin (SAND)",
+                    "ImageUrl": "\/media\/1383825\/beach.png",
+                    "Url": "\/coins\/sand\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 659724,
+                    "Name": "SagaCoin",
+                    "FullName": "SagaCoin (SAGA)",
+                    "ImageUrl": "\/media\/20780745\/saga.png",
+                    "Url": "\/coins\/saga\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5311,
+                    "Name": "KryptCoin",
+                    "FullName": "KryptCoin (KTK)",
+                    "ImageUrl": "\/media\/19771\/ktk.png",
+                    "Url": "\/coins\/ktk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60424,
+                    "Name": "BlazerCoin",
+                    "FullName": "BlazerCoin (BLAZR)",
+                    "ImageUrl": "\/media\/1382946\/blazr.png",
+                    "Url": "\/coins\/blazr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 446051,
+                    "Name": "People",
+                    "FullName": "People (MAN)",
+                    "ImageUrl": "\/media\/16746574\/man.png",
+                    "Url": "\/coins\/man\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 441616,
+                    "Name": "Relex",
+                    "FullName": "Relex (RLX)",
+                    "ImageUrl": "\/media\/16746570\/rlx.png",
+                    "Url": "\/coins\/rlx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29715,
+                    "Name": "OlympCoin",
+                    "FullName": "OlympCoin (OLYMP)",
+                    "ImageUrl": "\/media\/351683\/olymp.png",
+                    "Url": "\/coins\/olymp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5356,
+                    "Name": "Ascension Coin",
+                    "FullName": "Ascension Coin (ASN)",
+                    "ImageUrl": "\/media\/20192\/asn.png",
+                    "Url": "\/coins\/asn\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 553626,
+                    "Name": "ada2000org",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/553626\/23f62e43-d791-415e-9c84-f032e10dd0f7.jpg",
+                    "Url": "\/profile\/ada2000org\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 207572,
+                    "Name": "shiljeet",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/207572\/3af659ec-7ca8-4005-ae32-c7aed6c02a0e.jpg",
+                    "Url": "\/profile\/shiljeet\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 138986,
+                    "Name": "teremoanaoc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/138986\/2b082682-ff35-45af-aee5-787ed1c8c26f.jpg",
+                    "Url": "\/profile\/teremoanaoc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 306761,
+                    "Name": "Yogis3524",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/306761\/96a65dd3-eb69-49da-9096-5ba4b66ba8cb.jpg",
+                    "Url": "\/profile\/Yogis3524\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 216123,
+                    "Name": "tanvirk140",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/216123\/7dd601d1-bf83-4a63-bfbe-81288025aa2f.jpg",
+                    "Url": "\/profile\/tanvirk140\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 7,
+            "Points": 175,
+            "PageViewsSplit": {
+                "Overview": 1008,
+                "Markets": 96,
+                "Analysis": 101,
+                "Charts": 53,
+                "Trades": 34,
+                "Orderbook": 2,
+                "Forum": 13,
+                "Influence": 15
+            },
+            "PageViews": 1322
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/duxcoindev\/dux",
+                    "last_update": "1493893616",
+                    "forks": 0,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 0,
+                    "open_issues": "0",
+                    "size": "2004",
+                    "created_at": "1493893433",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1493893612",
+                    "stars": 0
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

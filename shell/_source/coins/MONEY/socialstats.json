@@ -1,0 +1,241 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MONEY",
+            "CoinName": "MoneyCoin",
+            "Type": "Webpagecoinp",
+            "Points": 1705
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 661777,
+                    "Name": "Sugar Exchange",
+                    "FullName": "Sugar Exchange (SGR)",
+                    "ImageUrl": "\/media\/20780766\/sgr.png",
+                    "Url": "\/coins\/sgr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 222200,
+                    "Name": "Authoreon",
+                    "FullName": "Authoreon (AUTH)",
+                    "ImageUrl": "\/media\/1384019\/auth.png",
+                    "Url": "\/coins\/auth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517775,
+                    "Name": "Hacken",
+                    "FullName": "Hacken (HKN)",
+                    "ImageUrl": "\/media\/16746674\/hkn.png",
+                    "Url": "\/coins\/hkn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42694,
+                    "Name": "Eryllium",
+                    "FullName": "Eryllium (ERY)",
+                    "ImageUrl": "\/media\/1382403\/ely2.png",
+                    "Url": "\/coins\/ery\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 234508,
+                    "Name": "Hello Gold",
+                    "FullName": "Hello Gold (HGT)",
+                    "ImageUrl": "\/media\/9350692\/hgt.jpg",
+                    "Url": "\/coins\/hgt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28204,
+                    "Name": "BlockPay",
+                    "FullName": "BlockPay (BLOCKPAY)",
+                    "ImageUrl": "\/media\/351508\/blockpay.png",
+                    "Url": "\/coins\/blockpay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 203183,
+                    "Name": "Solar DAO",
+                    "FullName": "Solar DAO (SDAO)",
+                    "ImageUrl": "\/media\/1383933\/sdao.png",
+                    "Url": "\/coins\/sdao\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179018,
+                    "Name": "FunCoin",
+                    "FullName": "FunCoin (FUNC)",
+                    "ImageUrl": "\/media\/1383739\/func.png",
+                    "Url": "\/coins\/func\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 218107,
+                    "Name": "Asch",
+                    "FullName": "Asch (XAS)",
+                    "ImageUrl": "\/media\/1383997\/xas.png",
+                    "Url": "\/coins\/xas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 81445,
+                    "Name": "BitOKX",
+                    "FullName": "BitOKX (BITOK)",
+                    "ImageUrl": "\/media\/1383282\/bitok.jpg",
+                    "Url": "\/coins\/bitok\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 675966,
+                    "Name": "mehmet.oezel",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675966\/ac2cd316-262f-4bdf-8069-3f578883e5ee.jpg",
+                    "Url": "\/profile\/mehmet.oezel\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 317336,
+                    "Name": "vasomkheidze",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/317336\/30207858-bc2d-4f29-b020-546b4dff578c.jpg",
+                    "Url": "\/profile\/vasomkheidze\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 351624,
+                    "Name": "Evk110400",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/351624\/58dc00d7-186c-4681-b67b-7db3478f353f.jpg",
+                    "Url": "\/profile\/Evk110400\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 636399,
+                    "Name": "elioenay",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/636399\/16550fb4-f304-481a-b3a9-c7f4ea47524c.jpg",
+                    "Url": "\/profile\/elioenay\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 548493,
+                    "Name": "n.kadri",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/548493\/16d15834-a70b-4f02-83ab-8d9ae71449f3.png",
+                    "Url": "\/profile\/n.kadri\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 429808,
+                    "Name": "serdar.a.sahin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/429808\/8cbfcba7-3f1d-46eb-8ca8-b110f5d5735b.jpg",
+                    "Url": "\/profile\/serdar.a.sahin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 569047,
+                    "Name": "michaeles493",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/569047\/dabebab4-3527-4ae2-9e9e-ad43916d5bb5.jpg",
+                    "Url": "\/profile\/michaeles493\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 462301,
+                    "Name": "preniqi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/462301\/4688c05b-b343-4f70-a962-1ebb9d73dad3.jpg",
+                    "Url": "\/profile\/preniqi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 364617,
+                    "Name": "SaffaCrypt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/364617\/a5a10250-9b87-4af8-b75d-9be67efa73eb.png",
+                    "Url": "\/profile\/SaffaCrypt\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1145,
+            "Posts": "5",
+            "Comments": "2",
+            "Followers": 40,
+            "PageViewsSplit": {
+                "Overview": 3328,
+                "Markets": 237,
+                "Analysis": 98,
+                "Charts": 160,
+                "Trades": 186,
+                "Orderbook": 8,
+                "Forum": 53,
+                "Influence": 45
+            },
+            "PageViews": 4115
+        },
+        "Twitter": {
+            "favourites": "22",
+            "statuses": 28,
+            "following": "659",
+            "account_creation": "1477028576",
+            "followers": 458,
+            "name": "MONEYCoin",
+            "link": "https:\/\/twitter.com\/moneycoindev",
+            "lists": 19,
+            "Points": 553
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1481380595",
+                    "open_total_issues": "0",
+                    "fork": "true",
+                    "parent": {
+                        "Name": "moneycoin",
+                        "Url": "https:\/\/github.com\/pcoindev\/moneycoin",
+                        "InternalId": -1
+                    },
+                    "last_push": "1482194542",
+                    "closed_total_issues": "0",
+                    "size": "8799",
+                    "stars": 0,
+                    "source": {
+                        "Name": "moneycoin",
+                        "Url": "https:\/\/github.com\/pcoindev\/moneycoin",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "last_update": "1481380601",
+                    "forks": 2,
+                    "url": "https:\/\/github.com\/moneyproject\/moneycoin",
+                    "closed_issues": "0",
+                    "language": "C++",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 7
+        }
+    }
+}

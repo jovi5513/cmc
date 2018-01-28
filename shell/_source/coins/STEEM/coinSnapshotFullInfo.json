@@ -1,0 +1,75 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Steem (STEEM) - Live streaming prices and market cap",
+            "PageDescription": "Live Steem prices from all markets and STEEM coin market Capitalization. Stay up to date with the latest Steem price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350907\/steem.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20333",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Steem (STEEM)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "STEEM",
+            "Url": "\/coins\/steem\/",
+            "BaseAngularUrl": "\/coins\/steem\/",
+            "Name": "Steem",
+            "ImageUrl": "\/media\/350907\/steem.png",
+            "Description": "<p>Steem.it is a blockchain-based social media platform where anyone can earn rewards by posting relevant content, curating quality content by upvoting and by holding Steem\u00a0based currencies in a vest fund, which generates interest.<\/p><p>There are three main currencies in Steemit:\u00a0Steem, Steem Power (SP) and Steem Backed Dollars (SBD).<\/p><p>Steem is liquid and can be bought in an exchange and converted into steem dollars or steem power.<\/p><p>Steem Power is basically Steem that is locked in a vesting fund for 3 months. Users can use steem power to upvote content and get curating rewards.<\/p><p>When a user upvotes content his steem power gets depleted and then slowly regenerated. Steem Power holders recieve interest from their holdings. The more Steem Power a voter has the more revenue he&#39;ll generate for himself (in form of SP) and for the content creator \u00a0(In SBD).<\/p><p>There is also an incentive to upvote content early, as the rewards are distributed according to time. The earliest votes gets the biggest share of the reward.<\/p><p>Steem Backed Dollars are there to protect content creators from volatitlity and can be traded for roughly 1 usd worth of steem, in order to cash out from steem. Converting Steem backed dollars into STEEM takes 5 days. Users also recieve interest from holding SBD. T<\/p><p>Steem is a proof of work currency with a scheduled blocktime of 3 seconds. Steem PoW mining is done in rounds of 63 seconds by 21 miners (witnesses). 19 of the miners are pre voted, one is the other with the most computational power, and the last one is selected from a queue of witnesses that did not get on the top 19 voted witnesses.<\/p><p>90% of the block reward is allocated to a vest fund to reward curators and PoW miners, the other 10% are made liquid in the form of steem and are used to reward content creators. Steem gets converted to Steem Backed Dollars and sent to the content creator.<\/p><p>\u00a0<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "99692126",
+            "Algorithm": "",
+            "ProofType": "PoW",
+            "StartDate": "04\/07\/2015",
+            "Twitter": "@steemit",
+            "AffiliateUrl": "https:\/\/steem.io\/",
+            "Website": "<a href='https:\/\/steem.io\/' target='_blank'>Steem<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926488,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 3,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 99692126,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~HitBTC~STEEM~EUR",
+            "2~LiveCoin~STEEM~BTC",
+            "2~BitTrex~STEEM~BTC",
+            "2~BitSquare~STEEM~BTC",
+            "2~Poloniex~STEEM~BTC",
+            "2~Poloniex~STEEM~ETH",
+            "2~Liqui~STEEM~BTC",
+            "2~Tidex~STEEM~WAVES",
+            "2~HitBTC~STEEM~BTC",
+            "2~Tidex~STEEM~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~STEEM~EUR~4~0.4~1510056965~26.116~10.4464~67269226~0~0~0~0~0.4~0.4~0.4~0.4~0.4~0.4~HitBTC~7ffe9",
+            "5~CCCAGG~STEEM~BTC~4~0.000412~1515950385~35.1154298~0.01442366~36840208~1417564.4491324644~595.1218490299998~2215904.3119924893~945.2502558299999~0.0004395~0.00044~0.0004057~0.0004228~0.0004525~0.0004056~BitTrex~7ffe9",
+            "5~CCCAGG~STEEM~ETH~4~0.004183~1515949553~0.32282191~0.00135026~318485~11438.877624350001~48.51990096999994~19085.6913585~82.11772862000001~0.004471~0.004516~0.004177~0.004429~0.004734~0.00416~Poloniex~7ffe9",
+            "5~CCCAGG~STEEM~WAVES~4~0.2~1514434671~14.985~2.997~10899765~0~0~0~0~0.2~0.2~0.2~0.2~0.2~0.2~Tidex~7ffe9"
+        ]
+    },
+    "Type": 100
+}

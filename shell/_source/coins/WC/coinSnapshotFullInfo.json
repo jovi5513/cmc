@@ -1,0 +1,71 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "WhiteCoin (WC) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "WhiteCoin is a scypt based altcoin that morphs from a PoW into a PoS mode after block 100. Block time is reasonable at 90 seconds and difficulty retargets every block.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19948\/wc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "299"
+        },
+        "General": {
+            "Id": "5019",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "WhiteCoin (WC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "WC",
+            "Url": "\/coins\/wc\/",
+            "BaseAngularUrl": "\/coins\/wc\/",
+            "Name": "WhiteCoin",
+            "ImageUrl": "\/media\/19948\/wc.png",
+            "Description": "<p>WhiteCoin is a scypt based altcoin that morphs from a PoW into a PoS mode after block 100. Block time is reasonable at 90 seconds and difficulty retargets every block.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "300000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "29\/04\/2014",
+            "Twitter": "@WhiteCoiner",
+            "AffiliateUrl": "http:\/\/www.whitecoinfoundation.org\/",
+            "Website": "<a href='http:\/\/www.whitecoinfoundation.org\/' target='_blank'>WhiteCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515948529,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "-",
+            "BlockNumber": 432215,
+            "BlockTime": 16,
+            "NetHashesPerSecond": 3.3709615009748e+15,
+            "TotalCoinsMined": 248637987.19257,
+            "PreviousTotalCoinsMined": 248637939.19257,
+            "BlockReward": 2
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~WC~DOGE",
+            "2~Cryptopia~WC~BTC",
+            "2~Cryptopia~WC~LTC",
+            "2~Coinse~WC~BTC",
+            "2~Cryptsy~WC~XRP",
+            "2~Cryptsy~WC~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~WC~DOGE~4~134~1515101404~6.79104478~910.00000052~1515101404~0~0~0~0~134~134~134~134~134~134~Cryptopia~7ffe9",
+            "5~CCCAGG~WC~BTC~1~0.0001162~1515948949~27.7829407~0.00322977~1515948949~69060.69323316996~8.03669573~842544.7650136501~99.70157752999998~0.0001183~0.0001215~0.00011~0.0001197~0.0001215~0.00011~Cryptopia~7ffe9",
+            "5~CCCAGG~WC~LTC~4~0.006399~1515182841~8.57070357~0.05484393~1515182841~0~0~0~0~0.006399~0.006399~0.006399~0.006399~0.006399~0.006399~Cryptopia~7ffe9",
+            "5~CCCAGG~WC~XRP~4~0.05441749~1452792979~19.91143518~1.08353032~110936404~0~0~0.05441749~0.05441749~0.05441749~Cryptsy~78ce9"
+        ]
+    },
+    "Type": 100
+}

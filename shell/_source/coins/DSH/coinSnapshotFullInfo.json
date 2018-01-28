@@ -1,0 +1,65 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Dashcoin (DSH) - Live streaming prices and market cap",
+            "PageDescription": "Live Dashcoin prices from all markets and DSH coin market Capitalization. Stay up to date with the latest Dashcoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20026\/dash.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20196",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Dashcoin (DSH)",
+            "DangerTop": "Do not confuse this with <a href=\"https:\/\/www.cryptocompare.com\/coins\/dash\/\" target=\"_blank\"> DASH - DigitalCash <\/a>. Besides the similar sounding name, this coin has nothing in comon with DASH. Bitfinex lists DASH as DSH for some stupid reason.",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "DSH",
+            "Url": "\/coins\/dsh\/",
+            "BaseAngularUrl": "\/coins\/dsh\/",
+            "Name": "Dashcoin",
+            "ImageUrl": "\/media\/20026\/dash.png",
+            "Description": "<p>\u00a0Dashcoin aims\u00a0to create a perfect mirror image of Bytecoin without a premine. Dashcoin offers true anonymity and data protection through a ring signature system.<\/p><p>\u00a0CPU-friendly &amp;\u00a0<span>ASIC-resistant, Dashcoin allows true\u00a0decentralized\u00a0mining.<\/span><\/p>",
+            "Features": "<p><strong>Untraceable payments<\/strong><\/p><p><strong>Unlinkable transactions<\/strong><\/p><p><strong>Double-spending proof<\/strong><\/p><p><strong>Blockchain analysis resistance<\/strong><\/p><p><strong>Egalitarian proof of work<\/strong><\/p><p><strong>Adaptive limits<\/strong><\/p>",
+            "Technology": "",
+            "TotalCoinSupply": "18446744",
+            "Algorithm": "CryptoNight",
+            "ProofType": "PoW",
+            "StartDate": "05\/07\/2014",
+            "Twitter": "",
+            "AffiliateUrl": "https:\/\/dashcoin.info\/",
+            "Website": "<a href='https:\/\/dashcoin.info\/' target='_blank'>Dashcoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515950068,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 919539,
+            "BlockTime": 120,
+            "NetHashesPerSecond": 401004.725,
+            "TotalCoinsMined": 17892877.974328,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 2.112839554674
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~HitBTC~DSH~BTC",
+            "2~Poloniex~DSH~XMR"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~DSH~BTC~4~0.00000575~1515949880~236~0.001357~151819567~112098~0.753194879999999~141939~0.9470910589999999~0.00000655~0.00000741~0.0000055~0.00000634~0.00000741~0.0000055~HitBTC~7ffe9",
+            "5~CCCAGG~DSH~XMR~4~0.00013814~1473116360~1.95052355~0.00026944~54235~0~0~0~0~0.00013814~0.00013814~0.00013814~0.00013814~0.00013814~0.00013814~Poloniex~7ffe9"
+        ]
+    },
+    "Type": 100
+}

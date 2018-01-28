@@ -1,0 +1,189 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XNX",
+            "CoinName": "XanaxCoin",
+            "Type": "Webpagecoinp",
+            "Points": 130
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 446121,
+                    "Name": "CryptoWave",
+                    "FullName": "CryptoWave (CWV)",
+                    "ImageUrl": "\/media\/16746575\/cwv.png",
+                    "Url": "\/coins\/cwv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35821,
+                    "Name": "BullshitCoin",
+                    "FullName": "BullshitCoin (BULLS)",
+                    "ImageUrl": "\/media\/352295\/bulls.png",
+                    "Url": "\/coins\/bulls\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37195,
+                    "Name": "ConquestCoin",
+                    "FullName": "ConquestCoin (CQST)",
+                    "ImageUrl": "\/media\/1381983\/cqst.png",
+                    "Url": "\/coins\/cqst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5393,
+                    "Name": "OctoCoin",
+                    "FullName": "OctoCoin (OCTO)",
+                    "ImageUrl": "\/media\/19983\/888.png",
+                    "Url": "\/coins\/octo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4415,
+                    "Name": "CheckCoin",
+                    "FullName": "CheckCoin (CXC)",
+                    "ImageUrl": "\/media\/20246\/cxc.png",
+                    "Url": "\/coins\/cxc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4422,
+                    "Name": "Community Coin",
+                    "FullName": "Community Coin (COMM)",
+                    "ImageUrl": "\/media\/19661\/comm.png",
+                    "Url": "\/coins\/comm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44803,
+                    "Name": "EveryonesCoin",
+                    "FullName": "EveryonesCoin (EOC)",
+                    "ImageUrl": "\/media\/1382628\/eoc.png",
+                    "Url": "\/coins\/eoc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 586638,
+                    "Name": "BitAsean",
+                    "FullName": "BitAsean (BAS)",
+                    "ImageUrl": "\/media\/20780613\/bas.png",
+                    "Url": "\/coins\/bas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28027,
+                    "Name": "Sense",
+                    "FullName": "Sense (SNS)",
+                    "ImageUrl": "\/media\/351494\/sns.png",
+                    "Url": "\/coins\/sns\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24887,
+                    "Name": "RustCoin",
+                    "FullName": "RustCoin (RUST)",
+                    "ImageUrl": "\/media\/351365\/rust.png",
+                    "Url": "\/coins\/rust\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 553959,
+                    "Name": "alhajibonjo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/553959\/4e131c65-25d9-4357-927e-3bf56e6e5718.jpg",
+                    "Url": "\/profile\/alhajibonjo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 503846,
+                    "Name": "proportiones",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/503846\/924ab600-4737-4925-abbf-5ee3348f4def.jpg",
+                    "Url": "\/profile\/proportiones\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 392567,
+                    "Name": "6DB61456",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/392567\/c5155e9b-9f26-4c0b-bb2a-893cb8a62828.jpg",
+                    "Url": "\/profile\/6DB61456\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 359463,
+                    "Name": "dmacjoinery",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/359463\/dfdb51bf-9eda-41cc-9d47-d94d704a9092.jpg",
+                    "Url": "\/profile\/dmacjoinery\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "PageViewsSplit": {
+                "Overview": 1215,
+                "Markets": 39,
+                "Analysis": 47,
+                "Charts": 64,
+                "Trades": 46,
+                "Orderbook": 2,
+                "Forum": 28,
+                "Influence": 40
+            },
+            "PageViews": 1481
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1430152146",
+                    "url": "https:\/\/github.com\/chemistrycoin\/xnx",
+                    "forks": 1,
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "size": "3108",
+                    "created_at": "1430148406",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1430152144",
+                    "stars": 0
+                }
+            ],
+            "Points": 5
+        }
+    }
+}

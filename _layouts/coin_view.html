@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  
+  <!-- BEGIN BODY -->
+  <body class="color-default theme-sdtl sidebar-top fixed-topbar">
+    <!--[if lt IE 7]>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <section>
+      <!-- BEGIN SIDEBAR -->
+      {% include sidebar.html %}
+      <!-- END SIDEBAR -->
+      <div class="main-content">
+        <!-- BEGIN TOPBAR -->
+        {% include topbar.html %}
+        <!-- END TOPBAR -->
+        <!-- BEGIN PAGE CONTENT -->
+        <div class="page-content">
+          <div class="header">
+            <h1><strong>{{page.coin_a_symbol}}</strong> <small>Price, Charts</small></h1>
+            <div class="breadcrumb-wrapper">
+              <ol class="breadcrumb">
+                <li><a href="/">Homepage</a></li>
+                <li class="active">{{page.coin_a_symbol}}</li>
+              </ol>
+            </div>
+          </div>
+
+
+          {% include marketcap.html %}
+
+
+
+
+
+          {{ content }}
+
+          
+          {% include footer.html %}
+        </div>
+        <!-- END PAGE CONTENT -->
+      </div>
+      <!-- END MAIN CONTENT -->
+
+    </section>
+    
+    <!-- BEGIN SEARCH -->
+    {% include search.html %}
+    <!-- END SEARCH -->
+    <!-- BEGIN PRELOADER -->
+    <div class="loader-overlay">
+      <div class="spinner">
+        <div class="bounce1"></div>
+        <div class="bounce2"></div>
+        <div class="bounce3"></div>
+      </div>
+    </div>
+    <!-- END PRELOADER -->
+    <a href="#" class="scrollup"><i class="fa fa-angle-up"></i></a> 
+    
+    {% include js.html %}
+
+<script type="text/javascript">
+  
+    /**** FINANCIAL CHARTS: HIGHSTOCK ****/
+    function financialCharts(){
+
+          var seriesOptions = [],
+          seriesCounter = 0,
+          names = ['MSFT', 'AAPL', 'GOOG'],
+          // create the chart when all data is loaded
+          createChart = function () {
+
+              $('#financial-chart').highcharts('StockChart', {
+                  chart: {
+                    height:300,
+                    borderColor: '#C9625F',
+                    backgroundColor: 'transparent'
+                  },
+                  rangeSelector : {
+                      selected : 1,
+                      inputEnabled: $('#container').width() > 480
+                  },
+                  colors: ['#18A689', '#f7a35c', '#8085e9', '#f15c80', '#91e8e1'],
+                  credits: {
+                    enabled: false
+                  },
+                  exporting: {
+                      enabled: true
+                  },
+                  scrollbar: {
+                    enabled: true
+                  },
+                  navigator: {
+                      enabled: true
+                  },
+                  xAxis: {
+                      lineColor:'#e1e1e1',
+                      tickColor:'#EFEFEF',
+                  },
+                  yAxis: {
+                      gridLineColor:'#e1e1e1',
+                      labels: {
+                          formatter: function () {
+                              return (this.value > 0 ? ' + ' : '') + this.value + '%';
+                          }
+                      },
+                      plotLines: [{
+                          value: 0,
+                          width: 2,
+                          color: 'silver'
+                      }]
+                  },
+                  plotOptions: {
+                      series: {
+                          compare: 'percent'
+                      }
+                  },
+                  tooltip: {
+                      pointFormat: '<span style="color:{series.color}">{series.name}</span>: <b>{point.y}</b> ({point.change}%)<br/>',
+                      valueDecimals: 2
+                  },
+
+                  series: seriesOptions
+              });
+          };
+
+      $.each(names, function (i, name) {
+
+          $.getJSON('http://www.highcharts.com/samples/data/jsonp.php?filename=' + name.toLowerCase() + '-c.json&callback=?',    function (data) {
+
+              seriesOptions[i] = {
+                  name: name,
+                  data: data
+              };
+              seriesCounter += 1;
+
+              if (seriesCounter === names.length) {
+                  createChart();
+              }
+          });
+      });
+    }
+    financialCharts();
+
+    
+</script>
+
+
+
+    <!-- END PAGE SCRIPT -->
+    <script src="/skin/frontend/assets/admin/layout1/js/layout.js"></script>
+  </body>
+</html>

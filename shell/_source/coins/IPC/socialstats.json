@@ -1,0 +1,163 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "IPC",
+            "CoinName": "ImperialCoin",
+            "Type": "Webpagecoinp",
+            "Points": 1298
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 12192,
+                    "Name": "Diggits",
+                    "FullName": "Diggits (DIGS)",
+                    "ImageUrl": "\/media\/20706\/digs.png",
+                    "Url": "\/coins\/digs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 586567,
+                    "Name": "PhantomX",
+                    "FullName": "PhantomX (PNX)",
+                    "ImageUrl": "\/media\/20780612\/pnx.png",
+                    "Url": "\/coins\/pnx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4538,
+                    "Name": "IceBergCoin",
+                    "FullName": "IceBergCoin (ICB)",
+                    "ImageUrl": "\/media\/19747\/icb.png",
+                    "Url": "\/coins\/icb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 660947,
+                    "Name": "Bodhi",
+                    "FullName": "Bodhi (BOT)",
+                    "ImageUrl": "\/media\/20780753\/bot.png",
+                    "Url": "\/coins\/bot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30117,
+                    "Name": "LeaCoin",
+                    "FullName": "LeaCoin (LEA)",
+                    "ImageUrl": "\/media\/351729\/lea.png",
+                    "Url": "\/coins\/lea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7599,
+                    "Name": "Arbit Coin",
+                    "FullName": "Arbit Coin (ARB)",
+                    "ImageUrl": "\/media\/20645\/arb.png",
+                    "Url": "\/coins\/arb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22169,
+                    "Name": "Revenu",
+                    "FullName": "Revenu (REV)",
+                    "ImageUrl": "\/media\/351061\/rev.png",
+                    "Url": "\/coins\/rev\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 307112,
+                    "Name": "Facecoin",
+                    "FullName": "Facecoin (FC)",
+                    "ImageUrl": "\/media\/12318045\/fc.png",
+                    "Url": "\/coins\/fc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6341,
+                    "Name": "BitLux",
+                    "FullName": "BitLux (LUX*)",
+                    "ImageUrl": "\/media\/20557\/lux.png",
+                    "Url": "\/coins\/luxstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 53166,
+                    "Name": "TrollPlay",
+                    "FullName": "TrollPlay (TPAY)",
+                    "ImageUrl": "\/media\/1382770\/tpay.png",
+                    "Url": "\/coins\/tpay\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 43840,
+                    "Name": "anatoliy2020074",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/43840\/2c162e60-353b-46c1-821e-57f9490b4989.jpg",
+                    "Url": "\/profile\/anatoliy2020074\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 313985,
+                    "Name": "3E777E87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/313985\/a874f5aa-bf4d-49a4-a213-be79152fee45.png",
+                    "Url": "\/profile\/3E777E87\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 65,
+                "Markets": 6,
+                "Analysis": 10,
+                "Charts": 8,
+                "Trades": 6,
+                "Orderbook": 0,
+                "Forum": 6,
+                "Influence": 2
+            },
+            "PageViews": 103
+        },
+        "Twitter": {
+            "lists": 26,
+            "favourites": "0",
+            "statuses": 217,
+            "following": "322",
+            "account_creation": "1392752686",
+            "name": "Imperial Coin",
+            "followers": 1056,
+            "link": "https:\/\/twitter.com\/impcoin",
+            "Points": 1186
+        },
+        "Reddit": {
+            "subscribers": 19,
+            "posts_per_hour": "0.00",
+            "community_creation": "1406056923",
+            "comments_per_hour": "0.00",
+            "comments_per_day": 0,
+            "name": "ImpCoin",
+            "posts_per_day": "0.01",
+            "link": "https:\/\/www.reddit.com\/r\/ImpCoin\/",
+            "active_users": 6,
+            "Points": 37
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

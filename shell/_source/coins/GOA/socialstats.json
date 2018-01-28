@@ -1,0 +1,183 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GOA",
+            "CoinName": "GoaCoin",
+            "Type": "Webpagecoinp",
+            "Points": 339
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 653274,
+                    "Name": "PolisPay",
+                    "FullName": "PolisPay (POLIS)",
+                    "ImageUrl": "\/media\/20780731\/polis.png",
+                    "Url": "\/coins\/polis\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 400693,
+                    "Name": "Insta Cash Coin",
+                    "FullName": "Insta Cash Coin (ICC)",
+                    "ImageUrl": "\/media\/15887424\/icc.png",
+                    "Url": "\/coins\/icc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7581,
+                    "Name": "Milllionaire Coin",
+                    "FullName": "Milllionaire Coin (MIL)",
+                    "ImageUrl": "\/media\/20354\/mil.png",
+                    "Url": "\/coins\/mil\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 329507,
+                    "Name": "LakeBanker",
+                    "FullName": "LakeBanker (BAC*)",
+                    "ImageUrl": "\/media\/12318229\/bac.png",
+                    "Url": "\/coins\/bacstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7592,
+                    "Name": "GridMaster",
+                    "FullName": "GridMaster (GRM)",
+                    "ImageUrl": "\/media\/20642\/grm.png",
+                    "Url": "\/coins\/grm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4413,
+                    "Name": "CinderCoin",
+                    "FullName": "CinderCoin (CIN)",
+                    "ImageUrl": "\/media\/20698\/cinder.png",
+                    "Url": "\/coins\/cin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6105,
+                    "Name": "Twelve Coin",
+                    "FullName": "Twelve Coin (TWLV)",
+                    "ImageUrl": "\/media\/20472\/viral.png",
+                    "Url": "\/coins\/twlv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 477743,
+                    "Name": "XinFin Coin",
+                    "FullName": "XinFin Coin (XDC)",
+                    "ImageUrl": "\/media\/16746634\/xdc.png",
+                    "Url": "\/coins\/xdc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29928,
+                    "Name": "Resumeo Shares",
+                    "FullName": "Resumeo Shares (RMS)",
+                    "ImageUrl": "\/media\/351701\/rms.png",
+                    "Url": "\/coins\/rms\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4576,
+                    "Name": "NoirBits",
+                    "FullName": "NoirBits (NRB)",
+                    "ImageUrl": "\/media\/19839\/nrb.png",
+                    "Url": "\/coins\/nrb\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 308902,
+                    "Name": "arturidze",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/308902\/8aae9643-afea-40f4-9383-8481bff3cd98.jpg",
+                    "Url": "\/profile\/arturidze\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 654927,
+                    "Name": "maksymmniko",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/654927\/555bae3e-4ecf-4372-b7d0-a56492d88759.jpg",
+                    "Url": "\/profile\/maksymmniko\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 194182,
+                    "Name": "1F578B4C",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/194182\/c98fa47e-5917-4fc8-9a02-3b17a9284182.jpg",
+                    "Url": "\/profile\/1F578B4C\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 75,
+            "Followers": 3,
+            "PageViewsSplit": {
+                "Overview": 136,
+                "Markets": 8,
+                "Analysis": 17,
+                "Charts": 16,
+                "Trades": 7,
+                "Orderbook": 0,
+                "Forum": 19,
+                "Influence": 13
+            },
+            "PageViews": 216
+        },
+        "Twitter": {
+            "statuses": 13,
+            "favourites": "10",
+            "following": "19",
+            "account_creation": "1511979951",
+            "followers": 234,
+            "name": "Goa Coin",
+            "link": "https:\/\/twitter.com\/GoaCoin",
+            "lists": 1,
+            "Points": 239
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1512426699",
+                    "open_total_issues": "1",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "0",
+                    "last_push": "1513431327",
+                    "size": "6346",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "stars": 7,
+                    "open_pull_issues": "0",
+                    "last_update": "1515933012",
+                    "forks": 3,
+                    "url": "https:\/\/github.com\/goacoincore\/goacoin",
+                    "closed_issues": "0",
+                    "open_issues": "1",
+                    "language": "C++",
+                    "subscribers": 4,
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 25
+        }
+    }
+}

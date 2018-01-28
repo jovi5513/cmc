@@ -1,0 +1,93 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BitcoinDark (BTCD) - Live streaming prices and market cap",
+            "PageDescription": "Live BitcoinDark prices from all markets and BTCD coin market Capitalization. Stay up to date with the latest BitcoinDark price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19630\/btcd_1.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4400",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Bitcoin Dark (BTCD)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BTCD",
+            "Url": "\/coins\/btcd\/",
+            "BaseAngularUrl": "\/coins\/btcd\/",
+            "Name": "BitcoinDark",
+            "ImageUrl": "\/media\/19630\/btcd_1.png",
+            "Description": "<p>Bitcoin Dark (BTCD) is a PoW and PoS hybrid alternatve crypto currency based on the same algorithm as Bitcoin itself - SHA256 - the difference is in the intent behind development - where Bitcoin is moving towards regulatory approval with increased transparency, BitcoinDark tries to push further of the belief of decentralisation and anonymity. The block time is 60 seconds - there was a 1.5 premine and a total of 22 million coins are scheduled to be produced.<\/p><p>Following the announcement of the Komodo Platform by the SuperNet team, BitcoinDark could be swapped for KMD coins and will be so until 2018. BTCD technology will be further advanced in the KMD platform.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "22000000",
+            "Algorithm": "SHA256",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "09\/07\/2014",
+            "Twitter": "@BitcoinDark",
+            "AffiliateUrl": "http:\/\/bitcoindark.com\/",
+            "Website": "<a href='http:\/\/bitcoindark.com\/' target='_blank'>BitcoinDark<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515947302,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": "-",
+            "BlockNumber": 1639375,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 1370144.5378631,
+            "PreviousTotalCoinsMined": 1370142.7217064,
+            "BlockReward": 0.12577262449777
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~BTCD~XMR",
+            "2~Cryptopia~BTCD~LTC",
+            "2~Poloniex~BTCD~BTC",
+            "2~Poloniex~BTCD~XMR",
+            "2~Cryptopia~BTCD~ETH",
+            "2~Cryptopia~BTCD~FTC",
+            "2~BitTrex~BTCD~BTC",
+            "2~Bleutrade~BTCD~DOGE",
+            "2~BTER~BTCD~NXT",
+            "2~Cryptsy~BTCD~BTC",
+            "2~Cryptopia~BTCD~DOT",
+            "2~Bleutrade~BTCD~ETH",
+            "2~Novaexchange~BTCD~LTC",
+            "2~Cryptopia~BTCD~UNO",
+            "2~BTER~BTCD~BTC",
+            "2~Cryptopia~BTCD~POP",
+            "2~Novaexchange~BTCD~BTC",
+            "2~Cryptopia~BTCD~DOGE",
+            "2~Cryptopia~BTCD~BTC",
+            "2~Cryptsy~BTCD~XRP",
+            "2~Bleutrade~BTCD~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BTCD~XMR~4~0.7185~1515940388~0.00019992~0.00014363~139446~39.57432530000003~27.30874245~61.179968339999995~43.56964115~0.7603~0.8765~0.6459~0.8074~0.8765~0.6459~Poloniex~7ffe9",
+            "5~CCCAGG~BTCD~LTC~4~1.50000001~1515196155~0.01990184~0.02985276~1515196155~0~0~0~0~1.5~1.50000001~1.5~1.50000001~1.50000001~1.50000001~Cryptopia~7ffe9",
+            "5~CCCAGG~BTCD~BTC~2~0.02043~1515948092~0.07349651~0.00149876~31397993~2425.5087229699934~48.26060570308579~2830.92268441~57.27073949409129~0.02172~0.02257~0.01886~0.02319~0.02382~0.0182~BitTrex~7ffe9",
+            "5~CCCAGG~BTCD~ETH~4~0.24~1515876480~0.00043~0.00010319999999999999~1515876480000~0.001472~0.00051327995~0~0~0.39999995~0.4~0.24~0.24~0.24~0.24~Bleutrade~7ffe9",
+            "5~CCCAGG~BTCD~FTC~4~99999.99999998~1488077116~0.00937~937~1488077116~0~0~0~0~99999.99999998~99999.99999998~99999.99999998~99999.99999998~99999.99999998~99999.99999998~Cryptopia~7ffe9",
+            "5~CCCAGG~BTCD~DOGE~4~25276.59~1515920258~0.0019494~49.274193765472866~1515920258000~2.53962454~64193.060262523206~1.41909727~35870.22870353959~25276.59~25276.59~25276.59~25276.59~26000~25276.59~Bleutrade~7ffe9",
+            "5~CCCAGG~BTCD~NXT~4~500~1481304188~0.01~5~13755367~0~0~0~0~500~500~500~500~500~500~BTER~7ffe9",
+            "5~CCCAGG~BTCD~DOT~4~59999.99999981~1488910298~0.00097726~58.6356~1488910298~0~0~0~0~59999.99999981~59999.99999981~59999.99999981~59999.99999981~59999.99999981~59999.99999981~Cryptopia~7ffe9",
+            "5~CCCAGG~BTCD~UNO~4~2.04~1496613442~1~2.04~1496613442~0~0~0~0~2.04~2.04~2.04~2.04~2.04~2.04~Cryptopia~7ffe9",
+            "5~CCCAGG~BTCD~POP~4~61000.00000006~1457875234~0.00115959~70.73499~1457875234~0~0~0~0~61000.00000006~61000.00000006~61000.00000006~61000.00000006~61000.00000006~61000.00000006~Cryptopia~7ffe9",
+            "5~CCCAGG~BTCD~XRP~4~165.52305518~1452792978~0.00654609~1.08352882~110936395~0~0~165.52305518~165.52305518~165.52305518~Cryptsy~78ce9"
+        ]
+    },
+    "Type": 100
+}

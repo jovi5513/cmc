@@ -1,0 +1,75 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "CinderCoin (CIN) - Live streaming prices and market cap",
+            "PageDescription": "Live CinderCoin prices from all markets and CIN coin market Capitalization. Stay up to date with the latest CinderCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20698\/cinder.png",
+            "OgImageWidth": "256",
+            "OgImageHeight": "256"
+        },
+        "General": {
+            "Id": "4413",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "CinderCoin (CIN)",
+            "DangerTop": "",
+            "WarningTop": "Note: Some exchanges are still trading CIN under the name of FLEX. You can buy FLEX and send it to your CIN wallet without issue.",
+            "InfoTop": "",
+            "Symbol": "CIN",
+            "Url": "\/coins\/cin\/",
+            "BaseAngularUrl": "\/coins\/cin\/",
+            "Name": "CinderCoin",
+            "ImageUrl": "\/media\/20698\/cinder.png",
+            "Description": "<p>Cinder [CIN] is the new developer&#39;s rebranding of FlexibleCoin [FLEX].\u00a0FLEX was mined during a 10+ day X15 Algo Proof of Work stage.\u00a0Most coins have since been purchased by investors on markets such as\u00a0Bittrex and Cryptsy, giving the coin wide distribution to long term holders.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "114000000",
+            "Algorithm": "Multiple",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "06\/06\/2014",
+            "Twitter": "@CinderCoin",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1504106033,
+            "DifficultyAdjustment": "-",
+            "BlockRewardReduction": "-",
+            "BlockNumber": -1,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~CIN~BTC",
+            "2~Yobit~CIN~ETH",
+            "2~Yobit~CIN~WAVES",
+            "2~Cryptsy~CIN~BTC",
+            "2~Coinse~CIN~BTC",
+            "2~Yobit~CIN~RUR",
+            "2~Yobit~CIN~USD",
+            "2~Yobit~CIN~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~CIN~BTC~2~0.00002527~1515927012~6.66947754~0.0001685376974358~200000014~48.82983068~0.0013347906692036~48.82983068~0.0013347906692036003~0.00002796~0.00002797~0.00002527~0.00002797~0.00002797~0.00002527~Yobit~7ffe9",
+            "5~CCCAGG~CIN~ETH~4~1~1512769604~0.0001~0.0001~167125843~0~0~0~0~1~1~1~1~1~1~Yobit~7ffe9",
+            "5~CCCAGG~CIN~WAVES~4~0.5~1513624576~0.01~0.005~171279580~0~0~0~0~0.5~0.5~0.5~0.5~0.5~0.5~Yobit~7ffe9",
+            "5~CCCAGG~CIN~RUR~4~39.01~1515926999~12.12753799~473.05160027864366~200000016~53.283337579999994~1708.1241640319886~53.28333758~1708.1241640319877~33~39.01~10~33~39.01~10~Yobit~7ffe9",
+            "5~CCCAGG~CIN~USD~4~0.48~1515627303~3~1.44~183838838~0~0~0~0~0.48~0.48~0.48~0.48~0.48~0.48~Yobit~7ffe9",
+            "5~CCCAGG~CIN~DOGE~4~4.00000013~1514125594~4.58708734~18.348349956321353~174268186~0~0~0~0~4~4.00000013~4~4.00000013~4.00000013~4.00000013~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

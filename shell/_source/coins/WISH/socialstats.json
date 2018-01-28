@@ -1,0 +1,216 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "WISH",
+            "CoinName": "MyWish",
+            "Type": "Webpagecoinp",
+            "Points": 4353
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 412112,
+                    "Name": "Autonio",
+                    "FullName": "Autonio (NIO)",
+                    "ImageUrl": "\/media\/16404894\/nio.png",
+                    "Url": "\/coins\/nio\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43604,
+                    "Name": "RoundCoin",
+                    "FullName": "RoundCoin (ROUND)",
+                    "ImageUrl": "\/media\/1382508\/round.png",
+                    "Url": "\/coins\/round\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4615,
+                    "Name": "SuperCoin",
+                    "FullName": "SuperCoin (SUPER)",
+                    "ImageUrl": "\/media\/20061\/super.png",
+                    "Url": "\/coins\/super\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 301216,
+                    "Name": "Wish Finance",
+                    "FullName": "Wish Finance (WSH)",
+                    "ImageUrl": "\/media\/12317980\/wish.png",
+                    "Url": "\/coins\/wsh\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 304833,
+                    "Name": "Paycentos",
+                    "FullName": "Paycentos (PYN)",
+                    "ImageUrl": "\/media\/12318033\/pyn.png",
+                    "Url": "\/coins\/pyn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 370825,
+                    "Name": "PoSToken",
+                    "FullName": "PoSToken (POS)",
+                    "ImageUrl": "\/media\/14913455\/pos.png",
+                    "Url": "\/coins\/pos\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4583,
+                    "Name": "Orbitcoin",
+                    "FullName": "Orbitcoin (ORB)",
+                    "ImageUrl": "\/media\/19845\/orb.png",
+                    "Url": "\/coins\/orb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 364747,
+                    "Name": "Jincor",
+                    "FullName": "Jincor (JCR)",
+                    "ImageUrl": "\/media\/14761952\/jcr.png",
+                    "Url": "\/coins\/jcr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5368,
+                    "Name": "BitstarCoin",
+                    "FullName": "BitstarCoin (BITS)",
+                    "ImageUrl": "\/media\/19622\/bits.png",
+                    "Url": "\/coins\/bits\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3642,
+                    "Name": "KoboCoin",
+                    "FullName": "KoboCoin (KOBO)",
+                    "ImageUrl": "\/media\/20329\/kobo.png",
+                    "Url": "\/coins\/kobo\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 678161,
+                    "Name": "ferrarimoney2030",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/678161\/3e7d9a76-d86e-4157-8bf1-e98d7957e1f0.jpg",
+                    "Url": "\/profile\/ferrarimoney2030\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670870,
+                    "Name": "cotkorn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670870\/a6af96d1-15a7-4753-949a-115bdc90f055.jpg",
+                    "Url": "\/profile\/cotkorn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 379238,
+                    "Name": "kjdowdle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/379238\/af331a97-ebb2-4ef9-a6c6-cd63d2a19e0d.jpg",
+                    "Url": "\/profile\/kjdowdle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 641465,
+                    "Name": "ildarus8",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/641465\/dfe54133-e87d-430f-8e93-d20d75cf6cf9.jpg",
+                    "Url": "\/profile\/ildarus8\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 345019,
+                    "Name": "Gwealth",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/345019\/2749b508-25e8-46bf-9ac4-4f0b85436f92.jpg",
+                    "Url": "\/profile\/Gwealth\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 447221,
+                    "Name": "espann",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/447221\/d2cb060a-4371-452b-8ae6-f2b75d2caa08.jpg",
+                    "Url": "\/profile\/espann\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 505383,
+                    "Name": "geo.b.haddad",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/505383\/47947df6-2967-4abc-8c5f-0bb812e7290c.jpg",
+                    "Url": "\/profile\/geo.b.haddad\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 200947,
+                    "Name": "1090424",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/200947\/451d9304-0400-421d-81f1-c1ea54d399f0.jpg",
+                    "Url": "\/profile\/1090424\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 495036,
+                    "Name": "papaboat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/495036\/a5a1e743-b4b8-414c-a10c-126d8dd5f8b5.jpg",
+                    "Url": "\/profile\/papaboat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 194870,
+                    "Name": "tuiputui",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/194870\/da7377cf-3690-4634-80de-2e8985e133b9.png",
+                    "Url": "\/profile\/tuiputui\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 140049,
+                    "Name": "ben.theobald80",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/140049\/88743ac2-1906-4f04-8762-093276535802.jpg",
+                    "Url": "\/profile\/ben.theobald80\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 525,
+            "Posts": "8",
+            "Followers": 13,
+            "PageViewsSplit": {
+                "Overview": 632,
+                "Markets": 48,
+                "Analysis": 24,
+                "Charts": 67,
+                "Trades": 13,
+                "Orderbook": 0,
+                "Forum": 38,
+                "Influence": 19
+            },
+            "PageViews": 841
+        },
+        "Twitter": {
+            "statuses": 153,
+            "favourites": "9",
+            "following": "3",
+            "account_creation": "1500416070",
+            "followers": 2988,
+            "name": "MyWish",
+            "link": "https:\/\/twitter.com\/mywishplatform",
+            "lists": 35,
+            "Points": 3163
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "42",
+            "name": "Mywish",
+            "likes": 665,
+            "link": "https:\/\/www.facebook.com\/MyWish.io\/",
+            "Points": 665
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

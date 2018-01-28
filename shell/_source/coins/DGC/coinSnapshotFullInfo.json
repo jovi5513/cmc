@@ -1,0 +1,93 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "DigiCoin (DGC) - Live streaming prices and market cap",
+            "PageDescription": "Live DigiCoin prices from all markets and DGC coin market Capitalization. Stay up to date with the latest DigiCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19676\/dgc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4353",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "DigiCoin (DGC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "DGC",
+            "Url": "\/coins\/dgc\/",
+            "BaseAngularUrl": "\/coins\/dgc\/",
+            "Name": "DigiCoin",
+            "ImageUrl": "\/media\/19676\/dgc.png",
+            "Description": "<p>Digitalcoin is an alternative open-source cryptocurrency with focus on economic fairness and growth. It uses the tagline \"A Currency for the Digital Age\". The Digitalcoin community aims to help facilitate the circulation of digital currency by bridging the gap between the common public and the new cryptocurrency technology.<\/p><p>Blocks are hashed using Scrypt, X11 and SHA256 algorithms. The average block confirmation time for Digitalcoin takes about 40 seconds. The total supply of digitalcoins will balance out around 48,166,000 as block halvings occur.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "48166000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "18\/05\/2013",
+            "Twitter": "@DigitalcoinDGC",
+            "AffiliateUrl": "http:\/\/digitalcoin.co\/",
+            "Website": "<a href='http:\/\/digitalcoin.co\/' target='_blank'>DigiCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515948350,
+            "DifficultyAdjustment": "1.0",
+            "BlockRewardReduction": "50%",
+            "BlockNumber": 3011605,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 14890204290,
+            "TotalCoinsMined": 27798238.344037,
+            "PreviousTotalCoinsMined": 27798228.344037,
+            "BlockReward": 5.0000000099341
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~DGC~BTC",
+            "2~BitTrex~DGC~BTC",
+            "2~Cryptopia~DGC~DOGE",
+            "2~BTC38~DGC~CNY",
+            "2~Bleutrade~DGC~DOGE",
+            "2~Cryptopia~DGC~ETH",
+            "2~Cryptopia~DGC~DOT",
+            "2~BTER~DGC~BTC",
+            "2~Bleutrade~DGC~ETH",
+            "2~Cryptsy~DGC~XRP",
+            "2~Cryptopia~DGC~LTC",
+            "2~Cryptopia~DGC~FTC",
+            "2~Cryptsy~DGC~LTC",
+            "2~Cryptopia~DGC~XMR",
+            "2~Cryptopia~DGC~BTC",
+            "2~Cryptopia~DGC~UNO",
+            "2~Coinse~DGC~BTC",
+            "2~Novaexchange~DGC~ETH",
+            "2~Bleutrade~DGC~BTC",
+            "2~Cryptsy~DGC~BTC",
+            "2~Novaexchange~DGC~DOGE",
+            "2~BTER~DGC~CNY"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~DGC~BTC~1~0.0000085~1515946942~4939~0.04203089~1515946942.003~178133.14526334006~1.680799339247718~333806.69119414006~3.0856663720464885~0.00000996~0.0000102~0.00000794~0.00000804~0.00001033~0.00000786~Cryptopia~7ffe9",
+            "5~CCCAGG~DGC~DOGE~4~10.3~1515920321~58.19347319~599.3928809329907~1515920321001~385.43174531~3973.0403759735755~3532.91415452~35548.57325622936~10.3~11.99~10.3~9.59~11.99~8.1~Bleutrade~7ffe9",
+            "5~CCCAGG~DGC~CNY~4~2.034~1500949179~23.36815~47.53081709999999~913820~0~0~0~0~2.034~2.034~2.034~2.034~2.034~2.034~BTC38~7ffe9",
+            "5~CCCAGG~DGC~ETH~2~0.00007086~1515948473~97~0.00687342~1515948473000~954.93186282~0.12031179883524819~1559.81689684~0.16464358616502697~0.00009101~0.0001499~0.00007086~0.0000707~0.0001499~0.0000707~Bleutrade~7ffe9",
+            "5~CCCAGG~DGC~DOT~4~20.99999998~1489028374~9.05970163~190.253734~1489028374.001~0~0~0~0~20.99999998~20.99999998~20.99999998~20.99999998~20.99999998~20.99999998~Cryptopia~7ffe9",
+            "5~CCCAGG~DGC~XRP~4~2.78994061~1452802134~22.79448517~63.59525986~110939986~0~0~2.78994061~2.78994061~2.78994061~Cryptsy~78ce9",
+            "5~CCCAGG~DGC~LTC~4~0.00057~1515192995~646.67739027~0.36860611~1515192995.001~0~0~0~0~0.00057~0.00057~0.00057~0.00057~0.00057~0.00057~Cryptopia~7ffe9",
+            "5~CCCAGG~DGC~FTC~4~0.95999999~1489101348~42.75506754~41.044864~1489101348~0~0~0~0~0.95999999~0.95999999~0.95999999~0.95999999~0.95999999~0.95999999~Cryptopia~7ffe9",
+            "5~CCCAGG~DGC~XMR~4~0.00010006~1488606308~0.45~0.000045~1488606308~0~0~0~0~0.00010006~0.00010006~0.00010006~0.00010006~0.00010006~0.00010006~Cryptopia~7ffe9",
+            "5~CCCAGG~DGC~UNO~4~0.0013~1498066643~0.0212865~0.00002767~1498066643~0~0~0~0~0.0013~0.0013~0.0013~0.0013~0.0013~0.0013~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

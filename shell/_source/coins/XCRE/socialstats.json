@@ -1,0 +1,205 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XCRE",
+            "CoinName": "Creatio",
+            "Type": "Webpagecoinp",
+            "Points": 381
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 79875,
+                    "Name": "ZSEcoin",
+                    "FullName": "ZSEcoin (ZSE)",
+                    "ImageUrl": "\/media\/1383266\/zse.png",
+                    "Url": "\/coins\/zse\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645791,
+                    "Name": "Sparks",
+                    "FullName": "Sparks (SPK)",
+                    "ImageUrl": "\/media\/20780696\/spk.png",
+                    "Url": "\/coins\/spk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4327,
+                    "Name": "AmericanCoin",
+                    "FullName": "AmericanCoin (AMC)",
+                    "ImageUrl": "\/media\/19601\/amc.png",
+                    "Url": "\/coins\/amc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4434,
+                    "Name": "DarkCash",
+                    "FullName": "DarkCash (DRKC)",
+                    "ImageUrl": "\/media\/20027\/drkc.png",
+                    "Url": "\/coins\/drkc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 31004,
+                    "Name": "CashOut",
+                    "FullName": "CashOut (CSH)",
+                    "ImageUrl": "\/media\/351877\/csh.png",
+                    "Url": "\/coins\/csh\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4336,
+                    "Name": "Benjamins",
+                    "FullName": "Benjamins (BEN)",
+                    "ImageUrl": "\/media\/19617\/ben.png",
+                    "Url": "\/coins\/ben\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30019,
+                    "Name": "SydPakCoin",
+                    "FullName": "SydPakCoin (SDP)",
+                    "ImageUrl": "\/media\/351709\/sdp.jpg",
+                    "Url": "\/coins\/sdp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 56654,
+                    "Name": "PlanetCoin",
+                    "FullName": "PlanetCoin (PLANET)",
+                    "ImageUrl": "\/media\/1382851\/planet.png",
+                    "Url": "\/coins\/planet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30177,
+                    "Name": "JiffyCoin",
+                    "FullName": "JiffyCoin (JIF)",
+                    "ImageUrl": "\/media\/351738\/jif.png",
+                    "Url": "\/coins\/jif\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5025,
+                    "Name": "Xcash",
+                    "FullName": "Xcash (XCASH)",
+                    "ImageUrl": "\/media\/20075\/xcash.png",
+                    "Url": "\/coins\/xcash\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 295477,
+                    "Name": "projenn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/295477\/c9a3bb28-1e84-44cf-b693-99579b97dd4d.jpg",
+                    "Url": "\/profile\/projenn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 210825,
+                    "Name": "elviso40",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/210825\/0d8d77f7-4dc5-4b3d-9f31-5caf36bc74fb.jpg",
+                    "Url": "\/profile\/elviso40\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 45787,
+                    "Name": "love-2009-",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/45787\/ccb32d39-22dd-477c-9402-d660972c57d0.jpg",
+                    "Url": "\/profile\/love-2009-\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 32323,
+                    "Name": "cjfromao29",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/32323\/4f8aca60-7d9f-45a9-8f7d-b780dbcb18dd.jpg",
+                    "Url": "\/profile\/cjfromao29\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 6,
+            "Points": 150,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 459,
+                "Markets": 49,
+                "Analysis": 16,
+                "Charts": 18,
+                "Trades": 17,
+                "Orderbook": 2,
+                "Forum": 17,
+                "Influence": 8
+            },
+            "PageViews": 586
+        },
+        "Twitter": {
+            "followers": 191,
+            "following": "18",
+            "lists": 8,
+            "favourites": "2",
+            "statuses": 18,
+            "account_creation": "1476970194",
+            "name": "CREATIO",
+            "link": "https:\/\/twitter.com\/creatioteam",
+            "Points": 231
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 0,
+                    "size": "3510",
+                    "url": "https:\/\/github.com\/CREATIOPROJECT\/CREATIO",
+                    "last_update": "1480166187",
+                    "last_push": "1480166343",
+                    "created_at": "1477038903",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

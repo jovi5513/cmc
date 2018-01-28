@@ -1,0 +1,216 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ABC",
+            "CoinName": "AB-Chain",
+            "Type": "Webpagecoinp",
+            "Points": 24276
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28893,
+                    "Name": "BuzzCoin",
+                    "FullName": "BuzzCoin (BUZZ)",
+                    "ImageUrl": "\/media\/15887419\/buzz.png",
+                    "Url": "\/coins\/buzz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 79864,
+                    "Name": "Redcoin",
+                    "FullName": "Redcoin (RED)",
+                    "ImageUrl": "\/media\/1383265\/red.png",
+                    "Url": "\/coins\/red\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4570,
+                    "Name": "Nautilus Coin",
+                    "FullName": "Nautilus Coin (NAUT)",
+                    "ImageUrl": "\/media\/19822\/naut.png",
+                    "Url": "\/coins\/naut\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20908,
+                    "Name": "ZeitCoin",
+                    "FullName": "ZeitCoin (ZEIT)",
+                    "ImageUrl": "\/media\/350984\/zeit.png",
+                    "Url": "\/coins\/zeit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20315,
+                    "Name": "BitCrystals",
+                    "FullName": "BitCrystals (BCY)",
+                    "ImageUrl": "\/media\/350903\/bcy.png",
+                    "Url": "\/coins\/bcy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 327500,
+                    "Name": "PayPie",
+                    "FullName": "PayPie (PPP)",
+                    "ImageUrl": "\/media\/12318216\/ppp.png",
+                    "Url": "\/coins\/ppp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 18670,
+                    "Name": "HOdlcoin",
+                    "FullName": "HOdlcoin (HODL)",
+                    "ImageUrl": "\/media\/350840\/hodl.png",
+                    "Url": "\/coins\/hodl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 377831,
+                    "Name": "Phore",
+                    "FullName": "Phore (PHR*)",
+                    "ImageUrl": "\/media\/14913549\/phr.png",
+                    "Url": "\/coins\/phrstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340966,
+                    "Name": "Everus",
+                    "FullName": "Everus (EVR)",
+                    "ImageUrl": "\/media\/12318332\/evr.png",
+                    "Url": "\/coins\/evr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186331,
+                    "Name": "Presearch",
+                    "FullName": "Presearch (PRE*)",
+                    "ImageUrl": "\/media\/1383801\/pst.png",
+                    "Url": "\/coins\/prestar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 405391,
+                    "Name": "lachh1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/405391\/8f0d210d-f0c9-421b-b24b-9734715a3992.jpg",
+                    "Url": "\/profile\/lachh1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 615057,
+                    "Name": "thelastottoman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/615057\/ba6728b4-a7ba-4567-b0f6-e0fb1fbd5e66.jpg",
+                    "Url": "\/profile\/thelastottoman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 329520,
+                    "Name": "shahkhan_87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/329520\/1fc7a918-abe2-41f3-8f4e-4d38530bb47d.jpg",
+                    "Url": "\/profile\/shahkhan_87\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 558092,
+                    "Name": "tosongo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/558092\/39690063-18a1-4497-8c49-c42b2d55abf4.jpg",
+                    "Url": "\/profile\/tosongo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 383281,
+                    "Name": "tconwa1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/383281\/368bbfaf-adb3-4963-ac15-45779416925c.jpg",
+                    "Url": "\/profile\/tconwa1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 464518,
+                    "Name": "chandrajit1988",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/464518\/0b675402-47fc-4057-add4-1525a6f9a258.jpg",
+                    "Url": "\/profile\/chandrajit1988\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 508495,
+                    "Name": "forestgamp0095",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/508495\/243543e7-5a03-42ad-9e4d-656773e27557.jpg",
+                    "Url": "\/profile\/forestgamp0095\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 450667,
+                    "Name": "kazuhiro.iimura",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/450667\/a19c7356-6d1c-41d4-baee-833da37fe5f7.jpg",
+                    "Url": "\/profile\/kazuhiro.iimura\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 504108,
+                    "Name": "tj.nilon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/504108\/fdb8080b-fe9e-49a5-81f1-584198a74b31.jpg",
+                    "Url": "\/profile\/tj.nilon\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 455828,
+                    "Name": "andrevercuiel",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/455828\/5f06fb11-2356-4270-ab1b-fc2d6aed61dd.jpg",
+                    "Url": "\/profile\/andrevercuiel\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 436965,
+                    "Name": "danielade2005",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/436965\/c14f8b74-f039-45db-9326-8ad76a285b12.jpg",
+                    "Url": "\/profile\/danielade2005\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 675,
+            "Posts": "3",
+            "Followers": 24,
+            "PageViewsSplit": {
+                "Overview": 2305,
+                "Markets": 165,
+                "Analysis": 63,
+                "Charts": 111,
+                "Trades": 64,
+                "Orderbook": 0,
+                "Forum": 38,
+                "Influence": 23
+            },
+            "PageViews": 2769
+        },
+        "Twitter": {
+            "favourites": "8",
+            "statuses": 143,
+            "following": "67",
+            "account_creation": "1504716056",
+            "followers": 634,
+            "name": "AB-CHAIN",
+            "link": "https:\/\/twitter.com\/AB_CHAIN",
+            "lists": 6,
+            "Points": 664
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "104",
+            "name": "Ab-Chain - Ads in BlockChain",
+            "likes": 22937,
+            "link": "https:\/\/www.facebook.com\/Ab-Chain-Ads-in-BlockChain-897158380440217\/",
+            "Points": 22937
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

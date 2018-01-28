@@ -1,0 +1,188 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XMS",
+            "CoinName": "Megastake",
+            "Type": "Webpagecoinp",
+            "Points": 225
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 6341,
+                    "Name": "BitLux",
+                    "FullName": "BitLux (LUX*)",
+                    "ImageUrl": "\/media\/20557\/lux.png",
+                    "Url": "\/coins\/luxstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8692,
+                    "Name": "Credits",
+                    "FullName": "Credits (CRE)",
+                    "ImageUrl": "\/media\/20683\/cre.png",
+                    "Url": "\/coins\/cre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 318794,
+                    "Name": "Zenome",
+                    "FullName": "Zenome (ZNA)",
+                    "ImageUrl": "\/media\/12318142\/zna.png",
+                    "Url": "\/coins\/zna\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 660947,
+                    "Name": "Bodhi",
+                    "FullName": "Bodhi (BOT)",
+                    "ImageUrl": "\/media\/20780753\/bot.png",
+                    "Url": "\/coins\/bot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 307112,
+                    "Name": "Facecoin",
+                    "FullName": "Facecoin (FC)",
+                    "ImageUrl": "\/media\/12318045\/fc.png",
+                    "Url": "\/coins\/fc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 381323,
+                    "Name": "Russian Mining Coin",
+                    "FullName": "Russian Mining Coin (RMC)",
+                    "ImageUrl": "\/media\/14913570\/rmc.png",
+                    "Url": "\/coins\/rmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28219,
+                    "Name": "MustangCoin",
+                    "FullName": "MustangCoin (MST)",
+                    "ImageUrl": "\/media\/351529\/mst1.png",
+                    "Url": "\/coins\/mst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21227,
+                    "Name": "404Coin",
+                    "FullName": "404Coin (404)",
+                    "ImageUrl": "\/media\/351001\/404.png",
+                    "Url": "\/coins\/404\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5016,
+                    "Name": "VootCoin",
+                    "FullName": "VootCoin (VOOT)",
+                    "ImageUrl": "\/media\/19946\/voot.png",
+                    "Url": "\/coins\/voot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28227,
+                    "Name": "ZoneCoin",
+                    "FullName": "ZoneCoin (ZNE)",
+                    "ImageUrl": "\/media\/351515\/zne.jpg",
+                    "Url": "\/coins\/zne\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 590069,
+                    "Name": "efka89no",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/590069\/d43c4996-26ee-4b6a-8a28-2aa733dece90.jpg",
+                    "Url": "\/profile\/efka89no\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 597864,
+                    "Name": "curtismhlanga",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/597864\/c01d068e-7cc8-4336-8d0d-3a112fe27957.jpg",
+                    "Url": "\/profile\/curtismhlanga\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 298576,
+                    "Name": "stintaru",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/298576\/8b79ab77-8ab0-43d6-9ebe-11f10401e650.jpg",
+                    "Url": "\/profile\/stintaru\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 133159,
+                    "Name": "leafsmarlies1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/133159\/e4f643d3-3fba-424b-b35c-364fe7d3bbd5.jpg",
+                    "Url": "\/profile\/leafsmarlies1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 52607,
+                    "Name": "vandevyverm",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/52607\/88e84081-1c08-4be5-9b76-f2594a277081.jpg",
+                    "Url": "\/profile\/vandevyverm\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 48826,
+                    "Name": "emilecrypto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/48826\/7eb36787-e8e9-4ce4-ab88-a13f55af2f46.jpg",
+                    "Url": "\/profile\/emilecrypto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 51245,
+                    "Name": "n1ce.thc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/51245\/86bd0529-ea70-4b62-8256-03673cd67586.jpg",
+                    "Url": "\/profile\/n1ce.thc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 225,
+            "Followers": 9,
+            "PageViewsSplit": {
+                "Overview": 1171,
+                "Markets": 168,
+                "Analysis": 125,
+                "Charts": 153,
+                "Trades": 63,
+                "Orderbook": 1,
+                "Forum": 32,
+                "Influence": 28
+            },
+            "PageViews": 1741
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

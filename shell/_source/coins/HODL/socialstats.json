@@ -1,0 +1,266 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "HODL",
+            "CoinName": "HOdlcoin",
+            "Type": "Webpagecoinp",
+            "Points": 3461
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 79864,
+                    "Name": "Redcoin",
+                    "FullName": "Redcoin (RED)",
+                    "ImageUrl": "\/media\/1383265\/red.png",
+                    "Url": "\/coins\/red\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28893,
+                    "Name": "BuzzCoin",
+                    "FullName": "BuzzCoin (BUZZ)",
+                    "ImageUrl": "\/media\/15887419\/buzz.png",
+                    "Url": "\/coins\/buzz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4570,
+                    "Name": "Nautilus Coin",
+                    "FullName": "Nautilus Coin (NAUT)",
+                    "ImageUrl": "\/media\/19822\/naut.png",
+                    "Url": "\/coins\/naut\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340776,
+                    "Name": "Caviar",
+                    "FullName": "Caviar (CAV)",
+                    "ImageUrl": "\/media\/12318328\/cav.png",
+                    "Url": "\/coins\/cav\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20908,
+                    "Name": "ZeitCoin",
+                    "FullName": "ZeitCoin (ZEIT)",
+                    "ImageUrl": "\/media\/350984\/zeit.png",
+                    "Url": "\/coins\/zeit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 303943,
+                    "Name": "AB-Chain",
+                    "FullName": "AB-Chain (ABC)",
+                    "ImageUrl": "\/media\/12318006\/bac.png",
+                    "Url": "\/coins\/abc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20315,
+                    "Name": "BitCrystals",
+                    "FullName": "BitCrystals (BCY)",
+                    "ImageUrl": "\/media\/350903\/bcy.png",
+                    "Url": "\/coins\/bcy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186331,
+                    "Name": "Presearch",
+                    "FullName": "Presearch (PRE*)",
+                    "ImageUrl": "\/media\/1383801\/pst.png",
+                    "Url": "\/coins\/prestar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 327500,
+                    "Name": "PayPie",
+                    "FullName": "PayPie (PPP)",
+                    "ImageUrl": "\/media\/12318216\/ppp.png",
+                    "Url": "\/coins\/ppp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32694,
+                    "Name": "Darcrus",
+                    "FullName": "Darcrus (DAR)",
+                    "ImageUrl": "\/media\/351930\/dar.png",
+                    "Url": "\/coins\/dar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 676043,
+                    "Name": "pillsbest",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676043\/758183fd-99cb-430a-9e5f-bc13d501f978.jpg",
+                    "Url": "\/profile\/pillsbest\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 675742,
+                    "Name": "gskhoury78",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675742\/66ba8a19-fdf4-4a37-9aa8-a12e4fd2e09d.jpg",
+                    "Url": "\/profile\/gskhoury78\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 465173,
+                    "Name": "hornet331",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/465173\/3cee1020-1903-49a8-bb2b-bf5638a939b2.jpg",
+                    "Url": "\/profile\/hornet331\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 617537,
+                    "Name": "joshrollstyson",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/617537\/6412bb1d-8d5e-4432-be4c-b3f0dd01d06d.jpg",
+                    "Url": "\/profile\/joshrollstyson\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 601188,
+                    "Name": "shahrin.aktar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/601188\/d09d463c-5d81-4572-807e-ccc6fc5ddae1.jpg",
+                    "Url": "\/profile\/shahrin.aktar\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 219240,
+                    "Name": "master-trader",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/219240\/96c5aea5-518c-4dad-a3bf-eb7bd14aff7c.jpg",
+                    "Url": "\/profile\/master-trader\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 558842,
+                    "Name": "ignatov.denis79",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/558842\/a03c0ff2-d488-4a6d-8194-247f584572db.jpg",
+                    "Url": "\/profile\/ignatov.denis79\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 311311,
+                    "Name": "BlockFire",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/311311\/ed98c26e-1e07-4945-b2a5-4dfead77a887.png",
+                    "Url": "\/profile\/BlockFire\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 552278,
+                    "Name": "cococo103",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/552278\/df7c4fc4-ff25-451f-8bb9-5c829ee0189e.jpg",
+                    "Url": "\/profile\/cococo103\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 2490,
+            "Followers": 78,
+            "Posts": "14",
+            "Comments": "19",
+            "PageViewsSplit": {
+                "Overview": 4993,
+                "Markets": 438,
+                "Analysis": 464,
+                "Charts": 258,
+                "Trades": 241,
+                "Orderbook": 7,
+                "Forum": 537,
+                "Influence": 129
+            },
+            "PageViews": 7067
+        },
+        "Twitter": {
+            "following": "31",
+            "account_creation": "1455402000",
+            "name": "HOdlcoin",
+            "lists": 13,
+            "statuses": 54,
+            "favourites": "145",
+            "followers": 439,
+            "link": "https:\/\/twitter.com\/hodlcoin",
+            "Points": 504
+        },
+        "Reddit": {
+            "posts_per_hour": "0.01",
+            "comments_per_hour": "0.02",
+            "posts_per_day": "0.14",
+            "comments_per_day": 0.44,
+            "name": "Hodl",
+            "link": "https:\/\/www.reddit.com\/r\/HOdl\/",
+            "active_users": 30,
+            "community_creation": "1397286911",
+            "subscribers": 275,
+            "Points": 365
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1452756568",
+                    "open_total_issues": "13",
+                    "parent": {
+                        "InternalId": 1182,
+                        "Name": "bitcoin",
+                        "Url": "https:\/\/github.com\/bitcoin\/bitcoin",
+                        "InternalData": {
+                            "Id": 1182,
+                            "Name": "Bitcoin",
+                            "Symbol": "BTC",
+                            "ImageUrl": "\/media\/19633\/btc.png",
+                            "Type": "Webpagecoinp",
+                            "Url": "\/coins\/btc\/"
+                        }
+                    },
+                    "size": "46170",
+                    "closed_total_issues": "97",
+                    "stars": 19,
+                    "last_update": "1515925452",
+                    "forks": 16,
+                    "url": "https:\/\/github.com\/HOdlcoin\/HOdlcoin",
+                    "closed_issues": "47",
+                    "closed_pull_issues": "50",
+                    "fork": "true",
+                    "last_push": "1515870884",
+                    "source": {
+                        "InternalId": 1182,
+                        "Name": "bitcoin",
+                        "Url": "https:\/\/github.com\/bitcoin\/bitcoin",
+                        "InternalData": {
+                            "Id": 1182,
+                            "Name": "Bitcoin",
+                            "Symbol": "BTC",
+                            "ImageUrl": "\/media\/19633\/btc.png",
+                            "Type": "Webpagecoinp",
+                            "Url": "\/coins\/btc\/"
+                        }
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 17,
+                    "open_issues": "13"
+                }
+            ],
+            "Points": 102
+        }
+    }
+}

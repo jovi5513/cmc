@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "DCT",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.0001301",
+            "LASTUPDATE": "1516091107",
+            "LASTVOLUME": "148.77909001",
+            "LASTVOLUMETO": "0.01934128",
+            "LASTTRADEID": "7342801",
+            "VOLUMEDAY": "155078.90766738026",
+            "VOLUMEDAYTO": "22.300859220000024",
+            "VOLUME24HOUR": "402033.5710896199",
+            "VOLUME24HOURTO": "57.983908964",
+            "OPENDAY": "0.0001466",
+            "HIGHDAY": "0.0001557",
+            "LOWDAY": "0.0001292",
+            "OPEN24HOUR": "0.0001512",
+            "HIGH24HOUR": "0.0001573",
+            "LOW24HOUR": "0.000129",
+            "LASTMARKET": "BitTrex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "HitBTC",
+                "FROMSYMBOL": "DCT",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.000136",
+                "LASTUPDATE": "1516089856",
+                "LASTVOLUME": "25.406",
+                "LASTVOLUMETO": "0.0034552159999999997",
+                "LASTTRADEID": "154411081",
+                "VOLUME24HOUR": "18531.263999999985",
+                "VOLUME24HOURTO": "2.6439508040000006",
+                "OPEN24HOUR": "0.000154",
+                "HIGH24HOUR": "0.000158",
+                "LOW24HOUR": "0.000125"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Liqui",
+                "FROMSYMBOL": "DCT",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00099899",
+                "LASTUPDATE": "1499438210",
+                "LASTVOLUME": "34.06450995",
+                "LASTVOLUMETO": "0.0340301047949505",
+                "LASTTRADEID": "10072560",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00099899",
+                "HIGH24HOUR": "0.00099899",
+                "LOW24HOUR": "0.00099899"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "DCT",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00013",
+                "LASTUPDATE": "1516091107",
+                "LASTVOLUME": "148.77909001",
+                "LASTVOLUMETO": "0.01934128",
+                "LASTTRADEID": "7342801",
+                "VOLUME24HOUR": "384082.1362424799",
+                "VOLUME24HOURTO": "55.42010092",
+                "OPEN24HOUR": "0.00015115",
+                "HIGH24HOUR": "0.00015733",
+                "LOW24HOUR": "0.00012902"
+            }
+        ]
+    },
+    "Type": 100
+}

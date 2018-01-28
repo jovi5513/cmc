@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PROC",
+            "CoinName": "ProCurrency",
+            "Type": "Webpagecoinp",
+            "Points": 8292
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5032,
+                    "Name": "StealthCoin",
+                    "FullName": "StealthCoin (XST)",
+                    "ImageUrl": "\/media\/20077\/xst.png",
+                    "Url": "\/coins\/xst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338555,
+                    "Name": "AirToken",
+                    "FullName": "AirToken (AIR)",
+                    "ImageUrl": "\/media\/12318291\/air.png",
+                    "Url": "\/coins\/air\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 345017,
+                    "Name": "Authorship",
+                    "FullName": "Authorship (ATS)",
+                    "ImageUrl": "\/media\/12318356\/ats.png",
+                    "Url": "\/coins\/ats\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 180013,
+                    "Name": "OpenANX",
+                    "FullName": "OpenANX (OAX)",
+                    "ImageUrl": "\/media\/1383756\/oax.png",
+                    "Url": "\/coins\/oax\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 320412,
+                    "Name": "Global Jobcoin",
+                    "FullName": "Global Jobcoin (GJC)",
+                    "ImageUrl": "\/media\/12318166\/gjc.png",
+                    "Url": "\/coins\/gjc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37366,
+                    "Name": "PandaCoin",
+                    "FullName": "PandaCoin (PND)",
+                    "ImageUrl": "\/media\/12318184\/pnd.png",
+                    "Url": "\/coins\/pnd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 75440,
+                    "Name": "ILCoin",
+                    "FullName": "ILCoin (ILC)",
+                    "ImageUrl": "\/media\/1383238\/ilc.png",
+                    "Url": "\/coins\/ilc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 306482,
+                    "Name": "BLOCKv",
+                    "FullName": "BLOCKv (VEE)",
+                    "ImageUrl": "\/media\/12318044\/vee.png",
+                    "Url": "\/coins\/vee\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517483,
+                    "Name": "Time New Bank",
+                    "FullName": "Time New Bank (TNB)",
+                    "ImageUrl": "\/media\/16746672\/tnb.png",
+                    "Url": "\/coins\/tnb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 255254,
+                    "Name": "Social Nexus",
+                    "FullName": "Social Nexus (SCL)",
+                    "ImageUrl": "\/media\/9350788\/scl.png",
+                    "Url": "\/coins\/scl\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 330347,
+                    "Name": "i.okwor71",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/330347\/9b50aa34-903e-4fe4-b132-6ad658f8fc6b.jpg",
+                    "Url": "\/profile\/i.okwor71\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674408,
+                    "Name": "stunash",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674408\/278f2c6f-fb31-4d32-8fab-35114e5fa483.jpg",
+                    "Url": "\/profile\/stunash\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 413522,
+                    "Name": "axolson",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/413522\/ae295bc0-dc06-40aa-920c-91d48e2eae02.jpg",
+                    "Url": "\/profile\/axolson\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 663897,
+                    "Name": "54A5ABB3",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/663897\/c0d19857-686e-4aa2-98d7-d861559b3c60.jpg",
+                    "Url": "\/profile\/54A5ABB3\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 641225,
+                    "Name": "delmondkroetsch",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/641225\/a57579d0-3302-466f-860a-3541dad8903d.jpg",
+                    "Url": "\/profile\/delmondkroetsch\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 416970,
+                    "Name": "69E62273",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/416970\/d3e4c08b-2c11-4972-9c59-86230a3860fb.jpg",
+                    "Url": "\/profile\/69E62273\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 658466,
+                    "Name": "ashleamoreau",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/658466\/e5d5c628-7a9c-4385-b8cc-3cdad2c9a34b.jpg",
+                    "Url": "\/profile\/ashleamoreau\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 397164,
+                    "Name": "fluffychocobo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/397164\/eba504c9-692a-47f3-9e0f-dbceb71842d4.jpg",
+                    "Url": "\/profile\/fluffychocobo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 658200,
+                    "Name": "platformcoins",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/658200\/ae1bbf01-1056-436d-93af-d449f2e1e984.jpg",
+                    "Url": "\/profile\/platformcoins\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 175360,
+                    "Name": "Pinchot522",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/175360\/caaebea9-8d7b-48b2-a573-d57b6de7cf49.jpg",
+                    "Url": "\/profile\/Pinchot522\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 447221,
+                    "Name": "espann",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/447221\/d2cb060a-4371-452b-8ae6-f2b75d2caa08.jpg",
+                    "Url": "\/profile\/espann\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 3725,
+            "Posts": "19",
+            "Comments": "30",
+            "Followers": 118,
+            "PageViewsSplit": {
+                "Overview": 9092,
+                "Markets": 445,
+                "Analysis": 894,
+                "Charts": 847,
+                "Trades": 1142,
+                "Orderbook": 35,
+                "Forum": 769,
+                "Influence": 215
+            },
+            "PageViews": 13439
+        },
+        "Twitter": {
+            "favourites": "6",
+            "statuses": 65,
+            "following": "49",
+            "account_creation": "1483355571",
+            "followers": 2834,
+            "name": "PRO Commerce",
+            "link": "https:\/\/twitter.com\/ProCommerceInfo",
+            "lists": 46,
+            "Points": 3064
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "386",
+            "name": "PRO Commerce",
+            "likes": 1502,
+            "link": "https:\/\/www.facebook.com\/procommerceinfo\/",
+            "Points": 1502
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

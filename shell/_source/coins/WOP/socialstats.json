@@ -1,0 +1,240 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "WOP",
+            "CoinName": "WorldPay",
+            "Type": "Webpagecoinp",
+            "Points": 925
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 3642,
+                    "Name": "KoboCoin",
+                    "FullName": "KoboCoin (KOBO)",
+                    "ImageUrl": "\/media\/20329\/kobo.png",
+                    "Url": "\/coins\/kobo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 67430,
+                    "Name": "MacronCoin",
+                    "FullName": "MacronCoin (MCRN)",
+                    "ImageUrl": "\/media\/1383111\/mcrn.png",
+                    "Url": "\/coins\/mcrn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 413886,
+                    "Name": "FoodCoin",
+                    "FullName": "FoodCoin (FOOD)",
+                    "ImageUrl": "\/media\/16746427\/food.png",
+                    "Url": "\/coins\/food\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182325,
+                    "Name": "DigitalPrice",
+                    "FullName": "DigitalPrice (DP)",
+                    "ImageUrl": "\/media\/1383772\/dp.png",
+                    "Url": "\/coins\/dp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369209,
+                    "Name": "Datacoin",
+                    "FullName": "Datacoin (DTC)",
+                    "ImageUrl": "\/media\/14913440\/dtc.png",
+                    "Url": "\/coins\/dtcstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 654118,
+                    "Name": "FireLotto",
+                    "FullName": "FireLotto (FLOT)",
+                    "ImageUrl": "\/media\/20780733\/flot.png",
+                    "Url": "\/coins\/flot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 368694,
+                    "Name": "ATMChain",
+                    "FullName": "ATMChain (ATM)",
+                    "ImageUrl": "\/media\/14913430\/atm.png",
+                    "Url": "\/coins\/atmstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 206512,
+                    "Name": "Wavesnode.net",
+                    "FullName": "Wavesnode.net (WNET)",
+                    "ImageUrl": "\/media\/1383982\/wnet1.png",
+                    "Url": "\/coins\/wnet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20685,
+                    "Name": "SoilCoin",
+                    "FullName": "SoilCoin (SOIL)",
+                    "ImageUrl": "\/media\/350949\/soil.png",
+                    "Url": "\/coins\/soil\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20659,
+                    "Name": "Gapcoin",
+                    "FullName": "Gapcoin (GAP)",
+                    "ImageUrl": "\/media\/350943\/gap.png",
+                    "Url": "\/coins\/gap\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 331823,
+                    "Name": "It.specialist",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/331823\/178180f8-505b-4e7d-9512-8cd020710225.jpg",
+                    "Url": "\/profile\/It.specialist\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 156594,
+                    "Name": "straight55b",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/156594\/3b63b1dd-51cf-4478-808e-16de7ccfc01f.png",
+                    "Url": "\/profile\/straight55b\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 384568,
+                    "Name": "AF8B1067",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/384568\/8cb38fae-ef8a-44dd-a892-cc692f89fcbd.jpg",
+                    "Url": "\/profile\/AF8B1067\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 324756,
+                    "Name": "kristi.telling",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/324756\/54850bee-ed52-4ad6-9ffd-2ca655dadb55.jpg",
+                    "Url": "\/profile\/kristi.telling\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 274441,
+                    "Name": "slickrickjm1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/274441\/21399b15-7bb3-4e4d-a848-dc41822b1fb2.jpg",
+                    "Url": "\/profile\/slickrickjm1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 311709,
+                    "Name": "itvdoctor",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/311709\/9791c70d-2cdc-4eb7-a50a-447955baee4e.jpg",
+                    "Url": "\/profile\/itvdoctor\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 299246,
+                    "Name": "chicetio",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/299246\/b8d8bccd-d901-4c4b-934c-9005c6e4e52e.jpg",
+                    "Url": "\/profile\/chicetio\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 131190,
+                    "Name": "stinmiller",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/131190\/9ddd9a8f-8174-47b0-9810-cfd72d51ce16.jpg",
+                    "Url": "\/profile\/stinmiller\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 298835,
+                    "Name": "d8r8d8r8",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/298835\/3d28420f-a09d-472a-8d0e-0b79aeec1f01.jpg",
+                    "Url": "\/profile\/d8r8d8r8\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 185549,
+                    "Name": "yzsuf50",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/185549\/cc4f3369-9b10-4bcd-b303-e88d3ad14f23.jpg",
+                    "Url": "\/profile\/yzsuf50\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 250232,
+                    "Name": "ninomar956",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/250232\/23b38b02-0db9-4ab3-9a76-f59a58339924.jpg",
+                    "Url": "\/profile\/ninomar956\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 825,
+            "Posts": "0",
+            "Followers": 33,
+            "PageViewsSplit": {
+                "Overview": 2709,
+                "Markets": 126,
+                "Analysis": 92,
+                "Charts": 120,
+                "Trades": 92,
+                "Orderbook": 3,
+                "Forum": 34,
+                "Influence": 17
+            },
+            "PageViews": 3193
+        },
+        "Twitter": {
+            "statuses": 22,
+            "favourites": "2",
+            "following": "20",
+            "account_creation": "1444153925",
+            "followers": 87,
+            "name": "WorldPay",
+            "link": "https:\/\/twitter.com\/worldpaydev",
+            "lists": 2,
+            "Points": 97
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1444235638",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1444235689",
+                    "closed_total_issues": "0",
+                    "size": "3188",
+                    "stars": 0,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "last_update": "1444236265",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/worldpaydev\/worldpayclient",
+                    "closed_issues": "0",
+                    "language": "C++",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

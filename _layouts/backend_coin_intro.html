@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body class="color-default theme-sdtl sidebar-top fixed-topbar">
+    <!--[if lt IE 7]>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <section>
+      <!-- BEGIN SIDEBAR -->
+      {% include sidebar.html %}
+      <!-- END SIDEBAR -->
+      <div class="main-content">
+        <!-- BEGIN TOPBAR -->
+        {% include topbar.html %}
+        <!-- END TOPBAR -->
+        <!-- BEGIN PAGE CONTENT -->
+        <div class="page-content">
+          <div class="header">
+            <h1>{{ page.title }}</h1>
+            
+            <div class="panel">
+                <div class="panel-header bg-primary">
+                  <h3>{{ page.title }}</h3>
+                </div>
+                <div class="panel-content">
+                   <!-- Content -->
+                  {{ content }}
+
+                </div>
+              </div>
+         
+
+          {% include footer.html %}
+        </div>
+        <!-- END PAGE CONTENT -->
+      </div>
+      <!-- END MAIN CONTENT -->
+
+    </section>
+
+    <!-- BEGIN SEARCH -->
+    {% include search.html %}
+    <!-- END SEARCH -->
+    <!-- BEGIN PRELOADER -->
+    <div class="loader-overlay">
+      <div class="spinner">
+        <div class="bounce1"></div>
+        <div class="bounce2"></div>
+        <div class="bounce3"></div>
+      </div>
+    </div>
+    <!-- END PRELOADER -->
+    <a href="#" class="scrollup"><i class="fa fa-angle-up"></i></a> 
+    {% include js.html %}
+    <script src="/skin/frontend/assets/global/js/pages/table_dynamic.js"></script>
+  </body>
+</html>

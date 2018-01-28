@@ -1,0 +1,250 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "DCR",
+            "CoinName": "Decred",
+            "Type": "Webpagecoinp",
+            "Points": 88204
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5039,
+                    "Name": "Bitshares",
+                    "FullName": "Bitshares (BTS)",
+                    "ImageUrl": "\/media\/20705\/bts.png",
+                    "Url": "\/coins\/bts\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 139467,
+                    "Name": "Civic",
+                    "FullName": "Civic (CVC)",
+                    "ImageUrl": "\/media\/1383611\/cvc.png",
+                    "Url": "\/coins\/cvc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338018,
+                    "Name": "HextraCoin",
+                    "FullName": "HextraCoin (HXT)",
+                    "ImageUrl": "\/media\/12318282\/hxt.png",
+                    "Url": "\/coins\/hxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 13280,
+                    "Name": "Factoids",
+                    "FullName": "Factoids (FCT)",
+                    "ImageUrl": "\/media\/1382863\/fct1.png",
+                    "Url": "\/coins\/fct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 236131,
+                    "Name": "Vechain",
+                    "FullName": "Vechain (VEN)",
+                    "ImageUrl": "\/media\/12318129\/ven.png",
+                    "Url": "\/coins\/ven\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 178978,
+                    "Name": "FunFair",
+                    "FullName": "FunFair (FUN)",
+                    "ImageUrl": "\/media\/1383738\/fun.png",
+                    "Url": "\/coins\/fun\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 339617,
+                    "Name": "Power Ledger",
+                    "FullName": "Power Ledger (POWR)",
+                    "ImageUrl": "\/media\/12318301\/powr.png",
+                    "Url": "\/coins\/powr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35165,
+                    "Name": "BitConnect Coin",
+                    "FullName": "BitConnect Coin (BCCOIN)",
+                    "ImageUrl": "\/media\/9350709\/bccoin1.png",
+                    "Url": "\/coins\/bccoin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 236358,
+                    "Name": "Utrust",
+                    "FullName": "Utrust (UTK)",
+                    "ImageUrl": "\/media\/9350717\/utrust.png",
+                    "Url": "\/coins\/utk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 107672,
+                    "Name": "Basic Attention Token",
+                    "FullName": "Basic Attention Token (BAT)",
+                    "ImageUrl": "\/media\/1383370\/bat.png",
+                    "Url": "\/coins\/bat\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 443213,
+                    "Name": "Alaskozetes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/443213\/0da6468f-13d2-4ebc-bbf2-b00c326f1c83.png",
+                    "Url": "\/profile\/Alaskozetes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 323674,
+                    "Name": "Leonidas",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/323674\/9cdee6b6-63e3-4486-a5bb-8084bd4d7475.png",
+                    "Url": "\/profile\/Leonidas\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 500626,
+                    "Name": "rysk29",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/500626\/fe6c902a-c1dc-48b3-90b5-713bfe414deb.jpg",
+                    "Url": "\/profile\/rysk29\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 673792,
+                    "Name": "0x5826",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673792\/abca2d31-9e2b-4915-92b2-fd944d24b291.jpg",
+                    "Url": "\/profile\/0x5826\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 102990,
+                    "Name": "paul.rec",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/102990\/dd9b57af-0fa1-4e1c-be3d-5400f9012673.jpg",
+                    "Url": "\/profile\/paul.rec\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 671839,
+                    "Name": "dugsphone",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/671839\/01e15fa4-b29c-4e49-9109-5d32aa228f4f.jpg",
+                    "Url": "\/profile\/dugsphone\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 665479,
+                    "Name": "erkancan78",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/665479\/74d61469-e550-4e74-b6e6-44f0e966c6a9.jpg",
+                    "Url": "\/profile\/erkancan78\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 208204,
+                    "Name": "phmail2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/208204\/013e4957-43de-4ebf-8c0c-12a817aa283c.jpg",
+                    "Url": "\/profile\/phmail2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 72692,
+                    "Name": "jakob",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/72692\/0051a752-51dc-4ab5-b40b-b96647eb01af.jpg",
+                    "Url": "\/profile\/jakob\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 399887,
+                    "Name": "PowerOfMad",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/399887\/65e5a774-29cf-4240-a709-99a4c15e930d.png",
+                    "Url": "\/profile\/PowerOfMad\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 37675,
+            "Followers": 1417,
+            "Posts": "62",
+            "Comments": "70",
+            "PageViewsSplit": {
+                "Overview": 104257,
+                "Markets": 3652,
+                "Analysis": 2212,
+                "Charts": 7840,
+                "Trades": 2576,
+                "Orderbook": 474,
+                "Forum": 3567,
+                "Influence": 1124
+            },
+            "PageViews": 125702
+        },
+        "Twitter": {
+            "following": "0",
+            "account_creation": "1392669308",
+            "name": "Decred",
+            "lists": 759,
+            "statuses": 798,
+            "favourites": "1508",
+            "followers": 32719,
+            "link": "https:\/\/twitter.com\/decredproject",
+            "Points": 36514
+        },
+        "Reddit": {
+            "posts_per_hour": "0.25",
+            "comments_per_hour": "1.80",
+            "posts_per_day": "5.96",
+            "comments_per_day": 43.15,
+            "name": "decred",
+            "link": "https:\/\/www.reddit.com\/r\/decred\/",
+            "active_users": 2325,
+            "community_creation": "1392669759",
+            "subscribers": 6307,
+            "Points": 13368
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1453840122",
+                    "open_total_issues": "60",
+                    "parent": {
+                        "Name": "btcd",
+                        "Url": "https:\/\/github.com\/btcsuite\/btcd",
+                        "InternalId": -1
+                    },
+                    "size": "22390",
+                    "closed_total_issues": "911",
+                    "stars": 250,
+                    "last_update": "1515918257",
+                    "forks": 89,
+                    "url": "https:\/\/github.com\/decred\/dcrd",
+                    "closed_issues": "227",
+                    "closed_pull_issues": "684",
+                    "fork": "true",
+                    "last_push": "1515862332",
+                    "source": {
+                        "Name": "btcd",
+                        "Url": "https:\/\/github.com\/btcsuite\/btcd",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "16",
+                    "language": "Go",
+                    "subscribers": 69,
+                    "open_issues": "44"
+                }
+            ],
+            "Points": 635
+        }
+    }
+}

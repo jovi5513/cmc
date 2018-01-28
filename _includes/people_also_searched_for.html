@@ -1,0 +1,10 @@
+{% if(page.meta-keywords) %}
+{% assign keywords = page.meta-keywords | split: ', ' %}
+<h3>People also searched for:</h3>
+<ul class="list-style" style="margin-left: 2em;">
+	{% for kw in keywords %}
+	<li>{{ kw }}</li>
+{% endfor %}
+</ul>
+
+{% endif %}

@@ -1,0 +1,67 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "MasterCoin (MSC) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "Mastercoin is both a new type of currency (MSC) and a platform. It is a new protocol layer running on top of bitcoin like HTTP runs on top of TCP\/IP. Its purpose is to build upon the core Bitcoin protocol and add new features, with a focus on a straight-forward easy to understand implementation which allow for protocol and analysis and its rapid development.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19814\/mst.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "5394",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "MasterCoin (MSC)",
+            "DangerTop": "In 2015, Darkcoin re-branded to Omni (OMNI). This is the old ticker (MSC).",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "MSC",
+            "Url": "\/coins\/msc\/",
+            "BaseAngularUrl": "\/coins\/msc\/",
+            "Name": "MasterCoin",
+            "ImageUrl": "\/media\/19814\/mst.png",
+            "Description": "<p>Mastercoin is both a new type of currency (MSC) and a platform. It is a new protocol layer running on top of bitcoin like HTTP runs on top of TCP\/IP. Its purpose is to build upon the core Bitcoin protocol and add new features, with a focus on a straight-forward easy to understand implementation which allow for protocol and analysis and its rapid development. Many of the functionalities are theoretical at this point (and ripple has first-mover advantage), but Mastercoin&#39;s definitely worth watching.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "619478",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "31\/07\/2013",
+            "Twitter": "@MSCProtocol",
+            "AffiliateUrl": "http:\/\/mastercoin.org\/",
+            "Website": "<a href='http:\/\/mastercoin.org\/' target='_blank'>MasterCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926488,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 619478,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Poloniex~MSC~BTC",
+            "2~BTER~MSC~BTC",
+            "2~EtherDelta~MSC~ETH",
+            "2~CCEX~MSC~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~MSC~BTC~4~0.0005121~1483094082~7.829~0.0040092309~13828482~0~0~0~0~0.0005121~0.0005121~0.0005121~0.0005121~0.0005121~0.0005121~BTER~7ffe9",
+            "5~CCCAGG~MSC~ETH~4~1.38e-7~1514501489~215779~0.029777501999999997~1514501489000~0~0~0~0~1.4e-7~1.4e-7~1.38e-7~1.38e-7~1.38e-7~1.38e-7~EtherDelta~7ffe9"
+        ]
+    },
+    "Type": 100
+}

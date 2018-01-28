@@ -1,0 +1,250 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ZCL",
+            "CoinName": "ZClassic",
+            "Type": "Webpagecoinp",
+            "Points": 51345
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 177175,
+                    "Name": "district0x",
+                    "FullName": "district0x (DNT)",
+                    "ImageUrl": "\/media\/1383701\/dnt.png",
+                    "Url": "\/coins\/dnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4339,
+                    "Name": "BlackCoin",
+                    "FullName": "BlackCoin (BLK)",
+                    "ImageUrl": "\/media\/351795\/blk.png",
+                    "Url": "\/coins\/blk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 328639,
+                    "Name": "Metaverse",
+                    "FullName": "Metaverse (ETP)",
+                    "ImageUrl": "\/media\/12318223\/etp.png",
+                    "Url": "\/coins\/etp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 13070,
+                    "Name": "Groestlcoin ",
+                    "FullName": "Groestlcoin  (GRS)",
+                    "ImageUrl": "\/media\/20780736\/grs.png",
+                    "Url": "\/coins\/grs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25921,
+                    "Name": "Iconomi",
+                    "FullName": "Iconomi (ICN)",
+                    "ImageUrl": "\/media\/351400\/icn.png",
+                    "Url": "\/coins\/icn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 283116,
+                    "Name": "Enjin Coin",
+                    "FullName": "Enjin Coin (ENJ)",
+                    "ImageUrl": "\/media\/11417639\/enjt.png",
+                    "Url": "\/coins\/enj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 78152,
+                    "Name": "Aragon",
+                    "FullName": "Aragon (ANT)",
+                    "ImageUrl": "\/media\/1383244\/ant.png",
+                    "Url": "\/coins\/ant\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 180678,
+                    "Name": "DIMCOIN",
+                    "FullName": "DIMCOIN (DIM)",
+                    "ImageUrl": "\/media\/1383761\/dim.png",
+                    "Url": "\/coins\/dim\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 23737,
+                    "Name": "PutinCoin",
+                    "FullName": "PutinCoin (PUT)",
+                    "ImageUrl": "\/media\/1383668\/put1.png",
+                    "Url": "\/coins\/put\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 222085,
+                    "Name": "Neblio",
+                    "FullName": "Neblio (NEBL)",
+                    "ImageUrl": "\/media\/1384016\/nebl.png",
+                    "Url": "\/coins\/nebl\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 209959,
+                    "Name": "anton.northern",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/209959\/149d67a0-08a1-4170-af09-e3014fa0ec15.jpg",
+                    "Url": "\/profile\/anton.northern\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 655354,
+                    "Name": "Gully",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/655354\/2dcd4a95-1569-4548-a6ab-1c538773edc0.jpg",
+                    "Url": "\/profile\/Gully\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 445753,
+                    "Name": "marcinjanowski",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/445753\/6a5261c2-0be1-4564-9a24-a8d852dcfb58.jpg",
+                    "Url": "\/profile\/marcinjanowski\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 550980,
+                    "Name": "apolo.vazquez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/550980\/342b27a3-f9a8-46ba-b810-451451868ef3.jpg",
+                    "Url": "\/profile\/apolo.vazquez\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 663567,
+                    "Name": "janb.l33t",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/663567\/8b9986eb-5630-4429-aa3b-2adb98112307.jpg",
+                    "Url": "\/profile\/janb.l33t\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670622,
+                    "Name": "mian.vs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670622\/3cf24384-088c-4fb9-9ebe-17f0dfafa315.jpg",
+                    "Url": "\/profile\/mian.vs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 562691,
+                    "Name": "borlovanpetrica",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/562691\/9c764709-f1d3-450d-935c-b830d318ee42.jpg",
+                    "Url": "\/profile\/borlovanpetrica\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 544891,
+                    "Name": "philip.sorri",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/544891\/43edfcbd-666d-456a-ba60-17c064daac21.jpg",
+                    "Url": "\/profile\/philip.sorri\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 399239,
+                    "Name": "ILCyberTech",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/399239\/9ff82a54-e2ba-4eb1-b6ea-8966a0b42a4b.jpg",
+                    "Url": "\/profile\/ILCyberTech\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 481395,
+                    "Name": "masterson.mstrsn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/481395\/4c0865b4-40b0-4522-a389-2da98f5f2153.jpg",
+                    "Url": "\/profile\/masterson.mstrsn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 656371,
+                    "Name": "dldaughdrill",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/656371\/dd1bb6fa-bc35-4318-a93c-ae1c1c749e10.jpg",
+                    "Url": "\/profile\/dldaughdrill\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 15830,
+            "Followers": 488,
+            "Posts": "108",
+            "Comments": "93",
+            "PageViewsSplit": {
+                "Overview": 53494,
+                "Markets": 3358,
+                "Analysis": 1197,
+                "Charts": 5573,
+                "Trades": 1637,
+                "Orderbook": 27,
+                "Forum": 4535,
+                "Influence": 376
+            },
+            "PageViews": 70197
+        },
+        "Twitter": {
+            "following": "45",
+            "account_creation": "1478537447",
+            "name": "Zclassic",
+            "lists": 272,
+            "statuses": 286,
+            "favourites": "127",
+            "followers": 28660,
+            "link": "https:\/\/twitter.com\/ZclassicCoin",
+            "Points": 30020
+        },
+        "Reddit": {
+            "posts_per_hour": "1.17",
+            "comments_per_hour": "10.03",
+            "posts_per_day": "28.12",
+            "comments_per_day": 240.66,
+            "name": "ZClassic",
+            "link": "https:\/\/www.reddit.com\/r\/ZClassic\/",
+            "active_users": 393,
+            "community_creation": "1478312632",
+            "subscribers": 3386,
+            "Points": 5046
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1478316158",
+                    "open_total_issues": "20",
+                    "parent": {
+                        "Name": "zcash",
+                        "Url": "https:\/\/github.com\/zcash\/zcash",
+                        "InternalId": -1
+                    },
+                    "size": "46818",
+                    "closed_total_issues": "113",
+                    "stars": 159,
+                    "last_update": "1515819888",
+                    "forks": 59,
+                    "url": "https:\/\/github.com\/z-classic\/zclassic",
+                    "closed_issues": "63",
+                    "closed_pull_issues": "50",
+                    "fork": "true",
+                    "last_push": "1515552412",
+                    "source": {
+                        "Name": "zcash",
+                        "Url": "https:\/\/github.com\/zcash\/zcash",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 55,
+                    "open_issues": "20"
+                }
+            ],
+            "Points": 442
+        }
+    }
+}

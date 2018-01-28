@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": "Groestl",
+        "ProofType": "PoW",
+        "BlockNumber": 815124,
+        "NetHashesPerSecond": 22050459451,
+        "TotalCoinsMined": 40713024.999835,
+        "BlockReward": 49.999999992549,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "RIC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "2",
+            "PRICE": "0.00002805",
+            "LASTUPDATE": "1516090129",
+            "LASTVOLUME": "8.3783",
+            "LASTVOLUMETO": "0.00023501",
+            "LASTTRADEID": "797811",
+            "VOLUMEDAY": "687369.6410374681",
+            "VOLUMEDAYTO": "21.62408601000001",
+            "VOLUME24HOUR": "1566951.1908037302",
+            "VOLUME24HOURTO": "50.36552117",
+            "OPENDAY": "0.00003635",
+            "HIGHDAY": "0.00003661",
+            "LOWDAY": "0.0000275",
+            "OPEN24HOUR": "0.00003121",
+            "HIGH24HOUR": "0.00003778",
+            "LOW24HOUR": "0.0000275",
+            "LASTMARKET": "Poloniex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Poloniex",
+                "FROMSYMBOL": "RIC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00002805",
+                "LASTUPDATE": "1516090129",
+                "LASTVOLUME": "8.3783",
+                "LASTVOLUMETO": "0.00023501",
+                "LASTTRADEID": "797811",
+                "VOLUME24HOUR": "1567351.1908037302",
+                "VOLUME24HOURTO": "50.377101970000005",
+                "OPEN24HOUR": "0.00003121",
+                "HIGH24HOUR": "0.00003778",
+                "LOW24HOUR": "0.0000275"
+            }
+        ]
+    },
+    "Type": 100
+}

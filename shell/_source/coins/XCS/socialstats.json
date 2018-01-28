@@ -1,0 +1,154 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XCS",
+            "CoinName": "CybCSec Coin",
+            "Type": "Webpagecoinp",
+            "Points": 1013
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 48807,
+                    "Name": "FindCoin",
+                    "FullName": "FindCoin (FIND)",
+                    "ImageUrl": "\/media\/1382713\/find.png",
+                    "Url": "\/coins\/find\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5025,
+                    "Name": "Xcash",
+                    "FullName": "Xcash (XCASH)",
+                    "ImageUrl": "\/media\/20075\/xcash.png",
+                    "Url": "\/coins\/xcash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30177,
+                    "Name": "JiffyCoin",
+                    "FullName": "JiffyCoin (JIF)",
+                    "ImageUrl": "\/media\/351738\/jif.png",
+                    "Url": "\/coins\/jif\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35232,
+                    "Name": "CoralPay",
+                    "FullName": "CoralPay (CORAL)",
+                    "ImageUrl": "\/media\/352225\/coral.png",
+                    "Url": "\/coins\/coral\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33945,
+                    "Name": "Coin to the Future",
+                    "FullName": "Coin to the Future (BTTF)",
+                    "ImageUrl": "\/media\/352111\/bttf.png",
+                    "Url": "\/coins\/bttf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 77306,
+                    "Name": "Prizm",
+                    "FullName": "Prizm (PZM)",
+                    "ImageUrl": "\/media\/1383242\/pzm.jpg",
+                    "Url": "\/coins\/pzm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4566,
+                    "Name": "MurrayCoin",
+                    "FullName": "MurrayCoin (MRY)",
+                    "ImageUrl": "\/media\/19807\/mry.jpg",
+                    "Url": "\/coins\/mry\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34213,
+                    "Name": "DollarOnline",
+                    "FullName": "DollarOnline (DLR)",
+                    "ImageUrl": "\/media\/352114\/dollarcoin.png",
+                    "Url": "\/coins\/dlr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33268,
+                    "Name": "FameCoin",
+                    "FullName": "FameCoin (FAME)",
+                    "ImageUrl": "\/media\/352006\/fame.png",
+                    "Url": "\/coins\/fame\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 13281,
+                    "Name": "LyraBar",
+                    "FullName": "LyraBar (LYB)",
+                    "ImageUrl": "\/media\/20339\/lyb.png",
+                    "Url": "\/coins\/lyb\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 109777,
+                    "Name": "HAL9001",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/109777\/01cf0a24-8608-4b6e-902b-2ce3b66d6a9b.jpg",
+                    "Url": "\/profile\/HAL9001\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 450342,
+                    "Name": "tiebreak4",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/450342\/cc286d2d-56bf-4185-891c-7bd3d93a4382.jpg",
+                    "Url": "\/profile\/tiebreak4\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 419296,
+                    "Name": "cryptosanjay",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/419296\/540d1041-9fcc-4d0f-8f22-5ac95aa93028.jpg",
+                    "Url": "\/profile\/cryptosanjay\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 441,
+                "Markets": 11,
+                "Analysis": 9,
+                "Charts": 9,
+                "Trades": 8,
+                "Orderbook": 0,
+                "Forum": 17,
+                "Influence": 18
+            },
+            "PageViews": 513
+        },
+        "Twitter": {
+            "favourites": "16",
+            "lists": 10,
+            "statuses": 41,
+            "following": "96",
+            "account_creation": "1491583836",
+            "name": "CybCSec",
+            "followers": 888,
+            "link": "https:\/\/twitter.com\/CybCSec",
+            "Points": 938
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

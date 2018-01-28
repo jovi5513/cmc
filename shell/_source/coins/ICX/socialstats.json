@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ICX",
+            "CoinName": "ICON Project",
+            "Type": "Webpagecoinp",
+            "Points": 61601
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 369151,
+                    "Name": "Streamr DATAcoin",
+                    "FullName": "Streamr DATAcoin (DATA)",
+                    "ImageUrl": "\/media\/14913438\/data.png",
+                    "Url": "\/coins\/data\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 141331,
+                    "Name": "Dent",
+                    "FullName": "Dent (DENT)",
+                    "ImageUrl": "\/media\/1383613\/dent.png",
+                    "Url": "\/coins\/dent\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 141464,
+                    "Name": "Ethos",
+                    "FullName": "Ethos (BQX)",
+                    "ImageUrl": "\/media\/16404851\/ethos.png",
+                    "Url": "\/coins\/ethos\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 199148,
+                    "Name": "Decentraland",
+                    "FullName": "Decentraland (MANA)",
+                    "ImageUrl": "\/media\/1383903\/mana.png",
+                    "Url": "\/coins\/mana\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 466339,
+                    "Name": "NagaCoin",
+                    "FullName": "NagaCoin (NGC)",
+                    "ImageUrl": "\/media\/16746609\/ngc.png",
+                    "Url": "\/coins\/ngc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20196,
+                    "Name": "Dashcoin",
+                    "FullName": "Dashcoin (DSH)",
+                    "ImageUrl": "\/media\/20026\/dash.png",
+                    "Url": "\/coins\/dsh\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 240142,
+                    "Name": "Wanchain",
+                    "FullName": "Wanchain (WAN)",
+                    "ImageUrl": "\/media\/9350742\/wan.jpg",
+                    "Url": "\/coins\/wan\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43044,
+                    "Name": "Ubiq",
+                    "FullName": "Ubiq (UBQ)",
+                    "ImageUrl": "\/media\/1382441\/ubq.png",
+                    "Url": "\/coins\/ubq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22015,
+                    "Name": "Rise",
+                    "FullName": "Rise (RISE)",
+                    "ImageUrl": "\/media\/351059\/rise.png",
+                    "Url": "\/coins\/rise\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 418778,
+                    "Name": "EthLend",
+                    "FullName": "EthLend (LEND)",
+                    "ImageUrl": "\/media\/16746444\/lend.png",
+                    "Url": "\/coins\/lend\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 677544,
+                    "Name": "2E17B0CB",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677544\/5b4c9fee-4f04-4e98-8b03-a236d890bcb1.jpg",
+                    "Url": "\/profile\/2E17B0CB\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 116372,
+                    "Name": "bento",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/116372\/766e83a9-c5c7-4909-b70e-63d7d58a8caa.png",
+                    "Url": "\/profile\/bento\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677694,
+                    "Name": "gac471",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677694\/cc06fa22-16ab-434e-bc9c-1f1b5bf9876e.jpg",
+                    "Url": "\/profile\/gac471\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 565252,
+                    "Name": "ROLLINGSTONE",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/565252\/82b831bf-955b-42a1-a70c-ebad613bfe7a.png",
+                    "Url": "\/profile\/ROLLINGSTONE\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677322,
+                    "Name": "hdagnew",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677322\/c9e023a3-0142-49e0-b9c7-1d2787dcfc37.jpg",
+                    "Url": "\/profile\/hdagnew\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 575956,
+                    "Name": "johnyvg",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/575956\/7d189a9c-9ae4-4830-9a6b-e80b7edd4763.jpg",
+                    "Url": "\/profile\/johnyvg\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674351,
+                    "Name": "elhopper",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674351\/12ee1fa7-0aad-4421-b8e5-fa8808244dac.jpg",
+                    "Url": "\/profile\/elhopper\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676837,
+                    "Name": "ahmedwk",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676837\/b5c0409b-6456-4167-812e-14fe4af6378b.jpg",
+                    "Url": "\/profile\/ahmedwk\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 131010,
+                    "Name": "mcfly23",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/131010\/e5432fb7-048a-4b6e-b82a-063e7e3bce5d.jpg",
+                    "Url": "\/profile\/mcfly23\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 198975,
+                    "Name": "grant.trimble",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/198975\/97313a34-abe7-47b6-b973-42be370d08e0.jpg",
+                    "Url": "\/profile\/grant.trimble\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 630906,
+                    "Name": "randomkoinz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/630906\/92e342fa-2108-4537-9082-407be6e95575.jpg",
+                    "Url": "\/profile\/randomkoinz\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 16635,
+            "Followers": 579,
+            "Posts": "64",
+            "Comments": "56",
+            "PageViewsSplit": {
+                "Overview": 43684,
+                "Markets": 3108,
+                "Analysis": 855,
+                "Charts": 4209,
+                "Trades": 975,
+                "Orderbook": 7,
+                "Forum": 4224,
+                "Influence": 291
+            },
+            "PageViews": 57353
+        },
+        "Twitter": {
+            "following": "52",
+            "account_creation": "1500953867",
+            "name": "ICON",
+            "lists": 441,
+            "favourites": "89",
+            "statuses": 220,
+            "followers": 38731,
+            "link": "https:\/\/twitter.com\/helloiconworld",
+            "Points": 40936
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 3740,
+            "link": "https:\/\/www.facebook.com\/helloicon\/",
+            "is_closed": "false",
+            "talking_about": "615",
+            "name": "Hello ICON World",
+            "Points": 3740
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1499754308",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "12",
+                    "size": "1074",
+                    "stars": 103,
+                    "last_update": "1515871745",
+                    "forks": 37,
+                    "url": "https:\/\/github.com\/theloopkr\/loopchain",
+                    "closed_issues": "3",
+                    "closed_pull_issues": "9",
+                    "fork": "false",
+                    "last_push": "1515027827",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "subscribers": 36,
+                    "language": "Python",
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 285
+        }
+    }
+}

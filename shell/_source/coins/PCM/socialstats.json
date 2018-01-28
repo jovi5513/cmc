@@ -1,0 +1,194 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PCM",
+            "CoinName": "Procom",
+            "Type": "Webpagecoinp",
+            "Points": 214
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 586638,
+                    "Name": "BitAsean",
+                    "FullName": "BitAsean (BAS)",
+                    "ImageUrl": "\/media\/20780613\/bas.png",
+                    "Url": "\/coins\/bas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28027,
+                    "Name": "Sense",
+                    "FullName": "Sense (SNS)",
+                    "ImageUrl": "\/media\/351494\/sns.png",
+                    "Url": "\/coins\/sns\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24887,
+                    "Name": "RustCoin",
+                    "FullName": "RustCoin (RUST)",
+                    "ImageUrl": "\/media\/351365\/rust.png",
+                    "Url": "\/coins\/rust\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 313988,
+                    "Name": "StockBet",
+                    "FullName": "StockBet (STOCKBET)",
+                    "ImageUrl": "\/media\/12318119\/stockbet.png",
+                    "Url": "\/coins\/stockbet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60618,
+                    "Name": "ArpaCoin",
+                    "FullName": "ArpaCoin (ARPA)",
+                    "ImageUrl": "\/media\/1382966\/arpa.png",
+                    "Url": "\/coins\/arpa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42435,
+                    "Name": "Klingon Empire Darsek",
+                    "FullName": "Klingon Empire Darsek (KED)",
+                    "ImageUrl": "\/media\/1382390\/ked.png",
+                    "Url": "\/coins\/ked\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44007,
+                    "Name": "Impeach",
+                    "FullName": "Impeach (IMPCH)",
+                    "ImageUrl": "\/media\/1382606\/impch.png",
+                    "Url": "\/coins\/impch\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21706,
+                    "Name": "Cryptokenz",
+                    "FullName": "Cryptokenz (CYT)",
+                    "ImageUrl": "\/media\/351024\/cyt.png",
+                    "Url": "\/coins\/cyt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28317,
+                    "Name": "TodayCoin",
+                    "FullName": "TodayCoin (TODAY)",
+                    "ImageUrl": "\/media\/351521\/today.png",
+                    "Url": "\/coins\/today\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 63312,
+                    "Name": "EmporiumCoin",
+                    "FullName": "EmporiumCoin (EMPC)",
+                    "ImageUrl": "\/media\/1383081\/empc.png",
+                    "Url": "\/coins\/empc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 553959,
+                    "Name": "alhajibonjo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/553959\/4e131c65-25d9-4357-927e-3bf56e6e5718.jpg",
+                    "Url": "\/profile\/alhajibonjo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 366050,
+                    "Name": "mucokale",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/366050\/7d28dac8-005f-43bc-bcfa-2dad4353357f.jpg",
+                    "Url": "\/profile\/mucokale\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 164775,
+                    "Name": "mickeynons4u",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/164775\/6e33e6f8-5b03-460b-ba0f-156b59deb5ad.jpg",
+                    "Url": "\/profile\/mickeynons4u\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 36344,
+                    "Name": "ditskon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/36344\/990b9e82-ab1d-4cd8-890f-601eb3f94b84.jpg",
+                    "Url": "\/profile\/ditskon\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "PageViewsSplit": {
+                "Overview": 276,
+                "Markets": 17,
+                "Analysis": 7,
+                "Charts": 9,
+                "Trades": 10,
+                "Orderbook": 0,
+                "Forum": 11,
+                "Influence": 6
+            },
+            "PageViews": 336
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 86,
+            "is_closed": "false",
+            "talking_about": "3",
+            "name": "Procomcoin.org",
+            "link": "https:\/\/www.facebook.com\/Procomcoinorg-254319508238218\/",
+            "Points": 86
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "3441",
+                    "url": "https:\/\/github.com\/procomcoin\/PCMsource",
+                    "last_update": "1457885267",
+                    "last_push": "1459077755",
+                    "created_at": "1457884796",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

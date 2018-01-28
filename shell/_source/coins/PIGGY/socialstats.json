@@ -1,0 +1,212 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PIGGY",
+            "CoinName": "Piggy Coin",
+            "Type": "Webpagecoinp",
+            "Points": 3970
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 363006,
+                    "Name": "Lendoit",
+                    "FullName": "Lendoit (LOAN*)",
+                    "ImageUrl": "\/media\/14761940\/loan.png",
+                    "Url": "\/coins\/loan\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29200,
+                    "Name": "SportsCoin",
+                    "FullName": "SportsCoin (SPORT)",
+                    "ImageUrl": "\/media\/351627\/sports.png",
+                    "Url": "\/coins\/sport\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 409155,
+                    "Name": "PayFair",
+                    "FullName": "PayFair (PFR)",
+                    "ImageUrl": "\/media\/16404867\/pfr.png",
+                    "Url": "\/coins\/pfr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 202696,
+                    "Name": "DigiPulse",
+                    "FullName": "DigiPulse (DGPT)",
+                    "ImageUrl": "\/media\/1383920\/dgt.png",
+                    "Url": "\/coins\/dgpt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5283,
+                    "Name": "XauCoin",
+                    "FullName": "XauCoin (XAU)",
+                    "ImageUrl": "\/media\/20479\/xau.png",
+                    "Url": "\/coins\/xau\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6476,
+                    "Name": "Anarchists Prime",
+                    "FullName": "Anarchists Prime (ACP)",
+                    "ImageUrl": "\/media\/351019\/acp.png",
+                    "Url": "\/coins\/acp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30369,
+                    "Name": "Rublebit",
+                    "FullName": "Rublebit (RUBIT)",
+                    "ImageUrl": "\/media\/351751\/rubit.png",
+                    "Url": "\/coins\/rubit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8763,
+                    "Name": "BitQuark",
+                    "FullName": "BitQuark (BTQ)",
+                    "ImageUrl": "\/media\/19638\/btq.png",
+                    "Url": "\/coins\/btq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 311558,
+                    "Name": "Maecenas",
+                    "FullName": "Maecenas (ART)",
+                    "ImageUrl": "\/media\/12318097\/art.png",
+                    "Url": "\/coins\/art\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 305047,
+                    "Name": "Kapu",
+                    "FullName": "Kapu (KAPU)",
+                    "ImageUrl": "\/media\/12318035\/logo_500x500.png",
+                    "Url": "\/coins\/kapu\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 660294,
+                    "Name": "sandorroger",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/660294\/febae7c6-ca5b-49ac-9115-4eb337641399.jpg",
+                    "Url": "\/profile\/sandorroger\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 539208,
+                    "Name": "akbabb007",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/539208\/e3ffa43f-a777-4f38-abd1-a31cf41738be.jpg",
+                    "Url": "\/profile\/akbabb007\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 397843,
+                    "Name": "Thejohnroony",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/397843\/bbb5d1c3-acb5-47c5-9bea-81d5ec120ff8.jpg",
+                    "Url": "\/profile\/Thejohnroony\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 559013,
+                    "Name": "happyshaman7",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/559013\/9dd4f5a9-1cba-4a48-99e3-c932967d7ced.jpg",
+                    "Url": "\/profile\/happyshaman7\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 408277,
+                    "Name": "gwapokano",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/408277\/153b756f-e576-4e49-8950-f919d89ac8db.jpg",
+                    "Url": "\/profile\/gwapokano\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 504710,
+                    "Name": "roughridershomes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/504710\/877c6696-f6d0-4e8e-aeb6-582a1ac40630.jpg",
+                    "Url": "\/profile\/roughridershomes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 360469,
+                    "Name": "keenanramsey88",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/360469\/a609c933-630f-4ca0-a562-c17ef11eea47.jpg",
+                    "Url": "\/profile\/keenanramsey88\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 43088,
+                    "Name": "nawarra0",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/43088\/2b419bd7-80a2-4f20-8570-1e9b0a6c02ea.jpg",
+                    "Url": "\/profile\/nawarra0\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 75122,
+                    "Name": "tulkhu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/75122\/ca727194-4b06-42a4-b6bc-a4f5a74f37f9.jpg",
+                    "Url": "\/profile\/tulkhu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 181764,
+                    "Name": "crypto.leb.2017",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/181764\/2015fa0a-da82-4682-95b6-3640736551dd.jpg",
+                    "Url": "\/profile\/crypto.leb.2017\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 660,
+            "Posts": "6",
+            "Comments": "1",
+            "Followers": 20,
+            "PageViewsSplit": {
+                "Overview": 2248,
+                "Markets": 172,
+                "Analysis": 105,
+                "Charts": 128,
+                "Trades": 126,
+                "Orderbook": 6,
+                "Forum": 124,
+                "Influence": 19
+            },
+            "PageViews": 2928
+        },
+        "Twitter": {
+            "following": "322",
+            "account_creation": "1392936325",
+            "statuses": 833,
+            "favourites": "372",
+            "followers": 3040,
+            "name": "PiggyCoin",
+            "link": "https:\/\/twitter.com\/piggycoin",
+            "lists": 54,
+            "Points": 3310
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

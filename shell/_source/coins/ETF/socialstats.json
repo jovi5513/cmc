@@ -1,0 +1,182 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ETF",
+            "CoinName": "EthereumFog",
+            "Type": "Webpagecoinp",
+            "Points": 3631
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 41592,
+                    "Name": "Motocoin",
+                    "FullName": "Motocoin (MOTO)",
+                    "ImageUrl": "\/media\/1382339\/moto.png",
+                    "Url": "\/coins\/moto\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 586482,
+                    "Name": "CrowdCoin",
+                    "FullName": "CrowdCoin (CRC*)",
+                    "ImageUrl": "\/media\/20780611\/crc.png",
+                    "Url": "\/coins\/crcstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20819,
+                    "Name": "BigUp",
+                    "FullName": "BigUp (BIGUP)",
+                    "ImageUrl": "\/media\/350980\/bigup.png",
+                    "Url": "\/coins\/bigup\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5361,
+                    "Name": "QuBuck Coin",
+                    "FullName": "QuBuck Coin (QBK)",
+                    "ImageUrl": "\/media\/20400\/qbk.png",
+                    "Url": "\/coins\/qbk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45031,
+                    "Name": "Bitcedi",
+                    "FullName": "Bitcedi (BXC)",
+                    "ImageUrl": "\/media\/1382649\/bxc.jpg",
+                    "Url": "\/coins\/bxc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 36988,
+                    "Name": "Loco",
+                    "FullName": "Loco (LOC)",
+                    "ImageUrl": "\/media\/1381971\/loc.png",
+                    "Url": "\/coins\/loc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22262,
+                    "Name": "KubosCoin",
+                    "FullName": "KubosCoin (KUBO)",
+                    "ImageUrl": "\/media\/351077\/kubo.png",
+                    "Url": "\/coins\/kubo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5332,
+                    "Name": "AmberCoin",
+                    "FullName": "AmberCoin (AMBER)",
+                    "ImageUrl": "\/media\/20187\/amber.png",
+                    "Url": "\/coins\/amber\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 253707,
+                    "Name": "BlakeStar",
+                    "FullName": "BlakeStar (BLAS)",
+                    "ImageUrl": "\/media\/9350785\/blas.png",
+                    "Url": "\/coins\/blas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 26129,
+                    "Name": "deCLOUDs",
+                    "FullName": "deCLOUDs (DCS.)",
+                    "ImageUrl": "\/media\/351407\/cloud.png",
+                    "Url": "\/coins\/dcs\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 395920,
+                    "Name": "sarawgi.ashok5",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/395920\/ea6be6cb-e76d-492c-8d9d-d60300369edb.jpg",
+                    "Url": "\/profile\/sarawgi.ashok5\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 637928,
+                    "Name": "escourtu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/637928\/e479542b-0aa2-44e5-86c2-4138da62df8f.jpg",
+                    "Url": "\/profile\/escourtu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 341208,
+                    "Name": "plopsadude",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/341208\/aeda06d5-3a42-45ff-b4d4-148897eaff68.jpg",
+                    "Url": "\/profile\/plopsadude\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 612874,
+                    "Name": "jaredvkeith",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/612874\/837229d5-afdc-41ed-90af-582ea649857d.jpg",
+                    "Url": "\/profile\/jaredvkeith\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 64967,
+                    "Name": "gabriel.v.hancu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/64967\/a77c5ee8-3ec3-415e-8959-75c2f2a753b4.jpg",
+                    "Url": "\/profile\/gabriel.v.hancu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 582037,
+                    "Name": "staticgeek",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/582037\/bcde4f41-12e6-470f-a2f9-2c35f0d4f82d.jpg",
+                    "Url": "\/profile\/staticgeek\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 431260,
+                    "Name": "sushisuimuri",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/431260\/9c7deb78-583a-4c75-80ab-ee4991b801c7.jpg",
+                    "Url": "\/profile\/sushisuimuri\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 7,
+            "Points": 175,
+            "PageViewsSplit": {
+                "Overview": 322,
+                "Markets": 17,
+                "Analysis": 11,
+                "Charts": 6,
+                "Trades": 5,
+                "Orderbook": 0,
+                "Forum": 16,
+                "Influence": 14
+            },
+            "PageViews": 391
+        },
+        "Twitter": {
+            "lists": 5,
+            "favourites": "1",
+            "name": "ETF Foundation",
+            "statuses": 45,
+            "followers": 3431,
+            "following": "2",
+            "link": "https:\/\/twitter.com\/EthereumFog",
+            "account_creation": "1512630173",
+            "Points": 3456
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

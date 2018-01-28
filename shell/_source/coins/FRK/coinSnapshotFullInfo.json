@@ -1,0 +1,77 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Franko (FRK) - Live streaming prices and market cap",
+            "PageDescription": "Live Franko prices from all markets and FRK coin market Capitalization. Stay up to date with the latest Franko price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19712\/frk.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "299"
+        },
+        "General": {
+            "Id": "4522",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Franko (FRK)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "FRK",
+            "Url": "\/coins\/frk\/",
+            "BaseAngularUrl": "\/coins\/frk\/",
+            "Name": "Franko",
+            "ImageUrl": "\/media\/19712\/frk.png",
+            "Description": "<p>Franko is a high-value decentralized Internet currency based on the Scrypt algorithm. There is a dynamic kimoto gravity well difficulty retargetting and a 0.25 block reward with a 30 second block time. Apart from this - as a relatively old coin - there is a following and growing user base, if small.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "11235813",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "01\/05\/2013",
+            "Twitter": "@FrankoCurrency",
+            "AffiliateUrl": "http:\/\/frankos.org\/",
+            "Website": "<a href='http:\/\/frankos.org\/' target='_blank'>Franko<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1499356144,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0.24998975593999
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Coinse~FRK~BTC",
+            "2~Cryptsy~FRK~BTC",
+            "2~Yobit~FRK~BTC",
+            "2~Yobit~FRK~DOGE",
+            "2~Yobit~FRK~USD",
+            "2~Coinse~FRK~LTC",
+            "2~Yobit~FRK~RUR",
+            "2~BitTrex~FRK~BTC",
+            "2~Cryptsy~FRK~XRP",
+            "2~Cryptsy~FRK~LTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~FRK~BTC~4~0.00002498~1515638618~4.14513187~0.00010354539411260002~183907990~0~0~0~0~0.00002498~0.00002498~0.00002498~0.00002498~0.00002498~0.00002498~Yobit~7ffe9",
+            "5~CCCAGG~FRK~DOGE~4~2.15110027~1514932497~8.15857195~17.549906324459428~178433734~0~0~0~0~2.15~2.15110027~2.15~2.15110027~2.15110027~2.15110027~Yobit~7ffe9",
+            "5~CCCAGG~FRK~USD~2~0.3999~1515934418~1~0.39993989~200000005~1~0.39993989~1~0.39993989~0.39993989~0.39993989~0.3999~0.3999~0.3999~0.3999~Yobit~7ffe9",
+            "5~CCCAGG~FRK~LTC~4~0.00801121~1407297986~4.63396146~0.03712364~1407297986050~0~0~0~0~0.00801121~0.00801121~0.00801121~0.00801121~0.00801121~0.00801121~Coinse~7ffe9",
+            "5~CCCAGG~FRK~RUR~4~2.10000002~1515782515~10~21.0000002~200000001~0~0~0~0~2.10000002~2.10000002~2.10000002~2.10000002~2.10000002~2.10000002~Yobit~7ffe9",
+            "5~CCCAGG~FRK~XRP~4~2.73871191~1430348908~23.895083~65.4417484~91757799~0~0~2.73871191~2.73871191~2.73871191~Cryptsy~78ce9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "LA",
+            "CoinName": "LAToken",
+            "Type": "Webpagecoinp",
+            "Points": 47101
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4417,
+                    "Name": "CloakCoin",
+                    "FullName": "CloakCoin (CLOAK)",
+                    "ImageUrl": "\/media\/19994\/cloak.png",
+                    "Url": "\/coins\/cloak\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 213663,
+                    "Name": "FileCoin",
+                    "FullName": "FileCoin (FIL)",
+                    "ImageUrl": "\/media\/1383987\/fil.png",
+                    "Url": "\/coins\/fil\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25946,
+                    "Name": "Wings DAO",
+                    "FullName": "Wings DAO (WINGS)",
+                    "ImageUrl": "\/media\/1382758\/1wings.png",
+                    "Url": "\/coins\/wings\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 72438,
+                    "Name": "Humaniq",
+                    "FullName": "Humaniq (HMQ)",
+                    "ImageUrl": "\/media\/1383174\/hmq.png",
+                    "Url": "\/coins\/hmq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24926,
+                    "Name": "SingularDTV",
+                    "FullName": "SingularDTV (SNGLS)",
+                    "ImageUrl": "\/media\/351368\/sngls.png",
+                    "Url": "\/coins\/sngls\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 423754,
+                    "Name": "BitDegree",
+                    "FullName": "BitDegree (BDG)",
+                    "ImageUrl": "\/media\/16746482\/bdg.png",
+                    "Url": "\/coins\/bdg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20594,
+                    "Name": "SafeExchangeCoin",
+                    "FullName": "SafeExchangeCoin (SAFEX)",
+                    "ImageUrl": "\/media\/1383986\/safex.png",
+                    "Url": "\/coins\/safex\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 310497,
+                    "Name": "Kyber Network",
+                    "FullName": "Kyber Network (KNC)",
+                    "ImageUrl": "\/media\/12318084\/knc.png",
+                    "Url": "\/coins\/knc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 66694,
+                    "Name": "XtraBYtes",
+                    "FullName": "XtraBYtes (XBY)",
+                    "ImageUrl": "\/media\/20780759\/xby.png",
+                    "Url": "\/coins\/xby\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25721,
+                    "Name": "Decent",
+                    "FullName": "Decent (DCT)",
+                    "ImageUrl": "\/media\/351389\/dct.png",
+                    "Url": "\/coins\/dct\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 513272,
+                    "Name": "mailghosto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/513272\/5604aefd-fe76-4859-9365-b5bc946c7ac4.jpg",
+                    "Url": "\/profile\/mailghosto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 246485,
+                    "Name": "fvsapronov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/246485\/f9955df4-e940-41c7-9349-c2a6d21b93d1.jpg",
+                    "Url": "\/profile\/fvsapronov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 271519,
+                    "Name": "b.penman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/271519\/81842740-fb67-47e9-9e95-dd5d21747061.jpg",
+                    "Url": "\/profile\/b.penman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 532766,
+                    "Name": "GreenGurly",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/532766\/804698b8-22d1-44b6-a518-16e1106ed970.jpg",
+                    "Url": "\/profile\/GreenGurly\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634609,
+                    "Name": "cesard666",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634609\/beec463c-0b53-4161-b769-f3625b6bf6f5.jpg",
+                    "Url": "\/profile\/cesard666\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 67034,
+                    "Name": "dspal77",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/67034\/e6607342-bf5e-480a-a388-67865c932529.png",
+                    "Url": "\/profile\/dspal77\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 426850,
+                    "Name": "lososo85",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/426850\/ced88b9b-ab7f-4f41-9acc-8db6078bc27e.jpg",
+                    "Url": "\/profile\/lososo85\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 576696,
+                    "Name": "abhanja",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/576696\/a2316c25-c0d9-422b-a138-ed4afabaadf6.jpg",
+                    "Url": "\/profile\/abhanja\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 365337,
+                    "Name": "godfreyis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/365337\/2aec1498-6d4c-4d69-8561-cca1ec7dd591.jpg",
+                    "Url": "\/profile\/godfreyis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 635106,
+                    "Name": "eric78hbt04",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/635106\/d695d556-89d9-45f9-99e0-594935aeeb3a.jpg",
+                    "Url": "\/profile\/eric78hbt04\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 624690,
+                    "Name": "pwayne1990",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/624690\/7c5bb6b5-9fb6-4903-aa0a-b49d746f933c.jpg",
+                    "Url": "\/profile\/pwayne1990\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 10775,
+            "Followers": 336,
+            "Posts": "71",
+            "Comments": "60",
+            "PageViewsSplit": {
+                "Overview": 16539,
+                "Markets": 1044,
+                "Analysis": 369,
+                "Charts": 410,
+                "Trades": 244,
+                "Orderbook": 43,
+                "Forum": 1112,
+                "Influence": 311
+            },
+            "PageViews": 20072
+        },
+        "Twitter": {
+            "following": "239",
+            "account_creation": "1499438455",
+            "name": "LAToken",
+            "lists": 107,
+            "statuses": 315,
+            "favourites": "392",
+            "followers": 6502,
+            "link": "https:\/\/twitter.com\/LATokens",
+            "Points": 7037
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 29243,
+            "link": "https:\/\/www.facebook.com\/LiquidAssetToken\/",
+            "is_closed": "false",
+            "talking_about": "4859",
+            "name": "LAToken",
+            "Points": 29243
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1499682120",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "647",
+                    "closed_total_issues": "0",
+                    "stars": 20,
+                    "last_update": "1513570520",
+                    "forks": 6,
+                    "url": "https:\/\/github.com\/LAToken\/eth-smart-contracts",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1501094574",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "JavaScript",
+                    "subscribers": 4,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 44
+        }
+    }
+}

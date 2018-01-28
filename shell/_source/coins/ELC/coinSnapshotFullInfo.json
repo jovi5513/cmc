@@ -1,0 +1,86 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Elacoin (ELC) - Live streaming prices and market cap",
+            "PageDescription": "Live Elacoin prices from all markets and ELC coin market Capitalization. Stay up to date with the latest Elacoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19694\/elc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4439",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "ElaCoin (ELA)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ELC",
+            "Url": "\/coins\/elc\/",
+            "BaseAngularUrl": "\/coins\/elc\/",
+            "Name": "Elacoin",
+            "ImageUrl": "\/media\/19694\/elc.png",
+            "Description": "<p>Elacoin\u00a0(ELC) is a digital currency, based on\u00a0Bitcoin\u00a0and\u00a0Litecoin. A scrypt proof of work coin with a 120 second block time and dynamic difficulty retargetting. The more network power directed at mining the more each block will reward, although this will halve roughly every nine months. The launch was preannounced to allow a fair start. Some criticism say inflation on this model will be uncontrollable.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "75000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "13\/05\/2013",
+            "Twitter": "",
+            "AffiliateUrl": "http:\/\/elacoin.cc\/",
+            "Website": "<a href='http:\/\/elacoin.cc\/' target='_blank'>Elacoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1504105764,
+            "DifficultyAdjustment": "-",
+            "BlockRewardReduction": "-",
+            "BlockNumber": -1,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~ELC~ETH",
+            "2~Coinse~ELC~BTC",
+            "2~Cryptopia~ELC~DOT",
+            "2~Cryptsy~ELC~BTC",
+            "2~Cryptopia~ELC~UNO",
+            "2~Yobit~ELC~RUR",
+            "2~Yobit~ELC~BTC",
+            "2~Cryptopia~ELC~POP",
+            "2~Cryptopia~ELC~DOGE",
+            "2~Yobit~ELC~USD",
+            "2~Cryptopia~ELC~BTC",
+            "2~Cryptopia~ELC~LTC",
+            "2~Binance~ELC~BTC",
+            "2~Yobit~ELC~DOGE",
+            "2~Cryptopia~ELC~FTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ELC~ETH~4~0.00195~1513878292~23.4574592~0.04574204544~172937140~0~0~0~0~0.00195~0.00195~0.00195~0.00195~0.00195~0.00195~Yobit~7ffe9",
+            "5~CCCAGG~ELC~BTC~1~0.00005939~1515947626~16.78163767~0.000998~1515947626~5113.273658269999~0.26352420615789013~4995.23032308~0.25626581615789024~0.00004172~0.00005939~0.00004172~0.00004155~0.00005939~0.00004155~Cryptopia~7ffe9",
+            "5~CCCAGG~ELC~DOT~4~3.50000001~1485981873~0.00360305~0.012611~1485981873~0~0~0~0~3.50000001~3.50000001~3.50000001~3.50000001~3.50000001~3.50000001~Cryptopia~7ffe9",
+            "5~CCCAGG~ELC~UNO~4~0.00594895~1476771615~0.29121643~0.001732~1476771615~0~0~0~0~0.00594895~0.00594895~0.00594895~0.00594895~0.00594895~0.00594895~Cryptopia~7ffe9",
+            "5~CCCAGG~ELC~RUR~4~29.10000005~1515618712~4.54756613~132.33417461037828~183781892~0~0~0~0~29.1~29.10000005~29.1~29.10000005~29.10000005~29.10000005~Yobit~7ffe9",
+            "5~CCCAGG~ELC~POP~4~5600~1455944170~0.00013298~0.744688~1455944170~0~0~0~0~5600~5600~5600~5600~5600~5600~Cryptopia~7ffe9",
+            "5~CCCAGG~ELC~DOGE~4~18.80769684~1515164636~177.99318821~3347.64192344~1515164636~0~0~0~0~18.81~18.81~18.80769684~18.80769684~18.80769684~18.80769684~Cryptopia~7ffe9",
+            "5~CCCAGG~ELC~USD~4~0.50600508~1515618508~3.44181377~1.7415752520339516~183780146~0~0~0~0~0.506~0.50600508~0.506~0.50600508~0.50600508~0.50600508~Yobit~7ffe9",
+            "5~CCCAGG~ELC~LTC~4~0.0015~1515179676~6.71989355~0.01007984~1515179676~0~0~0~0~0.0015~0.0015~0.0015~0.0015~0.0015~0.0015~Cryptopia~7ffe9",
+            "5~CCCAGG~ELC~FTC~4~1.4~1488857625~0.01103133~0.015444~1488857625.001~0~0~0~0~1.4~1.4~1.4~1.4~1.4~1.4~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

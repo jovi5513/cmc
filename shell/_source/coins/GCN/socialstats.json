@@ -1,0 +1,209 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GCN",
+            "CoinName": "GCoin",
+            "Type": "Webpagecoinp",
+            "Points": 15733
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 199107,
+                    "Name": "Cosmos",
+                    "FullName": "Cosmos (ATOM*)",
+                    "ImageUrl": "\/media\/1383901\/cosmos.jpg",
+                    "Url": "\/coins\/atomstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 278056,
+                    "Name": "CarTaxi",
+                    "FullName": "CarTaxi (CTX)",
+                    "ImageUrl": "\/media\/12318075\/ctx1.png",
+                    "Url": "\/coins\/ctx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 205991,
+                    "Name": "Ties Network",
+                    "FullName": "Ties Network (TIE)",
+                    "ImageUrl": "\/media\/1383955\/tie.png",
+                    "Url": "\/coins\/tie\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28154,
+                    "Name": "Karbowanec",
+                    "FullName": "Karbowanec (KRB)",
+                    "ImageUrl": "\/media\/351504\/krb.jpg",
+                    "Url": "\/coins\/krb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8695,
+                    "Name": "Rimbit",
+                    "FullName": "Rimbit (RBT)",
+                    "ImageUrl": "\/media\/20407\/rbt.png",
+                    "Url": "\/coins\/rbt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 393656,
+                    "Name": "Viuly",
+                    "FullName": "Viuly (VIU)",
+                    "ImageUrl": "\/media\/14913680\/viu.png",
+                    "Url": "\/coins\/viu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35823,
+                    "Name": "Incent",
+                    "FullName": "Incent (INCNT)",
+                    "ImageUrl": "\/media\/352296\/incnt.png",
+                    "Url": "\/coins\/incnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20680,
+                    "Name": "VirtaCoin",
+                    "FullName": "VirtaCoin (VTA)",
+                    "ImageUrl": "\/media\/350945\/vta.png",
+                    "Url": "\/coins\/vta\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38030,
+                    "Name": "Limited Coin",
+                    "FullName": "Limited Coin (LTD)",
+                    "ImageUrl": "\/media\/1382049\/ltd.png",
+                    "Url": "\/coins\/ltd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179990,
+                    "Name": "Rialto.AI",
+                    "FullName": "Rialto.AI (XRL)",
+                    "ImageUrl": "\/media\/1383754\/xrl.png",
+                    "Url": "\/coins\/xrl\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 667326,
+                    "Name": "cnorthcott",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/667326\/ce2ccddd-be3d-45ee-a21e-2c0e374ecd2c.jpg",
+                    "Url": "\/profile\/cnorthcott\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 105992,
+                    "Name": "parkingphi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/105992\/42572710-60f9-4341-9d02-7405fee1aeec.jpg",
+                    "Url": "\/profile\/parkingphi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 592019,
+                    "Name": "homestead500",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/592019\/740c08f0-baea-4774-94c2-e68648fc1892.jpg",
+                    "Url": "\/profile\/homestead500\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 472754,
+                    "Name": "vanridesbikes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/472754\/c6626294-766d-4d32-974a-7bcf2f0d6404.jpg",
+                    "Url": "\/profile\/vanridesbikes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 494667,
+                    "Name": "sabanadze",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/494667\/31c2eac4-7cfa-48c6-a11b-c7e83e4a6dbf.jpg",
+                    "Url": "\/profile\/sabanadze\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 364947,
+                    "Name": "ChuckNip",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/364947\/c38b9853-675b-4a32-b1ff-8217f6580dd5.jpg",
+                    "Url": "\/profile\/ChuckNip\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 624409,
+                    "Name": "helene.schenk",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/624409\/0bd732af-ffe7-478c-90c7-8a47a8a813a3.jpg",
+                    "Url": "\/profile\/helene.schenk\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 341208,
+                    "Name": "plopsadude",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/341208\/aeda06d5-3a42-45ff-b4d4-148897eaff68.jpg",
+                    "Url": "\/profile\/plopsadude\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 459590,
+                    "Name": "paulyjay",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/459590\/1ab42e03-11b7-4d61-a284-6abbb698f550.png",
+                    "Url": "\/profile\/paulyjay\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 66057,
+                    "Name": "BraveDave",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/66057\/f8c3da3e-1bcc-4d97-838e-828667c7f601.jpg",
+                    "Url": "\/profile\/BraveDave\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 556840,
+                    "Name": "fallenangel",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/556840\/881ddf9a-7efc-4950-841f-aad2681c30f5.png",
+                    "Url": "\/profile\/fallenangel\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1900,
+            "Posts": "28",
+            "Comments": "15",
+            "Followers": 42,
+            "PageViewsSplit": {
+                "Overview": 3664,
+                "Markets": 296,
+                "Analysis": 227,
+                "Charts": 259,
+                "Trades": 163,
+                "Orderbook": 2,
+                "Forum": 1106,
+                "Influence": 41
+            },
+            "PageViews": 5758
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "2161",
+            "name": "GCN coin",
+            "likes": 13833,
+            "link": "https:\/\/www.facebook.com\/infogcoin\/",
+            "Points": 13833
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

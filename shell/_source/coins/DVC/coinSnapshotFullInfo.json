@@ -1,0 +1,70 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "DevCoin (DVC) - Live streaming prices and market cap",
+            "PageDescription": "Live DevCoin prices from all markets and DVC coin market Capitalization. Stay up to date with the latest DevCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20563\/dvc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4436",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "DevCoin (DVC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "DVC",
+            "Url": "\/coins\/dvc\/",
+            "BaseAngularUrl": "\/coins\/dvc\/",
+            "Name": "DevCoin",
+            "ImageUrl": "\/media\/20563\/dvc.png",
+            "Description": "<p>Devcoin is an ethically inspired project based on the BitCoin crypto-currency and created to help fund open source projects created by programmers, hardware developers, writers, musicians, painters, graphic artists and filmmakers. Participants in the DevCoin economy earn DevCoins in proportion to their project development. Writers earn devcoins by writing, developers earn Devcoins by developing, artists earn DevCoin by creating, and the same follow for every other category including Administrators who apply their time and effort to help organize the DevCoin project and Marketers who earn Devcoins by Marketing. There are 50,000 coins per block, of which 90% goes to funding open source projects. 5,000 are given to miners, 45,000 are given to the people distributing Devcoins to artists and contributors.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "21000000000",
+            "Algorithm": "SHA256",
+            "ProofType": "PoW",
+            "StartDate": "05\/08\/2011",
+            "Twitter": "@Devtome",
+            "AffiliateUrl": "http:\/\/devcoin.org\/",
+            "Website": "<a href='http:\/\/devcoin.org\/' target='_blank'>DevCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1454389322,
+            "DifficultyAdjustment": "2016 blocks",
+            "BlockRewardReduction": "-",
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 10946460000,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~BTER~DVC~CNY",
+            "2~Cryptsy~DVC~BTC",
+            "2~BTER~DVC~LTC",
+            "2~Cryptsy~DVC~LTC",
+            "2~Cryptsy~DVC~XRP"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~DVC~CNY~4~0.00003~1483581988~28972.85~0.8691854999999999~13848636~0~0~0~0~0.00003~0.00003~0.00003~0.00003~0.00003~0.00003~BTER~7ffe9",
+            "5~CCCAGG~DVC~BTC~4~4e-8~1452828168~424~0.00001696~110947786~0~0~4e-8~4e-8~4e-8~Cryptsy~78ce9",
+            "5~CCCAGG~DVC~LTC~4~5.2e-7~1483545930~965664.625~0.502145605~13845956~0~0~0~0~5.2e-7~5.2e-7~5.2e-7~5.2e-7~5.2e-7~5.2e-7~BTER~7ffe9",
+            "5~CCCAGG~DVC~XRP~4~0.00319064~1452621299~0.00801701~0.00002558~110866058~0~0~0.00319064~0.00319064~0.00319064~Cryptsy~78ce9"
+        ]
+    },
+    "Type": 100
+}

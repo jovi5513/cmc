@@ -1,0 +1,68 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Cachecoin (CACH) - Live streaming prices and market cap",
+            "PageDescription": "Live Cachecoin prices from all markets and CACH coin market Capitalization. Stay up to date with the latest Cachecoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19642\/cach.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4405",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "CacheCoin (CACH)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "CACH",
+            "Url": "\/coins\/cach\/",
+            "BaseAngularUrl": "\/coins\/cach\/",
+            "Name": "Cachecoin",
+            "ImageUrl": "\/media\/19642\/cach.png",
+            "Description": "<p>CACHeCoin (CACH) utilizes Proof-of-Stake (POS) mining that generates more CACHeCoins when you retain your coins for 7 days. When the coins from a particular transaction become 7 days old, they will be used by your wallet to perform Proof-of-Stake mining that will generate new coins if you solve the block. Just like a normal Proof-of-Work block, these POS blocks require 520 confirmations. Once the POS block has reached 520 confirmations, your staked coins and the reward will be made available again in your wallet. These coins will then be required to age another 7 days before they can be used in POS mining. The POS is not very CPU intense and there&#39;s no need to set anything in order to mine PoS. It&#39;s done automatically.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "2000000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "05\/01\/2014",
+            "Twitter": "@CACHeCoin",
+            "AffiliateUrl": "http:\/\/cachecoin.org\/",
+            "Website": "<a href='http:\/\/cachecoin.org\/' target='_blank'>Cachecoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~CACH~BTC",
+            "2~Cryptopia~CACH~LTC",
+            "2~Cryptsy~CACH~BTC",
+            "2~Cryptopia~CACH~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~CACH~BTC~1~0.0000089~1515947506~195.00376455~0.00173553~1515947506~221592.92641167002~2.3356234900000006~224955.14918925997~2.3671146899999997~0.00000954~0.000018~0.0000064~0.00000919~0.000018~0.0000064~Cryptopia~7ffe9",
+            "5~CCCAGG~CACH~LTC~4~0.00030347~1515167860~666.88975001~0.20238103~1515167860.001~0~0~0~0~0.0003035~0.0003035~0.00030347~0.00030347~0.00030347~0.00030347~Cryptopia~7ffe9",
+            "5~CCCAGG~CACH~DOGE~4~9~1515049871~74.96118873~674.65069857~1515049871~0~0~0~0~9~9~9~9~9~9~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

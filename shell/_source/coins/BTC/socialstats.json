@@ -1,0 +1,339 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BTC",
+            "CoinName": "Bitcoin",
+            "Type": "Webpagecoinp",
+            "Points": 4208099
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 7605,
+                    "Name": "Ethereum",
+                    "FullName": "Ethereum (ETH)",
+                    "ImageUrl": "\/media\/20646\/eth_logo.png",
+                    "Url": "\/coins\/eth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5031,
+                    "Name": "Ripple",
+                    "FullName": "Ripple (XRP)",
+                    "ImageUrl": "\/media\/19972\/ripple.png",
+                    "Url": "\/coins\/xrp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3808,
+                    "Name": "Litecoin",
+                    "FullName": "Litecoin (LTC)",
+                    "ImageUrl": "\/media\/19782\/litecoin-logo.png",
+                    "Url": "\/coins\/ltc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 127356,
+                    "Name": "IOTA",
+                    "FullName": "IOTA (IOT)",
+                    "ImageUrl": "\/media\/1383540\/iota_logo.png",
+                    "Url": "\/coins\/iot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 202330,
+                    "Name": "Bitcoin Cash \/ BCC",
+                    "FullName": "Bitcoin Cash \/ BCC (BCH)",
+                    "ImageUrl": "\/media\/1383919\/bch.jpg",
+                    "Url": "\/coins\/bch\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4614,
+                    "Name": "Stellar",
+                    "FullName": "Stellar (XLM)",
+                    "ImageUrl": "\/media\/20696\/str.png",
+                    "Url": "\/coins\/xlm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5038,
+                    "Name": "Monero",
+                    "FullName": "Monero (XMR)",
+                    "ImageUrl": "\/media\/19969\/xmr.png",
+                    "Url": "\/coins\/xmr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 27368,
+                    "Name": "NEO",
+                    "FullName": "NEO (NEO)",
+                    "ImageUrl": "\/media\/1383858\/neo.jpg",
+                    "Url": "\/coins\/neo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4433,
+                    "Name": "Verge",
+                    "FullName": "Verge (XVG)",
+                    "ImageUrl": "\/media\/12318032\/xvg.png",
+                    "Url": "\/coins\/xvg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24854,
+                    "Name": "ZCash",
+                    "FullName": "ZCash (ZEC)",
+                    "ImageUrl": "\/media\/351360\/zec.png",
+                    "Url": "\/coins\/zec\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 676285,
+                    "Name": "gundupie001",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676285\/93b0821d-c387-4104-a623-85eabc51fe21.jpg",
+                    "Url": "\/profile\/gundupie001\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 675481,
+                    "Name": "belkarad",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675481\/c84c8921-d079-4bf4-8a8f-cc8f79debd69.jpg",
+                    "Url": "\/profile\/belkarad\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 650895,
+                    "Name": "hanneshugo.urbla",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/650895\/4cb9aadf-4dd1-47a7-ba85-acf7b9dbf242.jpg",
+                    "Url": "\/profile\/hanneshugo.urbla\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676259,
+                    "Name": "look4saurabh",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676259\/d4ccb0ac-d325-43e6-bf89-96db967b32e0.jpg",
+                    "Url": "\/profile\/look4saurabh\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676241,
+                    "Name": "mfoley8323837",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676241\/7d4258b7-6bc2-4802-96ec-ad59a56913c2.jpg",
+                    "Url": "\/profile\/mfoley8323837\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676216,
+                    "Name": "brettdrake11",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676216\/7e71f328-4f00-4726-9330-d738d0b57410.jpg",
+                    "Url": "\/profile\/brettdrake11\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676059,
+                    "Name": "julien.bonnet.br",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676059\/1ec6a43c-5e34-4826-9459-2836b31e1333.jpg",
+                    "Url": "\/profile\/julien.bonnet.br\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 632466,
+                    "Name": "willesloco",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/632466\/7bce4911-0221-47c3-8574-5159b6cd6379.jpg",
+                    "Url": "\/profile\/willesloco\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 608512,
+                    "Name": "mandarin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/608512\/f34b5390-af83-4564-818f-fefc1b0d1a2c.jpg",
+                    "Url": "\/profile\/mandarin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 572881,
+                    "Name": "beardjackson1949",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/572881\/afd150d9-7319-468e-a251-42669389ecec.jpg",
+                    "Url": "\/profile\/beardjackson1949\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 500626,
+                    "Name": "rysk29",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/500626\/fe6c902a-c1dc-48b3-90b5-713bfe414deb.jpg",
+                    "Url": "\/profile\/rysk29\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 2651030,
+            "Followers": 46354,
+            "Posts": "33080",
+            "Comments": "66518",
+            "PageViewsSplit": {
+                "Overview": 10938158,
+                "Markets": 795269,
+                "Analysis": 545521,
+                "Charts": 3141089,
+                "Trades": 329275,
+                "Orderbook": 50035,
+                "Forum": 1903991,
+                "Influence": 33736
+            },
+            "PageViews": 17737074
+        },
+        "Twitter": {
+            "following": "115",
+            "account_creation": "1313643968",
+            "name": "Bitcoin",
+            "lists": 5798,
+            "statuses": 19259,
+            "favourites": "101",
+            "followers": 688973,
+            "link": "https:\/\/twitter.com\/bitcoin",
+            "Points": 717982
+        },
+        "Reddit": {
+            "posts_per_hour": "12.91",
+            "comments_per_hour": "355.38",
+            "posts_per_day": "309.96",
+            "comments_per_day": 8529.12,
+            "name": "Bitcoin",
+            "link": "https:\/\/www.reddit.com\/r\/bitcoin\/",
+            "active_users": 15425,
+            "community_creation": "1284042626",
+            "subscribers": 663708,
+            "Points": 727041
+        },
+        "Facebook": {
+            "likes": 36740,
+            "link": "https:\/\/www.facebook.com\/bitcoins\/",
+            "is_closed": "false",
+            "talking_about": "333",
+            "name": "Bitcoin P2P Cryptocurrency",
+            "Points": 36740
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1363239994",
+                    "open_total_issues": "26",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "1174",
+                    "closed_total_issues": "139",
+                    "stars": 702,
+                    "last_update": "1515835014",
+                    "forks": 239,
+                    "url": "https:\/\/github.com\/petertodd\/python-bitcoinlib",
+                    "closed_issues": "46",
+                    "closed_pull_issues": "93",
+                    "fork": "false",
+                    "last_push": "1514847167",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "11",
+                    "language": "Python",
+                    "subscribers": 91,
+                    "open_issues": "15"
+                },
+                {
+                    "created_at": "1384835603",
+                    "open_total_issues": "222",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "16807",
+                    "closed_total_issues": "1272",
+                    "stars": 1876,
+                    "last_update": "1515945293",
+                    "forks": 1249,
+                    "url": "https:\/\/github.com\/bitcoinj\/bitcoinj",
+                    "closed_issues": "617",
+                    "closed_pull_issues": "655",
+                    "fork": "false",
+                    "last_push": "1515402478",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "27",
+                    "language": "Java",
+                    "subscribers": 262,
+                    "open_issues": "195"
+                },
+                {
+                    "created_at": "1292771803",
+                    "open_total_issues": "853",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "69530",
+                    "closed_total_issues": "11203",
+                    "stars": 25245,
+                    "last_update": "1515945410",
+                    "forks": 14716,
+                    "url": "https:\/\/github.com\/bitcoin\/bitcoin",
+                    "closed_issues": "3044",
+                    "closed_pull_issues": "8159",
+                    "fork": "false",
+                    "last_push": "1515940079",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "272",
+                    "language": "C++",
+                    "subscribers": 2703,
+                    "open_issues": "581"
+                },
+                {
+                    "created_at": "1304525025",
+                    "open_total_issues": "34",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "2990",
+                    "closed_total_issues": "948",
+                    "stars": 2237,
+                    "last_update": "1515944029",
+                    "forks": 725,
+                    "url": "https:\/\/github.com\/bitcoinjs\/bitcoinjs-lib",
+                    "closed_issues": "373",
+                    "closed_pull_issues": "575",
+                    "fork": "false",
+                    "last_push": "1515609223",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "10",
+                    "language": "JavaScript",
+                    "subscribers": 149,
+                    "open_issues": "24"
+                }
+            ],
+            "Points": 73533
+        }
+    }
+}

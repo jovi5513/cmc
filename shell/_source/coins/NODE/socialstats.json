@@ -1,0 +1,182 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NODE",
+            "CoinName": "Node",
+            "Type": "Webpagecoinp",
+            "Points": 338
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20441,
+                    "Name": "Thecreed",
+                    "FullName": "Thecreed (TCR)",
+                    "ImageUrl": "\/media\/350918\/tcr.png",
+                    "Url": "\/coins\/tcr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6412,
+                    "Name": "MorpheusCoin",
+                    "FullName": "MorpheusCoin (MRP)",
+                    "ImageUrl": "\/media\/20357\/mrp.png",
+                    "Url": "\/coins\/mrp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 196549,
+                    "Name": "Spoon",
+                    "FullName": "Spoon (SPN)",
+                    "ImageUrl": "\/media\/1383861\/spn.png",
+                    "Url": "\/coins\/spn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 290053,
+                    "Name": "Dropcoin",
+                    "FullName": "Dropcoin (DRC)",
+                    "ImageUrl": "\/media\/11417638\/drp.png",
+                    "Url": "\/coins\/drc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4414,
+                    "Name": "CINNICOIN",
+                    "FullName": "CINNICOIN (CINNI)",
+                    "ImageUrl": "\/media\/19651\/cinni.jpeg",
+                    "Url": "\/coins\/cinni\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21871,
+                    "Name": "WMCoin",
+                    "FullName": "WMCoin (WMC)",
+                    "ImageUrl": "\/media\/351044\/wmc.png",
+                    "Url": "\/coins\/wmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21017,
+                    "Name": "Number7",
+                    "FullName": "Number7 (N7)",
+                    "ImageUrl": "\/media\/350995\/n7.jpg",
+                    "Url": "\/coins\/n7\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6455,
+                    "Name": "Cerium",
+                    "FullName": "Cerium (XCE)",
+                    "ImageUrl": "\/media\/20573\/xce.png",
+                    "Url": "\/coins\/xce\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 385866,
+                    "Name": "Sakuracoin",
+                    "FullName": "Sakuracoin (SKR)",
+                    "ImageUrl": "\/media\/14913631\/skr.png",
+                    "Url": "\/coins\/skr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44952,
+                    "Name": "Solarflarecoin",
+                    "FullName": "Solarflarecoin (SFC)",
+                    "ImageUrl": "\/media\/1382639\/sfc.png",
+                    "Url": "\/coins\/sfc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 490820,
+                    "Name": "we.excavate",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/490820\/ed9c5b0e-ac07-4878-a04d-53088a8c32c2.jpg",
+                    "Url": "\/profile\/we.excavate\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 234789,
+                    "Name": "swathish.ravi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/234789\/537ff875-3a75-4cf1-8e38-6c9e73cfc4b9.jpg",
+                    "Url": "\/profile\/swathish.ravi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 15783,
+                    "Name": "dmitry29push",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/15783\/255ac401-96c3-430f-9fc4-213ce3431464.jpg",
+                    "Url": "\/profile\/dmitry29push\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 59308,
+                    "Name": "portugues_suave",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/59308\/14ca3fee-4a0e-4d07-9cfb-b359ae81d0a1.jpg",
+                    "Url": "\/profile\/portugues_suave\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 20474,
+                    "Name": "Muzaffar.80",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/20474\/060c27b7-c98f-4cfe-847c-ded60424277a.png",
+                    "Url": "\/profile\/Muzaffar.80\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24811,
+                    "Name": "yenny.prathivi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24811\/d2b3e374-c333-4aa6-8c66-3bb6a52dbadd.jpg",
+                    "Url": "\/profile\/yenny.prathivi\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 7,
+            "Points": 175,
+            "PageViewsSplit": {
+                "Overview": 264,
+                "Markets": 32,
+                "Analysis": 21,
+                "Charts": 18,
+                "Trades": 16,
+                "Orderbook": 0,
+                "Forum": 15,
+                "Influence": 10
+            },
+            "PageViews": 376
+        },
+        "Twitter": {
+            "followers": 138,
+            "following": "1",
+            "lists": 5,
+            "favourites": "0",
+            "statuses": 6,
+            "account_creation": "1479979567",
+            "name": "nodecoin",
+            "link": "https:\/\/twitter.com\/NodeCoin",
+            "Points": 163
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

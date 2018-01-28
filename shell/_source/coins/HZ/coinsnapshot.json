@@ -1,0 +1,72 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 0,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 1000000000,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "HZ",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "2e-8",
+            "LASTUPDATE": "1493769658",
+            "LASTVOLUME": "99750.00000001",
+            "LASTVOLUMETO": "0.001995",
+            "LASTTRADEID": "216995",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "2e-8",
+            "HIGHDAY": "2e-8",
+            "LOWDAY": "2e-8",
+            "OPEN24HOUR": "2e-8",
+            "HIGH24HOUR": "2e-8",
+            "LOW24HOUR": "2e-8",
+            "LASTMARKET": "Poloniex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "HZ",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "2.1e-7",
+                "LASTUPDATE": "1489838069",
+                "LASTVOLUME": "3439.65517241",
+                "LASTVOLUMETO": "0.00072232",
+                "LASTTRADEID": "1864328",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "2.1e-7",
+                "HIGH24HOUR": "2.1e-7",
+                "LOW24HOUR": "2.1e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Poloniex",
+                "FROMSYMBOL": "HZ",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "2e-8",
+                "LASTUPDATE": "1493769658",
+                "LASTVOLUME": "99750.00000001",
+                "LASTVOLUMETO": "0.001995",
+                "LASTTRADEID": "216995",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "2e-8",
+                "HIGH24HOUR": "2e-8",
+                "LOW24HOUR": "2e-8"
+            }
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,133 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BCOIN",
+            "CoinName": "BannerCoin",
+            "Type": "Webpagecoinp",
+            "Points": 11448
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4419,
+                    "Name": "CosmosCoin",
+                    "FullName": "CosmosCoin (CMC)",
+                    "ImageUrl": "\/media\/20019\/cmc.png",
+                    "Url": "\/coins\/cmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 23734,
+                    "Name": "CryptoJacks",
+                    "FullName": "CryptoJacks (CJ)",
+                    "ImageUrl": "\/media\/351234\/cj.png",
+                    "Url": "\/coins\/cj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 659770,
+                    "Name": "GXShares",
+                    "FullName": "GXShares (GXS)",
+                    "ImageUrl": "\/media\/20780746\/gxs.png",
+                    "Url": "\/coins\/gxs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4322,
+                    "Name": "Asia Coin",
+                    "FullName": "Asia Coin (AC)",
+                    "ImageUrl": "\/media\/19593\/ac.png",
+                    "Url": "\/coins\/ac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 339933,
+                    "Name": "Elements",
+                    "FullName": "Elements (ELM)",
+                    "ImageUrl": "\/media\/12318308\/elm.png",
+                    "Url": "\/coins\/elm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 50730,
+                    "Name": "VaultCoin",
+                    "FullName": "VaultCoin (VLTC)",
+                    "ImageUrl": "\/media\/1382738\/vltc.png",
+                    "Url": "\/coins\/vltc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32775,
+                    "Name": "InflationCoin",
+                    "FullName": "InflationCoin (IFLT)",
+                    "ImageUrl": "\/media\/351934\/iflt.png",
+                    "Url": "\/coins\/iflt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 129013,
+                    "Name": "E-CurrencyCoin",
+                    "FullName": "E-CurrencyCoin (ECC)",
+                    "ImageUrl": "\/media\/1383546\/ecc.png",
+                    "Url": "\/coins\/ecc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6104,
+                    "Name": "Crypto Escudo",
+                    "FullName": "Crypto Escudo (CESC)",
+                    "ImageUrl": "\/media\/350786\/cesc.png",
+                    "Url": "\/coins\/cesc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 194906,
+                    "Name": "RootProject",
+                    "FullName": "RootProject (ROOTS)",
+                    "ImageUrl": "\/media\/1383851\/roots.png",
+                    "Url": "\/coins\/roots\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "Points": 25,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 131,
+                "Markets": 5,
+                "Analysis": 3,
+                "Charts": 10,
+                "Trades": 3,
+                "Orderbook": 0,
+                "Forum": 4,
+                "Influence": 5
+            },
+            "PageViews": 161
+        },
+        "Twitter": {
+            "following": "38",
+            "account_creation": "1218647717",
+            "statuses": 4584,
+            "favourites": "3915",
+            "followers": 11124,
+            "name": "BannerView.com",
+            "link": "https:\/\/twitter.com\/BannerView",
+            "lists": 59,
+            "Points": 11423
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/BannerView\/\/",
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

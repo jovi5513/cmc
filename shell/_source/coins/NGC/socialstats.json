@@ -1,0 +1,226 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NGC",
+            "CoinName": "NagaCoin",
+            "Type": "Webpagecoinp",
+            "Points": 64568
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 222085,
+                    "Name": "Neblio",
+                    "FullName": "Neblio (NEBL)",
+                    "ImageUrl": "\/media\/1384016\/nebl.png",
+                    "Url": "\/coins\/nebl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369151,
+                    "Name": "Streamr DATAcoin",
+                    "FullName": "Streamr DATAcoin (DATA)",
+                    "ImageUrl": "\/media\/14913438\/data.png",
+                    "Url": "\/coins\/data\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 141331,
+                    "Name": "Dent",
+                    "FullName": "Dent (DENT)",
+                    "ImageUrl": "\/media\/1383613\/dent.png",
+                    "Url": "\/coins\/dent\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 141464,
+                    "Name": "Ethos",
+                    "FullName": "Ethos (BQX)",
+                    "ImageUrl": "\/media\/16404851\/ethos.png",
+                    "Url": "\/coins\/ethos\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 199148,
+                    "Name": "Decentraland",
+                    "FullName": "Decentraland (MANA)",
+                    "ImageUrl": "\/media\/1383903\/mana.png",
+                    "Url": "\/coins\/mana\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 324068,
+                    "Name": "ICON Project",
+                    "FullName": "ICON Project (ICX)",
+                    "ImageUrl": "\/media\/12318192\/icx.png",
+                    "Url": "\/coins\/icx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20196,
+                    "Name": "Dashcoin",
+                    "FullName": "Dashcoin (DSH)",
+                    "ImageUrl": "\/media\/20026\/dash.png",
+                    "Url": "\/coins\/dsh\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 240142,
+                    "Name": "Wanchain",
+                    "FullName": "Wanchain (WAN)",
+                    "ImageUrl": "\/media\/9350742\/wan.jpg",
+                    "Url": "\/coins\/wan\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43044,
+                    "Name": "Ubiq",
+                    "FullName": "Ubiq (UBQ)",
+                    "ImageUrl": "\/media\/1382441\/ubq.png",
+                    "Url": "\/coins\/ubq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22015,
+                    "Name": "Rise",
+                    "FullName": "Rise (RISE)",
+                    "ImageUrl": "\/media\/351059\/rise.png",
+                    "Url": "\/coins\/rise\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 677256,
+                    "Name": "garydavis123",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677256\/e863b145-3f78-4f7a-a567-c834ad43f56c.jpg",
+                    "Url": "\/profile\/garydavis123\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 201877,
+                    "Name": "stevesufi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/201877\/421b6004-b093-4d2b-97cb-5010e40ab85c.jpg",
+                    "Url": "\/profile\/stevesufi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 127247,
+                    "Name": "lobemachen23",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/127247\/293c1a86-9908-49f8-b8c3-8282cafd4666.jpg",
+                    "Url": "\/profile\/lobemachen23\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 417700,
+                    "Name": "3BCC078A",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/417700\/a3a6e0d9-f8fb-4580-95fa-885dd2db83d6.jpg",
+                    "Url": "\/profile\/3BCC078A\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 532766,
+                    "Name": "GreenGurly",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/532766\/804698b8-22d1-44b6-a518-16e1106ed970.jpg",
+                    "Url": "\/profile\/GreenGurly\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 256767,
+                    "Name": "nigelturner4",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/256767\/c2fb0bf2-923f-43ed-81c5-8db28b7912fe.jpg",
+                    "Url": "\/profile\/nigelturner4\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 277343,
+                    "Name": "gek2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/277343\/def69c76-b006-4fea-a370-927917502049.jpg",
+                    "Url": "\/profile\/gek2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 626376,
+                    "Name": "tastum",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/626376\/8a7a1178-8685-47ca-ac78-f75baeadb70c.jpg",
+                    "Url": "\/profile\/tastum\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 609405,
+                    "Name": "xchoobooloo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/609405\/df283c2d-610d-48f2-bb51-d6564dc5bffc.jpg",
+                    "Url": "\/profile\/xchoobooloo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 413665,
+                    "Name": "jazzraja",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/413665\/1a618a07-1a30-4500-9990-9b6d9b19a942.jpg",
+                    "Url": "\/profile\/jazzraja\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 111224,
+                    "Name": "farshid.cloud",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/111224\/48adaae8-6944-4545-a26e-dec85942613e.jpg",
+                    "Url": "\/profile\/farshid.cloud\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 16115,
+            "Posts": "137",
+            "Comments": "199",
+            "Followers": 428,
+            "PageViewsSplit": {
+                "Overview": 80483,
+                "Markets": 2013,
+                "Analysis": 1333,
+                "Charts": 4667,
+                "Trades": 1898,
+                "Orderbook": 0,
+                "Forum": 6749,
+                "Influence": 377
+            },
+            "PageViews": 97520
+        },
+        "Twitter": {
+            "statuses": 369,
+            "favourites": "56",
+            "following": "6",
+            "account_creation": "1451702769",
+            "followers": 6918,
+            "name": "The NAGA Coin",
+            "link": "https:\/\/twitter.com\/thenagaico",
+            "lists": 61,
+            "Points": 7223
+        },
+        "Reddit": {
+            "posts_per_hour": "0.12",
+            "link": "https:\/\/www.reddit.com\/r\/thenagaico\/",
+            "comments_per_hour": "0.30",
+            "posts_per_day": "2.92",
+            "active_users": 4,
+            "community_creation": "1509823928",
+            "subscribers": 430,
+            "name": "thenagaico",
+            "comments_per_day": 7.2,
+            "Points": 456
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "3245",
+            "name": "The NAGA Coin",
+            "likes": 40765,
+            "link": "https:\/\/www.facebook.com\/thenagaico\/",
+            "Points": 40765
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

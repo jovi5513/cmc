@@ -1,0 +1,80 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "ECOcoin (ECO) - Live streaming prices and market cap",
+            "PageDescription": "Live ECOcoin prices from all markets and ECO coin market Capitalization. Stay up to date with the latest ECOcoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1382993\/eco.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "61047",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "ECOcoin (ECO)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ECO",
+            "Url": "\/coins\/eco\/",
+            "BaseAngularUrl": "\/coins\/eco\/",
+            "Name": "ECOcoin",
+            "ImageUrl": "\/media\/1382993\/eco.png",
+            "Description": "<p>ECOcoin is a PoW\/PoS Scrypt cryptocurrency created to\u00a0to draw people&#39;s attention to the ecology.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "10733333",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "01\/01\/0001",
+            "Twitter": "",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515978454,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 282540,
+            "BlockTime": 64,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 1154570.0504104,
+            "PreviousTotalCoinsMined": 1154569.6845918,
+            "BlockReward": 0.030288097506855
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~ECO~BTC",
+            "2~Yobit~ECO~BTC",
+            "2~Yobit~ECO~USD",
+            "2~Cryptopia~ECO~LTC",
+            "2~Yobit~ECO~ETH",
+            "2~Novaexchange~ECO~ETH",
+            "2~Novaexchange~ECO~LTC",
+            "2~Cryptopia~ECO~DOGE",
+            "2~Cryptopia~ECO~BTC",
+            "2~Yobit~ECO~RUR",
+            "2~Yobit~ECO~DOGE",
+            "2~Yobit~ECO~WAVES"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ECO~BTC~1~0.00002208~1515976141~90.13218~0.0019504603752~200000191~279.99999944~0.0060591999878816~46816.645127760006~1.1014751345543974~0.00002248~0.00002248~0.00002166~0.00002239~0.0000261~0.00002199~Yobit~7ffe9",
+            "5~CCCAGG~ECO~USD~4~0.35~1515956022~14.9326232~5.22641812~200000029~0~0~60.829998710000005~20.71014860385799~0.35~0.35~0.35~0.3~0.4~0.3~Yobit~7ffe9",
+            "5~CCCAGG~ECO~LTC~4~0.00258~1515189507~18.42717698~0.04754212~1515189507~0~0~0~0~0.00258~0.00258~0.00258~0.00258~0.00258~0.00258~Cryptopia~7ffe9",
+            "5~CCCAGG~ECO~ETH~1~0.00027589~1515768678~0.39526622~0.0001090499974358~200000000~0~0~0~0~0.00025~0.00027589~0.00025~0.00027589~0.00027589~0.00027589~Yobit~7ffe9",
+            "5~CCCAGG~ECO~DOGE~4~30~1515947395~29.93029613~897.9088839~200000026~0~0~51~1525~30~30~30~25~30~25~Yobit~7ffe9",
+            "5~CCCAGG~ECO~RUR~4~19.5~1515960621~6.09947879~118.93995229509702~200000021~0~0~11.08106171~216.2502392473885~19.5~19.5~19.5~19.54~19.54~19.5~Yobit~7ffe9",
+            "5~CCCAGG~ECO~WAVES~4~0.0307451~1515769575~0.01626218~0.000499982350318~200000003~0~0~0~0~0.0307451~0.0307451~0.0307451~0.0307451~0.0307451~0.0307451~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

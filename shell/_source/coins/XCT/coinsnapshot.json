@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "XCT",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "5.3e-7",
+            "LASTUPDATE": "1516092214",
+            "LASTVOLUME": "663.24481757",
+            "LASTVOLUMETO": "0.00035152",
+            "LASTTRADEID": "1516092214",
+            "VOLUMEDAY": "202422.48839469",
+            "VOLUMEDAYTO": "0.11135467999999997",
+            "VOLUME24HOUR": "1926284.42771565",
+            "VOLUME24HOURTO": "1.08286358",
+            "OPENDAY": "5.6e-7",
+            "HIGHDAY": "5.7e-7",
+            "LOWDAY": "5.2e-7",
+            "OPEN24HOUR": "5.2e-7",
+            "HIGH24HOUR": "6e-7",
+            "LOW24HOUR": "5e-7",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "XCT",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "5.3e-7",
+                "LASTUPDATE": "1516092214",
+                "LASTVOLUME": "663.24481757",
+                "LASTVOLUMETO": "0.00035152",
+                "LASTTRADEID": "1516092214",
+                "VOLUME24HOUR": "1926284.42771565",
+                "VOLUME24HOURTO": "1.08286358",
+                "OPEN24HOUR": "5.2e-7",
+                "HIGH24HOUR": "6e-7",
+                "LOW24HOUR": "5e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Novaexchange",
+                "FROMSYMBOL": "XCT",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "9e-8",
+                "LASTUPDATE": "1510581103",
+                "LASTVOLUME": "15172.88888889",
+                "LASTVOLUMETO": "0.0013655600000001",
+                "LASTTRADEID": "1510581103000",
+                "VOLUME24HOUR": "15172.88888889",
+                "VOLUME24HOURTO": "0.0013655600000001",
+                "OPEN24HOUR": "9e-8",
+                "HIGH24HOUR": "9e-8",
+                "LOW24HOUR": "9e-8"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "XCT",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "1e-8",
+                "LASTUPDATE": "1476947075",
+                "LASTVOLUME": "100000",
+                "LASTVOLUMETO": "0.001",
+                "LASTTRADEID": "5946",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "1e-8",
+                "HIGH24HOUR": "1e-8",
+                "LOW24HOUR": "1e-8"
+            }
+        ]
+    },
+    "Type": 100
+}

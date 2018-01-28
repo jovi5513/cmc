@@ -1,0 +1,169 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XCASH",
+            "CoinName": "Xcash",
+            "Type": "Webpagecoinp",
+            "Points": 611
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 56654,
+                    "Name": "PlanetCoin",
+                    "FullName": "PlanetCoin (PLANET)",
+                    "ImageUrl": "\/media\/1382851\/planet.png",
+                    "Url": "\/coins\/planet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30177,
+                    "Name": "JiffyCoin",
+                    "FullName": "JiffyCoin (JIF)",
+                    "ImageUrl": "\/media\/351738\/jif.png",
+                    "Url": "\/coins\/jif\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3645,
+                    "Name": "Supcoin",
+                    "FullName": "Supcoin (SUP)",
+                    "ImageUrl": "\/media\/20442\/sup.png",
+                    "Url": "\/coins\/sup\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7565,
+                    "Name": "Squall Coin",
+                    "FullName": "Squall Coin (SQL)",
+                    "ImageUrl": "\/media\/20441\/sql.png",
+                    "Url": "\/coins\/sql\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35232,
+                    "Name": "CoralPay",
+                    "FullName": "CoralPay (CORAL)",
+                    "ImageUrl": "\/media\/352225\/coral.png",
+                    "Url": "\/coins\/coral\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 48807,
+                    "Name": "FindCoin",
+                    "FullName": "FindCoin (FIND)",
+                    "ImageUrl": "\/media\/1382713\/find.png",
+                    "Url": "\/coins\/find\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33945,
+                    "Name": "Coin to the Future",
+                    "FullName": "Coin to the Future (BTTF)",
+                    "ImageUrl": "\/media\/352111\/bttf.png",
+                    "Url": "\/coins\/bttf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 77306,
+                    "Name": "Prizm",
+                    "FullName": "Prizm (PZM)",
+                    "ImageUrl": "\/media\/1383242\/pzm.jpg",
+                    "Url": "\/coins\/pzm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34213,
+                    "Name": "DollarOnline",
+                    "FullName": "DollarOnline (DLR)",
+                    "ImageUrl": "\/media\/352114\/dollarcoin.png",
+                    "Url": "\/coins\/dlr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33268,
+                    "Name": "FameCoin",
+                    "FullName": "FameCoin (FAME)",
+                    "ImageUrl": "\/media\/352006\/fame.png",
+                    "Url": "\/coins\/fame\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 466130,
+                    "Name": "EBB736C9",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/466130\/be8e12a2-6229-46a4-9ce1-2685b4ea2bc1.jpg",
+                    "Url": "\/profile\/EBB736C9\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 124658,
+                    "Name": "MAHDIAGER",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/124658\/60590893-fea1-4054-bebc-ad243030163a.jpg",
+                    "Url": "\/profile\/MAHDIAGER\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 323081,
+                    "Name": "slammminsammmy79",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/323081\/32a158f1-24c7-48ad-922c-c10d24a7250b.jpg",
+                    "Url": "\/profile\/slammminsammmy79\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 12283,
+                    "Name": "ninestakfa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/12283\/aab813a7-a7d4-4d9b-90b0-a9f6b05072c2.jpg",
+                    "Url": "\/profile\/ninestakfa\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 176,
+                "Markets": 18,
+                "Analysis": 38,
+                "Charts": 14,
+                "Trades": 10,
+                "Orderbook": 1,
+                "Forum": 23,
+                "Influence": 4
+            },
+            "PageViews": 284
+        },
+        "Twitter": {
+            "favourites": "35",
+            "lists": 9,
+            "name": "xCash",
+            "statuses": 73,
+            "followers": 441,
+            "following": "734",
+            "account_creation": "1409177885",
+            "link": "https:\/\/twitter.com\/xCashcoin",
+            "Points": 486
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

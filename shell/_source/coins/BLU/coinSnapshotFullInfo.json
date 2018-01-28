@@ -1,0 +1,84 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BlueCoin (BLU) - Live streaming prices and market cap",
+            "PageDescription": "Live BlueCoin prices from all markets and BLU coin market Capitalization. Stay up to date with the latest BlueCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19624\/blu.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "312"
+        },
+        "General": {
+            "Id": "4340",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "BlueCoin (BLU)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BLU",
+            "Url": "\/coins\/blu\/",
+            "BaseAngularUrl": "\/coins\/blu\/",
+            "Name": "BlueCoin",
+            "ImageUrl": "\/media\/19624\/blu.png",
+            "Description": "<p>BlueCoin (BLU) is a scrypt altcoin that is starts with a PoW phase lasting 100 days - and then switches to Proof of Stake. The block time is 90 seconds and the difficulty retargets every block. The coin is based on Scrypt and the PoS interest rate is set to 3%. There was a 3% premine for bugs, bountie and further development.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "500000000",
+            "Algorithm": "X11",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "30\/03\/2015",
+            "Twitter": "@BlueCoin_info",
+            "AffiliateUrl": "http:\/\/www.bluecoin.io\/",
+            "Website": "<a href='http:\/\/www.bluecoin.io\/' target='_blank'>BlueCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515947480,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "",
+            "BlockNumber": 164797,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 19381763165,
+            "TotalCoinsMined": 620697895,
+            "PreviousTotalCoinsMined": 620697335,
+            "BlockReward": 35
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~BLU~DOGE",
+            "2~Yobit~BLU~RUR",
+            "2~CCEX~BLU~USD",
+            "2~CCEX~BLU~DOGE",
+            "2~CCEX~BLU~BTC",
+            "2~Cryptsy~BLU~BTC",
+            "2~Yobit~BLU~USD",
+            "2~LiveCoin~BLU~BTC",
+            "2~CCEX~BLU~LTC",
+            "2~BitTrex~BLU~BTC",
+            "2~Cryptsy~BLU~XRP",
+            "2~LiveCoin~BLU~USD",
+            "2~Yobit~BLU~ETH",
+            "2~Yobit~BLU~WAVES",
+            "2~Yobit~BLU~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BLU~DOGE~4~2.5~1515942311~509.17789196~1272.9447146246634~200000015~8000.000096000001~19999.999999999996~8000.000096000001~19999.999999999996~2.49999997~2.5~2.49999997~2.5~2.5~2.5~Yobit~7ffe9",
+            "5~CCCAGG~BLU~RUR~4~1.49~1515930570~1~1.49099999~200000006~21.50869688~31.550107671475196~21.50869688~31.550107671475196~0.47~1.49~0.47~0.47~1.49~0.47~Yobit~7ffe9",
+            "5~CCCAGG~BLU~USD~1~0.025~1515935138~331.21810392~8.28040953964649~200000002~631.21810392~11.28040953964649~631.21810392~11.28040953964649~0.025~0.025~0.01~0.01~0.025~0.01~Yobit~7ffe9",
+            "5~CCCAGG~BLU~BTC~4~9.3e-7~1515942436~960.116945~0.00089290875885~200000064~16098.644670279997~0.0142377278394142~28375.458432190004~0.025014680833423297~8.1e-7~9.5e-7~7.9e-7~8.2e-7~9.5e-7~7.9e-7~Yobit~7ffe9",
+            "5~CCCAGG~BLU~LTC~4~0.00005192~1473574816~102.62219757~0.0053281444978343995~1491449~0~0~0~0~0.00005192~0.00005192~0.00005192~0.00005192~0.00005192~0.00005192~CCEX~7ffe9",
+            "5~CCCAGG~BLU~XRP~4~0.00420003~1452655169~2.2~0.00924007~110891500~0~0~0.00420003~0.00420003~0.00420003~Cryptsy~78ce9",
+            "5~CCCAGG~BLU~ETH~4~0.000019~1515721120~422.9271267~0.0080356154073~200000006~0~0~0~0~0.000019~0.000019~0.000019~0.000019~0.000019~0.000019~Yobit~7ffe9",
+            "5~CCCAGG~BLU~WAVES~4~0.00040006~1515684472~8~0.00320048~184249296~0~0~0~0~0.0004001~0.0004001~0.00040006~0.00040006~0.00040006~0.00040006~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "FFC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "3e-8",
+            "LASTUPDATE": "1516064891",
+            "LASTVOLUME": "30000",
+            "LASTVOLUMETO": "0.0008999999999999999",
+            "LASTTRADEID": "200000186",
+            "VOLUMEDAY": "33500",
+            "VOLUMEDAYTO": "0.0010049999999999998",
+            "VOLUME24HOUR": "541913.33333332",
+            "VOLUME24HOURTO": "0.0133065999999996",
+            "OPENDAY": "3e-8",
+            "HIGHDAY": "3e-8",
+            "LOWDAY": "3e-8",
+            "OPEN24HOUR": "3e-8",
+            "HIGH24HOUR": "3e-8",
+            "LOW24HOUR": "2e-8",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "FFC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "6e-8",
+                "LASTUPDATE": "1452768414",
+                "LASTVOLUME": "8831.66666667",
+                "LASTVOLUMETO": "0.0005299",
+                "LASTTRADEID": "110926858",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "6e-8",
+                "HIGH24HOUR": "6e-8",
+                "LOW24HOUR": "6e-8"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "FFC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "1e-8",
+                "LASTUPDATE": "1513225503",
+                "LASTVOLUME": "158661.67664671",
+                "LASTVOLUMETO": "0.00158662",
+                "LASTTRADEID": "1513225503.001",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "1e-8",
+                "HIGH24HOUR": "1e-8",
+                "LOW24HOUR": "1e-8"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "FFC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "3e-8",
+                "LASTUPDATE": "1516064891",
+                "LASTVOLUME": "30000",
+                "LASTVOLUMETO": "0.0008999999999999999",
+                "LASTTRADEID": "200000186",
+                "VOLUME24HOUR": "541913.33333332",
+                "VOLUME24HOURTO": "0.0133065999999996",
+                "OPEN24HOUR": "3e-8",
+                "HIGH24HOUR": "3e-8",
+                "LOW24HOUR": "2e-8"
+            }
+        ]
+    },
+    "Type": 100
+}

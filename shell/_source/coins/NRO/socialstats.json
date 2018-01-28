@@ -1,0 +1,159 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NRO",
+            "CoinName": "Neuro",
+            "Type": "Webpagecoinp",
+            "Points": 1026
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 38277,
+                    "Name": "GAKHcoin",
+                    "FullName": "GAKHcoin (GAKH)",
+                    "ImageUrl": "\/media\/1382090\/gakh.png",
+                    "Url": "\/coins\/gakh\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35813,
+                    "Name": "CryptoSpots",
+                    "FullName": "CryptoSpots (CS)",
+                    "ImageUrl": "\/media\/352292\/cs.png",
+                    "Url": "\/coins\/cs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20826,
+                    "Name": "DragonSphere",
+                    "FullName": "DragonSphere (XDB)",
+                    "ImageUrl": "\/media\/350977\/xdb.png",
+                    "Url": "\/coins\/xdb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7480,
+                    "Name": "Droidz",
+                    "FullName": "Droidz (DRZ)",
+                    "ImageUrl": "\/media\/20259\/drz.png",
+                    "Url": "\/coins\/drz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33393,
+                    "Name": "MegaFlash",
+                    "FullName": "MegaFlash (MEGA)",
+                    "ImageUrl": "\/media\/352020\/mega.png",
+                    "Url": "\/coins\/mega\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4529,
+                    "Name": "GalaxyCoin",
+                    "FullName": "GalaxyCoin (GLX)",
+                    "ImageUrl": "\/media\/19728\/glx.png",
+                    "Url": "\/coins\/glx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3653,
+                    "Name": "Insanity Coin",
+                    "FullName": "Insanity Coin (WOLF)",
+                    "ImageUrl": "\/media\/20559\/wolf.png",
+                    "Url": "\/coins\/wolf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4596,
+                    "Name": "RoyalCoin",
+                    "FullName": "RoyalCoin (RYC)",
+                    "ImageUrl": "\/media\/19898\/ryc.png",
+                    "Url": "\/coins\/ryc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7581,
+                    "Name": "Milllionaire Coin",
+                    "FullName": "Milllionaire Coin (MIL)",
+                    "ImageUrl": "\/media\/20354\/mil.png",
+                    "Url": "\/coins\/mil\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 400693,
+                    "Name": "Insta Cash Coin",
+                    "FullName": "Insta Cash Coin (ICC)",
+                    "ImageUrl": "\/media\/15887424\/icc.png",
+                    "Url": "\/coins\/icc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "PageViewsSplit": {
+                "Overview": 160,
+                "Markets": 0,
+                "Analysis": 6,
+                "Charts": 5,
+                "Trades": 4,
+                "Orderbook": 0,
+                "Forum": 8,
+                "Influence": 7
+            },
+            "PageViews": 190
+        },
+        "Twitter": {
+            "favourites": "264",
+            "lists": 15,
+            "statuses": 72,
+            "following": "533",
+            "account_creation": "1496020633",
+            "name": "Neuro",
+            "followers": 932,
+            "link": "https:\/\/twitter.com\/neurocoinnews",
+            "Points": 1007
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1515953990",
+                    "url": "https:\/\/github.com\/neurocoin\/neurocoin",
+                    "forks": 0,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 5,
+                    "open_issues": "0",
+                    "size": "2807",
+                    "created_at": "1496767830",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1498194574",
+                    "stars": 4
+                }
+            ],
+            "Points": 19
+        }
+    }
+}

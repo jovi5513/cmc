@@ -1,0 +1,162 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GXS",
+            "CoinName": "GXShares",
+            "Type": "Webpagecoinp",
+            "Points": 10391
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4402,
+                    "Name": "BitGem",
+                    "FullName": "BitGem (BTG*)",
+                    "ImageUrl": "\/media\/19634\/btg.png",
+                    "Url": "\/coins\/btgstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 81403,
+                    "Name": "TappingCoin",
+                    "FullName": "TappingCoin (TAP)",
+                    "ImageUrl": "\/media\/1383283\/tap.png",
+                    "Url": "\/coins\/tap\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5384,
+                    "Name": "TrustPlus",
+                    "FullName": "TrustPlus (TRUST)",
+                    "ImageUrl": "\/media\/19935\/trust.png",
+                    "Url": "\/coins\/trust\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4419,
+                    "Name": "CosmosCoin",
+                    "FullName": "CosmosCoin (CMC)",
+                    "ImageUrl": "\/media\/20019\/cmc.png",
+                    "Url": "\/coins\/cmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 23734,
+                    "Name": "CryptoJacks",
+                    "FullName": "CryptoJacks (CJ)",
+                    "ImageUrl": "\/media\/351234\/cj.png",
+                    "Url": "\/coins\/cj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4322,
+                    "Name": "Asia Coin",
+                    "FullName": "Asia Coin (AC)",
+                    "ImageUrl": "\/media\/19593\/ac.png",
+                    "Url": "\/coins\/ac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 339933,
+                    "Name": "Elements",
+                    "FullName": "Elements (ELM)",
+                    "ImageUrl": "\/media\/12318308\/elm.png",
+                    "Url": "\/coins\/elm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 50730,
+                    "Name": "VaultCoin",
+                    "FullName": "VaultCoin (VLTC)",
+                    "ImageUrl": "\/media\/1382738\/vltc.png",
+                    "Url": "\/coins\/vltc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 536905,
+                    "Name": "BannerCoin",
+                    "FullName": "BannerCoin (BCOIN)",
+                    "ImageUrl": "\/media\/16746742\/bcoin.png",
+                    "Url": "\/coins\/bcoin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32775,
+                    "Name": "InflationCoin",
+                    "FullName": "InflationCoin (IFLT)",
+                    "ImageUrl": "\/media\/351934\/iflt.png",
+                    "Url": "\/coins\/iflt\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 664325,
+                    "Name": "k41935",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/664325\/e090f0f6-45e4-4ab4-925a-d15fbdda3e2d.jpg",
+                    "Url": "\/profile\/k41935\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 663060,
+                    "Name": "glentongrizzle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/663060\/11fca7f5-9109-4d06-9844-b42f934ab07b.jpg",
+                    "Url": "\/profile\/glentongrizzle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 663017,
+                    "Name": "lewissg42",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/663017\/854fad7c-d6c2-4650-931c-4efb701557a1.jpg",
+                    "Url": "\/profile\/lewissg42\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 438968,
+                    "Name": "fxgreenhawk",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/438968\/5a26a32e-2e4f-4e26-84a3-421a173d342f.png",
+                    "Url": "\/profile\/fxgreenhawk\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 125,
+            "Posts": "1",
+            "Followers": 4,
+            "PageViewsSplit": {
+                "Overview": 275,
+                "Markets": 11,
+                "Analysis": 16,
+                "Charts": 70,
+                "Trades": 8,
+                "Orderbook": 0,
+                "Forum": 20,
+                "Influence": 4
+            },
+            "PageViews": 404
+        },
+        "Twitter": {
+            "following": "263",
+            "account_creation": "1471855849",
+            "followers": 9591,
+            "favourites": "226",
+            "statuses": 325,
+            "name": "GXShares",
+            "link": "https:\/\/twitter.com\/gongxinbao",
+            "lists": 135,
+            "Points": 10266
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

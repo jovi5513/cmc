@@ -1,0 +1,238 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MDC*",
+            "CoinName": "MadCoin",
+            "Type": "Webpagecoinp",
+            "Points": 12746
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4352,
+                    "Name": "Riecoin",
+                    "FullName": "Riecoin (RIC)",
+                    "ImageUrl": "\/media\/19888\/ric.jpg",
+                    "Url": "\/coins\/ric\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 180595,
+                    "Name": "Digital Developers Fund",
+                    "FullName": "Digital Developers Fund (DDF)",
+                    "ImageUrl": "\/media\/1383760\/ddf.png",
+                    "Url": "\/coins\/ddf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 449573,
+                    "Name": "Social Send",
+                    "FullName": "Social Send (SEND)",
+                    "ImageUrl": "\/media\/16746577\/send.png",
+                    "Url": "\/coins\/send\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182416,
+                    "Name": "BritCoin",
+                    "FullName": "BritCoin (BRIT)",
+                    "ImageUrl": "\/media\/1383777\/brit.png",
+                    "Url": "\/coins\/brit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5401,
+                    "Name": "ICASH",
+                    "FullName": "ICASH (ICASH)",
+                    "ImageUrl": "\/media\/20319\/icash.png",
+                    "Url": "\/coins\/icash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 222133,
+                    "Name": "MonacoCoin",
+                    "FullName": "MonacoCoin (XMCC)",
+                    "ImageUrl": "\/media\/1384017\/mcc.png",
+                    "Url": "\/coins\/xmcc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34499,
+                    "Name": "Icobid",
+                    "FullName": "Icobid (ICOB)",
+                    "ImageUrl": "\/media\/352133\/icb.png",
+                    "Url": "\/coins\/icob\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182364,
+                    "Name": "Unify",
+                    "FullName": "Unify (UNIFY)",
+                    "ImageUrl": "\/media\/1383775\/unify.png",
+                    "Url": "\/coins\/unify\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 177157,
+                    "Name": "ACT",
+                    "FullName": "ACT (ACT)",
+                    "ImageUrl": "\/media\/1383700\/act.png",
+                    "Url": "\/coins\/act\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 198703,
+                    "Name": "Wolk",
+                    "FullName": "Wolk (WLK)",
+                    "ImageUrl": "\/media\/1383892\/wolk.png",
+                    "Url": "\/coins\/wlk\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 430679,
+                    "Name": "alias_noa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/430679\/5eba132b-09db-4378-9a34-2360ae074b22.jpg",
+                    "Url": "\/profile\/alias_noa\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 463736,
+                    "Name": "todd.barrera.ak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/463736\/f473817c-5b3d-48fc-bab9-7e7d7fdc1a55.jpg",
+                    "Url": "\/profile\/todd.barrera.ak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 416762,
+                    "Name": "samcrypto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/416762\/adc4482b-9cf1-4fda-b1b0-9ac58b89f963.png",
+                    "Url": "\/profile\/samcrypto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 286244,
+                    "Name": "coinwollie",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/286244\/ccae4216-0e9c-4fb9-8893-23951da0e506.png",
+                    "Url": "\/profile\/coinwollie\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 283214,
+                    "Name": "etagason",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/283214\/2ad8589e-8a0f-460d-929c-29c26075e24c.jpg",
+                    "Url": "\/profile\/etagason\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 271649,
+                    "Name": "mmendezs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/271649\/dc3c7d4b-da0c-4c89-b1d3-72457b951529.jpg",
+                    "Url": "\/profile\/mmendezs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 374989,
+                    "Name": "ptalexi99",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/374989\/ca9d5b62-0d94-4908-8ca0-afeb9e0b1445.jpg",
+                    "Url": "\/profile\/ptalexi99\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 374636,
+                    "Name": "anezhivy",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/374636\/c91b57c7-0a4a-420f-b084-b4b391a304ae.jpg",
+                    "Url": "\/profile\/anezhivy\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 168334,
+                    "Name": "marouaneokri",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/168334\/1a153452-0e82-4d64-92f5-29809b382be7.jpg",
+                    "Url": "\/profile\/marouaneokri\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 300,
+            "Followers": 9,
+            "Posts": "3",
+            "PageViewsSplit": {
+                "Overview": 791,
+                "Markets": 42,
+                "Analysis": 14,
+                "Charts": 8,
+                "Trades": 13,
+                "Orderbook": 1,
+                "Forum": 23,
+                "Influence": 22
+            },
+            "PageViews": 914
+        },
+        "Twitter": {
+            "following": "635",
+            "account_creation": "1501429966",
+            "name": "Madcoin",
+            "lists": 4,
+            "statuses": 85,
+            "favourites": "69",
+            "followers": 12320,
+            "link": "https:\/\/twitter.com\/madcoinlife",
+            "Points": 12340
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "posts_per_day": "0.02",
+            "name": "MADcoin",
+            "link": "https:\/\/www.reddit.com\/r\/MADcoin\/",
+            "active_users": 5,
+            "community_creation": "1491947006",
+            "subscribers": 16,
+            "Points": 31
+        },
+        "Facebook": {
+            "likes": 66,
+            "link": "https:\/\/www.facebook.com\/madcoinlife\/",
+            "is_closed": "false",
+            "talking_about": "17",
+            "name": "Madcoin",
+            "Points": 66
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1513982448",
+                    "open_total_issues": "1",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "2724",
+                    "closed_total_issues": "2",
+                    "stars": 2,
+                    "last_update": "1515379163",
+                    "forks": 2,
+                    "url": "https:\/\/github.com\/madcoin-project\/madcoin",
+                    "closed_issues": "2",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1514033280",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 1,
+                    "open_issues": "1"
+                }
+            ],
+            "Points": 9
+        }
+    }
+}

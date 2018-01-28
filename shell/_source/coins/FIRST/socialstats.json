@@ -1,0 +1,233 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "FIRST",
+            "CoinName": "FirstCoin",
+            "Type": "Webpagecoinp",
+            "Points": 1807
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20744,
+                    "Name": "MoinCoin",
+                    "FullName": "MoinCoin (MOIN)",
+                    "ImageUrl": "\/media\/350959\/moin.png",
+                    "Url": "\/coins\/moin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 234982,
+                    "Name": "Bitradio",
+                    "FullName": "Bitradio (BRO)",
+                    "ImageUrl": "\/media\/9350701\/bro.png",
+                    "Url": "\/coins\/bro\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4412,
+                    "Name": "CannaCoin",
+                    "FullName": "CannaCoin (CCN)",
+                    "ImageUrl": "\/media\/19643\/ccn.png",
+                    "Url": "\/coins\/ccn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 13045,
+                    "Name": "Transfer",
+                    "FullName": "Transfer (TX)",
+                    "ImageUrl": "\/media\/20722\/tx.png",
+                    "Url": "\/coins\/tx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 234707,
+                    "Name": "CPROP",
+                    "FullName": "CPROP (MLS)",
+                    "ImageUrl": "\/media\/9350696\/mls.png",
+                    "Url": "\/coins\/mls\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 531426,
+                    "Name": "MobileGo",
+                    "FullName": "MobileGo (EMGO)",
+                    "ImageUrl": "\/media\/16746703\/emgo.png",
+                    "Url": "\/coins\/emgo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 74912,
+                    "Name": "Apx",
+                    "FullName": "Apx (APX)",
+                    "ImageUrl": "\/media\/1383235\/apx.png",
+                    "Url": "\/coins\/apx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340816,
+                    "Name": "Clout",
+                    "FullName": "Clout (CLOUT)",
+                    "ImageUrl": "\/media\/12318329\/clout.png",
+                    "Url": "\/coins\/clout\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20446,
+                    "Name": "Influxcoin",
+                    "FullName": "Influxcoin (INFX)",
+                    "ImageUrl": "\/media\/350919\/infx.png",
+                    "Url": "\/coins\/infx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 214738,
+                    "Name": "Oceanlab",
+                    "FullName": "Oceanlab (OCL)",
+                    "ImageUrl": "\/media\/1383989\/ocl.png",
+                    "Url": "\/coins\/ocl\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 581429,
+                    "Name": "8D873E42",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/581429\/21782370-75bf-4a46-8fce-81448298ab74.jpg",
+                    "Url": "\/profile\/8D873E42\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 619043,
+                    "Name": "bouzid.radhia63",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/619043\/fe6dc099-d3bc-4cb6-a489-9bfee09bca99.jpg",
+                    "Url": "\/profile\/bouzid.radhia63\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 599821,
+                    "Name": "criptosalento",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/599821\/3eccc951-0d52-4824-a8ad-122d3f5458e1.jpg",
+                    "Url": "\/profile\/criptosalento\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 565012,
+                    "Name": "saminisar0011",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/565012\/1a8202f8-bd3e-4536-8ad5-2e30b96df289.jpg",
+                    "Url": "\/profile\/saminisar0011\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 532870,
+                    "Name": "domagoj.dzalto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/532870\/193cb4a1-e696-4564-a863-9ce87b593a3a.jpg",
+                    "Url": "\/profile\/domagoj.dzalto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 498107,
+                    "Name": "naveedsabir05",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/498107\/8a06af28-abbb-47ac-be0b-83918263d9f0.jpg",
+                    "Url": "\/profile\/naveedsabir05\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 452798,
+                    "Name": "bushrahassah_81",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/452798\/98037abb-7380-4b40-8ab6-267868378efd.jpg",
+                    "Url": "\/profile\/bushrahassah_81\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 459442,
+                    "Name": "erburleson",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/459442\/61147594-e597-46b1-a220-bab24b3434d7.jpg",
+                    "Url": "\/profile\/erburleson\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 44221,
+                    "Name": "kajandri",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/44221\/4fc39f65-7064-41d8-b7d5-6ba7364f9e80.jpg",
+                    "Url": "\/profile\/kajandri\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 437054,
+                    "Name": "sillahaa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/437054\/4011da70-4670-4aef-8dc7-7628bbb3cea2.jpg",
+                    "Url": "\/profile\/sillahaa\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 242368,
+                    "Name": "sty.greta99",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/242368\/d0618954-c376-44d1-a147-c8d783d2de51.jpg",
+                    "Url": "\/profile\/sty.greta99\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1795,
+            "Posts": "9",
+            "Comments": "2",
+            "Followers": 62,
+            "PageViewsSplit": {
+                "Overview": 7481,
+                "Markets": 422,
+                "Analysis": 441,
+                "Charts": 413,
+                "Trades": 214,
+                "Orderbook": 12,
+                "Forum": 391,
+                "Influence": 68
+            },
+            "PageViews": 9442
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1480156447",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1505721561",
+                    "closed_total_issues": "0",
+                    "size": "1005",
+                    "stars": 2,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1515452744",
+                    "open_pull_issues": "0",
+                    "forks": 2,
+                    "url": "https:\/\/github.com\/firstconn\/firstcoin",
+                    "closed_issues": "0",
+                    "open_issues": "0",
+                    "subscribers": 2,
+                    "language": "C++",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 12
+        }
+    }
+}

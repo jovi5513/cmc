@@ -1,0 +1,73 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "FCoin (FX) - Live streaming prices and market cap",
+            "PageDescription": "Live FCoin prices from all markets and FX coin market Capitalization. Stay up to date with the latest FCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351527\/fx.png",
+            "OgImageWidth": "407",
+            "OgImageHeight": "407"
+        },
+        "General": {
+            "Id": "28336",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "FCoin (FX)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "FX",
+            "Url": "\/coins\/fx\/",
+            "BaseAngularUrl": "\/coins\/fx\/",
+            "Name": "FCoin",
+            "ImageUrl": "\/media\/351527\/fx.png",
+            "Description": "<p>FCoin is a Scrypt cryptocurrency. It employs a Proof of Work\/Proof of Stake consensus prtocol and 10 minute block times. The total suppy for FX is\u00a0987600000 with a 15% premine.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "987600000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "04\/09\/2016",
+            "Twitter": "@Fcoin2",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~FX~USD",
+            "2~Yobit~FX~DOGE",
+            "2~Yobit~FX~BTC",
+            "2~Yobit~FX~RUR",
+            "2~Yobit~FX~ETH",
+            "2~Yobit~FX~WAVES"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~FX~USD~4~0.0007~1515679007~245353.62965378~171.747540757646~184203535~0~0~0~0~0.0007~0.0007~0.0007~0.0007~0.0007~0.0007~Yobit~7ffe9",
+            "5~CCCAGG~FX~DOGE~4~0.01520001~1515679100~28491.23468846~433.0670521769389~184204193~0~0~0~0~0.0152~0.01520001~0.0152~0.01520001~0.01520001~0.01520001~Yobit~7ffe9",
+            "5~CCCAGG~FX~BTC~2~1e-8~1515939184~50000~0.0005~200000071~50000~0.0005~514386.57479385997~0.0097877314958772~2e-8~2e-8~1e-8~2e-8~2e-8~1e-8~Yobit~7ffe9",
+            "5~CCCAGG~FX~RUR~2~0.0469~1515949752~500~23.45~200000050~22144.765047150002~246.0042273722274~36566.6579414~468.7594601182505~0.01~0.047~0.009001~0.015~0.047~0.009001~Yobit~7ffe9",
+            "5~CCCAGG~FX~ETH~4~0.00006498~1515489176~5.80330648~0.00037709885507040004~182794190~0~0~0~0~0.00006498~0.00006498~0.00006498~0.00006498~0.00006498~0.00006498~Yobit~7ffe9",
+            "5~CCCAGG~FX~WAVES~4~0.0000115~1515599054~5488.45~0.063117175~183608576~0~0~0~0~0.0000115~0.0000115~0.0000115~0.0000115~0.0000115~0.0000115~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

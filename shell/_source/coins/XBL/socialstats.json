@@ -1,0 +1,194 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XBL",
+            "CoinName": "Billionaire Token",
+            "Type": "Webpagecoinp",
+            "Points": 2128
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 398648,
+                    "Name": "BitBoost",
+                    "FullName": "BitBoost (BBT)",
+                    "ImageUrl": "\/media\/15887410\/bbt.png",
+                    "Url": "\/coins\/bbt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28023,
+                    "Name": "Autumncoin",
+                    "FullName": "Autumncoin (ATM)",
+                    "ImageUrl": "\/media\/351492\/atm.png",
+                    "Url": "\/coins\/atm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5367,
+                    "Name": "CyberCoin",
+                    "FullName": "CyberCoin (CC)",
+                    "ImageUrl": "\/media\/20225\/cc.png",
+                    "Url": "\/coins\/cc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4552,
+                    "Name": "LightSpeedCoin",
+                    "FullName": "LightSpeedCoin (LSD)",
+                    "ImageUrl": "\/media\/20041\/lsd.png",
+                    "Url": "\/coins\/lsd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 48794,
+                    "Name": "WisdomCoin",
+                    "FullName": "WisdomCoin (WISC)",
+                    "ImageUrl": "\/media\/1382710\/wisc.jpg",
+                    "Url": "\/coins\/wisc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4617,
+                    "Name": "SyncCoin",
+                    "FullName": "SyncCoin (SYNC)",
+                    "ImageUrl": "\/media\/19922\/sync.png",
+                    "Url": "\/coins\/sync\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6452,
+                    "Name": "Forever Coin",
+                    "FullName": "Forever Coin (XFC)",
+                    "ImageUrl": "\/media\/20574\/xfc.png",
+                    "Url": "\/coins\/xfc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 48800,
+                    "Name": "BeaverCoin",
+                    "FullName": "BeaverCoin (BVC)",
+                    "ImageUrl": "\/media\/1382711\/bvc.png",
+                    "Url": "\/coins\/bvc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 180840,
+                    "Name": "FundRequest",
+                    "FullName": "FundRequest (FND)",
+                    "ImageUrl": "\/media\/1383765\/fnd.png",
+                    "Url": "\/coins\/fnd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4436,
+                    "Name": "DevCoin",
+                    "FullName": "DevCoin (DVC)",
+                    "ImageUrl": "\/media\/20563\/dvc.png",
+                    "Url": "\/coins\/dvc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 387750,
+                    "Name": "2D0E408E",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/387750\/f2a50608-c0ec-46a7-ae35-54f9b6845168.jpg",
+                    "Url": "\/profile\/2D0E408E\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 421264,
+                    "Name": "lscbas",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/421264\/22eb79e0-f507-4a1e-a3b8-9966cffa557e.jpg",
+                    "Url": "\/profile\/lscbas\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 375247,
+                    "Name": "nattawatll9525",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/375247\/717303e4-ec2f-463c-8930-561c93f8c021.jpg",
+                    "Url": "\/profile\/nattawatll9525\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 270,
+            "Followers": 3,
+            "Posts": "7",
+            "Comments": "2",
+            "PageViewsSplit": {
+                "Overview": 500,
+                "Markets": 32,
+                "Analysis": 15,
+                "Charts": 40,
+                "Trades": 25,
+                "Orderbook": 1,
+                "Forum": 61,
+                "Influence": 12
+            },
+            "PageViews": 686
+        },
+        "Twitter": {
+            "following": "26",
+            "account_creation": "1500989834",
+            "name": "Billionaire Token",
+            "lists": 29,
+            "statuses": 315,
+            "favourites": "243",
+            "followers": 1482,
+            "link": "https:\/\/twitter.com\/BillionaireTkn",
+            "Points": 1627
+        },
+        "Reddit": {
+            "posts_per_hour": "0.01",
+            "comments_per_hour": "0.03",
+            "posts_per_day": "0.19",
+            "comments_per_day": 0.65,
+            "name": "BillionaireTkn",
+            "link": "https:\/\/www.reddit.com\/r\/BillionaireTkn\/",
+            "active_users": 22,
+            "community_creation": "1505306888",
+            "subscribers": 158,
+            "Points": 225
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1507939953",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "123",
+                    "closed_total_issues": "0",
+                    "stars": 0,
+                    "last_update": "1508165158",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/BillionaireToken\/TokenCore",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1512494366",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "Python",
+                    "subscribers": 2,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 6
+        }
+    }
+}

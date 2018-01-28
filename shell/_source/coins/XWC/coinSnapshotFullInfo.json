@@ -1,0 +1,76 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "WhiteCoin (XWC) - Live streaming prices and market cap",
+            "PageDescription": "Live WhiteCoin prices from all markets and XWC coin market Capitalization. Stay up to date with the latest WhiteCoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350911\/xwc_1.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20338",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "WhiteCoin (XWC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "XWC",
+            "Url": "\/coins\/xwc\/",
+            "BaseAngularUrl": "\/coins\/xwc\/",
+            "Name": "WhiteCoin",
+            "ImageUrl": "\/media\/350911\/xwc_1.png",
+            "Description": "<p><span>Whitecoin (XWC) is a three year old decentralized global blockchain with a focus on cyber security, payments &amp; secure communications<\/span><\/p><p><span>While available to everyone, WhiteCoin is driven by a dedicated community of supporters yet controlled by no one single individual. This attractive combination will help ensure stability, growth, and compelling technological developments.<\/span><\/p>",
+            "Features": "<p><span>Unique design<\/span><br \/><span>Easy to use interface<\/span><br \/><span>Create XWC accounts<\/span><br \/><span>Multilanguage<\/span><br \/><span>Built in block-explorer<\/span><br \/><span>Network statistics<\/span><br \/><span>Manage your contacts<\/span><br \/><span>Windows \/ Mac \/ Linux<\/span><\/p>",
+            "Technology": "<p><span>Bootstrap: bootstrap.dat allows a new Whitecoin client (not synced) to rapidly import the initial blocks from a local file instead of slowly downloading blocks from random peers. This significantly reduces the time it takes to get a client synced with the current blockchain.<\/span><\/p><p>WhiteOS: WhiteOS is a\u00a0<span>custom, optimized and hardened Ubuntu environment. It can be installed in any computer and it provides bulit in anonymity.<\/span><\/p><p>POS starts after Block: 10000<\/p>",
+            "TotalCoinSupply": "300000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "13\/04\/2014",
+            "Twitter": "@whitecoiner",
+            "AffiliateUrl": "http:\/\/www.whitecoin.info\/",
+            "Website": "<a href='http:\/\/www.whitecoin.info\/' target='_blank'>WhiteCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515950050,
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": 432236,
+            "BlockTime": 224,
+            "NetHashesPerSecond": 2.5027593312871e+14,
+            "TotalCoinsMined": 248638029.19257,
+            "PreviousTotalCoinsMined": 248638013.19257,
+            "BlockReward": 2
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~XWC~UNO",
+            "2~Cryptopia~XWC~XMR",
+            "2~Cryptopia~XWC~BTC",
+            "2~Cryptopia~XWC~LTC",
+            "2~Cryptopia~XWC~DOT",
+            "2~BitTrex~XWC~BTC",
+            "2~Cryptopia~XWC~DOGE",
+            "2~Cryptopia~XWC~FTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~XWC~UNO~4~0.00020004~1486808069~130.72248762~0.02615~1486808069.002~0~0~0~0~0.00020004~0.00020004~0.00020004~0.00020004~0.00020004~0.00020004~Cryptopia~7ffe9",
+            "5~CCCAGG~XWC~XMR~4~0.00003001~1483559740~17.13348128~0.000514~1483559740~0~0~0~0~0.00003001~0.00003001~0.00003001~0.00003001~0.00003001~0.00003001~Cryptopia~7ffe9",
+            "5~CCCAGG~XWC~BTC~4~0.00001385~1515949958~176.99323105~0.00245135~5263276~384983.52377693006~5.314673269999994~477701.83808905~6.647813479999999~0.00001445~0.00001445~0.0000134~0.00001424~0.00001455~0.0000134~BitTrex~7ffe9",
+            "5~CCCAGG~XWC~LTC~4~0.00005067~1483481345~0.7463723~0.000038~1483481345~0~0~0~0~0.00005067~0.00005067~0.00005067~0.00005067~0.00005067~0.00005067~Cryptopia~7ffe9",
+            "5~CCCAGG~XWC~DOT~4~0.60000005~1486542562~168.27837932~100.967036~1486542562.001~0~0~0~0~0.60000005~0.60000005~0.60000005~0.60000005~0.60000005~0.60000005~Cryptopia~7ffe9",
+            "5~CCCAGG~XWC~DOGE~4~5.7689991~1486262017~40.10585742~231.370655~1486262017~0~0~0~0~5.7689991~5.7689991~5.7689991~5.7689991~5.7689991~5.7689991~Cryptopia~7ffe9",
+            "5~CCCAGG~XWC~FTC~4~0.088~1484490895~10~0.88~1484490895.007~0~0~0~0~0.088~0.088~0.088~0.088~0.088~0.088~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

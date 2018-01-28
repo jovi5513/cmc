@@ -1,0 +1,175 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XCE",
+            "CoinName": "Cerium",
+            "Type": "Webpagecoinp",
+            "Points": 491
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 290053,
+                    "Name": "Dropcoin",
+                    "FullName": "Dropcoin (DRC)",
+                    "ImageUrl": "\/media\/11417638\/drp.png",
+                    "Url": "\/coins\/drc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4414,
+                    "Name": "CINNICOIN",
+                    "FullName": "CINNICOIN (CINNI)",
+                    "ImageUrl": "\/media\/19651\/cinni.jpeg",
+                    "Url": "\/coins\/cinni\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5402,
+                    "Name": "Node",
+                    "FullName": "Node (NODE)",
+                    "ImageUrl": "\/media\/20373\/node.png",
+                    "Url": "\/coins\/node\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21871,
+                    "Name": "WMCoin",
+                    "FullName": "WMCoin (WMC)",
+                    "ImageUrl": "\/media\/351044\/wmc.png",
+                    "Url": "\/coins\/wmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21017,
+                    "Name": "Number7",
+                    "FullName": "Number7 (N7)",
+                    "ImageUrl": "\/media\/350995\/n7.jpg",
+                    "Url": "\/coins\/n7\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 385866,
+                    "Name": "Sakuracoin",
+                    "FullName": "Sakuracoin (SKR)",
+                    "ImageUrl": "\/media\/14913631\/skr.png",
+                    "Url": "\/coins\/skr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44952,
+                    "Name": "Solarflarecoin",
+                    "FullName": "Solarflarecoin (SFC)",
+                    "ImageUrl": "\/media\/1382639\/sfc.png",
+                    "Url": "\/coins\/sfc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188652,
+                    "Name": "BeachCoin",
+                    "FullName": "BeachCoin (SAND)",
+                    "ImageUrl": "\/media\/1383825\/beach.png",
+                    "Url": "\/coins\/sand\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4531,
+                    "Name": "GameLeagueCoin",
+                    "FullName": "GameLeagueCoin (GML)",
+                    "ImageUrl": "\/media\/19726\/gml.png",
+                    "Url": "\/coins\/gml\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5311,
+                    "Name": "KryptCoin",
+                    "FullName": "KryptCoin (KTK)",
+                    "ImageUrl": "\/media\/19771\/ktk.png",
+                    "Url": "\/coins\/ktk\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 579683,
+                    "Name": "ken.kane2000",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/579683\/c37abfc5-f5c1-4fe5-ab5a-5ec91cbe53f8.jpg",
+                    "Url": "\/profile\/ken.kane2000\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 219429,
+                    "Name": "pilotschoice",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/219429\/3a1cf4ae-ad25-4cc1-850f-e3495e68829e.jpg",
+                    "Url": "\/profile\/pilotschoice\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 230617,
+                    "Name": "xvrcrpt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/230617\/28e91143-300e-4cea-821b-4fb227d6a162.jpg",
+                    "Url": "\/profile\/xvrcrpt\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 173822,
+                    "Name": "kitty.gooris",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/173822\/79643bfb-916a-4f5c-8bc9-8c7dfcade9ff.jpg",
+                    "Url": "\/profile\/kitty.gooris\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 53079,
+                    "Name": "karimmiffa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/53079\/4dc8418e-3dd2-437c-9d3d-4af346b00bcf.png",
+                    "Url": "\/profile\/karimmiffa\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 6,
+            "Points": 150,
+            "PageViewsSplit": {
+                "Overview": 389,
+                "Markets": 17,
+                "Analysis": 46,
+                "Charts": 32,
+                "Trades": 45,
+                "Orderbook": 0,
+                "Forum": 36,
+                "Influence": 22
+            },
+            "PageViews": 587
+        },
+        "Twitter": {
+            "favourites": "13",
+            "lists": 7,
+            "name": "CeriumDev",
+            "statuses": 55,
+            "followers": 306,
+            "following": "102",
+            "account_creation": "1433629480",
+            "link": "https:\/\/twitter.com\/CeriumDev",
+            "Points": 341
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

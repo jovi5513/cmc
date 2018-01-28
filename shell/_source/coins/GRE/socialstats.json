@@ -1,0 +1,211 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GRE",
+            "CoinName": "GreenCoin",
+            "Type": "Webpagecoinp",
+            "Points": 2017
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 198703,
+                    "Name": "Wolk",
+                    "FullName": "Wolk (WLK)",
+                    "ImageUrl": "\/media\/1383892\/wolk.png",
+                    "Url": "\/coins\/wlk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 62659,
+                    "Name": "HappyCoin",
+                    "FullName": "HappyCoin (HPC)",
+                    "ImageUrl": "\/media\/1383046\/hpc.png",
+                    "Url": "\/coins\/hpc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35953,
+                    "Name": "Enigma",
+                    "FullName": "Enigma (XNG)",
+                    "ImageUrl": "\/media\/352311\/xng.png",
+                    "Url": "\/coins\/xng\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182364,
+                    "Name": "Unify",
+                    "FullName": "Unify (UNIFY)",
+                    "ImageUrl": "\/media\/1383775\/unify.png",
+                    "Url": "\/coins\/unify\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4568,
+                    "Name": "MazaCoin",
+                    "FullName": "MazaCoin (MZC)",
+                    "ImageUrl": "\/media\/19816\/mzc.png",
+                    "Url": "\/coins\/mzc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 294364,
+                    "Name": "TokenStars",
+                    "FullName": "TokenStars (ACE)",
+                    "ImageUrl": "\/media\/11999076\/ace.png",
+                    "Url": "\/coins\/ace\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45832,
+                    "Name": "Persistent Information Exchange",
+                    "FullName": "Persistent Information Exchange (PIE)",
+                    "ImageUrl": "\/media\/1382686\/pie.png",
+                    "Url": "\/coins\/pie\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32777,
+                    "Name": "ZCashDarkCoin",
+                    "FullName": "ZCashDarkCoin (ZECD)",
+                    "ImageUrl": "\/media\/351935\/zecd.png",
+                    "Url": "\/coins\/zecd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8717,
+                    "Name": "Gram Coin",
+                    "FullName": "Gram Coin (GRAM)",
+                    "ImageUrl": "\/media\/20688\/gram.png",
+                    "Url": "\/coins\/gram\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 52015,
+                    "Name": "Canada eCoin",
+                    "FullName": "Canada eCoin (CDN)",
+                    "ImageUrl": "\/media\/1382763\/cdn.png",
+                    "Url": "\/coins\/cdn\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 669040,
+                    "Name": "antoinegilard",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/669040\/2ba006c8-fcfe-46ea-b6db-508d0b3d1241.jpg",
+                    "Url": "\/profile\/antoinegilard\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 504946,
+                    "Name": "m.corresponds",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/504946\/2ead4c33-a455-4acd-adaa-95939b64708c.jpg",
+                    "Url": "\/profile\/m.corresponds\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 492073,
+                    "Name": "kiks1983",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/492073\/4aa1c42d-e24b-4229-81cc-c3a811bf9c3d.jpg",
+                    "Url": "\/profile\/kiks1983\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 640035,
+                    "Name": "ian.mihajlovic",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/640035\/0cd9a0ae-68f9-4279-a6c4-5a8c4d56aa02.jpg",
+                    "Url": "\/profile\/ian.mihajlovic\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 103174,
+                    "Name": "madriddavid17",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/103174\/e72f3dec-d073-4d9f-a665-6038c0d26d4d.jpg",
+                    "Url": "\/profile\/madriddavid17\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 633269,
+                    "Name": "cymckey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/633269\/5408b657-fb98-48df-9519-1e3b435c1b74.jpg",
+                    "Url": "\/profile\/cymckey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 632571,
+                    "Name": "waynebalkwill",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/632571\/b51544bc-fab0-4e1c-8745-f54976728b83.jpg",
+                    "Url": "\/profile\/waynebalkwill\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 481759,
+                    "Name": "iranscd",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/481759\/246d150f-fd86-48c5-a265-9a53fd9e7136.png",
+                    "Url": "\/profile\/iranscd\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 623741,
+                    "Name": "askcom.pk",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/623741\/14f30d5d-8e55-4e2c-aae0-3e0ef9570eb3.jpg",
+                    "Url": "\/profile\/askcom.pk\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 582551,
+                    "Name": "keystone",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/582551\/89341eb3-8d76-4b7d-bba0-47d7d568d3c4.jpg",
+                    "Url": "\/profile\/keystone\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 619229,
+                    "Name": "nadime23",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/619229\/3dedfd0c-f49d-4876-b796-72351880354b.jpg",
+                    "Url": "\/profile\/nadime23\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1425,
+            "Posts": "6",
+            "Followers": 51,
+            "PageViewsSplit": {
+                "Overview": 2411,
+                "Markets": 162,
+                "Analysis": 137,
+                "Charts": 113,
+                "Trades": 121,
+                "Orderbook": 4,
+                "Forum": 118,
+                "Influence": 55
+            },
+            "PageViews": 3121
+        },
+        "Twitter": {
+            "following": "361",
+            "account_creation": "1401996513",
+            "statuses": 293,
+            "favourites": "28",
+            "followers": 522,
+            "name": "GreenCoin",
+            "link": "https:\/\/twitter.com\/GoGreenCoin",
+            "lists": 14,
+            "Points": 592
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

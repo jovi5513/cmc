@@ -1,0 +1,85 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "GoldBlocks (GB) - Live streaming prices and market cap",
+            "PageDescription": "Live GoldBlocks prices from all markets and GB coin market Capitalization. Stay up to date with the latest GoldBlocks price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351411\/db.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "26194",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "GoldBlocks (GB)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "GB",
+            "Url": "\/coins\/gb\/",
+            "BaseAngularUrl": "\/coins\/gb\/",
+            "Name": "GoldBlocks",
+            "ImageUrl": "\/media\/351411\/db.png",
+            "Description": "<p>GoldBlocks is a gold based PoW\/PoS cryptocurrency that is based on the idea of portable wealth.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "50000000",
+            "Algorithm": "X11",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "01\/01\/0001",
+            "Twitter": "",
+            "AffiliateUrl": "http:\/\/goldblocks.eu\/",
+            "Website": "<a href='http:\/\/goldblocks.eu\/' target='_blank'>GoldBlocks<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515948120,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "-",
+            "BlockNumber": 0,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 15315468,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~GB~LTC",
+            "2~Yobit~GB~WAVES",
+            "2~Bleutrade~GB~BTC",
+            "2~Yobit~GB~DOGE",
+            "2~LiveCoin~GB~BTC",
+            "2~CCEX~GB~BTC",
+            "2~Yobit~GB~RUR",
+            "2~Cryptsy~GB~XRP",
+            "2~Yobit~GB~ETH",
+            "2~Bleutrade~GB~DOGE",
+            "2~Yobit~GB~BTC",
+            "2~CCEX~GB~USD",
+            "2~Cryptsy~GB~BTC",
+            "2~CCEX~GB~DOGE",
+            "2~Bleutrade~GB~ETH",
+            "2~Yobit~GB~USD"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~GB~LTC~4~0.00006782~1500402622~112.8838925~0.00765578558935~1644707~0~0~0~0~0.00006782~0.00006782~0.00006782~0.00006782~0.00006782~0.00006782~CCEX~7ffe9",
+            "5~CCCAGG~GB~WAVES~2~0.008991~1515944233~11.94200047~0.10737339230588279~200000004~11.94200047~0.10737339230588279~11.94200047~0.10737339230588279~0.008991~0.00899124~0.008991~0.008991~0.008991~0.008991~Yobit~7ffe9",
+            "5~CCCAGG~GB~BTC~4~0.00000751~1515951082~2.31287452~0.0000166064390536~1515951082000~32044.880633280005~0.23846017012590537~29895.327940560004~0.2234017598268921~0.00000724~0.00000845~0.00000685~0.00000735~0.00000821~0.0000069~Bleutrade~7ffe9",
+            "5~CCCAGG~GB~DOGE~4~8.63~1515951078~2.31287452~19.949999984720073~1515951078000~1128.8643152~9520.39747925463~909.1670500700001~7646.441576774165~8.21~8.63~8.21~8.21~8.63~8.21~Bleutrade~7ffe9",
+            "5~CCCAGG~GB~RUR~4~6.01~1515920745~0.0170359~0.10238575951107699~200000050~134.98861592~1569.9010286186244~214.60045599~2199.4149247464256~6.01~12~6.01~8~12~6.01~Yobit~7ffe9",
+            "5~CCCAGG~GB~XRP~4~0.034~1430308656~1~0.034~91725567~0~0~0.034~0.034~0.034~Cryptsy~78ce9",
+            "5~CCCAGG~GB~ETH~4~0.00001011~1515923681~214.23881478~0.0021659544174258~1515923681002~983.04388351~0.0442790074319491~937.51314738~0.0409985178937826~0.00007205~0.00007205~0.00001011~0.00007206~0.00007206~0.00001011~Bleutrade~7ffe9",
+            "5~CCCAGG~GB~USD~4~0.15~1515942998~13.30990661~1.9964859915~200000011~40~6~40~6~0.1~0.15~0.1~0.15~0.15~0.15~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

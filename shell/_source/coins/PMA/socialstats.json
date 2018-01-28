@@ -1,0 +1,215 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PMA",
+            "CoinName": "PumaPay",
+            "Type": "Webpagecoinp",
+            "Points": 1111
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 175683,
+                    "Name": "ChanCoin",
+                    "FullName": "ChanCoin (4CHN)",
+                    "ImageUrl": "\/media\/1383831\/chan2.png",
+                    "Url": "\/coins\/4chn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 68093,
+                    "Name": "Independent Money System",
+                    "FullName": "Independent Money System (IMS)",
+                    "ImageUrl": "\/media\/1383145\/ims.png",
+                    "Url": "\/coins\/ims\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 234526,
+                    "Name": "Litra",
+                    "FullName": "Litra (LTA)",
+                    "ImageUrl": "\/media\/9350693\/lta.png",
+                    "Url": "\/coins\/lta\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22333,
+                    "Name": "16BitCoin",
+                    "FullName": "16BitCoin (BIT16)",
+                    "ImageUrl": "\/media\/20181\/16bit.png",
+                    "Url": "\/coins\/bit16\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4405,
+                    "Name": "Cachecoin",
+                    "FullName": "Cachecoin (CACH)",
+                    "ImageUrl": "\/media\/19642\/cach.png",
+                    "Url": "\/coins\/cach\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41866,
+                    "Name": "Numismatic Collections",
+                    "FullName": "Numismatic Collections (XNC*)",
+                    "ImageUrl": "\/media\/1382347\/xnc.png",
+                    "Url": "\/coins\/xncstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33636,
+                    "Name": "Ebitz",
+                    "FullName": "Ebitz (EBZ)",
+                    "ImageUrl": "\/media\/352069\/ebz.png",
+                    "Url": "\/coins\/ebz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 55544,
+                    "Name": "BitVegan",
+                    "FullName": "BitVegan (VEG)",
+                    "ImageUrl": "\/media\/1382792\/veg.png",
+                    "Url": "\/coins\/veg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20346,
+                    "Name": "Darknet",
+                    "FullName": "Darknet (DNET)",
+                    "ImageUrl": "\/media\/350912\/dnet.png",
+                    "Url": "\/coins\/dnet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21650,
+                    "Name": "STRESScoin",
+                    "FullName": "STRESScoin (STS)",
+                    "ImageUrl": "\/media\/351022\/sts.png",
+                    "Url": "\/coins\/sts\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 395409,
+                    "Name": "jmezzo25",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/395409\/091c3813-c726-478f-83da-9f7b7e06306f.jpg",
+                    "Url": "\/profile\/jmezzo25\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674848,
+                    "Name": "andredicky55",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674848\/1a8ae8b9-cfb1-45e0-9970-409959e12a20.jpg",
+                    "Url": "\/profile\/andredicky55\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674811,
+                    "Name": "Mozai",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674811\/1833034d-f28e-4bdc-91d8-0e0f33ecb581.jpg",
+                    "Url": "\/profile\/Mozai\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634683,
+                    "Name": "DrTiaJolie",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634683\/7e35ddf6-a431-41b6-8bd8-d6ab441e5242.png",
+                    "Url": "\/profile\/DrTiaJolie\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 18364,
+                    "Name": "wolpes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/18364\/962c78b9-22d9-46a1-984f-37718b347cb0.jpg",
+                    "Url": "\/profile\/wolpes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 456406,
+                    "Name": "cryp.mak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/456406\/9610c092-df00-4d74-837a-d4f14099fc06.jpg",
+                    "Url": "\/profile\/cryp.mak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670706,
+                    "Name": "bayarau",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670706\/f49a291c-2793-466a-973d-0b005518ba2d.jpg",
+                    "Url": "\/profile\/bayarau\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 669905,
+                    "Name": "rajan_sake",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/669905\/446e7068-3480-4d94-8911-b8b8fc0b8fff.jpg",
+                    "Url": "\/profile\/rajan_sake\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 605963,
+                    "Name": "bryantddaniels",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/605963\/7d187932-55a7-4d4e-b81c-4ba93d0bd105.jpg",
+                    "Url": "\/profile\/bryantddaniels\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 535445,
+                    "Name": "fkariuki",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/535445\/1ea94aab-72e1-4d75-b242-b39d30105278.jpg",
+                    "Url": "\/profile\/fkariuki\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 250,
+            "Followers": 10,
+            "PageViewsSplit": {
+                "Overview": 260,
+                "Markets": 2,
+                "Analysis": 6,
+                "Charts": 4,
+                "Trades": 3,
+                "Orderbook": 0,
+                "Forum": 6,
+                "Influence": 2
+            },
+            "PageViews": 283
+        },
+        "Twitter": {
+            "favourites": "0",
+            "statuses": 10,
+            "following": "0",
+            "account_creation": "1509721453",
+            "followers": 441,
+            "name": "PumaPay",
+            "link": "https:\/\/twitter.com\/PumaPay",
+            "lists": 2,
+            "Points": 451
+        },
+        "Reddit": {
+            "posts_per_hour": "0.01",
+            "link": "https:\/\/www.reddit.com\/r\/PumaPay\/",
+            "posts_per_day": "0.29",
+            "active_users": 5,
+            "community_creation": "1514390739",
+            "name": "PumaPay",
+            "subscribers": 11,
+            "Points": 26
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "632",
+            "name": "PumaPay",
+            "likes": 384,
+            "link": "https:\/\/www.facebook.com\/PumaPay\/",
+            "Points": 384
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

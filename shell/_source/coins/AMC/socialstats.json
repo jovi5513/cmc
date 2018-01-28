@@ -1,0 +1,168 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "AMC",
+            "CoinName": "AmericanCoin",
+            "Type": "Webpagecoinp",
+            "Points": 175
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28657,
+                    "Name": "RingCoin",
+                    "FullName": "RingCoin (RING)",
+                    "ImageUrl": "\/media\/351546\/ring.png",
+                    "Url": "\/coins\/ring\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 79875,
+                    "Name": "ZSEcoin",
+                    "FullName": "ZSEcoin (ZSE)",
+                    "ImageUrl": "\/media\/1383266\/zse.png",
+                    "Url": "\/coins\/zse\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645791,
+                    "Name": "Sparks",
+                    "FullName": "Sparks (SPK)",
+                    "ImageUrl": "\/media\/20780696\/spk.png",
+                    "Url": "\/coins\/spk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 31004,
+                    "Name": "CashOut",
+                    "FullName": "CashOut (CSH)",
+                    "ImageUrl": "\/media\/351877\/csh.png",
+                    "Url": "\/coins\/csh\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4434,
+                    "Name": "DarkCash",
+                    "FullName": "DarkCash (DRKC)",
+                    "ImageUrl": "\/media\/20027\/drkc.png",
+                    "Url": "\/coins\/drkc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34604,
+                    "Name": "Creatio",
+                    "FullName": "Creatio (XCRE)",
+                    "ImageUrl": "\/media\/352156\/xcre.png",
+                    "Url": "\/coins\/xcre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4336,
+                    "Name": "Benjamins",
+                    "FullName": "Benjamins (BEN)",
+                    "ImageUrl": "\/media\/19617\/ben.png",
+                    "Url": "\/coins\/ben\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30019,
+                    "Name": "SydPakCoin",
+                    "FullName": "SydPakCoin (SDP)",
+                    "ImageUrl": "\/media\/351709\/sdp.jpg",
+                    "Url": "\/coins\/sdp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 56654,
+                    "Name": "PlanetCoin",
+                    "FullName": "PlanetCoin (PLANET)",
+                    "ImageUrl": "\/media\/1382851\/planet.png",
+                    "Url": "\/coins\/planet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30177,
+                    "Name": "JiffyCoin",
+                    "FullName": "JiffyCoin (JIF)",
+                    "ImageUrl": "\/media\/351738\/jif.png",
+                    "Url": "\/coins\/jif\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 623620,
+                    "Name": "najeebtbtc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/623620\/a2038399-703a-4906-a004-e8c2e1580f37.jpg",
+                    "Url": "\/profile\/najeebtbtc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 305958,
+                    "Name": "Karmia",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/305958\/946d510f-58c9-4dbc-b337-49dbaa90a608.jpg",
+                    "Url": "\/profile\/Karmia\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 323081,
+                    "Name": "slammminsammmy79",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/323081\/32a158f1-24c7-48ad-922c-c10d24a7250b.jpg",
+                    "Url": "\/profile\/slammminsammmy79\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 133907,
+                    "Name": "ECC396A9",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/133907\/e34523e0-4e80-4c23-8bee-a87fb3c02d29.jpg",
+                    "Url": "\/profile\/ECC396A9\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 77728,
+                    "Name": "dionyssus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/77728\/30153f17-b2d3-4a4f-b34d-b31e1d6f8a1a.jpg",
+                    "Url": "\/profile\/dionyssus\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 6,
+            "Points": 175,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 564,
+                "Markets": 36,
+                "Analysis": 45,
+                "Charts": 31,
+                "Trades": 40,
+                "Orderbook": 0,
+                "Forum": 30,
+                "Influence": 6
+            },
+            "PageViews": 752
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

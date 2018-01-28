@@ -1,0 +1,161 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XLB",
+            "CoinName": "LibertyCoin",
+            "Type": "Webpagecoinp",
+            "Points": 671
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5326,
+                    "Name": "MaieutiCoin",
+                    "FullName": "MaieutiCoin (MMXIV)",
+                    "ImageUrl": "\/media\/19798\/mmxiv.png",
+                    "Url": "\/coins\/mmxiv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5321,
+                    "Name": "TileCoin",
+                    "FullName": "TileCoin (XTC)",
+                    "ImageUrl": "\/media\/20167\/xtc.png",
+                    "Url": "\/coins\/xtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30367,
+                    "Name": "Eclipse",
+                    "FullName": "Eclipse (EC)",
+                    "ImageUrl": "\/media\/351750\/ec.jpg",
+                    "Url": "\/coins\/ec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42110,
+                    "Name": "BombCoin",
+                    "FullName": "BombCoin (BOMB)",
+                    "ImageUrl": "\/media\/1382384\/bomb.png",
+                    "Url": "\/coins\/bomb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 232607,
+                    "Name": "JustDatingSite",
+                    "FullName": "JustDatingSite (JDC)",
+                    "ImageUrl": "\/media\/1384049\/jdc.png",
+                    "Url": "\/coins\/jdc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 194689,
+                    "Name": "CoinJob",
+                    "FullName": "CoinJob (XCJ)",
+                    "ImageUrl": "\/media\/1383849\/xcj.png",
+                    "Url": "\/coins\/xcj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 371004,
+                    "Name": "Tracto",
+                    "FullName": "Tracto (TRCT)",
+                    "ImageUrl": "\/media\/14913462\/trct.png",
+                    "Url": "\/coins\/trct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5323,
+                    "Name": "GridPay",
+                    "FullName": "GridPay (GRID*)",
+                    "ImageUrl": "\/media\/20313\/grid.png",
+                    "Url": "\/coins\/gridstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28326,
+                    "Name": "RootCoin",
+                    "FullName": "RootCoin (ROOT)",
+                    "ImageUrl": "\/media\/351523\/root.png",
+                    "Url": "\/coins\/root\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4423,
+                    "Name": "CoolCoin",
+                    "FullName": "CoolCoin (COOL)",
+                    "ImageUrl": "\/media\/19658\/cool.png",
+                    "Url": "\/coins\/cool\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 441408,
+                    "Name": "davidchiodo2020",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/441408\/6d68684f-6191-4b46-b5cf-6a8eab386124.jpg",
+                    "Url": "\/profile\/davidchiodo2020\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 59798,
+                    "Name": "helpdisman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/59798\/72950aa6-e730-475e-8849-d447efe74ed1.jpg",
+                    "Url": "\/profile\/helpdisman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 111685,
+                    "Name": "projekt1688",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/111685\/f9e9f221-c6a5-46cc-aa08-d8ce78050db8.jpg",
+                    "Url": "\/profile\/projekt1688\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 276,
+                "Markets": 12,
+                "Analysis": 20,
+                "Charts": 19,
+                "Trades": 6,
+                "Orderbook": 1,
+                "Forum": 34,
+                "Influence": 14
+            },
+            "PageViews": 382
+        },
+        "Twitter": {
+            "followers": 491,
+            "following": "3",
+            "lists": 16,
+            "favourites": "39",
+            "statuses": 153,
+            "account_creation": "1399950024",
+            "name": "Liberty Coin",
+            "link": "https:\/\/twitter.com\/CryptoLiberty",
+            "Points": 571
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

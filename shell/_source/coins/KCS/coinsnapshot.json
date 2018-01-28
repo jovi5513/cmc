@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 0,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 181043076.00008,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "KCS",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "2",
+            "PRICE": "0.0008",
+            "LASTUPDATE": "1516093286",
+            "LASTVOLUME": "37.7909",
+            "LASTVOLUMETO": "0.03023272",
+            "LASTTRADEID": "1516093286000",
+            "VOLUMEDAY": "217331.36509999973",
+            "VOLUMEDAYTO": "193.19323674786548",
+            "VOLUME24HOUR": "563379.5114999999",
+            "VOLUME24HOURTO": "500.3459319560049",
+            "OPENDAY": "0.000989",
+            "HIGHDAY": "0.00099",
+            "LOWDAY": "0.000788",
+            "OPEN24HOUR": "0.001085",
+            "HIGH24HOUR": "0.001092",
+            "LOW24HOUR": "0.0007799",
+            "LASTMARKET": "Kucoin"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Kucoin",
+                "FROMSYMBOL": "KCS",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.0008",
+                "LASTUPDATE": "1516093286",
+                "LASTVOLUME": "37.7909",
+                "LASTVOLUMETO": "0.03023272",
+                "LASTTRADEID": "1516093286000",
+                "VOLUME24HOUR": "563379.5114999999",
+                "VOLUME24HOURTO": "500.3459319560049",
+                "OPEN24HOUR": "0.001085",
+                "HIGH24HOUR": "0.00109222",
+                "LOW24HOUR": "0.0007799"
+            }
+        ]
+    },
+    "Type": 100
+}

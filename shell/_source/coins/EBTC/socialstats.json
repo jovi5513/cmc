@@ -1,0 +1,250 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "EBTC",
+            "CoinName": "eBitcoin",
+            "Type": "Webpagecoinp",
+            "Points": 11310
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 127667,
+                    "Name": "Quantum Resistant Ledger",
+                    "FullName": "Quantum Resistant Ledger (QRL)",
+                    "ImageUrl": "\/media\/1383543\/qrl.png",
+                    "Url": "\/coins\/qrl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4345,
+                    "Name": "MyriadCoin",
+                    "FullName": "MyriadCoin (XMY)",
+                    "ImageUrl": "\/media\/19815\/myr.png",
+                    "Url": "\/coins\/xmy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 371064,
+                    "Name": "Bitcoin Red",
+                    "FullName": "Bitcoin Red (BTCRED)",
+                    "ImageUrl": "\/media\/14913463\/btcred.png",
+                    "Url": "\/coins\/btcred\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 419209,
+                    "Name": "Sether",
+                    "FullName": "Sether (SETH)",
+                    "ImageUrl": "\/media\/16746447\/seth.png",
+                    "Url": "\/coins\/seth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341267,
+                    "Name": "Red Pulse",
+                    "FullName": "Red Pulse (RPX)",
+                    "ImageUrl": "\/media\/12318339\/rpx.png",
+                    "Url": "\/coins\/rpx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 335127,
+                    "Name": "Aeron",
+                    "FullName": "Aeron (ARN)",
+                    "ImageUrl": "\/media\/12318261\/arn.png",
+                    "Url": "\/coins\/arn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33914,
+                    "Name": "Time",
+                    "FullName": "Time (TIME)",
+                    "ImageUrl": "\/media\/352105\/time.png",
+                    "Url": "\/coins\/time\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 307219,
+                    "Name": "Ripio",
+                    "FullName": "Ripio (RCN)",
+                    "ImageUrl": "\/media\/12318046\/rnc.png",
+                    "Url": "\/coins\/rcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369132,
+                    "Name": "SimpleToken",
+                    "FullName": "SimpleToken (OST)",
+                    "ImageUrl": "\/media\/14913437\/st.png",
+                    "Url": "\/coins\/ost\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5374,
+                    "Name": "PinkCoin",
+                    "FullName": "PinkCoin (PINK)",
+                    "ImageUrl": "\/media\/350588\/pinkcoin-logo.png",
+                    "Url": "\/coins\/pink\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 676378,
+                    "Name": "gsmborias",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676378\/f2d48bf6-e3c4-4652-8af2-c2eb965e589a.jpg",
+                    "Url": "\/profile\/gsmborias\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 635247,
+                    "Name": "aleku89",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/635247\/dc7049d6-5ab2-43b9-8a50-71fd8abcf982.jpg",
+                    "Url": "\/profile\/aleku89\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 671005,
+                    "Name": "alwinschaap",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/671005\/742e6f71-d7df-4a76-a61a-2aa953c20684.jpg",
+                    "Url": "\/profile\/alwinschaap\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 669002,
+                    "Name": "lguerratrader",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/669002\/de12b68d-fbc6-4020-8395-ea80c20f0355.jpg",
+                    "Url": "\/profile\/lguerratrader\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 295494,
+                    "Name": "ferditaylan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/295494\/a39521b8-9e8f-4ca4-8f2c-02ec497e4b87.jpg",
+                    "Url": "\/profile\/ferditaylan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 652641,
+                    "Name": "piyushsgohel",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/652641\/64d4eb3d-5422-49ef-a8bd-075238f6a056.jpg",
+                    "Url": "\/profile\/piyushsgohel\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 452225,
+                    "Name": "mealineman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/452225\/379abe7d-be57-4165-8bd4-d9de8d463c20.jpg",
+                    "Url": "\/profile\/mealineman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 460747,
+                    "Name": "benarji.kommana",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/460747\/3d2e7b2b-b729-46ee-9d24-46c384a9f99c.jpg",
+                    "Url": "\/profile\/benarji.kommana\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 645388,
+                    "Name": "deepanshugaba",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/645388\/030a1e74-7589-45dd-82f4-23504242c4b0.jpg",
+                    "Url": "\/profile\/deepanshugaba\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 303482,
+                    "Name": "valwall101",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/303482\/947bf015-d1e5-4316-be64-643543a65bc9.jpg",
+                    "Url": "\/profile\/valwall101\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 6725,
+            "Followers": 193,
+            "Posts": "54",
+            "Comments": "55",
+            "PageViewsSplit": {
+                "Overview": 21197,
+                "Markets": 939,
+                "Analysis": 511,
+                "Charts": 1616,
+                "Trades": 1662,
+                "Orderbook": 25,
+                "Forum": 2462,
+                "Influence": 143
+            },
+            "PageViews": 28555
+        },
+        "Twitter": {
+            "following": "640",
+            "account_creation": "1507902121",
+            "name": "eBitcoin (eBTC) - Exchanges: HitBTC, EtherDelta",
+            "lists": 35,
+            "statuses": 295,
+            "favourites": "618",
+            "followers": 3524,
+            "link": "https:\/\/twitter.com\/eBTCFoundation",
+            "Points": 3699
+        },
+        "Reddit": {
+            "posts_per_hour": "0.05",
+            "comments_per_hour": "0.11",
+            "posts_per_day": "1.12",
+            "comments_per_day": 2.64,
+            "name": "eBTC",
+            "link": "https:\/\/www.reddit.com\/r\/ebtc\/",
+            "active_users": 28,
+            "community_creation": "1506884034",
+            "subscribers": 547,
+            "Points": 636
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1508786602",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "26",
+                    "closed_total_issues": "3",
+                    "stars": 125,
+                    "last_update": "1515648683",
+                    "forks": 9,
+                    "url": "https:\/\/github.com\/eBTCCommunityTrustToken\/eBTC",
+                    "closed_issues": "3",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1510768796",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "JavaScript",
+                    "subscribers": 35,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 248
+        }
+    }
+}

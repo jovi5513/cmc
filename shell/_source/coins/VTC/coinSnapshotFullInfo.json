@@ -1,0 +1,87 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "VertCoin (VTC) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "VertCoin (VTC) is a cryptographic currency, similar to Bitcoin and Litecoin, with one major difference - Vertcoin believes that everyone who has personal computer should be able to join the Vertcoin network.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19945\/vtc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "5018",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "VertCoin (VTC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "VTC",
+            "Url": "\/coins\/vtc\/",
+            "BaseAngularUrl": "\/coins\/vtc\/",
+            "Name": "VertCoin",
+            "ImageUrl": "\/media\/19945\/vtc.png",
+            "Description": "<p>VertCoin (VTC) is a cryptographic currency, similar to Bitcoin and Litecoin, with one major difference - Vertcoin believes that everyone who has personal computer should be able to join the Vertcoin network.<\/p><p>VertCoin is a Litecoin Fork, that in turn is a Bitcoin Fork.<\/p><p><span>Vertcoin is also the first cryptocurrency to implement Stealth Addresses, a new technology for providing privacy on the public ledger.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "84000000",
+            "Algorithm": "Lyra2RE",
+            "ProofType": "PoW",
+            "StartDate": "08\/01\/2014",
+            "Twitter": "@Vertcoin",
+            "AffiliateUrl": "https:\/\/vertcoin.org\/",
+            "Website": "<a href='https:\/\/vertcoin.org\/' target='_blank'>VertCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1514508797,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 42243325,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Bleutrade~VTC~BTC",
+            "2~Cryptsy~VTC~XRP",
+            "2~Yobit~VTC~WAVES",
+            "2~Yobit~VTC~USD",
+            "2~Yobit~VTC~BTC",
+            "2~Bleutrade~VTC~DOGE",
+            "2~BTER~VTC~BTC",
+            "2~Cryptsy~VTC~LTC",
+            "2~Jubi~VTC~CNY",
+            "2~Yobit~VTC~ETH",
+            "2~Poloniex~VTC~BTC",
+            "2~Bleutrade~VTC~ETH",
+            "2~BTER~VTC~CNY",
+            "2~Yobit~VTC~RUR",
+            "2~BitTrex~VTC~BTC",
+            "2~Cryptsy~VTC~BTC",
+            "2~Yobit~VTC~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~VTC~BTC~4~0.0004251~1515981867~3.39860444~0.0014444~45517624~56306.47907122~24.20360456156958~544626.4551340599~234.8925679519423~0.0004324~0.0004408~0.0004223~0.0004341~0.0004436~0.0004219~BitTrex~7ffe9",
+            "5~CCCAGG~VTC~XRP~4~5.40332132~1452741394~0.22845791~1.2344315~110919098~0~0~5.40332132~5.40332132~5.40332132~Cryptsy~78ce9",
+            "5~CCCAGG~VTC~WAVES~4~0.46851212~1515643043~0.00027747~0.0001299980579364~183935488~0~0~0~0~0.4685~0.46851212~0.4685~0.46851212~0.46851212~0.46851212~Yobit~7ffe9",
+            "5~CCCAGG~VTC~USD~4~6.4~1515969084~0.77931208~4.987597312~200000199~0~0~29.104418130000003~196.9655833797693~6.4~6.4~6.4~7~7~5.81~Yobit~7ffe9",
+            "5~CCCAGG~VTC~DOGE~4~490.9~1515972791~4.35406708~2183.5711739847347~200000091~0~0~36.640817860000006~18517.372412908484~501.01~501.01~490.9~400~548.12~387.26~Yobit~7ffe9",
+            "5~CCCAGG~VTC~LTC~4~0.00745606~1452796049~0.0028112~0.00002096~110937440~0~0~0.00745606~0.00745606~0.00745606~Cryptsy~78ce9",
+            "5~CCCAGG~VTC~CNY~4~3.56065~1505534281~6.4649~23.019246185~433425~0~0~0~0~3.56065~3.56065~3.56065~3.56065~3.56065~3.56065~Jubi~7ffe9",
+            "5~CCCAGG~VTC~ETH~4~0.003687~1515956557~10.72886773~0.0397174100270416~200000241~0~0~187.77561544999998~0.8185760596393876~0.003687~0.003687~0.003687~0.004372~0.00462~0.003687~Yobit~7ffe9",
+            "5~CCCAGG~VTC~RUR~4~351~1515980411~3.11236476~1092.4400307600001~200000160~4.912940750000001~1730.007639765~48.74817788999999~17716.770484658075~368~368.7~351~370~370~349~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

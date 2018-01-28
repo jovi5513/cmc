@@ -1,0 +1,76 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "CosmosCoin (CMC) - Live streaming prices and market cap",
+            "PageDescription": "Live CosmosCoin prices from all markets and CMC coin market Capitalization. Stay up to date with the latest CosmosCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20019\/cmc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4419",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "CosmosCoin (CMC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "CMC",
+            "Url": "\/coins\/cmc\/",
+            "BaseAngularUrl": "\/coins\/cmc\/",
+            "Name": "CosmosCoin",
+            "ImageUrl": "\/media\/20019\/cmc.png",
+            "Description": "<p>Cosmoscoin combines the best from Bitcoin\/Litecoin\/Novacoin\/Florincoin, it uses both Proof of Work and Proof of Stake. This provides good resistence to 51% attack. It also supports transaction comments like Florincoin, so when you send transactions to the cosmos, you and your receiver won&#39;t be lost! Moreover, this coin has zero transaction fees, and fast transaction confirmation time (1.5 min). It provides steady coin supply at 3.5 coins per block.<\/p><p>Cosmoscoin has a fair start and zero premined, making it one of the very best of the alt coins exist today.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "100000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "28\/06\/2013",
+            "Twitter": "",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~BTER~CMC~BTC",
+            "2~Coinse~CMC~BTC",
+            "2~Yobit~CMC~USD",
+            "2~Yobit~CMC~DOGE",
+            "2~BTER~CMC~CNY",
+            "2~Yobit~CMC~BTC",
+            "2~Yobit~CMC~ETH",
+            "2~Cryptsy~CMC~BTC",
+            "2~Yobit~CMC~RUR"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~CMC~BTC~4~0.00000237~1515826156~354.52441077~0.0008402228535249~200000012~0~0~0~0~0.00000237~0.00000237~0.00000237~0.00000237~0.00000237~0.00000237~Yobit~7ffe9",
+            "5~CCCAGG~CMC~USD~4~0.011~1515623497~600~6.6~183816587~0~0~0~0~0.011~0.011~0.011~0.011~0.011~0.011~Yobit~7ffe9",
+            "5~CCCAGG~CMC~DOGE~4~28~1515675543~1.778~49.784~184174807~0~0~0~0~28~28~28~28~28~28~Yobit~7ffe9",
+            "5~CCCAGG~CMC~CNY~4~0.2~1458922371~675.399~135.0798~12691158~0~0~0~0~0.2~0.2~0.2~0.2~0.2~0.2~BTER~7ffe9",
+            "5~CCCAGG~CMC~ETH~4~0.00000111~1513608795~100~0.000111~171181626~0~0~0~0~0.00000111~0.00000111~0.00000111~0.00000111~0.00000111~0.00000111~Yobit~7ffe9",
+            "5~CCCAGG~CMC~RUR~4~3~1515663389~12.97122832~38.91368496~184075279~0~0~0~0~3~3~3~3~3~3~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

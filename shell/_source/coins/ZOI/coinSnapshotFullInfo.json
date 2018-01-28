@@ -1,0 +1,84 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Zoin (ZOI) - Live streaming prices and market cap",
+            "PageDescription": "Live Zoin prices from all markets and ZOI coin market Capitalization. Stay up to date with the latest Zoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1382772\/zoin.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "53178",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Zoin (ZOI)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ZOI",
+            "Url": "\/coins\/zoi\/",
+            "BaseAngularUrl": "\/coins\/zoi\/",
+            "Name": "Zoin",
+            "ImageUrl": "\/media\/1382772\/zoin.png",
+            "Description": "<p><span>Zoin uses the Zerocoin protocol. The Zerocoin protocol uses zero-knowledge proofs to ensure that financial transactions are anonymous.<\/span><br \/><br \/><span>The vision of Zoin is to create a coin that is evolving through the community, therefore the founder reward was removed.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "21000000",
+            "Algorithm": "Lyra2RE",
+            "ProofType": "PoW",
+            "StartDate": "05\/11\/2017",
+            "Twitter": "",
+            "AffiliateUrl": "http:\/\/www.zoin.space\/",
+            "Website": "<a href='http:\/\/www.zoin.space\/' target='_blank'>Zoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515952713,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 229704,
+            "BlockTime": 150,
+            "NetHashesPerSecond": 7192693,
+            "TotalCoinsMined": 15996212.5,
+            "PreviousTotalCoinsMined": 15996162.5,
+            "BlockReward": 12.5
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~ZOI~DOT",
+            "2~Cryptopia~ZOI~LTC",
+            "2~Cryptopia~ZOI~UNO",
+            "2~Cryptopia~ZOI~DOGE",
+            "2~Cryptopia~ZOI~BTC",
+            "2~Cryptopia~ZOI~FTC",
+            "2~Novaexchange~ZOI~ETH",
+            "2~Cryptopia~ZOI~XMR",
+            "2~Novaexchange~ZOI~BTC",
+            "2~Novaexchange~ZOI~PIGGY",
+            "2~Novaexchange~ZOI~MOON",
+            "2~Novaexchange~ZOI~LTC",
+            "2~Novaexchange~ZOI~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ZOI~DOT~4~0.1~1489103313~100~10~1489103313~0~0~0~0~0.1~0.1~0.1~0.1~0.1~0.1~Cryptopia~7ffe9",
+            "5~CCCAGG~ZOI~LTC~4~0.00899156~1515196725~11.43530452~0.10282123~1515196725~0~0~0~0~0.00899156~0.00899156~0.00899156~0.00899156~0.00899156~0.00899156~Cryptopia~7ffe9",
+            "5~CCCAGG~ZOI~UNO~4~0.00050014~1498044281~0.02049885~0.00001025~1498044281~0~0~0~0~0.00050014~0.00050014~0.00050014~0.00050014~0.00050014~0.00050014~Cryptopia~7ffe9",
+            "5~CCCAGG~ZOI~DOGE~4~220~1515190071~2.73936851~602.6610722~1515190071~0~0~0~0~220~220~220~220~220~220~Cryptopia~7ffe9",
+            "5~CCCAGG~ZOI~BTC~2~0.000155~1515952118~32.25360823~0.00499899~1515952118~164605.91498574993~24.172603049999985~232532.51879255~33.86417039~0.0001401~0.000161~0.0001277~0.0001499~0.000161~0.0001259~Cryptopia~7ffe9",
+            "5~CCCAGG~ZOI~FTC~4~0.00100009~1488015518~10000~10.0009~1488015518~0~0~0~0~0.00100009~0.00100009~0.00100009~0.00100009~0.00100009~0.00100009~Cryptopia~7ffe9",
+            "5~CCCAGG~ZOI~ETH~4~0.0000625~1502607784~1.92~0.00012~1502607784000~0~0~0~0~0.0000625~0.0000625~0.0000625~0.0000625~0.0000625~0.0000625~Novaexchange~7ffe9",
+            "5~CCCAGG~ZOI~XMR~4~1.3e-7~1488015386~20000~0.0026~1488015386~0~0~0~0~1.3e-7~1.3e-7~1.3e-7~1.3e-7~1.3e-7~1.3e-7~Cryptopia~7ffe9",
+            "5~CCCAGG~ZOI~PIGGY~4~110~1501676291~1.002004~110.22043999999998~1501676291000~0~0~0~0~110~110~110~110~110~110~Novaexchange~7ffe9",
+            "5~CCCAGG~ZOI~MOON~4~210.0000001~1501695775~0.1~21.00000001~1501695775000~0~0~0~0~210.0000001~210.0000001~210.0000001~210.0000001~210.0000001~210.0000001~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

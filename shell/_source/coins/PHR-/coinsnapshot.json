@@ -1,0 +1,49 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "PHR*",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.0004909",
+            "LASTUPDATE": "1516092894",
+            "LASTVOLUME": "242.88021747",
+            "LASTVOLUMETO": "0.11923961",
+            "LASTTRADEID": "1516092894",
+            "VOLUMEDAY": "24537.96571181998",
+            "VOLUMEDAYTO": "13.017446560000002",
+            "VOLUME24HOUR": "74342.63373368",
+            "VOLUME24HOURTO": "38.74824814",
+            "OPENDAY": "0.000585",
+            "HIGHDAY": "0.0005894",
+            "LOWDAY": "0.000481",
+            "OPEN24HOUR": "0.0005257",
+            "HIGH24HOUR": "0.0005894",
+            "LOW24HOUR": "0.0004743",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "PHR*",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00049094",
+                "LASTUPDATE": "1516092894",
+                "LASTVOLUME": "242.88021747",
+                "LASTVOLUMETO": "0.11923961",
+                "LASTTRADEID": "1516092894",
+                "VOLUME24HOUR": "74342.63373368",
+                "VOLUME24HOURTO": "38.74824814",
+                "OPEN24HOUR": "0.00052572",
+                "HIGH24HOUR": "0.00058936",
+                "LOW24HOUR": "0.00047431"
+            }
+        ]
+    },
+    "Type": 100
+}

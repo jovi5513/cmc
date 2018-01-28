@@ -1,0 +1,79 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "MyriadCoin (XMY) - Live streaming prices and market cap",
+            "PageDescription": "Live MyriadCoin prices from all markets and XMY coin market Capitalization. Stay up to date with the latest MyriadCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19815\/myr.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "304"
+        },
+        "General": {
+            "Id": "4345",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "MyriadCoin (XMY)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "XMY",
+            "Url": "\/coins\/xmy\/",
+            "BaseAngularUrl": "\/coins\/xmy\/",
+            "Name": "MyriadCoin",
+            "ImageUrl": "\/media\/19815\/myr.png",
+            "Description": "<p>Myriad uses five proof of work algorithms for one coin which can be chosen by the user - Scrypt, SHA-256D. QuBit, Skein and Groestl. The coin has a block time of 2.5mins and block halving every 967680 blocks.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "2000000000",
+            "Algorithm": "Multiple",
+            "ProofType": "PoW",
+            "StartDate": "23\/02\/2014",
+            "Twitter": "@myriadcoin",
+            "AffiliateUrl": "http:\/\/myriadcoin.org\/",
+            "Website": "<a href='http:\/\/myriadcoin.org\/' target='_blank'>MyriadCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515947438,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 2307128,
+            "BlockTime": 10,
+            "NetHashesPerSecond": 6.8419964602728e+14,
+            "TotalCoinsMined": 1544462245.5278,
+            "PreviousTotalCoinsMined": 1544458495.5278,
+            "BlockReward": 249.99999968708
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~XMY~DOGE",
+            "2~Cryptopia~XMY~XMR",
+            "2~Poloniex~XMY~BTC",
+            "2~Cryptopia~XMY~FTC",
+            "2~Cexio~XMY~BTC",
+            "2~Cryptopia~XMY~DOT",
+            "2~Cryptopia~XMY~UNO",
+            "2~BitTrex~XMY~BTC",
+            "2~Cryptsy~XMY~BTC",
+            "2~Cryptopia~XMY~LTC",
+            "2~Cryptopia~XMY~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~XMY~DOGE~4~2.003501~1515195377~10512.4386~21061.68124754~1515195377~0~0~0~0~2~2.003501~2~2.003501~2.003501~2.003501~Cryptopia~7ffe9",
+            "5~CCCAGG~XMY~XMR~4~0.00002~1488622719~0.03288692~0.000001~1488622719~0~0~0~0~0.00002~0.00002~0.00002~0.00002~0.00002~0.00002~Cryptopia~7ffe9",
+            "5~CCCAGG~XMY~BTC~4~0.00000244~1515948428~8994.90207932~0.02194756~2997082~39635142.90675711~103.17431408999998~50440406.964530766~135.27074862~0.00000298~0.00000301~0.00000238~0.00000294~0.00000305~0.00000238~BitTrex~7ffe9",
+            "5~CCCAGG~XMY~FTC~4~0.04499999~1488223760~202.27930098~9.102567~1488223760.004~0~0~0~0~0.04499999~0.04499999~0.04499999~0.04499999~0.04499999~0.04499999~Cryptopia~7ffe9",
+            "5~CCCAGG~XMY~DOT~4~0.75~1488228002~0.03751447~0.028136~1488228002~0~0~0~0~0.75~0.75~0.75~0.75~0.75~0.75~Cryptopia~7ffe9",
+            "5~CCCAGG~XMY~UNO~4~0.00009012~1498033646~1.5~0.00013518~1498033646~0~0~0~0~0.00009012~0.00009012~0.00009012~0.00009012~0.00009012~0.00009012~Cryptopia~7ffe9",
+            "5~CCCAGG~XMY~LTC~4~0.00017499~1515197203~291.42857143~0.05099709~1515197203~0~0~0~0~0.000175~0.000175~0.00017499~0.00017499~0.00017499~0.00017499~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

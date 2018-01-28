@@ -1,0 +1,87 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BeaverCoin (BVC) - Live streaming prices and market cap",
+            "PageDescription": "Live BeaverCoin prices from all markets and BVC coin market Capitalization. Stay up to date with the latest BeaverCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1382711\/bvc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "48800",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "BeaverCoin (BVC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BVC",
+            "Url": "\/coins\/bvc\/",
+            "BaseAngularUrl": "\/coins\/bvc\/",
+            "Name": "BeaverCoin",
+            "ImageUrl": "\/media\/1382711\/bvc.png",
+            "Description": "<p>BeaverCoin is a Proof of Work cryptocurrency based on the scrypt algorithm. It has a 0% premine and halves\u00a0every 210,000 blocks.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "3360000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "29\/08\/2014",
+            "Twitter": "@BeaverCoin_BVC",
+            "AffiliateUrl": "http:\/\/beavercoin.org\/en",
+            "Website": "<a href='http:\/\/beavercoin.org\/en' target='_blank'>BeaverCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926578,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 3115258,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~BVC~FTC",
+            "2~Novaexchange~BVC~BTC",
+            "2~Yobit~BVC~DOGE",
+            "2~Yobit~BVC~ETH",
+            "2~Novaexchange~BVC~LTC",
+            "2~Cryptopia~BVC~LTC",
+            "2~Yobit~BVC~RUR",
+            "2~Cryptopia~BVC~DOGE",
+            "2~Yobit~BVC~USD",
+            "2~Cryptopia~BVC~DOT",
+            "2~Yobit~BVC~BTC",
+            "2~Cryptopia~BVC~BTC",
+            "2~Cryptopia~BVC~XMR",
+            "2~Yobit~BVC~WAVES",
+            "2~Cryptopia~BVC~UNO"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BVC~FTC~4~0.5~1478207612~0.5~0.25~1478207612~0~0~0~0~0.5~0.5~0.5~0.5~0.5~0.5~Cryptopia~7ffe9",
+            "5~CCCAGG~BVC~BTC~1~0.0000029~1515949643~55.28817989~0.000160335721681~200000018~560.48520705~0.0015099453861033~739.61330694~0.0019953825368052~0.00000271~0.0000029~0.00000257~0.0000027~0.0000029~0.00000257~Yobit~7ffe9",
+            "5~CCCAGG~BVC~DOGE~4~14.999999~1515523772~4.33333362~64.9999999666664~183055634~0~0~0~0~15~15~14.999999~14.999999~14.999999~14.999999~Yobit~7ffe9",
+            "5~CCCAGG~BVC~ETH~4~0.00003016~1512704239~12.29257171~0.00037074396277360003~166806828~0~0~0~0~0.00003016~0.00003016~0.00003016~0.00003016~0.00003016~0.00003016~Yobit~7ffe9",
+            "5~CCCAGG~BVC~LTC~4~0.0002431~1514316538~500~0.12155~1514316538~0~0~0~0~0.0002431~0.0002431~0.0002431~0.0002431~0.0002431~0.0002431~Cryptopia~7ffe9",
+            "5~CCCAGG~BVC~RUR~4~3.04~1515863656~0.04~0.1216~200000012~0~0~0~0~3.04~3.04~3.04~3.04~3.04~3.04~Yobit~7ffe9",
+            "5~CCCAGG~BVC~USD~2~0.032~1515923454~19.12592528~0.6120322865895392~200000004~219.12592528~7.41203228658954~219.12592528~7.41203228658954~0.034~0.034~0.032~0.034~0.034~0.032~Yobit~7ffe9",
+            "5~CCCAGG~BVC~DOT~4~3.00000034~1487128686~350.14618747~1050.438681~1487128686~0~0~0~0~3.00000034~3.00000034~3.00000034~3.00000034~3.00000034~3.00000034~Cryptopia~7ffe9",
+            "5~CCCAGG~BVC~XMR~4~0.00000372~1486693248~30.57229679~0.000114~1486693248~0~0~0~0~0.00000372~0.00000372~0.00000372~0.00000372~0.00000372~0.00000372~Cryptopia~7ffe9",
+            "5~CCCAGG~BVC~WAVES~4~0.00001571~1512866607~75.01415513~0.0011784723770923002~167544470~0~0~0~0~0.00001571~0.00001571~0.00001571~0.00001571~0.00001571~0.00001571~Yobit~7ffe9",
+            "5~CCCAGG~BVC~UNO~4~0.00030003~1497839768~3.21222633~0.00096376~1497839768~0~0~0~0~0.00030003~0.00030003~0.00030003~0.00030003~0.00030003~0.00030003~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

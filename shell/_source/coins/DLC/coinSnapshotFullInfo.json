@@ -1,0 +1,79 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "DollarCoin (DLC)  - Live streaming prices and market cap",
+            "PageDescription": "Live DollarCoin prices from all markets and DLC coin market Capitalization. Stay up to date with the latest DollarCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351559\/dlc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "28776",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "DollarCoin (DLC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "DLC",
+            "Url": "\/coins\/dlc\/",
+            "BaseAngularUrl": "\/coins\/dlc\/",
+            "Name": "DollarCoin",
+            "ImageUrl": "\/media\/351559\/dlc.png",
+            "Description": "<p>Dollarcoin ia Proof of Work cryptocurrency. It uses the SHA256 algorithm and has a 6% premine.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "10638298",
+            "Algorithm": "SHA256",
+            "ProofType": "PoW",
+            "StartDate": "18\/08\/2016",
+            "Twitter": "",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926728,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 240,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 9106714,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~DLC~DOGE",
+            "2~Novaexchange~DLC~ETH",
+            "2~CCEX~DLC~DOGE",
+            "2~Yobit~DLC~BTC",
+            "2~Yobit~DLC~ETH",
+            "2~CCEX~DLC~USD",
+            "2~Yobit~DLC~DOGE",
+            "2~CCEX~DLC~BTC",
+            "2~Yobit~DLC~RUR",
+            "2~Novaexchange~DLC~BTC",
+            "2~Yobit~DLC~WAVES",
+            "2~Yobit~DLC~USD"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~DLC~DOGE~4~6.10000001~1515525024~2.14754098~13.09999999947541~183065651~0~0~0~0~6.1~6.10000001~6.1~6.10000001~6.10000001~6.10000001~Yobit~7ffe9",
+            "5~CCCAGG~DLC~ETH~2~0.0002978~1515951306~1675.15123394~0.49879303141797443~200000420~50621.85400975998~8.623894061307396~87831.82213073001~10.74034713204224~0.000012~0.004099~0.000012~0.00005~0.004999~0.000012~Yobit~7ffe9",
+            "5~CCCAGG~DLC~BTC~1~0.000029~1515951339~217.32856845~0.00630252848505~200003763~619583.141474562~10.63613633749177~1399510.7907548202~16.87393123290738~0.000011~0.000029~0.0000045~0.00000147~0.000029~0.0000014~Yobit~7ffe9",
+            "5~CCCAGG~DLC~USD~4~0.02770366~1515429067~100~2.770366~182337832~0~0~0~0~0.0277~0.02770366~0.0277~0.02770366~0.02770366~0.02770366~Yobit~7ffe9",
+            "5~CCCAGG~DLC~RUR~4~23.9~1515951319~6.51065827~155.604732653~184334377~5055.46323074~97305.58759682778~7678.14181103~110079.08372163799~9~124.83~8~1.53~124.83~1.53~Yobit~7ffe9",
+            "5~CCCAGG~DLC~WAVES~4~0.00156416~1513925176~0.09724708~0.0001521099926528~173159663~0~0~0~0~0.001564~0.00156416~0.001564~0.00156416~0.00156416~0.00156416~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

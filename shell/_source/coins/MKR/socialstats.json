@@ -1,0 +1,242 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MKR",
+            "CoinName": "Maker",
+            "Type": "Webpagecoinp",
+            "Points": 3830
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5037,
+                    "Name": "ZiftrCoin",
+                    "FullName": "ZiftrCoin (ZRC*)",
+                    "ImageUrl": "\/media\/20078\/zrc.png",
+                    "Url": "\/coins\/zrcstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20824,
+                    "Name": "1337",
+                    "FullName": "1337 (1337)",
+                    "ImageUrl": "\/media\/350976\/1337.png",
+                    "Url": "\/coins\/1337\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 59968,
+                    "Name": "EB3coin",
+                    "FullName": "EB3coin (EB3)",
+                    "ImageUrl": "\/media\/1382938\/eb3.png",
+                    "Url": "\/coins\/eb3\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 388493,
+                    "Name": "Experty",
+                    "FullName": "Experty (EXY)",
+                    "ImageUrl": "\/media\/14913645\/exy.png",
+                    "Url": "\/coins\/exy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 349487,
+                    "Name": "GATCOIN",
+                    "FullName": "GATCOIN (GAT)",
+                    "ImageUrl": "\/media\/12318390\/gat.png",
+                    "Url": "\/coins\/gat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5387,
+                    "Name": "Curecoin",
+                    "FullName": "Curecoin (CURE)",
+                    "ImageUrl": "\/media\/1383812\/cure.png",
+                    "Url": "\/coins\/cure\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3647,
+                    "Name": "GeoCoin",
+                    "FullName": "GeoCoin (GEO)",
+                    "ImageUrl": "\/media\/20292\/geo.png",
+                    "Url": "\/coins\/geo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 89572,
+                    "Name": "Etheroll",
+                    "FullName": "Etheroll (DICE)",
+                    "ImageUrl": "\/media\/1383361\/dice.png",
+                    "Url": "\/coins\/dice\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5307,
+                    "Name": "Giga Hash",
+                    "FullName": "Giga Hash (GHS)",
+                    "ImageUrl": "\/media\/19565\/cexio.png",
+                    "Url": "\/coins\/ghs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 439963,
+                    "Name": "CyberMiles",
+                    "FullName": "CyberMiles (CMT*)",
+                    "ImageUrl": "\/media\/16746569\/cmt.png",
+                    "Url": "\/coins\/cmtstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 414607,
+                    "Name": "davejkim85",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/414607\/1b190130-205d-4181-a003-51e38cbdf325.jpg",
+                    "Url": "\/profile\/davejkim85\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 141384,
+                    "Name": "martijnkarels11",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/141384\/2dc065a8-7ae2-4694-a237-121b90db22e4.jpg",
+                    "Url": "\/profile\/martijnkarels11\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 596145,
+                    "Name": "witttrades",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596145\/8a549db1-e46a-4ada-ae9d-010e44dea40d.jpg",
+                    "Url": "\/profile\/witttrades\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 56451,
+                    "Name": "Ethpionage",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/56451\/28147029-f47d-49dc-af3f-a47760055b9b.jpg",
+                    "Url": "\/profile\/Ethpionage\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 171253,
+                    "Name": "mr.mroczkowski",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/171253\/8aa870f9-98c6-4452-9ac7-ffe3da1fed8e.jpg",
+                    "Url": "\/profile\/mr.mroczkowski\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 365323,
+                    "Name": "cbovis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/365323\/ce5a6142-c7b9-430a-8fcf-d0c133da114f.jpg",
+                    "Url": "\/profile\/cbovis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 71416,
+                    "Name": "cryptodoc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/71416\/375dba23-703a-4479-b3cb-e5e85923551f.png",
+                    "Url": "\/profile\/cryptodoc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 480222,
+                    "Name": "havasulew",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/480222\/0c0e5944-d440-4b18-afd8-5b134603c228.jpg",
+                    "Url": "\/profile\/havasulew\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 334662,
+                    "Name": "StewsCoins",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/334662\/33d844b7-dfcf-4599-b924-ad8d6df57762.jpg",
+                    "Url": "\/profile\/StewsCoins\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 405170,
+                    "Name": "blakecanfield",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/405170\/4230063f-b2cf-4d0d-90ed-a84c99cb56aa.jpg",
+                    "Url": "\/profile\/blakecanfield\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 372874,
+                    "Name": "meek.50secondst",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/372874\/38996e25-abb4-448f-bcd4-337cb50c4654.jpg",
+                    "Url": "\/profile\/meek.50secondst\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1345,
+            "Followers": 48,
+            "Posts": "5",
+            "Comments": "2",
+            "PageViewsSplit": {
+                "Overview": 3527,
+                "Markets": 391,
+                "Analysis": 149,
+                "Charts": 201,
+                "Trades": 177,
+                "Orderbook": 5,
+                "Forum": 75,
+                "Influence": 36
+            },
+            "PageViews": 4561
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "posts_per_hour": "0.19",
+            "comments_per_hour": "1.11",
+            "posts_per_day": "4.46",
+            "comments_per_day": 26.55,
+            "name": "MakerDAO",
+            "link": "https:\/\/www.reddit.com\/r\/MakerDAO\/",
+            "active_users": 44,
+            "community_creation": "1439686647",
+            "subscribers": 2145,
+            "Points": 2330
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1456113374",
+                    "open_total_issues": "14",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "151",
+                    "size": "2020",
+                    "stars": 45,
+                    "last_update": "1515640937",
+                    "forks": 22,
+                    "url": "https:\/\/github.com\/makerdao\/maker-otc",
+                    "closed_issues": "88",
+                    "closed_pull_issues": "63",
+                    "fork": "false",
+                    "last_push": "1515104231",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "5",
+                    "open_issues": "9",
+                    "language": "Shell",
+                    "subscribers": 22
+                }
+            ],
+            "Points": 155
+        }
+    }
+}

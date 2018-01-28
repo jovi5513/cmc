@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "SFR",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "5.3e-7",
+            "LASTUPDATE": "1476549088",
+            "LASTVOLUME": "1548.96693396",
+            "LASTVOLUMETO": "0.00082095",
+            "LASTTRADEID": "1495071",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "5.3e-7",
+            "HIGHDAY": "5.3e-7",
+            "LOWDAY": "5.3e-7",
+            "OPEN24HOUR": "5.3e-7",
+            "HIGH24HOUR": "5.3e-7",
+            "LOW24HOUR": "5.3e-7",
+            "LASTMARKET": "BitTrex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "SFR",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "5.3e-7",
+                "LASTUPDATE": "1476549088",
+                "LASTVOLUME": "1548.96693396",
+                "LASTVOLUMETO": "0.00082095",
+                "LASTTRADEID": "1495071",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "5.3e-7",
+                "HIGH24HOUR": "5.3e-7",
+                "LOW24HOUR": "5.3e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "SFR",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000142",
+                "LASTUPDATE": "1452635715",
+                "LASTVOLUME": "20",
+                "LASTVOLUMETO": "0.0000284",
+                "LASTTRADEID": "110877315",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000142",
+                "HIGH24HOUR": "0.00000142",
+                "LOW24HOUR": "0.00000142"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "BTER",
+                "FROMSYMBOL": "SFR",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00001032",
+                "LASTUPDATE": "1456980070",
+                "LASTVOLUME": "12.4",
+                "LASTVOLUMETO": "0.000127968",
+                "LASTTRADEID": "12495324",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00001032",
+                "HIGH24HOUR": "0.00001032",
+                "LOW24HOUR": "0.00001032"
+            }
+        ]
+    },
+    "Type": 100
+}

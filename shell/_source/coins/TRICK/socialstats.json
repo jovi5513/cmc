@@ -1,0 +1,168 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "TRICK",
+            "CoinName": "TrickyCoin",
+            "Type": "Webpagecoinp",
+            "Points": 321
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 37370,
+                    "Name": "PXcoin",
+                    "FullName": "PXcoin (PX)",
+                    "ImageUrl": "\/media\/1381994\/px.png",
+                    "Url": "\/coins\/px\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5350,
+                    "Name": "Social Media Coin",
+                    "FullName": "Social Media Coin (SMAC)",
+                    "ImageUrl": "\/media\/20427\/smac.png",
+                    "Url": "\/coins\/smac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 40839,
+                    "Name": "TwisterCoin",
+                    "FullName": "TwisterCoin (TWIST)",
+                    "ImageUrl": "\/media\/1382250\/twist1.png",
+                    "Url": "\/coins\/twist\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7634,
+                    "Name": "Graviton",
+                    "FullName": "Graviton (GRAV)",
+                    "ImageUrl": "\/media\/20659\/grav.png",
+                    "Url": "\/coins\/grav\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28125,
+                    "Name": "ArkDAO",
+                    "FullName": "ArkDAO (BOTS)",
+                    "ImageUrl": "\/media\/351499\/bot.png",
+                    "Url": "\/coins\/bots\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30925,
+                    "Name": "Community Coin",
+                    "FullName": "Community Coin (COC)",
+                    "ImageUrl": "\/media\/351872\/coc.png",
+                    "Url": "\/coins\/coc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4578,
+                    "Name": "NoirShares",
+                    "FullName": "NoirShares (NRS)",
+                    "ImageUrl": "\/media\/19834\/nrs.png",
+                    "Url": "\/coins\/nrs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3643,
+                    "Name": "DarkToken",
+                    "FullName": "DarkToken (DT)",
+                    "ImageUrl": "\/media\/20031\/dt.png",
+                    "Url": "\/coins\/dt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 398126,
+                    "Name": "RiptideCoin",
+                    "FullName": "RiptideCoin (RIPT)",
+                    "ImageUrl": "\/media\/15887409\/ript.png",
+                    "Url": "\/coins\/ript\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4613,
+                    "Name": "SSVCoin",
+                    "FullName": "SSVCoin (SSV)",
+                    "ImageUrl": "\/media\/20060\/ssv.png",
+                    "Url": "\/coins\/ssv\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 588902,
+                    "Name": "jessman6132",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/588902\/a5acb9f3-3a74-4fb1-96ba-3dd57131a319.jpg",
+                    "Url": "\/profile\/jessman6132\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 59798,
+                    "Name": "helpdisman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/59798\/72950aa6-e730-475e-8849-d447efe74ed1.jpg",
+                    "Url": "\/profile\/helpdisman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 66775,
+                    "Name": "Afaque",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/66775\/1187e746-1ec0-4319-9425-d7e9351f675d.png",
+                    "Url": "\/profile\/Afaque\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 48519,
+                    "Name": "wajidpk350",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/48519\/bc21d498-9a77-42b6-b556-77188ea765e4.jpg",
+                    "Url": "\/profile\/wajidpk350\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "PageViewsSplit": {
+                "Overview": 356,
+                "Markets": 14,
+                "Analysis": 19,
+                "Charts": 9,
+                "Trades": 5,
+                "Orderbook": 1,
+                "Forum": 7,
+                "Influence": 5
+            },
+            "PageViews": 416
+        },
+        "Twitter": {
+            "followers": 151,
+            "following": "36",
+            "lists": 9,
+            "favourites": "0",
+            "statuses": 21,
+            "account_creation": "1425574305",
+            "name": "TrickyCoin",
+            "link": "https:\/\/twitter.com\/TrickyCoin",
+            "Points": 196
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,247 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "RCN",
+            "CoinName": "Ripio",
+            "Type": "Webpagecoinp",
+            "Points": 36372
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 419209,
+                    "Name": "Sether",
+                    "FullName": "Sether (SETH)",
+                    "ImageUrl": "\/media\/16746447\/seth.png",
+                    "Url": "\/coins\/seth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341267,
+                    "Name": "Red Pulse",
+                    "FullName": "Red Pulse (RPX)",
+                    "ImageUrl": "\/media\/12318339\/rpx.png",
+                    "Url": "\/coins\/rpx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 321189,
+                    "Name": "eBitcoin",
+                    "FullName": "eBitcoin (EBTC)",
+                    "ImageUrl": "\/media\/12318175\/ebtc.png",
+                    "Url": "\/coins\/ebtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 335127,
+                    "Name": "Aeron",
+                    "FullName": "Aeron (ARN)",
+                    "ImageUrl": "\/media\/12318261\/arn.png",
+                    "Url": "\/coins\/arn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33914,
+                    "Name": "Time",
+                    "FullName": "Time (TIME)",
+                    "ImageUrl": "\/media\/352105\/time.png",
+                    "Url": "\/coins\/time\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369132,
+                    "Name": "SimpleToken",
+                    "FullName": "SimpleToken (OST)",
+                    "ImageUrl": "\/media\/14913437\/st.png",
+                    "Url": "\/coins\/ost\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5374,
+                    "Name": "PinkCoin",
+                    "FullName": "PinkCoin (PINK)",
+                    "ImageUrl": "\/media\/350588\/pinkcoin-logo.png",
+                    "Url": "\/coins\/pink\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 370973,
+                    "Name": "INS Ecosystem",
+                    "FullName": "INS Ecosystem (INS)",
+                    "ImageUrl": "\/media\/14913458\/ins.png",
+                    "Url": "\/coins\/ins\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 56249,
+                    "Name": "ChainCoin",
+                    "FullName": "ChainCoin (CHC)",
+                    "ImageUrl": "\/media\/1383907\/chc.png",
+                    "Url": "\/coins\/chc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7636,
+                    "Name": "MonetaVerde",
+                    "FullName": "MonetaVerde (MCN)",
+                    "ImageUrl": "\/media\/20346\/mcn.png",
+                    "Url": "\/coins\/mcn\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 79831,
+                    "Name": "virex",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/79831\/b0701177-f8f7-4c51-9dbb-0021bd3a0c08.png",
+                    "Url": "\/profile\/virex\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 608471,
+                    "Name": "brandynhamilton",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/608471\/649640b5-6384-4565-816b-955851a0506c.jpg",
+                    "Url": "\/profile\/brandynhamilton\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 481533,
+                    "Name": "penguinkj1975",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/481533\/d9c81689-2f4f-4cdf-9f3d-7a2a042f2cd1.jpg",
+                    "Url": "\/profile\/penguinkj1975\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 442018,
+                    "Name": "jpavlovic1979",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/442018\/d0a80fa9-04cb-4544-b4ae-d7636a6c5b3e.jpg",
+                    "Url": "\/profile\/jpavlovic1979\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 124762,
+                    "Name": "7DDDEB74",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/124762\/8cb0d0eb-6041-4a0e-aa97-b96210d8df32.jpg",
+                    "Url": "\/profile\/7DDDEB74\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 295494,
+                    "Name": "ferditaylan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/295494\/a39521b8-9e8f-4ca4-8f2c-02ec497e4b87.jpg",
+                    "Url": "\/profile\/ferditaylan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 599471,
+                    "Name": "michael.d.fell",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/599471\/47ddd569-0b7d-4224-9fb2-e8cf8992988d.jpg",
+                    "Url": "\/profile\/michael.d.fell\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 655384,
+                    "Name": "865BF031",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/655384\/50c42fc9-e785-4369-9361-844381ed26fc.jpg",
+                    "Url": "\/profile\/865BF031\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 655107,
+                    "Name": "86CF02E2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/655107\/d027e81d-8266-4a72-8e6b-44ad07d4134e.jpg",
+                    "Url": "\/profile\/86CF02E2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 647778,
+                    "Name": "morzpx1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/647778\/afd52c33-48ce-4908-81d4-eb29e9b55ecc.jpg",
+                    "Url": "\/profile\/morzpx1\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 4690,
+            "Followers": 157,
+            "Posts": "27",
+            "Comments": "9",
+            "PageViewsSplit": {
+                "Overview": 14748,
+                "Markets": 940,
+                "Analysis": 339,
+                "Charts": 2261,
+                "Trades": 560,
+                "Orderbook": 6,
+                "Forum": 995,
+                "Influence": 125
+            },
+            "PageViews": 19974
+        },
+        "Twitter": {
+            "following": "1876",
+            "account_creation": "1503951190",
+            "name": "RCN",
+            "lists": 193,
+            "statuses": 206,
+            "favourites": "587",
+            "followers": 16742,
+            "link": "https:\/\/twitter.com\/RCN_token",
+            "Points": 17707
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/\/RCN_token\/\/",
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 13917,
+            "link": "https:\/\/www.facebook.com\/ripiocredit.network\/",
+            "is_closed": "false",
+            "talking_about": "10696",
+            "name": "Ripio Credit Network",
+            "Points": 13917
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1506107370",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "28",
+                    "closed_total_issues": "10",
+                    "stars": 15,
+                    "last_update": "1514852184",
+                    "forks": 3,
+                    "url": "https:\/\/github.com\/ripio\/rcn-token",
+                    "closed_issues": "2",
+                    "closed_pull_issues": "8",
+                    "fork": "false",
+                    "last_push": "1508818660",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "JavaScript",
+                    "subscribers": 12,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 57
+        }
+    }
+}

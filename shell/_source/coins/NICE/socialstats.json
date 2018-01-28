@@ -1,0 +1,175 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NICE",
+            "CoinName": "NiceCoin",
+            "Type": "Webpagecoinp",
+            "Points": 80
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28885,
+                    "Name": "Lathaan",
+                    "FullName": "Lathaan (LTH)",
+                    "ImageUrl": "\/media\/351565\/lth.png",
+                    "Url": "\/coins\/lth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4551,
+                    "Name": "LuckyCoin",
+                    "FullName": "LuckyCoin (LKY)",
+                    "ImageUrl": "\/media\/19774\/lky.png",
+                    "Url": "\/coins\/lky\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20205,
+                    "Name": "Spots",
+                    "FullName": "Spots (SPOTS)",
+                    "ImageUrl": "\/media\/350893\/spots.png",
+                    "Url": "\/coins\/spots\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645766,
+                    "Name": "Galactrum",
+                    "FullName": "Galactrum (ORE)",
+                    "ImageUrl": "\/media\/20780695\/ore.png",
+                    "Url": "\/coins\/ore\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 74894,
+                    "Name": "GrowthCoin",
+                    "FullName": "GrowthCoin (GRW)",
+                    "ImageUrl": "\/media\/1383234\/grw.png",
+                    "Url": "\/coins\/grw\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5388,
+                    "Name": "Gridmaster",
+                    "FullName": "Gridmaster (GMC)",
+                    "ImageUrl": "\/media\/20299\/gmc.png",
+                    "Url": "\/coins\/gmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29926,
+                    "Name": "Tetra",
+                    "FullName": "Tetra (TRA)",
+                    "ImageUrl": "\/media\/351700\/tra.png",
+                    "Url": "\/coins\/tra\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38035,
+                    "Name": "HeelCoin",
+                    "FullName": "HeelCoin (HEEL)",
+                    "ImageUrl": "\/media\/1382051\/heel.png",
+                    "Url": "\/coins\/heel\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45609,
+                    "Name": "TrashBurn",
+                    "FullName": "TrashBurn (TBCX)",
+                    "ImageUrl": "\/media\/1382658\/tbcx.png",
+                    "Url": "\/coins\/tbcx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28770,
+                    "Name": "Save and Gain",
+                    "FullName": "Save and Gain (SANDG)",
+                    "ImageUrl": "\/media\/351556\/sandt.png",
+                    "Url": "\/coins\/sandg\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 15260,
+                    "Name": "Erhiga",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/15260\/faf3334e-1711-4a47-819c-f446af320eae.jpg",
+                    "Url": "\/profile\/Erhiga\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 41314,
+                    "Name": "khavinshankar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/41314\/e403e1e7-ed83-4eea-89b6-8c626e47a12e.jpg",
+                    "Url": "\/profile\/khavinshankar\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 534,
+                "Markets": 20,
+                "Analysis": 11,
+                "Charts": 20,
+                "Trades": 8,
+                "Orderbook": 0,
+                "Forum": 10,
+                "Influence": 7
+            },
+            "PageViews": 610
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 1,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "11612",
+                    "url": "https:\/\/github.com\/nicecoinx\/nicecoin",
+                    "last_update": "1432112868",
+                    "last_push": "1432112858",
+                    "created_at": "1432112571",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 5
+        }
+    }
+}

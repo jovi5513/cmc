@@ -1,0 +1,69 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "WorldPay (WOP) - Live streaming prices and market cap",
+            "PageDescription": "Live WorldPay prices from all markets and WOP coin market Capitalization. Stay up to date with the latest WorldPay price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1381982\/wop.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "37191",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "WorldPay (WOP)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "WOP",
+            "Url": "\/coins\/wop\/",
+            "BaseAngularUrl": "\/coins\/wop\/",
+            "Name": "WorldPay",
+            "ImageUrl": "\/media\/1381982\/wop.png",
+            "Description": "<p>WorldPay is a PoW\/PoS cryptocurrency based on the X11 algorithm. Mining rewards from the PoW stage grow exponentially, while the PoS stage gives a 2% APY in rewards<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "10000000",
+            "Algorithm": "X11",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "07\/10\/2015",
+            "Twitter": "@worldpaydev",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~WOP~BTC",
+            "2~CCEX~WOP~DOGE",
+            "2~CCEX~WOP~LTC",
+            "2~CCEX~WOP~USD"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~WOP~BTC~4~0.00000279~1515009073~90.15770609~0.0002515399999911~1246798~0~0~0~0~0.00000279~0.00000279~0.00000279~0.00000279~0.00000279~0.00000279~CCEX~7ffe9",
+            "5~CCCAGG~WOP~DOGE~4~10.00000025~1513469878~0.00039178~0.003917800097944999~2108070~0~0~0~0~10.00000025~10.00000025~10.00000025~10.00000025~10.00000025~10.00000025~CCEX~7ffe9",
+            "5~CCCAGG~WOP~LTC~4~0.00038~1512835560~26.31578947~0.0099999999986~1783821~0~0~0~0~0.00038~0.00038~0.00038~0.00038~0.00038~0.00038~CCEX~7ffe9",
+            "5~CCCAGG~WOP~USD~4~0.02010005~1514226050~124.7501714~2.50748468264857~1892208~0~0~0~0~0.02010005~0.02010005~0.02010005~0.02010005~0.02010005~0.02010005~CCEX~7ffe9"
+        ]
+    },
+    "Type": 100
+}

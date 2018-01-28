@@ -1,0 +1,226 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CAN",
+            "CoinName": "CanYaCoin",
+            "Type": "Webpagecoinp",
+            "Points": 71931
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 175671,
+                    "Name": "Blocktix",
+                    "FullName": "Blocktix (TIX)",
+                    "ImageUrl": "\/media\/1383690\/tix.png",
+                    "Url": "\/coins\/tix\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 57481,
+                    "Name": "DubaiCoin",
+                    "FullName": "DubaiCoin (DBIX)",
+                    "ImageUrl": "\/media\/1382860\/dbix.png",
+                    "Url": "\/coins\/dbix\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45253,
+                    "Name": "Melon",
+                    "FullName": "Melon (MLN)",
+                    "ImageUrl": "\/media\/1382653\/mln.png",
+                    "Url": "\/coins\/mln\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179896,
+                    "Name": "Populous",
+                    "FullName": "Populous (PPT)",
+                    "ImageUrl": "\/media\/1383747\/ppt.png",
+                    "Url": "\/coins\/ppt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28333,
+                    "Name": "B3 Coin",
+                    "FullName": "B3 Coin (B3)",
+                    "ImageUrl": "\/media\/12318367\/b3.png",
+                    "Url": "\/coins\/b3\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 319254,
+                    "Name": "Cashaa",
+                    "FullName": "Cashaa (CAS)",
+                    "ImageUrl": "\/media\/12318148\/cas.png",
+                    "Url": "\/coins\/cas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20892,
+                    "Name": "BreakoutCoin",
+                    "FullName": "BreakoutCoin (BRK)",
+                    "ImageUrl": "\/media\/350981\/brk.png",
+                    "Url": "\/coins\/brk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4338,
+                    "Name": "BitBean",
+                    "FullName": "BitBean (BITB)",
+                    "ImageUrl": "\/media\/350879\/bitb.png",
+                    "Url": "\/coins\/bitb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4346,
+                    "Name": "MoonCoin",
+                    "FullName": "MoonCoin (MOON)",
+                    "ImageUrl": "\/media\/19802\/moon.png",
+                    "Url": "\/coins\/moon\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 61877,
+                    "Name": "iEx.ec",
+                    "FullName": "iEx.ec (RLC)",
+                    "ImageUrl": "\/media\/12318418\/rlc.png",
+                    "Url": "\/coins\/rlc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 117059,
+                    "Name": "arkad69.babylon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/117059\/36654562-c153-47d5-91d9-6f03ad396dd8.png",
+                    "Url": "\/profile\/arkad69.babylon\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 568943,
+                    "Name": "icecoldsteve",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/568943\/90124af7-bae4-452b-a895-c111328dd7a9.jpg",
+                    "Url": "\/profile\/icecoldsteve\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 668641,
+                    "Name": "ferlazzo113",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/668641\/015bcc0d-aabe-4048-893b-4debf3351fff.jpg",
+                    "Url": "\/profile\/ferlazzo113\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 596642,
+                    "Name": "mustafasedat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596642\/f2e25127-d9b1-4bf3-9d06-552d399705ba.jpg",
+                    "Url": "\/profile\/mustafasedat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 127605,
+                    "Name": "Bitbro",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/127605\/c2af211f-edfe-4aae-a8ad-d6d20c13e582.jpg",
+                    "Url": "\/profile\/Bitbro\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 176215,
+                    "Name": "Block-Badger",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/176215\/98843f41-4069-44ed-99c8-a7ee24f546d0.jpg",
+                    "Url": "\/profile\/Block-Badger\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 575883,
+                    "Name": "danielgr.86",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/575883\/52430d3e-d33b-4509-89e7-4490b13e229c.jpg",
+                    "Url": "\/profile\/danielgr.86\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 230602,
+                    "Name": "cryptocurrenc3",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/230602\/7f78c1ee-b4d0-43d0-aa91-e8ce3799c75b.jpg",
+                    "Url": "\/profile\/cryptocurrenc3\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 636111,
+                    "Name": "reddychirra",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/636111\/eef5f627-2a45-43cf-9011-18d0ad2f0aff.jpg",
+                    "Url": "\/profile\/reddychirra\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 403333,
+                    "Name": "vassilizaitsev",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/403333\/16a8e36d-7d97-40bc-ab53-15fd4ddbb60f.jpg",
+                    "Url": "\/profile\/vassilizaitsev\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 628736,
+                    "Name": "paulsearcy10",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/628736\/5a986c3b-0860-433c-8dc2-553b38a60d7e.jpg",
+                    "Url": "\/profile\/paulsearcy10\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 3125,
+            "Posts": "25",
+            "Comments": "15",
+            "Followers": 94,
+            "PageViewsSplit": {
+                "Overview": 10997,
+                "Markets": 224,
+                "Analysis": 123,
+                "Charts": 63,
+                "Trades": 21,
+                "Orderbook": 3,
+                "Forum": 636,
+                "Influence": 94
+            },
+            "PageViews": 12161
+        },
+        "Twitter": {
+            "statuses": 26,
+            "favourites": "609",
+            "following": "35",
+            "account_creation": "1503996697",
+            "followers": 101,
+            "name": "Kyle Hornberg",
+            "link": "https:\/\/twitter.com\/canya_io",
+            "lists": 8,
+            "Points": 141
+        },
+        "Reddit": {
+            "posts_per_hour": "0.10",
+            "link": "https:\/\/www.reddit.com\/r\/CanYaCoin\/",
+            "comments_per_hour": "2.24",
+            "posts_per_day": "2.35",
+            "active_users": 22,
+            "community_creation": "1505106600",
+            "subscribers": 1073,
+            "name": "CanYaCoin",
+            "comments_per_day": 53.69,
+            "Points": 1246
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "20345",
+            "name": "CanYa",
+            "likes": 67418,
+            "link": "https:\/\/www.facebook.com\/CanYaCoin\/",
+            "Points": 67418
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

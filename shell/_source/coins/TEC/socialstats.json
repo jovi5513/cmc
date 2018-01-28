@@ -1,0 +1,182 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "TEC",
+            "CoinName": "TeCoin",
+            "Type": "Webpagecoinp",
+            "Points": 110
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 7653,
+                    "Name": "Hedgecoin",
+                    "FullName": "Hedgecoin (HEDG)",
+                    "ImageUrl": "\/media\/20663\/hedg.png",
+                    "Url": "\/coins\/hedg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 477743,
+                    "Name": "XinFin Coin",
+                    "FullName": "XinFin Coin (XDC)",
+                    "ImageUrl": "\/media\/16746634\/xdc.png",
+                    "Url": "\/coins\/xdc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38371,
+                    "Name": "Quebecoin",
+                    "FullName": "Quebecoin (QBC)",
+                    "ImageUrl": "\/media\/19874\/qbc.png",
+                    "Url": "\/coins\/qbc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24866,
+                    "Name": "Frankywillcoin",
+                    "FullName": "Frankywillcoin (FRWC)",
+                    "ImageUrl": "\/media\/351361\/frwc.png",
+                    "Url": "\/coins\/frwc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 659663,
+                    "Name": "ArubaCoin",
+                    "FullName": "ArubaCoin (AUA)",
+                    "ImageUrl": "\/media\/20780743\/aua.png",
+                    "Url": "\/coins\/aua\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21359,
+                    "Name": "CludCoin",
+                    "FullName": "CludCoin (CLUD)",
+                    "ImageUrl": "\/media\/351027\/clud.png",
+                    "Url": "\/coins\/clud\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43247,
+                    "Name": "Babes and Nerds",
+                    "FullName": "Babes and Nerds (BAN)",
+                    "ImageUrl": "\/media\/1382466\/ban.png",
+                    "Url": "\/coins\/ban\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3744,
+                    "Name": "2015 coin",
+                    "FullName": "2015 coin (2015)",
+                    "ImageUrl": "\/media\/20180\/2015.png",
+                    "Url": "\/coins\/2015\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28151,
+                    "Name": "CovenCoin",
+                    "FullName": "CovenCoin (COV*)",
+                    "ImageUrl": "\/media\/351503\/cov.png",
+                    "Url": "\/coins\/covstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5398,
+                    "Name": "Camcoin",
+                    "FullName": "Camcoin (CAM)",
+                    "ImageUrl": "\/media\/20220\/cam.png",
+                    "Url": "\/coins\/cam\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 419296,
+                    "Name": "cryptosanjay",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/419296\/540d1041-9fcc-4d0f-8f22-5ac95aa93028.jpg",
+                    "Url": "\/profile\/cryptosanjay\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 624198,
+                    "Name": "vitoremodeling",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/624198\/46aebfdd-3b09-4c2d-9f6f-7e9ca4b4657c.jpg",
+                    "Url": "\/profile\/vitoremodeling\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 27897,
+                    "Name": "amilton7217",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/27897\/16e254d2-1428-41da-9ff2-110882ff33d5.jpg",
+                    "Url": "\/profile\/amilton7217\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 365,
+                "Markets": 33,
+                "Analysis": 28,
+                "Charts": 28,
+                "Trades": 26,
+                "Orderbook": 0,
+                "Forum": 8,
+                "Influence": 9
+            },
+            "PageViews": 497
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 2,
+                    "open_total_issues": "0",
+                    "subscribers": 2,
+                    "size": "2752",
+                    "url": "https:\/\/github.com\/Tecoin-dev\/Tecoin",
+                    "last_update": "1426457846",
+                    "last_push": "1426457846",
+                    "created_at": "1425795130",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 10
+        }
+    }
+}

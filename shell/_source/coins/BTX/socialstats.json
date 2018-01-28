@@ -1,0 +1,236 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BTX",
+            "CoinName": "Bitcore",
+            "Type": "Webpagecoinp",
+            "Points": 21083
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 192400,
+                    "Name": "DMarket",
+                    "FullName": "DMarket (DMT)",
+                    "ImageUrl": "\/media\/1383841\/dmarket.png",
+                    "Url": "\/coins\/dmt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38307,
+                    "Name": "Shift",
+                    "FullName": "Shift (SHIFT)",
+                    "ImageUrl": "\/media\/1382125\/shift.png",
+                    "Url": "\/coins\/shift\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179329,
+                    "Name": "Hive",
+                    "FullName": "Hive (HVN)",
+                    "ImageUrl": "\/media\/1383745\/hvt.png",
+                    "Url": "\/coins\/hvn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341279,
+                    "Name": "Moeda",
+                    "FullName": "Moeda (MDA)",
+                    "ImageUrl": "\/media\/12318340\/mda.png",
+                    "Url": "\/coins\/mda\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 321177,
+                    "Name": "Elixir",
+                    "FullName": "Elixir (ELIX)",
+                    "ImageUrl": "\/media\/12318172\/elix.png",
+                    "Url": "\/coins\/elix\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341059,
+                    "Name": "Monaize",
+                    "FullName": "Monaize (MNZ)",
+                    "ImageUrl": "\/media\/12318336\/mnz.png",
+                    "Url": "\/coins\/mnz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 372369,
+                    "Name": "Raiden Network",
+                    "FullName": "Raiden Network (RDN*)",
+                    "ImageUrl": "\/media\/14913482\/rdn.png",
+                    "Url": "\/coins\/rdnstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 235213,
+                    "Name": "ATLANT",
+                    "FullName": "ATLANT (ATL)",
+                    "ImageUrl": "\/media\/9350703\/atlant.png",
+                    "Url": "\/coins\/atl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 372654,
+                    "Name": "Infinity Economics",
+                    "FullName": "Infinity Economics (XIN*)",
+                    "ImageUrl": "\/media\/14913486\/xin.png",
+                    "Url": "\/coins\/xin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4528,
+                    "Name": "GoldCoin",
+                    "FullName": "GoldCoin (GLD)",
+                    "ImageUrl": "\/media\/19723\/gld.png",
+                    "Url": "\/coins\/gld\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 200572,
+                    "Name": "vincentkopa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/200572\/f9176919-360a-4685-93e6-d5b7610e7b04.jpg",
+                    "Url": "\/profile\/vincentkopa\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 32924,
+                    "Name": "Acritikey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/32924\/495b3eac-14c7-4994-b0eb-92127a25bf14.png",
+                    "Url": "\/profile\/Acritikey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 419936,
+                    "Name": "mwalkowski1975",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/419936\/f708cada-2bb7-4e98-a602-36553ba66496.jpg",
+                    "Url": "\/profile\/mwalkowski1975\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 656925,
+                    "Name": "vasyavasin759",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/656925\/a5d90029-0137-402c-8afc-510f0028ec4f.jpg",
+                    "Url": "\/profile\/vasyavasin759\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 599581,
+                    "Name": "shanesme55",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/599581\/82050b64-89d4-4e95-ad8a-2b4e295b2920.jpg",
+                    "Url": "\/profile\/shanesme55\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 582551,
+                    "Name": "keystone",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/582551\/89341eb3-8d76-4b7d-bba0-47d7d568d3c4.jpg",
+                    "Url": "\/profile\/keystone\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 497876,
+                    "Name": "dr69party",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/497876\/c907ef69-cf37-4e37-b138-017403102c6b.jpg",
+                    "Url": "\/profile\/dr69party\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 83095,
+                    "Name": "noathistar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/83095\/b6901f7a-a5a0-41a5-91e1-f61ff2f40b4a.png",
+                    "Url": "\/profile\/noathistar\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 220398,
+                    "Name": "mrtrodal",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/220398\/e285c02d-389a-4564-a9ad-6277768e7de5.jpg",
+                    "Url": "\/profile\/mrtrodal\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 399735,
+                    "Name": "zwljt855",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/399735\/2c9d5c29-0202-4c4b-9889-90694445cfe4.jpg",
+                    "Url": "\/profile\/zwljt855\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 254149,
+                    "Name": "sidxaxis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/254149\/d046211e-0b64-4422-a120-acb4f59e07ad.jpg",
+                    "Url": "\/profile\/sidxaxis\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 7365,
+            "Posts": "48",
+            "Comments": "59",
+            "Followers": 223,
+            "PageViewsSplit": {
+                "Overview": 21231,
+                "Markets": 1528,
+                "Analysis": 601,
+                "Charts": 2050,
+                "Trades": 993,
+                "Orderbook": 10,
+                "Forum": 1232,
+                "Influence": 167
+            },
+            "PageViews": 27812
+        },
+        "Twitter": {
+            "statuses": 2418,
+            "favourites": "2750",
+            "following": "168",
+            "account_creation": "1493190777",
+            "followers": 13085,
+            "name": "BitCore",
+            "link": "https:\/\/twitter.com\/bitcore_btx",
+            "lists": 94,
+            "Points": 13557
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1492992661",
+                    "open_total_issues": "7",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1515964026",
+                    "size": "9017",
+                    "stars": 29,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1515897227",
+                    "forks": 35,
+                    "url": "https:\/\/github.com\/LIMXTEC\/BitCore",
+                    "subscribers": 20,
+                    "language": "C++"
+                }
+            ],
+            "Points": 159
+        }
+    }
+}

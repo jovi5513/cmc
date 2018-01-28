@@ -1,0 +1,66 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "DETH",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000159",
+            "LASTUPDATE": "1516088772",
+            "LASTVOLUME": "80",
+            "LASTVOLUMETO": "0.0001272",
+            "LASTTRADEID": "200004386",
+            "VOLUMEDAY": "32143.505933790002",
+            "VOLUMEDAYTO": "0.050308387139402416",
+            "VOLUME24HOUR": "371415.17706456",
+            "VOLUME24HOURTO": "0.7867589388856748",
+            "OPENDAY": "0.0000015",
+            "HIGHDAY": "0.00000171",
+            "LOWDAY": "0.0000015",
+            "OPEN24HOUR": "0.0000021",
+            "HIGH24HOUR": "0.00000363",
+            "LOW24HOUR": "0.00000123",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "DETH",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000159",
+                "LASTUPDATE": "1516088772",
+                "LASTVOLUME": "80",
+                "LASTVOLUMETO": "0.0001272",
+                "LASTTRADEID": "200004386",
+                "VOLUME24HOUR": "371415.17706456",
+                "VOLUME24HOURTO": "0.7867589388856748",
+                "OPEN24HOUR": "0.0000021",
+                "HIGH24HOUR": "0.00000363",
+                "LOW24HOUR": "0.00000123"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "DETH",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "1e-8",
+                "LASTUPDATE": "1449698581",
+                "LASTVOLUME": "19405.04407376",
+                "LASTVOLUMETO": "0.0001940504407376",
+                "LASTTRADEID": "1449698581128",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "1e-8",
+                "HIGH24HOUR": "1e-8",
+                "LOW24HOUR": "1e-8"
+            }
+        ]
+    },
+    "Type": 100
+}

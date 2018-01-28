@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Argentum (ARG) - Live streaming prices and market cap",
+            "PageDescription": "Live Argentum prices from all markets and ARG coin market Capitalization. Stay up to date with the latest Argentum price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19602\/arg.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4371",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Argentum (ARG)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ARG",
+            "Url": "\/coins\/arg\/",
+            "BaseAngularUrl": "\/coins\/arg\/",
+            "Name": "Argentum",
+            "ImageUrl": "\/media\/19602\/arg.png",
+            "Description": "<p>Argentum is another fast block time coin at 32 seconds. It is a scrypt proof of work coin with difficulty retargetting every 250 blocks. The name comes from the Latin for silver and the coin will have a 1.1% annual inflation after the the hard coded total coin cap is reached. The block reward is random and the maximum block size is 10mb.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "64000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "11\/06\/2011",
+            "Twitter": "",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1482631395,
+            "DifficultyAdjustment": "250 blocks",
+            "BlockRewardReduction": "-",
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~ARG~UNO",
+            "2~Novaexchange~ARG~BTC",
+            "2~Novaexchange~ARG~MOON",
+            "2~Cryptopia~ARG~DOGE",
+            "2~Cryptopia~ARG~FTC",
+            "2~Cryptopia~ARG~ETH",
+            "2~Cryptsy~ARG~BTC",
+            "2~Cryptopia~ARG~LTC",
+            "2~Cryptopia~ARG~BTC",
+            "2~Cryptopia~ARG~DOT",
+            "2~Cryptopia~ARG~XMR",
+            "2~Cryptsy~ARG~XRP"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ARG~UNO~4~0.0001~1497288275~8924.46359306~0.89244636~1497288275~0~0~0~0~0.0001~0.0001~0.0001~0.0001~0.0001~0.0001~Cryptopia~7ffe9",
+            "5~CCCAGG~ARG~BTC~2~0.00002344~1515948424~262.5575581~0.00615435~1515948424~723811.2014624199~15.587930660000026~1386570.4660321595~28.276611209999995~0.00001794~0.00002948~0.000015~0.00000836~0.000037~0.00000835~Cryptopia~7ffe9",
+            "5~CCCAGG~ARG~MOON~4~11.00000001~1496965434~30.43273433~334.76007793432734~1496965434000~0~0~0~0~11.00000001~11.00000001~11.00000001~11.00000001~11.00000001~11.00000001~Novaexchange~7ffe9",
+            "5~CCCAGG~ARG~DOGE~4~4.12181243~1515189866~872.87308755~3597.81914208~1515189866.001~0~0~0~0~4.12~4.12181243~4.12~4.12181243~4.12181243~4.12181243~Cryptopia~7ffe9",
+            "5~CCCAGG~ARG~FTC~4~0.4~1488351880~758.53220112~303.41288~1488351880~0~0~0~0~0.4~0.4~0.4~0.4~0.4~0.4~Cryptopia~7ffe9",
+            "5~CCCAGG~ARG~ETH~4~9.5e-7~1465908664~114.38257103~0.000109~1465908664~0~0~0~0~9.5e-7~9.5e-7~9.5e-7~9.5e-7~9.5e-7~9.5e-7~Cryptopia~7ffe9",
+            "5~CCCAGG~ARG~LTC~4~0.00014~1515178916~179.41854551~0.0251186~1515178916.001~0~0~0~0~0.00014~0.00014~0.00014~0.00014~0.00014~0.00014~Cryptopia~7ffe9",
+            "5~CCCAGG~ARG~DOT~4~9.99999999~1488351869~17.94644907~179.464491~1488351869.001~0~0~0~0~9.99999999~9.99999999~9.99999999~9.99999999~9.99999999~9.99999999~Cryptopia~7ffe9",
+            "5~CCCAGG~ARG~XMR~4~0.00029999~1487082530~17.99994103~0.0054~1487082530.001~0~0~0~0~0.00029999~0.00029999~0.00029999~0.00029999~0.00029999~0.00029999~Cryptopia~7ffe9",
+            "5~CCCAGG~ARG~XRP~4~0.22556817~1430869784~0.00000435~9.8e-7~92228884~0~0~0.22556817~0.22556817~0.22556817~Cryptsy~78ce9"
+        ]
+    },
+    "Type": 100
+}

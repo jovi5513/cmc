@@ -1,0 +1,88 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BitstarCoin (BITS) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "BitstarCoin is a Scrypt PoW\/PoS hybrid. The PoW phase lasts for 21 days and then the PoS staking begins at 35% for Y1 - dropping to 1% in yr 5. The difficulty retargets every block and the block time is set to 30 seconds allowing for a two minute transaction confirmation.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19622\/bits.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "5368",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "BitstarCoin (BITS)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BITS",
+            "Url": "\/coins\/bits\/",
+            "BaseAngularUrl": "\/coins\/bits\/",
+            "Name": "BitstarCoin",
+            "ImageUrl": "\/media\/19622\/bits.png",
+            "Description": "<p>BitstarCoin is a Scrypt PoW\/PoS hybrid. The PoW phase lasts for 21 days and then the PoS staking begins at 35% for Y1 - dropping to 1% in yr 5. The difficulty retargets every block and the block time is set to 30 seconds allowing for a two minute transaction confirmation.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "54256119",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "17\/04\/2014",
+            "Twitter": "@Bitstar_coinz",
+            "AffiliateUrl": "http:\/\/bitstarcoin.com\/",
+            "Website": "<a href='http:\/\/bitstarcoin.com\/' target='_blank'>BitstarCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926766,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 23079737,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~BITS~KIC",
+            "2~Yobit~BITS~WAVES",
+            "2~Yobit~BITS~USD",
+            "2~Novaexchange~BITS~LTC",
+            "2~Yobit~BITS~DOGE",
+            "2~Cryptopia~BITS~BTC",
+            "2~Cryptopia~BITS~DOGE",
+            "2~Novaexchange~BITS~DOGE",
+            "2~Yobit~BITS~BTC",
+            "2~Novaexchange~BITS~BTC",
+            "2~EtherDelta~BITS~ETH",
+            "2~Yobit~BITS~RUR",
+            "2~BitTrex~BITS~BTC",
+            "2~Cryptopia~BITS~LTC",
+            "2~Yobit~BITS~ETH",
+            "2~Poloniex~BITS~BTC",
+            "2~Novaexchange~BITS~ETH",
+            "2~Cryptopia~BITS~UNO"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BITS~KIC~4~0.010001~1503090116~0.01002~0.00010021001999999999~1503090116000~0~0~0~0~0.010001~0.010001~0.010001~0.010001~0.010001~0.010001~Novaexchange~7ffe9",
+            "5~CCCAGG~BITS~WAVES~4~0.02723106~1515175650~10.99479784~0.2993999996689104~180129625~0~0~0~0~0.02723~0.02723106~0.02723~0.02723106~0.02723106~0.02723106~Yobit~7ffe9",
+            "5~CCCAGG~BITS~USD~4~0.07000004~1515761599~1.75274852~0.1226924665099408~200000002~0~0~0~0~0.07000004~0.07000004~0.07000004~0.07000004~0.07000004~0.07000004~Yobit~7ffe9",
+            "5~CCCAGG~BITS~LTC~4~0.000572~1515186210~70.9~0.0405548~1515186210~0~0~0~0~0.000572~0.000572~0.000572~0.000572~0.000572~0.000572~Cryptopia~7ffe9",
+            "5~CCCAGG~BITS~DOGE~4~9.083985~1515193753~870.35925593~7906.33042548~1515193753~0~0~0~0~9.1~11.48~9.08~9.083985~9.083985~9.083985~Cryptopia~7ffe9",
+            "5~CCCAGG~BITS~BTC~1~0.00000629~1515947681~132.64217253~0.00083167~1515947681.001~8816.67144574~0.05425871185392989~21693.323822489994~0.1319912493539299~0.00000623~0.00000692~0.00000586~0.00000631~0.00000638~0.00000588~Cryptopia~7ffe9",
+            "5~CCCAGG~BITS~ETH~4~0.00017~1515724565~12000~2.04~1515724565000~0~0~0~0~0.00017~0.00017~0.00017~0.00017~0.00017~0.00017~EtherDelta~7ffe9",
+            "5~CCCAGG~BITS~RUR~4~5~1515926878~9.9999999~49.99999999999999~200000002~9.9999999~49.99999999999999~9.9999999~49.99999999999999~5~5~5~5~5~5~Yobit~7ffe9",
+            "5~CCCAGG~BITS~UNO~4~0.00349999~1496991533~0.00571716~0.00002001~1496991533~0~0~0~0~0.00349999~0.00349999~0.00349999~0.00349999~0.00349999~0.00349999~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

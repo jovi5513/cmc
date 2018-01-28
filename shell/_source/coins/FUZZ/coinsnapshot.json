@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "FUZZ",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "2",
+            "PRICE": "0.0000031",
+            "LASTUPDATE": "1516091027",
+            "LASTVOLUME": "541.93548387",
+            "LASTVOLUMETO": "0.0016366451612873998",
+            "LASTTRADEID": "200002577",
+            "VOLUMEDAY": "24402.38118817",
+            "VOLUMEDAYTO": "0.15808618186768278",
+            "VOLUME24HOUR": "188675.97813396002",
+            "VOLUME24HOURTO": "1.2909594646848666",
+            "OPENDAY": "0.00000736",
+            "HIGHDAY": "0.00000897",
+            "LOWDAY": "0.00000308",
+            "OPEN24HOUR": "0.0000035",
+            "HIGH24HOUR": "0.00000489",
+            "LOW24HOUR": "0.00000306",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "FUZZ",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.0000083",
+                "LASTUPDATE": "1516089271",
+                "LASTVOLUME": "132.52930758",
+                "LASTVOLUMETO": "0.00109999",
+                "LASTTRADEID": "1516089271",
+                "VOLUME24HOUR": "116131.21402124001",
+                "VOLUME24HOURTO": "1.04024879",
+                "OPEN24HOUR": "0.00000959",
+                "HIGH24HOUR": "0.0000111",
+                "LOW24HOUR": "0.00000694"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Novaexchange",
+                "FROMSYMBOL": "FUZZ",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "5.9e-7",
+                "LASTUPDATE": "1510147430",
+                "LASTVOLUME": "2341.91450073",
+                "LASTVOLUMETO": "0.0013817295554306999",
+                "LASTTRADEID": "1510147430001",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "5.9e-7",
+                "HIGH24HOUR": "5.9e-7",
+                "LOW24HOUR": "5.9e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "FUZZ",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000302",
+                "LASTUPDATE": "1516091027",
+                "LASTVOLUME": "541.93548387",
+                "LASTVOLUMETO": "0.0016366451612873998",
+                "LASTTRADEID": "200002577",
+                "VOLUME24HOUR": "72544.76411272",
+                "VOLUME24HOURTO": "0.2507106746848667",
+                "OPEN24HOUR": "0.0000034",
+                "HIGH24HOUR": "0.00000479",
+                "LOW24HOUR": "0.000003"
+            }
+        ]
+    },
+    "Type": 100
+}

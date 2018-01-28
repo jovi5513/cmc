@@ -1,0 +1,139 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CNMT",
+            "CoinName": "Coinomat",
+            "Type": "Webpagecoinp",
+            "Points": 50
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 7590,
+                    "Name": "PharmaCoin",
+                    "FullName": "PharmaCoin (XPH)",
+                    "ImageUrl": "\/media\/20641\/xph.png",
+                    "Url": "\/coins\/xph\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5022,
+                    "Name": "SocialXbotCoin",
+                    "FullName": "SocialXbotCoin (XBOT)",
+                    "ImageUrl": "\/media\/20073\/xbot.png",
+                    "Url": "\/coins\/xbot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35407,
+                    "Name": "BAM",
+                    "FullName": "BAM (BamitCoin)",
+                    "ImageUrl": "\/media\/352236\/bam.png",
+                    "Url": "\/coins\/bam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25594,
+                    "Name": "Uniqredit",
+                    "FullName": "Uniqredit (UNIQ)",
+                    "ImageUrl": "\/media\/351387\/uniq.png",
+                    "Url": "\/coins\/uniq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 667050,
+                    "Name": "MediShares",
+                    "FullName": "MediShares (MDS)",
+                    "ImageUrl": "\/media\/20780773\/ipnvhhke_400x400.jpg",
+                    "Url": "\/coins\/mds\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43598,
+                    "Name": "CircuitCoin",
+                    "FullName": "CircuitCoin (CIR)",
+                    "ImageUrl": "\/media\/1382506\/cir.png",
+                    "Url": "\/coins\/cir\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29455,
+                    "Name": "Tianhe",
+                    "FullName": "Tianhe (TIA)",
+                    "ImageUrl": "\/media\/351636\/tia.png",
+                    "Url": "\/coins\/tia\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4588,
+                    "Name": "PseudoCash",
+                    "FullName": "PseudoCash (PSEUD)",
+                    "ImageUrl": "\/media\/20052\/pseud.png",
+                    "Url": "\/coins\/pseud\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28131,
+                    "Name": "FuturePoints",
+                    "FullName": "FuturePoints (FTP)",
+                    "ImageUrl": "\/media\/351501\/ftp.png",
+                    "Url": "\/coins\/ftp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4575,
+                    "Name": "Nimbus Coin",
+                    "FullName": "Nimbus Coin (NMB)",
+                    "ImageUrl": "\/media\/20049\/nmb.png",
+                    "Url": "\/coins\/nmb\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 17423,
+                    "Name": "Kanopt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/17423\/d9aa0e8f-c15a-435b-b257-0e0674a3a600.png",
+                    "Url": "\/profile\/Kanopt\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 50,
+            "Followers": 2,
+            "PageViewsSplit": {
+                "Overview": 168,
+                "Markets": 25,
+                "Analysis": 36,
+                "Charts": 7,
+                "Trades": 38,
+                "Orderbook": 0,
+                "Forum": 15,
+                "Influence": 13
+            },
+            "PageViews": 302
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

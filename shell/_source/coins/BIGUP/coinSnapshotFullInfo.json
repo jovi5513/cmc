@@ -1,0 +1,77 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BigUp (BIGUP) - Live streaming prices and market cap",
+            "PageDescription": "Live Bigup prices from all markets and BIGUP coin market Capitalization. Stay up to date with the latest Bigup price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350980\/bigup.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20819",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "BigUp (BIGUP)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BIGUP",
+            "Url": "\/coins\/bigup\/",
+            "BaseAngularUrl": "\/coins\/bigup\/",
+            "Name": "BigUp",
+            "ImageUrl": "\/media\/350980\/bigup.png",
+            "Description": "<p>Bigup allows peer-to-peer transactions across the globe. BIGUP uses PoS 2.0 algorithm, which means users can earn transaction fees by staking Bigup.<\/p><p>919000000 BIGUP were sold during the ICO.\u00a0<span>2,581,823,262 were burned.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "4000000000",
+            "Algorithm": "",
+            "ProofType": "PoS",
+            "StartDate": "12\/02\/2016",
+            "Twitter": "@BigUpKing",
+            "AffiliateUrl": "http:\/\/bigup.club\/",
+            "Website": "<a href='http:\/\/bigup.club\/' target='_blank'>BigUp<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926488,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 4000000000,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~BIGUP~BTC",
+            "2~Yobit~BIGUP~BTC",
+            "2~CCEX~BIGUP~USD",
+            "2~Yobit~BIGUP~USD",
+            "2~CCEX~BIGUP~ETH",
+            "2~Yobit~BIGUP~DOGE",
+            "2~Yobit~BIGUP~ETH",
+            "2~Yobit~BIGUP~RUR",
+            "2~CCEX~BIGUP~DOGE",
+            "2~Yobit~BIGUP~WAVES"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BIGUP~BTC~2~1e-8~1515947636~5000000~0.05~200000109~14240149.46034598~0.20195140836859632~15510149.560345981~0.21535141036859629~1e-8~2e-8~1e-8~2e-8~2e-8~1e-8~Yobit~7ffe9",
+            "5~CCCAGG~BIGUP~USD~2~0.0002201~1515948529~20634~4.54113072~200000052~506006.51496776997~115.19802061577907~541409.65782489~123.0354297557739~0.00035~0.00035~0.00021~0.0002101~0.00035~0.00021~Yobit~7ffe9",
+            "5~CCCAGG~BIGUP~ETH~4~1.4e-7~1515913224~142857.14285714~0.0199999999999996~200000023~514720.05663902~0.0933685120672816~514720.05663902~0.0933685120672816~2.5e-7~2.5e-7~1.4e-7~2.5e-7~2.5e-7~1.4e-7~Yobit~7ffe9",
+            "5~CCCAGG~BIGUP~DOGE~4~0.024~1515944169~185598.32046207~4454.35969108968~200000087~2606633.0427988498~64116.71321799103~6631669.248572391~141223.4884977454~0.0249~0.0249~0.019~0.01918~0.0249~0.019~Yobit~7ffe9",
+            "5~CCCAGG~BIGUP~RUR~4~0.01997~1515948405~100~1.9969899999999998~200000069~13063.379201619999~215.93645466630178~16512.10433662~274.3040337419132~0.01999~0.01999~0.0141~0.0141~0.01999~0.0141~Yobit~7ffe9",
+            "5~CCCAGG~BIGUP~WAVES~4~0.00003869~1515770592~5169.29439131~0.19999999999978388~200000002~0~0~0~0~0.00003869~0.00003869~0.00003869~0.00003869~0.00003869~0.00003869~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

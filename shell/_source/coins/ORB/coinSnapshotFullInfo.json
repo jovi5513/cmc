@@ -1,0 +1,89 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "orbitCoin (ORB) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "A coin that is a clone but with the added mission of trying to encourage scientific research. OrbitCoin is a PoW\/PoS hybrid without the PoS reward to reduce inflation but maintain the resistance to 51% attacks.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19845\/orb.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "233"
+        },
+        "General": {
+            "Id": "4583",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Orbitcoin (ORB)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ORB",
+            "Url": "\/coins\/orb\/",
+            "BaseAngularUrl": "\/coins\/orb\/",
+            "Name": "Orbitcoin",
+            "ImageUrl": "\/media\/19845\/orb.png",
+            "Description": "<p>A coin that is a clone but with the added mission of trying to encourage scientific research. OrbitCoin is a PoW\/PoS hybrid without the PoS reward to reduce inflation but maintain the resistance to 51% attacks. There are transaction messages with a 30 second block time, a block reward that halves from 0.25 to a minimal 0.00000001. There are four transaction confirmations needed and 200 for newly mined blocks.<\/p><p><span>block hashing is BLAKE2s<\/span><br \/><span>PoW hashing is NeoScrypt<\/span><br \/><span>PoS hashing is SHA-256d<\/span><\/p>",
+            "Features": "<ul><li>advanced hybrid proof-of-work (PoW) and proof-of-stake (PoS)<\/li><li>3.77 million coins to be produced<\/li><li>block hashing is BLAKE2s<\/li><li>PoW hashing is NeoScrypt<\/li><li>PoS hashing is SHA-256d<\/li><li>1 minute combined block target (3 minutes for PoW, 1.5 minutes for PoS)<\/li><li>retargets every block using Orbitcoin Super Shield (OSS)<\/li><li>time warp and instamining protection<\/li><li>advanced checkpointing against 51% attacks<\/li><li>transaction messaging supported<\/li><li>the 1st implementation of 0% PoS<\/li><li>PoW and PoS blocks carry the same fixed reward of 1 ORB<\/li><li>6 confirmations for regular transactions<\/li><li>200 confirmations for minted coins<\/li><li>very low transaction fees (most transactions are free)<\/li><li>no destruction of transaction fees (all collected by a block finder)<\/li><li>the default P2P port is 15298, RPC port is 15299<\/li><li>I2P\/Tor ready<\/li><\/ul>",
+            "Technology": "",
+            "TotalCoinSupply": "3770000",
+            "Algorithm": "NeoScrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "11\/12\/2013",
+            "Twitter": "@OrBitcoinLove",
+            "AffiliateUrl": "http:\/\/orbitcoin.org\/",
+            "Website": "<a href='http:\/\/orbitcoin.org\/' target='_blank'>Orbitcoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515947992,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "-",
+            "BlockNumber": 2345628,
+            "BlockTime": 157,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 3120640.279225,
+            "PreviousTotalCoinsMined": 3120630.279225,
+            "BlockReward": 1
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~ORB~LTC",
+            "2~Cryptopia~ORB~POP",
+            "2~Cryptopia~ORB~DOGE",
+            "2~Cryptsy~ORB~XRP",
+            "2~Novaexchange~ORB~ETH",
+            "2~Coinse~ORB~LTC",
+            "2~Cryptopia~ORB~DOT",
+            "2~BitTrex~ORB~BTC",
+            "2~Cryptopia~ORB~ETH",
+            "2~Coinse~ORB~BTC",
+            "2~Cryptopia~ORB~FTC",
+            "2~Novaexchange~ORB~DOGE",
+            "2~Cryptopia~ORB~LTC",
+            "2~Novaexchange~ORB~BTC",
+            "2~Cryptopia~ORB~UNO",
+            "2~Cryptopia~ORB~XMR",
+            "2~Cryptopia~ORB~BTC",
+            "2~Cryptsy~ORB~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ORB~LTC~4~0.00288887~1515187213~4.44759492~0.01284852~1515187213~0~0~0~0~0.002889~0.002889~0.00288887~0.00288887~0.00288887~0.00288887~Cryptopia~7ffe9",
+            "5~CCCAGG~ORB~POP~4~830092.99999999~1457169323~6e-8~0.049806~1457169323~0~0~0~0~830092.99999999~830092.99999999~830092.99999999~830092.99999999~830092.99999999~830092.99999999~Cryptopia~7ffe9",
+            "5~CCCAGG~ORB~DOGE~4~51.00000077~1515142637~0.75995318~38.75761277~1515142637.002~0~0~0~0~51~51.00000077~51~51.00000077~51.00000077~51.00000077~Cryptopia~7ffe9",
+            "5~CCCAGG~ORB~XRP~4~1~1430688186~0.11~0.11~92074874~0~0~1~1~1~Cryptsy~78ce9",
+            "5~CCCAGG~ORB~ETH~4~0.003~1501698523~5.40305~0.016209150000000002~1501698523001~0~0~0~0~0.003~0.003~0.003~0.003~0.003~0.003~Novaexchange~7ffe9",
+            "5~CCCAGG~ORB~DOT~4~348.99990894~1489078456~0.09678438~33.77774~1489078456~0~0~0~0~348.99990894~348.99990894~348.99990894~348.99990894~348.99990894~348.99990894~Cryptopia~7ffe9",
+            "5~CCCAGG~ORB~BTC~2~0.00006889~1515948015~7.25809232~0.00050001~1515948015~8824.814124590004~0.6477536599999998~14292.03561649~1.12993403~0.00008403~0.00008798~0.00006613~0.00009113~0.00009244~0.00006613~Cryptopia~7ffe9",
+            "5~CCCAGG~ORB~FTC~4~12.00000001~1489054623~1.12987279~13.558473~1489054623.001~0~0~0~0~12.00000001~12.00000001~12.00000001~12.00000001~12.00000001~12.00000001~Cryptopia~7ffe9",
+            "5~CCCAGG~ORB~UNO~4~0.0036999~1498073269~0.11203907~0.00041453~1498073269~0~0~0~0~0.0036999~0.0036999~0.0036999~0.0036999~0.0036999~0.0036999~Cryptopia~7ffe9",
+            "5~CCCAGG~ORB~XMR~4~0.00899998~1487662090~0.29269859~0.002634~1487662090~0~0~0~0~0.00899998~0.00899998~0.00899998~0.00899998~0.00899998~0.00899998~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

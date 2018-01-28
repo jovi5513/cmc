@@ -1,0 +1,44 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "LTCX",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "3e-7",
+            "LASTUPDATE": "1452768809",
+            "LASTVOLUME": "28.17770093",
+            "LASTVOLUMETO": "0.00000845",
+            "LASTTRADEID": "110927133",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPEN24HOUR": "3e-7",
+            "HIGH24HOUR": "3e-7",
+            "LOW24HOUR": "3e-7",
+            "LASTMARKET": "Cryptsy"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "LTCX",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "3e-7",
+                "LASTUPDATE": "1452768809",
+                "LASTVOLUME": "28.17770093",
+                "LASTVOLUMETO": "0.00000845",
+                "LASTTRADEID": "110927133",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "3e-7",
+                "HIGH24HOUR": "3e-7",
+                "LOW24HOUR": "3e-7"
+            }
+        ]
+    },
+    "Type": 100
+}

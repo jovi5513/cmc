@@ -1,0 +1,161 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "EXE",
+            "CoinName": "ExeCoin",
+            "Type": "Webpagecoinp",
+            "Points": 150
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4423,
+                    "Name": "CoolCoin",
+                    "FullName": "CoolCoin (COOL)",
+                    "ImageUrl": "\/media\/19658\/cool.png",
+                    "Url": "\/coins\/cool\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3650,
+                    "Name": "NXTI",
+                    "FullName": "NXTI (NXTI)",
+                    "ImageUrl": "\/media\/20376\/nxti.png",
+                    "Url": "\/coins\/nxti\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4450,
+                    "Name": "FractalCoin",
+                    "FullName": "FractalCoin (FRAC)",
+                    "ImageUrl": "\/media\/19710\/frac.png",
+                    "Url": "\/coins\/frac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6088,
+                    "Name": "Viral Coin",
+                    "FullName": "Viral Coin (VIRAL)",
+                    "ImageUrl": "\/media\/20472\/viral.png",
+                    "Url": "\/coins\/viral\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185625,
+                    "Name": "GeoFunders",
+                    "FullName": "GeoFunders (GUNS)",
+                    "ImageUrl": "\/media\/1383789\/guns.png",
+                    "Url": "\/coins\/guns\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21710,
+                    "Name": "Nukecoinz",
+                    "FullName": "Nukecoinz (NKC)",
+                    "ImageUrl": "\/media\/351041\/nkc.png",
+                    "Url": "\/coins\/nkc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42440,
+                    "Name": "WealthCoin",
+                    "FullName": "WealthCoin (WEALTH)",
+                    "ImageUrl": "\/media\/1382392\/wealth.png",
+                    "Url": "\/coins\/wealth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21007,
+                    "Name": "Aiden",
+                    "FullName": "Aiden (ADN)",
+                    "ImageUrl": "\/media\/350993\/adn.png",
+                    "Url": "\/coins\/adn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5366,
+                    "Name": "GigCoin",
+                    "FullName": "GigCoin (GIG)",
+                    "ImageUrl": "\/media\/20294\/gig.png",
+                    "Url": "\/coins\/gig\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3641,
+                    "Name": "GiveCoin",
+                    "FullName": "GiveCoin (GIVE)",
+                    "ImageUrl": "\/media\/20297\/give.png",
+                    "Url": "\/coins\/give\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 572375,
+                    "Name": "ndholwani",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/572375\/14c03f22-dee3-4b19-8ea7-a0ae152ffe12.jpg",
+                    "Url": "\/profile\/ndholwani\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 466130,
+                    "Name": "EBB736C9",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/466130\/be8e12a2-6229-46a4-9ce1-2685b4ea2bc1.jpg",
+                    "Url": "\/profile\/EBB736C9\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 361430,
+                    "Name": "donotspamus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/361430\/d8bfefd4-1efa-45df-b6f3-0de20b6730a2.jpg",
+                    "Url": "\/profile\/donotspamus\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 171515,
+                    "Name": "mooncoin32767",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/171515\/393b007a-a93f-4ef0-ac20-c59d1be50542.jpg",
+                    "Url": "\/profile\/mooncoin32767\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 19343,
+                    "Name": "nanar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/19343\/d88dcc83-ad5f-4f51-b893-d137210feb06.png",
+                    "Url": "\/profile\/nanar\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 150,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 981,
+                "Markets": 84,
+                "Analysis": 111,
+                "Charts": 75,
+                "Trades": 105,
+                "Orderbook": 3,
+                "Forum": 50,
+                "Influence": 15
+            },
+            "PageViews": 1424
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

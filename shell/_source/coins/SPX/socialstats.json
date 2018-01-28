@@ -1,0 +1,175 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SPX",
+            "CoinName": "Specie",
+            "Type": "Webpagecoinp",
+            "Points": 78
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 38035,
+                    "Name": "HeelCoin",
+                    "FullName": "HeelCoin (HEEL)",
+                    "ImageUrl": "\/media\/1382051\/heel.png",
+                    "Url": "\/coins\/heel\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45609,
+                    "Name": "TrashBurn",
+                    "FullName": "TrashBurn (TBCX)",
+                    "ImageUrl": "\/media\/1382658\/tbcx.png",
+                    "Url": "\/coins\/tbcx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28770,
+                    "Name": "Save and Gain",
+                    "FullName": "Save and Gain (SANDG)",
+                    "ImageUrl": "\/media\/351556\/sandt.png",
+                    "Url": "\/coins\/sandg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4544,
+                    "Name": "JudgeCoin",
+                    "FullName": "JudgeCoin (JUDGE)",
+                    "ImageUrl": "\/media\/20038\/judge.png",
+                    "Url": "\/coins\/judge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5330,
+                    "Name": "AeroMe",
+                    "FullName": "AeroMe (AM)",
+                    "ImageUrl": "\/media\/20191\/am.png",
+                    "Url": "\/coins\/am\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35811,
+                    "Name": "HazMatCoin",
+                    "FullName": "HazMatCoin (HZT)",
+                    "ImageUrl": "\/media\/352291\/hzt.png",
+                    "Url": "\/coins\/hzt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5380,
+                    "Name": "ROS Coin",
+                    "FullName": "ROS Coin (ROS)",
+                    "ImageUrl": "\/media\/19710\/frac.png",
+                    "Url": "\/coins\/ros\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 27681,
+                    "Name": "WayCoin",
+                    "FullName": "WayCoin (WAY)",
+                    "ImageUrl": "\/media\/351433\/way.png",
+                    "Url": "\/coins\/way\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30421,
+                    "Name": "Tennet",
+                    "FullName": "Tennet (TENNET)",
+                    "ImageUrl": "\/media\/351760\/tennet.png",
+                    "Url": "\/coins\/tennet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43046,
+                    "Name": "Ratio",
+                    "FullName": "Ratio (RATIO)",
+                    "ImageUrl": "\/media\/1382442\/ratio.png",
+                    "Url": "\/coins\/ratio\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 24273,
+                    "Name": "zahidali.ayub",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24273\/3b5627a1-39a1-4115-8877-12dc844e9410.jpg",
+                    "Url": "\/profile\/zahidali.ayub\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 231359,
+                    "Name": "moshe.yaniv",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/231359\/3823d147-12e4-4d48-bc84-34f3ceb7ef57.jpg",
+                    "Url": "\/profile\/moshe.yaniv\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 390,
+                "Markets": 33,
+                "Analysis": 23,
+                "Charts": 27,
+                "Trades": 19,
+                "Orderbook": 0,
+                "Forum": 13,
+                "Influence": 15
+            },
+            "PageViews": 520
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "2980",
+                    "url": "https:\/\/github.com\/SpecieCoin\/Specie",
+                    "last_update": "1434487638",
+                    "last_push": "1434487632",
+                    "created_at": "1434487590",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

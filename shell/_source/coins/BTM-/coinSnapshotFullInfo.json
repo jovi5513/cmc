@@ -1,0 +1,87 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Bytom (BTM) - Live streaming prices and market cap",
+            "PageDescription": "Live Bytom prices from all markets and BTM coin market Capitalization. Stay up to date with the latest Bytom price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1383996\/btm.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "218008",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Bytom (BTM)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BTM*",
+            "Url": "\/coins\/btmstar\/",
+            "BaseAngularUrl": "\/coins\/btmstar\/",
+            "Name": "Bytom",
+            "ImageUrl": "\/media\/1383996\/btm.png",
+            "Description": "<p>Bytom is an interactive protocol of multiple byte assets. BTM is currently an Ethereum-based token.<\/p><p>\u00a0<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "1407000000",
+            "Algorithm": "",
+            "ProofType": "",
+            "StartDate": "20\/06\/2017",
+            "Twitter": "",
+            "AffiliateUrl": "http:\/\/bytom.io\/",
+            "Website": "<a href='http:\/\/bytom.io\/' target='_blank'>Bytom<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970636,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 1407000000,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Gateio~BTM*~USDT",
+            "2~EtherDelta~BTM*~ETH",
+            "2~OKEX~BTM*~BTC",
+            "2~Cryptopia~BTM*~BTC",
+            "2~BTER~BTM*~ETH",
+            "2~OKEX~BTM*~ETH",
+            "2~HitBTC~BTM*~BTC",
+            "2~Cryptopia~BTM*~DOGE",
+            "2~Cryptopia~BTM*~LTC",
+            "2~BTER~BTM*~BTC",
+            "2~EXX~BTM*~ETH",
+            "2~HitBTC~BTM*~ETH",
+            "2~Kucoin~BTM*~ETH",
+            "2~Gateio~BTM*~ETH",
+            "2~Kucoin~BTM*~BTC",
+            "2~OKEX~BTM*~USDT",
+            "2~BTER~BTM*~CNY",
+            "2~HitBTC~BTM*~USD",
+            "2~EXX~BTM*~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BTM*~USDT~4~0.5811~1515979575~63.683~37.2863965~642363~555230.1667000001~329036.8276553897~11217304.5174~6507710.390311221~0.5781~0.6105~0.5738~0.6673~0.6684~0.5068~OKEX~7ffe9",
+            "5~CCCAGG~BTM*~ETH~4~0.000438~1515979499~0.43~0.00019995~3014600~77465.10952882998~33.943634683630236~3951537.353504789~1756.5844812509254~0.000438~0.000438~0.000438~0.000495~0.000557~0.000387~EXX~7ffe9",
+            "5~CCCAGG~BTM*~BTC~4~0.00004276~1515979526~12~0.0004926~3219411~243658.42380514977~10.689622832116509~3917679.0773057006~170.30815370984357~0.00004215~0.00004315~0.00004151~0.000047~0.00004895~0.000041~EXX~7ffe9",
+            "5~CCCAGG~BTM*~DOGE~4~61~1515193195~8.48280471~517.45108731~1515193195.001~0~0~0~0~61~61~61~61~61~61~Cryptopia~7ffe9",
+            "5~CCCAGG~BTM*~LTC~4~0.0023002~1515197146~18.79425981~0.04323056~1515197146~0~0~0~0~0.0023~0.0023002~0.0023~0.0023002~0.0023002~0.0023002~Cryptopia~7ffe9",
+            "5~CCCAGG~BTM*~CNY~4~0.449~1504517941~9604.06~4312.22294~27006298~0~0~0~0~0.449~0.449~0.449~0.449~0.449~0.449~BTER~7ffe9",
+            "5~CCCAGG~BTM*~USD~4~0.6019~1515976281~1370~824.603~152360868~1560~938.746~19450~11622.712999999998~0.59~0.6019~0.59~0.697~0.697~0.472~HitBTC~7ffe9"
+        ]
+    },
+    "Type": 100
+}

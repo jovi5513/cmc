@@ -1,0 +1,146 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CLV",
+            "CoinName": "CleverCoin",
+            "Type": "Webpagecoinp",
+            "Points": 75
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20980,
+                    "Name": "Nebuchadnezzar",
+                    "FullName": "Nebuchadnezzar (NEBU)",
+                    "ImageUrl": "\/media\/350990\/nebu.png",
+                    "Url": "\/coins\/nebu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33004,
+                    "Name": "Midnight ",
+                    "FullName": "Midnight  (MDT)",
+                    "ImageUrl": "\/media\/351989\/mdt.png",
+                    "Url": "\/coins\/mdt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4591,
+                    "Name": "PayCoin",
+                    "FullName": "PayCoin (PYC)",
+                    "ImageUrl": "\/media\/19878\/pyc.png",
+                    "Url": "\/coins\/pyc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5290,
+                    "Name": "BigCoin",
+                    "FullName": "BigCoin (HUGE)",
+                    "ImageUrl": "\/media\/20318\/huge.png",
+                    "Url": "\/coins\/huge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 68088,
+                    "Name": "IvugeoEvolutionCoin",
+                    "FullName": "IvugeoEvolutionCoin (IEC)",
+                    "ImageUrl": "\/media\/1383144\/wsx.png",
+                    "Url": "\/coins\/iec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4530,
+                    "Name": "GlyphCoin",
+                    "FullName": "GlyphCoin (GLYPH)",
+                    "ImageUrl": "\/media\/19725\/glyph.png",
+                    "Url": "\/coins\/glyph\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 620037,
+                    "Name": "Bytether\u200a",
+                    "FullName": "Bytether\u200a (BTH)",
+                    "ImageUrl": "\/media\/20780656\/bth.png",
+                    "Url": "\/coins\/bth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 79849,
+                    "Name": "Degas Coin",
+                    "FullName": "Degas Coin (DEA)",
+                    "ImageUrl": "\/media\/1383264\/dea.png",
+                    "Url": "\/coins\/dea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32785,
+                    "Name": "Zcrypt",
+                    "FullName": "Zcrypt (ZXT)",
+                    "ImageUrl": "\/media\/351936\/zxt.png",
+                    "Url": "\/coins\/zxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29758,
+                    "Name": "AntiLitecoin",
+                    "FullName": "AntiLitecoin (ANTC)",
+                    "ImageUrl": "\/media\/351690\/antc.png",
+                    "Url": "\/coins\/antc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 602301,
+                    "Name": "bosjabthedon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/602301\/994ffa2c-f32a-4abd-aefe-e83c7ba105a9.jpg",
+                    "Url": "\/profile\/bosjabthedon\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 216123,
+                    "Name": "tanvirk140",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/216123\/7dd601d1-bf83-4a63-bfbe-81288025aa2f.jpg",
+                    "Url": "\/profile\/tanvirk140\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 78294,
+                    "Name": "alwaysprofitting",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/78294\/8beeaf06-db5c-4af3-935f-59a4c9776f2a.jpg",
+                    "Url": "\/profile\/alwaysprofitting\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 237,
+                "Markets": 16,
+                "Analysis": 46,
+                "Charts": 36,
+                "Trades": 44,
+                "Orderbook": 0,
+                "Forum": 60,
+                "Influence": 20
+            },
+            "PageViews": 459
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SDP",
+            "CoinName": "SydPakCoin",
+            "Type": "Webpagecoinp",
+            "Points": 736
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4327,
+                    "Name": "AmericanCoin",
+                    "FullName": "AmericanCoin (AMC)",
+                    "ImageUrl": "\/media\/19601\/amc.png",
+                    "Url": "\/coins\/amc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4434,
+                    "Name": "DarkCash",
+                    "FullName": "DarkCash (DRKC)",
+                    "ImageUrl": "\/media\/20027\/drkc.png",
+                    "Url": "\/coins\/drkc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 31004,
+                    "Name": "CashOut",
+                    "FullName": "CashOut (CSH)",
+                    "ImageUrl": "\/media\/351877\/csh.png",
+                    "Url": "\/coins\/csh\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34604,
+                    "Name": "Creatio",
+                    "FullName": "Creatio (XCRE)",
+                    "ImageUrl": "\/media\/352156\/xcre.png",
+                    "Url": "\/coins\/xcre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4336,
+                    "Name": "Benjamins",
+                    "FullName": "Benjamins (BEN)",
+                    "ImageUrl": "\/media\/19617\/ben.png",
+                    "Url": "\/coins\/ben\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 56654,
+                    "Name": "PlanetCoin",
+                    "FullName": "PlanetCoin (PLANET)",
+                    "ImageUrl": "\/media\/1382851\/planet.png",
+                    "Url": "\/coins\/planet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30177,
+                    "Name": "JiffyCoin",
+                    "FullName": "JiffyCoin (JIF)",
+                    "ImageUrl": "\/media\/351738\/jif.png",
+                    "Url": "\/coins\/jif\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5025,
+                    "Name": "Xcash",
+                    "FullName": "Xcash (XCASH)",
+                    "ImageUrl": "\/media\/20075\/xcash.png",
+                    "Url": "\/coins\/xcash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7565,
+                    "Name": "Squall Coin",
+                    "FullName": "Squall Coin (SQL)",
+                    "ImageUrl": "\/media\/20441\/sql.png",
+                    "Url": "\/coins\/sql\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 48807,
+                    "Name": "FindCoin",
+                    "FullName": "FindCoin (FIND)",
+                    "ImageUrl": "\/media\/1382713\/find.png",
+                    "Url": "\/coins\/find\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 318152,
+                    "Name": "imhyoungsoon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/318152\/5b89246a-b948-4ff2-bfcd-6f9d38cc7a8a.jpg",
+                    "Url": "\/profile\/imhyoungsoon\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 406026,
+                    "Name": "shorrest",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/406026\/ea5b3b3f-37f5-4dff-be69-29c1eb64d643.jpg",
+                    "Url": "\/profile\/shorrest\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 406130,
+                    "Name": "apb4444",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/406130\/e8ef62be-869a-4e5a-a238-daee770eeef3.jpg",
+                    "Url": "\/profile\/apb4444\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 395,
+                "Markets": 22,
+                "Analysis": 24,
+                "Charts": 25,
+                "Trades": 29,
+                "Orderbook": 0,
+                "Forum": 18,
+                "Influence": 12
+            },
+            "PageViews": 525
+        },
+        "Twitter": {
+            "followers": 573,
+            "following": "90",
+            "lists": 11,
+            "favourites": "61",
+            "statuses": 345,
+            "account_creation": "1439082398",
+            "name": "SDP",
+            "link": "https:\/\/twitter.com\/SydpakCoin",
+            "Points": 628
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C",
+                    "forks": 1,
+                    "open_total_issues": "0",
+                    "subscribers": 2,
+                    "size": "10040",
+                    "url": "https:\/\/github.com\/stewpak\/Sydpak",
+                    "last_update": "1439231651",
+                    "last_push": "1439231649",
+                    "created_at": "1439056548",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 8
+        }
+    }
+}

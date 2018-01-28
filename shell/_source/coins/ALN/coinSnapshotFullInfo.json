@@ -1,0 +1,65 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "AlienCoin (ALN) - Live streaming prices and market cap",
+            "PageDescription": "Live AlienCoin prices from all markets and ALN coin market Capitalization. Stay up to date with the latest AlienCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20080\/aln.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "240"
+        },
+        "General": {
+            "Id": "4328",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "AlienCoin (ALN)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ALN",
+            "Url": "\/coins\/aln\/",
+            "BaseAngularUrl": "\/coins\/aln\/",
+            "Name": "AlienCoin",
+            "ImageUrl": "\/media\/20080\/aln.png",
+            "Description": "<p>AlienCoin has a block time of thirty seconds and a difficulty retargetting every 120 blocks or every hour. Total vcoin supply is 200 million.\u00a0<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "200000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "01\/01\/0001",
+            "Twitter": "@aliencoin",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptsy~ALN~XRP",
+            "2~Cryptsy~ALN~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ALN~XRP~4~0.01285161~1452637972~0.09860541~0.00126724~110878847~0~0~0.01285161~0.01285161~0.01285161~Cryptsy~78ce9",
+            "5~CCCAGG~ALN~BTC~4~1.5e-7~1452783530~10000~0.0015~110933194~0~0~1.5e-7~1.5e-7~1.5e-7~Cryptsy~78ce9"
+        ]
+    },
+    "Type": 100
+}

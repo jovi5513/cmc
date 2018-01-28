@@ -1,0 +1,195 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "DAXX",
+            "CoinName": "DaxxCoin",
+            "Type": "Webpagecoinp",
+            "Points": 5635
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 208001,
+                    "Name": "Monkey",
+                    "FullName": "Monkey (MNY)",
+                    "ImageUrl": "\/media\/1383973\/mny.png",
+                    "Url": "\/coins\/mny\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 15284,
+                    "Name": "Amsterdam Coin",
+                    "FullName": "Amsterdam Coin (AMS)",
+                    "ImageUrl": "\/media\/350562\/ams.png",
+                    "Url": "\/coins\/ams\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37210,
+                    "Name": "InCoin",
+                    "FullName": "InCoin (IN)",
+                    "ImageUrl": "\/media\/1381987\/in.png",
+                    "Url": "\/coins\/in\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 16127,
+                    "Name": "Karmacoin",
+                    "FullName": "Karmacoin (KARM)",
+                    "ImageUrl": "\/media\/350693\/karm.png",
+                    "Url": "\/coins\/karm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34849,
+                    "Name": "Eurocoin",
+                    "FullName": "Eurocoin (EUC)",
+                    "ImageUrl": "\/media\/1382471\/euc.png",
+                    "Url": "\/coins\/euc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30887,
+                    "Name": "SweetStake",
+                    "FullName": "SweetStake (SWEET)",
+                    "ImageUrl": "\/media\/351868\/sweet.png",
+                    "Url": "\/coins\/sweet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 187431,
+                    "Name": "Scorecoin",
+                    "FullName": "Scorecoin (SCORE)",
+                    "ImageUrl": "\/media\/1383813\/score.png",
+                    "Url": "\/coins\/score\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5328,
+                    "Name": "Sativa Coin",
+                    "FullName": "Sativa Coin (STV)",
+                    "ImageUrl": "\/media\/20444\/stv.png",
+                    "Url": "\/coins\/stv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 26113,
+                    "Name": "Cryptodex",
+                    "FullName": "Cryptodex (CDX)",
+                    "ImageUrl": "\/media\/351404\/cdx.png",
+                    "Url": "\/coins\/cdx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7626,
+                    "Name": "Bitz Coin",
+                    "FullName": "Bitz Coin (BITZ)",
+                    "ImageUrl": "\/media\/20654\/bitz.png",
+                    "Url": "\/coins\/bitz\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 486639,
+                    "Name": "giordanodesign",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/486639\/99506846-defb-427e-967f-d39a077c97c5.jpg",
+                    "Url": "\/profile\/giordanodesign\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 539451,
+                    "Name": "danngoff",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/539451\/374931de-9a4c-47e9-8873-b5851a216167.jpg",
+                    "Url": "\/profile\/danngoff\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 537669,
+                    "Name": "ronantes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/537669\/e7cea82e-61ff-4cd6-aa29-00cdce9f5a52.jpg",
+                    "Url": "\/profile\/ronantes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 399735,
+                    "Name": "zwljt855",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/399735\/2c9d5c29-0202-4c4b-9889-90694445cfe4.jpg",
+                    "Url": "\/profile\/zwljt855\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 285645,
+                    "Name": "tamerabdalftah",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/285645\/a1eccdcc-8cbd-46c0-8496-47aad98e7d33.jpg",
+                    "Url": "\/profile\/tamerabdalftah\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Posts": "1",
+            "Points": 150,
+            "PageViewsSplit": {
+                "Overview": 836,
+                "Markets": 44,
+                "Analysis": 38,
+                "Charts": 43,
+                "Trades": 22,
+                "Orderbook": 0,
+                "Forum": 37,
+                "Influence": 26
+            },
+            "PageViews": 1046
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "DaxxCoin",
+            "likes": 5477,
+            "link": "https:\/\/www.facebook.com\/DaxxCoinOfficial\/",
+            "talking_about": "16",
+            "is_closed": "false",
+            "Points": 5477
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/daxxcoin\/daxxcore",
+                    "last_update": "1504258218",
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 2,
+                    "open_issues": "0",
+                    "size": "31258",
+                    "created_at": "1494397690",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "Go",
+                    "open_total_issues": "0",
+                    "last_push": "1499166717",
+                    "stars": 2
+                }
+            ],
+            "Points": 8
+        }
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ETBT",
+            "CoinName": "Ethereum Black",
+            "Type": "Webpagecoinp",
+            "Points": 9538
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 310589,
+                    "Name": "REX",
+                    "FullName": "REX (REX)",
+                    "ImageUrl": "\/media\/12318086\/rex.png",
+                    "Url": "\/coins\/rex\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6109,
+                    "Name": "MarsCoin ",
+                    "FullName": "MarsCoin  (MARS)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/mars\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8761,
+                    "Name": "Sprouts",
+                    "FullName": "Sprouts (SPRTS)",
+                    "ImageUrl": "\/media\/20692\/sprts.png",
+                    "Url": "\/coins\/sprts\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8762,
+                    "Name": "BitZeny",
+                    "FullName": "BitZeny (ZNY)",
+                    "ImageUrl": "\/media\/20691\/zny.png",
+                    "Url": "\/coins\/zny\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 586409,
+                    "Name": "PopularCoin",
+                    "FullName": "PopularCoin (POP)",
+                    "ImageUrl": "\/media\/20780610\/pop.png",
+                    "Url": "\/coins\/pop\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30361,
+                    "Name": "ForexCoin",
+                    "FullName": "ForexCoin (FOREX)",
+                    "ImageUrl": "\/media\/351748\/forex.png",
+                    "Url": "\/coins\/forex\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 57471,
+                    "Name": "RenosCoin",
+                    "FullName": "RenosCoin (RNS)",
+                    "ImageUrl": "\/media\/1382859\/rns.png",
+                    "Url": "\/coins\/rns\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 198251,
+                    "Name": "Bits Digit",
+                    "FullName": "Bits Digit (BITSD)",
+                    "ImageUrl": "\/media\/1383878\/bitsd.png",
+                    "Url": "\/coins\/bitsd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5342,
+                    "Name": "SwarmCoin",
+                    "FullName": "SwarmCoin (SWARM)",
+                    "ImageUrl": "\/media\/20445\/swarm.png",
+                    "Url": "\/coins\/swarm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42687,
+                    "Name": "KushCoin",
+                    "FullName": "KushCoin (KUSH)",
+                    "ImageUrl": "\/media\/1382401\/kush.png",
+                    "Url": "\/coins\/kush\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 655269,
+                    "Name": "thuhoang2002",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/655269\/38976b01-dd0d-4947-a398-77a0b68389dc.jpg",
+                    "Url": "\/profile\/thuhoang2002\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 588902,
+                    "Name": "jessman6132",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/588902\/a5acb9f3-3a74-4fb1-96ba-3dd57131a319.jpg",
+                    "Url": "\/profile\/jessman6132\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 110452,
+                    "Name": "hannahhuerter129",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/110452\/0e353401-a782-439c-827a-3471bbae82b0.jpg",
+                    "Url": "\/profile\/hannahhuerter129\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 361339,
+                    "Name": "Bytecoinrocket",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/361339\/3f161365-bfeb-40dd-b324-fc8bdc090697.jpg",
+                    "Url": "\/profile\/Bytecoinrocket\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 150,
+            "Posts": "2",
+            "Followers": 4,
+            "PageViewsSplit": {
+                "Overview": 252,
+                "Markets": 21,
+                "Analysis": 17,
+                "Charts": 9,
+                "Trades": 8,
+                "Orderbook": 0,
+                "Forum": 26,
+                "Influence": 4
+            },
+            "PageViews": 337
+        },
+        "Twitter": {
+            "favourites": "5",
+            "statuses": 45,
+            "following": "0",
+            "account_creation": "1510269900",
+            "followers": 5765,
+            "name": "Ethereum Black",
+            "link": "https:\/\/twitter.com\/EthereumBlack",
+            "lists": 12,
+            "Points": 5825
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "63",
+            "name": "Ethereum Black",
+            "likes": 3563,
+            "link": "https:\/\/www.facebook.com\/ethereumblack\/",
+            "Points": 3563
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "TKT",
+            "CoinName": "Crypto Tickets",
+            "Type": "Webpagecoinp",
+            "Points": 7552
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 409492,
+                    "Name": "Bitcoin Diamond",
+                    "FullName": "Bitcoin Diamond (BCD)",
+                    "ImageUrl": "\/media\/16404872\/bcd.png",
+                    "Url": "\/coins\/bcd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 350476,
+                    "Name": "Vezt",
+                    "FullName": "Vezt (VZT)",
+                    "ImageUrl": "\/media\/12318414\/vzt.png",
+                    "Url": "\/coins\/vzt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 184187,
+                    "Name": "IMMLA",
+                    "FullName": "IMMLA (IML)",
+                    "ImageUrl": "\/media\/1383783\/iml.png",
+                    "Url": "\/coins\/iml\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 589881,
+                    "Name": "MicroMoney",
+                    "FullName": "MicroMoney (AMM)",
+                    "ImageUrl": "\/media\/20780616\/amm.png",
+                    "Url": "\/coins\/amm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 215602,
+                    "Name": "Tomahawkcoin",
+                    "FullName": "Tomahawkcoin (TOM)",
+                    "ImageUrl": "\/media\/1383992\/tom.png",
+                    "Url": "\/coins\/tom\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 571314,
+                    "Name": "aelf",
+                    "FullName": "aelf (ELF)",
+                    "ImageUrl": "\/media\/20780600\/elf.png",
+                    "Url": "\/coins\/elf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 616471,
+                    "Name": "Handelion",
+                    "FullName": "Handelion (HION)",
+                    "ImageUrl": "\/media\/20780646\/hion.png",
+                    "Url": "\/coins\/hion\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 196986,
+                    "Name": "CryptoABS",
+                    "FullName": "CryptoABS (CABS)",
+                    "ImageUrl": "\/media\/1383869\/cabs.png",
+                    "Url": "\/coins\/cabs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22407,
+                    "Name": "ChessCoin",
+                    "FullName": "ChessCoin (CHESS)",
+                    "ImageUrl": "\/media\/351094\/chess.jpg",
+                    "Url": "\/coins\/chess\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 344337,
+                    "Name": "e-Chat",
+                    "FullName": "e-Chat (ECHT)",
+                    "ImageUrl": "\/media\/12318352\/echt.png",
+                    "Url": "\/coins\/echt\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 672798,
+                    "Name": "v.gurtsev",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/672798\/c0b1a28c-63a9-49bc-8477-1571fac1f335.jpg",
+                    "Url": "\/profile\/v.gurtsev\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 602115,
+                    "Name": "amehaff",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/602115\/cea015fe-8874-4095-ae81-ebd4385b47e5.jpg",
+                    "Url": "\/profile\/amehaff\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 33819,
+                    "Name": "msviktorianna",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/33819\/543c4791-1622-4144-89af-dd37b2f7585e.jpg",
+                    "Url": "\/profile\/msviktorianna\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 196573,
+                    "Name": "salin.gauchan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/196573\/c0b9ef1f-41f7-4b31-9c09-14ff7f1d5bbf.jpg",
+                    "Url": "\/profile\/salin.gauchan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 201322,
+                    "Name": "pliko375",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/201322\/2031599b-488f-4a82-a643-b8c5fd2886cf.png",
+                    "Url": "\/profile\/pliko375\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 324983,
+                    "Name": "harkinsmalcolm",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/324983\/ebe80d97-362d-4f74-bbd0-16cb72025d30.jpg",
+                    "Url": "\/profile\/harkinsmalcolm\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 319716,
+                    "Name": "willous",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/319716\/0924b9e7-045c-4f32-b55e-4ffc87bb0ff3.jpg",
+                    "Url": "\/profile\/willous\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 365518,
+                    "Name": "nastya.followme",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/365518\/e82aa66c-5f8f-4894-af58-5fd8d61b5495.jpg",
+                    "Url": "\/profile\/nastya.followme\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 473237,
+                    "Name": "aakwaqf",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/473237\/e9a61c37-48c0-435b-8389-d1c583fd4878.jpg",
+                    "Url": "\/profile\/aakwaqf\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 329503,
+                    "Name": "gerwin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/329503\/c2481c5b-320f-48af-b572-6a542e9ee6a5.jpg",
+                    "Url": "\/profile\/gerwin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 436649,
+                    "Name": "safin.2011",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/436649\/7848e8bf-528c-4922-b9de-68b3c833e3e0.jpg",
+                    "Url": "\/profile\/safin.2011\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1195,
+            "Posts": "8",
+            "Comments": "2",
+            "Followers": 39,
+            "PageViewsSplit": {
+                "Overview": 2489,
+                "Markets": 64,
+                "Analysis": 39,
+                "Charts": 15,
+                "Trades": 26,
+                "Orderbook": 2,
+                "Forum": 55,
+                "Influence": 36
+            },
+            "PageViews": 2726
+        },
+        "Twitter": {
+            "favourites": "353",
+            "statuses": 78,
+            "following": "871",
+            "account_creation": "1502787225",
+            "followers": 6197,
+            "name": "crypto.tickets",
+            "link": "https:\/\/twitter.com\/CryptoTickets",
+            "lists": 32,
+            "Points": 6357
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/125364428091022\/",
+            "active_users": 0,
+            "community_creation": "undefined",
+            "subscribers": 0,
+            "name": "undefined",
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

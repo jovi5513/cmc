@@ -1,0 +1,175 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "OMGC",
+            "CoinName": "OmiseGO Classic",
+            "Type": "Webpagecoinp",
+            "Points": 2844
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 6393,
+                    "Name": "Global",
+                    "FullName": "Global (GLOBE)",
+                    "ImageUrl": "\/media\/20564\/globe.png",
+                    "Url": "\/coins\/globe\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 339581,
+                    "Name": "eLTC",
+                    "FullName": "eLTC (ELTC2)",
+                    "ImageUrl": "\/media\/12318300\/eltc2.png",
+                    "Url": "\/coins\/eltc2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 348289,
+                    "Name": "NamoCoin",
+                    "FullName": "NamoCoin (NAMO)",
+                    "ImageUrl": "\/media\/12318384\/namo.png",
+                    "Url": "\/coins\/namo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 384953,
+                    "Name": "Droxne",
+                    "FullName": "Droxne (DRXNE)",
+                    "ImageUrl": "\/media\/14913608\/drxne.png",
+                    "Url": "\/coins\/drxne\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33522,
+                    "Name": "BitLuckCoin",
+                    "FullName": "BitLuckCoin (BTLC)",
+                    "ImageUrl": "\/media\/352054\/btlc.png",
+                    "Url": "\/coins\/btlc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4557,
+                    "Name": "LycanCoin",
+                    "FullName": "LycanCoin (LYC)",
+                    "ImageUrl": "\/media\/19785\/lyc.png",
+                    "Url": "\/coins\/lyc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 40847,
+                    "Name": "YAYcoin",
+                    "FullName": "YAYcoin (YAY)",
+                    "ImageUrl": "\/media\/1382253\/yay.png",
+                    "Url": "\/coins\/yay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7635,
+                    "Name": "Bob Coin",
+                    "FullName": "Bob Coin (BOB)",
+                    "ImageUrl": "\/media\/20207\/bob.png",
+                    "Url": "\/coins\/bob\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30379,
+                    "Name": "KRCoin",
+                    "FullName": "KRCoin (KRC)",
+                    "ImageUrl": "\/media\/351755\/krc.png",
+                    "Url": "\/coins\/krc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30123,
+                    "Name": "CoffeeCoin",
+                    "FullName": "CoffeeCoin (CFC)",
+                    "ImageUrl": "\/media\/351732\/cfc.png",
+                    "Url": "\/coins\/cfc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "Points": 25,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 183,
+                "Markets": 5,
+                "Analysis": 5,
+                "Charts": 6,
+                "Trades": 2,
+                "Orderbook": 0,
+                "Forum": 8,
+                "Influence": 3
+            },
+            "PageViews": 212
+        },
+        "Twitter": {
+            "following": "920",
+            "account_creation": "1511416420",
+            "name": "OmiseGO Classic",
+            "lists": 3,
+            "statuses": 27,
+            "favourites": "5",
+            "followers": 1654,
+            "link": "https:\/\/twitter.com\/OmiseGO_Classic",
+            "Points": 1669
+        },
+        "Reddit": {
+            "posts_per_hour": "0.01",
+            "comments_per_hour": "0.03",
+            "posts_per_day": "0.29",
+            "name": "OmiseGoClassic",
+            "comments_per_day": 0.75,
+            "link": "https:\/\/www.reddit.com\/r\/OmiseGoClassic\/",
+            "active_users": 2,
+            "community_creation": "1512955271",
+            "subscribers": 14,
+            "Points": 21
+        },
+        "Facebook": {
+            "likes": 1127,
+            "link": "https:\/\/www.facebook.com\/OMGClassic1\/",
+            "is_closed": "false",
+            "talking_about": "9",
+            "name": "OmiseGO Classic",
+            "Points": 1127
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1512316997",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "0",
+                    "size": "4487",
+                    "stars": 0,
+                    "last_update": "1512317025",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/omisegoc\/Omgc-Repo",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1512317021",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 0,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 2
+        }
+    }
+}

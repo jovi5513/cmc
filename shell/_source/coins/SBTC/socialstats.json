@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SBTC",
+            "CoinName": "Super Bitcoin",
+            "Type": "Webpagecoinp",
+            "Points": 9501
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4624,
+                    "Name": "TitCoin",
+                    "FullName": "TitCoin (TIT)",
+                    "ImageUrl": "\/media\/20069\/tit.png",
+                    "Url": "\/coins\/tit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30020,
+                    "Name": "Recovery Right Tokens",
+                    "FullName": "Recovery Right Tokens (RRT)",
+                    "ImageUrl": "\/media\/19554\/bitfinex.png",
+                    "Url": "\/coins\/rrt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5371,
+                    "Name": "HyperCoin",
+                    "FullName": "HyperCoin (HYPER)",
+                    "ImageUrl": "\/media\/19744\/hyper.png",
+                    "Url": "\/coins\/hyper\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 362627,
+                    "Name": "Avesta",
+                    "FullName": "Avesta (AVE)",
+                    "ImageUrl": "\/media\/14761937\/ave.png",
+                    "Url": "\/coins\/ave\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20591,
+                    "Name": "Ionomy",
+                    "FullName": "Ionomy (ION)",
+                    "ImageUrl": "\/media\/350933\/ion.jpg",
+                    "Url": "\/coins\/ion\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 249821,
+                    "Name": "AdCoin",
+                    "FullName": "AdCoin (ACC)",
+                    "ImageUrl": "\/media\/9350776\/acc.jpg",
+                    "Url": "\/coins\/acc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 202706,
+                    "Name": "Mobius",
+                    "FullName": "Mobius (MOBI)",
+                    "ImageUrl": "\/media\/1383921\/mobi.png",
+                    "Url": "\/coins\/mobi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5313,
+                    "Name": "FairCoin",
+                    "FullName": "FairCoin (FAIR)",
+                    "ImageUrl": "\/media\/20287\/fair.png",
+                    "Url": "\/coins\/fair\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 319130,
+                    "Name": "ClearPoll",
+                    "FullName": "ClearPoll (POLL)",
+                    "ImageUrl": "\/media\/12318144\/poll.png",
+                    "Url": "\/coins\/poll\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35124,
+                    "Name": "Tokes",
+                    "FullName": "Tokes (TKS)",
+                    "ImageUrl": "\/media\/352207\/tks.jpg",
+                    "Url": "\/coins\/tks\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 674962,
+                    "Name": "thomas_hart",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674962\/c833006c-2ac6-46ac-b2fb-0af14308a4ae.jpg",
+                    "Url": "\/profile\/thomas_hart\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 25348,
+                    "Name": "oreilly.jessica",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/25348\/200dca73-d6de-4890-897c-1f2fac511760.jpg",
+                    "Url": "\/profile\/oreilly.jessica\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 213077,
+                    "Name": "tobias.schwarze",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/213077\/db2b5fa0-854d-471f-9270-410249d9c84e.jpg",
+                    "Url": "\/profile\/tobias.schwarze\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 437494,
+                    "Name": "pearcet",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/437494\/b18fdab1-cf48-49d3-87df-a3673548a6ff.jpg",
+                    "Url": "\/profile\/pearcet\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 495649,
+                    "Name": "B3EEFA45",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/495649\/ff9387d9-da57-48b9-ae47-598a3611ffee.jpg",
+                    "Url": "\/profile\/B3EEFA45\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 341208,
+                    "Name": "plopsadude",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/341208\/aeda06d5-3a42-45ff-b4d4-148897eaff68.jpg",
+                    "Url": "\/profile\/plopsadude\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 212265,
+                    "Name": "camwilmot",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/212265\/d4f40efc-2218-4f9f-bd47-840cd8c5a7e9.jpg",
+                    "Url": "\/profile\/camwilmot\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 181190,
+                    "Name": "jy_burnham",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/181190\/856c059a-1978-4411-ae56-3787a44ed112.jpg",
+                    "Url": "\/profile\/jy_burnham\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 444819,
+                    "Name": "egiriyadi2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/444819\/5bd8bf6a-d6fb-4973-b3fa-0d3847d2dcf3.jpg",
+                    "Url": "\/profile\/egiriyadi2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 15802,
+                    "Name": "wishxy",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/15802\/5e412193-7dea-40bf-9889-baf818700d03.jpg",
+                    "Url": "\/profile\/wishxy\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 106219,
+                    "Name": "joinkiran43",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/106219\/66c26711-31a6-4c04-a845-fa66cdf0cd6d.jpg",
+                    "Url": "\/profile\/joinkiran43\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1590,
+            "Followers": 55,
+            "Posts": "5",
+            "Comments": "9",
+            "PageViewsSplit": {
+                "Overview": 5237,
+                "Markets": 757,
+                "Analysis": 133,
+                "Charts": 273,
+                "Trades": 206,
+                "Orderbook": 0,
+                "Forum": 178,
+                "Influence": 46
+            },
+            "PageViews": 6830
+        },
+        "Twitter": {
+            "following": "16",
+            "account_creation": "1512032831",
+            "name": "SuperBTC",
+            "lists": 35,
+            "statuses": 303,
+            "favourites": "241",
+            "followers": 7070,
+            "link": "https:\/\/twitter.com\/SuperBTC2",
+            "Points": 7245
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 478,
+            "link": "https:\/\/www.facebook.com\/SBTC-1494328043999669\/",
+            "is_closed": "false",
+            "talking_about": "9",
+            "name": "SBTC",
+            "Points": 478
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1510833361",
+                    "open_total_issues": "16",
+                    "parent": {
+                        "Name": "bitcoin",
+                        "Url": "https:\/\/github.com\/bitcoin\/bitcoin",
+                        "InternalId": -1
+                    },
+                    "size": "50704",
+                    "closed_total_issues": "24",
+                    "stars": 76,
+                    "last_update": "1515951802",
+                    "forks": 17,
+                    "url": "https:\/\/github.com\/superbitcoin\/SuperBitcoin",
+                    "closed_issues": "6",
+                    "closed_pull_issues": "18",
+                    "fork": "true",
+                    "last_push": "1515747233",
+                    "source": {
+                        "Name": "bitcoin",
+                        "Url": "https:\/\/github.com\/bitcoin\/bitcoin",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 26,
+                    "open_issues": "16"
+                }
+            ],
+            "Points": 188
+        }
+    }
+}

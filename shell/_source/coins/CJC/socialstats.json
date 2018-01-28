@@ -1,0 +1,189 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CJC",
+            "CoinName": "CryptoJournal",
+            "Type": "Webpagecoinp",
+            "Points": 128
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 35226,
+                    "Name": "ShortyCoin",
+                    "FullName": "ShortyCoin (SHORTY)",
+                    "ImageUrl": "\/media\/352222\/shorty.png",
+                    "Url": "\/coins\/shorty\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43257,
+                    "Name": "SmurfCoin",
+                    "FullName": "SmurfCoin (SMF)",
+                    "ImageUrl": "\/media\/1382468\/xmf.png",
+                    "Url": "\/coins\/smf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44749,
+                    "Name": "ErrorCoin",
+                    "FullName": "ErrorCoin (ERR)",
+                    "ImageUrl": "\/media\/1382624\/err.png",
+                    "Url": "\/coins\/err\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7624,
+                    "Name": "SpinCoin",
+                    "FullName": "SpinCoin (SPC)",
+                    "ImageUrl": "\/media\/20655\/spc.png",
+                    "Url": "\/coins\/spc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35947,
+                    "Name": "NewInvestCoin",
+                    "FullName": "NewInvestCoin (NIC)",
+                    "ImageUrl": "\/media\/352309\/nic.png",
+                    "Url": "\/coins\/nic\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30179,
+                    "Name": "CrabCoin",
+                    "FullName": "CrabCoin (CRAB)",
+                    "ImageUrl": "\/media\/351739\/crab.png",
+                    "Url": "\/coins\/crab\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20679,
+                    "Name": "InvisibleCoin",
+                    "FullName": "InvisibleCoin (IVZ)",
+                    "ImageUrl": "\/media\/350944\/ivz.png",
+                    "Url": "\/coins\/ivz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35813,
+                    "Name": "CryptoSpots",
+                    "FullName": "CryptoSpots (CS)",
+                    "ImageUrl": "\/media\/352292\/cs.png",
+                    "Url": "\/coins\/cs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20826,
+                    "Name": "DragonSphere",
+                    "FullName": "DragonSphere (XDB)",
+                    "ImageUrl": "\/media\/350977\/xdb.png",
+                    "Url": "\/coins\/xdb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38277,
+                    "Name": "GAKHcoin",
+                    "FullName": "GAKHcoin (GAKH)",
+                    "ImageUrl": "\/media\/1382090\/gakh.png",
+                    "Url": "\/coins\/gakh\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 185729,
+                    "Name": "bobfash4real",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/185729\/7cd997aa-077a-4445-8fcf-9f7fc0b81368.jpg",
+                    "Url": "\/profile\/bobfash4real\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 47294,
+                    "Name": "prawatd",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/47294\/b83e05d5-a4c1-4b79-9461-d2dc40b37435.jpg",
+                    "Url": "\/profile\/prawatd\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 170067,
+                    "Name": "logikgp",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/170067\/b06a279d-74ac-4384-b793-ebcaa03de191.jpg",
+                    "Url": "\/profile\/logikgp\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "PageViewsSplit": {
+                "Overview": 271,
+                "Markets": 25,
+                "Analysis": 15,
+                "Charts": 26,
+                "Trades": 8,
+                "Orderbook": 0,
+                "Forum": 6,
+                "Influence": 9
+            },
+            "PageViews": 360
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 1,
+                    "language": "C++",
+                    "forks": 1,
+                    "open_total_issues": "0",
+                    "subscribers": 0,
+                    "size": "3209",
+                    "url": "https:\/\/github.com\/cjcoingit\/cjcoingitrepo",
+                    "last_update": "1498764288",
+                    "last_push": "1491848921",
+                    "created_at": "1491252332",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

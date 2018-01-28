@@ -1,0 +1,160 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SPC",
+            "CoinName": "SpinCoin",
+            "Type": "Webpagecoinp",
+            "Points": 125
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 667444,
+                    "Name": "TheGCCcoin",
+                    "FullName": "TheGCCcoin (GCC*)",
+                    "ImageUrl": "\/media\/20780778\/gcc.png",
+                    "Url": "\/coins\/gccstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24405,
+                    "Name": "BitMoon",
+                    "FullName": "BitMoon (BM)",
+                    "ImageUrl": "\/media\/351311\/bm.png",
+                    "Url": "\/coins\/bm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35226,
+                    "Name": "ShortyCoin",
+                    "FullName": "ShortyCoin (SHORTY)",
+                    "ImageUrl": "\/media\/352222\/shorty.png",
+                    "Url": "\/coins\/shorty\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43257,
+                    "Name": "SmurfCoin",
+                    "FullName": "SmurfCoin (SMF)",
+                    "ImageUrl": "\/media\/1382468\/xmf.png",
+                    "Url": "\/coins\/smf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44749,
+                    "Name": "ErrorCoin",
+                    "FullName": "ErrorCoin (ERR)",
+                    "ImageUrl": "\/media\/1382624\/err.png",
+                    "Url": "\/coins\/err\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35947,
+                    "Name": "NewInvestCoin",
+                    "FullName": "NewInvestCoin (NIC)",
+                    "ImageUrl": "\/media\/352309\/nic.png",
+                    "Url": "\/coins\/nic\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 58125,
+                    "Name": "CryptoJournal",
+                    "FullName": "CryptoJournal (CJC)",
+                    "ImageUrl": "\/media\/1382887\/cjc.png",
+                    "Url": "\/coins\/cjc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30179,
+                    "Name": "CrabCoin",
+                    "FullName": "CrabCoin (CRAB)",
+                    "ImageUrl": "\/media\/351739\/crab.png",
+                    "Url": "\/coins\/crab\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20679,
+                    "Name": "InvisibleCoin",
+                    "FullName": "InvisibleCoin (IVZ)",
+                    "ImageUrl": "\/media\/350944\/ivz.png",
+                    "Url": "\/coins\/ivz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35813,
+                    "Name": "CryptoSpots",
+                    "FullName": "CryptoSpots (CS)",
+                    "ImageUrl": "\/media\/352292\/cs.png",
+                    "Url": "\/coins\/cs\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 225160,
+                    "Name": "suslov-1974",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/225160\/cf379db9-7218-460c-9151-dc34cfac22b4.jpg",
+                    "Url": "\/profile\/suslov-1974\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 289486,
+                    "Name": "warroyo1982",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/289486\/48158198-29cd-41f2-a464-c61f1433c9e5.jpg",
+                    "Url": "\/profile\/warroyo1982\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 28639,
+                    "Name": "vesko.trader",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/28639\/f771a9fe-4576-4457-8604-7d85923fa032.jpg",
+                    "Url": "\/profile\/vesko.trader\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "PageViewsSplit": {
+                "Overview": 437,
+                "Markets": 70,
+                "Analysis": 71,
+                "Charts": 62,
+                "Trades": 28,
+                "Orderbook": 0,
+                "Forum": 36,
+                "Influence": 38
+            },
+            "PageViews": 742
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

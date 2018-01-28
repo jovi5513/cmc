@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BCN",
+            "CoinName": "ByteCoin",
+            "Type": "Webpagecoinp",
+            "Points": 211608
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4430,
+                    "Name": "DigiByte",
+                    "FullName": "DigiByte (DGB)",
+                    "ImageUrl": "\/media\/12318264\/7638-nty_400x400.jpg",
+                    "Url": "\/coins\/dgb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 310829,
+                    "Name": "Tronix",
+                    "FullName": "Tronix (TRX)",
+                    "ImageUrl": "\/media\/12318089\/trx.png",
+                    "Url": "\/coins\/trx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5324,
+                    "Name": "Ethereum Classic",
+                    "FullName": "Ethereum Classic (ETC)",
+                    "ImageUrl": "\/media\/20275\/etc2.png",
+                    "Url": "\/coins\/etc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 187440,
+                    "Name": "OmiseGo",
+                    "FullName": "OmiseGo (OMG)",
+                    "ImageUrl": "\/media\/1383814\/omisego.png",
+                    "Url": "\/coins\/omg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 321992,
+                    "Name": "Cardano",
+                    "FullName": "Cardano (ADA)",
+                    "ImageUrl": "\/media\/12318177\/ada.png",
+                    "Url": "\/coins\/ada\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 13072,
+                    "Name": "Siacoin",
+                    "FullName": "Siacoin (SC)",
+                    "ImageUrl": "\/media\/20726\/siacon-logo.png",
+                    "Url": "\/coins\/sc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 1183,
+                    "Name": "Nxt",
+                    "FullName": "Nxt (NXT)",
+                    "ImageUrl": "\/media\/20627\/nxt.png",
+                    "Url": "\/coins\/nxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 19745,
+                    "Name": "Lisk",
+                    "FullName": "Lisk (LSK)",
+                    "ImageUrl": "\/media\/352246\/lsk.png",
+                    "Url": "\/coins\/lsk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 213532,
+                    "Name": "Gas",
+                    "FullName": "Gas (GAS)",
+                    "ImageUrl": "\/media\/1383858\/neo.jpg",
+                    "Url": "\/coins\/gas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33022,
+                    "Name": "Golem Network Token",
+                    "FullName": "Golem Network Token (GNT)",
+                    "ImageUrl": "\/media\/351995\/golem_logo.png",
+                    "Url": "\/coins\/gnt\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 642019,
+                    "Name": "abheeshekdubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/642019\/71d5939b-7424-482b-ac6d-1fa2ace4badd.jpg",
+                    "Url": "\/profile\/abheeshekdubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677527,
+                    "Name": "jplo-96",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677527\/d508b170-ecfa-4403-91bb-857e5ad14535.jpg",
+                    "Url": "\/profile\/jplo-96\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 642330,
+                    "Name": "dobrev78",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/642330\/0e7886a3-4726-4b32-b6b8-0ac40fa9a932.jpg",
+                    "Url": "\/profile\/dobrev78\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 668352,
+                    "Name": "carlosagm333",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/668352\/c5d77fcc-8922-4aa8-8ea8-0910a925bc80.jpg",
+                    "Url": "\/profile\/carlosagm333\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677116,
+                    "Name": "mianderson2469",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677116\/9d65844a-4fee-4446-ace8-e3f99455b77e.jpg",
+                    "Url": "\/profile\/mianderson2469\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 542818,
+                    "Name": "khawajasartaj",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/542818\/d0415b03-8968-4e65-9c63-a1eb2cca633e.jpg",
+                    "Url": "\/profile\/khawajasartaj\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 130157,
+                    "Name": "TEAMTRAE",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/130157\/2fe02c33-2ca5-409c-8ff8-1e244af83667.jpg",
+                    "Url": "\/profile\/TEAMTRAE\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 653125,
+                    "Name": "yann.selva.sys",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/653125\/165e7ce4-1020-4f49-8c1a-47b17fd62e86.jpg",
+                    "Url": "\/profile\/yann.selva.sys\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676118,
+                    "Name": "dl.play",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676118\/2917cdb0-d4b4-4ea1-a005-8f7af360b4cf.jpg",
+                    "Url": "\/profile\/dl.play\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 429733,
+                    "Name": "fibl3r",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/429733\/2f13ef45-327c-4e4b-be37-f3845b54afc4.jpg",
+                    "Url": "\/profile\/fibl3r\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676642,
+                    "Name": "medimnos",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676642\/0632d97a-2052-4907-8db9-e08e6477ff4f.jpg",
+                    "Url": "\/profile\/medimnos\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3268,
+            "Points": 175595,
+            "Posts": "1937",
+            "Comments": "4547",
+            "PageViewsSplit": {
+                "Overview": 296716,
+                "Markets": 19095,
+                "Analysis": 10717,
+                "Charts": 27046,
+                "Trades": 15007,
+                "Orderbook": 1425,
+                "Forum": 160689,
+                "Influence": 2959
+            },
+            "PageViews": 533654
+        },
+        "Twitter": {
+            "followers": 7978,
+            "following": "347",
+            "lists": 157,
+            "favourites": "105",
+            "statuses": 401,
+            "account_creation": "1427464226",
+            "name": "Bytecoin Team",
+            "link": "https:\/\/twitter.com\/bytecoin_dev",
+            "Points": 8763
+        },
+        "Reddit": {
+            "subscribers": 8778,
+            "active_users": 2798,
+            "community_creation": "1400579312",
+            "posts_per_hour": "0.83",
+            "posts_per_day": "19.96",
+            "comments_per_hour": "7.16",
+            "comments_per_day": 171.89,
+            "link": "https:\/\/www.reddit.com\/r\/BytecoinBCN\/",
+            "name": "BytecoinBCN",
+            "Points": 17515
+        },
+        "Facebook": {
+            "likes": 1218,
+            "is_closed": "false",
+            "talking_about": "0",
+            "name": "Bytecoin",
+            "link": "https:\/\/www.facebook.com\/bytecoin.cryptocoin\/",
+            "Points": 1218
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 332,
+                    "language": "C++",
+                    "forks": 3889,
+                    "open_total_issues": "138",
+                    "subscribers": 118,
+                    "size": "20271",
+                    "url": "https:\/\/github.com\/amjuarez\/bytecoin",
+                    "last_update": "1515931038",
+                    "last_push": "1515188511",
+                    "created_at": "1394362056",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "14",
+                    "closed_pull_issues": "17",
+                    "closed_total_issues": "66",
+                    "open_issues": "124",
+                    "closed_issues": "49"
+                }
+            ],
+            "Points": 8464
+        }
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SMSR",
+            "CoinName": "Samsara Coin",
+            "Type": "Webpagecoinp",
+            "Points": 166
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28772,
+                    "Name": "SteamPunk",
+                    "FullName": "SteamPunk (PNK)",
+                    "ImageUrl": "\/media\/351557\/pnk.png",
+                    "Url": "\/coins\/pnk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29193,
+                    "Name": "PantherCoin",
+                    "FullName": "PantherCoin (PINKX)",
+                    "ImageUrl": "\/media\/351624\/pinkx.png",
+                    "Url": "\/coins\/pinkx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44799,
+                    "Name": "NukeCoin",
+                    "FullName": "NukeCoin (NUKE)",
+                    "ImageUrl": "\/media\/1382626\/nuke.png",
+                    "Url": "\/coins\/nuke\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34754,
+                    "Name": "Metal Music v3",
+                    "FullName": "Metal Music v3 (MTLM3)",
+                    "ImageUrl": "\/media\/352183\/mtmc3.png",
+                    "Url": "\/coins\/mtlm3\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6411,
+                    "Name": "TamaGucci",
+                    "FullName": "TamaGucci (TAM)",
+                    "ImageUrl": "\/media\/20565\/tam.png",
+                    "Url": "\/coins\/tam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 409363,
+                    "Name": "Ludum token",
+                    "FullName": "Ludum token (LDM)",
+                    "ImageUrl": "\/media\/16404870\/ldm.png",
+                    "Url": "\/coins\/ldm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30016,
+                    "Name": "Vaporcoin",
+                    "FullName": "Vaporcoin (VAPOR)",
+                    "ImageUrl": "\/media\/351708\/vapor.png",
+                    "Url": "\/coins\/vapor\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29368,
+                    "Name": "EGOcoin",
+                    "FullName": "EGOcoin (EGO)",
+                    "ImageUrl": "\/media\/351632\/ego.png",
+                    "Url": "\/coins\/ego\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42850,
+                    "Name": "Opes",
+                    "FullName": "Opes (OPES)",
+                    "ImageUrl": "\/media\/1382434\/opes.png",
+                    "Url": "\/coins\/opes\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37204,
+                    "Name": "Impulse Coin",
+                    "FullName": "Impulse Coin (IMPS)",
+                    "ImageUrl": "\/media\/1381984\/imps.jpg",
+                    "Url": "\/coins\/imps\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 350016,
+                    "Name": "Biglug1977",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/350016\/fdbbbf68-a6ec-43c4-b555-6118a89e1fea.jpg",
+                    "Url": "\/profile\/Biglug1977\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 202781,
+                    "Name": "gcbpay",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/202781\/a93668ac-5491-4b67-87f7-e907514f6338.jpg",
+                    "Url": "\/profile\/gcbpay\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Posts": "2",
+            "Points": 150,
+            "Followers": 4,
+            "PageViewsSplit": {
+                "Overview": 403,
+                "Markets": 35,
+                "Analysis": 13,
+                "Charts": 18,
+                "Trades": 11,
+                "Orderbook": 0,
+                "Forum": 29,
+                "Influence": 9
+            },
+            "PageViews": 518
+        },
+        "Twitter": {
+            "followers": 13,
+            "following": "0",
+            "lists": 0,
+            "favourites": "0",
+            "statuses": 0,
+            "account_creation": "1434450631",
+            "name": "Samsara",
+            "link": "https:\/\/twitter.com\/SamsaraCoin",
+            "Points": 13
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "2892",
+                    "url": "https:\/\/github.com\/SamsaraDev\/Samsara",
+                    "last_update": "1434896997",
+                    "last_push": "1434896989",
+                    "created_at": "1434893087",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

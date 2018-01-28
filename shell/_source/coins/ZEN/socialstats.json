@@ -1,0 +1,241 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ZEN",
+            "CoinName": "ZenCash",
+            "Type": "Webpagecoinp",
+            "Points": 33396
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 22015,
+                    "Name": "Rise",
+                    "FullName": "Rise (RISE)",
+                    "ImageUrl": "\/media\/351059\/rise.png",
+                    "Url": "\/coins\/rise\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 418778,
+                    "Name": "EthLend",
+                    "FullName": "EthLend (LEND)",
+                    "ImageUrl": "\/media\/16746444\/lend.png",
+                    "Url": "\/coins\/lend\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 202849,
+                    "Name": "KickCoin",
+                    "FullName": "KickCoin (KICK)",
+                    "ImageUrl": "\/media\/1383929\/kick.png",
+                    "Url": "\/coins\/kick\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185689,
+                    "Name": "BitClave",
+                    "FullName": "BitClave (CAT*)",
+                    "ImageUrl": "\/media\/20780714\/cat.png",
+                    "Url": "\/coins\/cat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30022,
+                    "Name": "ZCoin",
+                    "FullName": "ZCoin (XZC)",
+                    "ImageUrl": "\/media\/1382780\/xzc1.png",
+                    "Url": "\/coins\/xzc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22327,
+                    "Name": "Bancor Network Token",
+                    "FullName": "Bancor Network Token (BNT)",
+                    "ImageUrl": "\/media\/1383549\/bnt.jpg",
+                    "Url": "\/coins\/bnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 208914,
+                    "Name": "Monetha",
+                    "FullName": "Monetha (MTH)",
+                    "ImageUrl": "\/media\/1383976\/mth.png",
+                    "Url": "\/coins\/mth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 299397,
+                    "Name": "Waltonchain",
+                    "FullName": "Waltonchain (WTC)",
+                    "ImageUrl": "\/media\/12317959\/wtc.png",
+                    "Url": "\/coins\/wtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 335059,
+                    "Name": "Request Network",
+                    "FullName": "Request Network (REQ)",
+                    "ImageUrl": "\/media\/12318260\/req.png",
+                    "Url": "\/coins\/req\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340940,
+                    "Name": "WaBi",
+                    "FullName": "WaBi (WABI)",
+                    "ImageUrl": "\/media\/12318331\/wabi.png",
+                    "Url": "\/coins\/wabi\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 394822,
+                    "Name": "jpsscoelho",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/394822\/61317ce9-5428-49b7-9296-2c5ff0823c8f.jpg",
+                    "Url": "\/profile\/jpsscoelho\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677684,
+                    "Name": "sithlordtrader",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677684\/161f1c2b-7418-4ec3-a6a6-435734263560.jpg",
+                    "Url": "\/profile\/sithlordtrader\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 81688,
+                    "Name": "sherie.ford",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/81688\/4e95ceec-0f56-4b36-bbbe-abdd561ba17e.png",
+                    "Url": "\/profile\/sherie.ford\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 120215,
+                    "Name": "siberia",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/120215\/9eaf12c3-2a37-4348-b945-7cef87f64726.jpg",
+                    "Url": "\/profile\/siberia\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 641403,
+                    "Name": "rockballz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/641403\/3aca8665-7588-47dc-bf4b-e83a954f8710.jpg",
+                    "Url": "\/profile\/rockballz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 57577,
+                    "Name": "philipsbad",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/57577\/7d3c46f2-0665-4faa-9d1b-4662169ca85a.jpg",
+                    "Url": "\/profile\/philipsbad\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 540568,
+                    "Name": "kylanschilling",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/540568\/b7d799e7-e534-402a-8772-2ac833132f18.jpg",
+                    "Url": "\/profile\/kylanschilling\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 295811,
+                    "Name": "vikrom.k",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/295811\/843e3456-2237-40c7-988d-d15aff371e32.jpg",
+                    "Url": "\/profile\/vikrom.k\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 637958,
+                    "Name": "brody.h",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/637958\/e4cf0f6d-ccc3-4f44-bafd-51e233ae49f6.jpg",
+                    "Url": "\/profile\/brody.h\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 657954,
+                    "Name": "resistedgamer",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/657954\/96670901-a4a5-4508-8125-a1918d3c9524.jpg",
+                    "Url": "\/profile\/resistedgamer\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 17430,
+            "Posts": "76",
+            "Comments": "83",
+            "Followers": 588,
+            "PageViewsSplit": {
+                "Overview": 49600,
+                "Markets": 2159,
+                "Analysis": 1552,
+                "Charts": 4128,
+                "Trades": 1485,
+                "Orderbook": 48,
+                "Forum": 3015,
+                "Influence": 397
+            },
+            "PageViews": 62384
+        },
+        "Twitter": {
+            "favourites": "935",
+            "statuses": 1131,
+            "following": "1136",
+            "account_creation": "1497197619",
+            "followers": 14653,
+            "name": "ZenCashOfficial",
+            "link": "https:\/\/twitter.com\/ZenCashOfficial",
+            "lists": 223,
+            "Points": 15769
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1488691738",
+                    "open_total_issues": "13",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1500404314",
+                    "closed_total_issues": "41",
+                    "size": "45489",
+                    "stars": 37,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "3",
+                    "last_update": "1515808945",
+                    "forks": 53,
+                    "url": "https:\/\/github.com\/zencashio\/zen",
+                    "closed_issues": "18",
+                    "language": "C++",
+                    "subscribers": 16,
+                    "open_issues": "10",
+                    "closed_pull_issues": "23"
+                }
+            ],
+            "Points": 191
+        }
+    }
+}

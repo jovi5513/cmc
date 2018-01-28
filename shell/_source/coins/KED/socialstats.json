@@ -1,0 +1,189 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "KED",
+            "CoinName": "Klingon Empire Darsek",
+            "Type": "Webpagecoinp",
+            "Points": 134
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28027,
+                    "Name": "Sense",
+                    "FullName": "Sense (SNS)",
+                    "ImageUrl": "\/media\/351494\/sns.png",
+                    "Url": "\/coins\/sns\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24887,
+                    "Name": "RustCoin",
+                    "FullName": "RustCoin (RUST)",
+                    "ImageUrl": "\/media\/351365\/rust.png",
+                    "Url": "\/coins\/rust\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 313988,
+                    "Name": "StockBet",
+                    "FullName": "StockBet (STOCKBET)",
+                    "ImageUrl": "\/media\/12318119\/stockbet.png",
+                    "Url": "\/coins\/stockbet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60618,
+                    "Name": "ArpaCoin",
+                    "FullName": "ArpaCoin (ARPA)",
+                    "ImageUrl": "\/media\/1382966\/arpa.png",
+                    "Url": "\/coins\/arpa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35228,
+                    "Name": "Procom",
+                    "FullName": "Procom (PCM)",
+                    "ImageUrl": "\/media\/352223\/pcm.png",
+                    "Url": "\/coins\/pcm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44007,
+                    "Name": "Impeach",
+                    "FullName": "Impeach (IMPCH)",
+                    "ImageUrl": "\/media\/1382606\/impch.png",
+                    "Url": "\/coins\/impch\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21706,
+                    "Name": "Cryptokenz",
+                    "FullName": "Cryptokenz (CYT)",
+                    "ImageUrl": "\/media\/351024\/cyt.png",
+                    "Url": "\/coins\/cyt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28317,
+                    "Name": "TodayCoin",
+                    "FullName": "TodayCoin (TODAY)",
+                    "ImageUrl": "\/media\/351521\/today.png",
+                    "Url": "\/coins\/today\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 63312,
+                    "Name": "EmporiumCoin",
+                    "FullName": "EmporiumCoin (EMPC)",
+                    "ImageUrl": "\/media\/1383081\/empc.png",
+                    "Url": "\/coins\/empc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28330,
+                    "Name": "Gold Pressed Latinum",
+                    "FullName": "Gold Pressed Latinum (GPL)",
+                    "ImageUrl": "\/media\/351525\/gpl.png",
+                    "Url": "\/coins\/gpl\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 561469,
+                    "Name": "geekyitgirl",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/561469\/69f026ad-9f11-4db0-b750-8071b4528832.jpg",
+                    "Url": "\/profile\/geekyitgirl\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 316918,
+                    "Name": "ragwell",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/316918\/4e3c5f99-3a87-4292-a275-78fd492259f0.jpg",
+                    "Url": "\/profile\/ragwell\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 251867,
+                    "Name": "franckparra",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/251867\/7b543011-0676-4c63-9f0f-069f9f558b6b.png",
+                    "Url": "\/profile\/franckparra\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 204041,
+                    "Name": "cryptolee",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/204041\/bb05b1b0-8e15-42ab-90c4-171d6ddb2253.png",
+                    "Url": "\/profile\/cryptolee\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 63006,
+                    "Name": "rashidaharrisa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/63006\/883e1717-833f-4be7-b270-95df06bb9f12.jpg",
+                    "Url": "\/profile\/rashidaharrisa\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 125,
+            "Followers": 5,
+            "PageViewsSplit": {
+                "Overview": 318,
+                "Markets": 14,
+                "Analysis": 22,
+                "Charts": 26,
+                "Trades": 12,
+                "Orderbook": 1,
+                "Forum": 4,
+                "Influence": 9
+            },
+            "PageViews": 406
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1443198922",
+                    "open_total_issues": "0",
+                    "fork": "true",
+                    "parent": {
+                        "Name": "Darsek",
+                        "Url": "https:\/\/github.com\/scificryptocoin\/Darsek",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "0",
+                    "size": "21161",
+                    "last_push": "1505509433",
+                    "stars": 0,
+                    "source": {
+                        "Name": "Darsek",
+                        "Url": "https:\/\/github.com\/scificryptocoin\/Darsek",
+                        "InternalId": -1
+                    },
+                    "last_update": "1462748712",
+                    "open_pull_issues": "0",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/scificrypto\/Darsek",
+                    "closed_issues": "0",
+                    "open_issues": "0",
+                    "subscribers": 3,
+                    "language": "C++",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 9
+        }
+    }
+}

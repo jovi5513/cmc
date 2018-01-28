@@ -1,0 +1,190 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "AC3",
+            "CoinName": "AC3",
+            "Type": "Webpagecoinp",
+            "Points": 384
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28019,
+                    "Name": "bitCNY",
+                    "FullName": "bitCNY (BITCNY)",
+                    "ImageUrl": "\/media\/351490\/bitcny.png",
+                    "Url": "\/coins\/bitcny\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4334,
+                    "Name": "AXRON",
+                    "FullName": "AXRON (AXR)",
+                    "ImageUrl": "\/media\/20086\/axr.png",
+                    "Url": "\/coins\/axr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 380671,
+                    "Name": "WiserCoin",
+                    "FullName": "WiserCoin (WSC)",
+                    "ImageUrl": "\/media\/14913560\/wsc.png",
+                    "Url": "\/coins\/wsc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20580,
+                    "Name": "Phalanx",
+                    "FullName": "Phalanx (PXL)",
+                    "ImageUrl": "\/media\/350930\/pxl.png",
+                    "Url": "\/coins\/pxl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 213113,
+                    "Name": "Bitmxittz",
+                    "FullName": "Bitmxittz (BMXT)",
+                    "ImageUrl": "\/media\/1383984\/bmxt.png",
+                    "Url": "\/coins\/bmxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 638297,
+                    "Name": "QubitCoin",
+                    "FullName": "QubitCoin (Q2C)",
+                    "ImageUrl": "\/media\/19872\/q2c.jpg",
+                    "Url": "\/coins\/q2c\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45821,
+                    "Name": "EagleCoin",
+                    "FullName": "EagleCoin (EA)",
+                    "ImageUrl": "\/media\/1382685\/ea.png",
+                    "Url": "\/coins\/ea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21219,
+                    "Name": "Uther",
+                    "FullName": "Uther (UTH)",
+                    "ImageUrl": "\/media\/350998\/uth.png",
+                    "Url": "\/coins\/uth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5336,
+                    "Name": "GhostCoin",
+                    "FullName": "GhostCoin (GHC)",
+                    "ImageUrl": "\/media\/19721\/ghc.png",
+                    "Url": "\/coins\/ghc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28885,
+                    "Name": "Lathaan",
+                    "FullName": "Lathaan (LTH)",
+                    "ImageUrl": "\/media\/351565\/lth.png",
+                    "Url": "\/coins\/lth\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 585349,
+                    "Name": "hacene.benaidja",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/585349\/640fe264-e59d-4b75-956b-206bad154da2.jpg",
+                    "Url": "\/profile\/hacene.benaidja\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 554251,
+                    "Name": "richlighthouses",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/554251\/66c29197-a251-462b-80e1-c9ee702a447f.jpg",
+                    "Url": "\/profile\/richlighthouses\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Points": 50,
+            "PageViewsSplit": {
+                "Overview": 194,
+                "Markets": 4,
+                "Analysis": 25,
+                "Charts": 13,
+                "Trades": 3,
+                "Orderbook": 0,
+                "Forum": 15,
+                "Influence": 27
+            },
+            "PageViews": 281
+        },
+        "Twitter": {
+            "favourites": "1838",
+            "statuses": 34,
+            "following": "17",
+            "account_creation": "1412720496",
+            "name": "AC3",
+            "link": "https:\/\/twitter.com\/ac3_network",
+            "lists": 5,
+            "followers": 229,
+            "Points": 254
+        },
+        "Reddit": {
+            "comments_per_hour": "0.01",
+            "comments_per_day": 0.13,
+            "link": "https:\/\/www.reddit.com\/r\/ac3_\/",
+            "posts_per_day": "0.36",
+            "active_users": 0,
+            "subscribers": 7,
+            "posts_per_hour": "0.02",
+            "community_creation": "1510947923",
+            "name": "ac3_",
+            "Points": 7
+        },
+        "Facebook": {
+            "likes": 73,
+            "name": "AC3",
+            "link": "https:\/\/www.facebook.com\/AC3net\/",
+            "talking_about": "3",
+            "is_closed": "false",
+            "Points": 73
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/ac3world\/AC3",
+                    "last_update": "1512964154",
+                    "subscribers": 0,
+                    "size": "2797",
+                    "created_at": "1512964108",
+                    "open_pull_issues": "0",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "stars": 0,
+                    "forks": 0,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1512964151"
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

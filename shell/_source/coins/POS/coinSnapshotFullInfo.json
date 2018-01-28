@@ -1,0 +1,71 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "PoSToken (DATA) - Live streaming prices and market cap",
+            "PageDescription": "Live PoSToken prices from all markets and POS coin market Capitalization. Stay up to date with the latest PoSToken price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/14913455\/pos.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "370825",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "PoSToken (POS)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "POS",
+            "Url": "\/coins\/pos\/",
+            "BaseAngularUrl": "\/coins\/pos\/",
+            "Name": "PoSToken",
+            "ImageUrl": "\/media\/14913455\/pos.png",
+            "Description": "<p><a target=\"_blank\">PoSToken<\/a> is the world&#39;s first Proof-of-Stake smart contract token on Ethereum platform. It&#39;s based on the ERC20 Token Standard and implements all standard methods. Furthermore, the idea behind PoSToken is not only to issue a simple Ethereum Token with Proof-of-Stake mechanism but also to define a brand new Token Standard for Proof-of-Stake tokens.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "10000000",
+            "Algorithm": "",
+            "ProofType": "PoS",
+            "StartDate": "22\/08\/2017",
+            "Twitter": "@PoSToken",
+            "AffiliateUrl": "https:\/\/postoken.org\/",
+            "Website": "<a href='https:\/\/postoken.org\/' target='_blank'>PoSToken<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970778,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 1137516.4633974,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~POS~BTC",
+            "2~EtherDelta~POS~ETH",
+            "2~Novaexchange~POS~LTC",
+            "2~Novaexchange~POS~MOON",
+            "2~Novaexchange~POS~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~POS~BTC~4~7.7e-7~1510573210~67157.99429685~0.0517116556085745~1510573210002~0~0~186530.59969211~0.1436285617629247~7.7e-7~7.7e-7~7.7e-7~7.7e-7~7.7e-7~7.7e-7~Novaexchange~7ffe9",
+            "5~CCCAGG~POS~ETH~4~0.00139~1515976929~14.304~0.01988256~1515976929000~2247.1432077559566~3.1235288287777796~19236.565306731693~24.7807599964311~0.0014~0.0014~0.00139~0.00141~0.001585~0.000142~EtherDelta~7ffe9",
+            "5~CCCAGG~POS~LTC~4~0.00005~1506106609~11.17593871~0.0005587969355~1506106609000~0~0~0~0~0.00005~0.00005~0.00005~0.00005~0.00005~0.00005~Novaexchange~7ffe9",
+            "5~CCCAGG~POS~MOON~4~1~1509262022~0.3716538~0.3716538~1509262022000~0~0~0~0~1~1~1~1~1~1~Novaexchange~7ffe9",
+            "5~CCCAGG~POS~DOGE~4~3.00000001~1509774902~226.4524375~679.3573147645244~1509774902001~0~0~0~0~3~3.00000001~3~3.00000001~3.00000001~3.00000001~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "IND",
+            "CoinName": "Indorse",
+            "Type": "Webpagecoinp",
+            "Points": 15939
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 638634,
+                    "Name": "Bloom Token",
+                    "FullName": "Bloom Token (BLT)",
+                    "ImageUrl": "\/media\/20780668\/blt.png",
+                    "Url": "\/coins\/blt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 639943,
+                    "Name": "SportyFi",
+                    "FullName": "SportyFi (SPF)",
+                    "ImageUrl": "\/media\/20780669\/spf.png",
+                    "Url": "\/coins\/spf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 205980,
+                    "Name": "Qvolta",
+                    "FullName": "Qvolta (QVT)",
+                    "ImageUrl": "\/media\/1383954\/qvt.png",
+                    "Url": "\/coins\/qvt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 257772,
+                    "Name": "Privatix",
+                    "FullName": "Privatix (PRIX)",
+                    "ImageUrl": "\/media\/9350797\/prix.png",
+                    "Url": "\/coins\/prix\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3646,
+                    "Name": "PetroDollar",
+                    "FullName": "PetroDollar (XPD)",
+                    "ImageUrl": "\/media\/20162\/xpd.png",
+                    "Url": "\/coins\/xpd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7650,
+                    "Name": "Quazar Coin",
+                    "FullName": "Quazar Coin (QCN)",
+                    "ImageUrl": "\/media\/19877\/qcn.png",
+                    "Url": "\/coins\/qcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 346775,
+                    "Name": "Bonpay",
+                    "FullName": "Bonpay (BON*)",
+                    "ImageUrl": "\/media\/12318368\/bon.png",
+                    "Url": "\/coins\/bon\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20822,
+                    "Name": "Krypton",
+                    "FullName": "Krypton (KR)",
+                    "ImageUrl": "\/media\/350974\/kr.png",
+                    "Url": "\/coins\/kr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3649,
+                    "Name": "Spreadcoin",
+                    "FullName": "Spreadcoin (SPR)",
+                    "ImageUrl": "\/media\/20438\/spr.png",
+                    "Url": "\/coins\/spr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 199107,
+                    "Name": "Cosmos",
+                    "FullName": "Cosmos (ATOM*)",
+                    "ImageUrl": "\/media\/1383901\/cosmos.jpg",
+                    "Url": "\/coins\/atomstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 216304,
+                    "Name": "spesknight",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/216304\/143b1fab-b9b2-4be1-a82a-43c5c506d418.jpg",
+                    "Url": "\/profile\/spesknight\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 608838,
+                    "Name": "henx007",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/608838\/4f0a0e11-f853-4fd4-85ce-c0be41495909.jpg",
+                    "Url": "\/profile\/henx007\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 287942,
+                    "Name": "denisnicolescu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/287942\/84de94a0-d231-466c-9704-d89bcbc7db66.jpg",
+                    "Url": "\/profile\/denisnicolescu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 503278,
+                    "Name": "johndurkin79",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/503278\/8ffa5d67-a54f-4029-bbac-8b9b2ff31fc7.jpg",
+                    "Url": "\/profile\/johndurkin79\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 315817,
+                    "Name": "dealvestee",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/315817\/1a8dbf68-c4ae-4aec-8ddb-5e52f6a8ffb1.png",
+                    "Url": "\/profile\/dealvestee\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 367308,
+                    "Name": "marktuhill",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/367308\/858d14e2-cadb-44a8-a2fd-61ee72f4484e.jpg",
+                    "Url": "\/profile\/marktuhill\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 443213,
+                    "Name": "Alaskozetes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/443213\/0da6468f-13d2-4ebc-bbf2-b00c326f1c83.png",
+                    "Url": "\/profile\/Alaskozetes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 424495,
+                    "Name": "davidcgarvin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/424495\/c4ebd17d-821e-4a2d-a379-6514f13e0189.jpg",
+                    "Url": "\/profile\/davidcgarvin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 273656,
+                    "Name": "elegantblock",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/273656\/26c5253b-8ad5-4b53-8b49-7248d8113952.jpg",
+                    "Url": "\/profile\/elegantblock\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 371104,
+                    "Name": "tomaiaga.sergiu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/371104\/914c9f52-1c24-4fcf-8204-9179471ba555.jpg",
+                    "Url": "\/profile\/tomaiaga.sergiu\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1910,
+            "Posts": "10",
+            "Comments": "1",
+            "Followers": 66,
+            "PageViewsSplit": {
+                "Overview": 5906,
+                "Markets": 1503,
+                "Analysis": 289,
+                "Charts": 341,
+                "Trades": 231,
+                "Orderbook": 10,
+                "Forum": 112,
+                "Influence": 75
+            },
+            "PageViews": 8467
+        },
+        "Twitter": {
+            "statuses": 448,
+            "favourites": "265",
+            "following": "234",
+            "account_creation": "1494223800",
+            "followers": 7269,
+            "name": "Indorse",
+            "link": "https:\/\/twitter.com\/joinindorse",
+            "lists": 99,
+            "Points": 7764
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "58",
+            "name": "Indorse",
+            "likes": 6265,
+            "link": "https:\/\/www.facebook.com\/JoinIndorse\/",
+            "Points": 6265
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

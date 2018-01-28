@@ -1,0 +1,65 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "ByteCoin (BTE) - Live streaming prices and market cap",
+            "PageDescription": "Live ByteCoin prices from all markets and BTE coin market Capitalization. Stay up to date with the latest ByteCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19632\/bte.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4401",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "ByteCoin (BTE)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BTE",
+            "Url": "\/coins\/bte\/",
+            "BaseAngularUrl": "\/coins\/bte\/",
+            "Name": "ByteCoin",
+            "ImageUrl": "\/media\/19632\/bte.png",
+            "Description": "<p>Bytecoin (BTE) is an open source P2P digital currency and a mimic of Bitcoin. An SHA-256 coin with a retarget every 2016 blocks - 21 millions total coins and 6 block confimations. There are 50 coins per block.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "21000000 ",
+            "Algorithm": "SHA256",
+            "ProofType": "PoW",
+            "StartDate": "01\/03\/2013",
+            "Twitter": "",
+            "AffiliateUrl": "http:\/\/bytecoin.biz\/",
+            "Website": "<a href='http:\/\/bytecoin.biz\/' target='_blank'>ByteCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515981193,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~EtherDelta~BTE~ETH",
+            "2~Cryptsy~BTE~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BTE~ETH~4~0.000475~1515832284~23~0.010925~1515832284000~0~0~0~0~0.000475~0.000475~0.000475~0.000475~0.000475~0.000475~EtherDelta~7ffe9",
+            "5~CCCAGG~BTE~BTC~4~0.0000032~1452826129~960~0.003072~110946586~0~0~0.0000032~0.0000032~0.0000032~Cryptsy~78ce9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,233 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "LINDA",
+            "CoinName": "Linda",
+            "Type": "Webpagecoinp",
+            "Points": 9443
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20236,
+                    "Name": "PowerCoin",
+                    "FullName": "PowerCoin (PWR)",
+                    "ImageUrl": "\/media\/350899\/pwr.png",
+                    "Url": "\/coins\/pwr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 337863,
+                    "Name": "Gameflip",
+                    "FullName": "Gameflip (FLP)",
+                    "ImageUrl": "\/media\/12318280\/flip.png",
+                    "Url": "\/coins\/flp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 234811,
+                    "Name": "Cobinhood",
+                    "FullName": "Cobinhood (COB)",
+                    "ImageUrl": "\/media\/9350700\/cobin.png",
+                    "Url": "\/coins\/cob\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645879,
+                    "Name": "Fuloos Coin",
+                    "FullName": "Fuloos Coin (FLS)",
+                    "ImageUrl": "\/media\/20780701\/fuloos.png",
+                    "Url": "\/coins\/fls\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 247232,
+                    "Name": "NewYorkCoin",
+                    "FullName": "NewYorkCoin (NYC)",
+                    "ImageUrl": "\/media\/9350762\/nyc.png",
+                    "Url": "\/coins\/nyc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5300,
+                    "Name": "BitBay",
+                    "FullName": "BitBay (BAY)",
+                    "ImageUrl": "\/media\/1383137\/bay1.png",
+                    "Url": "\/coins\/bay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5017,
+                    "Name": "VeriCoin",
+                    "FullName": "VeriCoin (VRC)",
+                    "ImageUrl": "\/media\/20068\/vrc.png",
+                    "Url": "\/coins\/vrc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4524,
+                    "Name": "FeatherCoin",
+                    "FullName": "FeatherCoin (FTC)",
+                    "ImageUrl": "\/media\/19718\/ftc.png",
+                    "Url": "\/coins\/ftc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186875,
+                    "Name": "Storm",
+                    "FullName": "Storm (STORM)",
+                    "ImageUrl": "\/media\/1383803\/storm.jpg",
+                    "Url": "\/coins\/storm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33460,
+                    "Name": "Hush",
+                    "FullName": "Hush (HUSH)",
+                    "ImageUrl": "\/media\/1383138\/thehush_300x300.png",
+                    "Url": "\/coins\/hush\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 56800,
+                    "Name": "zormati_walid",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/56800\/49803650-0848-464d-a8c8-996811a377b2.jpg",
+                    "Url": "\/profile\/zormati_walid\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 416663,
+                    "Name": "zeynepdoner",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/416663\/37ef9f6b-6f63-42c6-bc8e-9b0693b31fe4.png",
+                    "Url": "\/profile\/zeynepdoner\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 559073,
+                    "Name": "mikeseven78",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/559073\/9ac5e30a-a853-4793-8aa9-5ea9a496b07e.jpg",
+                    "Url": "\/profile\/mikeseven78\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 323920,
+                    "Name": "togo64mx",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/323920\/1b9fcf12-a4a2-49c6-bcb9-53c8f5539e8d.jpg",
+                    "Url": "\/profile\/togo64mx\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676792,
+                    "Name": "moonjedi1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676792\/55acc05c-f2f9-45c8-a25e-62a8ac5350f3.jpg",
+                    "Url": "\/profile\/moonjedi1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 39180,
+                    "Name": "bclark302",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/39180\/cc1b04b4-4864-4d5f-8623-3078586a9016.jpg",
+                    "Url": "\/profile\/bclark302\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676043,
+                    "Name": "pillsbest",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676043\/758183fd-99cb-430a-9e5f-bc13d501f978.jpg",
+                    "Url": "\/profile\/pillsbest\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 675252,
+                    "Name": "ED6FC798",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675252\/630316f1-0810-49ec-b384-12abb4a2eba8.jpg",
+                    "Url": "\/profile\/ED6FC798\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674778,
+                    "Name": "8C9A665D",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674778\/397c22e2-7b87-4840-b949-d147b5521870.jpg",
+                    "Url": "\/profile\/8C9A665D\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 657810,
+                    "Name": "andre77810",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/657810\/9bbcda71-2b83-4635-be31-0ca30ec180bb.jpg",
+                    "Url": "\/profile\/andre77810\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 52588,
+                    "Name": "justynabatchelor",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/52588\/71e778df-ccf8-4d5c-8054-6294210f443e.jpg",
+                    "Url": "\/profile\/justynabatchelor\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 9315,
+            "Posts": "93",
+            "Comments": "79",
+            "Followers": 248,
+            "PageViewsSplit": {
+                "Overview": 25101,
+                "Markets": 2087,
+                "Analysis": 717,
+                "Charts": 2098,
+                "Trades": 2038,
+                "Orderbook": 15,
+                "Forum": 5539,
+                "Influence": 3435
+            },
+            "PageViews": 41030
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1499202118",
+                    "open_total_issues": "10",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1515829522",
+                    "closed_total_issues": "4",
+                    "size": "3608",
+                    "stars": 20,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1515943919",
+                    "open_pull_issues": "3",
+                    "forks": 25,
+                    "url": "https:\/\/github.com\/Lindacoin\/Linda",
+                    "closed_issues": "0",
+                    "open_issues": "7",
+                    "subscribers": 18,
+                    "language": "C++",
+                    "closed_pull_issues": "4"
+                }
+            ],
+            "Points": 124
+        }
+    }
+}

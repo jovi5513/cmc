@@ -1,0 +1,240 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "RUBIT",
+            "CoinName": "Rublebit",
+            "Type": "Webpagecoinp",
+            "Points": 1501
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 409155,
+                    "Name": "PayFair",
+                    "FullName": "PayFair (PFR)",
+                    "ImageUrl": "\/media\/16404867\/pfr.png",
+                    "Url": "\/coins\/pfr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 202696,
+                    "Name": "DigiPulse",
+                    "FullName": "DigiPulse (DGPT)",
+                    "ImageUrl": "\/media\/1383920\/dgt.png",
+                    "Url": "\/coins\/dgpt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5283,
+                    "Name": "XauCoin",
+                    "FullName": "XauCoin (XAU)",
+                    "ImageUrl": "\/media\/20479\/xau.png",
+                    "Url": "\/coins\/xau\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7577,
+                    "Name": "Piggy Coin",
+                    "FullName": "Piggy Coin (PIGGY)",
+                    "ImageUrl": "\/media\/19854\/piggy.png",
+                    "Url": "\/coins\/piggy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6476,
+                    "Name": "Anarchists Prime",
+                    "FullName": "Anarchists Prime (ACP)",
+                    "ImageUrl": "\/media\/351019\/acp.png",
+                    "Url": "\/coins\/acp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8763,
+                    "Name": "BitQuark",
+                    "FullName": "BitQuark (BTQ)",
+                    "ImageUrl": "\/media\/19638\/btq.png",
+                    "Url": "\/coins\/btq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 311558,
+                    "Name": "Maecenas",
+                    "FullName": "Maecenas (ART)",
+                    "ImageUrl": "\/media\/12318097\/art.png",
+                    "Url": "\/coins\/art\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 305047,
+                    "Name": "Kapu",
+                    "FullName": "Kapu (KAPU)",
+                    "ImageUrl": "\/media\/12318035\/logo_500x500.png",
+                    "Url": "\/coins\/kapu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37361,
+                    "Name": "Russiacoin",
+                    "FullName": "Russiacoin (RC)",
+                    "ImageUrl": "\/media\/1381992\/rc.png",
+                    "Url": "\/coins\/rc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4574,
+                    "Name": "NetCoin",
+                    "FullName": "NetCoin (NET)",
+                    "ImageUrl": "\/media\/19826\/net.png",
+                    "Url": "\/coins\/net\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 660294,
+                    "Name": "sandorroger",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/660294\/febae7c6-ca5b-49ac-9115-4eb337641399.jpg",
+                    "Url": "\/profile\/sandorroger\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 663019,
+                    "Name": "jhspllc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/663019\/d9fdb404-1bbd-4e62-9795-833ae408264d.jpg",
+                    "Url": "\/profile\/jhspllc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 558616,
+                    "Name": "bukhari.fareed",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/558616\/d81c585a-2e89-4df0-9cf1-89b63e2c6d1f.jpg",
+                    "Url": "\/profile\/bukhari.fareed\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 659693,
+                    "Name": "14CDCC5C",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/659693\/64e69508-0cba-450c-8886-9dfc2aeac683.jpg",
+                    "Url": "\/profile\/14CDCC5C\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 640905,
+                    "Name": "Lana420",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/640905\/2a057ad4-6aed-4d90-bb59-d1dcc64fb5f6.jpg",
+                    "Url": "\/profile\/Lana420\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 651476,
+                    "Name": "pwsmolak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/651476\/b1db1d33-e8b2-4442-8eee-27cedfe6cb77.jpg",
+                    "Url": "\/profile\/pwsmolak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 219240,
+                    "Name": "master-trader",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/219240\/96c5aea5-518c-4dad-a3bf-eb7bd14aff7c.jpg",
+                    "Url": "\/profile\/master-trader\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 298390,
+                    "Name": "carldan99",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/298390\/96d8567e-a86d-471e-84ac-7e94beea3e31.jpg",
+                    "Url": "\/profile\/carldan99\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 950,
+            "Posts": "2",
+            "Followers": 36,
+            "PageViewsSplit": {
+                "Overview": 2544,
+                "Markets": 166,
+                "Analysis": 102,
+                "Charts": 164,
+                "Trades": 87,
+                "Orderbook": 4,
+                "Forum": 33,
+                "Influence": 33
+            },
+            "PageViews": 3133
+        },
+        "Twitter": {
+            "favourites": "19",
+            "statuses": 143,
+            "following": "105",
+            "account_creation": "1446242166",
+            "followers": 496,
+            "name": "RubleBit",
+            "link": "https:\/\/twitter.com\/rublebit",
+            "lists": 10,
+            "Points": 546
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1447030271",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1447315976",
+                    "closed_total_issues": "0",
+                    "size": "0",
+                    "stars": 0,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "last_update": "1447030336",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/rublebit\/rublebit",
+                    "closed_issues": "0",
+                    "language": "C++",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 5
+        }
+    }
+}

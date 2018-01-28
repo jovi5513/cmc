@@ -1,0 +1,140 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NRS",
+            "CoinName": "NoirShares",
+            "Type": "Webpagecoinp",
+            "Points": 1152
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 7634,
+                    "Name": "Graviton",
+                    "FullName": "Graviton (GRAV)",
+                    "ImageUrl": "\/media\/20659\/grav.png",
+                    "Url": "\/coins\/grav\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 40839,
+                    "Name": "TwisterCoin",
+                    "FullName": "TwisterCoin (TWIST)",
+                    "ImageUrl": "\/media\/1382250\/twist1.png",
+                    "Url": "\/coins\/twist\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30925,
+                    "Name": "Community Coin",
+                    "FullName": "Community Coin (COC)",
+                    "ImageUrl": "\/media\/351872\/coc.png",
+                    "Url": "\/coins\/coc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28125,
+                    "Name": "ArkDAO",
+                    "FullName": "ArkDAO (BOTS)",
+                    "ImageUrl": "\/media\/351499\/bot.png",
+                    "Url": "\/coins\/bots\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34483,
+                    "Name": "TrickyCoin",
+                    "FullName": "TrickyCoin (TRICK)",
+                    "ImageUrl": "\/media\/352127\/trick.png",
+                    "Url": "\/coins\/trick\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 398126,
+                    "Name": "RiptideCoin",
+                    "FullName": "RiptideCoin (RIPT)",
+                    "ImageUrl": "\/media\/15887409\/ript.png",
+                    "Url": "\/coins\/ript\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3643,
+                    "Name": "DarkToken",
+                    "FullName": "DarkToken (DT)",
+                    "ImageUrl": "\/media\/20031\/dt.png",
+                    "Url": "\/coins\/dt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7562,
+                    "Name": "Versa Token",
+                    "FullName": "Versa Token (VERSA)",
+                    "ImageUrl": "\/media\/20629\/versa.png",
+                    "Url": "\/coins\/versa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4613,
+                    "Name": "SSVCoin",
+                    "FullName": "SSVCoin (SSV)",
+                    "ImageUrl": "\/media\/20060\/ssv.png",
+                    "Url": "\/coins\/ssv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22207,
+                    "Name": "Clockcoin",
+                    "FullName": "Clockcoin (CKC)",
+                    "ImageUrl": "\/media\/351068\/ckc.png",
+                    "Url": "\/coins\/ckc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 1,
+            "Points": 25,
+            "PageViewsSplit": {
+                "Overview": 195,
+                "Markets": 44,
+                "Analysis": 50,
+                "Charts": 18,
+                "Trades": 30,
+                "Orderbook": 0,
+                "Forum": 15,
+                "Influence": 14
+            },
+            "PageViews": 366
+        },
+        "Twitter": {
+            "favourites": "26",
+            "lists": 24,
+            "name": "Noir Group",
+            "statuses": 286,
+            "followers": 1007,
+            "following": "1867",
+            "account_creation": "1396555118",
+            "link": "https:\/\/twitter.com\/NoirDS",
+            "Points": 1127
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

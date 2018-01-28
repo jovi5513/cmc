@@ -1,0 +1,153 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SOLE",
+            "CoinName": "SoleCoin",
+            "Type": "Webpagecoinp",
+            "Points": 100
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 35687,
+                    "Name": "Horse Power",
+                    "FullName": "Horse Power (HSP)",
+                    "ImageUrl": "\/media\/352251\/hsp.png",
+                    "Url": "\/coins\/hsp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21370,
+                    "Name": "FlyCoin",
+                    "FullName": "FlyCoin (FLY)",
+                    "ImageUrl": "\/media\/351013\/fly.png",
+                    "Url": "\/coins\/fly\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35816,
+                    "Name": "PoolStamp",
+                    "FullName": "PoolStamp (XSP)",
+                    "ImageUrl": "\/media\/352293\/xsp.png",
+                    "Url": "\/coins\/xsp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28700,
+                    "Name": "Lazarus",
+                    "FullName": "Lazarus (LAZ)",
+                    "ImageUrl": "\/media\/351552\/laz.png",
+                    "Url": "\/coins\/laz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33127,
+                    "Name": "PenCoin",
+                    "FullName": "PenCoin (PEN)",
+                    "ImageUrl": "\/media\/20384\/pen.png",
+                    "Url": "\/coins\/pen\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 39710,
+                    "Name": "ReturnCoin",
+                    "FullName": "ReturnCoin (RNC)",
+                    "ImageUrl": "\/media\/1382240\/rnc.png",
+                    "Url": "\/coins\/rnc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8832,
+                    "Name": "Ghoul Coin",
+                    "FullName": "Ghoul Coin (GHOUL)",
+                    "ImageUrl": "\/media\/20701\/ghoul.png",
+                    "Url": "\/coins\/ghoul\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33526,
+                    "Name": "FistBump",
+                    "FullName": "FistBump (FIST)",
+                    "ImageUrl": "\/media\/352056\/fist.png",
+                    "Url": "\/coins\/fist\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38360,
+                    "Name": "DraculaCoin",
+                    "FullName": "DraculaCoin (DRA)",
+                    "ImageUrl": "\/media\/1382095\/dra.png",
+                    "Url": "\/coins\/dra\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29198,
+                    "Name": "Unfed Coin",
+                    "FullName": "Unfed Coin (UNF)",
+                    "ImageUrl": "\/media\/351626\/unf.png",
+                    "Url": "\/coins\/unf\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 596583,
+                    "Name": "jtellmarket",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596583\/07f0253c-18ef-4dd5-b211-9248923d4964.jpg",
+                    "Url": "\/profile\/jtellmarket\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 329520,
+                    "Name": "shahkhan_87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/329520\/1fc7a918-abe2-41f3-8f4e-4d38530bb47d.jpg",
+                    "Url": "\/profile\/shahkhan_87\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 110029,
+                    "Name": "ione.semar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/110029\/f20f906d-6625-425d-8262-2a14805e029d.jpg",
+                    "Url": "\/profile\/ione.semar\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 505,
+                "Markets": 13,
+                "Analysis": 52,
+                "Charts": 22,
+                "Trades": 21,
+                "Orderbook": 1,
+                "Forum": 117,
+                "Influence": 7
+            },
+            "PageViews": 738
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

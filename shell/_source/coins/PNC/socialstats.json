@@ -1,0 +1,161 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PNC",
+            "CoinName": "PlatiniumCoin",
+            "Type": "Webpagecoinp",
+            "Points": 137
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28151,
+                    "Name": "CovenCoin",
+                    "FullName": "CovenCoin (COV*)",
+                    "ImageUrl": "\/media\/351503\/cov.png",
+                    "Url": "\/coins\/covstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5398,
+                    "Name": "Camcoin",
+                    "FullName": "Camcoin (CAM)",
+                    "ImageUrl": "\/media\/20220\/cam.png",
+                    "Url": "\/coins\/cam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34847,
+                    "Name": "Old Dogs New Tricks",
+                    "FullName": "Old Dogs New Tricks (ODNT)",
+                    "ImageUrl": "\/media\/352186\/odnt.png",
+                    "Url": "\/coins\/odnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5034,
+                    "Name": "YAcCoin",
+                    "FullName": "YAcCoin (YAC)",
+                    "ImageUrl": "\/media\/19976\/yac.png",
+                    "Url": "\/coins\/yac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5334,
+                    "Name": "NakomotoDark",
+                    "FullName": "NakomotoDark (NKT)",
+                    "ImageUrl": "\/media\/20371\/nkt.png",
+                    "Url": "\/coins\/nkt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37190,
+                    "Name": "MIScoin",
+                    "FullName": "MIScoin (MIS)",
+                    "ImageUrl": "\/media\/1381981\/mis.png",
+                    "Url": "\/coins\/mis\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 661719,
+                    "Name": "Force Coin",
+                    "FullName": "Force Coin (FOR)",
+                    "ImageUrl": "\/media\/20780764\/for.png",
+                    "Url": "\/coins\/for\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5021,
+                    "Name": "SapienceCoin",
+                    "FullName": "SapienceCoin (XAI)",
+                    "ImageUrl": "\/media\/20071\/xai.png",
+                    "Url": "\/coins\/xai\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35816,
+                    "Name": "PoolStamp",
+                    "FullName": "PoolStamp (XSP)",
+                    "ImageUrl": "\/media\/352293\/xsp.png",
+                    "Url": "\/coins\/xsp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21370,
+                    "Name": "FlyCoin",
+                    "FullName": "FlyCoin (FLY)",
+                    "ImageUrl": "\/media\/351013\/fly.png",
+                    "Url": "\/coins\/fly\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 298540,
+                    "Name": "universsecurity",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/298540\/ee15429e-2762-4cce-aa7f-08870c329443.png",
+                    "Url": "\/profile\/universsecurity\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 245902,
+                    "Name": "itstaraenglish",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/245902\/9534b2fb-c1e7-4c59-9ad6-6a20761eec91.jpg",
+                    "Url": "\/profile\/itstaraenglish\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 491,
+                "Markets": 21,
+                "Analysis": 34,
+                "Charts": 29,
+                "Trades": 15,
+                "Orderbook": 1,
+                "Forum": 18,
+                "Influence": 9
+            },
+            "PageViews": 618
+        },
+        "Twitter": {
+            "followers": 32,
+            "following": "567",
+            "lists": 1,
+            "favourites": "4",
+            "statuses": 59,
+            "account_creation": "1430676469",
+            "name": "PlatinumCoin",
+            "link": "https:\/\/twitter.com\/dev_platinum",
+            "Points": 37
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

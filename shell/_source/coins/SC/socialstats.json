@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SC",
+            "CoinName": "Siacoin",
+            "Type": "Webpagecoinp",
+            "Points": 187837
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5324,
+                    "Name": "Ethereum Classic",
+                    "FullName": "Ethereum Classic (ETC)",
+                    "ImageUrl": "\/media\/20275\/etc2.png",
+                    "Url": "\/coins\/etc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 310829,
+                    "Name": "Tronix",
+                    "FullName": "Tronix (TRX)",
+                    "ImageUrl": "\/media\/12318089\/trx.png",
+                    "Url": "\/coins\/trx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 187440,
+                    "Name": "OmiseGo",
+                    "FullName": "OmiseGo (OMG)",
+                    "ImageUrl": "\/media\/1383814\/omisego.png",
+                    "Url": "\/coins\/omg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 321992,
+                    "Name": "Cardano",
+                    "FullName": "Cardano (ADA)",
+                    "ImageUrl": "\/media\/12318177\/ada.png",
+                    "Url": "\/coins\/ada\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5280,
+                    "Name": "ByteCoin",
+                    "FullName": "ByteCoin (BCN)",
+                    "ImageUrl": "\/media\/12318404\/bcn.png",
+                    "Url": "\/coins\/bcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 1183,
+                    "Name": "Nxt",
+                    "FullName": "Nxt (NXT)",
+                    "ImageUrl": "\/media\/20627\/nxt.png",
+                    "Url": "\/coins\/nxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 19745,
+                    "Name": "Lisk",
+                    "FullName": "Lisk (LSK)",
+                    "ImageUrl": "\/media\/352246\/lsk.png",
+                    "Url": "\/coins\/lsk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33022,
+                    "Name": "Golem Network Token",
+                    "FullName": "Golem Network Token (GNT)",
+                    "ImageUrl": "\/media\/351995\/golem_logo.png",
+                    "Url": "\/coins\/gnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 213532,
+                    "Name": "Gas",
+                    "FullName": "Gas (GAS)",
+                    "ImageUrl": "\/media\/1383858\/neo.jpg",
+                    "Url": "\/coins\/gas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5285,
+                    "Name": "NEM",
+                    "FullName": "NEM (XEM)",
+                    "ImageUrl": "\/media\/20490\/xem.png",
+                    "Url": "\/coins\/xem\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676207,
+                    "Name": "lkellett2001",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676207\/ef5ebccd-804f-4fac-91f3-83a8cdb1653b.jpg",
+                    "Url": "\/profile\/lkellett2001\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 668352,
+                    "Name": "carlosagm333",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/668352\/c5d77fcc-8922-4aa8-8ea8-0910a925bc80.jpg",
+                    "Url": "\/profile\/carlosagm333\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 662979,
+                    "Name": "nikmetcalf",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/662979\/5f98e799-64cb-41eb-ba40-b8aa9efca554.jpg",
+                    "Url": "\/profile\/nikmetcalf\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 559350,
+                    "Name": "boyloza11",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/559350\/b0770a26-4c1c-4ba2-83a1-2b62ea6eb9c2.jpg",
+                    "Url": "\/profile\/boyloza11\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 323674,
+                    "Name": "Leonidas",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/323674\/9cdee6b6-63e3-4486-a5bb-8084bd4d7475.png",
+                    "Url": "\/profile\/Leonidas\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 581429,
+                    "Name": "8D873E42",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/581429\/21782370-75bf-4a46-8fce-81448298ab74.jpg",
+                    "Url": "\/profile\/8D873E42\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 191915,
+                    "Name": "AtomCrypto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/191915\/e21faaf0-2d63-456f-b3cf-07696a6f79be.png",
+                    "Url": "\/profile\/AtomCrypto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 62471,
+                    "Name": "dhakan_bhavesh",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/62471\/d4a0f070-fe9f-4cd1-8463-0ea65148ffb6.jpg",
+                    "Url": "\/profile\/dhakan_bhavesh\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 615841,
+                    "Name": "mrquintinjones",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/615841\/29a1bbe2-4b00-41ba-8762-c7fffcd33825.jpg",
+                    "Url": "\/profile\/mrquintinjones\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 673572,
+                    "Name": "greg.ys.chang",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673572\/a297b65a-10c2-4f0e-9d2f-183b3a73b873.jpg",
+                    "Url": "\/profile\/greg.ys.chang\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4841,
+            "Posts": "635",
+            "Comments": "956",
+            "Points": 146460,
+            "PageViewsSplit": {
+                "Overview": 309877,
+                "Markets": 23785,
+                "Analysis": 7726,
+                "Charts": 36355,
+                "Trades": 8379,
+                "Orderbook": 2272,
+                "Forum": 70453,
+                "Influence": 2814
+            },
+            "PageViews": 461661
+        },
+        "Twitter": {
+            "favourites": "41",
+            "statuses": 53,
+            "following": "17",
+            "account_creation": "1401565253",
+            "name": "Nebulous",
+            "link": "https:\/\/twitter.com\/NebulousLabs",
+            "lists": 31,
+            "followers": 1080,
+            "Points": 1235
+        },
+        "Reddit": {
+            "comments_per_hour": "7.24",
+            "comments_per_day": 173.68,
+            "link": "https:\/\/www.reddit.com\/r\/siacoin\/",
+            "posts_per_day": "16.48",
+            "active_users": 2528,
+            "subscribers": 27146,
+            "posts_per_hour": "0.69",
+            "community_creation": "1399850941",
+            "name": "siacoin",
+            "Points": 35077
+        },
+        "Facebook": {
+            "likes": 1404,
+            "name": "Nebulous",
+            "link": "https:\/\/www.facebook.com\/nebulouslabs\/",
+            "talking_about": "63",
+            "is_closed": "false",
+            "Points": 1404
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1515912595",
+                    "url": "https:\/\/github.com\/NebulousLabs\/Sia",
+                    "subscribers": 284,
+                    "size": "20213",
+                    "created_at": "1413568225",
+                    "open_pull_issues": "32",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "Go",
+                    "open_total_issues": "141",
+                    "stars": 2179,
+                    "forks": 292,
+                    "closed_total_issues": "2512",
+                    "closed_pull_issues": "1448",
+                    "open_issues": "109",
+                    "closed_issues": "1064",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1515899763"
+                }
+            ],
+            "Points": 3615
+        }
+    }
+}

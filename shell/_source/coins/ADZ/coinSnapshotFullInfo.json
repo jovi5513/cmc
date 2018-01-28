@@ -1,0 +1,86 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Adzcoin (ADZ) - Live streaming prices and market cap",
+            "PageDescription": "Live Adzcoin prices from all markets and ADZ coin market Capitalization. Stay up to date with the latest Adzcoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351424\/adz1.jpg",
+            "OgImageWidth": "240",
+            "OgImageHeight": "240"
+        },
+        "General": {
+            "Id": "20656",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Adzcoin (ADZ)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ADZ",
+            "Url": "\/coins\/adz\/",
+            "BaseAngularUrl": "\/coins\/adz\/",
+            "Name": "Adzcoin",
+            "ImageUrl": "\/media\/351424\/adz1.jpg",
+            "Description": "<p>Adzcoin plans to replace traditional online advertisin with a decentralized blockchain based system that will empower website administators and allow users to support content they enjoy by chosing to view certain ads instead of blocking all of them.<\/p><p>\u00a0<\/p>",
+            "Features": "",
+            "Technology": "<p>Block reward halving every 12 months<br \/>Difficulty re-targeting using the multipool-resistant DigiShield<\/p>",
+            "TotalCoinSupply": "84000000",
+            "Algorithm": "X11",
+            "ProofType": "PoW",
+            "StartDate": "25\/11\/2015",
+            "Twitter": "@ADZbuzz",
+            "AffiliateUrl": "http:\/\/adzcoin.org\/",
+            "Website": "<a href='http:\/\/adzcoin.org\/' target='_blank'>Adzcoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515950459,
+            "DifficultyAdjustment": "Per  Blocks",
+            "BlockRewardReduction": "",
+            "BlockNumber": 0,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 43518992,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~LiveCoin~ADZ~BTC",
+            "2~Yobit~ADZ~BTC",
+            "2~CCEX~ADZ~DOGE",
+            "2~LiveCoin~ADZ~USD",
+            "2~Yobit~ADZ~USD",
+            "2~Yobit~ADZ~WAVES",
+            "2~Yobit~ADZ~ETH",
+            "2~Novaexchange~ADZ~LTC",
+            "2~Novaexchange~ADZ~MOON",
+            "2~Novaexchange~ADZ~BTC",
+            "2~CCEX~ADZ~LTC",
+            "2~CCEX~ADZ~USD",
+            "2~Novaexchange~ADZ~ETH",
+            "2~Yobit~ADZ~DOGE",
+            "2~Yobit~ADZ~RUR",
+            "2~Novaexchange~ADZ~DOGE",
+            "2~CCEX~ADZ~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ADZ~BTC~4~0.00000835~1515945803~12~0.0001002~200000470~29013.039574640003~0.265554821577738~40690.77124665~0.3772244064139136~0.0000099~0.0000099~0.00000835~0.00000944~0.00001002~0.00000835~Yobit~7ffe9",
+            "5~CCCAGG~ADZ~DOGE~4~4~1515789788~2.77841816~11.11367264~200000000~0~0~0~0~4~4~4~4~4~4~Yobit~7ffe9",
+            "5~CCCAGG~ADZ~USD~4~0.1235~1515942091~1.05737949~0.1406314827437949~200000055~1927.56574622~276.48715384891324~2207.89489781~314.7515946892365~0.177~0.18~0.1235~0.1235~0.1235~0.1235~Yobit~7ffe9",
+            "5~CCCAGG~ADZ~WAVES~4~0.01027789~1515707265~0.02516099~0.0002586018875111~200000001~0~0~0~0~0.01028~0.01028~0.01027789~0.01027789~0.01027789~0.01027789~Yobit~7ffe9",
+            "5~CCCAGG~ADZ~ETH~4~0.00007~1515878492~56.35657142~0.0039449599994~200000007~0~0~907.33684338~0.0635135790366~0.00007~0.00007~0.00007~0.0005025~0.0005025~0.00007~Yobit~7ffe9",
+            "5~CCCAGG~ADZ~LTC~4~0.0017125~1500646010~0.09600079~0.000164401352875~1500646010000~0~0~0~0~0.0017125~0.0017125~0.0017125~0.0017125~0.0017125~0.0017125~Novaexchange~7ffe9",
+            "5~CCCAGG~ADZ~MOON~4~303.00000001~1501656208~0.43156166~130.76318298431562~1501656208000~0~0~0~0~303.00000001~303.00000001~303.00000001~303.00000001~303.00000001~303.00000001~Novaexchange~7ffe9",
+            "5~CCCAGG~ADZ~RUR~4~11.97~1515919141~0.02~0.23939999780000001~200000006~0.06152979~0.7365115795317231~0.06152979~0.7365115795317231~11.97~11.97~11.97~11.97~11.97~11.97~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,82 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "YAcCoin (YAC) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "YaCoin (YAC) was created in May 2013 - so not one of the later 2013 deluge of currencies. It was also the first coin to introduce the Scypt-n parameter. Reward is equal to 25 divided by the difficulty to the power of 1\/6.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19976\/yac.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "5034",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "YAcCoin (YAC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "YAC",
+            "Url": "\/coins\/yac\/",
+            "BaseAngularUrl": "\/coins\/yac\/",
+            "Name": "YAcCoin",
+            "ImageUrl": "\/media\/19976\/yac.png",
+            "Description": "<p>YaCoin (YAC) was created in May 2013 - so not one of the later 2013 deluge of currencies. It was also the first coin to introduce the Scypt-n parameter. Reward is equal to 25 divided by the difficulty to the power of 1\/6. The coin is a hybrid proof of work and proof of stake coin with a fixed transaction fee of 0.01 YAC per transaction. The coin is a dynamic inflationary\/deflationary economic model - like peercoin - as the block rewards for POW mining are inversely proportional to the amount of computer power used. The Proof of stake is set at 5% per annum. The fixed transaction fee will act as a brake to supply depending on the velocity of it use - i.e. how much it is used - probably one of the most innovative economic models out there.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "2000000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "05\/05\/2013",
+            "Twitter": "@YACCoin",
+            "AffiliateUrl": "http:\/\/www.yaccoin.org\/",
+            "Website": "<a href='http:\/\/www.yaccoin.org\/' target='_blank'>YAcCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~YAC~BTC",
+            "2~BTER~YAC~BTC",
+            "2~Cryptsy~YAC~LTC",
+            "2~Poloniex~YAC~BTC",
+            "2~Yobit~YAC~ETH",
+            "2~Yobit~YAC~DOGE",
+            "2~Yobit~YAC~WAVES",
+            "2~BTER~YAC~CNY",
+            "2~Cryptsy~YAC~XRP",
+            "2~Yobit~YAC~USD",
+            "2~Cryptsy~YAC~BTC",
+            "2~Yobit~YAC~RUR"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~YAC~BTC~2~1.9e-7~1515948213~763.26255722~0.0001450198858718~200000036~16811.89112864~0.0035032318858699996~20296.62181903~0.0042001780239479996~2e-7~2.1e-7~1.9e-7~2e-7~2.1e-7~1.9e-7~Yobit~7ffe9",
+            "5~CCCAGG~YAC~LTC~4~0.00013~1452629779~18.93617735~0.0024617~110873135~0~0~0.00013~0.00013~0.00013~Cryptsy~78ce9",
+            "5~CCCAGG~YAC~ETH~4~5.4e-7~1515531934~115.33104726~0.0000622787655204~183121003~0~0~0~0~5.4e-7~5.4e-7~5.4e-7~5.4e-7~5.4e-7~5.4e-7~Yobit~7ffe9",
+            "5~CCCAGG~YAC~DOGE~2~2.99999999~1515844081~0.00101384~0.0030415199898616~200000004~0~0~0~0~3~3~2.99999999~2.99999999~2.99999999~2.99999999~Yobit~7ffe9",
+            "5~CCCAGG~YAC~WAVES~4~0.000202~1515099191~960.3754817~0.1939958473034~179541951~0~0~0~0~0.000202~0.000202~0.000202~0.000202~0.000202~0.000202~Yobit~7ffe9",
+            "5~CCCAGG~YAC~CNY~4~0.0024~1483588053~11858.887~28.4613288~13849404~0~0~0~0~0.0024~0.0024~0.0024~0.0024~0.0024~0.0024~BTER~7ffe9",
+            "5~CCCAGG~YAC~XRP~4~0.0719398~1452691766~0.00050527~0.00003635~110895409~0~0~0.0719398~0.0719398~0.0719398~Cryptsy~78ce9",
+            "5~CCCAGG~YAC~USD~4~0.005~1515930908~691.65157662~3.4582578831~200000009~1250~6.249436068092386~1250~6.249436068092386~0.004999~0.005~0.004999~0.004999~0.005~0.004999~Yobit~7ffe9",
+            "5~CCCAGG~YAC~RUR~2~0.15~1515948212~763.26255722~114.48938358299999~200000105~1393.60276019~213.10867274830207~5878.333450579999~850.64181752136~0.04114~0.1711~0.04114~0.18~0.18~0.04114~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

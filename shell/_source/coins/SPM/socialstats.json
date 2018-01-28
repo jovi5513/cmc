@@ -1,0 +1,196 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SPM",
+            "CoinName": "Supreme",
+            "Type": "Webpagecoinp",
+            "Points": 153
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 30016,
+                    "Name": "Vaporcoin",
+                    "FullName": "Vaporcoin (VAPOR)",
+                    "ImageUrl": "\/media\/351708\/vapor.png",
+                    "Url": "\/coins\/vapor\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29368,
+                    "Name": "EGOcoin",
+                    "FullName": "EGOcoin (EGO)",
+                    "ImageUrl": "\/media\/351632\/ego.png",
+                    "Url": "\/coins\/ego\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42850,
+                    "Name": "Opes",
+                    "FullName": "Opes (OPES)",
+                    "ImageUrl": "\/media\/1382434\/opes.png",
+                    "Url": "\/coins\/opes\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37204,
+                    "Name": "Impulse Coin",
+                    "FullName": "Impulse Coin (IMPS)",
+                    "ImageUrl": "\/media\/1381984\/imps.jpg",
+                    "Url": "\/coins\/imps\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5389,
+                    "Name": "MemoryCoin",
+                    "FullName": "MemoryCoin (MMC)",
+                    "ImageUrl": "\/media\/19795\/mmc.png",
+                    "Url": "\/coins\/mmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29004,
+                    "Name": "PSIcoin",
+                    "FullName": "PSIcoin (PSI)",
+                    "ImageUrl": "\/media\/351589\/psi.png",
+                    "Url": "\/coins\/psi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4325,
+                    "Name": "AlphaCoin",
+                    "FullName": "AlphaCoin (ALF)",
+                    "ImageUrl": "\/media\/19600\/alf.png",
+                    "Url": "\/coins\/alf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21213,
+                    "Name": "Cygnus",
+                    "FullName": "Cygnus (CYG)",
+                    "ImageUrl": "\/media\/350997\/cygnus.png",
+                    "Url": "\/coins\/cyg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8693,
+                    "Name": "Axiom Coin",
+                    "FullName": "Axiom Coin (AXIOM)",
+                    "ImageUrl": "\/media\/20686\/axiom.png",
+                    "Url": "\/coins\/axiom\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5337,
+                    "Name": "DayTrader Coin",
+                    "FullName": "DayTrader Coin (DTC*)",
+                    "ImageUrl": "\/media\/19688\/dtc.png",
+                    "Url": "\/coins\/dtc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 541763,
+                    "Name": "evgen_bogdanov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/541763\/59032a37-7ab4-4973-94f8-de232966fb97.jpg",
+                    "Url": "\/profile\/evgen_bogdanov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 628003,
+                    "Name": "2BCB8D50",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/628003\/dd644a9b-cdca-48f1-8115-9d6f07b546d0.jpg",
+                    "Url": "\/profile\/2BCB8D50\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 41314,
+                    "Name": "khavinshankar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/41314\/e403e1e7-ed83-4eea-89b6-8c626e47a12e.jpg",
+                    "Url": "\/profile\/khavinshankar\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16226,
+                    "Name": "stanik4",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16226\/88c12f77-2f71-45ad-aac7-409552ec2e28.jpg",
+                    "Url": "\/profile\/stanik4\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 6,
+            "Points": 150,
+            "PageViewsSplit": {
+                "Overview": 334,
+                "Markets": 33,
+                "Analysis": 23,
+                "Charts": 31,
+                "Trades": 23,
+                "Orderbook": 0,
+                "Forum": 19,
+                "Influence": 8
+            },
+            "PageViews": 471
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "1978",
+                    "url": "https:\/\/github.com\/VermineSupreme\/supremesource",
+                    "last_update": "1462887617",
+                    "last_push": "1462887613",
+                    "created_at": "1462887592",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

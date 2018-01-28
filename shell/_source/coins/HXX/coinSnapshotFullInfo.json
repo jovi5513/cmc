@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "HexxCoin (HXX) - Live streaming prices and market cap",
+            "PageDescription": "Live HexxCoin prices from all markets and HXX coin market Capitalization. Stay up to date with the latest HexxCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1382348\/hexx.jpg",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "41868",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "HexxCoin (HXX)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "HXX",
+            "Url": "\/coins\/hxx\/",
+            "BaseAngularUrl": "\/coins\/hxx\/",
+            "Name": "HexxCoin",
+            "ImageUrl": "\/media\/1382348\/hexx.jpg",
+            "Description": "<p>Hexxcoin is a Proof of Work cryptocurrency that uses the\u00a0<span>lyra2rev2 algorithm. HXX makes user of the Anonymous Zerocoin Protocol to provide private transactons<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "9999999",
+            "Algorithm": "Lyra2RE",
+            "ProofType": "PoW",
+            "StartDate": "05\/09\/2015",
+            "Twitter": "@hxxcoin",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515952041,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 195437,
+            "BlockTime": 150,
+            "NetHashesPerSecond": 17190,
+            "TotalCoinsMined": 1506634.091,
+            "PreviousTotalCoinsMined": 1506631.091,
+            "BlockReward": 1
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~HXX~LTC",
+            "2~Yobit~HXX~ETH",
+            "2~CCEX~HXX~DOGE",
+            "2~Yobit~HXX~BTC",
+            "2~Cryptopia~HXX~DOGE",
+            "2~Yobit~HXX~RUR",
+            "2~Cryptopia~HXX~BTC",
+            "2~CCEX~HXX~BTC",
+            "2~Yobit~HXX~WAVES",
+            "2~Yobit~HXX~USD",
+            "2~Cryptopia~HXX~UNO",
+            "2~CCEX~HXX~USD",
+            "2~Yobit~HXX~DOGE",
+            "2~CCEX~HXX~LTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~HXX~LTC~4~0.00112571~1515196944~91.02623346~0.10246914~1515196944~0~0~0~0~0.001126~0.001126~0.00112571~0.00112571~0.00112571~0.00112571~Cryptopia~7ffe9",
+            "5~CCCAGG~HXX~ETH~4~0.0006514~1515839330~5.96187066~0.0038835625479239997~200000006~0~0~0~0~0.0006514~0.0006514~0.0006514~0.0006514~0.0006514~0.0006514~Yobit~7ffe9",
+            "5~CCCAGG~HXX~DOGE~4~35.7~1515694989~3.02~107.81400000000001~184341406~0~0~0~0~35.7~35.7~35.7~35.7~35.7~35.7~Yobit~7ffe9",
+            "5~CCCAGG~HXX~BTC~1~0.00004156~1515947521~9.30994008~0.00037146660919200005~200000078~8257.179463389999~0.30683172944046005~10781.522946820001~0.41445716805745847~0.00004671~0.00004752~0.00002505~0.00004449~0.00004473~0.0000318~Yobit~7ffe9",
+            "5~CCCAGG~HXX~RUR~4~43~1515839244~1.49962514~64.48388102~200000006~0~0~0~0~43~43~43~43~43~43~Yobit~7ffe9",
+            "5~CCCAGG~HXX~WAVES~4~0.04343537~1515667777~1~0.04343537~184110260~0~0~0~0~0.04344~0.04344~0.04343537~0.04343537~0.04343537~0.04343537~Yobit~7ffe9",
+            "5~CCCAGG~HXX~USD~4~0.35~1515867750~1.63915408~0.5737039771746224~200000005~0~0~1.63915408~0.573703977174622~0.35~0.35~0.35~0.35~0.35~0.35~Yobit~7ffe9",
+            "5~CCCAGG~HXX~UNO~4~0.001~1497415964~0.00388791~0.00000389~1497415964~0~0~0~0~0.001~0.001~0.001~0.001~0.001~0.001~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

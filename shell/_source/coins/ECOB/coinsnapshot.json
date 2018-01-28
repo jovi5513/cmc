@@ -1,0 +1,72 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 0,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 444444444,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "ECOB",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "2",
+            "PRICE": "0.00000346",
+            "LASTUPDATE": "1516092742",
+            "LASTVOLUME": "437.72104913",
+            "LASTVOLUMETO": "0.00151451",
+            "LASTTRADEID": "1516092742",
+            "VOLUMEDAY": "23047.466288149997",
+            "VOLUMEDAYTO": "0.0886461137847624",
+            "VOLUME24HOUR": "60151.92087033999",
+            "VOLUME24HOURTO": "0.21671480703799456",
+            "OPENDAY": "0.00000363",
+            "HIGHDAY": "0.000004",
+            "LOWDAY": "0.00000304",
+            "OPEN24HOUR": "0.00000351",
+            "HIGH24HOUR": "0.000004",
+            "LOW24HOUR": "0.00000325",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "ECOB",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00000346",
+                "LASTUPDATE": "1516092742",
+                "LASTVOLUME": "437.72104913",
+                "LASTVOLUMETO": "0.00151451",
+                "LASTTRADEID": "1516092742",
+                "VOLUME24HOUR": "46897.53443147",
+                "VOLUME24HOURTO": "0.17365019999999998",
+                "OPEN24HOUR": "0.00000351",
+                "HIGH24HOUR": "0.000004",
+                "LOW24HOUR": "0.00000325"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "ECOB",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000335",
+                "LASTUPDATE": "1516090058",
+                "LASTVOLUME": "30",
+                "LASTVOLUMETO": "0.0001005",
+                "LASTTRADEID": "200000097",
+                "VOLUME24HOUR": "13254.386438869999",
+                "VOLUME24HOURTO": "0.0430646070379946",
+                "OPEN24HOUR": "0.00000382",
+                "HIGH24HOUR": "0.00000532",
+                "LOW24HOUR": "0.00000302"
+            }
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,156 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XDC",
+            "CoinName": "XinFin Coin",
+            "Type": "Webpagecoinp",
+            "Points": 473
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4413,
+                    "Name": "CinderCoin",
+                    "FullName": "CinderCoin (CIN)",
+                    "ImageUrl": "\/media\/20698\/cinder.png",
+                    "Url": "\/coins\/cin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 329507,
+                    "Name": "LakeBanker",
+                    "FullName": "LakeBanker (BAC*)",
+                    "ImageUrl": "\/media\/12318229\/bac.png",
+                    "Url": "\/coins\/bacstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645830,
+                    "Name": "GoaCoin",
+                    "FullName": "GoaCoin (GOA)",
+                    "ImageUrl": "\/media\/20780697\/goa.png",
+                    "Url": "\/coins\/goa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6105,
+                    "Name": "Twelve Coin",
+                    "FullName": "Twelve Coin (TWLV)",
+                    "ImageUrl": "\/media\/20472\/viral.png",
+                    "Url": "\/coins\/twlv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4576,
+                    "Name": "NoirBits",
+                    "FullName": "NoirBits (NRB)",
+                    "ImageUrl": "\/media\/19839\/nrb.png",
+                    "Url": "\/coins\/nrb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29928,
+                    "Name": "Resumeo Shares",
+                    "FullName": "Resumeo Shares (RMS)",
+                    "ImageUrl": "\/media\/351701\/rms.png",
+                    "Url": "\/coins\/rms\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5404,
+                    "Name": "BitMiles",
+                    "FullName": "BitMiles (BTMI)",
+                    "ImageUrl": "\/media\/20213\/btmi.png",
+                    "Url": "\/coins\/btmi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 52008,
+                    "Name": "ChatCoin",
+                    "FullName": "ChatCoin (CHAT)",
+                    "ImageUrl": "\/media\/1382762\/chat.png",
+                    "Url": "\/coins\/chat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4569,
+                    "Name": "NanoToken",
+                    "FullName": "NanoToken (NAN)",
+                    "ImageUrl": "\/media\/19821\/nan.png",
+                    "Url": "\/coins\/nan\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21222,
+                    "Name": "MediumProject",
+                    "FullName": "MediumProject (MPRO)",
+                    "ImageUrl": "\/media\/350999\/mpro.jpg",
+                    "Url": "\/coins\/mpro\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 419296,
+                    "Name": "cryptosanjay",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/419296\/540d1041-9fcc-4d0f-8f22-5ac95aa93028.jpg",
+                    "Url": "\/profile\/cryptosanjay\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 75324,
+                    "Name": "bluvmack",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/75324\/fd15fee3-b10e-4632-93d7-49c947f28e3d.jpg",
+                    "Url": "\/profile\/bluvmack\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Points": 50,
+            "PageViewsSplit": {
+                "Overview": 517,
+                "Markets": 37,
+                "Analysis": 12,
+                "Charts": 32,
+                "Trades": 18,
+                "Orderbook": 0,
+                "Forum": 17,
+                "Influence": 9
+            },
+            "PageViews": 642
+        },
+        "Twitter": {
+            "lists": 2,
+            "favourites": "177",
+            "statuses": 443,
+            "following": "51",
+            "account_creation": "1495603187",
+            "name": "XinFinXDC",
+            "followers": 385,
+            "link": "https:\/\/twitter.com\/XinfinF",
+            "Points": 395
+        },
+        "Reddit": {
+            "subscribers": 13,
+            "posts_per_hour": "0.00",
+            "community_creation": "1497161058",
+            "comments_per_hour": "0.00",
+            "comments_per_day": 0.08,
+            "name": "xinfin",
+            "link": "https:\/\/www.reddit.com\/r\/xinfin\/",
+            "posts_per_day": "0.05",
+            "active_users": 5,
+            "Points": 28
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

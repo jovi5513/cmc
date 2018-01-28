@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "XAU",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000547",
+            "LASTUPDATE": "1516048297",
+            "LASTVOLUME": "264.25927275",
+            "LASTVOLUMETO": "0.0014454982219424999",
+            "LASTTRADEID": "200000038",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "1107.0501682599997",
+            "VOLUME24HOURTO": "0.0060513796783478",
+            "OPENDAY": "0.00000547",
+            "HIGHDAY": "0.00000547",
+            "LOWDAY": "0.00000547",
+            "OPEN24HOUR": "0.00000548",
+            "HIGH24HOUR": "0.00000548",
+            "LOW24HOUR": "0.00000546",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "XAU",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "1.19999999",
+                "LASTUPDATE": "1471793246",
+                "LASTVOLUME": "0.00685754",
+                "LASTVOLUMETO": "0.0082290479314246",
+                "LASTTRADEID": "1471793246160",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "1.19999999",
+                "HIGH24HOUR": "1.19999999",
+                "LOW24HOUR": "1.19999999"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "XAU",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000547",
+                "LASTUPDATE": "1516048297",
+                "LASTVOLUME": "264.25927275",
+                "LASTVOLUMETO": "0.0014454982219424999",
+                "LASTTRADEID": "200000038",
+                "VOLUME24HOUR": "1107.0501682599997",
+                "VOLUME24HOURTO": "0.0060513796783478",
+                "OPEN24HOUR": "0.00000548",
+                "HIGH24HOUR": "0.00000548",
+                "LOW24HOUR": "0.00000546"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "XAU",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.37999981",
+                "LASTUPDATE": "1452741390",
+                "LASTVOLUME": "0.015",
+                "LASTVOLUMETO": "0.0057",
+                "LASTTRADEID": "110919091",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.37999981",
+                "HIGH24HOUR": "0.37999981",
+                "LOW24HOUR": "0.37999981"
+            }
+        ]
+    },
+    "Type": 100
+}

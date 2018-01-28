@@ -1,0 +1,215 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CLOUT",
+            "CoinName": "Clout",
+            "Type": "Webpagecoinp",
+            "Points": 15083
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 13045,
+                    "Name": "Transfer",
+                    "FullName": "Transfer (TX)",
+                    "ImageUrl": "\/media\/20722\/tx.png",
+                    "Url": "\/coins\/tx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 234707,
+                    "Name": "CPROP",
+                    "FullName": "CPROP (MLS)",
+                    "ImageUrl": "\/media\/9350696\/mls.png",
+                    "Url": "\/coins\/mls\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 531426,
+                    "Name": "MobileGo",
+                    "FullName": "MobileGo (EMGO)",
+                    "ImageUrl": "\/media\/16746703\/emgo.png",
+                    "Url": "\/coins\/emgo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34223,
+                    "Name": "FirstCoin",
+                    "FullName": "FirstCoin (FIRST)",
+                    "ImageUrl": "\/media\/352116\/first.png",
+                    "Url": "\/coins\/first\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 74912,
+                    "Name": "Apx",
+                    "FullName": "Apx (APX)",
+                    "ImageUrl": "\/media\/1383235\/apx.png",
+                    "Url": "\/coins\/apx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 384651,
+                    "Name": "Ellaism",
+                    "FullName": "Ellaism (ELLA)",
+                    "ImageUrl": "\/media\/14913603\/ella.png",
+                    "Url": "\/coins\/ella\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 214738,
+                    "Name": "Oceanlab",
+                    "FullName": "Oceanlab (OCL)",
+                    "ImageUrl": "\/media\/1383989\/ocl.png",
+                    "Url": "\/coins\/ocl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 222436,
+                    "Name": "Cash Poker Pro",
+                    "FullName": "Cash Poker Pro (CASH*)",
+                    "ImageUrl": "\/media\/1384020\/cpp.png",
+                    "Url": "\/coins\/cashstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5362,
+                    "Name": "BlakeCoin",
+                    "FullName": "BlakeCoin (BLC)",
+                    "ImageUrl": "\/media\/19623\/blc.png",
+                    "Url": "\/coins\/blc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20446,
+                    "Name": "Influxcoin",
+                    "FullName": "Influxcoin (INFX)",
+                    "ImageUrl": "\/media\/350919\/infx.png",
+                    "Url": "\/coins\/infx\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 223676,
+                    "Name": "benoit.destresse",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/223676\/424791b6-858e-4cbc-85c0-02283178e8eb.jpg",
+                    "Url": "\/profile\/benoit.destresse\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 399735,
+                    "Name": "zwljt855",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/399735\/2c9d5c29-0202-4c4b-9889-90694445cfe4.jpg",
+                    "Url": "\/profile\/zwljt855\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 504710,
+                    "Name": "roughridershomes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/504710\/877c6696-f6d0-4e8e-aeb6-582a1ac40630.jpg",
+                    "Url": "\/profile\/roughridershomes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 361311,
+                    "Name": "FistfulOfCredit",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/361311\/3806641d-a20a-4eae-aa54-029cee216cb0.jpg",
+                    "Url": "\/profile\/FistfulOfCredit\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 458134,
+                    "Name": "bbrownpt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/458134\/fcda12ce-b1e4-433f-b282-3c4cea960fc8.jpg",
+                    "Url": "\/profile\/bbrownpt\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 420705,
+                    "Name": "jadler",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/420705\/f4fb32e4-73e8-46e1-828d-716c4843c9e8.jpg",
+                    "Url": "\/profile\/jadler\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 401396,
+                    "Name": "lahrach.ilyass",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/401396\/6e02b676-bd29-45ef-a894-d4d2860583f0.jpg",
+                    "Url": "\/profile\/lahrach.ilyass\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 389986,
+                    "Name": "heinzmch",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/389986\/7522dcab-7db5-47f0-921c-06000b6ac7c6.jpg",
+                    "Url": "\/profile\/heinzmch\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 340587,
+                    "Name": "dtmpzn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/340587\/b52f7492-f910-4a06-8b2a-cb5d9ec9eb4f.jpg",
+                    "Url": "\/profile\/dtmpzn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 117692,
+                    "Name": "warphole",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/117692\/70b09430-6a80-40b8-af61-a7a74675adf5.png",
+                    "Url": "\/profile\/warphole\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 357767,
+                    "Name": "vilma.mattila",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/357767\/6821ca5b-e104-43bc-abaa-9aecc12834d4.jpg",
+                    "Url": "\/profile\/vilma.mattila\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 375,
+            "Followers": 15,
+            "PageViewsSplit": {
+                "Overview": 1950,
+                "Markets": 28,
+                "Analysis": 87,
+                "Charts": 11,
+                "Trades": 14,
+                "Orderbook": 4,
+                "Forum": 17,
+                "Influence": 28
+            },
+            "PageViews": 2139
+        },
+        "Twitter": {
+            "statuses": 59,
+            "favourites": "10",
+            "following": "5",
+            "account_creation": "1503508598",
+            "followers": 3660,
+            "name": "CLOUT",
+            "link": "https:\/\/twitter.com\/clout_media",
+            "lists": 30,
+            "Points": 3810
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "1039",
+            "name": "CLOUT Network",
+            "likes": 10898,
+            "link": "https:\/\/www.facebook.com\/clouttoken\/",
+            "Points": 10898
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

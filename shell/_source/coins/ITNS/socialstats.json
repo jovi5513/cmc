@@ -1,0 +1,254 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ITNS",
+            "CoinName": "IntenseCoin",
+            "Type": "Webpagecoinp",
+            "Points": 6210
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4586,
+                    "Name": "Cryptsy Points",
+                    "FullName": "Cryptsy Points (POINTS)",
+                    "ImageUrl": "\/media\/19863\/points.png",
+                    "Url": "\/coins\/points\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35825,
+                    "Name": "Iconic",
+                    "FullName": "Iconic (ICON)",
+                    "ImageUrl": "\/media\/352297\/icon.png",
+                    "Url": "\/coins\/icon\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 15879,
+                    "Name": "BlitzCoin",
+                    "FullName": "BlitzCoin (BLITZ)",
+                    "ImageUrl": "\/media\/350612\/blitz.png",
+                    "Url": "\/coins\/blitz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 178885,
+                    "Name": "NVO",
+                    "FullName": "NVO (NVST)",
+                    "ImageUrl": "\/media\/1383732\/nvst.png",
+                    "Url": "\/coins\/nvst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 384859,
+                    "Name": "Coinvest",
+                    "FullName": "Coinvest (COIN*)",
+                    "ImageUrl": "\/media\/14913606\/coin.png",
+                    "Url": "\/coins\/coin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 502301,
+                    "Name": "Verify",
+                    "FullName": "Verify (CRED)",
+                    "ImageUrl": "\/media\/16746661\/cred.png",
+                    "Url": "\/coins\/cred\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 48787,
+                    "Name": "CreativeChain",
+                    "FullName": "CreativeChain (CREA)",
+                    "ImageUrl": "\/media\/1382709\/crea.png",
+                    "Url": "\/coins\/crea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188400,
+                    "Name": "Crypviser",
+                    "FullName": "Crypviser (CVCOIN)",
+                    "ImageUrl": "\/media\/1383821\/cvcoin.png",
+                    "Url": "\/coins\/cvcoin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 345544,
+                    "Name": "Bitcomo",
+                    "FullName": "Bitcomo (BM*)",
+                    "ImageUrl": "\/media\/12318361\/bm.png",
+                    "Url": "\/coins\/bmstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4563,
+                    "Name": "Cryptsy Mining Contract",
+                    "FullName": "Cryptsy Mining Contract (MN)",
+                    "ImageUrl": "\/media\/19796\/mn1.png",
+                    "Url": "\/coins\/mn\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 170190,
+                    "Name": "bitjaff",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/170190\/67ace078-7b7e-42bc-935b-4d43e4f8f530.jpg",
+                    "Url": "\/profile\/bitjaff\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 673505,
+                    "Name": "omeralp",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673505\/f4078a75-8729-405e-8805-3f512fc450d1.jpg",
+                    "Url": "\/profile\/omeralp\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 329969,
+                    "Name": "CoinChaos",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/329969\/fed00667-b812-4620-a3a6-91053e5c4cf1.jpg",
+                    "Url": "\/profile\/CoinChaos\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 229217,
+                    "Name": "BLAAKVEIDA",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/229217\/adbd9cc5-a067-4e17-b452-92e2c7f115f5.png",
+                    "Url": "\/profile\/BLAAKVEIDA\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 137876,
+                    "Name": "lance6x5",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/137876\/bf11506e-acf4-44c4-92ac-3a98af8c01de.jpg",
+                    "Url": "\/profile\/lance6x5\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 633194,
+                    "Name": "ziane.0790",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/633194\/47b921e0-cdcc-4fcb-b9f2-6ee53c27c231.jpg",
+                    "Url": "\/profile\/ziane.0790\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 432587,
+                    "Name": "jeremyrayborders",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/432587\/6d1767b1-3c47-4a0c-ba59-158e47b48f55.jpg",
+                    "Url": "\/profile\/jeremyrayborders\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 449610,
+                    "Name": "perpirakisg",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/449610\/9e42f623-cd58-480b-97d1-12ad05f6b399.jpg",
+                    "Url": "\/profile\/perpirakisg\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614076,
+                    "Name": "xz1v",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614076\/6020983d-8970-4649-b0b7-c5659c82e5fe.jpg",
+                    "Url": "\/profile\/xz1v\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 123387,
+                    "Name": "damzurek",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/123387\/e567e95f-d5f8-437b-84ec-d13bd2561297.jpg",
+                    "Url": "\/profile\/damzurek\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 365816,
+                    "Name": "gena_tvauri",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/365816\/0437e50f-3fa1-4ed2-9ed3-5ecce8ec4643.png",
+                    "Url": "\/profile\/gena_tvauri\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1075,
+            "Followers": 40,
+            "Posts": "3",
+            "PageViewsSplit": {
+                "Overview": 1335,
+                "Markets": 63,
+                "Analysis": 41,
+                "Charts": 17,
+                "Trades": 10,
+                "Orderbook": 0,
+                "Forum": 65,
+                "Influence": 34
+            },
+            "PageViews": 1565
+        },
+        "Twitter": {
+            "following": "408",
+            "account_creation": "1500262331",
+            "name": "Intense",
+            "lists": 25,
+            "statuses": 264,
+            "favourites": "357",
+            "followers": 2624,
+            "link": "https:\/\/twitter.com\/intensecoin",
+            "Points": 2749
+        },
+        "Reddit": {
+            "posts_per_hour": "0.21",
+            "comments_per_hour": "1.56",
+            "posts_per_day": "4.97",
+            "comments_per_day": 37.33,
+            "name": "IntenseCoin",
+            "link": "https:\/\/www.reddit.com\/r\/IntenseCoin\/",
+            "active_users": 38,
+            "community_creation": "1500306757",
+            "subscribers": 1152,
+            "Points": 1340
+        },
+        "Facebook": {
+            "likes": 961,
+            "link": "https:\/\/www.facebook.com\/intensecoin\/",
+            "is_closed": "false",
+            "talking_about": "207",
+            "name": "IntenseCoin",
+            "Points": 961
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1500131058",
+                    "open_total_issues": "6",
+                    "parent": {
+                        "Name": "cryptonote",
+                        "Url": "https:\/\/github.com\/cryptonotefoundation\/cryptonote",
+                        "InternalId": -1
+                    },
+                    "size": "70160",
+                    "closed_total_issues": "14",
+                    "stars": 27,
+                    "last_update": "1515410188",
+                    "forks": 14,
+                    "url": "https:\/\/github.com\/valiant1x\/intensecoin",
+                    "closed_issues": "14",
+                    "closed_pull_issues": "0",
+                    "fork": "true",
+                    "last_push": "1515950062",
+                    "source": {
+                        "Name": "bytecoin",
+                        "Url": "https:\/\/github.com\/amjuarez\/bytecoin",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 10,
+                    "open_issues": "6"
+                }
+            ],
+            "Points": 85
+        }
+    }
+}

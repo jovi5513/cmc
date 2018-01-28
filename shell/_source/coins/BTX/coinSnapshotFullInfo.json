@@ -1,0 +1,86 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Bitcore (BTX) - Live streaming prices and market cap",
+            "PageDescription": "Live Bitcore prices from all markets and BTX coin market Capitalization. Stay up to date with the latest Bitcore price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1383895\/btx.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "198983",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Bitcore (BTX)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BTX",
+            "Url": "\/coins\/btx\/",
+            "BaseAngularUrl": "\/coins\/btx\/",
+            "Name": "Bitcore",
+            "ImageUrl": "\/media\/1383895\/btx.png",
+            "Description": "<p>Bitcore is a Bitcoin-based cryptocurrency created through a snapshot and airdrop process.<span>\u00a0Bitcore has 10 MB blocks with Segwit enabled which allows for the network to handle about 17.6 billion transactions per year. It also features an ASIC resistant pow algorithm, Timetravel10, and a difficult adjustment called 64_15 that ensures that there is no more than a 15 percent change <span>in difficulty within a 64 block period.<\/span><\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "21000000",
+            "Algorithm": "Time Travel",
+            "ProofType": "PoW",
+            "StartDate": "23\/04\/2017",
+            "Twitter": "@bitcore_btx",
+            "AffiliateUrl": "http:\/\/www.bitcore.cc",
+            "Website": "<a href='http:\/\/www.bitcore.cc' target='_blank'>Bitcore<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515977151,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 117863,
+            "BlockTime": 600,
+            "NetHashesPerSecond": 84601200938.637,
+            "TotalCoinsMined": 16749396.875,
+            "PreviousTotalCoinsMined": 16749296.875,
+            "BlockReward": 3.1249999874271
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~BTX~MOON",
+            "2~Novaexchange~BTX~LTC",
+            "2~Cryptopia~BTX~DOGE",
+            "2~HitBTC~BTX~USD",
+            "2~Novaexchange~BTX~DOGE",
+            "2~Cryptopia~BTX~BTC",
+            "2~HitBTC~BTX~BTC",
+            "2~Cryptopia~BTX~NZDT",
+            "2~Cryptopia~BTX~LTC",
+            "2~Novaexchange~BTX~ETH",
+            "2~Novaexchange~BTX~BTC",
+            "2~Novaexchange~BTX~ESP2",
+            "2~CCEX~BTX~LTC",
+            "2~Cryptopia~BTX~USDT",
+            "2~Novaexchange~BTX~KIC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BTX~MOON~4~840.00000013~1503508108~0.00391714~3.2903976005092286~1503508108000~0~0~0~0~840.00000013~840.00000013~840.00000013~840.00000013~840.00000013~840.00000013~Novaexchange~7ffe9",
+            "5~CCCAGG~BTX~LTC~4~0.12999999~1515195491~0.20401832~0.02652238~1515195491.001~0~0~0~0~0.13~0.13~0.12999999~0.12999999~0.12999999~0.12999999~Cryptopia~7ffe9",
+            "5~CCCAGG~BTX~DOGE~4~2410~1515195858~2.89626471~6979.9979511~1515195858.01~0~0~0~0~2410~2410~2410~2410~2410~2410~Cryptopia~7ffe9",
+            "5~CCCAGG~BTX~USD~1~28.5~1515978725~0.01~0.28500000000000003~152409881~45.21999999999999~1260.7674~280.96000000000004~6958.931599999998~25.99~28.5~24.45~25~28.5~23.88~HitBTC~7ffe9",
+            "5~CCCAGG~BTX~BTC~2~0.002095~1515979143~73.9~0.14041~152417944~8397.126790769998~17.520581319999987~25499.25117274~49.909027020000025~0.002061~0.002287~0.001954~0.001778~0.0023~0.001744~HitBTC~7ffe9",
+            "5~CCCAGG~BTX~NZDT~1~42.39~1515978802~0.26263263~11.13333971~1515978802~6.655541670000001~271.45361698999994~63.060411~2367.73601446~40~42.39~40~36.7~42.39~32.02~Cryptopia~7ffe9",
+            "5~CCCAGG~BTX~ETH~4~0.01568997~1502525808~0.27916115~0.0043800300686655~1502525808000~0~0~0~0~0.01568997~0.01568997~0.01568997~0.01568997~0.01568997~0.01568997~Novaexchange~7ffe9",
+            "5~CCCAGG~BTX~ESP2~4~5639.01477469~1502717972~0.00079551~4.485892643413642~1502717972000~0~0~0~0~5639.01477469~5639.01477469~5639.01477469~5639.01477469~5639.01477469~5639.01477469~Novaexchange~7ffe9",
+            "5~CCCAGG~BTX~USDT~4~28.88~1515979073~1.72336544~49.77079391~1515979073~237.84892254000005~6799.117710129999~626.63923789~16699.65213818~27.17~28.88~26.5~25~28.88~23.6~Cryptopia~7ffe9",
+            "5~CCCAGG~BTX~KIC~4~1000000~1505785031~5e-7~0.5~1505785031000~0~0~0~0~1000000~1000000~1000000~1000000~1000000~1000000~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include head.html' %}
+  </head>
+
+  <body class="color-default theme-sdtl sidebar-top fixed-topbar">
+    <!--[if lt IE 7]>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
+    <section>
+      <!-- BEGIN SIDEBAR -->
+      {% include sidebar.html %}
+      <!-- END SIDEBAR -->
+      <div class="main-content">
+        <!-- BEGIN TOPBAR -->
+        {% include topbar.html %}
+        <!-- END TOPBAR -->
+        <!-- BEGIN PAGE CONTENT -->
+        <div class="page-content">
+          <div class="header">
+            <h1><strong>Coin</strong> Capitalizations</h1>
+            <div class="breadcrumb-wrapper">
+              <ol class="breadcrumb">
+                <li><a href="/">Home</a>
+                </li>
+                <li><a href="#">Bitcoin</a>
+                </li>
+                <li class="active">Converter</li>
+              </ol>
+            </div>
+          </div>
+          <!-- Content -->
+          <div class="row">
+
+            <div class="col-md-12 portlets">
+              <div class="panel">
+
+
+                <div class="panel-content">
+                  <table class="table table-hover table-dynamic filter-select">
+                    <thead>
+                      <tr>
+                        <th>N.</th>
+                        <th>Name</th>
+                        <th>Price</th>
+                        <th>7d</th>
+                        <th>30d</th>
+                        <th>90d</th>
+                        <th>Market Cap</th>
+                        <th>Volume (24h)</th>
+                        <th>Circ. Supply</th>
+                        <th>7d Price</th>
+                      </tr>
+                    </thead>
+                    <tfoot>
+                      <tr>
+                        <th>N.</th>
+                        <th>Name</th>
+                        <th>Price</th>
+                        <th>7d</th>
+                        <th>30d</th>
+                        <th>90d</th>
+                        <th>Market Cap</th>
+                        <th>Volume (24h)</th>
+                        <th>Circ. Supply</th>
+                        <th>7d Price</th>
+                      </tr>
+                    </tfoot>
+                    <tbody>
+                    
+                    <tr>
+                        <td><.html echo $key + 1;?></td>
+                        <td><.html echo $_ticker['name'];?></td>
+                        <td><.html echo $_ticker['price_usd'];?></td>
+                        <td class="bg-green">10%</td>
+                        <td class="bg-red">-10%</td>
+                        <td class="bg-green">100%</td>
+                        <td><.html echo $_ticker['market_cap_usd'];?></td>
+                        <td><.html echo $_ticker['24h_volume_usd'];?></td>
+                        <td><.html echo $_ticker['available_supply'];?></td>
+                        <td><img src="https://files.coinmarketcap.com/generated/sparklines/1.png" align="charts"></td>
+                      </tr>
+                  
+
+                      
+                      
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="footer">
+            <div class="copyright">
+              <p class="pull-left sm-pull-reset">
+                <span>Copyright <span class="copyright">©</span> 2016 </span>
+                <span>THEMES LAB</span>.
+                <span>All rights reserved. </span>
+              </p>
+              <p class="pull-right sm-pull-reset">
+                <span><a href="#" class="m-r-10">Support</a> | <a href="#" class="m-l-10 m-r-10">Terms of use</a> | <a href="#" class="m-l-10">Privacy Policy</a></span>
+              </p>
+            </div>
+          </div>
+        </div>
+        <!-- END PAGE CONTENT -->
+      </div>
+      <!-- END MAIN CONTENT -->
+
+    </section>
+
+    <!-- BEGIN SEARCH -->
+    {% include search.html %}
+    <!-- END SEARCH -->
+    <!-- BEGIN PRELOADER -->
+    <div class="loader-overlay">
+      <div class="spinner">
+        <div class="bounce1"></div>
+        <div class="bounce2"></div>
+        <div class="bounce3"></div>
+      </div>
+    </div>
+    <!-- END PRELOADER -->
+    <a href="#" class="scrollup"><i class="fa fa-angle-up"></i></a> 
+    {% include js.html %}
+    <script src="../assets/global/js/pages/table_dynamic.js"></script>
+  </body>
+</html>
+
+<style>
+  .table.filter-head>thead>tr>th {min-width: 180px;}
+</style>

@@ -1,0 +1,74 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "ReeCoin (REE) - Live streaming prices and market cap",
+            "PageDescription": "Live ReeCoin prices from all markets and REE coin market Capitalization. Stay up to date with the latest ReeCoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351096\/ree.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "22418",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "ReeCoin (REE)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "REE",
+            "Url": "\/coins\/ree\/",
+            "BaseAngularUrl": "\/coins\/ree\/",
+            "Name": "ReeCoin",
+            "ImageUrl": "\/media\/351096\/ree.png",
+            "Description": "<p><span>ReeCoin is a peer-to-peer PoW\/PoS hybrid\u00a0cryptocurrency with increased security and a fast consensus mechanism.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "350000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "08\/05\/2016",
+            "Twitter": "@SpaceCoinLab",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926588,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 90,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 2560000000,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~LiveCoin~REE~ETH",
+            "2~Yobit~REE~USD",
+            "2~LiveCoin~REE~BTC",
+            "2~Yobit~REE~RUR",
+            "2~Yobit~REE~BTC",
+            "2~LiveCoin~REE~USD",
+            "2~Yobit~REE~DOGE",
+            "2~Yobit~REE~ETH"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~REE~ETH~4~2e-7~1515848447~10687.49999999~0.002137499999998~243505256~0~0~0~0~2e-7~2e-7~2e-7~2e-7~2e-7~2e-7~LiveCoin~7ffe9",
+            "5~CCCAGG~REE~USD~1~0.03~1515920454~18.54573347~0.5563720040999999~200000006~491850.631234~111.5296549990328~73.07118476~2.1921355428~0.03~0.03~0.0002201~0.03~0.03~0.03~Yobit~7ffe9",
+            "5~CCCAGG~REE~BTC~4~0.00000165~1515894157~277.79902418~0.000458368389897~200000017~277.79902418~0.000458368389897~1778.81974244~0.0055600219534782~0.00000162~0.00000165~0.00000162~0.00000344~0.00000344~0.00000162~Yobit~7ffe9",
+            "5~CCCAGG~REE~RUR~4~5.4~1515921715~0.17950659~0.9693355824098681~200000015~103.02614679~104.93701117340804~616.28534285~1542.062760141408~2.8~5.4~1.01~5.4~5.4~1.01~Yobit~7ffe9",
+            "5~CCCAGG~REE~DOGE~4~6.6~1515808341~100~660~200000004~0~0~0~0~6.6~6.6~6.6~6.6~6.6~6.6~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

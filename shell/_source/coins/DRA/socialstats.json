@@ -1,0 +1,154 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "DRA",
+            "CoinName": "DraculaCoin",
+            "Type": "Webpagecoinp",
+            "Points": 100
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4607,
+                    "Name": "SoleCoin",
+                    "FullName": "SoleCoin (SOLE)",
+                    "ImageUrl": "\/media\/20431\/sole.png",
+                    "Url": "\/coins\/sole\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 39710,
+                    "Name": "ReturnCoin",
+                    "FullName": "ReturnCoin (RNC)",
+                    "ImageUrl": "\/media\/1382240\/rnc.png",
+                    "Url": "\/coins\/rnc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33127,
+                    "Name": "PenCoin",
+                    "FullName": "PenCoin (PEN)",
+                    "ImageUrl": "\/media\/20384\/pen.png",
+                    "Url": "\/coins\/pen\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8832,
+                    "Name": "Ghoul Coin",
+                    "FullName": "Ghoul Coin (GHOUL)",
+                    "ImageUrl": "\/media\/20701\/ghoul.png",
+                    "Url": "\/coins\/ghoul\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33526,
+                    "Name": "FistBump",
+                    "FullName": "FistBump (FIST)",
+                    "ImageUrl": "\/media\/352056\/fist.png",
+                    "Url": "\/coins\/fist\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29198,
+                    "Name": "Unfed Coin",
+                    "FullName": "Unfed Coin (UNF)",
+                    "ImageUrl": "\/media\/351626\/unf.png",
+                    "Url": "\/coins\/unf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645913,
+                    "Name": "PhilsCurrency",
+                    "FullName": "PhilsCurrency (PHILS)",
+                    "ImageUrl": "\/media\/20780702\/phils.png",
+                    "Url": "\/coins\/phils\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 453581,
+                    "Name": "BitCoal",
+                    "FullName": "BitCoal (COAL)",
+                    "ImageUrl": "\/media\/16746586\/coal.png",
+                    "Url": "\/coins\/coal\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5377,
+                    "Name": "ChildCoin",
+                    "FullName": "ChildCoin (CHILD)",
+                    "ImageUrl": "\/media\/20233\/child.png",
+                    "Url": "\/coins\/child\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4326,
+                    "Name": "Aegis",
+                    "FullName": "Aegis (AGS)",
+                    "ImageUrl": "\/media\/19595\/ags.png",
+                    "Url": "\/coins\/ags\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 85728,
+                    "Name": "grigoriodesmo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/85728\/f109bd9b-bc3e-4e33-8397-c99b63252361.jpg",
+                    "Url": "\/profile\/grigoriodesmo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 332127,
+                    "Name": "nams2thuy9293",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/332127\/365d1e8a-393e-4b1f-8acf-69be2b726416.jpg",
+                    "Url": "\/profile\/nams2thuy9293\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 3762,
+                    "Name": "electronpositive",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/3762\/ee6962b9-a093-4c5d-932a-699ff5067f08.png",
+                    "Url": "\/profile\/electronpositive\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 353,
+                "Markets": 39,
+                "Analysis": 75,
+                "Charts": 15,
+                "Trades": 16,
+                "Orderbook": 0,
+                "Forum": 13,
+                "Influence": 7
+            },
+            "PageViews": 518
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

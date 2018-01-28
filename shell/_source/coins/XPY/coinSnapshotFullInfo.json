@@ -1,0 +1,79 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "PayCoin (XPY) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "Live PayCoin prices from all markets and XPY coin market Capitalization. Stay up to date with the latest PayCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20076\/xpy_1.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "5030",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "PayCoin (XPY)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "XPY",
+            "Url": "\/coins\/xpy\/",
+            "BaseAngularUrl": "\/coins\/xpy\/",
+            "Name": "PayCoin",
+            "ImageUrl": "\/media\/20076\/xpy_1.png",
+            "Description": "<p>Paycoin is an SHA256 cryptocurrency\u00a0that switched from Proof of Work to Proof of Stake. XPY can be sent internationally almost instantly and with low fees.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "12500000",
+            "Algorithm": "SHA256",
+            "ProofType": "PoS",
+            "StartDate": "12\/12\/2014",
+            "Twitter": "",
+            "AffiliateUrl": "https:\/\/paycoin.com\/",
+            "Website": "<a href='https:\/\/paycoin.com\/' target='_blank'>PayCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515947492,
+            "DifficultyAdjustment": "Per 1 Block",
+            "BlockRewardReduction": "-",
+            "BlockNumber": 1426840,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 11840125.217873,
+            "PreviousTotalCoinsMined": 11840123.197993,
+            "BlockReward": 0.09445733212245
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~XPY~BTC",
+            "2~Cryptsy~XPY~BTC",
+            "2~CCEX~XPY~USD",
+            "2~Yobit~XPY~DOGE",
+            "2~BXinth~XPY~BTC",
+            "2~CCEX~XPY~BTC",
+            "2~Yobit~XPY~RUR",
+            "2~Yobit~XPY~ETH",
+            "2~BitTrex~XPY~BTC",
+            "2~Yobit~XPY~USD",
+            "2~Yobit~XPY~WAVES",
+            "2~Cryptsy~XPY~USD"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~XPY~BTC~4~0.0000072~1515947713~356.25451387~0.0027680975727699~5399586~29191.729533840004~0.21771603309763737~29319.942901439998~0.2187135330975653~0.0000066~0.0000072~0.0000066~0.0000066~0.0000072~0.0000066~BXinth~7ffe9",
+            "5~CCCAGG~XPY~USD~4~0.09~1515785290~58.56638209~5.2709743881~200000007~0~0~0~0~0.09~0.09~0.09~0.09~0.09~0.09~Yobit~7ffe9",
+            "5~CCCAGG~XPY~DOGE~4~98.99998999~1515722112~1~98.99998999~200000001~0~0~0~0~99~99~98.99998999~98.99998999~98.99998999~98.99998999~Yobit~7ffe9",
+            "5~CCCAGG~XPY~RUR~4~4~1515945897~0.96657168~3.8662871452915395~200000012~2.0110559~8.832583809425405~2.0110559~8.832583809425405~4~18.9~4~18.9~18.9~4~Yobit~7ffe9",
+            "5~CCCAGG~XPY~ETH~4~0.000104~1515876816~100~0.010399~200000002~0~0~100~0.010399~0.000104~0.000104~0.000104~0.00025~0.00025~0.000104~Yobit~7ffe9",
+            "5~CCCAGG~XPY~WAVES~4~0.002778~1511227759~0.96977355~0.0026940309219~160873434~0~0~0~0~0.002778~0.002778~0.002778~0.002778~0.002778~0.002778~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

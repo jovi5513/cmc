@@ -1,0 +1,89 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "GeoCoin (GEO) - Live streaming prices and market cap",
+            "PageDescription": "Live GeoCoin prices from all markets and GEO coin market Capitalization. Stay up to date with the latest GeoCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20292\/geo.png",
+            "OgImageWidth": "256",
+            "OgImageHeight": "256"
+        },
+        "General": {
+            "Id": "3647",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "GeoCoin (GEO)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "GEO",
+            "Url": "\/coins\/geo\/",
+            "BaseAngularUrl": "\/coins\/geo\/",
+            "Name": "GeoCoin",
+            "ImageUrl": "\/media\/20292\/geo.png",
+            "Description": "<p>GeoCoins are simple, geocaching-themed, virtual \u201ccoins.\u201d They are designed to be easy to create, easy to collect and easy to share with your friends! At their most simple, GeoCoins will allow you to send and\u00a0receive\u00a0virtual GeoCoins encoded with short personal messages.<br \/>On the technical side of things, cryptographic proof-of-work provides a \u00a0real-time peer to peer network of transaction verification, a \u201cpublic ledger\u201d of synchronized numbers, and unique possibilities for math-based puzzles.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "1000000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "",
+            "StartDate": "18\/08\/2013",
+            "Twitter": "@geo_coin",
+            "AffiliateUrl": "http:\/\/geo.money\/",
+            "Website": "<a href='http:\/\/geo.money\/' target='_blank'>GeoCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515947464,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 1550878,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 2470884466487,
+            "TotalCoinsMined": 3383878,
+            "PreviousTotalCoinsMined": 3383863,
+            "BlockReward": 1
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Poloniex~GEO~BTC",
+            "2~Cryptopia~GEO~LTC",
+            "2~CCEX~GEO~DOGE",
+            "2~Yobit~GEO~DOGE",
+            "2~Cryptopia~GEO~BTC",
+            "2~BitTrex~GEO~BTC",
+            "2~Cryptopia~GEO~DOT",
+            "2~Yobit~GEO~RUR",
+            "2~CCEX~GEO~BTC",
+            "2~Yobit~GEO~BTC",
+            "2~Yobit~GEO~WAVES",
+            "2~Cryptopia~GEO~POP",
+            "2~Yobit~GEO~ETH",
+            "2~Yobit~GEO~USD",
+            "2~Cryptopia~GEO~FTC",
+            "2~Cryptopia~GEO~DOGE",
+            "2~Cryptopia~GEO~UNO"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~GEO~BTC~2~0.0006109~1515948145~4.89639073~0.00299169~9104611~35917.41448692002~23.085116198387226~60287.501051549996~38.31650031322409~0.0006491~0.0006733~0.0006105~0.00063~0.0006724~0.0006099~BitTrex~7ffe9",
+            "5~CCCAGG~GEO~LTC~4~0.06945656~1515193513~7.20061556~0.50012999~1515193513~0~0~0~0~0.06946~0.06946~0.06945656~0.06945656~0.06945656~0.06945656~Cryptopia~7ffe9",
+            "5~CCCAGG~GEO~DOGE~4~910.49999999~1515665810~0.21965952~199.9999929578034~184093808~0~0~0~0~910.5~910.5~910.49999999~910.49999999~910.49999999~910.49999999~Yobit~7ffe9",
+            "5~CCCAGG~GEO~DOT~4~5.00000003~1485667263~0.00497163~0.024858~1485667263~0~0~0~0~5.00000003~5.00000003~5.00000003~5.00000003~5.00000003~5.00000003~Cryptopia~7ffe9",
+            "5~CCCAGG~GEO~RUR~4~500~1515929135~0.01320093~6.600465~200000011~0.01320093~6.600465~0.01320093~6.600465~270~500~270~500~500~500~Yobit~7ffe9",
+            "5~CCCAGG~GEO~WAVES~4~0.14900007~1515696242~0.79252223~0.1180858677465561~184351718~0~0~0~0~0.149~0.14900007~0.149~0.14900007~0.14900007~0.14900007~Yobit~7ffe9",
+            "5~CCCAGG~GEO~POP~4~59000~1455757512~0.00000362~0.21358~1455757512~0~0~0~0~59000~59000~59000~59000~59000~59000~Cryptopia~7ffe9",
+            "5~CCCAGG~GEO~ETH~4~0.007898~1515909566~0.5~0.00394898~200000007~0.5~0.00394898~0.5~0.00394898~0.007618~0.007898~0.007618~0.007618~0.007898~0.007618~Yobit~7ffe9",
+            "5~CCCAGG~GEO~USD~4~11.88~1515837964~0.01718933~0.2042092404~200000018~0~0~0~0~11.88~11.88~11.88~11.88~11.88~11.88~Yobit~7ffe9",
+            "5~CCCAGG~GEO~FTC~4~2.35000001~1488337905~0.00001273~0.00003~1488337905~0~0~0~0~2.35000001~2.35000001~2.35000001~2.35000001~2.35000001~2.35000001~Cryptopia~7ffe9",
+            "5~CCCAGG~GEO~UNO~4~0.042~1498024748~0.09172095~0.00385228~1498024748~0~0~0~0~0.042~0.042~0.042~0.042~0.042~0.042~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

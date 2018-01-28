@@ -1,0 +1,191 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "DIEM",
+            "CoinName": "CarpeDiemCoin",
+            "Type": "Webpagecoinp",
+            "Points": 219
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 22430,
+                    "Name": "XDE II",
+                    "FullName": "XDE II (XDE2)",
+                    "ImageUrl": "\/media\/351100\/xde2.png",
+                    "Url": "\/coins\/xde2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4404,
+                    "Name": "CryptoBuk",
+                    "FullName": "CryptoBuk (BUK)",
+                    "ImageUrl": "\/media\/19637\/buk.png",
+                    "Url": "\/coins\/buk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5376,
+                    "Name": "XG Sports",
+                    "FullName": "XG Sports (XG)",
+                    "ImageUrl": "\/media\/20156\/xg.png",
+                    "Url": "\/coins\/xg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5394,
+                    "Name": "MasterCoin",
+                    "FullName": "MasterCoin (MSC)",
+                    "ImageUrl": "\/media\/19814\/mst.png",
+                    "Url": "\/coins\/msc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33639,
+                    "Name": "365Coin",
+                    "FullName": "365Coin (365)",
+                    "ImageUrl": "\/media\/352070\/365.png",
+                    "Url": "\/coins\/365\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22453,
+                    "Name": "GenesysCoin",
+                    "FullName": "GenesysCoin (GSY)",
+                    "ImageUrl": "\/media\/351103\/gsy.png",
+                    "Url": "\/coins\/gsy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5302,
+                    "Name": "Sling Coin",
+                    "FullName": "Sling Coin (SLING)",
+                    "ImageUrl": "\/media\/20425\/sling.png",
+                    "Url": "\/coins\/sling\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182396,
+                    "Name": "ImperialCoin",
+                    "FullName": "ImperialCoin (IPC)",
+                    "ImageUrl": "\/media\/1383776\/ipc.png",
+                    "Url": "\/coins\/ipc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43937,
+                    "Name": "HazeCoin",
+                    "FullName": "HazeCoin (HAZE)",
+                    "ImageUrl": "\/media\/1382595\/haze.png",
+                    "Url": "\/coins\/haze\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21652,
+                    "Name": "Dark Lisk",
+                    "FullName": "Dark Lisk (DISK)",
+                    "ImageUrl": "\/media\/351023\/disk.png",
+                    "Url": "\/coins\/disk\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 43840,
+                    "Name": "anatoliy2020074",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/43840\/2c162e60-353b-46c1-821e-57f9490b4989.jpg",
+                    "Url": "\/profile\/anatoliy2020074\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 335984,
+                    "Name": "pavlic9",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/335984\/822b03fd-c153-4803-9dbf-2d5b6d4d4808.jpg",
+                    "Url": "\/profile\/pavlic9\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 17079,
+                    "Name": "mike_blue7",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/17079\/ec709b01-70d0-4387-953a-f130f8ec8bf4.jpg",
+                    "Url": "\/profile\/mike_blue7\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 17423,
+                    "Name": "Kanopt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/17423\/d9aa0e8f-c15a-435b-b257-0e0674a3a600.png",
+                    "Url": "\/profile\/Kanopt\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Posts": "3",
+            "Comments": "1",
+            "Points": 210,
+            "PageViewsSplit": {
+                "Overview": 985,
+                "Markets": 137,
+                "Analysis": 131,
+                "Charts": 91,
+                "Trades": 136,
+                "Orderbook": 14,
+                "Forum": 108,
+                "Influence": 50
+            },
+            "PageViews": 1652
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1500956891",
+                    "url": "https:\/\/github.com\/CarpeDiemCoin\/CarpeDiemLaunch",
+                    "forks": 2,
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "size": "12788",
+                    "created_at": "1394693659",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "TypeScript",
+                    "open_total_issues": "0",
+                    "last_push": "1394823086",
+                    "stars": 2
+                }
+            ],
+            "Points": 9
+        }
+    }
+}

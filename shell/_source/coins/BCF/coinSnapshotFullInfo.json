@@ -1,0 +1,85 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BitcoinFast (BCF) - Live streaming prices and market cap",
+            "PageDescription": "Live BitcoinFast prices from all markets and BCF coin market Capitalization. Stay up to date with the latest BitcoinFast price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/352189\/btf.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "34854",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "BitcoinFast (BCF)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BCF",
+            "Url": "\/coins\/bcf\/",
+            "BaseAngularUrl": "\/coins\/bcf\/",
+            "Name": "BitcoinFast",
+            "ImageUrl": "\/media\/352189\/btf.png",
+            "Description": "<p>BitCoinFast is a PoW\/PoS cryptocurrency created to be a faster version of Bitcoin. It has a 60 second block time and uses the Scrypt algorithm. BCF has\u00a033 Million POW Coins and a 25% Annual Stake.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "33000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "01\/01\/0001",
+            "Twitter": "@BitCoinFastTeam",
+            "AffiliateUrl": "https:\/\/bitcoinfast.wordpress.com\/",
+            "Website": "<a href='https:\/\/bitcoinfast.wordpress.com\/' target='_blank'>BitcoinFast<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515952029,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 609666,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 8280182.675281,
+            "PreviousTotalCoinsMined": 8280152.675281,
+            "BlockReward": 10
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~BCF~UNO",
+            "2~Cryptopia~BCF~ETH",
+            "2~Cryptopia~BCF~XMR",
+            "2~Cryptopia~BCF~DOGE",
+            "2~WavesDEX~BCF~WAVES",
+            "2~Cryptopia~BCF~DOT",
+            "2~Cryptopia~BCF~LTC",
+            "2~WavesDEX~BCF~BTC",
+            "2~Novaexchange~BCF~BTC",
+            "2~BitTrex~BCF~BTC",
+            "2~Novaexchange~BCF~ETH",
+            "2~Cryptopia~BCF~FTC",
+            "2~Cryptopia~BCF~POP",
+            "2~Cryptopia~BCF~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BCF~UNO~4~0.0002~1498038572~1~0.0002~1498038572~0~0~0~0~0.0002~0.0002~0.0002~0.0002~0.0002~0.0002~Cryptopia~7ffe9",
+            "5~CCCAGG~BCF~ETH~4~0.00000786~1502655343~15.26717557~0.00011999999998019998~1502655343000~0~0~0~0~0.00000786~0.00000786~0.00000786~0.00000786~0.00000786~0.00000786~Novaexchange~7ffe9",
+            "5~CCCAGG~BCF~XMR~4~5e-8~1485074836~900~0.000045~1485074836~0~0~0~0~5e-8~5e-8~5e-8~5e-8~5e-8~5e-8~Cryptopia~7ffe9",
+            "5~CCCAGG~BCF~DOGE~4~12.00000007~1515173547~427.74234783~5132.9082039~1515173547~0~0~0~0~12~12.00000007~12~12.00000007~12.00000007~12.00000007~Cryptopia~7ffe9",
+            "5~CCCAGG~BCF~WAVES~4~2.6e-7~1515334572~35000~0.0091~4Qce7N6t7GszYZacJb7onxR75puifCvrpYCozKSeRxPY~0~0~0~0~2.6e-7~2.6e-7~2.6e-7~2.6e-7~2.6e-7~2.6e-7~WavesDEX~7ffe9",
+            "5~CCCAGG~BCF~DOT~4~1.2~1485666931~105.989522~127.187426~1485666931~0~0~0~0~1.2~1.2~1.2~1.2~1.2~1.2~Cryptopia~7ffe9",
+            "5~CCCAGG~BCF~LTC~4~0.00049594~1515183981~22.53960871~0.01117829~1515183981~0~0~0~0~0.0004959~0.00049594~0.0004959~0.00049594~0.00049594~0.00049594~Cryptopia~7ffe9",
+            "5~CCCAGG~BCF~BTC~4~0.0000268~1515951177~2367.83672655~0.06345802~1515951177~151192.79790976012~2.9246209100000002~199249.07721810002~3.626847360000001~0.00001509~0.00002767~0.00001463~0.00001434~0.00002767~0.00001427~Cryptopia~7ffe9",
+            "5~CCCAGG~BCF~FTC~4~0.00381048~1485074736~262.43412903~1~1485074736.002~0~0~0~0~0.00381048~0.00381048~0.00381048~0.00381048~0.00381048~0.00381048~Cryptopia~7ffe9",
+            "5~CCCAGG~BCF~POP~4~18.30066405~1459021932~5~91.50332~1459021932~0~0~0~0~18.30066405~18.30066405~18.30066405~18.30066405~18.30066405~18.30066405~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

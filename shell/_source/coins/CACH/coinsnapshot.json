@@ -1,0 +1,66 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "CACH",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "2",
+            "PRICE": "0.0000113",
+            "LASTUPDATE": "1516089548",
+            "LASTVOLUME": "46",
+            "LASTVOLUMETO": "0.0005198",
+            "LASTTRADEID": "1516089548",
+            "VOLUMEDAY": "58257.12991907997",
+            "VOLUMEDAYTO": "0.8411888500000002",
+            "VOLUME24HOUR": "323008.43524591986",
+            "VOLUME24HOURTO": "4.32064002",
+            "OPENDAY": "0.00001799",
+            "HIGHDAY": "0.0000197",
+            "LOWDAY": "0.0000099",
+            "OPEN24HOUR": "0.00000766",
+            "HIGH24HOUR": "0.0000197",
+            "LOW24HOUR": "0.00000738",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "CACH",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.0000113",
+                "LASTUPDATE": "1516089548",
+                "LASTVOLUME": "46",
+                "LASTVOLUMETO": "0.0005198",
+                "LASTTRADEID": "1516089548",
+                "VOLUME24HOUR": "323008.43524591986",
+                "VOLUME24HOURTO": "4.32064002",
+                "OPEN24HOUR": "0.00000766",
+                "HIGH24HOUR": "0.0000197",
+                "LOW24HOUR": "0.00000738"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "CACH",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000308",
+                "LASTUPDATE": "1452793709",
+                "LASTVOLUME": "116.87429393",
+                "LASTVOLUMETO": "0.00035997",
+                "LASTTRADEID": "110936641",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000308",
+                "HIGH24HOUR": "0.00000308",
+                "LOW24HOUR": "0.00000308"
+            }
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "NYAN",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "1",
+            "PRICE": "4.1e-7",
+            "LASTUPDATE": "1516089534",
+            "LASTVOLUME": "1460.49364685",
+            "LASTVOLUMETO": "0.0005988",
+            "LASTTRADEID": "1516089534",
+            "VOLUMEDAY": "83910.00115134999",
+            "VOLUMEDAYTO": "0.034538639999999995",
+            "VOLUME24HOUR": "547494.30462424",
+            "VOLUME24HOURTO": "0.24856202",
+            "OPENDAY": "4.5e-7",
+            "HIGHDAY": "4.5e-7",
+            "LOWDAY": "3.7e-7",
+            "OPEN24HOUR": "4.8e-7",
+            "HIGH24HOUR": "4.9e-7",
+            "LOW24HOUR": "3.7e-7",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Novaexchange",
+                "FROMSYMBOL": "NYAN",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "7e-8",
+                "LASTUPDATE": "1510304898",
+                "LASTVOLUME": "135275.79511111",
+                "LASTVOLUMETO": "0.009469305657777701",
+                "LASTTRADEID": "1510304898001",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "7e-8",
+                "HIGH24HOUR": "7e-8",
+                "LOW24HOUR": "7e-8"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "NYAN",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "4.1e-7",
+                "LASTUPDATE": "1516089534",
+                "LASTVOLUME": "1460.49364685",
+                "LASTVOLUMETO": "0.0005988",
+                "LASTTRADEID": "1516089534",
+                "VOLUME24HOUR": "547494.30462424",
+                "VOLUME24HOURTO": "0.24856202",
+                "OPEN24HOUR": "4.8e-7",
+                "HIGH24HOUR": "4.9e-7",
+                "LOW24HOUR": "3.7e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "NYAN",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "1.7e-7",
+                "LASTUPDATE": "1452803127",
+                "LASTVOLUME": "12756.42741313",
+                "LASTVOLUMETO": "0.00216859",
+                "LASTTRADEID": "110940818",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "1.7e-7",
+                "HIGH24HOUR": "1.7e-7",
+                "LOW24HOUR": "1.7e-7"
+            }
+        ]
+    },
+    "Type": 100
+}

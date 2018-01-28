@@ -1,0 +1,162 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "EVENT",
+            "CoinName": "Event Token",
+            "Type": "Webpagecoinp",
+            "Points": 340
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4450,
+                    "Name": "FractalCoin",
+                    "FullName": "FractalCoin (FRAC)",
+                    "ImageUrl": "\/media\/19710\/frac.png",
+                    "Url": "\/coins\/frac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6088,
+                    "Name": "Viral Coin",
+                    "FullName": "Viral Coin (VIRAL)",
+                    "ImageUrl": "\/media\/20472\/viral.png",
+                    "Url": "\/coins\/viral\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21007,
+                    "Name": "Aiden",
+                    "FullName": "Aiden (ADN)",
+                    "ImageUrl": "\/media\/350993\/adn.png",
+                    "Url": "\/coins\/adn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5346,
+                    "Name": "Pebble Coin",
+                    "FullName": "Pebble Coin (XPB)",
+                    "ImageUrl": "\/media\/20158\/xpb.png",
+                    "Url": "\/coins\/xpb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5366,
+                    "Name": "GigCoin",
+                    "FullName": "GigCoin (GIG)",
+                    "ImageUrl": "\/media\/20294\/gig.png",
+                    "Url": "\/coins\/gig\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3641,
+                    "Name": "GiveCoin",
+                    "FullName": "GiveCoin (GIVE)",
+                    "ImageUrl": "\/media\/20297\/give.png",
+                    "Url": "\/coins\/give\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28772,
+                    "Name": "SteamPunk",
+                    "FullName": "SteamPunk (PNK)",
+                    "ImageUrl": "\/media\/351557\/pnk.png",
+                    "Url": "\/coins\/pnk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29193,
+                    "Name": "PantherCoin",
+                    "FullName": "PantherCoin (PINKX)",
+                    "ImageUrl": "\/media\/351624\/pinkx.png",
+                    "Url": "\/coins\/pinkx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44799,
+                    "Name": "NukeCoin",
+                    "FullName": "NukeCoin (NUKE)",
+                    "ImageUrl": "\/media\/1382626\/nuke.png",
+                    "Url": "\/coins\/nuke\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34754,
+                    "Name": "Metal Music v3",
+                    "FullName": "Metal Music v3 (MTLM3)",
+                    "ImageUrl": "\/media\/352183\/mtmc3.png",
+                    "Url": "\/coins\/mtlm3\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 375247,
+                    "Name": "nattawatll9525",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/375247\/717303e4-ec2f-463c-8930-561c93f8c021.jpg",
+                    "Url": "\/profile\/nattawatll9525\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 359390,
+                    "Name": "GBiz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/359390\/dffa7b80-59b2-4a45-8f50-545ef031b39d.png",
+                    "Url": "\/profile\/GBiz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 305958,
+                    "Name": "Karmia",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/305958\/946d510f-58c9-4dbc-b337-49dbaa90a608.jpg",
+                    "Url": "\/profile\/Karmia\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 48519,
+                    "Name": "wajidpk350",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/48519\/bc21d498-9a77-42b6-b556-77188ea765e4.jpg",
+                    "Url": "\/profile\/wajidpk350\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 125,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 1270,
+                "Markets": 33,
+                "Analysis": 16,
+                "Charts": 31,
+                "Trades": 14,
+                "Orderbook": 1,
+                "Forum": 36,
+                "Influence": 15
+            },
+            "PageViews": 1416
+        },
+        "Twitter": {
+            "favourites": "3",
+            "lists": 3,
+            "name": "Event Token",
+            "statuses": 70,
+            "followers": 200,
+            "following": "196",
+            "account_creation": "1414404606",
+            "link": "https:\/\/twitter.com\/EventToken",
+            "Points": 215
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

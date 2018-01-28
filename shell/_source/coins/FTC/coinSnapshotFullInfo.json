@@ -1,0 +1,86 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "FeatherCoin (FTC) - Live streaming prices and market cap",
+            "PageDescription": "Live FeatherCoin prices from all markets and FTC coin market Capitalization. Stay up to date with the latest FeatherCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19718\/ftc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4524",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "FeatherCoin (FTC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "FTC",
+            "Url": "\/coins\/ftc\/",
+            "BaseAngularUrl": "\/coins\/ftc\/",
+            "Name": "FeatherCoin",
+            "ImageUrl": "\/media\/19718\/ftc.png",
+            "Description": "<p>Feathercoin is based on Litecoin, which is safeguarded from the effects of Bitcoin ASIC mining until now. It has a block reward of 200 coins and will have a total of 336 million coins. The start block reward was 80 coins and halves every 840,000 blocks. The coin has 336 million as a hard cap and the block target is 1 minute - difficulty is damped at 25%. Feathercoin is a UK Oxford based initiative and as such has a following locally with some merchants accepting the currency. The website also has its own shop where you can post and sell goods for FTC - or Feathercoins.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "336000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "16\/04\/2013",
+            "Twitter": "@Feathercoin",
+            "AffiliateUrl": "https:\/\/www.feathercoin.com\/",
+            "Website": "<a href='https:\/\/www.feathercoin.com\/' target='_blank'>FeatherCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515948687,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 2047308,
+            "BlockTime": 59,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 178108109.769,
+            "BlockReward": 40
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~BTER~FTC~BTC",
+            "2~Cryptsy~FTC~USD",
+            "2~Cexio~FTC~BTC",
+            "2~Cryptsy~FTC~LTC",
+            "2~BTER~FTC~CNY",
+            "2~Cryptopia~FTC~ETH",
+            "2~Coinse~FTC~BTC",
+            "2~Cryptsy~FTC~XRP",
+            "2~BitTrex~FTC~BTC",
+            "2~Cryptopia~FTC~UNO",
+            "2~Cexio~FTC~LTC",
+            "2~BXinth~FTC~BTC",
+            "2~Cryptopia~FTC~BTC",
+            "2~EtherDelta~FTC~ETH",
+            "2~Cryptopia~FTC~LTC",
+            "2~Cryptopia~FTC~DOGE",
+            "2~Cryptsy~FTC~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~FTC~BTC~2~0.00003587~1515948675~904.74306733~0.03244408~15709008~3047225.9982616575~115.76589174891011~3278046.1940531423~124.52148786634453~0.00003762~0.00004166~0.00003551~0.00003734~0.00004172~0.0000355~BitTrex~7ffe9",
+            "5~CCCAGG~FTC~USD~4~0.00568177~1452473185~43.07252819~0.2447282~110774845~0~0~0.00568177~0.00568177~0.00568177~Cryptsy~78ce9",
+            "5~CCCAGG~FTC~LTC~4~0.00225~1515196110~6.36899265~0.01433023~1515196110~0~0~0~0~0.00225~0.00225~0.00225~0.00225~0.00225~0.00225~Cryptopia~7ffe9",
+            "5~CCCAGG~FTC~CNY~4~0.186~1508489431~507.75839~94.44306054~27955516~0~0~0~0~0.186~0.186~0.186~0.186~0.186~0.186~BTER~7ffe9",
+            "5~CCCAGG~FTC~ETH~4~0.00026650540000158903~1505120144~3.7175884616e-8~9.907574e-12~1505120144000~0~0~0~0~0.00026650540000158903~0.00026650540000158903~0.00026650540000158903~0.00026650540000158903~0.00026650540000158903~0.00026650540000158903~EtherDelta~7ffe9",
+            "5~CCCAGG~FTC~XRP~4~1.00000013~1452818753~11.1033197~11.10332114~110945339~0~0~1.00000013~1.00000013~1.00000013~Cryptsy~78ce9",
+            "5~CCCAGG~FTC~UNO~4~0.002~1498058564~0.007992~0.00001598~1498058564~0~0~0~0~0.002~0.002~0.002~0.002~0.002~0.002~Cryptopia~7ffe9",
+            "5~CCCAGG~FTC~DOGE~4~44.00000002~1515193705~19.96~878.2400004~1515193705~0~0~0~0~44~44.00000002~44~44.00000002~44.00000002~44.00000002~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

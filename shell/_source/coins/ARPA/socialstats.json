@@ -1,0 +1,189 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ARPA",
+            "CoinName": "ArpaCoin",
+            "Type": "Webpagecoinp",
+            "Points": 135
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 44803,
+                    "Name": "EveryonesCoin",
+                    "FullName": "EveryonesCoin (EOC)",
+                    "ImageUrl": "\/media\/1382628\/eoc.png",
+                    "Url": "\/coins\/eoc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 586638,
+                    "Name": "BitAsean",
+                    "FullName": "BitAsean (BAS)",
+                    "ImageUrl": "\/media\/20780613\/bas.png",
+                    "Url": "\/coins\/bas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24887,
+                    "Name": "RustCoin",
+                    "FullName": "RustCoin (RUST)",
+                    "ImageUrl": "\/media\/351365\/rust.png",
+                    "Url": "\/coins\/rust\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28027,
+                    "Name": "Sense",
+                    "FullName": "Sense (SNS)",
+                    "ImageUrl": "\/media\/351494\/sns.png",
+                    "Url": "\/coins\/sns\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35228,
+                    "Name": "Procom",
+                    "FullName": "Procom (PCM)",
+                    "ImageUrl": "\/media\/352223\/pcm.png",
+                    "Url": "\/coins\/pcm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 313988,
+                    "Name": "StockBet",
+                    "FullName": "StockBet (STOCKBET)",
+                    "ImageUrl": "\/media\/12318119\/stockbet.png",
+                    "Url": "\/coins\/stockbet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44007,
+                    "Name": "Impeach",
+                    "FullName": "Impeach (IMPCH)",
+                    "ImageUrl": "\/media\/1382606\/impch.png",
+                    "Url": "\/coins\/impch\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42435,
+                    "Name": "Klingon Empire Darsek",
+                    "FullName": "Klingon Empire Darsek (KED)",
+                    "ImageUrl": "\/media\/1382390\/ked.png",
+                    "Url": "\/coins\/ked\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21706,
+                    "Name": "Cryptokenz",
+                    "FullName": "Cryptokenz (CYT)",
+                    "ImageUrl": "\/media\/351024\/cyt.png",
+                    "Url": "\/coins\/cyt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28317,
+                    "Name": "TodayCoin",
+                    "FullName": "TodayCoin (TODAY)",
+                    "ImageUrl": "\/media\/351521\/today.png",
+                    "Url": "\/coins\/today\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 588125,
+                    "Name": "snjpra85",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/588125\/862881dc-048e-46bb-97eb-a335c5acc4eb.jpg",
+                    "Url": "\/profile\/snjpra85\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 641015,
+                    "Name": "ebaggio1974",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/641015\/91a4d7d6-0551-4ff2-bc64-3849360739a5.jpg",
+                    "Url": "\/profile\/ebaggio1974\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 615720,
+                    "Name": "OXEL",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/615720\/8e88c34e-75bb-4f64-b5b7-66835ad6ae7c.jpg",
+                    "Url": "\/profile\/OXEL\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 27897,
+                    "Name": "amilton7217",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/27897\/16e254d2-1428-41da-9ff2-110882ff33d5.jpg",
+                    "Url": "\/profile\/amilton7217\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "PageViewsSplit": {
+                "Overview": 334,
+                "Markets": 18,
+                "Analysis": 11,
+                "Charts": 17,
+                "Trades": 22,
+                "Orderbook": 0,
+                "Forum": 8,
+                "Influence": 3
+            },
+            "PageViews": 413
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/arpacoin\/arpacoin",
+                    "last_update": "1481368213",
+                    "forks": 2,
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "subscribers": 2,
+                    "open_issues": "0",
+                    "size": "3664",
+                    "created_at": "1433365148",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1433535740",
+                    "stars": 0
+                }
+            ],
+            "Points": 10
+        }
+    }
+}

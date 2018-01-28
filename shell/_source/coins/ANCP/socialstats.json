@@ -1,0 +1,133 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ANCP",
+            "CoinName": "Anacrypt",
+            "Type": "Webpagecoinp",
+            "Points": 50
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 43598,
+                    "Name": "CircuitCoin",
+                    "FullName": "CircuitCoin (CIR)",
+                    "ImageUrl": "\/media\/1382506\/cir.png",
+                    "Url": "\/coins\/cir\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29455,
+                    "Name": "Tianhe",
+                    "FullName": "Tianhe (TIA)",
+                    "ImageUrl": "\/media\/351636\/tia.png",
+                    "Url": "\/coins\/tia\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4588,
+                    "Name": "PseudoCash",
+                    "FullName": "PseudoCash (PSEUD)",
+                    "ImageUrl": "\/media\/20052\/pseud.png",
+                    "Url": "\/coins\/pseud\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4575,
+                    "Name": "Nimbus Coin",
+                    "FullName": "Nimbus Coin (NMB)",
+                    "ImageUrl": "\/media\/20049\/nmb.png",
+                    "Url": "\/coins\/nmb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28131,
+                    "Name": "FuturePoints",
+                    "FullName": "FuturePoints (FTP)",
+                    "ImageUrl": "\/media\/351501\/ftp.png",
+                    "Url": "\/coins\/ftp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 249784,
+                    "Name": "BuildTeam",
+                    "FullName": "BuildTeam (BT)",
+                    "ImageUrl": "\/media\/9350775\/bt.png",
+                    "Url": "\/coins\/bt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517603,
+                    "Name": "CHIPS",
+                    "FullName": "CHIPS (CHIPS*)",
+                    "ImageUrl": "\/media\/16746673\/chips.png",
+                    "Url": "\/coins\/chips\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 402805,
+                    "Name": "KingN Coin",
+                    "FullName": "KingN Coin (KNC**)",
+                    "ImageUrl": "\/media\/16404850\/knc.png",
+                    "Url": "\/coins\/kncstarstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 373880,
+                    "Name": "Huncoin",
+                    "FullName": "Huncoin (HNC*)",
+                    "ImageUrl": "\/media\/14913529\/hnc.png",
+                    "Url": "\/coins\/hncstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 625173,
+                    "Name": "TokugawaCoin",
+                    "FullName": "TokugawaCoin (TOK)",
+                    "ImageUrl": "\/media\/20780659\/tok.png",
+                    "Url": "\/coins\/tok\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 69674,
+                    "Name": "freetrax",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/69674\/4217b087-414d-4ef8-bc71-15132d65296b.jpg",
+                    "Url": "\/profile\/freetrax\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 50,
+            "Posts": "1",
+            "Followers": 1,
+            "PageViewsSplit": {
+                "Overview": 118,
+                "Markets": 0,
+                "Analysis": 5,
+                "Charts": 3,
+                "Trades": 2,
+                "Orderbook": 0,
+                "Forum": 3,
+                "Influence": 3
+            },
+            "PageViews": 134
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

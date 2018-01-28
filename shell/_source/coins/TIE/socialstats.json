@@ -1,0 +1,225 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "TIE",
+            "CoinName": "Ties Network",
+            "Type": "Webpagecoinp",
+            "Points": 21692
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 346775,
+                    "Name": "Bonpay",
+                    "FullName": "Bonpay (BON*)",
+                    "ImageUrl": "\/media\/12318368\/bon.png",
+                    "Url": "\/coins\/bon\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20822,
+                    "Name": "Krypton",
+                    "FullName": "Krypton (KR)",
+                    "ImageUrl": "\/media\/350974\/kr.png",
+                    "Url": "\/coins\/kr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3649,
+                    "Name": "Spreadcoin",
+                    "FullName": "Spreadcoin (SPR)",
+                    "ImageUrl": "\/media\/20438\/spr.png",
+                    "Url": "\/coins\/spr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 199107,
+                    "Name": "Cosmos",
+                    "FullName": "Cosmos (ATOM*)",
+                    "ImageUrl": "\/media\/1383901\/cosmos.jpg",
+                    "Url": "\/coins\/atomstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 278056,
+                    "Name": "CarTaxi",
+                    "FullName": "CarTaxi (CTX)",
+                    "ImageUrl": "\/media\/12318075\/ctx1.png",
+                    "Url": "\/coins\/ctx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28154,
+                    "Name": "Karbowanec",
+                    "FullName": "Karbowanec (KRB)",
+                    "ImageUrl": "\/media\/351504\/krb.jpg",
+                    "Url": "\/coins\/krb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8695,
+                    "Name": "Rimbit",
+                    "FullName": "Rimbit (RBT)",
+                    "ImageUrl": "\/media\/20407\/rbt.png",
+                    "Url": "\/coins\/rbt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 199065,
+                    "Name": "GCoin",
+                    "FullName": "GCoin (GCN)",
+                    "ImageUrl": "\/media\/1383899\/gcn.png",
+                    "Url": "\/coins\/gcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 393656,
+                    "Name": "Viuly",
+                    "FullName": "Viuly (VIU)",
+                    "ImageUrl": "\/media\/14913680\/viu.png",
+                    "Url": "\/coins\/viu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35823,
+                    "Name": "Incent",
+                    "FullName": "Incent (INCNT)",
+                    "ImageUrl": "\/media\/352296\/incnt.png",
+                    "Url": "\/coins\/incnt\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 277343,
+                    "Name": "gek2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/277343\/def69c76-b006-4fea-a370-927917502049.jpg",
+                    "Url": "\/profile\/gek2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 344085,
+                    "Name": "a.cryptocompare",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/344085\/f7d2185b-52ce-4b23-8b5f-b97718b48440.jpg",
+                    "Url": "\/profile\/a.cryptocompare\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 645751,
+                    "Name": "sferrari2001",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/645751\/98fa1632-c866-430d-b208-3343fcf6c6de.jpg",
+                    "Url": "\/profile\/sferrari2001\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 635376,
+                    "Name": "MISTERJESUS",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/635376\/35184951-b626-412e-bb25-67a9c52ef34e.jpg",
+                    "Url": "\/profile\/MISTERJESUS\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16185,
+                    "Name": "Carre\u00f1o",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16185\/1cd02798-cc97-47df-a6a3-20de2a016431.png",
+                    "Url": "\/profile\/Carre\u00f1o\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 219008,
+                    "Name": "a12.3.1.3.1729.r",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/219008\/c2860339-1fe3-4c44-9bc0-f017cc0b517f.jpg",
+                    "Url": "\/profile\/a12.3.1.3.1729.r\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 386243,
+                    "Name": "migdgim",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/386243\/f6c6a5b4-7025-40b9-b0eb-bc9367a7700a.jpg",
+                    "Url": "\/profile\/migdgim\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 359563,
+                    "Name": "carlo.catena",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/359563\/39200981-a533-413a-bbde-2ed2deba4110.jpg",
+                    "Url": "\/profile\/carlo.catena\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 285016,
+                    "Name": "thejasvk8055",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/285016\/26ecd4ce-3528-4410-bba9-b18fba10367d.jpg",
+                    "Url": "\/profile\/thejasvk8055\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 344843,
+                    "Name": "alexeym.bpsys",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/344843\/bd812059-e9be-4a70-a087-2f16b5e2cf59.jpg",
+                    "Url": "\/profile\/alexeym.bpsys\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 341494,
+                    "Name": "bitcoindk2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/341494\/3184ad7e-718b-4b82-9062-9305e6ea40de.jpg",
+                    "Url": "\/profile\/bitcoindk2\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1025,
+            "Posts": "3",
+            "Followers": 38,
+            "PageViewsSplit": {
+                "Overview": 2102,
+                "Markets": 128,
+                "Analysis": 51,
+                "Charts": 50,
+                "Trades": 84,
+                "Orderbook": 4,
+                "Forum": 31,
+                "Influence": 31
+            },
+            "PageViews": 2481
+        },
+        "Twitter": {
+            "favourites": "14",
+            "statuses": 150,
+            "following": "0",
+            "account_creation": "1274900972",
+            "followers": 8569,
+            "name": "Ties.Network",
+            "link": "https:\/\/twitter.com\/tiesnetwork",
+            "lists": 41,
+            "Points": 8774
+        },
+        "Reddit": {
+            "posts_per_hour": "0.02",
+            "link": "https:\/\/www.reddit.com\/r\/tiesnetwork\/",
+            "comments_per_hour": "0.00",
+            "posts_per_day": "0.41",
+            "active_users": 17,
+            "community_creation": "1501488628",
+            "subscribers": 194,
+            "name": "tiesnetwork",
+            "comments_per_day": 0.09,
+            "Points": 245
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "17",
+            "name": "Ties.Network",
+            "likes": 11648,
+            "link": "https:\/\/www.facebook.com\/tiesdb\/",
+            "Points": 11648
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

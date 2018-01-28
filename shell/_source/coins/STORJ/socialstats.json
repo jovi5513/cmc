@@ -1,0 +1,226 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "STORJ",
+            "CoinName": "Storj",
+            "Type": "Webpagecoinp",
+            "Points": 113736
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 137013,
+                    "Name": "Status Network Token",
+                    "FullName": "Status Network Token (SNT)",
+                    "ImageUrl": "\/media\/1383568\/snt.png",
+                    "Url": "\/coins\/snt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5282,
+                    "Name": "DigitalNote ",
+                    "FullName": "DigitalNote  (XDN)",
+                    "ImageUrl": "\/media\/19957\/xdn.jpg",
+                    "Url": "\/coins\/xdn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5286,
+                    "Name": "BurstCoin",
+                    "FullName": "BurstCoin (BURST)",
+                    "ImageUrl": "\/media\/16746623\/burst.png",
+                    "Url": "\/coins\/burst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 198967,
+                    "Name": "DeepOnion",
+                    "FullName": "DeepOnion (ONION)",
+                    "ImageUrl": "\/media\/1383894\/onion.png",
+                    "Url": "\/coins\/onion\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186277,
+                    "Name": "0x",
+                    "FullName": "0x (ZRX)",
+                    "ImageUrl": "\/media\/1383799\/zrx.png",
+                    "Url": "\/coins\/zrx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 66193,
+                    "Name": "Gnosis",
+                    "FullName": "Gnosis (GNO)",
+                    "ImageUrl": "\/media\/1383083\/gnosis-logo.png",
+                    "Url": "\/coins\/gno\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5288,
+                    "Name": "StorjCoin",
+                    "FullName": "StorjCoin (SJCX)",
+                    "ImageUrl": "\/media\/20422\/sjcx.png",
+                    "Url": "\/coins\/sjcx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 166548,
+                    "Name": "Monaco",
+                    "FullName": "Monaco (MCO)",
+                    "ImageUrl": "\/media\/1383653\/mco.jpg",
+                    "Url": "\/coins\/mco\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 23432,
+                    "Name": "LBRY Credits",
+                    "FullName": "LBRY Credits (LBC)",
+                    "ImageUrl": "\/media\/351211\/lbc.png",
+                    "Url": "\/coins\/lbc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43042,
+                    "Name": "Waves Community Token",
+                    "FullName": "Waves Community Token (WCT)",
+                    "ImageUrl": "\/media\/350884\/waves_1.png",
+                    "Url": "\/coins\/wct\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 674351,
+                    "Name": "elhopper",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674351\/12ee1fa7-0aad-4421-b8e5-fa8808244dac.jpg",
+                    "Url": "\/profile\/elhopper\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 545468,
+                    "Name": "style01",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/545468\/37161615-e7e4-4c0d-9c0a-bd4da109a961.jpg",
+                    "Url": "\/profile\/style01\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 668576,
+                    "Name": "kenhsu50",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/668576\/fcbb0cf9-29e7-4c22-91ba-08dc35165963.jpg",
+                    "Url": "\/profile\/kenhsu50\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 672544,
+                    "Name": "thomaserdei",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/672544\/b90dcbcb-447d-4a00-8c65-11f8cd7c545a.jpg",
+                    "Url": "\/profile\/thomaserdei\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 180300,
+                    "Name": "kapklam",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/180300\/8ce7a807-d01b-49af-a3cd-42ea45c5d57a.jpg",
+                    "Url": "\/profile\/kapklam\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 662844,
+                    "Name": "rui.arcadinho",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/662844\/32622117-75e4-4761-8b79-728e31b96b21.jpg",
+                    "Url": "\/profile\/rui.arcadinho\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 671264,
+                    "Name": "f.kyriacou",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/671264\/0ecfa942-704d-484e-9ac3-7baa0347d2f8.jpg",
+                    "Url": "\/profile\/f.kyriacou\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 485358,
+                    "Name": "C5AF2C6",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/485358\/18bd4a4e-2487-4635-a62f-86a658caf67b.jpg",
+                    "Url": "\/profile\/C5AF2C6\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 455753,
+                    "Name": "schimmerman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/455753\/f1d59fbf-df0e-4053-8c64-6830e14b0cc1.jpg",
+                    "Url": "\/profile\/schimmerman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 332182,
+                    "Name": "jkindred1time",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/332182\/0bc73373-051d-450d-8a69-9e96a84016aa.jpg",
+                    "Url": "\/profile\/jkindred1time\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 39180,
+                    "Name": "bclark302",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/39180\/cc1b04b4-4864-4d5f-8623-3078586a9016.jpg",
+                    "Url": "\/profile\/bclark302\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 549,
+            "Posts": "42",
+            "Comments": "41",
+            "Points": 15185,
+            "PageViewsSplit": {
+                "Overview": 42631,
+                "Markets": 2688,
+                "Analysis": 689,
+                "Charts": 4113,
+                "Trades": 1869,
+                "Orderbook": 44,
+                "Forum": 3006,
+                "Influence": 294
+            },
+            "PageViews": 55334
+        },
+        "Twitter": {
+            "favourites": "3017",
+            "lists": 1362,
+            "statuses": 2219,
+            "following": "3616",
+            "account_creation": "1312081004",
+            "name": "Storj",
+            "followers": 71378,
+            "link": "https:\/\/twitter.com\/storjproject",
+            "Points": 78190
+        },
+        "Reddit": {
+            "subscribers": 5917,
+            "posts_per_hour": "0.16",
+            "community_creation": "1396508161",
+            "comments_per_hour": "1.18",
+            "comments_per_day": 28.21,
+            "posts_per_day": "3.73",
+            "name": "storj",
+            "link": "https:\/\/www.reddit.com\/r\/storj\/",
+            "active_users": 2505,
+            "Points": 13488
+        },
+        "Facebook": {
+            "name": "Storj",
+            "likes": 6868,
+            "link": "https:\/\/www.facebook.com\/storjproject\/",
+            "talking_about": "175",
+            "is_closed": "false",
+            "Points": 6868
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

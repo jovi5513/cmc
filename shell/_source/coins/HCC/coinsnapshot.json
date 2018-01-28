@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "HCC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "5e-8",
+            "LASTUPDATE": "1516080103",
+            "LASTVOLUME": "59779.53432",
+            "LASTVOLUMETO": "0.0029889767159999997",
+            "LASTTRADEID": "200000114",
+            "VOLUMEDAY": "89024.53432",
+            "VOLUMEDAYTO": "0.004467896716",
+            "VOLUME24HOUR": "383957.23780637",
+            "VOLUME24HOURTO": "0.019660358556426498",
+            "OPENDAY": "5e-8",
+            "HIGHDAY": "6e-8",
+            "LOWDAY": "5e-8",
+            "OPEN24HOUR": "4e-8",
+            "HIGH24HOUR": "8e-8",
+            "LOW24HOUR": "4e-8",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "HCC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "5e-8",
+                "LASTUPDATE": "1516080103",
+                "LASTVOLUME": "59779.53432",
+                "LASTVOLUMETO": "0.0029889767159999997",
+                "LASTTRADEID": "200000114",
+                "VOLUME24HOUR": "383957.23780637",
+                "VOLUME24HOURTO": "0.019660358556426498",
+                "OPEN24HOUR": "4e-8",
+                "HIGH24HOUR": "8e-8",
+                "LOW24HOUR": "4e-8"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Binance",
+                "FROMSYMBOL": "HCC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.0000018",
+                "LASTUPDATE": "1513599121",
+                "LASTVOLUME": "1500",
+                "LASTVOLUMETO": "0.0026999999999999997",
+                "LASTTRADEID": "22698",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.0000018",
+                "HIGH24HOUR": "0.0000018",
+                "LOW24HOUR": "0.0000018"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "HCC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "1e-8",
+                "LASTUPDATE": "1502128574",
+                "LASTVOLUME": "20205.08523221",
+                "LASTVOLUMETO": "0.0002020508523221",
+                "LASTTRADEID": "16636",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "1e-8",
+                "HIGH24HOUR": "1e-8",
+                "LOW24HOUR": "1e-8"
+            }
+        ]
+    },
+    "Type": 100
+}

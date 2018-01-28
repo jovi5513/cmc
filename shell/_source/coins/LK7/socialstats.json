@@ -1,0 +1,132 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "LK7",
+            "CoinName": "Lucky7Coin",
+            "Type": "Webpagecoinp",
+            "Points": 25
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 517603,
+                    "Name": "CHIPS",
+                    "FullName": "CHIPS (CHIPS*)",
+                    "ImageUrl": "\/media\/16746673\/chips.png",
+                    "Url": "\/coins\/chips\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 402805,
+                    "Name": "KingN Coin",
+                    "FullName": "KingN Coin (KNC**)",
+                    "ImageUrl": "\/media\/16404850\/knc.png",
+                    "Url": "\/coins\/kncstarstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 373880,
+                    "Name": "Huncoin",
+                    "FullName": "Huncoin (HNC*)",
+                    "ImageUrl": "\/media\/14913529\/hnc.png",
+                    "Url": "\/coins\/hncstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30423,
+                    "Name": "PeaceCoin",
+                    "FullName": "PeaceCoin (PEC)",
+                    "ImageUrl": "\/media\/351761\/pec.png",
+                    "Url": "\/coins\/pec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25817,
+                    "Name": "PokeChain",
+                    "FullName": "PokeChain (XPOKE)",
+                    "ImageUrl": "\/media\/351393\/xpoke.png",
+                    "Url": "\/coins\/xpoke\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20986,
+                    "Name": "AcesCoin",
+                    "FullName": "AcesCoin (AEC)",
+                    "ImageUrl": "\/media\/350991\/aec.png",
+                    "Url": "\/coins\/aec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20640,
+                    "Name": "OldSafeCoin",
+                    "FullName": "OldSafeCoin (OLDSF)",
+                    "ImageUrl": "\/media\/350936\/oldsf.png",
+                    "Url": "\/coins\/oldsf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 248243,
+                    "Name": "Scrypto",
+                    "FullName": "Scrypto (SRT)",
+                    "ImageUrl": "\/media\/9350771\/srt.png",
+                    "Url": "\/coins\/srt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 667239,
+                    "Name": "Game",
+                    "FullName": "Game (GTC)",
+                    "ImageUrl": "\/media\/20780776\/gtc.png",
+                    "Url": "\/coins\/gtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29370,
+                    "Name": "BitluckCoin",
+                    "FullName": "BitluckCoin (BTCL*)",
+                    "ImageUrl": "\/media\/351633\/btlc.png",
+                    "Url": "\/coins\/btclstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 41744,
+                    "Name": "wooLONG",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/41744\/2bc18d40-6034-4dad-b80e-203eb061cb92.jpg",
+                    "Url": "\/profile\/wooLONG\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 25,
+            "Followers": 1,
+            "PageViewsSplit": {
+                "Overview": 610,
+                "Markets": 14,
+                "Analysis": 14,
+                "Charts": 11,
+                "Trades": 43,
+                "Orderbook": 0,
+                "Forum": 41,
+                "Influence": 5
+            },
+            "PageViews": 738
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

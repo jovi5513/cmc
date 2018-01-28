@@ -1,0 +1,178 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "IMPCH",
+            "CoinName": "Impeach",
+            "Type": "Webpagecoinp",
+            "Points": 329
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 24887,
+                    "Name": "RustCoin",
+                    "FullName": "RustCoin (RUST)",
+                    "ImageUrl": "\/media\/351365\/rust.png",
+                    "Url": "\/coins\/rust\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 313988,
+                    "Name": "StockBet",
+                    "FullName": "StockBet (STOCKBET)",
+                    "ImageUrl": "\/media\/12318119\/stockbet.png",
+                    "Url": "\/coins\/stockbet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60618,
+                    "Name": "ArpaCoin",
+                    "FullName": "ArpaCoin (ARPA)",
+                    "ImageUrl": "\/media\/1382966\/arpa.png",
+                    "Url": "\/coins\/arpa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35228,
+                    "Name": "Procom",
+                    "FullName": "Procom (PCM)",
+                    "ImageUrl": "\/media\/352223\/pcm.png",
+                    "Url": "\/coins\/pcm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42435,
+                    "Name": "Klingon Empire Darsek",
+                    "FullName": "Klingon Empire Darsek (KED)",
+                    "ImageUrl": "\/media\/1382390\/ked.png",
+                    "Url": "\/coins\/ked\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21706,
+                    "Name": "Cryptokenz",
+                    "FullName": "Cryptokenz (CYT)",
+                    "ImageUrl": "\/media\/351024\/cyt.png",
+                    "Url": "\/coins\/cyt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28317,
+                    "Name": "TodayCoin",
+                    "FullName": "TodayCoin (TODAY)",
+                    "ImageUrl": "\/media\/351521\/today.png",
+                    "Url": "\/coins\/today\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 63312,
+                    "Name": "EmporiumCoin",
+                    "FullName": "EmporiumCoin (EMPC)",
+                    "ImageUrl": "\/media\/1383081\/empc.png",
+                    "Url": "\/coins\/empc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28330,
+                    "Name": "Gold Pressed Latinum",
+                    "FullName": "Gold Pressed Latinum (GPL)",
+                    "ImageUrl": "\/media\/351525\/gpl.png",
+                    "Url": "\/coins\/gpl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22177,
+                    "Name": "Obscurebay",
+                    "FullName": "Obscurebay (OBS)",
+                    "ImageUrl": "\/media\/351064\/obs.png",
+                    "Url": "\/coins\/obs\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 316918,
+                    "Name": "ragwell",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/316918\/4e3c5f99-3a87-4292-a275-78fd492259f0.jpg",
+                    "Url": "\/profile\/ragwell\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 53079,
+                    "Name": "karimmiffa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/53079\/4dc8418e-3dd2-437c-9d3d-4af346b00bcf.png",
+                    "Url": "\/profile\/karimmiffa\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Posts": "1",
+            "Points": 95,
+            "Comments": "2",
+            "Followers": 2,
+            "PageViewsSplit": {
+                "Overview": 222,
+                "Markets": 10,
+                "Analysis": 6,
+                "Charts": 9,
+                "Trades": 1,
+                "Orderbook": 0,
+                "Forum": 8,
+                "Influence": 2
+            },
+            "PageViews": 258
+        },
+        "Twitter": {
+            "followers": 201,
+            "following": "70",
+            "lists": 3,
+            "favourites": "31",
+            "statuses": 97,
+            "account_creation": "1485674961",
+            "name": "IMPEACHCOIN",
+            "link": "https:\/\/twitter.com\/ImpeachCoin",
+            "Points": 216
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 6,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 4,
+                    "size": "2392",
+                    "url": "https:\/\/github.com\/ImpeachCoin\/ImpeachCoin",
+                    "last_update": "1485873021",
+                    "last_push": "1485815488",
+                    "created_at": "1485750341",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 18
+        }
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XFC",
+            "CoinName": "Forever Coin",
+            "Type": "Webpagecoinp",
+            "Points": 635
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 347067,
+                    "Name": "WhaleCoin",
+                    "FullName": "WhaleCoin (WHL)",
+                    "ImageUrl": "\/media\/12318372\/whl.png",
+                    "Url": "\/coins\/whl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5367,
+                    "Name": "CyberCoin",
+                    "FullName": "CyberCoin (CC)",
+                    "ImageUrl": "\/media\/20225\/cc.png",
+                    "Url": "\/coins\/cc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4552,
+                    "Name": "LightSpeedCoin",
+                    "FullName": "LightSpeedCoin (LSD)",
+                    "ImageUrl": "\/media\/20041\/lsd.png",
+                    "Url": "\/coins\/lsd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 78227,
+                    "Name": "C-Bits",
+                    "FullName": "C-Bits (XCT)",
+                    "ImageUrl": "\/media\/1383246\/xct.png",
+                    "Url": "\/coins\/xct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 48794,
+                    "Name": "WisdomCoin",
+                    "FullName": "WisdomCoin (WISC)",
+                    "ImageUrl": "\/media\/1382710\/wisc.jpg",
+                    "Url": "\/coins\/wisc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 48800,
+                    "Name": "BeaverCoin",
+                    "FullName": "BeaverCoin (BVC)",
+                    "ImageUrl": "\/media\/1382711\/bvc.png",
+                    "Url": "\/coins\/bvc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 180840,
+                    "Name": "FundRequest",
+                    "FullName": "FundRequest (FND)",
+                    "ImageUrl": "\/media\/1383765\/fnd.png",
+                    "Url": "\/coins\/fnd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4436,
+                    "Name": "DevCoin",
+                    "FullName": "DevCoin (DVC)",
+                    "ImageUrl": "\/media\/20563\/dvc.png",
+                    "Url": "\/coins\/dvc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4582,
+                    "Name": "OpalCoin",
+                    "FullName": "OpalCoin (OPAL)",
+                    "ImageUrl": "\/media\/20050\/opal.png",
+                    "Url": "\/coins\/opal\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 398648,
+                    "Name": "BitBoost",
+                    "FullName": "BitBoost (BBT)",
+                    "ImageUrl": "\/media\/15887410\/bbt.png",
+                    "Url": "\/coins\/bbt\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 124658,
+                    "Name": "MAHDIAGER",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/124658\/60590893-fea1-4054-bebc-ad243030163a.jpg",
+                    "Url": "\/profile\/MAHDIAGER\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 455695,
+                    "Name": "chrscperez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/455695\/a804e542-319c-43d9-9bac-283c6efd05e2.jpg",
+                    "Url": "\/profile\/chrscperez\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 368856,
+                    "Name": "diego.giero",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/368856\/260b8b3a-49f7-44d3-b453-1677c0da2adf.jpg",
+                    "Url": "\/profile\/diego.giero\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 331705,
+                    "Name": "tiencxn4.1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/331705\/06432a1a-c1d1-4ea3-98a2-67a614dc58fc.jpg",
+                    "Url": "\/profile\/tiencxn4.1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 333697,
+                    "Name": "filmci0",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/333697\/e7caa166-b7b5-4536-a7ca-385110e80747.jpg",
+                    "Url": "\/profile\/filmci0\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 297651,
+                    "Name": "Chimborazo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/297651\/c64dfec8-5408-438d-803a-ed21825f2443.jpg",
+                    "Url": "\/profile\/Chimborazo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 201381,
+                    "Name": "g_arnaud",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/201381\/53f1e420-95ea-462f-a154-b4facdd67b5c.jpg",
+                    "Url": "\/profile\/g_arnaud\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 187649,
+                    "Name": "tsteeves123",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/187649\/5452e4b1-b98f-4815-beda-f93afaf934eb.jpg",
+                    "Url": "\/profile\/tsteeves123\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 185560,
+                    "Name": "hugo.viljoen1983",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/185560\/8ba92655-f697-4a78-b926-bb72dcd37823.jpg",
+                    "Url": "\/profile\/hugo.viljoen1983\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 75122,
+                    "Name": "tulkhu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/75122\/ca727194-4b06-42a4-b6bc-a4f5a74f37f9.jpg",
+                    "Url": "\/profile\/tulkhu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 132815,
+                    "Name": "xdeepx",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/132815\/e8101e2f-537b-4410-ae3f-3f5ab22ef773.jpg",
+                    "Url": "\/profile\/xdeepx\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 635,
+            "Posts": "1",
+            "Followers": 24,
+            "Comments": "1",
+            "PageViewsSplit": {
+                "Overview": 3226,
+                "Markets": 329,
+                "Analysis": 165,
+                "Charts": 154,
+                "Trades": 198,
+                "Orderbook": 3,
+                "Forum": 519,
+                "Influence": 58
+            },
+            "PageViews": 4652
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

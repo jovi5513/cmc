@@ -1,0 +1,195 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "RUST",
+            "CoinName": "RustCoin",
+            "Type": "Webpagecoinp",
+            "Points": 178
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 21773,
+                    "Name": "XanaxCoin",
+                    "FullName": "XanaxCoin (XNX)",
+                    "ImageUrl": "\/media\/351033\/xnx.jpg",
+                    "Url": "\/coins\/xnx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4422,
+                    "Name": "Community Coin",
+                    "FullName": "Community Coin (COMM)",
+                    "ImageUrl": "\/media\/19661\/comm.png",
+                    "Url": "\/coins\/comm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44803,
+                    "Name": "EveryonesCoin",
+                    "FullName": "EveryonesCoin (EOC)",
+                    "ImageUrl": "\/media\/1382628\/eoc.png",
+                    "Url": "\/coins\/eoc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 586638,
+                    "Name": "BitAsean",
+                    "FullName": "BitAsean (BAS)",
+                    "ImageUrl": "\/media\/20780613\/bas.png",
+                    "Url": "\/coins\/bas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28027,
+                    "Name": "Sense",
+                    "FullName": "Sense (SNS)",
+                    "ImageUrl": "\/media\/351494\/sns.png",
+                    "Url": "\/coins\/sns\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 313988,
+                    "Name": "StockBet",
+                    "FullName": "StockBet (STOCKBET)",
+                    "ImageUrl": "\/media\/12318119\/stockbet.png",
+                    "Url": "\/coins\/stockbet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60618,
+                    "Name": "ArpaCoin",
+                    "FullName": "ArpaCoin (ARPA)",
+                    "ImageUrl": "\/media\/1382966\/arpa.png",
+                    "Url": "\/coins\/arpa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35228,
+                    "Name": "Procom",
+                    "FullName": "Procom (PCM)",
+                    "ImageUrl": "\/media\/352223\/pcm.png",
+                    "Url": "\/coins\/pcm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42435,
+                    "Name": "Klingon Empire Darsek",
+                    "FullName": "Klingon Empire Darsek (KED)",
+                    "ImageUrl": "\/media\/1382390\/ked.png",
+                    "Url": "\/coins\/ked\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44007,
+                    "Name": "Impeach",
+                    "FullName": "Impeach (IMPCH)",
+                    "ImageUrl": "\/media\/1382606\/impch.png",
+                    "Url": "\/coins\/impch\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 194240,
+                    "Name": "mehedihasanjoy11",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/194240\/4c14e758-1446-420d-8f20-87c58ebb197a.jpg",
+                    "Url": "\/profile\/mehedihasanjoy11\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 171998,
+                    "Name": "timurio",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/171998\/10de9802-13ea-489b-82dd-d1e9e5b9a014.jpg",
+                    "Url": "\/profile\/timurio\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 59798,
+                    "Name": "helpdisman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/59798\/72950aa6-e730-475e-8849-d447efe74ed1.jpg",
+                    "Url": "\/profile\/helpdisman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 74541,
+                    "Name": "antoparaocha",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/74541\/55755475-d6ba-472f-9bcd-59f79c9c4ff9.jpg",
+                    "Url": "\/profile\/antoparaocha\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 15803,
+                    "Name": "eka808",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/15803\/3ec76592-587f-437d-aabc-a0eadd07e533.jpg",
+                    "Url": "\/profile\/eka808\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 343,
+                "Markets": 40,
+                "Analysis": 43,
+                "Charts": 31,
+                "Trades": 33,
+                "Orderbook": 0,
+                "Forum": 26,
+                "Influence": 27
+            },
+            "PageViews": 543
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 47,
+            "is_closed": "false",
+            "talking_about": "10",
+            "name": "Rust Coin",
+            "link": "https:\/\/www.facebook.com\/Rust-Coin-1125663764161655\/",
+            "Points": 47
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 1,
+                    "language": "C++",
+                    "forks": 1,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "1910",
+                    "url": "https:\/\/github.com\/Hashish420\/RUST",
+                    "last_update": "1484861068",
+                    "last_push": "1469133659",
+                    "created_at": "1469133620",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 6
+        }
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GOON",
+            "CoinName": "Goonies",
+            "Type": "Webpagecoinp",
+            "Points": 627
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 3643,
+                    "Name": "DarkToken",
+                    "FullName": "DarkToken (DT)",
+                    "ImageUrl": "\/media\/20031\/dt.png",
+                    "Url": "\/coins\/dt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 398126,
+                    "Name": "RiptideCoin",
+                    "FullName": "RiptideCoin (RIPT)",
+                    "ImageUrl": "\/media\/15887409\/ript.png",
+                    "Url": "\/coins\/ript\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4613,
+                    "Name": "SSVCoin",
+                    "FullName": "SSVCoin (SSV)",
+                    "ImageUrl": "\/media\/20060\/ssv.png",
+                    "Url": "\/coins\/ssv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7562,
+                    "Name": "Versa Token",
+                    "FullName": "Versa Token (VERSA)",
+                    "ImageUrl": "\/media\/20629\/versa.png",
+                    "Url": "\/coins\/versa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22207,
+                    "Name": "Clockcoin",
+                    "FullName": "Clockcoin (CKC)",
+                    "ImageUrl": "\/media\/351068\/ckc.png",
+                    "Url": "\/coins\/ckc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 237448,
+                    "Name": "SqPay",
+                    "FullName": "SqPay (SQP)",
+                    "ImageUrl": "\/media\/9350728\/sqp.png",
+                    "Url": "\/coins\/sqp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4424,
+                    "Name": "CrackCoin",
+                    "FullName": "CrackCoin (CRACK)",
+                    "ImageUrl": "\/media\/20023\/crack.png",
+                    "Url": "\/coins\/crack\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 449614,
+                    "Name": "GlobalToken",
+                    "FullName": "GlobalToken (GLT)",
+                    "ImageUrl": "\/media\/16746578\/glt.png",
+                    "Url": "\/coins\/glt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21374,
+                    "Name": "High Voltage Coin",
+                    "FullName": "High Voltage Coin (HVCO)",
+                    "ImageUrl": "\/media\/351014\/hvco.png",
+                    "Url": "\/coins\/hvco\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 446121,
+                    "Name": "CryptoWave",
+                    "FullName": "CryptoWave (CWV)",
+                    "ImageUrl": "\/media\/16746575\/cwv.png",
+                    "Url": "\/coins\/cwv\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 341249,
+                    "Name": "bbpacker04",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/341249\/600dbc5b-b3d1-4853-a9f7-67d0ea07ef14.jpg",
+                    "Url": "\/profile\/bbpacker04\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 193746,
+                    "Name": "graviisan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/193746\/79627e67-dd4f-494d-abcb-0de08c8773e0.jpg",
+                    "Url": "\/profile\/graviisan\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 727,
+                "Markets": 71,
+                "Analysis": 50,
+                "Charts": 46,
+                "Trades": 47,
+                "Orderbook": 0,
+                "Forum": 16,
+                "Influence": 21
+            },
+            "PageViews": 978
+        },
+        "Twitter": {
+            "followers": 470,
+            "following": "738",
+            "lists": 16,
+            "favourites": "188",
+            "statuses": 111,
+            "account_creation": "1470212980",
+            "name": "BionicleBarnicle",
+            "link": "https:\/\/twitter.com\/GoonBagSack",
+            "Points": 550
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 1,
+                    "open_total_issues": "0",
+                    "subscribers": 0,
+                    "size": "5296",
+                    "url": "https:\/\/github.com\/GooniesGoonBag\/GoonBagSack",
+                    "last_update": "1469953981",
+                    "last_push": "1470112177",
+                    "created_at": "1469953918",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 2
+        }
+    }
+}

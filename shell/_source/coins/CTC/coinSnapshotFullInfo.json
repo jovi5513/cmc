@@ -1,0 +1,72 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "CarterCoin (CTC)  - Live streaming prices and market cap",
+            "PageDescription": "Live CarterCoin prices from all markets and CTC coin market Capitalization. Stay up to date with the latest CarterCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351496\/ctc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "28083",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "CarterCoin (CTC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "CTC",
+            "Url": "\/coins\/ctc\/",
+            "BaseAngularUrl": "\/coins\/ctc\/",
+            "Name": "CarterCoin",
+            "ImageUrl": "\/media\/351496\/ctc.png",
+            "Description": "<p><span>CarterCoin is a PoW\/PoS cryptocurrency based on\u00a0NovaCoin, with the goal of providing a long-term energy-efficient scrypt-based coin.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "90000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "14\/01\/2016",
+            "Twitter": "",
+            "AffiliateUrl": "http:\/\/www.cartercoinweb.com\/",
+            "Website": "<a href='http:\/\/www.cartercoinweb.com\/' target='_blank'>CarterCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~EtherDelta~CTC~ETH",
+            "2~BTER~CTC~BTC",
+            "2~CCEX~CTC~LTC",
+            "2~CCEX~CTC~BTC",
+            "2~CCEX~CTC~DOGE",
+            "2~CCEX~CTC~USD"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~CTC~ETH~4~0.001~1507489896~1~0.001~1507489896000~0~0~0~0~0.001~0.001~0.001~0.001~0.001~0.001~EtherDelta~7ffe9",
+            "5~CCCAGG~CTC~BTC~4~0.00000136~1514816679~134.15971429~0.0001824572114344~3683~0~0~0~0~0.00000136~0.00000136~0.00000136~0.00000136~0.00000136~0.00000136~CCEX~7ffe9",
+            "5~CCCAGG~CTC~LTC~4~0.0005~1511401377~20~0.01~1753617~0~0~0~0~0.0005~0.0005~0.0005~0.0005~0.0005~0.0005~CCEX~7ffe9",
+            "5~CCCAGG~CTC~DOGE~4~0.01000001~1514290107~2.136435~0.02136437136435~2140087~0~0~0~0~0.01000001~0.01000001~0.01000001~0.01000001~0.01000001~0.01000001~CCEX~7ffe9",
+            "5~CCCAGG~CTC~USD~4~0.01000001~1515075818~2.59971745~0.0259972004971745~1909322~0~0~0~0~0.01000001~0.01000001~0.01000001~0.01000001~0.01000001~0.01000001~CCEX~7ffe9"
+        ]
+    },
+    "Type": 100
+}

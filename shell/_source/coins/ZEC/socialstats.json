@@ -1,0 +1,250 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ZEC",
+            "CoinName": "ZCash",
+            "Type": "Webpagecoinp",
+            "Points": 480834
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 202330,
+                    "Name": "Bitcoin Cash \/ BCC",
+                    "FullName": "Bitcoin Cash \/ BCC (BCH)",
+                    "ImageUrl": "\/media\/1383919\/bch.jpg",
+                    "Url": "\/coins\/bch\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4614,
+                    "Name": "Stellar",
+                    "FullName": "Stellar (XLM)",
+                    "ImageUrl": "\/media\/20696\/str.png",
+                    "Url": "\/coins\/xlm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5038,
+                    "Name": "Monero",
+                    "FullName": "Monero (XMR)",
+                    "ImageUrl": "\/media\/19969\/xmr.png",
+                    "Url": "\/coins\/xmr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 27368,
+                    "Name": "NEO",
+                    "FullName": "NEO (NEO)",
+                    "ImageUrl": "\/media\/1383858\/neo.jpg",
+                    "Url": "\/coins\/neo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4433,
+                    "Name": "Verge",
+                    "FullName": "Verge (XVG)",
+                    "ImageUrl": "\/media\/12318032\/xvg.png",
+                    "Url": "\/coins\/xvg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4432,
+                    "Name": "Dogecoin",
+                    "FullName": "Dogecoin (DOGE)",
+                    "ImageUrl": "\/media\/19684\/doge.png",
+                    "Url": "\/coins\/doge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 370889,
+                    "Name": "Rebellious",
+                    "FullName": "Rebellious (REBL)",
+                    "ImageUrl": "\/media\/14913454\/rebl.png",
+                    "Url": "\/coins\/rebl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3807,
+                    "Name": "DigitalCash",
+                    "FullName": "DigitalCash (DASH)",
+                    "ImageUrl": "\/media\/20626\/imageedit_27_4355944719.png",
+                    "Url": "\/coins\/dash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4430,
+                    "Name": "DigiByte",
+                    "FullName": "DigiByte (DGB)",
+                    "ImageUrl": "\/media\/12318264\/7638-nty_400x400.jpg",
+                    "Url": "\/coins\/dgb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5324,
+                    "Name": "Ethereum Classic",
+                    "FullName": "Ethereum Classic (ETC)",
+                    "ImageUrl": "\/media\/20275\/etc2.png",
+                    "Url": "\/coins\/etc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 676118,
+                    "Name": "dl.play",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676118\/2917cdb0-d4b4-4ea1-a005-8f7af360b4cf.jpg",
+                    "Url": "\/profile\/dl.play\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 667520,
+                    "Name": "antvar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/667520\/583a8b43-8ef1-40f5-8f01-b197462b33bc.jpg",
+                    "Url": "\/profile\/antvar\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 606977,
+                    "Name": "iliasia13",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/606977\/021ac26d-5b44-414b-b6e2-7d787a99d961.jpg",
+                    "Url": "\/profile\/iliasia13\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 589345,
+                    "Name": "faizulaziz85",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/589345\/250ae20a-4ebf-4b3b-92cb-7d27f260e503.jpg",
+                    "Url": "\/profile\/faizulaziz85\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676014,
+                    "Name": "Calfrun",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676014\/c209e455-dd1f-4980-91dc-64deb1541df6.jpg",
+                    "Url": "\/profile\/Calfrun\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 675975,
+                    "Name": "ecpayne",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675975\/a268bdee-614d-455b-94df-f0dd5edfc523.jpg",
+                    "Url": "\/profile\/ecpayne\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 675537,
+                    "Name": "ipat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675537\/0b88fa16-acd7-45bc-bb26-abc563e74fa6.jpg",
+                    "Url": "\/profile\/ipat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 651248,
+                    "Name": "leoneleleuterio",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/651248\/e5dbd01c-f706-4f20-8f90-bffac0baf500.jpg",
+                    "Url": "\/profile\/leoneleleuterio\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 675775,
+                    "Name": "rqzway_nova",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675775\/7b6975b9-d30b-4310-8101-78c1229940f9.jpg",
+                    "Url": "\/profile\/rqzway_nova\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 559350,
+                    "Name": "boyloza11",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/559350\/b0770a26-4c1c-4ba2-83a1-2b62ea6eb9c2.jpg",
+                    "Url": "\/profile\/boyloza11\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 675694,
+                    "Name": "j.snida",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675694\/74b4fbf0-433e-44b2-b2cf-8afc322b79b3.jpg",
+                    "Url": "\/profile\/j.snida\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 14047,
+            "Points": 392595,
+            "Posts": "956",
+            "Comments": "1752",
+            "PageViewsSplit": {
+                "Overview": 1668446,
+                "Markets": 46518,
+                "Analysis": 38014,
+                "Charts": 169036,
+                "Trades": 37282,
+                "Orderbook": 8195,
+                "Forum": 97706,
+                "Influence": 7052
+            },
+            "PageViews": 2072249
+        },
+        "Twitter": {
+            "followers": 57109,
+            "following": "0",
+            "lists": 1285,
+            "favourites": "891",
+            "statuses": 1187,
+            "account_creation": "1450815724",
+            "name": "Zcash Company",
+            "link": "https:\/\/twitter.com\/zcashco",
+            "Points": 63535
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/zec\/",
+            "subscribers": 10581,
+            "active_users": 2455,
+            "community_creation": "1472410914",
+            "name": "zec",
+            "posts_per_hour": "0.43",
+            "posts_per_day": "10.35",
+            "comments_per_hour": "3.88",
+            "comments_per_day": 93.16,
+            "Points": 18132
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 3340,
+                    "language": "C++",
+                    "forks": 935,
+                    "open_total_issues": "734",
+                    "subscribers": 385,
+                    "size": "47211",
+                    "url": "https:\/\/github.com\/zcash\/zcash",
+                    "last_update": "1515942478",
+                    "last_push": "1515922997",
+                    "created_at": "1416625990",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "57",
+                    "closed_pull_issues": "812",
+                    "closed_total_issues": "2132",
+                    "open_issues": "677",
+                    "closed_issues": "1320"
+                }
+            ],
+            "Points": 6365
+        }
+    }
+}

@@ -1,0 +1,175 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SPA",
+            "CoinName": "SpainCoin",
+            "Type": "Webpagecoinp",
+            "Points": 1879
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 22272,
+                    "Name": "EvilCoin",
+                    "FullName": "EvilCoin (EVIL)",
+                    "ImageUrl": "\/media\/351080\/evil.png",
+                    "Url": "\/coins\/evil\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7482,
+                    "Name": "BowsCoin",
+                    "FullName": "BowsCoin (BSC)",
+                    "ImageUrl": "\/media\/20601\/bsc.png",
+                    "Url": "\/coins\/bsc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21859,
+                    "Name": "Digital Bullion Gold",
+                    "FullName": "Digital Bullion Gold (DBG)",
+                    "ImageUrl": "\/media\/351047\/dbg.png",
+                    "Url": "\/coins\/dbg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45607,
+                    "Name": "Alexandrite",
+                    "FullName": "Alexandrite (ALEX)",
+                    "ImageUrl": "\/media\/1382657\/alex.png",
+                    "Url": "\/coins\/alex\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20911,
+                    "Name": "Cryptographic Anomaly",
+                    "FullName": "Cryptographic Anomaly (CGA)",
+                    "ImageUrl": "\/media\/350988\/cga.png",
+                    "Url": "\/coins\/cga\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 57742,
+                    "Name": "Doubloon",
+                    "FullName": "Doubloon (BOAT)",
+                    "ImageUrl": "\/media\/1382866\/boat.png",
+                    "Url": "\/coins\/boat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29376,
+                    "Name": "X2Coin",
+                    "FullName": "X2Coin (X2)",
+                    "ImageUrl": "\/media\/351635\/x2.png",
+                    "Url": "\/coins\/x2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6114,
+                    "Name": "DarkCrave",
+                    "FullName": "DarkCrave (DCC)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/dcc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 235021,
+                    "Name": "Minex",
+                    "FullName": "Minex (MINEX)",
+                    "ImageUrl": "\/media\/9350702\/minex.png",
+                    "Url": "\/coins\/minex\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 238571,
+                    "Name": "Etheriya",
+                    "FullName": "Etheriya (RIYA)",
+                    "ImageUrl": "\/media\/9350737\/riya.png",
+                    "Url": "\/coins\/riya\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 329520,
+                    "Name": "shahkhan_87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/329520\/1fc7a918-abe2-41f3-8f4e-4d38530bb47d.jpg",
+                    "Url": "\/profile\/shahkhan_87\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 349991,
+                    "Name": "Indexability",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/349991\/24673c3f-37c3-4d76-be6a-c8c74b01b7ad.jpg",
+                    "Url": "\/profile\/Indexability\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 138118,
+                    "Name": "vit.berardi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/138118\/b1c18ea9-b43f-4acc-ad92-5556a36c39e1.jpg",
+                    "Url": "\/profile\/vit.berardi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 22814,
+                    "Name": "ololoshe4ka",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/22814\/7dfd4ffc-74ce-47e3-b848-a71fd8b49802.jpg",
+                    "Url": "\/profile\/ololoshe4ka\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 6,
+            "Points": 150,
+            "PageViewsSplit": {
+                "Overview": 290,
+                "Markets": 13,
+                "Analysis": 22,
+                "Charts": 33,
+                "Trades": 17,
+                "Orderbook": 0,
+                "Forum": 27,
+                "Influence": 23
+            },
+            "PageViews": 425
+        },
+        "Twitter": {
+            "followers": 1459,
+            "following": "1412",
+            "lists": 54,
+            "favourites": "459",
+            "statuses": 394,
+            "account_creation": "1393760646",
+            "name": "SpainCoinDev",
+            "link": "https:\/\/twitter.com\/SpainCoinDev",
+            "Points": 1729
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

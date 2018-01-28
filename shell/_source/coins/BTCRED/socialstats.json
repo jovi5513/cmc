@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BTCRED",
+            "CoinName": "Bitcoin Red",
+            "Type": "Webpagecoinp",
+            "Points": 15456
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5349,
+                    "Name": "SolarCoin",
+                    "FullName": "SolarCoin (SLR)",
+                    "ImageUrl": "\/media\/20699\/slr.png",
+                    "Url": "\/coins\/slr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 131154,
+                    "Name": "MCAP",
+                    "FullName": "MCAP (MCAP)",
+                    "ImageUrl": "\/media\/1383559\/mcap.png",
+                    "Url": "\/coins\/mcap\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369251,
+                    "Name": "HEROcoin",
+                    "FullName": "HEROcoin (PLAY)",
+                    "ImageUrl": "\/media\/14913441\/play.png",
+                    "Url": "\/coins\/play\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 127667,
+                    "Name": "Quantum Resistant Ledger",
+                    "FullName": "Quantum Resistant Ledger (QRL)",
+                    "ImageUrl": "\/media\/1383543\/qrl.png",
+                    "Url": "\/coins\/qrl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4345,
+                    "Name": "MyriadCoin",
+                    "FullName": "MyriadCoin (XMY)",
+                    "ImageUrl": "\/media\/19815\/myr.png",
+                    "Url": "\/coins\/xmy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 419209,
+                    "Name": "Sether",
+                    "FullName": "Sether (SETH)",
+                    "ImageUrl": "\/media\/16746447\/seth.png",
+                    "Url": "\/coins\/seth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341267,
+                    "Name": "Red Pulse",
+                    "FullName": "Red Pulse (RPX)",
+                    "ImageUrl": "\/media\/12318339\/rpx.png",
+                    "Url": "\/coins\/rpx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 321189,
+                    "Name": "eBitcoin",
+                    "FullName": "eBitcoin (EBTC)",
+                    "ImageUrl": "\/media\/12318175\/ebtc.png",
+                    "Url": "\/coins\/ebtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 335127,
+                    "Name": "Aeron",
+                    "FullName": "Aeron (ARN)",
+                    "ImageUrl": "\/media\/12318261\/arn.png",
+                    "Url": "\/coins\/arn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33914,
+                    "Name": "Time",
+                    "FullName": "Time (TIME)",
+                    "ImageUrl": "\/media\/352105\/time.png",
+                    "Url": "\/coins\/time\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 79831,
+                    "Name": "virex",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/79831\/b0701177-f8f7-4c51-9dbb-0021bd3a0c08.png",
+                    "Url": "\/profile\/virex\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 635247,
+                    "Name": "aleku89",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/635247\/dc7049d6-5ab2-43b9-8a50-71fd8abcf982.jpg",
+                    "Url": "\/profile\/aleku89\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 627717,
+                    "Name": "608812970",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/627717\/af55481b-e73e-445f-b03b-d4ba61c5b3e2.jpg",
+                    "Url": "\/profile\/608812970\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 664065,
+                    "Name": "ronnieprejean",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/664065\/e1cbefc7-5294-4ef3-9c20-021e182630fa.jpg",
+                    "Url": "\/profile\/ronnieprejean\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 534185,
+                    "Name": "custava",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/534185\/c9deb997-7cd2-4a83-afc4-6af3dcac42a1.jpg",
+                    "Url": "\/profile\/custava\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 545709,
+                    "Name": "djmeme89",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/545709\/d8215c85-9a4d-45c1-b4ca-a29c9ec41925.jpg",
+                    "Url": "\/profile\/djmeme89\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 367325,
+                    "Name": "Rainbow134",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/367325\/e6da8f72-4fb0-47ce-a659-76d688c369f6.jpg",
+                    "Url": "\/profile\/Rainbow134\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 476459,
+                    "Name": "michaelj2307",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/476459\/3c2d0d81-0a51-4163-90b5-72327a480f3d.jpg",
+                    "Url": "\/profile\/michaelj2307\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 369554,
+                    "Name": "jabagazdeliani0",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/369554\/079a8e71-9101-4d8b-b240-47a9df457752.jpg",
+                    "Url": "\/profile\/jabagazdeliani0\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 538787,
+                    "Name": "juanvalles808",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/538787\/0e05d8d7-0ca2-41b9-b090-ed960fbf8f30.jpg",
+                    "Url": "\/profile\/juanvalles808\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 7290,
+            "Posts": "49",
+            "Comments": "64",
+            "Followers": 217,
+            "PageViewsSplit": {
+                "Overview": 24973,
+                "Markets": 1310,
+                "Analysis": 802,
+                "Charts": 2588,
+                "Trades": 1458,
+                "Orderbook": 2,
+                "Forum": 2526,
+                "Influence": 231
+            },
+            "PageViews": 33890
+        },
+        "Twitter": {
+            "favourites": "133",
+            "statuses": 117,
+            "following": "22",
+            "account_creation": "1508497011",
+            "followers": 5457,
+            "name": "Bitcoin Red",
+            "link": "https:\/\/twitter.com\/BitcoinRed1",
+            "lists": 18,
+            "Points": 5547
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "111",
+            "name": "Bitcoin Red",
+            "likes": 2616,
+            "link": "https:\/\/www.facebook.com\/BitcoinRed1\/",
+            "Points": 2616
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

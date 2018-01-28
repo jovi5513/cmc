@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CVC",
+            "CoinName": "Civic",
+            "Type": "Webpagecoinp",
+            "Points": 136765
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20333,
+                    "Name": "Steem",
+                    "FullName": "Steem (STEEM)",
+                    "ImageUrl": "\/media\/350907\/steem.png",
+                    "Url": "\/coins\/steem\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32699,
+                    "Name": "ARK",
+                    "FullName": "ARK (ARK)",
+                    "ImageUrl": "\/media\/351931\/ark.png",
+                    "Url": "\/coins\/ark\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 112392,
+                    "Name": "QTUM",
+                    "FullName": "QTUM (QTUM)",
+                    "ImageUrl": "\/media\/1383382\/qtum.png",
+                    "Url": "\/coins\/qtum\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42433,
+                    "Name": "Private Instant Verified Transaction",
+                    "FullName": "Private Instant Verified Transaction (PIVX)",
+                    "ImageUrl": "\/media\/1382389\/pivx.png",
+                    "Url": "\/coins\/pivx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5039,
+                    "Name": "Bitshares",
+                    "FullName": "Bitshares (BTS)",
+                    "ImageUrl": "\/media\/20705\/bts.png",
+                    "Url": "\/coins\/bts\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338018,
+                    "Name": "HextraCoin",
+                    "FullName": "HextraCoin (HXT)",
+                    "ImageUrl": "\/media\/12318282\/hxt.png",
+                    "Url": "\/coins\/hxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 236131,
+                    "Name": "Vechain",
+                    "FullName": "Vechain (VEN)",
+                    "ImageUrl": "\/media\/12318129\/ven.png",
+                    "Url": "\/coins\/ven\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 13280,
+                    "Name": "Factoids",
+                    "FullName": "Factoids (FCT)",
+                    "ImageUrl": "\/media\/1382863\/fct1.png",
+                    "Url": "\/coins\/fct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 16713,
+                    "Name": "Decred",
+                    "FullName": "Decred (DCR)",
+                    "ImageUrl": "\/media\/1382607\/decred.png",
+                    "Url": "\/coins\/dcr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 178978,
+                    "Name": "FunFair",
+                    "FullName": "FunFair (FUN)",
+                    "ImageUrl": "\/media\/1383738\/fun.png",
+                    "Url": "\/coins\/fun\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 561108,
+                    "Name": "knosso",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/561108\/11843764-1c5e-4ce1-a756-cfbe09b01652.jpg",
+                    "Url": "\/profile\/knosso\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 671799,
+                    "Name": "vagif69",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/671799\/2670882f-3f42-4722-953e-9109d8283209.jpg",
+                    "Url": "\/profile\/vagif69\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670606,
+                    "Name": "jaramosiii35",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670606\/22dad5ca-3937-44f7-968e-d86c9fd3be30.jpg",
+                    "Url": "\/profile\/jaramosiii35\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 209959,
+                    "Name": "anton.northern",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/209959\/149d67a0-08a1-4170-af09-e3014fa0ec15.jpg",
+                    "Url": "\/profile\/anton.northern\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 101985,
+                    "Name": "kennykandola89",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/101985\/5029a190-20e9-48f0-be69-5f6cae4ab982.jpg",
+                    "Url": "\/profile\/kennykandola89\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 39180,
+                    "Name": "bclark302",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/39180\/cc1b04b4-4864-4d5f-8623-3078586a9016.jpg",
+                    "Url": "\/profile\/bclark302\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670524,
+                    "Name": "leontk8",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670524\/2cc92b78-b574-4413-b232-c24e3cda95fe.jpg",
+                    "Url": "\/profile\/leontk8\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674209,
+                    "Name": "aclaudio4",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674209\/8b817679-5804-426e-9cbc-1ad8696ebf1b.jpg",
+                    "Url": "\/profile\/aclaudio4\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 120215,
+                    "Name": "siberia",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/120215\/9eaf12c3-2a37-4348-b945-7cef87f64726.jpg",
+                    "Url": "\/profile\/siberia\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 1896,
+            "Posts": "196",
+            "Comments": "318",
+            "Points": 55480,
+            "PageViewsSplit": {
+                "Overview": 188014,
+                "Markets": 9383,
+                "Analysis": 6528,
+                "Charts": 24726,
+                "Trades": 5139,
+                "Orderbook": 249,
+                "Forum": 19846,
+                "Influence": 984
+            },
+            "PageViews": 254869
+        },
+        "Twitter": {
+            "lists": 960,
+            "favourites": "731",
+            "statuses": 557,
+            "following": "1036",
+            "account_creation": "1451954432",
+            "name": "Civic",
+            "followers": 73756,
+            "link": "https:\/\/twitter.com\/civickey",
+            "Points": 78556
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "Civic",
+            "likes": 2704,
+            "link": "https:\/\/www.facebook.com\/civictechnologiesinc\/",
+            "talking_about": "156",
+            "is_closed": "false",
+            "Points": 2704
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

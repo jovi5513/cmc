@@ -1,0 +1,183 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BOXY",
+            "CoinName": "BoxyCoin",
+            "Type": "Webpagecoinp",
+            "Points": 4223
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 7595,
+                    "Name": "Quartz",
+                    "FullName": "Quartz (QTZ)",
+                    "ImageUrl": "\/media\/20643\/qtz.png",
+                    "Url": "\/coins\/qtz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4594,
+                    "Name": "RonPaulCoin",
+                    "FullName": "RonPaulCoin (RPC)",
+                    "ImageUrl": "\/media\/19895\/rpc-2.png",
+                    "Url": "\/coins\/rpc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30377,
+                    "Name": "Vertex",
+                    "FullName": "Vertex (VTX)",
+                    "ImageUrl": "\/media\/351754\/vertex.png",
+                    "Url": "\/coins\/vtx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6451,
+                    "Name": "Creva Coin",
+                    "FullName": "Creva Coin (CREVA)",
+                    "ImageUrl": "\/media\/20571\/creva.png",
+                    "Url": "\/coins\/creva\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 56078,
+                    "Name": "BankCoin",
+                    "FullName": "BankCoin (B@)",
+                    "ImageUrl": "\/media\/1382804\/b.png",
+                    "Url": "\/coins\/b\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 66685,
+                    "Name": "SwagBucks",
+                    "FullName": "SwagBucks (BUCKS)",
+                    "ImageUrl": "\/media\/1383089\/bucks.png",
+                    "Url": "\/coins\/bucks\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 233044,
+                    "Name": "MediBond",
+                    "FullName": "MediBond (MEDI)",
+                    "ImageUrl": "\/media\/1384051\/medi.png",
+                    "Url": "\/coins\/medi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4371,
+                    "Name": "Argentum",
+                    "FullName": "Argentum (ARG)",
+                    "ImageUrl": "\/media\/19602\/arg.png",
+                    "Url": "\/coins\/arg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 327250,
+                    "Name": "Crazy Coin",
+                    "FullName": "Crazy Coin (CZC)",
+                    "ImageUrl": "\/media\/12318215\/czc.png",
+                    "Url": "\/coins\/czc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4567,
+                    "Name": "MysteryCoin",
+                    "FullName": "MysteryCoin (MYST*)",
+                    "ImageUrl": "\/media\/20053\/myst.png",
+                    "Url": "\/coins\/myststar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 329520,
+                    "Name": "shahkhan_87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/329520\/1fc7a918-abe2-41f3-8f4e-4d38530bb47d.jpg",
+                    "Url": "\/profile\/shahkhan_87\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 25,
+            "Followers": 1,
+            "PageViewsSplit": {
+                "Overview": 64,
+                "Markets": 1,
+                "Analysis": 13,
+                "Charts": 4,
+                "Trades": 6,
+                "Orderbook": 0,
+                "Forum": 6,
+                "Influence": 4
+            },
+            "PageViews": 98
+        },
+        "Twitter": {
+            "following": "4999",
+            "account_creation": "1502445274",
+            "name": "BoxyCoin",
+            "lists": 3,
+            "statuses": 210,
+            "favourites": "155",
+            "followers": 1099,
+            "link": "https:\/\/twitter.com\/boxycoin",
+            "Points": 1114
+        },
+        "Reddit": {
+            "posts_per_hour": "0.02",
+            "comments_per_hour": "0.01",
+            "posts_per_day": "0.45",
+            "comments_per_day": 0.28,
+            "name": "Boxycoin",
+            "link": "https:\/\/www.reddit.com\/r\/Boxycoin\/",
+            "active_users": 2,
+            "community_creation": "1507804709",
+            "subscribers": 14,
+            "Points": 20
+        },
+        "Facebook": {
+            "likes": 3059,
+            "link": "https:\/\/www.facebook.com\/Boxycoin\/",
+            "is_closed": "false",
+            "talking_about": "32",
+            "name": "BoxyCoin        BOXY",
+            "Points": 3059
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1510746946",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "3326",
+                    "closed_total_issues": "0",
+                    "stars": 1,
+                    "last_update": "1515326810",
+                    "forks": 2,
+                    "url": "https:\/\/github.com\/boxycoin\/BoxyCoin",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1514955520",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 0,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 5
+        }
+    }
+}

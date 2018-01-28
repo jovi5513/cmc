@@ -1,0 +1,196 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ZNT",
+            "CoinName": "OpenZen",
+            "Type": "Webpagecoinp",
+            "Points": 7502
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4410,
+                    "Name": "Catcoin",
+                    "FullName": "Catcoin (CAT1)",
+                    "ImageUrl": "\/media\/19644\/cat.png",
+                    "Url": "\/coins\/cat1\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29458,
+                    "Name": "GBR Coin",
+                    "FullName": "GBR Coin (GBRC)",
+                    "ImageUrl": "\/media\/351637\/gbrc.png",
+                    "Url": "\/coins\/gbrc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4559,
+                    "Name": "MegaCoin",
+                    "FullName": "MegaCoin (MEC)",
+                    "ImageUrl": "\/media\/19789\/mec.png",
+                    "Url": "\/coins\/mec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32870,
+                    "Name": "WashingtonCoin",
+                    "FullName": "WashingtonCoin (WASH)",
+                    "ImageUrl": "\/media\/351944\/wash.png",
+                    "Url": "\/coins\/wash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 385907,
+                    "Name": "Grid+",
+                    "FullName": "Grid+ (GRID)",
+                    "ImageUrl": "\/media\/14913632\/grid.png",
+                    "Url": "\/coins\/grid\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3644,
+                    "Name": "CETUS Coin",
+                    "FullName": "CETUS Coin (CETI)",
+                    "ImageUrl": "\/media\/20228\/ceti.png",
+                    "Url": "\/coins\/ceti\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 27594,
+                    "Name": "Mass Coin",
+                    "FullName": "Mass Coin (MC)",
+                    "ImageUrl": "\/media\/351428\/mc.png",
+                    "Url": "\/coins\/mc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 67430,
+                    "Name": "MacronCoin",
+                    "FullName": "MacronCoin (MCRN)",
+                    "ImageUrl": "\/media\/1383111\/mcrn.png",
+                    "Url": "\/coins\/mcrn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 542719,
+                    "Name": "CrowdCoinage",
+                    "FullName": "CrowdCoinage (CCOS)",
+                    "ImageUrl": "\/media\/16746767\/ccos.png",
+                    "Url": "\/coins\/ccos\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182325,
+                    "Name": "DigitalPrice",
+                    "FullName": "DigitalPrice (DP)",
+                    "ImageUrl": "\/media\/1383772\/dp.png",
+                    "Url": "\/coins\/dp\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 124658,
+                    "Name": "MAHDIAGER",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/124658\/60590893-fea1-4054-bebc-ad243030163a.jpg",
+                    "Url": "\/profile\/MAHDIAGER\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 341249,
+                    "Name": "bbpacker04",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/341249\/600dbc5b-b3d1-4853-a9f7-67d0ea07ef14.jpg",
+                    "Url": "\/profile\/bbpacker04\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 163456,
+                    "Name": "fcrump4",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/163456\/3a05695e-035c-410f-aa9c-7c1688ca131f.jpg",
+                    "Url": "\/profile\/fcrump4\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 125,
+            "Followers": 4,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 639,
+                "Markets": 10,
+                "Analysis": 15,
+                "Charts": 3,
+                "Trades": 5,
+                "Orderbook": 2,
+                "Forum": 8,
+                "Influence": 5
+            },
+            "PageViews": 687
+        },
+        "Twitter": {
+            "following": "1786",
+            "account_creation": "1264168383",
+            "name": "#openZen",
+            "lists": 25,
+            "statuses": 59,
+            "favourites": "12",
+            "followers": 874,
+            "link": "https:\/\/twitter.com\/JustOpenZen",
+            "Points": 999
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 6366,
+            "link": "https:\/\/www.facebook.com\/openZen\/",
+            "is_closed": "false",
+            "talking_about": "2",
+            "name": "Zen",
+            "Points": 6366
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1498596167",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "13116",
+                    "closed_total_issues": "0",
+                    "stars": 6,
+                    "last_update": "1500888394",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/openzen\/openzen-smart-contracts",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1498694922",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "JavaScript",
+                    "subscribers": 2,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 12
+        }
+    }
+}

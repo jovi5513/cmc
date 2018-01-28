@@ -1,0 +1,182 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MRP",
+            "CoinName": "MorpheusCoin",
+            "Type": "Webpagecoinp",
+            "Points": 203
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 7483,
+                    "Name": "DarkTron",
+                    "FullName": "DarkTron (DRKT)",
+                    "ImageUrl": "\/media\/20604\/drkt.png",
+                    "Url": "\/coins\/drkt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 39698,
+                    "Name": "PentaCoin",
+                    "FullName": "PentaCoin (PTA)",
+                    "ImageUrl": "\/media\/1382236\/pta.png",
+                    "Url": "\/coins\/pta\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21224,
+                    "Name": "KATZcoin",
+                    "FullName": "KATZcoin (KAT)",
+                    "ImageUrl": "\/media\/351028\/katz.png",
+                    "Url": "\/coins\/kat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5409,
+                    "Name": "VirtualMining Coin",
+                    "FullName": "VirtualMining Coin (VMC)",
+                    "ImageUrl": "\/media\/19943\/vmc.png",
+                    "Url": "\/coins\/vmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20441,
+                    "Name": "Thecreed",
+                    "FullName": "Thecreed (TCR)",
+                    "ImageUrl": "\/media\/350918\/tcr.png",
+                    "Url": "\/coins\/tcr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 196549,
+                    "Name": "Spoon",
+                    "FullName": "Spoon (SPN)",
+                    "ImageUrl": "\/media\/1383861\/spn.png",
+                    "Url": "\/coins\/spn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 290053,
+                    "Name": "Dropcoin",
+                    "FullName": "Dropcoin (DRC)",
+                    "ImageUrl": "\/media\/11417638\/drp.png",
+                    "Url": "\/coins\/drc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4414,
+                    "Name": "CINNICOIN",
+                    "FullName": "CINNICOIN (CINNI)",
+                    "ImageUrl": "\/media\/19651\/cinni.jpeg",
+                    "Url": "\/coins\/cinni\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5402,
+                    "Name": "Node",
+                    "FullName": "Node (NODE)",
+                    "ImageUrl": "\/media\/20373\/node.png",
+                    "Url": "\/coins\/node\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21871,
+                    "Name": "WMCoin",
+                    "FullName": "WMCoin (WMC)",
+                    "ImageUrl": "\/media\/351044\/wmc.png",
+                    "Url": "\/coins\/wmc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 530681,
+                    "Name": "a.zakharov.cd",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/530681\/376b85f5-de82-400e-a13b-aafc424ff2c9.jpg",
+                    "Url": "\/profile\/a.zakharov.cd\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 486754,
+                    "Name": "FreshboneThug",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/486754\/4ae260e1-a95c-4631-bd21-e46cd29e4da5.png",
+                    "Url": "\/profile\/FreshboneThug\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 492007,
+                    "Name": "skycrane50",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/492007\/07561a3e-f0be-49a4-929e-a7a9a0b2b9e0.jpg",
+                    "Url": "\/profile\/skycrane50\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 385063,
+                    "Name": "contactdeleon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/385063\/0e60ec7b-8f3b-4a32-a54a-204ba87581be.jpg",
+                    "Url": "\/profile\/contactdeleon\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 451714,
+                    "Name": "1337paulvidler",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/451714\/f79534dc-157a-4490-ae12-347c34334dc2.jpg",
+                    "Url": "\/profile\/1337paulvidler\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 53079,
+                    "Name": "karimmiffa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/53079\/4dc8418e-3dd2-437c-9d3d-4af346b00bcf.png",
+                    "Url": "\/profile\/karimmiffa\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 175,
+            "Followers": 7,
+            "PageViewsSplit": {
+                "Overview": 1553,
+                "Markets": 100,
+                "Analysis": 106,
+                "Charts": 140,
+                "Trades": 135,
+                "Orderbook": 1,
+                "Forum": 179,
+                "Influence": 46
+            },
+            "PageViews": 2260
+        },
+        "Twitter": {
+            "favourites": "1",
+            "statuses": 1,
+            "following": "0",
+            "account_creation": "1428160898",
+            "followers": 23,
+            "name": "MRP",
+            "link": "https:\/\/twitter.com\/MRPcoinDev",
+            "lists": 1,
+            "Points": 28
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

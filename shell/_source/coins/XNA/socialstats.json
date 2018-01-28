@@ -1,0 +1,132 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XNA",
+            "CoinName": "DeOxyRibose",
+            "Type": "Webpagecoinp",
+            "Points": 25
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5306,
+                    "Name": "Stability Shares",
+                    "FullName": "Stability Shares (XSI)",
+                    "ImageUrl": "\/media\/20165\/xsi.png",
+                    "Url": "\/coins\/xsi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 625173,
+                    "Name": "TokugawaCoin",
+                    "FullName": "TokugawaCoin (TOK)",
+                    "ImageUrl": "\/media\/20780659\/tok.png",
+                    "Url": "\/coins\/tok\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4548,
+                    "Name": "CoinWorksCoin",
+                    "FullName": "CoinWorksCoin (LAB*)",
+                    "ImageUrl": "\/media\/20040\/lab.png",
+                    "Url": "\/coins\/labstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30920,
+                    "Name": "DarkKnightCoin",
+                    "FullName": "DarkKnightCoin (DKC)",
+                    "ImageUrl": "\/media\/351870\/dkc.png",
+                    "Url": "\/coins\/dkc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41116,
+                    "Name": "MrsaCoin",
+                    "FullName": "MrsaCoin (MRSA)",
+                    "ImageUrl": "\/media\/1382287\/msra.png",
+                    "Url": "\/coins\/mrsa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 486886,
+                    "Name": "PeepCoin",
+                    "FullName": "PeepCoin (PCN)",
+                    "ImageUrl": "\/media\/16746648\/pcn.png",
+                    "Url": "\/coins\/pcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38310,
+                    "Name": "S88 Coin",
+                    "FullName": "S88 Coin (S8C)",
+                    "ImageUrl": "\/media\/1382093\/s8c.png",
+                    "Url": "\/coins\/s8c\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 675134,
+                    "Name": "Monkey Project",
+                    "FullName": "Monkey Project (MONK)",
+                    "ImageUrl": "\/media\/20780785\/monk.png",
+                    "Url": "\/coins\/monk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 675053,
+                    "Name": "High Performance Blockchain",
+                    "FullName": "High Performance Blockchain (HPB)",
+                    "ImageUrl": "\/media\/20780783\/hpb.png",
+                    "Url": "\/coins\/hpb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 563196,
+                    "Name": "Hawala.Today",
+                    "FullName": "Hawala.Today (HAT)",
+                    "ImageUrl": "\/media\/20780593\/hat.png",
+                    "Url": "\/coins\/hat\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 1,
+            "Points": 25,
+            "PageViewsSplit": {
+                "Overview": 140,
+                "Markets": 12,
+                "Analysis": 48,
+                "Charts": 54,
+                "Trades": 40,
+                "Orderbook": 0,
+                "Forum": 29,
+                "Influence": 32
+            },
+            "PageViews": 355
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

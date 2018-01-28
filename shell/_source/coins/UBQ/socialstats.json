@@ -1,0 +1,204 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "UBQ",
+            "CoinName": "Ubiq",
+            "Type": "Webpagecoinp",
+            "Points": 21370
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 348628,
+                    "Name": "Kucoin",
+                    "FullName": "Kucoin (KCS)",
+                    "ImageUrl": "\/media\/12318389\/kcs.png",
+                    "Url": "\/coins\/kcs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 141331,
+                    "Name": "Dent",
+                    "FullName": "Dent (DENT)",
+                    "ImageUrl": "\/media\/1383613\/dent.png",
+                    "Url": "\/coins\/dent\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 141464,
+                    "Name": "Ethos",
+                    "FullName": "Ethos (BQX)",
+                    "ImageUrl": "\/media\/16404851\/ethos.png",
+                    "Url": "\/coins\/ethos\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 199148,
+                    "Name": "Decentraland",
+                    "FullName": "Decentraland (MANA)",
+                    "ImageUrl": "\/media\/1383903\/mana.png",
+                    "Url": "\/coins\/mana\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 466339,
+                    "Name": "NagaCoin",
+                    "FullName": "NagaCoin (NGC)",
+                    "ImageUrl": "\/media\/16746609\/ngc.png",
+                    "Url": "\/coins\/ngc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20196,
+                    "Name": "Dashcoin",
+                    "FullName": "Dashcoin (DSH)",
+                    "ImageUrl": "\/media\/20026\/dash.png",
+                    "Url": "\/coins\/dsh\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 324068,
+                    "Name": "ICON Project",
+                    "FullName": "ICON Project (ICX)",
+                    "ImageUrl": "\/media\/12318192\/icx.png",
+                    "Url": "\/coins\/icx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22015,
+                    "Name": "Rise",
+                    "FullName": "Rise (RISE)",
+                    "ImageUrl": "\/media\/351059\/rise.png",
+                    "Url": "\/coins\/rise\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 240142,
+                    "Name": "Wanchain",
+                    "FullName": "Wanchain (WAN)",
+                    "ImageUrl": "\/media\/9350742\/wan.jpg",
+                    "Url": "\/coins\/wan\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 418778,
+                    "Name": "EthLend",
+                    "FullName": "EthLend (LEND)",
+                    "ImageUrl": "\/media\/16746444\/lend.png",
+                    "Url": "\/coins\/lend\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 627841,
+                    "Name": "Romaixn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/627841\/812b4184-41a8-44f0-888d-10ba1cded573.jpg",
+                    "Url": "\/profile\/Romaixn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 239235,
+                    "Name": "7ADF4DD",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/239235\/e27b0409-a52d-4de4-8f88-11ab66044c39.jpg",
+                    "Url": "\/profile\/7ADF4DD\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 204288,
+                    "Name": "CryptoKey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/204288\/5d028637-666a-40bb-b92a-8e82f14c376a.png",
+                    "Url": "\/profile\/CryptoKey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 254149,
+                    "Name": "sidxaxis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/254149\/d046211e-0b64-4422-a120-acb4f59e07ad.jpg",
+                    "Url": "\/profile\/sidxaxis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 193845,
+                    "Name": "btcs222",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/193845\/63fa6f18-2810-4c51-afdf-3ab7dc0eab4e.jpg",
+                    "Url": "\/profile\/btcs222\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 662844,
+                    "Name": "rui.arcadinho",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/662844\/32622117-75e4-4761-8b79-728e31b96b21.jpg",
+                    "Url": "\/profile\/rui.arcadinho\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 287470,
+                    "Name": "KryptoNight",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/287470\/e58a5840-ecbb-480a-b6b2-0b0dc675d62e.jpg",
+                    "Url": "\/profile\/KryptoNight\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 234608,
+                    "Name": "Ether_2500",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/234608\/342905c3-a4fa-41e0-be8a-7c358b08c422.png",
+                    "Url": "\/profile\/Ether_2500\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 596825,
+                    "Name": "djehaan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596825\/baf3fdbe-e8bb-4eb0-b6b0-5f6255cb76d8.jpg",
+                    "Url": "\/profile\/djehaan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 331981,
+                    "Name": "anbar90omar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/331981\/bc65d250-764c-4840-a042-cf75b38f4215.jpg",
+                    "Url": "\/profile\/anbar90omar\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 651645,
+                    "Name": "ritesh_stha",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/651645\/a312b312-e697-404d-b7e5-9c30797fa590.jpg",
+                    "Url": "\/profile\/ritesh_stha\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 21365,
+            "Posts": "53",
+            "Followers": 772,
+            "Comments": "74",
+            "PageViewsSplit": {
+                "Overview": 39793,
+                "Markets": 1959,
+                "Analysis": 1363,
+                "Charts": 5911,
+                "Trades": 1406,
+                "Orderbook": 40,
+                "Forum": 3424,
+                "Influence": 526
+            },
+            "PageViews": 54422
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

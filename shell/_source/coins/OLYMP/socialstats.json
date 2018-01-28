@@ -1,0 +1,211 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "OLYMP",
+            "CoinName": "OlympCoin",
+            "Type": "Webpagecoinp",
+            "Points": 216
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 659724,
+                    "Name": "SagaCoin",
+                    "FullName": "SagaCoin (SAGA)",
+                    "ImageUrl": "\/media\/20780745\/saga.png",
+                    "Url": "\/coins\/saga\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 446051,
+                    "Name": "People",
+                    "FullName": "People (MAN)",
+                    "ImageUrl": "\/media\/16746574\/man.png",
+                    "Url": "\/coins\/man\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 441616,
+                    "Name": "Relex",
+                    "FullName": "Relex (RLX)",
+                    "ImageUrl": "\/media\/16746570\/rlx.png",
+                    "Url": "\/coins\/rlx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5356,
+                    "Name": "Ascension Coin",
+                    "FullName": "Ascension Coin (ASN)",
+                    "ImageUrl": "\/media\/20192\/asn.png",
+                    "Url": "\/coins\/asn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6095,
+                    "Name": "Quicksilver coin",
+                    "FullName": "Quicksilver coin (QSLV)",
+                    "ImageUrl": "\/media\/20404\/qslv.png",
+                    "Url": "\/coins\/qslv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38967,
+                    "Name": "Incrementum",
+                    "FullName": "Incrementum (INC)",
+                    "ImageUrl": "\/media\/1382173\/inc.png",
+                    "Url": "\/coins\/inc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32875,
+                    "Name": "LuckyBlocks (LUCKY)",
+                    "FullName": "LuckyBlocks (LUCKY) (LUCKY)",
+                    "ImageUrl": "\/media\/351946\/lucky.png",
+                    "Url": "\/coins\/lucky\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 39704,
+                    "Name": "ZLiteQubit",
+                    "FullName": "ZLiteQubit (ZLQ)",
+                    "ImageUrl": "\/media\/1382238\/zlq.png",
+                    "Url": "\/coins\/zlq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28657,
+                    "Name": "RingCoin",
+                    "FullName": "RingCoin (RING)",
+                    "ImageUrl": "\/media\/351546\/ring.png",
+                    "Url": "\/coins\/ring\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 79875,
+                    "Name": "ZSEcoin",
+                    "FullName": "ZSEcoin (ZSE)",
+                    "ImageUrl": "\/media\/1383266\/zse.png",
+                    "Url": "\/coins\/zse\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 552835,
+                    "Name": "rexvanewijk",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/552835\/84df970f-6586-4936-b589-0124da37b7cd.jpg",
+                    "Url": "\/profile\/rexvanewijk\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 590380,
+                    "Name": "eu_gen040810",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/590380\/0f6729ee-aa8d-4050-9551-34f0470c05c2.jpg",
+                    "Url": "\/profile\/eu_gen040810\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 476850,
+                    "Name": "BF73019F",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/476850\/ceeb7b7b-47dd-4c19-afe2-47c86f702afa.jpg",
+                    "Url": "\/profile\/BF73019F\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 70916,
+                    "Name": "952DDB20",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/70916\/dfcf5091-acf5-4e64-a4d3-8889407c31d3.jpg",
+                    "Url": "\/profile\/952DDB20\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 31508,
+                    "Name": "ksuresh9772",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/31508\/1dbd7339-b296-40bf-95ae-eb8717f88bec.jpg",
+                    "Url": "\/profile\/ksuresh9772\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 7,
+            "Points": 175,
+            "PageViewsSplit": {
+                "Overview": 548,
+                "Markets": 38,
+                "Analysis": 34,
+                "Charts": 35,
+                "Trades": 25,
+                "Orderbook": 0,
+                "Forum": 25,
+                "Influence": 17
+            },
+            "PageViews": 722
+        },
+        "Twitter": {
+            "followers": 36,
+            "following": "0",
+            "lists": 1,
+            "favourites": "0",
+            "statuses": 2,
+            "account_creation": "1470776754",
+            "name": "OlympCoin",
+            "link": "https:\/\/twitter.com\/olympcoin",
+            "Points": 41
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 0,
+                    "size": "2955",
+                    "url": "https:\/\/github.com\/olympcoin\/OlympCoin",
+                    "last_update": "1470854807",
+                    "last_push": "1470855073",
+                    "created_at": "1470854634",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

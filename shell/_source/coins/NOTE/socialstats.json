@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NOTE",
+            "CoinName": "Dnotes",
+            "Type": "Webpagecoinp",
+            "Points": 37584
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 55650,
+                    "Name": "MobileGo",
+                    "FullName": "MobileGo (MGO)",
+                    "ImageUrl": "\/media\/1382798\/mgo.png",
+                    "Url": "\/coins\/mgo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188858,
+                    "Name": "AdToken",
+                    "FullName": "AdToken (ADT)",
+                    "ImageUrl": "\/media\/1383829\/adt.png",
+                    "Url": "\/coins\/adt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 178467,
+                    "Name": "Wagerr",
+                    "FullName": "Wagerr (WGR)",
+                    "ImageUrl": "\/media\/1383736\/wgr.png",
+                    "Url": "\/coins\/wgr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 355117,
+                    "Name": "Ethereum Cash",
+                    "FullName": "Ethereum Cash (ECASH)",
+                    "ImageUrl": "\/media\/14543971\/ecash.png",
+                    "Url": "\/coins\/ecash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 178861,
+                    "Name": "Elastic",
+                    "FullName": "Elastic (XEL)",
+                    "ImageUrl": "\/media\/1383737\/xel.png",
+                    "Url": "\/coins\/xel\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4416,
+                    "Name": "CLAMS",
+                    "FullName": "CLAMS (CLAM)",
+                    "ImageUrl": "\/media\/20020\/clam.png",
+                    "Url": "\/coins\/clam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4630,
+                    "Name": "Unobtanium",
+                    "FullName": "Unobtanium (UNO)",
+                    "ImageUrl": "\/media\/20065\/uno.png",
+                    "Url": "\/coins\/uno\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 16125,
+                    "Name": "Bata",
+                    "FullName": "Bata (BTA)",
+                    "ImageUrl": "\/media\/1383113\/bta1.png",
+                    "Url": "\/coins\/bta\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 318169,
+                    "Name": "Loopring",
+                    "FullName": "Loopring (LRC)",
+                    "ImageUrl": "\/media\/12318135\/lrc.png",
+                    "Url": "\/coins\/lrc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 321177,
+                    "Name": "Elixir",
+                    "FullName": "Elixir (ELIX)",
+                    "ImageUrl": "\/media\/12318172\/elix.png",
+                    "Url": "\/coins\/elix\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 554090,
+                    "Name": "Dixieman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/554090\/771b723e-cb1b-4df1-8e11-8641d5d81d5a.jpg",
+                    "Url": "\/profile\/Dixieman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 491366,
+                    "Name": "minecraft",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/491366\/6b2cd5fc-cad5-4876-b575-40bc00a5effd.jpg",
+                    "Url": "\/profile\/minecraft\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 85686,
+                    "Name": "khopcus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/85686\/fb96aebe-bbbd-46ab-9f13-23b7dafc7ce4.jpg",
+                    "Url": "\/profile\/khopcus\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 455441,
+                    "Name": "hemlock21",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/455441\/039c2b09-05da-40db-a820-b88d87bfae21.jpg",
+                    "Url": "\/profile\/hemlock21\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 591954,
+                    "Name": "gannerik",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/591954\/a2aa3349-8c64-4245-a108-db37d12238c1.jpg",
+                    "Url": "\/profile\/gannerik\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 50190,
+                    "Name": "fassbenderarick",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/50190\/5227f2f9-4417-4b17-94ee-dff91ba76bd2.jpg",
+                    "Url": "\/profile\/fassbenderarick\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 525484,
+                    "Name": "aaron_wylde",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/525484\/33fe68bc-59e4-457a-9504-0298a1874152.jpg",
+                    "Url": "\/profile\/aaron_wylde\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 56225,
+                    "Name": "chrisaldridge3j1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/56225\/26f7822f-c6f9-41d9-a813-929918bc2ad2.jpg",
+                    "Url": "\/profile\/chrisaldridge3j1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 559228,
+                    "Name": "2AA21E4D",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/559228\/c127ca34-bbec-4e64-ac85-6dea754795fa.jpg",
+                    "Url": "\/profile\/2AA21E4D\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 2790,
+            "Followers": 98,
+            "Posts": "10",
+            "Comments": "9",
+            "PageViewsSplit": {
+                "Overview": 5867,
+                "Markets": 547,
+                "Analysis": 165,
+                "Charts": 915,
+                "Trades": 497,
+                "Orderbook": 42,
+                "Forum": 280,
+                "Influence": 59
+            },
+            "PageViews": 8372
+        },
+        "Twitter": {
+            "following": "3920",
+            "account_creation": "1390495575",
+            "name": "DNotes",
+            "lists": 511,
+            "statuses": 3629,
+            "favourites": "30",
+            "followers": 30715,
+            "link": "https:\/\/twitter.com\/DNotesCoin",
+            "Points": 33273
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "comments_per_hour": "0.00",
+            "posts_per_day": "0.07",
+            "comments_per_day": 0.07,
+            "name": "DNotes",
+            "link": "https:\/\/www.reddit.com\/r\/DNotes\/",
+            "active_users": 11,
+            "community_creation": "1392691916",
+            "subscribers": 162,
+            "Points": 195
+        },
+        "Facebook": {
+            "likes": 1294,
+            "link": "https:\/\/www.facebook.com\/Dnotescoin-777105165651768\/",
+            "is_closed": "false",
+            "talking_about": "24",
+            "name": "Dnotescoin",
+            "Points": 1294
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1424291675",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "1409",
+                    "closed_total_issues": "3",
+                    "stars": 6,
+                    "last_update": "1515445492",
+                    "forks": 4,
+                    "url": "https:\/\/github.com\/DNotesCoin\/DNotes",
+                    "closed_issues": "1",
+                    "closed_pull_issues": "2",
+                    "fork": "false",
+                    "last_push": "1502757970",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 6,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 32
+        }
+    }
+}

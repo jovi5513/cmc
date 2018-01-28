@@ -1,0 +1,250 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BTCZ",
+            "CoinName": "BitcoinZ",
+            "Type": "Webpagecoinp",
+            "Points": 7121
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 33399,
+                    "Name": "Veros",
+                    "FullName": "Veros (VRS)",
+                    "ImageUrl": "\/media\/352021\/vrs.png",
+                    "Url": "\/coins\/vrs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 200941,
+                    "Name": "Signatum",
+                    "FullName": "Signatum (SIGT)",
+                    "ImageUrl": "\/media\/9350710\/sigt.png",
+                    "Url": "\/coins\/sigt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5370,
+                    "Name": "NeosCoin",
+                    "FullName": "NeosCoin (NEOS)",
+                    "ImageUrl": "\/media\/1382788\/neos1.png",
+                    "Url": "\/coins\/neos\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 466492,
+                    "Name": "Universa",
+                    "FullName": "Universa (UTN)",
+                    "ImageUrl": "\/media\/16746611\/utn.png",
+                    "Url": "\/coins\/utn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 67096,
+                    "Name": "Guppy",
+                    "FullName": "Guppy (GUP)",
+                    "ImageUrl": "\/media\/1383107\/gup.png",
+                    "Url": "\/coins\/gup\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5348,
+                    "Name": "Folding Coin",
+                    "FullName": "Folding Coin (FLDC)",
+                    "ImageUrl": "\/media\/20284\/fldc.png",
+                    "Url": "\/coins\/fldc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 184237,
+                    "Name": "BitJob",
+                    "FullName": "BitJob (STU)",
+                    "ImageUrl": "\/media\/1383785\/stu.png",
+                    "Url": "\/coins\/stu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 380641,
+                    "Name": "SirinLabs",
+                    "FullName": "SirinLabs (SRN)",
+                    "ImageUrl": "\/media\/14913556\/srn.png",
+                    "Url": "\/coins\/srn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 355117,
+                    "Name": "Ethereum Cash",
+                    "FullName": "Ethereum Cash (ECASH)",
+                    "ImageUrl": "\/media\/14543971\/ecash.png",
+                    "Url": "\/coins\/ecash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 55650,
+                    "Name": "MobileGo",
+                    "FullName": "MobileGo (MGO)",
+                    "ImageUrl": "\/media\/1382798\/mgo.png",
+                    "Url": "\/coins\/mgo\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 673783,
+                    "Name": "rbc.works",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673783\/f685a40d-1c60-4152-842e-9d079a3e8408.jpg",
+                    "Url": "\/profile\/rbc.works\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 463969,
+                    "Name": "artzbr",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/463969\/96f4ea8f-69f7-41c7-ada7-48e363608fa2.jpg",
+                    "Url": "\/profile\/artzbr\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 601301,
+                    "Name": "trucoteca",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/601301\/0d00363f-5973-4447-ab9b-c2e5db5e195d.jpg",
+                    "Url": "\/profile\/trucoteca\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 369554,
+                    "Name": "jabagazdeliani0",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/369554\/079a8e71-9101-4d8b-b240-47a9df457752.jpg",
+                    "Url": "\/profile\/jabagazdeliani0\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 656752,
+                    "Name": "sheilah.martinez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/656752\/0534a3d6-6943-4cf5-9929-af5fd05ca21f.jpg",
+                    "Url": "\/profile\/sheilah.martinez\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 654202,
+                    "Name": "lunarlyte",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/654202\/85d2f8e8-e039-4b48-9dc3-2592cd981789.jpg",
+                    "Url": "\/profile\/lunarlyte\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 499766,
+                    "Name": "rlufe",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/499766\/b7f225dc-ec30-4e00-a95e-0e5443ace388.jpg",
+                    "Url": "\/profile\/rlufe\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 631059,
+                    "Name": "dakuklev",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/631059\/baac3aa9-b14b-4134-8aa2-68456e7e2037.jpg",
+                    "Url": "\/profile\/dakuklev\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 316341,
+                    "Name": "causality85",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/316341\/ecc1f743-105b-4f11-abce-16cd3a3adec5.jpg",
+                    "Url": "\/profile\/causality85\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 133306,
+                    "Name": "markodjukic9",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/133306\/84723b43-b068-4b7c-a9af-fa82e5d3fbc1.jpg",
+                    "Url": "\/profile\/markodjukic9\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 621383,
+                    "Name": "olivergattermayr",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/621383\/9c002644-8ff1-4a6b-acb0-e02653a147a3.jpg",
+                    "Url": "\/profile\/olivergattermayr\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 6450,
+            "Followers": 189,
+            "Posts": "57",
+            "Comments": "30",
+            "PageViewsSplit": {
+                "Overview": 15981,
+                "Markets": 927,
+                "Analysis": 679,
+                "Charts": 633,
+                "Trades": 630,
+                "Orderbook": 22,
+                "Forum": 1819,
+                "Influence": 271
+            },
+            "PageViews": 20962
+        },
+        "Twitter": {
+            "following": "2",
+            "account_creation": "1515269004",
+            "name": "BTCZCommunity",
+            "lists": 1,
+            "statuses": 3,
+            "favourites": "12",
+            "followers": 19,
+            "link": "https:\/\/twitter.com\/BTCZCommunity",
+            "Points": 24
+        },
+        "Reddit": {
+            "posts_per_hour": "0.04",
+            "comments_per_hour": "0.79",
+            "posts_per_day": "1.07",
+            "comments_per_day": 18.86,
+            "name": "BTCZCommunity",
+            "link": "https:\/\/www.reddit.com\/r\/BTCZCommunity\/",
+            "active_users": 39,
+            "community_creation": "1507915589",
+            "subscribers": 351,
+            "Points": 505
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1504989024",
+                    "open_total_issues": "11",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "21",
+                    "size": "5470",
+                    "stars": 40,
+                    "last_update": "1515904759",
+                    "forks": 23,
+                    "url": "https:\/\/github.com\/bitcoinz-pod\/bitcoinz",
+                    "closed_issues": "16",
+                    "closed_pull_issues": "5",
+                    "fork": "false",
+                    "last_push": "1515513632",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "2",
+                    "open_issues": "9",
+                    "language": "C++",
+                    "subscribers": 18
+                }
+            ],
+            "Points": 140
+        }
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "WAVES",
+            "CoinName": "Waves",
+            "Type": "Webpagecoinp",
+            "Points": 251633
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 24294,
+                    "Name": "Stratis",
+                    "FullName": "Stratis (STRAT)",
+                    "ImageUrl": "\/media\/351303\/stratis-logo.png",
+                    "Url": "\/coins\/strat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 204788,
+                    "Name": "Binance Coin",
+                    "FullName": "Binance Coin (BNB)",
+                    "ImageUrl": "\/media\/1383947\/bnb.png",
+                    "Url": "\/coins\/bnb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 166503,
+                    "Name": "EOS",
+                    "FullName": "EOS (EOS)",
+                    "ImageUrl": "\/media\/1383652\/eos_1.png",
+                    "Url": "\/coins\/eos\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4592,
+                    "Name": "ReddCoin",
+                    "FullName": "ReddCoin (RDD)",
+                    "ImageUrl": "\/media\/19887\/rdd.png",
+                    "Url": "\/coins\/rdd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5018,
+                    "Name": "VertCoin",
+                    "FullName": "VertCoin (VTC)",
+                    "ImageUrl": "\/media\/19945\/vtc.png",
+                    "Url": "\/coins\/vtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 347235,
+                    "Name": "Bitcoin Gold",
+                    "FullName": "Bitcoin Gold (BTG)",
+                    "ImageUrl": "\/media\/12318377\/btg.png",
+                    "Url": "\/coins\/btg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 361881,
+                    "Name": "Electroneum",
+                    "FullName": "Electroneum (ETN)",
+                    "ImageUrl": "\/media\/14761932\/electroneum.png",
+                    "Url": "\/coins\/etn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45260,
+                    "Name": "TenX",
+                    "FullName": "TenX (PAY)",
+                    "ImageUrl": "\/media\/1383687\/pay.png",
+                    "Url": "\/coins\/pay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 17778,
+                    "Name": "Augur",
+                    "FullName": "Augur (REP)",
+                    "ImageUrl": "\/media\/350815\/augur-logo.png",
+                    "Url": "\/coins\/rep\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 166390,
+                    "Name": "Tezos",
+                    "FullName": "Tezos (XTZ)",
+                    "ImageUrl": "\/media\/1383651\/xbt.png",
+                    "Url": "\/coins\/xtz\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 669810,
+                    "Name": "yuum",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/669810\/22a5e068-742b-434a-b1bb-e680e3dabbdd.jpg",
+                    "Url": "\/profile\/yuum\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 320113,
+                    "Name": "serkan_akay",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/320113\/86f21d89-265c-42d2-9069-4586b940e5c9.jpg",
+                    "Url": "\/profile\/serkan_akay\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674699,
+                    "Name": "m.veretennikov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674699\/d1f60ce7-a8e8-4c27-a97c-9d2339e92207.png",
+                    "Url": "\/profile\/m.veretennikov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 667692,
+                    "Name": "miteter_1217",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/667692\/af56da56-9cbb-492d-8959-a70b631d75d6.jpg",
+                    "Url": "\/profile\/miteter_1217\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 673572,
+                    "Name": "greg.ys.chang",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673572\/a297b65a-10c2-4f0e-9d2f-183b3a73b873.jpg",
+                    "Url": "\/profile\/greg.ys.chang\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 672923,
+                    "Name": "juanlagrutta",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/672923\/1ad2ede0-0c3f-4312-af18-1f024e4d9de2.jpg",
+                    "Url": "\/profile\/juanlagrutta\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 198975,
+                    "Name": "grant.trimble",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/198975\/97313a34-abe7-47b6-b973-42be370d08e0.jpg",
+                    "Url": "\/profile\/grant.trimble\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 672046,
+                    "Name": "djakonovden",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/672046\/772b19b7-af59-4d6b-809e-9b8ca3f948b8.jpg",
+                    "Url": "\/profile\/djakonovden\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 672646,
+                    "Name": "default",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/672646\/c3917b7b-c145-4f20-b848-e95d81d31256.jpg",
+                    "Url": "\/profile\/default\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2715,
+            "Posts": "179",
+            "Comments": "200",
+            "Points": 74350,
+            "PageViewsSplit": {
+                "Overview": 194470,
+                "Markets": 10858,
+                "Analysis": 3544,
+                "Charts": 23147,
+                "Trades": 4435,
+                "Orderbook": 135,
+                "Forum": 11384,
+                "Influence": 1123
+            },
+            "PageViews": 249096
+        },
+        "Twitter": {
+            "favourites": "2302",
+            "statuses": 1913,
+            "following": "1",
+            "account_creation": "1457519893",
+            "name": "wavesplatform",
+            "link": "https:\/\/twitter.com\/wavesplatform",
+            "lists": 1506,
+            "followers": 91927,
+            "Points": 99458
+        },
+        "Reddit": {
+            "comments_per_hour": "2.55",
+            "comments_per_day": 61.27,
+            "link": "https:\/\/www.reddit.com\/r\/Wavesplatform\/",
+            "posts_per_day": "12.24",
+            "active_users": 2551,
+            "subscribers": 7373,
+            "posts_per_hour": "0.51",
+            "community_creation": "1457522430",
+            "name": "Wavesplatform",
+            "Points": 15148
+        },
+        "Facebook": {
+            "likes": 61718,
+            "name": "Waves Platform",
+            "link": "https:\/\/www.facebook.com\/wavesplatform\/",
+            "talking_about": "1386",
+            "is_closed": "false",
+            "Points": 61718
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/wavesplatform\/Waves",
+                    "last_update": "1515912035",
+                    "subscribers": 95,
+                    "size": "16548",
+                    "created_at": "1460882328",
+                    "open_pull_issues": "7",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "Scala",
+                    "open_total_issues": "66",
+                    "stars": 394,
+                    "forks": 128,
+                    "closed_total_issues": "717",
+                    "closed_pull_issues": "669",
+                    "open_issues": "59",
+                    "closed_issues": "48",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1515771787"
+                }
+            ],
+            "Points": 935
+        }
+    }
+}

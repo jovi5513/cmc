@@ -1,0 +1,85 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "MaxCoin (MAX) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "A coin operating on a slightly different algorithm of SHA-3. However the main characteristics are all there including a relatively fast 30 second block time. Retargetting is done using the Kimoto Gravity well algorithm.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19786\/max.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "305"
+        },
+        "General": {
+            "Id": "4558",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "MaxCoin (MAX)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "MAX",
+            "Url": "\/coins\/max\/",
+            "BaseAngularUrl": "\/coins\/max\/",
+            "Name": "MaxCoin",
+            "ImageUrl": "\/media\/19786\/max.png",
+            "Description": "<p>A coin operating on a slightly different algorithm of SHA-3. However the main characteristics are all there including a relatively fast 30 second block time. Retargetting is done using the Kimoto Gravity well algorithm.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "100000000",
+            "Algorithm": "SHA3",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "06\/02\/2014",
+            "Twitter": "@maxcoinproject",
+            "AffiliateUrl": "http:\/\/www.maxcoin.co.uk\/",
+            "Website": "<a href='http:\/\/www.maxcoin.co.uk\/' target='_blank'>MaxCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926941,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "50%",
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 61445805,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~MAX~ETH",
+            "2~BTER~MAX~BTC",
+            "2~Yobit~MAX~BTC",
+            "2~BitTrex~MAX~BTC",
+            "2~Yobit~MAX~RUR",
+            "2~BTER~MAX~CNY",
+            "2~Coinse~MAX~BTC",
+            "2~Cryptsy~MAX~BTC",
+            "2~Jubi~MAX~CNY",
+            "2~EtherDelta~MAX~ETH",
+            "2~Yobit~MAX~USD",
+            "2~Cryptsy~MAX~LTC",
+            "2~Yobit~MAX~DOGE",
+            "2~Yobit~MAX~WAVES",
+            "2~Cryptsy~MAX~XRP"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~MAX~ETH~4~0.00000525~1515846391~177.81737193~0.0009335412026324999~200000015~0~0~0~0~0.00000525~0.00000525~0.00000525~0.00000525~0.00000525~0.00000525~Yobit~7ffe9",
+            "5~CCCAGG~MAX~BTC~4~0.0000027~1515945832~1301.60920962~0.003514344865974~200000178~28471.21554227~0.07765676871845538~55033.94233403~0.1440932856978554~0.0000025~0.00000299~0.0000025~0.0000025~0.00000299~0.0000025~Yobit~7ffe9",
+            "5~CCCAGG~MAX~RUR~2~3.29~1515941413~2~6.578~200000047~139.68863239~574.7952961890901~139.68863239~574.79529618909~4.48~4.48~1.53~4.48~4.48~1.53~Yobit~7ffe9",
+            "5~CCCAGG~MAX~CNY~4~0.0141~1505663971~1272.727~17.945450700000002~384863~0~0~0~0~0.0141~0.0141~0.0141~0.0141~0.0141~0.0141~Jubi~7ffe9",
+            "5~CCCAGG~MAX~USD~1~0.02400004~1515858454~50~1.200002~200000007~0~0~0~0~0.024~0.02400004~0.024~0.02400004~0.02400004~0.02400004~Yobit~7ffe9",
+            "5~CCCAGG~MAX~LTC~4~0.00127197~1452693307~0.7160733~0.00091082~110896526~0~0~0.00127197~0.00127197~0.00127197~Cryptsy~78ce9",
+            "5~CCCAGG~MAX~DOGE~4~4.49~1515929563~367.18739665~1648.6714109585~200000014~1658.07346476~7444.749856772401~1658.07346476~7444.7498567724~1.31~4.49~1.31~1.31~4.49~1.31~Yobit~7ffe9",
+            "5~CCCAGG~MAX~WAVES~4~0.023~1515795353~1.59492565~0.036683289949999996~200000000~0~0~0~0~0.023~0.023~0.023~0.023~0.023~0.023~Yobit~7ffe9",
+            "5~CCCAGG~MAX~XRP~4~0.93800972~1452693350~0.7160733~0.67168372~110896538~0~0~0.93800972~0.93800972~0.93800972~Cryptsy~78ce9"
+        ]
+    },
+    "Type": 100
+}

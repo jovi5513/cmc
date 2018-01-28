@@ -1,0 +1,176 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BRONZ",
+            "CoinName": "BitBronze",
+            "Type": "Webpagecoinp",
+            "Points": 2104
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 521417,
+                    "Name": "Media Network Coin",
+                    "FullName": "Media Network Coin (MNT*)",
+                    "ImageUrl": "\/media\/16746688\/mnt.png",
+                    "Url": "\/coins\/mntstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4555,
+                    "Name": "LitecoinX",
+                    "FullName": "LitecoinX (LTCX)",
+                    "ImageUrl": "\/media\/19779\/ltcx.png",
+                    "Url": "\/coins\/ltcx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29904,
+                    "Name": "DogeGoreCoin",
+                    "FullName": "DogeGoreCoin (DGORE)",
+                    "ImageUrl": "\/media\/351697\/dgore.png",
+                    "Url": "\/coins\/dgore\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20212,
+                    "Name": "CabbageUnit",
+                    "FullName": "CabbageUnit (CAB)",
+                    "ImageUrl": "\/media\/350896\/cab.png",
+                    "Url": "\/coins\/cab\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5014,
+                    "Name": "VidioCoin",
+                    "FullName": "VidioCoin (VDO)",
+                    "ImageUrl": "\/media\/20066\/vdo.png",
+                    "Url": "\/coins\/vdo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 68084,
+                    "Name": "WeAreSatoshi",
+                    "FullName": "WeAreSatoshi (WSX)",
+                    "ImageUrl": "\/media\/1383144\/wsx.png",
+                    "Url": "\/coins\/wsx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4426,
+                    "Name": "CraftCoin",
+                    "FullName": "CraftCoin (CRC)",
+                    "ImageUrl": "\/media\/19665\/crc.png",
+                    "Url": "\/coins\/crc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 311516,
+                    "Name": "Rhea",
+                    "FullName": "Rhea (RHEA)",
+                    "ImageUrl": "\/media\/12318096\/rhea.png",
+                    "Url": "\/coins\/rhea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 364051,
+                    "Name": "Modulum",
+                    "FullName": "Modulum (MDL)",
+                    "ImageUrl": "\/media\/14913435\/mdl-ico.png",
+                    "Url": "\/coins\/mdl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3640,
+                    "Name": "DarkKush",
+                    "FullName": "DarkKush (DANK)",
+                    "ImageUrl": "\/media\/20247\/dank.png",
+                    "Url": "\/coins\/dank\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 382035,
+                    "Name": "50097934",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/382035\/8c8cf95b-6c77-404c-9562-9fd9f6501b6c.jpg",
+                    "Url": "\/profile\/50097934\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 183629,
+                    "Name": "abdulmasriyanto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/183629\/1f49bf85-f2bc-4c43-ae01-798cc8c965e8.jpg",
+                    "Url": "\/profile\/abdulmasriyanto\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 50,
+            "Followers": 2,
+            "PageViewsSplit": {
+                "Overview": 324,
+                "Markets": 26,
+                "Analysis": 16,
+                "Charts": 51,
+                "Trades": 22,
+                "Orderbook": 1,
+                "Forum": 18,
+                "Influence": 9
+            },
+            "PageViews": 467
+        },
+        "Twitter": {
+            "statuses": 257,
+            "favourites": "268",
+            "following": "2799",
+            "account_creation": "1448178263",
+            "followers": 1929,
+            "name": "SushiNoTomato",
+            "link": "https:\/\/twitter.com\/BitBronze",
+            "lists": 24,
+            "Points": 2049
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1449923081",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "0",
+                    "size": "3991",
+                    "last_push": "1449924253",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "stars": 0,
+                    "open_pull_issues": "0",
+                    "last_update": "1449923305",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/SushiNoTomato\/BitBronze",
+                    "closed_issues": "0",
+                    "open_issues": "0",
+                    "language": "C++",
+                    "subscribers": 1,
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 5
+        }
+    }
+}

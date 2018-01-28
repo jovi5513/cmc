@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": "X11",
+        "ProofType": "PoW",
+        "BlockNumber": 0,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 0,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "SSTC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "2e-8",
+            "LASTUPDATE": "1516082896",
+            "LASTVOLUME": "8787.0592149",
+            "LASTVOLUMETO": "0.00017574118429800002",
+            "LASTTRADEID": "200003266",
+            "VOLUMEDAY": "80362.2700173",
+            "VOLUMEDAYTO": "0.0021951159924949",
+            "VOLUME24HOUR": "1294542.21681941",
+            "VOLUME24HOURTO": "0.0361602809383904",
+            "OPENDAY": "2e-8",
+            "HIGHDAY": "3e-8",
+            "LOWDAY": "2e-8",
+            "OPEN24HOUR": "2e-8",
+            "HIGH24HOUR": "3e-8",
+            "LOW24HOUR": "2e-8",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "SSTC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "2e-8",
+                "LASTUPDATE": "1516082896",
+                "LASTVOLUME": "8787.0592149",
+                "LASTVOLUMETO": "0.00017574118429800002",
+                "LASTTRADEID": "200003266",
+                "VOLUME24HOUR": "1294542.21681941",
+                "VOLUME24HOURTO": "0.0361602809383904",
+                "OPEN24HOUR": "2e-8",
+                "HIGH24HOUR": "3e-8",
+                "LOW24HOUR": "2e-8"
+            }
+        ]
+    },
+    "Type": 100
+}

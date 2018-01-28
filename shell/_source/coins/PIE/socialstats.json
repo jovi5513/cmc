@@ -1,0 +1,204 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PIE",
+            "CoinName": "Persistent Information Exchange",
+            "Type": "Webpagecoinp",
+            "Points": 1470
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 398705,
+                    "Name": "GoByte",
+                    "FullName": "GoByte (GBX)",
+                    "ImageUrl": "\/media\/15887411\/gbx.png",
+                    "Url": "\/coins\/gbx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4568,
+                    "Name": "MazaCoin",
+                    "FullName": "MazaCoin (MZC)",
+                    "ImageUrl": "\/media\/19816\/mzc.png",
+                    "Url": "\/coins\/mzc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5375,
+                    "Name": "GreenCoin",
+                    "FullName": "GreenCoin (GRE)",
+                    "ImageUrl": "\/media\/1382396\/grn.png",
+                    "Url": "\/coins\/gre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 294364,
+                    "Name": "TokenStars",
+                    "FullName": "TokenStars (ACE)",
+                    "ImageUrl": "\/media\/11999076\/ace.png",
+                    "Url": "\/coins\/ace\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 531559,
+                    "Name": "Bitair",
+                    "FullName": "Bitair (BTCA)",
+                    "ImageUrl": "\/media\/16746705\/btca.png",
+                    "Url": "\/coins\/btca\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32777,
+                    "Name": "ZCashDarkCoin",
+                    "FullName": "ZCashDarkCoin (ZECD)",
+                    "ImageUrl": "\/media\/351935\/zecd.png",
+                    "Url": "\/coins\/zecd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8717,
+                    "Name": "Gram Coin",
+                    "FullName": "Gram Coin (GRAM)",
+                    "ImageUrl": "\/media\/20688\/gram.png",
+                    "Url": "\/coins\/gram\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 52015,
+                    "Name": "Canada eCoin",
+                    "FullName": "Canada eCoin (CDN)",
+                    "ImageUrl": "\/media\/1382763\/cdn.png",
+                    "Url": "\/coins\/cdn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 322963,
+                    "Name": "Bismuth",
+                    "FullName": "Bismuth (BIS)",
+                    "ImageUrl": "\/media\/12318191\/bis.png",
+                    "Url": "\/coins\/bis\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6102,
+                    "Name": "Gambit coin",
+                    "FullName": "Gambit coin (GAM)",
+                    "ImageUrl": "\/media\/20293\/gam.png",
+                    "Url": "\/coins\/gam\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 663019,
+                    "Name": "jhspllc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/663019\/d9fdb404-1bbd-4e62-9795-833ae408264d.jpg",
+                    "Url": "\/profile\/jhspllc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 525053,
+                    "Name": "thomas.doucette",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/525053\/59a58b7d-728c-463d-93d5-259838b5f647.jpg",
+                    "Url": "\/profile\/thomas.doucette\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 211325,
+                    "Name": "1278920F",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/211325\/3e3bfa82-d228-4827-91e7-203e9a6bbf56.jpg",
+                    "Url": "\/profile\/1278920F\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 592968,
+                    "Name": "amarhayyat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/592968\/a31c72a8-9c02-4ee1-b800-67bce6ddaa2e.jpg",
+                    "Url": "\/profile\/amarhayyat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 594950,
+                    "Name": "cherkashin.m",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/594950\/c6d20eb0-425c-475a-abc4-e6a98016c3fa.jpg",
+                    "Url": "\/profile\/cherkashin.m\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 237797,
+                    "Name": "9156747",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/237797\/b60a73d8-a91e-4fb3-bafe-111751544c0b.jpg",
+                    "Url": "\/profile\/9156747\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 484956,
+                    "Name": "stacieoh",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/484956\/ea09959d-2540-4a9e-81e9-c3f5a770fbec.png",
+                    "Url": "\/profile\/stacieoh\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 429880,
+                    "Name": "mizsurahh",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/429880\/5b140214-a890-4a02-b6ca-35ce93b1872b.jpg",
+                    "Url": "\/profile\/mizsurahh\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1470,
+            "Posts": "8",
+            "Followers": 50,
+            "Comments": "2",
+            "PageViewsSplit": {
+                "Overview": 3195,
+                "Markets": 495,
+                "Analysis": 78,
+                "Charts": 170,
+                "Trades": 148,
+                "Orderbook": 1,
+                "Forum": 83,
+                "Influence": 14
+            },
+            "PageViews": 4184
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

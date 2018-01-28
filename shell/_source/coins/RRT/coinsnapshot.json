@@ -1,0 +1,49 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "RRT",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00001432",
+            "LASTUPDATE": "1516091197",
+            "LASTVOLUME": "1391.212",
+            "LASTVOLUMETO": "0.01992215584",
+            "LASTTRADEID": "167445748",
+            "VOLUMEDAY": "130039.60417102004",
+            "VOLUMEDAYTO": "1.8533345422146015",
+            "VOLUME24HOUR": "270422.06757331",
+            "VOLUME24HOURTO": "3.8134168784506297",
+            "OPENDAY": "0.00001373",
+            "HIGHDAY": "0.00001475",
+            "LOWDAY": "0.00001373",
+            "OPEN24HOUR": "0.00001404",
+            "HIGH24HOUR": "0.00001475",
+            "LOW24HOUR": "0.00001373",
+            "LASTMARKET": "Bitfinex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Bitfinex",
+                "FROMSYMBOL": "RRT",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00001432",
+                "LASTUPDATE": "1516091197",
+                "LASTVOLUME": "1391.212",
+                "LASTVOLUMETO": "0.01992215584",
+                "LASTTRADEID": "167445748",
+                "VOLUME24HOUR": "270422.06757331",
+                "VOLUME24HOURTO": "3.8134168784506297",
+                "OPEN24HOUR": "0.00001404",
+                "HIGH24HOUR": "0.00001475",
+                "LOW24HOUR": "0.00001373"
+            }
+        ]
+    },
+    "Type": 100
+}

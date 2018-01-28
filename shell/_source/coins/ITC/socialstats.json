@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ITC",
+            "CoinName": "IoT Chain",
+            "Type": "Webpagecoinp",
+            "Points": 12799
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 255546,
+                    "Name": "Exscudo",
+                    "FullName": "Exscudo (EON)",
+                    "ImageUrl": "\/media\/9350791\/eon.jpg",
+                    "Url": "\/coins\/eon\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 542140,
+                    "Name": "MediBloc",
+                    "FullName": "MediBloc (MED*)",
+                    "ImageUrl": "\/media\/16746766\/med.png",
+                    "Url": "\/coins\/medstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 357413,
+                    "Name": "CyberTrust",
+                    "FullName": "CyberTrust (CABS*)",
+                    "ImageUrl": "\/media\/14761917\/ctst.png",
+                    "Url": "\/coins\/cabsstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 374358,
+                    "Name": "COMSA",
+                    "FullName": "COMSA (CMS)",
+                    "ImageUrl": "\/media\/14913540\/comsa.png",
+                    "Url": "\/coins\/cms\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 251598,
+                    "Name": "Ar.cash",
+                    "FullName": "Ar.cash (AR*)",
+                    "ImageUrl": "\/media\/14913465\/ar.png",
+                    "Url": "\/coins\/arstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 67462,
+                    "Name": "Condensate",
+                    "FullName": "Condensate (RAIN)",
+                    "ImageUrl": "\/media\/1383114\/rain.png",
+                    "Url": "\/coins\/rain\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 57734,
+                    "Name": "VirtacoinPlus",
+                    "FullName": "VirtacoinPlus (XVP)",
+                    "ImageUrl": "\/media\/1382865\/xvp.png",
+                    "Url": "\/coins\/xvp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341205,
+                    "Name": "VIVO Coin",
+                    "FullName": "VIVO Coin (VIVO)",
+                    "ImageUrl": "\/media\/12318337\/vivo.png",
+                    "Url": "\/coins\/vivo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29378,
+                    "Name": "Mycelium Token",
+                    "FullName": "Mycelium Token (MT)",
+                    "ImageUrl": "\/media\/19453\/mycelium.png",
+                    "Url": "\/coins\/mt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 40990,
+                    "Name": "YesCoin",
+                    "FullName": "YesCoin (YES)",
+                    "ImageUrl": "\/media\/1382269\/yes.png",
+                    "Url": "\/coins\/yes\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 457327,
+                    "Name": "itsec.consultant",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/457327\/2441f1c9-622a-4911-8a35-ff2c2debf5e0.jpg",
+                    "Url": "\/profile\/itsec.consultant\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 653090,
+                    "Name": "hugomolenaar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/653090\/89bca83f-8734-4fd0-abd1-ec4e10e85b36.jpg",
+                    "Url": "\/profile\/hugomolenaar\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 662402,
+                    "Name": "proxeiros",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/662402\/236f7099-4705-4539-b381-4159ca72b455.jpg",
+                    "Url": "\/profile\/proxeiros\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 649638,
+                    "Name": "alcylu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/649638\/6e6c77d7-6f34-453c-a2db-6a705722d20c.jpg",
+                    "Url": "\/profile\/alcylu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 630906,
+                    "Name": "randomkoinz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/630906\/92e342fa-2108-4537-9082-407be6e95575.jpg",
+                    "Url": "\/profile\/randomkoinz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 659669,
+                    "Name": "leomuck",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/659669\/a2f10204-3a58-4588-89de-dc28a5ac69cc.jpg",
+                    "Url": "\/profile\/leomuck\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 404238,
+                    "Name": "CryptoRiddle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/404238\/afb06b43-41db-46aa-a333-fa9d7aee48c0.jpg",
+                    "Url": "\/profile\/CryptoRiddle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 80419,
+                    "Name": "lisavivori",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/80419\/b6e02dc1-9d70-4b61-895e-6724b54e0d83.jpg",
+                    "Url": "\/profile\/lisavivori\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 624690,
+                    "Name": "pwayne1990",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/624690\/7c5bb6b5-9fb6-4903-aa0a-b49d746f933c.jpg",
+                    "Url": "\/profile\/pwayne1990\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 260996,
+                    "Name": "kryptobro",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/260996\/16bf9845-5701-4c1d-9506-eb79f32ca452.jpg",
+                    "Url": "\/profile\/kryptobro\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 457553,
+                    "Name": "sapkotamadan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/457553\/41473e06-32b2-41e8-95c6-06d23cddb39b.jpg",
+                    "Url": "\/profile\/sapkotamadan\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 770,
+            "Posts": "7",
+            "Comments": "2",
+            "Followers": 23,
+            "PageViewsSplit": {
+                "Overview": 1308,
+                "Markets": 109,
+                "Analysis": 206,
+                "Charts": 55,
+                "Trades": 32,
+                "Orderbook": 0,
+                "Forum": 141,
+                "Influence": 25
+            },
+            "PageViews": 1876
+        },
+        "Twitter": {
+            "favourites": "46",
+            "statuses": 49,
+            "following": "175",
+            "account_creation": "1511157856",
+            "followers": 11573,
+            "name": "IoT Chain",
+            "link": "https:\/\/twitter.com\/IoT_Chain",
+            "lists": 50,
+            "Points": 11823
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "64",
+            "name": "IoT Chain",
+            "likes": 206,
+            "link": "https:\/\/www.facebook.com\/IoTChain\/",
+            "Points": 206
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

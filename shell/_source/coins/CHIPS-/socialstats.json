@@ -1,0 +1,161 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CHIPS",
+            "CoinName": "CHIPS",
+            "Type": "Webpagecoinp",
+            "Points": 47
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4588,
+                    "Name": "PseudoCash",
+                    "FullName": "PseudoCash (PSEUD)",
+                    "ImageUrl": "\/media\/20052\/pseud.png",
+                    "Url": "\/coins\/pseud\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4575,
+                    "Name": "Nimbus Coin",
+                    "FullName": "Nimbus Coin (NMB)",
+                    "ImageUrl": "\/media\/20049\/nmb.png",
+                    "Url": "\/coins\/nmb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28131,
+                    "Name": "FuturePoints",
+                    "FullName": "FuturePoints (FTP)",
+                    "ImageUrl": "\/media\/351501\/ftp.png",
+                    "Url": "\/coins\/ftp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 196572,
+                    "Name": "Anacrypt",
+                    "FullName": "Anacrypt (ANCP)",
+                    "ImageUrl": "\/media\/1383863\/ancp.png",
+                    "Url": "\/coins\/ancp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 249784,
+                    "Name": "BuildTeam",
+                    "FullName": "BuildTeam (BT)",
+                    "ImageUrl": "\/media\/9350775\/bt.png",
+                    "Url": "\/coins\/bt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 402805,
+                    "Name": "KingN Coin",
+                    "FullName": "KingN Coin (KNC**)",
+                    "ImageUrl": "\/media\/16404850\/knc.png",
+                    "Url": "\/coins\/kncstarstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 373880,
+                    "Name": "Huncoin",
+                    "FullName": "Huncoin (HNC*)",
+                    "ImageUrl": "\/media\/14913529\/hnc.png",
+                    "Url": "\/coins\/hncstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 625173,
+                    "Name": "TokugawaCoin",
+                    "FullName": "TokugawaCoin (TOK)",
+                    "ImageUrl": "\/media\/20780659\/tok.png",
+                    "Url": "\/coins\/tok\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4550,
+                    "Name": "Lucky7Coin",
+                    "FullName": "Lucky7Coin (LK7)",
+                    "ImageUrl": "\/media\/19776\/lk7.png",
+                    "Url": "\/coins\/lk7\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25817,
+                    "Name": "PokeChain",
+                    "FullName": "PokeChain (XPOKE)",
+                    "ImageUrl": "\/media\/351393\/xpoke.png",
+                    "Url": "\/coins\/xpoke\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 128657,
+                    "Name": "ostalakar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/128657\/5a3f02b8-afc2-4fa4-8d6a-1e826a61b21d.jpg",
+                    "Url": "\/profile\/ostalakar\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 25,
+            "Followers": 1,
+            "PageViewsSplit": {
+                "Overview": 65,
+                "Markets": 6,
+                "Analysis": 1,
+                "Charts": 5,
+                "Trades": 1,
+                "Orderbook": 0,
+                "Forum": 3,
+                "Influence": 5
+            },
+            "PageViews": 86
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1502315759",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "3",
+                    "size": "73559",
+                    "last_push": "1509690203",
+                    "stars": 1,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1514661614",
+                    "open_pull_issues": "0",
+                    "forks": 6,
+                    "url": "https:\/\/github.com\/jl777\/chips3",
+                    "closed_issues": "0",
+                    "open_issues": "0",
+                    "subscribers": 3,
+                    "language": "C++",
+                    "closed_pull_issues": "3"
+                }
+            ],
+            "Points": 22
+        }
+    }
+}

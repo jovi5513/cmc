@@ -1,0 +1,212 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "FST",
+            "CoinName": "FastCoin",
+            "Type": "Webpagecoinp",
+            "Points": 15476
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 374246,
+                    "Name": "Decision Token",
+                    "FullName": "Decision Token (HST)",
+                    "ImageUrl": "\/media\/14913538\/hst.png",
+                    "Url": "\/coins\/hst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 336538,
+                    "Name": "VIBEHub",
+                    "FullName": "VIBEHub (VIBE)",
+                    "ImageUrl": "\/media\/12318267\/vibe.png",
+                    "Url": "\/coins\/vibe\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5289,
+                    "Name": "StartCoin",
+                    "FullName": "StartCoin (START)",
+                    "ImageUrl": "\/media\/19916\/start.png",
+                    "Url": "\/coins\/start\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4579,
+                    "Name": "NovaCoin",
+                    "FullName": "NovaCoin (NVC)",
+                    "ImageUrl": "\/media\/20713\/nvc.png",
+                    "Url": "\/coins\/nvc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4562,
+                    "Name": "MintCoin",
+                    "FullName": "MintCoin (MINT)",
+                    "ImageUrl": "\/media\/19797\/mint.png",
+                    "Url": "\/coins\/mint\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 194567,
+                    "Name": "BlockCAT",
+                    "FullName": "BlockCAT (CAT)",
+                    "ImageUrl": "\/media\/1383848\/bcat1.png",
+                    "Url": "\/coins\/catstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4431,
+                    "Name": "Diamond",
+                    "FullName": "Diamond (DMD)",
+                    "ImageUrl": "\/media\/19680\/dmd.png",
+                    "Url": "\/coins\/dmd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 84262,
+                    "Name": "Infinium-8",
+                    "FullName": "Infinium-8 (INF8)",
+                    "ImageUrl": "\/media\/1383326\/inf8.png",
+                    "Url": "\/coins\/inf8\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 176669,
+                    "Name": "Nimiq Exchange Token",
+                    "FullName": "Nimiq Exchange Token (NET*)",
+                    "ImageUrl": "\/media\/1383697\/net1.png",
+                    "Url": "\/coins\/netstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20691,
+                    "Name": "YoCoin",
+                    "FullName": "YoCoin (YOC)",
+                    "ImageUrl": "\/media\/350957\/yoc.png",
+                    "Url": "\/coins\/yoc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 662439,
+                    "Name": "kevin100209",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/662439\/7e6af72c-7892-4f43-9a96-5fc680e510ef.jpg",
+                    "Url": "\/profile\/kevin100209\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 353424,
+                    "Name": "tblackm82",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/353424\/e3d18e63-cb6c-480b-a134-b08b10302440.jpg",
+                    "Url": "\/profile\/tblackm82\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 79863,
+                    "Name": "crankgirl",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/79863\/e11b0355-be78-4955-9baa-bb001f848745.jpg",
+                    "Url": "\/profile\/crankgirl\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 530495,
+                    "Name": "fcm6329",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/530495\/03082fb2-7c4b-4285-bc0d-7a20d8328260.jpg",
+                    "Url": "\/profile\/fcm6329\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 447221,
+                    "Name": "espann",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/447221\/d2cb060a-4371-452b-8ae6-f2b75d2caa08.jpg",
+                    "Url": "\/profile\/espann\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 582551,
+                    "Name": "keystone",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/582551\/89341eb3-8d76-4b7d-bba0-47d7d568d3c4.jpg",
+                    "Url": "\/profile\/keystone\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 434149,
+                    "Name": "crisbit.winball",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/434149\/0de30860-c30d-405d-b3e9-aa4cfb099c84.jpg",
+                    "Url": "\/profile\/crisbit.winball\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 622697,
+                    "Name": "paul.thib64",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/622697\/aaaabcf0-8b34-4074-9db7-2c5463ff6720.jpg",
+                    "Url": "\/profile\/paul.thib64\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 597971,
+                    "Name": "flex.rb1923",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/597971\/9a72ac2f-3885-40cc-b67b-56d77a81ad9e.jpg",
+                    "Url": "\/profile\/flex.rb1923\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 130,
+            "Comments": "13",
+            "Points": 3930,
+            "Posts": "22",
+            "PageViewsSplit": {
+                "Overview": 11856,
+                "Markets": 625,
+                "Analysis": 314,
+                "Charts": 2903,
+                "Trades": 1544,
+                "Orderbook": 19,
+                "Forum": 514,
+                "Influence": 140
+            },
+            "PageViews": 17915
+        },
+        "Twitter": {
+            "lists": 163,
+            "favourites": "5395",
+            "name": "FastCoin",
+            "statuses": 12170,
+            "followers": 10718,
+            "following": "20",
+            "link": "https:\/\/twitter.com\/fast_coin",
+            "account_creation": "1373216516",
+            "Points": 11545
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

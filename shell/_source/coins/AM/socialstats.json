@@ -1,0 +1,140 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "AM",
+            "CoinName": "AeroMe",
+            "Type": "Webpagecoinp",
+            "Points": 514
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4544,
+                    "Name": "JudgeCoin",
+                    "FullName": "JudgeCoin (JUDGE)",
+                    "ImageUrl": "\/media\/20038\/judge.png",
+                    "Url": "\/coins\/judge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29926,
+                    "Name": "Tetra",
+                    "FullName": "Tetra (TRA)",
+                    "ImageUrl": "\/media\/351700\/tra.png",
+                    "Url": "\/coins\/tra\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45609,
+                    "Name": "TrashBurn",
+                    "FullName": "TrashBurn (TBCX)",
+                    "ImageUrl": "\/media\/1382658\/tbcx.png",
+                    "Url": "\/coins\/tbcx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28770,
+                    "Name": "Save and Gain",
+                    "FullName": "Save and Gain (SANDG)",
+                    "ImageUrl": "\/media\/351556\/sandt.png",
+                    "Url": "\/coins\/sandg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38035,
+                    "Name": "HeelCoin",
+                    "FullName": "HeelCoin (HEEL)",
+                    "ImageUrl": "\/media\/1382051\/heel.png",
+                    "Url": "\/coins\/heel\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35811,
+                    "Name": "HazMatCoin",
+                    "FullName": "HazMatCoin (HZT)",
+                    "ImageUrl": "\/media\/352291\/hzt.png",
+                    "Url": "\/coins\/hzt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 23435,
+                    "Name": "Specie",
+                    "FullName": "Specie (SPX)",
+                    "ImageUrl": "\/media\/351212\/spx.png",
+                    "Url": "\/coins\/spx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 74894,
+                    "Name": "GrowthCoin",
+                    "FullName": "GrowthCoin (GRW)",
+                    "ImageUrl": "\/media\/1383234\/grw.png",
+                    "Url": "\/coins\/grw\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5380,
+                    "Name": "ROS Coin",
+                    "FullName": "ROS Coin (ROS)",
+                    "ImageUrl": "\/media\/19710\/frac.png",
+                    "Url": "\/coins\/ros\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29366,
+                    "Name": "NineElevenTruthCoin",
+                    "FullName": "NineElevenTruthCoin (NTC)",
+                    "ImageUrl": "\/media\/351631\/ntc.png",
+                    "Url": "\/coins\/ntc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 640905,
+                    "Name": "Lana420",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/640905\/2a057ad4-6aed-4d90-bb59-d1dcc64fb5f6.jpg",
+                    "Url": "\/profile\/Lana420\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 1,
+            "Points": 25,
+            "PageViewsSplit": {
+                "Overview": 352,
+                "Markets": 48,
+                "Analysis": 30,
+                "Charts": 43,
+                "Trades": 23,
+                "Orderbook": 0,
+                "Forum": 20,
+                "Influence": 25
+            },
+            "PageViews": 541
+        },
+        "Twitter": {
+            "followers": 429,
+            "following": "12",
+            "lists": 12,
+            "favourites": "6",
+            "statuses": 76,
+            "account_creation": "1403040113",
+            "name": "AeroME [AM]",
+            "link": "https:\/\/twitter.com\/aerocoin",
+            "Points": 489
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "YOVI",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "1",
+            "PRICE": "0.00003605",
+            "LASTUPDATE": "1516090787",
+            "LASTVOLUME": "0.07776635",
+            "LASTVOLUMETO": "0.0017831824054999998",
+            "LASTTRADEID": "200001258",
+            "VOLUMEDAY": "11530.126127489995",
+            "VOLUMEDAYTO": "1.055067860061719",
+            "VOLUME24HOUR": "93019.1564395",
+            "VOLUME24HOURTO": "2.5235114187477308",
+            "OPENDAY": "0.00002306",
+            "HIGHDAY": "0.001435",
+            "LOWDAY": "0.00001144",
+            "OPEN24HOUR": "0.00003935",
+            "HIGH24HOUR": "0.00003959",
+            "LOW24HOUR": "0.00003483",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "YOVI",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00001024",
+                "LASTUPDATE": "1516090048",
+                "LASTVOLUME": "299.78481475",
+                "LASTVOLUMETO": "0.0030698",
+                "LASTTRADEID": "1516090048",
+                "VOLUME24HOUR": "92956.2737469",
+                "VOLUME24HOURTO": "1.0867935400000002",
+                "OPEN24HOUR": "0.00001375",
+                "HIGH24HOUR": "0.00001378",
+                "LOW24HOUR": "0.00000922"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Novaexchange",
+                "FROMSYMBOL": "YOVI",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000184",
+                "LASTUPDATE": "1510421405",
+                "LASTVOLUME": "94.8927062",
+                "LASTVOLUMETO": "0.000174602579408",
+                "LASTTRADEID": "1510421405001",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000184",
+                "HIGH24HOUR": "0.00000184",
+                "LOW24HOUR": "0.00000184"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "YOVI",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.02293",
+                "LASTUPDATE": "1516090787",
+                "LASTVOLUME": "0.07776635",
+                "LASTVOLUMETO": "0.0017831824054999998",
+                "LASTTRADEID": "200001258",
+                "VOLUME24HOUR": "62.8826926",
+                "VOLUME24HOURTO": "1.4367178787477308",
+                "OPEN24HOUR": "0.022749",
+                "HIGH24HOUR": "0.02293",
+                "LOW24HOUR": "0.022749"
+            }
+        ]
+    },
+    "Type": 100
+}

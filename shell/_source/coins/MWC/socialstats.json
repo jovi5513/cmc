@@ -1,0 +1,161 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MWC",
+            "CoinName": "MultiWallet Coin",
+            "Type": "Webpagecoinp",
+            "Points": 174
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 447315,
+                    "Name": "Neuro",
+                    "FullName": "Neuro (NRO)",
+                    "ImageUrl": "\/media\/16746592\/nro.png",
+                    "Url": "\/coins\/nro\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5404,
+                    "Name": "BitMiles",
+                    "FullName": "BitMiles (BTMI)",
+                    "ImageUrl": "\/media\/20213\/btmi.png",
+                    "Url": "\/coins\/btmi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645830,
+                    "Name": "GoaCoin",
+                    "FullName": "GoaCoin (GOA)",
+                    "ImageUrl": "\/media\/20780697\/goa.png",
+                    "Url": "\/coins\/goa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4569,
+                    "Name": "NanoToken",
+                    "FullName": "NanoToken (NAN)",
+                    "ImageUrl": "\/media\/19821\/nan.png",
+                    "Url": "\/coins\/nan\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21222,
+                    "Name": "MediumProject",
+                    "FullName": "MediumProject (MPRO)",
+                    "ImageUrl": "\/media\/350999\/mpro.jpg",
+                    "Url": "\/coins\/mpro\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 52008,
+                    "Name": "ChatCoin",
+                    "FullName": "ChatCoin (CHAT)",
+                    "ImageUrl": "\/media\/1382762\/chat.png",
+                    "Url": "\/coins\/chat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 73132,
+                    "Name": "ParallelCoin",
+                    "FullName": "ParallelCoin (DUO)",
+                    "ImageUrl": "\/media\/1383196\/duo.png",
+                    "Url": "\/coins\/duo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 436162,
+                    "Name": "RAFL",
+                    "FullName": "RAFL (RFL)",
+                    "ImageUrl": "\/media\/16746549\/rfl.png",
+                    "Url": "\/coins\/rfl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29556,
+                    "Name": "EmiratesGoldCoin",
+                    "FullName": "EmiratesGoldCoin (EMIGR)",
+                    "ImageUrl": "\/media\/351659\/emirg.png",
+                    "Url": "\/coins\/emigr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21378,
+                    "Name": "GIZMOcoin",
+                    "FullName": "GIZMOcoin (GIZ)",
+                    "ImageUrl": "\/media\/351015\/giz.png",
+                    "Url": "\/coins\/giz\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 553959,
+                    "Name": "alhajibonjo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/553959\/4e131c65-25d9-4357-927e-3bf56e6e5718.jpg",
+                    "Url": "\/profile\/alhajibonjo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 365281,
+                    "Name": "heise2008",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/365281\/e6fec66a-d636-4a0d-ab65-19984e62d92b.jpg",
+                    "Url": "\/profile\/heise2008\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 307141,
+                    "Name": "dgegely2000",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/307141\/8e4213af-7266-4171-b9be-4265b9c56cb0.jpg",
+                    "Url": "\/profile\/dgegely2000\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 1195,
+                "Markets": 43,
+                "Analysis": 50,
+                "Charts": 44,
+                "Trades": 45,
+                "Orderbook": 1,
+                "Forum": 94,
+                "Influence": 10
+            },
+            "PageViews": 1482
+        },
+        "Twitter": {
+            "followers": 59,
+            "following": "0",
+            "lists": 3,
+            "favourites": "0",
+            "statuses": 4,
+            "account_creation": "1405789497",
+            "name": "MultiWalletCoin",
+            "link": "https:\/\/twitter.com\/MultiWalletCoin",
+            "Points": 74
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

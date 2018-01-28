@@ -1,0 +1,74 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "UltraCoin (UTC) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "UltraCoin(UTC) uses Scrypt-Jane algorithm, which ensures it cannot be mined by ASICs like other cryptocurrencies as it is released in a transparent process that allows for independent verification of binaries and their corresponding source code, and hybrid proof-of-work \/ proof-of-stake coin whereby active nodes are involved in the mining of blocks if they maintain a UTC balance.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19942\/utc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "299"
+        },
+        "General": {
+            "Id": "5012",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "UltraCoin (UTC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "UTC",
+            "Url": "\/coins\/utc\/",
+            "BaseAngularUrl": "\/coins\/utc\/",
+            "Name": "UltraCoin",
+            "ImageUrl": "\/media\/19942\/utc.png",
+            "Description": "<p>UltraCoin(UTC) uses Scrypt-Jane algorithm, which ensures it cannot be mined by ASICs like other cryptocurrencies as it is released in a transparent process that allows for independent verification of binaries and their corresponding source code, and hybrid proof-of-work \/ proof-of-stake coin whereby active nodes are involved in the mining of blocks if they maintain a UTC balance. Difficulty retargeting is limited to 200% increases at each retargeting.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "100000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "01\/02\/2014",
+            "Twitter": "@official_utc",
+            "AffiliateUrl": "http:\/\/ultracoin.net\/",
+            "Website": "<a href='http:\/\/ultracoin.net\/' target='_blank'>UltraCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515949116,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "-",
+            "BlockNumber": 2305354,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 45240672.23929,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~UTC~BTC",
+            "2~Cryptopia~UTC~DOT",
+            "2~Cryptopia~UTC~DOGE",
+            "2~Yacuna~UTC~BTC",
+            "2~Cryptsy~UTC~BTC",
+            "2~Cryptopia~UTC~LTC",
+            "2~Cryptsy~UTC~XRP",
+            "2~BitTrex~UTC~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~UTC~BTC~1~0.00000419~1515947558~366.5~0.00153564~1515947558.002~218028.2897855801~0.8868501799999999~331418.8264476901~1.3387396400000002~0.00000399~0.00000425~0.00000393~0.00000376~0.00000425~0.00000376~Cryptopia~7ffe9",
+            "5~CCCAGG~UTC~DOT~4~10.4999~1488291159~2491.60507317~26161.604108~1488291159.001~0~0~0~0~10.4999~10.4999~10.4999~10.4999~10.4999~10.4999~Cryptopia~7ffe9",
+            "5~CCCAGG~UTC~DOGE~4~4.3215433~1515087047~105.85936089~457.4758118~1515087047.001~0~0~0~0~4.32~4.3215433~4.32~4.3215433~4.3215433~4.3215433~Cryptopia~7ffe9",
+            "5~CCCAGG~UTC~LTC~4~0.000382~1515148054~498~0.190236~1515148054~0~0~0~0~0.000382~0.000382~0.000382~0.000382~0.000382~0.000382~Cryptopia~7ffe9",
+            "5~CCCAGG~UTC~XRP~4~0.132~1452691771~5633.25736609~743.58997232~110895493~0~0~0.132~0.132~0.132~Cryptsy~78ce9"
+        ]
+    },
+    "Type": 100
+}

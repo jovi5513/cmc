@@ -1,0 +1,84 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Onix (ONX) - Live streaming prices and market cap",
+            "PageDescription": "Live Onix prices from all markets and ONX coin market Capitalization. Stay up to date with the latest Onix price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1383910\/onx.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "201676",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Onix (ONX)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ONX",
+            "Url": "\/coins\/onx\/",
+            "BaseAngularUrl": "\/coins\/onx\/",
+            "Name": "Onix",
+            "ImageUrl": "\/media\/1383910\/onx.png",
+            "Description": "<p>Onix is a Proof of Work cryptocurrency based on the X11 Algorithm.\u00a0<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "1100000000",
+            "Algorithm": "X11",
+            "ProofType": "PoW",
+            "StartDate": "26\/05\/2017",
+            "Twitter": "@onix_coin",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970628,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 123915,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 2681681798541,
+            "TotalCoinsMined": 107784552.35162,
+            "PreviousTotalCoinsMined": 107784312.35156,
+            "BlockReward": 60.000066696604
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~ONX~ETH",
+            "2~Novaexchange~ONX~LTC",
+            "2~Novaexchange~ONX~DOGE",
+            "2~Novaexchange~ONX~ESP2",
+            "2~Yobit~ONX~USD",
+            "2~Yobit~ONX~RUR",
+            "2~Yobit~ONX~BTC",
+            "2~Novaexchange~ONX~KIC",
+            "2~Yobit~ONX~ETH",
+            "2~Yobit~ONX~DOGE",
+            "2~Yobit~ONX~WAVES",
+            "2~Novaexchange~ONX~MOON",
+            "2~Novaexchange~ONX~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ONX~ETH~4~0.00002854~1515972953~20.97546188~0.0005986396820552001~200000153~0~0~13896.77843373~0.43108028841170193~0.00002854~0.00002854~0.00002854~0.000025~0.000041~0.000025~Yobit~7ffe9",
+            "5~CCCAGG~ONX~LTC~4~0.0000055~1500688211~39.584978~0.00021771737899999998~1500688211001~0~0~0~0~0.0000055~0.0000055~0.0000055~0.0000055~0.0000055~0.0000055~Novaexchange~7ffe9",
+            "5~CCCAGG~ONX~DOGE~1~4.52~1515974440~84.99336008~383.9999999915064~200000122~84.99336008~383.9999999915064~36147.8517628~153277.2846432568~4.1~4.52~4.1~4.1~4.52~4~Yobit~7ffe9",
+            "5~CCCAGG~ONX~ESP2~4~9998.99999999~1505783850~0.00010001~0.9999999899989999~1505783850000~0~0~0~0~9998.99999999~9998.99999999~9998.99999999~9998.99999999~9998.99999999~9998.99999999~Novaexchange~7ffe9",
+            "5~CCCAGG~ONX~USD~4~0.054~1515978081~37.05509091~2.000975279690909~200000315~192.41371869~10.390342733397187~5355.83198796~300.767147800258~0.0588~0.0588~0.054~0.06092~0.06092~0.054~Yobit~7ffe9",
+            "5~CCCAGG~ONX~RUR~4~3.35~1515978239~12.49820132~41.91616763018432~200000083~26.39820132~88.53365403018432~1486.97387364~4572.9976977566685~3.35~3.35~3.35~3.36~3.36~2.71~Yobit~7ffe9",
+            "5~CCCAGG~ONX~BTC~4~0.00000371~1515978752~132.23660495~0.0004905978043645~200001076~1498.1367158399999~0.005528045908094~378067.32045599~1.390925587221427~0.00000368~0.00000371~0.00000362~0.00000371~0.0000039~0.00000355~Yobit~7ffe9",
+            "5~CCCAGG~ONX~KIC~4~10000.00000001~1505784612~0.00005~0.5000000000005~1505784612000~0~0~0~0~10000.00000001~10000.00000001~10000.00000001~10000.00000001~10000.00000001~10000.00000001~Novaexchange~7ffe9",
+            "5~CCCAGG~ONX~WAVES~2~0.00201~1515969949~317.92432715~0.639129633356188~200000057~0~0~4561.41496132~21.822125660256724~0.00201~0.00201~0.00201~0.004992~0.004992~0.00201~Yobit~7ffe9",
+            "5~CCCAGG~ONX~MOON~4~5000.0000002~1505729428~0.06664324~333.21620001332866~1505729428000~0~0~0~0~5000.0000002~5000.0000002~5000.0000002~5000.0000002~5000.0000002~5000.0000002~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

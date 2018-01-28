@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BLOCKPAY",
+            "CoinName": "BlockPay",
+            "Type": "Webpagecoinp",
+            "Points": 4399
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 222200,
+                    "Name": "Authoreon",
+                    "FullName": "Authoreon (AUTH)",
+                    "ImageUrl": "\/media\/1384019\/auth.png",
+                    "Url": "\/coins\/auth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517775,
+                    "Name": "Hacken",
+                    "FullName": "Hacken (HKN)",
+                    "ImageUrl": "\/media\/16746674\/hkn.png",
+                    "Url": "\/coins\/hkn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42694,
+                    "Name": "Eryllium",
+                    "FullName": "Eryllium (ERY)",
+                    "ImageUrl": "\/media\/1382403\/ely2.png",
+                    "Url": "\/coins\/ery\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 234508,
+                    "Name": "Hello Gold",
+                    "FullName": "Hello Gold (HGT)",
+                    "ImageUrl": "\/media\/9350692\/hgt.jpg",
+                    "Url": "\/coins\/hgt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35681,
+                    "Name": "MoneyCoin",
+                    "FullName": "MoneyCoin (MONEY)",
+                    "ImageUrl": "\/media\/352249\/money.png",
+                    "Url": "\/coins\/money\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 203183,
+                    "Name": "Solar DAO",
+                    "FullName": "Solar DAO (SDAO)",
+                    "ImageUrl": "\/media\/1383933\/sdao.png",
+                    "Url": "\/coins\/sdao\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179018,
+                    "Name": "FunCoin",
+                    "FullName": "FunCoin (FUNC)",
+                    "ImageUrl": "\/media\/1383739\/func.png",
+                    "Url": "\/coins\/func\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 218107,
+                    "Name": "Asch",
+                    "FullName": "Asch (XAS)",
+                    "ImageUrl": "\/media\/1383997\/xas.png",
+                    "Url": "\/coins\/xas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 81445,
+                    "Name": "BitOKX",
+                    "FullName": "BitOKX (BITOK)",
+                    "ImageUrl": "\/media\/1383282\/bitok.jpg",
+                    "Url": "\/coins\/bitok\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338180,
+                    "Name": "TrezarCoin",
+                    "FullName": "TrezarCoin (TZC)",
+                    "ImageUrl": "\/media\/12318285\/tzc.png",
+                    "Url": "\/coins\/tzc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 515704,
+                    "Name": "jlbii",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/515704\/7cf1d69d-c23e-4f84-8db1-d7166755fef7.jpg",
+                    "Url": "\/profile\/jlbii\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 50922,
+                    "Name": "cryptokid101",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/50922\/37d2b957-09b7-4922-b71e-02bb1566da61.jpg",
+                    "Url": "\/profile\/cryptokid101\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 487983,
+                    "Name": "hsmith.kc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/487983\/5de872c6-1e23-4f9a-bb0f-5d8639f88364.jpg",
+                    "Url": "\/profile\/hsmith.kc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 502647,
+                    "Name": "whitestones13",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/502647\/ea0cc42c-346b-4402-a772-8829acffea4e.jpg",
+                    "Url": "\/profile\/whitestones13\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 6284,
+                    "Name": "pauldobrero",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/6284\/70d6de5b-e78d-408f-830f-fd4587e2cbf7.png",
+                    "Url": "\/profile\/pauldobrero\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 457257,
+                    "Name": "adrian.chen",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/457257\/b3c1e14d-fb6f-41bb-a962-19bb1cb750e3.jpg",
+                    "Url": "\/profile\/adrian.chen\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 442644,
+                    "Name": "eharroldiii",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/442644\/62754be3-a314-4607-9da3-3ea7735b0c24.jpg",
+                    "Url": "\/profile\/eharroldiii\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 119529,
+                    "Name": "FATEMAGEOGRA",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/119529\/37edf374-343c-4e89-9fa5-7dba72b47c4c.jpg",
+                    "Url": "\/profile\/FATEMAGEOGRA\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 341249,
+                    "Name": "bbpacker04",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/341249\/600dbc5b-b3d1-4853-a9f7-67d0ea07ef14.jpg",
+                    "Url": "\/profile\/bbpacker04\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 57387,
+                    "Name": "coachtarek24",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/57387\/52eb7718-3caa-4185-aba0-d24be2259f93.jpg",
+                    "Url": "\/profile\/coachtarek24\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 242161,
+                    "Name": "NSantas",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/242161\/74c78622-b8f7-4551-a0a6-9feb138465f4.jpg",
+                    "Url": "\/profile\/NSantas\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 780,
+            "Posts": "3",
+            "Comments": "3",
+            "Followers": 27,
+            "PageViewsSplit": {
+                "Overview": 1716,
+                "Markets": 35,
+                "Analysis": 27,
+                "Charts": 23,
+                "Trades": 9,
+                "Orderbook": 7,
+                "Forum": 21,
+                "Influence": 14
+            },
+            "PageViews": 1852
+        },
+        "Twitter": {
+            "statuses": 924,
+            "favourites": "508",
+            "following": "529",
+            "account_creation": "1464379954",
+            "followers": 2011,
+            "name": "BlockPay",
+            "link": "https:\/\/twitter.com\/blockpay_ch",
+            "lists": 192,
+            "Points": 2971
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "11",
+            "name": "BlockPay",
+            "likes": 648,
+            "link": "https:\/\/www.facebook.com\/blockpayde\/",
+            "Points": 648
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

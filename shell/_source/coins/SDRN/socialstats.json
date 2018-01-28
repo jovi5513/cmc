@@ -1,0 +1,139 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SDRN",
+            "CoinName": "Sanderon",
+            "Type": "Webpagecoinp",
+            "Points": 4234
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5383,
+                    "Name": "GAIA Platform",
+                    "FullName": "GAIA Platform (GAIA)",
+                    "ImageUrl": "\/media\/20290\/gaia.png",
+                    "Url": "\/coins\/gaia\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 49605,
+                    "Name": "StalinCoin",
+                    "FullName": "StalinCoin (STALIN)",
+                    "ImageUrl": "\/media\/1382726\/stalin.png",
+                    "Url": "\/coins\/stalin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 40842,
+                    "Name": "PayPeer",
+                    "FullName": "PayPeer (PAYP)",
+                    "ImageUrl": "\/media\/1382251\/payp.png",
+                    "Url": "\/coins\/payp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 345159,
+                    "Name": "EthBet",
+                    "FullName": "EthBet (EBET)",
+                    "ImageUrl": "\/media\/12318358\/ebet.png",
+                    "Url": "\/coins\/ebet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24892,
+                    "Name": "NewZealandCoin",
+                    "FullName": "NewZealandCoin (NZC)",
+                    "ImageUrl": "\/media\/351366\/nzc.png",
+                    "Url": "\/coins\/nzc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 255293,
+                    "Name": "Travel Coin",
+                    "FullName": "Travel Coin (TRV)",
+                    "ImageUrl": "\/media\/9350789\/trv.png",
+                    "Url": "\/coins\/trv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20823,
+                    "Name": "RevolverCoin",
+                    "FullName": "RevolverCoin (XRE)",
+                    "ImageUrl": "\/media\/350975\/xre.jpg",
+                    "Url": "\/coins\/xre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21981,
+                    "Name": "Stakers",
+                    "FullName": "Stakers (STA*)",
+                    "ImageUrl": "\/media\/351063\/sta.png",
+                    "Url": "\/coins\/stastar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 232556,
+                    "Name": "IwToken",
+                    "FullName": "IwToken (IWT)",
+                    "ImageUrl": "\/media\/1384048\/iwt.png",
+                    "Url": "\/coins\/iwt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28882,
+                    "Name": "Wexcoin",
+                    "FullName": "Wexcoin (WEX)",
+                    "ImageUrl": "\/media\/351564\/wex.jpg",
+                    "Url": "\/coins\/wex\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "PageViewsSplit": {
+                "Overview": 4,
+                "Markets": 0,
+                "Analysis": 0,
+                "Charts": 2,
+                "Trades": 2,
+                "Orderbook": 0,
+                "Forum": 0,
+                "Influence": 0
+            },
+            "PageViews": 8
+        },
+        "Twitter": {
+            "favourites": "21",
+            "statuses": 175,
+            "following": "315",
+            "account_creation": "1503356671",
+            "followers": 3933,
+            "name": "SenderonToken",
+            "link": "https:\/\/twitter.com\/SenderonToken",
+            "lists": 24,
+            "Points": 4053
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "link": "https:\/\/www.reddit.com\/r\/Senderon\/",
+            "comments_per_hour": "0.02",
+            "posts_per_day": "0.09",
+            "active_users": 15,
+            "community_creation": "1503445790",
+            "subscribers": 136,
+            "name": "Senderon",
+            "comments_per_day": 0.41,
+            "Points": 181
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

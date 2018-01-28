@@ -1,0 +1,77 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Bitcloud (BTD) - Live streaming prices and market cap",
+            "PageDescription": "Live Bitcloud prices from all markets and BTD coin market Capitalization. Stay up to date with the latest Bitcloud price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351498\/btd.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "28089",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Bitcloud (BTD)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BTD",
+            "Url": "\/coins\/btd\/",
+            "BaseAngularUrl": "\/coins\/btd\/",
+            "Name": "Bitcloud",
+            "ImageUrl": "\/media\/351498\/btd.png",
+            "Description": "<p><span>Bitcloud is a scrypt PoW\/PoS hybrid (currently in PoS stage) cryptocurrency that wants to \"decentralize the Internet\" through a new Proof of Stake\/Proof of Host protocol, where Hostnodes will provide space, cpu and ram.<\/span><br \/><br \/><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "01\/09\/2016",
+            "Twitter": "@Bitcloud_BTD",
+            "AffiliateUrl": "http:\/\/bit-cloud.net\/",
+            "Website": "<a href='http:\/\/bit-cloud.net\/' target='_blank'>Bitcloud<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926578,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 421451,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 11278645.036186,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~BTD~USD",
+            "2~Yobit~BTD~ETH",
+            "2~Yobit~BTD~RUR",
+            "2~Yobit~BTD~DOGE",
+            "2~Yobit~BTD~WAVES",
+            "2~Yobit~BTD~BTC",
+            "2~Cryptopia~BTD~DOGE",
+            "2~Cryptopia~BTD~LTC",
+            "2~Cryptopia~BTD~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BTD~USD~4~0.04~1515917593~5.01602~0.2006408~200000029~169.63613586~14.114018828664395~169.63613586~14.114018828664399~0.078~0.09998~0.04~0.078~0.09998~0.04~Yobit~7ffe9",
+            "5~CCCAGG~BTD~ETH~4~0.00000901~1515478275~100~0.000901~182728718~0~0~0~0~0.00000901~0.00000901~0.00000901~0.00000901~0.00000901~0.00000901~Yobit~7ffe9",
+            "5~CCCAGG~BTD~RUR~4~1.51~1515935972~0.45912557~0.6937387408612558~200000110~24.62115026~121.50386219086124~25.09119026~122.20895513596486~1.5~5~1.5~1.5~5~1.5~Yobit~7ffe9",
+            "5~CCCAGG~BTD~DOGE~4~6.1~1515907175~2.52516003~15.403476182999999~200000001~2.52516003~15.403476182999999~2.52516003~15.403476183~2.15~6.1~2.14564571~2.15~6.1~2.15~Yobit~7ffe9",
+            "5~CCCAGG~BTD~WAVES~2~0.01599998~1515857693~0.01490002~0.0002384000219996~200000011~0~0~0~0~0.016~0.016~0.01599998~0.01599998~0.01599998~0.01599998~Yobit~7ffe9",
+            "5~CCCAGG~BTD~BTC~2~0.00006908~1515950062~180~0.012447~1515950062~23577.663135560008~1.4435593842868792~37132.90318433001~2.3806695527927078~0.00005472~0.00007862~0.00003566~0.00008436~0.00008436~0.00005398~Cryptopia~7ffe9",
+            "5~CCCAGG~BTD~LTC~4~0.0058~1515172798~79.57154854~0.46151498~1515172798~0~0~0~0~0.0058~0.0058~0.0058~0.0058~0.0058~0.0058~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

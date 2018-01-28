@@ -1,0 +1,254 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MDA",
+            "CoinName": "Moeda",
+            "Type": "Webpagecoinp",
+            "Points": 83910
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 186875,
+                    "Name": "Storm",
+                    "FullName": "Storm (STORM)",
+                    "ImageUrl": "\/media\/1383803\/storm.jpg",
+                    "Url": "\/coins\/storm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33460,
+                    "Name": "Hush",
+                    "FullName": "Hush (HUSH)",
+                    "ImageUrl": "\/media\/1383138\/thehush_300x300.png",
+                    "Url": "\/coins\/hush\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 192400,
+                    "Name": "DMarket",
+                    "FullName": "DMarket (DMT)",
+                    "ImageUrl": "\/media\/1383841\/dmarket.png",
+                    "Url": "\/coins\/dmt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38307,
+                    "Name": "Shift",
+                    "FullName": "Shift (SHIFT)",
+                    "ImageUrl": "\/media\/1382125\/shift.png",
+                    "Url": "\/coins\/shift\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179329,
+                    "Name": "Hive",
+                    "FullName": "Hive (HVN)",
+                    "ImageUrl": "\/media\/1383745\/hvt.png",
+                    "Url": "\/coins\/hvn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 321177,
+                    "Name": "Elixir",
+                    "FullName": "Elixir (ELIX)",
+                    "ImageUrl": "\/media\/12318172\/elix.png",
+                    "Url": "\/coins\/elix\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 198983,
+                    "Name": "Bitcore",
+                    "FullName": "Bitcore (BTX)",
+                    "ImageUrl": "\/media\/1383895\/btx.png",
+                    "Url": "\/coins\/btx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341059,
+                    "Name": "Monaize",
+                    "FullName": "Monaize (MNZ)",
+                    "ImageUrl": "\/media\/12318336\/mnz.png",
+                    "Url": "\/coins\/mnz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 372369,
+                    "Name": "Raiden Network",
+                    "FullName": "Raiden Network (RDN*)",
+                    "ImageUrl": "\/media\/14913482\/rdn.png",
+                    "Url": "\/coins\/rdnstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 235213,
+                    "Name": "ATLANT",
+                    "FullName": "ATLANT (ATL)",
+                    "ImageUrl": "\/media\/9350703\/atlant.png",
+                    "Url": "\/coins\/atl\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 499305,
+                    "Name": "tamilvendhan.k",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/499305\/4cfebc51-e410-4a02-a8d2-51289cd1bcf9.jpg",
+                    "Url": "\/profile\/tamilvendhan.k\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 215796,
+                    "Name": "rramon_feliz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/215796\/22f78583-28cc-4515-8daf-164de430855a.jpg",
+                    "Url": "\/profile\/rramon_feliz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 410342,
+                    "Name": "s.nemchenko",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/410342\/461f7c0f-5587-403d-96f1-036380bea47d.jpg",
+                    "Url": "\/profile\/s.nemchenko\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 659818,
+                    "Name": "e.w.carruthers",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/659818\/43c260b2-b330-4d6c-ae15-da723905c331.jpg",
+                    "Url": "\/profile\/e.w.carruthers\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 413522,
+                    "Name": "axolson",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/413522\/ae295bc0-dc06-40aa-920c-91d48e2eae02.jpg",
+                    "Url": "\/profile\/axolson\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 665746,
+                    "Name": "jason.gorman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/665746\/6861edb8-97d6-44de-ba40-c7f3eb24b724.png",
+                    "Url": "\/profile\/jason.gorman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 624340,
+                    "Name": "turkif2007",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/624340\/b3b0aaf1-64b0-4cbf-a85a-bbc73d81ebc1.jpg",
+                    "Url": "\/profile\/turkif2007\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 382031,
+                    "Name": "arnoudgernaat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/382031\/7027b2a8-a088-49fe-a3a4-9e6155a50c66.jpg",
+                    "Url": "\/profile\/arnoudgernaat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 654072,
+                    "Name": "ugrs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/654072\/185422a1-99bb-43f7-a4b6-2d1d131ab226.jpg",
+                    "Url": "\/profile\/ugrs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 605464,
+                    "Name": "rk_2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/605464\/f9414654-6e49-4a1d-9126-35ac0659cf47.jpg",
+                    "Url": "\/profile\/rk_2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 394822,
+                    "Name": "jpsscoelho",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/394822\/61317ce9-5428-49b7-9296-2c5ff0823c8f.jpg",
+                    "Url": "\/profile\/jpsscoelho\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 650,
+            "Followers": 23,
+            "Posts": "3",
+            "PageViewsSplit": {
+                "Overview": 2060,
+                "Markets": 83,
+                "Analysis": 42,
+                "Charts": 260,
+                "Trades": 42,
+                "Orderbook": 0,
+                "Forum": 78,
+                "Influence": 29
+            },
+            "PageViews": 2594
+        },
+        "Twitter": {
+            "following": "137",
+            "account_creation": "1490104442",
+            "name": "Moeda",
+            "lists": 79,
+            "statuses": 309,
+            "favourites": "199",
+            "followers": 11278,
+            "link": "https:\/\/twitter.com\/moedabanking",
+            "Points": 11673
+        },
+        "Reddit": {
+            "posts_per_hour": "0.01",
+            "comments_per_hour": "0.00",
+            "posts_per_day": "0.14",
+            "comments_per_day": 0.08,
+            "name": "MoedaBanking",
+            "link": "https:\/\/www.reddit.com\/r\/MoedaBanking\/",
+            "active_users": 65,
+            "community_creation": "1504731027",
+            "subscribers": 183,
+            "Points": 378
+        },
+        "Facebook": {
+            "likes": 71173,
+            "link": "https:\/\/www.facebook.com\/moedabanking\/",
+            "is_closed": "false",
+            "talking_about": "3023",
+            "name": "Moeda",
+            "Points": 71173
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1503883514",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "366",
+                    "closed_total_issues": "0",
+                    "stars": 8,
+                    "last_update": "1515512096",
+                    "forks": 2,
+                    "url": "https:\/\/github.com\/moedabank\/moeda",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1504803383",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "JavaScript",
+                    "subscribers": 8,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 36
+        }
+    }
+}

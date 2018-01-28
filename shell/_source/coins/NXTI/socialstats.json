@@ -1,0 +1,167 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NXTI",
+            "CoinName": "NXTI",
+            "Type": "Webpagecoinp",
+            "Points": 150
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 194689,
+                    "Name": "CoinJob",
+                    "FullName": "CoinJob (XCJ)",
+                    "ImageUrl": "\/media\/1383849\/xcj.png",
+                    "Url": "\/coins\/xcj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 371004,
+                    "Name": "Tracto",
+                    "FullName": "Tracto (TRCT)",
+                    "ImageUrl": "\/media\/14913462\/trct.png",
+                    "Url": "\/coins\/trct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5323,
+                    "Name": "GridPay",
+                    "FullName": "GridPay (GRID*)",
+                    "ImageUrl": "\/media\/20313\/grid.png",
+                    "Url": "\/coins\/gridstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28326,
+                    "Name": "RootCoin",
+                    "FullName": "RootCoin (ROOT)",
+                    "ImageUrl": "\/media\/351523\/root.png",
+                    "Url": "\/coins\/root\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4423,
+                    "Name": "CoolCoin",
+                    "FullName": "CoolCoin (COOL)",
+                    "ImageUrl": "\/media\/19658\/cool.png",
+                    "Url": "\/coins\/cool\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4450,
+                    "Name": "FractalCoin",
+                    "FullName": "FractalCoin (FRAC)",
+                    "ImageUrl": "\/media\/19710\/frac.png",
+                    "Url": "\/coins\/frac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6088,
+                    "Name": "Viral Coin",
+                    "FullName": "Viral Coin (VIRAL)",
+                    "ImageUrl": "\/media\/20472\/viral.png",
+                    "Url": "\/coins\/viral\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185625,
+                    "Name": "GeoFunders",
+                    "FullName": "GeoFunders (GUNS)",
+                    "ImageUrl": "\/media\/1383789\/guns.png",
+                    "Url": "\/coins\/guns\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4443,
+                    "Name": "ExeCoin",
+                    "FullName": "ExeCoin (EXE)",
+                    "ImageUrl": "\/media\/19700\/exe.png",
+                    "Url": "\/coins\/exe\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21710,
+                    "Name": "Nukecoinz",
+                    "FullName": "Nukecoinz (NKC)",
+                    "ImageUrl": "\/media\/351041\/nkc.png",
+                    "Url": "\/coins\/nkc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 226882,
+                    "Name": "arnold.stam",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/226882\/605a28ba-d4d3-453c-82d2-c2768bbbf465.jpg",
+                    "Url": "\/profile\/arnold.stam\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 225160,
+                    "Name": "suslov-1974",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/225160\/cf379db9-7218-460c-9151-dc34cfac22b4.jpg",
+                    "Url": "\/profile\/suslov-1974\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 221899,
+                    "Name": "mgle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/221899\/b82229ac-b8b1-484e-95a1-b61f65053623.jpg",
+                    "Url": "\/profile\/mgle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 120040,
+                    "Name": "Prashids14",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/120040\/647798b1-694c-4dd1-b2fd-c833198a2c63.jpg",
+                    "Url": "\/profile\/Prashids14\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 26022,
+                    "Name": "rajeshreddy2223",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/26022\/47059deb-b502-46b8-b0e1-2e64938acf47.jpg",
+                    "Url": "\/profile\/rajeshreddy2223\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 29274,
+                    "Name": "cerrocoso31",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/29274\/1f2d6ce8-a9ed-4e01-928d-26140072982e.jpg",
+                    "Url": "\/profile\/cerrocoso31\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 6,
+            "Points": 150,
+            "PageViewsSplit": {
+                "Overview": 1359,
+                "Markets": 12,
+                "Analysis": 23,
+                "Charts": 42,
+                "Trades": 33,
+                "Orderbook": 5,
+                "Forum": 32,
+                "Influence": 7
+            },
+            "PageViews": 1513
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

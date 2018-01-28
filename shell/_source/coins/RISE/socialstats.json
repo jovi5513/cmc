@@ -1,0 +1,218 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "RISE",
+            "CoinName": "Rise",
+            "Type": "Webpagecoinp",
+            "Points": 66509
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 199148,
+                    "Name": "Decentraland",
+                    "FullName": "Decentraland (MANA)",
+                    "ImageUrl": "\/media\/1383903\/mana.png",
+                    "Url": "\/coins\/mana\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 466339,
+                    "Name": "NagaCoin",
+                    "FullName": "NagaCoin (NGC)",
+                    "ImageUrl": "\/media\/16746609\/ngc.png",
+                    "Url": "\/coins\/ngc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43044,
+                    "Name": "Ubiq",
+                    "FullName": "Ubiq (UBQ)",
+                    "ImageUrl": "\/media\/1382441\/ubq.png",
+                    "Url": "\/coins\/ubq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20196,
+                    "Name": "Dashcoin",
+                    "FullName": "Dashcoin (DSH)",
+                    "ImageUrl": "\/media\/20026\/dash.png",
+                    "Url": "\/coins\/dsh\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 324068,
+                    "Name": "ICON Project",
+                    "FullName": "ICON Project (ICX)",
+                    "ImageUrl": "\/media\/12318192\/icx.png",
+                    "Url": "\/coins\/icx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 240142,
+                    "Name": "Wanchain",
+                    "FullName": "Wanchain (WAN)",
+                    "ImageUrl": "\/media\/9350742\/wan.jpg",
+                    "Url": "\/coins\/wan\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 418778,
+                    "Name": "EthLend",
+                    "FullName": "EthLend (LEND)",
+                    "ImageUrl": "\/media\/16746444\/lend.png",
+                    "Url": "\/coins\/lend\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 202849,
+                    "Name": "KickCoin",
+                    "FullName": "KickCoin (KICK)",
+                    "ImageUrl": "\/media\/1383929\/kick.png",
+                    "Url": "\/coins\/kick\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185689,
+                    "Name": "BitClave",
+                    "FullName": "BitClave (CAT*)",
+                    "ImageUrl": "\/media\/20780714\/cat.png",
+                    "Url": "\/coins\/cat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30022,
+                    "Name": "ZCoin",
+                    "FullName": "ZCoin (XZC)",
+                    "ImageUrl": "\/media\/1382780\/xzc1.png",
+                    "Url": "\/coins\/xzc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 188828,
+                    "Name": "tobi.schwarz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/188828\/8505f169-e6cf-4e1a-93df-e9851e436d46.jpg",
+                    "Url": "\/profile\/tobi.schwarz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 321631,
+                    "Name": "maurosimas",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/321631\/090f8eeb-2238-400f-ace8-ad00783d80ec.jpg",
+                    "Url": "\/profile\/maurosimas\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 664946,
+                    "Name": "johnnywings92",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/664946\/4abbbb68-4546-4b3f-ac8f-01ddb719559d.jpg",
+                    "Url": "\/profile\/johnnywings92\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 408623,
+                    "Name": "normakeane1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/408623\/0ac433b1-1eee-4b75-842b-4eebcbaa7f4a.jpg",
+                    "Url": "\/profile\/normakeane1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 664519,
+                    "Name": "fkonczakowski",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/664519\/2fe734b1-d3c3-41cb-b888-a7437cc2cca0.jpg",
+                    "Url": "\/profile\/fkonczakowski\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 629772,
+                    "Name": "5A61E555",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/629772\/962c5819-409a-4f0c-b705-01f9574f01a9.jpg",
+                    "Url": "\/profile\/5A61E555\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 596825,
+                    "Name": "djehaan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596825\/baf3fdbe-e8bb-4eb0-b6b0-5f6255cb76d8.jpg",
+                    "Url": "\/profile\/djehaan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 656576,
+                    "Name": "internetportale",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/656576\/2a5f790b-eaf3-4c27-9de3-614ad1555b9b.jpg",
+                    "Url": "\/profile\/internetportale\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 32780,
+                    "Name": "mrucker2007",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/32780\/bbb512d6-f6a4-4cc9-b277-202627df7262.jpg",
+                    "Url": "\/profile\/mrucker2007\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 346199,
+                    "Name": "nesar9710",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/346199\/0046fc4e-b784-47b0-9fef-9598b0305c97.jpg",
+                    "Url": "\/profile\/nesar9710\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 416960,
+                    "Name": "BorkBork",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/416960\/d2ddbad0-f66c-47c8-a215-4b474d31fb24.png",
+                    "Url": "\/profile\/BorkBork\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 15720,
+            "Posts": "105",
+            "Comments": "102",
+            "Followers": 483,
+            "PageViewsSplit": {
+                "Overview": 35796,
+                "Markets": 1348,
+                "Analysis": 994,
+                "Charts": 5816,
+                "Trades": 1620,
+                "Orderbook": 47,
+                "Forum": 14199,
+                "Influence": 408
+            },
+            "PageViews": 60228
+        },
+        "Twitter": {
+            "statuses": 278,
+            "favourites": "30",
+            "following": "333",
+            "account_creation": "1461276141",
+            "followers": 47303,
+            "name": "Rise Vision PLC",
+            "link": "https:\/\/twitter.com\/RiseVisionTeam",
+            "lists": 254,
+            "Points": 48573
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/rise.vision\/",
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "101",
+            "name": "Rise Vision",
+            "likes": 2210,
+            "link": "https:\/\/www.facebook.com\/risevisionteam\/",
+            "Points": 2210
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "FRAZ",
+            "CoinName": "FrazCoin",
+            "Type": "Webpagecoinp",
+            "Points": 489
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 35811,
+                    "Name": "HazMatCoin",
+                    "FullName": "HazMatCoin (HZT)",
+                    "ImageUrl": "\/media\/352291\/hzt.png",
+                    "Url": "\/coins\/hzt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 74894,
+                    "Name": "GrowthCoin",
+                    "FullName": "GrowthCoin (GRW)",
+                    "ImageUrl": "\/media\/1383234\/grw.png",
+                    "Url": "\/coins\/grw\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 23435,
+                    "Name": "Specie",
+                    "FullName": "Specie (SPX)",
+                    "ImageUrl": "\/media\/351212\/spx.png",
+                    "Url": "\/coins\/spx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5380,
+                    "Name": "ROS Coin",
+                    "FullName": "ROS Coin (ROS)",
+                    "ImageUrl": "\/media\/19710\/frac.png",
+                    "Url": "\/coins\/ros\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43046,
+                    "Name": "Ratio",
+                    "FullName": "Ratio (RATIO)",
+                    "ImageUrl": "\/media\/1382442\/ratio.png",
+                    "Url": "\/coins\/ratio\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30421,
+                    "Name": "Tennet",
+                    "FullName": "Tennet (TENNET)",
+                    "ImageUrl": "\/media\/351760\/tennet.png",
+                    "Url": "\/coins\/tennet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29718,
+                    "Name": "DelightPay",
+                    "FullName": "DelightPay (DPAY)",
+                    "ImageUrl": "\/media\/351684\/dpay.png",
+                    "Url": "\/coins\/dpay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42103,
+                    "Name": "GravityBit",
+                    "FullName": "GravityBit (GBIT)",
+                    "ImageUrl": "\/media\/1382382\/gbit.jpg",
+                    "Url": "\/coins\/gbit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 27681,
+                    "Name": "WayCoin",
+                    "FullName": "WayCoin (WAY)",
+                    "ImageUrl": "\/media\/351433\/way.png",
+                    "Url": "\/coins\/way\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29366,
+                    "Name": "NineElevenTruthCoin",
+                    "FullName": "NineElevenTruthCoin (NTC)",
+                    "ImageUrl": "\/media\/351631\/ntc.png",
+                    "Url": "\/coins\/ntc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 23128,
+                    "Name": "roncriss",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/23128\/46993195-1904-464c-a962-e3581349083f.jpg",
+                    "Url": "\/profile\/roncriss\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 1,
+            "Points": 25,
+            "PageViewsSplit": {
+                "Overview": 161,
+                "Markets": 16,
+                "Analysis": 19,
+                "Charts": 9,
+                "Trades": 10,
+                "Orderbook": 0,
+                "Forum": 4,
+                "Influence": 6
+            },
+            "PageViews": 225
+        },
+        "Twitter": {
+            "favourites": "2",
+            "lists": 8,
+            "statuses": 12,
+            "following": "3",
+            "account_creation": "1500761882",
+            "name": "FrazCoin",
+            "followers": 418,
+            "link": "https:\/\/twitter.com\/FrazCoin",
+            "Points": 458
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1504587844",
+                    "url": "https:\/\/github.com\/frazcoin\/frazCoin",
+                    "forks": 1,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "size": "2961",
+                    "created_at": "1501601155",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1502931829",
+                    "stars": 1
+                }
+            ],
+            "Points": 6
+        }
+    }
+}

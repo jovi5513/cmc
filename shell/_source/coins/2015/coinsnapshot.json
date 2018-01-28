@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "2015",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000197",
+            "LASTUPDATE": "1516051198",
+            "LASTVOLUME": "55.89604573",
+            "LASTVOLUMETO": "0.0001101152100881",
+            "LASTTRADEID": "200000554",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "506.34649618000003",
+            "VOLUME24HOURTO": "0.0011101152100871",
+            "OPENDAY": "0.00000197",
+            "HIGHDAY": "0.00000197",
+            "LOWDAY": "0.00000197",
+            "OPEN24HOUR": "0.00000189",
+            "HIGH24HOUR": "0.00000222",
+            "LOW24HOUR": "0.00000189",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "2015",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "7e-8",
+                "LASTUPDATE": "1430257734",
+                "LASTVOLUME": "17433.71428571",
+                "LASTVOLUMETO": "0.0012203599999997",
+                "LASTTRADEID": "1430257734569",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "7e-8",
+                "HIGH24HOUR": "7e-8",
+                "LOW24HOUR": "7e-8"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "2015",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00000197",
+                "LASTUPDATE": "1516051198",
+                "LASTVOLUME": "55.89604573",
+                "LASTVOLUMETO": "0.0001101152100881",
+                "LASTTRADEID": "200000554",
+                "VOLUME24HOUR": "506.34649618000003",
+                "VOLUME24HOURTO": "0.0011101152100871",
+                "OPEN24HOUR": "0.00000189",
+                "HIGH24HOUR": "0.00000222",
+                "LOW24HOUR": "0.00000189"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "2015",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "2.1e-7",
+                "LASTUPDATE": "1425699894",
+                "LASTVOLUME": "2728.87096774",
+                "LASTVOLUMETO": "0.00057306",
+                "LASTTRADEID": "169214",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "2.1e-7",
+                "HIGH24HOUR": "2.1e-7",
+                "LOW24HOUR": "2.1e-7"
+            }
+        ]
+    },
+    "Type": 100
+}

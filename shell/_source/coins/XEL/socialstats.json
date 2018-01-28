@@ -1,0 +1,250 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XEL",
+            "CoinName": "Elastic",
+            "Type": "Webpagecoinp",
+            "Points": 16999
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 380641,
+                    "Name": "SirinLabs",
+                    "FullName": "SirinLabs (SRN)",
+                    "ImageUrl": "\/media\/14913556\/srn.png",
+                    "Url": "\/coins\/srn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 355117,
+                    "Name": "Ethereum Cash",
+                    "FullName": "Ethereum Cash (ECASH)",
+                    "ImageUrl": "\/media\/14543971\/ecash.png",
+                    "Url": "\/coins\/ecash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 55650,
+                    "Name": "MobileGo",
+                    "FullName": "MobileGo (MGO)",
+                    "ImageUrl": "\/media\/1382798\/mgo.png",
+                    "Url": "\/coins\/mgo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188858,
+                    "Name": "AdToken",
+                    "FullName": "AdToken (ADT)",
+                    "ImageUrl": "\/media\/1383829\/adt.png",
+                    "Url": "\/coins\/adt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 446372,
+                    "Name": "Achain",
+                    "FullName": "Achain (ACT*)",
+                    "ImageUrl": "\/media\/16746576\/act.png",
+                    "Url": "\/coins\/actstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 178467,
+                    "Name": "Wagerr",
+                    "FullName": "Wagerr (WGR)",
+                    "ImageUrl": "\/media\/1383736\/wgr.png",
+                    "Url": "\/coins\/wgr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 318169,
+                    "Name": "Loopring",
+                    "FullName": "Loopring (LRC)",
+                    "ImageUrl": "\/media\/12318135\/lrc.png",
+                    "Url": "\/coins\/lrc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5322,
+                    "Name": "Dnotes",
+                    "FullName": "Dnotes (NOTE)",
+                    "ImageUrl": "\/media\/19832\/note.png",
+                    "Url": "\/coins\/note\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4416,
+                    "Name": "CLAMS",
+                    "FullName": "CLAMS (CLAM)",
+                    "ImageUrl": "\/media\/20020\/clam.png",
+                    "Url": "\/coins\/clam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4630,
+                    "Name": "Unobtanium",
+                    "FullName": "Unobtanium (UNO)",
+                    "ImageUrl": "\/media\/20065\/uno.png",
+                    "Url": "\/coins\/uno\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 158465,
+                    "Name": "runejessen1988",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/158465\/e867494c-6c46-4145-a0a5-bb2490443315.jpg",
+                    "Url": "\/profile\/runejessen1988\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 319599,
+                    "Name": "ryanclowes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/319599\/d189b892-a36c-426d-bea4-8596df38b9bf.jpg",
+                    "Url": "\/profile\/ryanclowes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 379238,
+                    "Name": "kjdowdle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/379238\/af331a97-ebb2-4ef9-a6c6-cd63d2a19e0d.jpg",
+                    "Url": "\/profile\/kjdowdle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 630963,
+                    "Name": "loulis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/630963\/ea5604ee-fb4e-452c-b2a4-585149590bbe.jpg",
+                    "Url": "\/profile\/loulis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 112173,
+                    "Name": "serafini.luciano",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/112173\/f61ce66b-9ed3-4cd3-98d0-c72426ed16b9.jpg",
+                    "Url": "\/profile\/serafini.luciano\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 593833,
+                    "Name": "ilonamska",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/593833\/122a525e-e35a-4e30-ad48-2d5587c0f82c.jpg",
+                    "Url": "\/profile\/ilonamska\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 627582,
+                    "Name": "jesperhinrichsen",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/627582\/4a5a3b79-d81e-46f1-b035-e18ce144cc3b.jpg",
+                    "Url": "\/profile\/jesperhinrichsen\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 220022,
+                    "Name": "curriesemail",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/220022\/35f8a439-b273-420a-8239-e4258477fb9c.jpg",
+                    "Url": "\/profile\/curriesemail\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 282454,
+                    "Name": "lecrowne",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/282454\/e43912ed-ede6-468f-8eef-4804c9adbdfe.jpg",
+                    "Url": "\/profile\/lecrowne\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 600445,
+                    "Name": "sukarna.ch",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/600445\/f00ca895-c655-4de0-b675-83d1a2d92b33.jpg",
+                    "Url": "\/profile\/sukarna.ch\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 5370,
+            "Followers": 203,
+            "Posts": "9",
+            "Comments": "7",
+            "PageViewsSplit": {
+                "Overview": 10818,
+                "Markets": 377,
+                "Analysis": 230,
+                "Charts": 2096,
+                "Trades": 184,
+                "Orderbook": 7,
+                "Forum": 444,
+                "Influence": 147
+            },
+            "PageViews": 14303
+        },
+        "Twitter": {
+            "following": "0",
+            "account_creation": "1482900526",
+            "name": "elastic-project",
+            "lists": 243,
+            "statuses": 67,
+            "favourites": "11",
+            "followers": 10339,
+            "link": "https:\/\/twitter.com\/elastic_coin",
+            "Points": 11554
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "comments_per_hour": "0.00",
+            "posts_per_day": "0.01",
+            "comments_per_day": 0.02,
+            "name": "elasticproject",
+            "link": "https:\/\/www.reddit.com\/r\/elasticproject\/",
+            "active_users": 9,
+            "community_creation": "1492296793",
+            "subscribers": 37,
+            "Points": 64
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1497393119",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "elastic-pl",
+                        "Url": "https:\/\/github.com\/wpalczynski\/elastic-pl",
+                        "InternalId": -1
+                    },
+                    "size": "6912",
+                    "closed_total_issues": "0",
+                    "stars": 4,
+                    "last_update": "1500707062",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/elastic-coin\/elastic-pl",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "true",
+                    "last_push": "1497393629",
+                    "source": {
+                        "Name": "elastic-pl",
+                        "Url": "https:\/\/github.com\/wpalczynski\/elastic-pl",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "Java",
+                    "subscribers": 2,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 10
+        }
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NMS",
+            "CoinName": "Numus",
+            "Type": "Webpagecoinp",
+            "Points": 60
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 30568,
+                    "Name": "AndromedaCoin",
+                    "FullName": "AndromedaCoin (AND)",
+                    "ImageUrl": "\/media\/351797\/and.png",
+                    "Url": "\/coins\/and\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 619929,
+                    "Name": "Accolade",
+                    "FullName": "Accolade (ACCO)",
+                    "ImageUrl": "\/media\/20780654\/acco.png",
+                    "Url": "\/coins\/acco\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 229307,
+                    "Name": "Veredictum",
+                    "FullName": "Veredictum (VNT)",
+                    "ImageUrl": "\/media\/1384044\/vnt.jpg",
+                    "Url": "\/coins\/vnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4597,
+                    "Name": "RazorCoin",
+                    "FullName": "RazorCoin (RZR)",
+                    "ImageUrl": "\/media\/20055\/rzr.png",
+                    "Url": "\/coins\/rzr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4435,
+                    "Name": "DarkShibe",
+                    "FullName": "DarkShibe (DSB)",
+                    "ImageUrl": "\/media\/20034\/dsb.png",
+                    "Url": "\/coins\/dsb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5281,
+                    "Name": "Elektron",
+                    "FullName": "Elektron (EKN)",
+                    "ImageUrl": "\/media\/20270\/ekn.png",
+                    "Url": "\/coins\/ekn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4418,
+                    "Name": "CopperLark",
+                    "FullName": "CopperLark (CLR)",
+                    "ImageUrl": "\/media\/19657\/clr.png",
+                    "Url": "\/coins\/clr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4595,
+                    "Name": "RotoCoin",
+                    "FullName": "RotoCoin (RT2)",
+                    "ImageUrl": "\/media\/19896\/rt2.png",
+                    "Url": "\/coins\/rt2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4602,
+                    "Name": "ShadeCoin",
+                    "FullName": "ShadeCoin (SHADE)",
+                    "ImageUrl": "\/media\/20056\/shade.png",
+                    "Url": "\/coins\/shade\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5381,
+                    "Name": "Unattanium",
+                    "FullName": "Unattanium (UNAT)",
+                    "ImageUrl": "\/media\/20456\/unat.png",
+                    "Url": "\/coins\/unat\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 48128,
+                    "Name": "nabilbk",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/48128\/01a884e8-397d-4b00-b907-d66244247c39.jpg",
+                    "Url": "\/profile\/nabilbk\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 25,
+            "Followers": 1,
+            "PageViewsSplit": {
+                "Overview": 843,
+                "Markets": 84,
+                "Analysis": 63,
+                "Charts": 74,
+                "Trades": 25,
+                "Orderbook": 0,
+                "Forum": 30,
+                "Influence": 40
+            },
+            "PageViews": 1159
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1513374879",
+                    "open_total_issues": "2",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "3240",
+                    "last_push": "1513905137",
+                    "closed_total_issues": "0",
+                    "stars": 6,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1515486150",
+                    "open_pull_issues": "0",
+                    "forks": 4,
+                    "url": "https:\/\/github.com\/numuscrypto\/numuscore",
+                    "closed_issues": "0",
+                    "subscribers": 7,
+                    "language": "C++",
+                    "open_issues": "2",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 35
+        }
+    }
+}

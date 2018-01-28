@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "EPY",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.015",
+            "LASTUPDATE": "1516056303",
+            "LASTVOLUME": "0.79070685",
+            "LASTVOLUMETO": "0.011861907416302499",
+            "LASTTRADEID": "200000010",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0.9869307199999999",
+            "VOLUME24HOURTO": "0.0148056138356568",
+            "OPENDAY": "0.015",
+            "HIGHDAY": "0.015",
+            "LOWDAY": "0.015",
+            "OPEN24HOUR": "0.02049",
+            "HIGH24HOUR": "0.02049",
+            "LOW24HOUR": "0.015",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "EPY",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00002879",
+                "LASTUPDATE": "1445039532",
+                "LASTVOLUME": "347.30419732",
+                "LASTVOLUMETO": "0.009998887840842801",
+                "LASTTRADEID": "1445039532137",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00002879",
+                "HIGH24HOUR": "0.00002879",
+                "LOW24HOUR": "0.00002879"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "EPY",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00002004",
+                "LASTUPDATE": "1437167510",
+                "LASTVOLUME": "100",
+                "LASTVOLUMETO": "0.002004",
+                "LASTTRADEID": "119141",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00002004",
+                "HIGH24HOUR": "0.00002004",
+                "LOW24HOUR": "0.00002004"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "EPY",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.01500165",
+                "LASTUPDATE": "1516056303",
+                "LASTVOLUME": "0.79070685",
+                "LASTVOLUMETO": "0.011861907416302499",
+                "LASTTRADEID": "200000010",
+                "VOLUME24HOUR": "0.9869307199999999",
+                "VOLUME24HOURTO": "0.0148056138356568",
+                "OPEN24HOUR": "0.02048755",
+                "HIGH24HOUR": "0.02048755",
+                "LOW24HOUR": "0.01500165"
+            }
+        ]
+    },
+    "Type": 100
+}

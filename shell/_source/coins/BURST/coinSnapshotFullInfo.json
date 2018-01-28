@@ -1,0 +1,75 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BurstCoin (BURST) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "Live BurstCoin prices from all markets and BURST coin market Capitalization. Stay up to date with the latest BurstCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/16746623\/burst.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "5286",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "BurstCoin (BURST)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BURST",
+            "Url": "\/coins\/burst\/",
+            "BaseAngularUrl": "\/coins\/burst\/",
+            "Name": "BurstCoin",
+            "ImageUrl": "\/media\/16746623\/burst.png",
+            "Description": "<p>Burst uses a new algorithm for proof of hdd capacity (POC) mining. Miners pre-generate chunks of data known as &#39;plots&#39; which are then saved to disk.\u00a0Taking NXT&#39;s great PoS code, and turning it into PoC. PoC takles the problem of unfair distribution, enables blockchain trimming, and allows anyone to mine without massive power bills or any special equipment<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "2158812800",
+            "Algorithm": "Shabal256",
+            "ProofType": "PoC",
+            "StartDate": "12\/06\/2014",
+            "Twitter": "@Burstcoin_dev",
+            "AffiliateUrl": "http:\/\/burstcoin.info\/",
+            "Website": "<a href='http:\/\/burstcoin.info\/' target='_blank'>BurstCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1500993462,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "5%",
+            "BlockNumber": 385192,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 1813033920,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 1660
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~BURST~USD",
+            "2~BitTrex~BURST~BTC",
+            "2~CCEX~BURST~BTC",
+            "2~CCEX~BURST~DOGE",
+            "2~CCEX~BURST~LTC",
+            "2~BitSquare~BURST~BTC",
+            "2~Poloniex~BURST~BTC",
+            "2~CCEX~BURST~ETH",
+            "2~LiveCoin~BURST~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BURST~USD~4~0.0430009~1515135831~21.17213354~0.9104207971401861~1910669~0~0~0~0~0.043~0.0430009~0.043~0.0430009~0.0430009~0.0430009~CCEX~7ffe9",
+            "5~CCCAGG~BURST~BTC~4~0.00000591~1515981285~481.81576515~0.00284753~10962225~11858830.779432226~67.2131512500001~81966129.13848487~479.54784106999995~0.00000568~0.000006~0.00000546~0.00000613~0.00000633~0.00000546~BitTrex~7ffe9",
+            "5~CCCAGG~BURST~DOGE~4~4~1515135576~1~4~2167619~0~0~0~0~4~4~4~4~4~4~CCEX~7ffe9",
+            "5~CCCAGG~BURST~LTC~4~0.00005003~1514960745~6.7e-7~3.3520100000000004e-11~1835981~0~0~0~0~0.00005003~0.00005003~0.00005003~0.00005003~0.00005003~0.00005003~CCEX~7ffe9",
+            "5~CCCAGG~BURST~ETH~4~3e-8~1464789598~3500~0.00010499999999999999~39852~0~0~0~0~3e-8~3e-8~3e-8~3e-8~3e-8~3e-8~CCEX~7ffe9"
+        ]
+    },
+    "Type": 100
+}

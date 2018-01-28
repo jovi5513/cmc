@@ -1,0 +1,153 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BCD*",
+            "CoinName": "BitCAD",
+            "Type": "Webpagecoinp",
+            "Points": 5299
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 600395,
+                    "Name": "PARKGENE",
+                    "FullName": "PARKGENE (GENE)",
+                    "ImageUrl": "\/media\/20780630\/gene.png",
+                    "Url": "\/coins\/gene\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5023,
+                    "Name": "Bitstake",
+                    "FullName": "Bitstake (XBS)",
+                    "ImageUrl": "\/media\/351060\/xbs_1.png",
+                    "Url": "\/coins\/xbs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41868,
+                    "Name": "HexxCoin",
+                    "FullName": "HexxCoin (HXX)",
+                    "ImageUrl": "\/media\/1382348\/hexx.jpg",
+                    "Url": "\/coins\/hxx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 241536,
+                    "Name": "Credo",
+                    "FullName": "Credo (CFT*)",
+                    "ImageUrl": "\/media\/9350747\/credo.jpg",
+                    "Url": "\/coins\/cftstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4420,
+                    "Name": "ChinaCoin",
+                    "FullName": "ChinaCoin (CNC)",
+                    "ImageUrl": "\/media\/20021\/cnc.png",
+                    "Url": "\/coins\/cnc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 380794,
+                    "Name": "Newbium",
+                    "FullName": "Newbium (NEWB)",
+                    "ImageUrl": "\/media\/14913564\/newb.png",
+                    "Url": "\/coins\/newb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43933,
+                    "Name": "Tatiana Coin",
+                    "FullName": "Tatiana Coin (TAT)",
+                    "ImageUrl": "\/media\/1382594\/tat.png",
+                    "Url": "\/coins\/tat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34489,
+                    "Name": "FreeCoin",
+                    "FullName": "FreeCoin (FRE)",
+                    "ImageUrl": "\/media\/352129\/fre.png",
+                    "Url": "\/coins\/fre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25613,
+                    "Name": "ChronosCoin",
+                    "FullName": "ChronosCoin (CRX)",
+                    "ImageUrl": "\/media\/351388\/crx.png",
+                    "Url": "\/coins\/crx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29762,
+                    "Name": "JobsCoin",
+                    "FullName": "JobsCoin (JOBS)",
+                    "ImageUrl": "\/media\/351691\/jobs.png",
+                    "Url": "\/coins\/jobs\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 596024,
+                    "Name": "mbattershill86",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596024\/76507f9a-6735-41a0-803d-ef8034e793d2.jpg",
+                    "Url": "\/profile\/mbattershill86\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 434599,
+                    "Name": "hai.ronen",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/434599\/0c3edd43-9523-4b33-b7e4-7e1d813f7ab4.jpg",
+                    "Url": "\/profile\/hai.ronen\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 75,
+            "Posts": "1",
+            "Followers": 2,
+            "PageViewsSplit": {
+                "Overview": 250,
+                "Markets": 6,
+                "Analysis": 10,
+                "Charts": 9,
+                "Trades": 4,
+                "Orderbook": 0,
+                "Forum": 10,
+                "Influence": 4
+            },
+            "PageViews": 293
+        },
+        "Twitter": {
+            "favourites": "7",
+            "statuses": 90,
+            "following": "65",
+            "account_creation": "1490799834",
+            "followers": 3855,
+            "name": "BitCAD",
+            "link": "https:\/\/twitter.com\/bitcadplatform",
+            "lists": 30,
+            "Points": 4005
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "1",
+            "name": "BitCAD",
+            "likes": 1219,
+            "link": "https:\/\/www.facebook.com\/bitcadplatform\/",
+            "Points": 1219
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

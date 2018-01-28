@@ -1,0 +1,79 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Factoids (FCT) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "Use the blockchain to power a remarkable range of applications, including audit systems, medical records, supply chain management, voting systems, property titles, legal applications, and financial systems. See how real businesses and governments could use Factom.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1382863\/fct1.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "13280",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Factoids (FCT)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "FCT",
+            "Url": "\/coins\/fct\/",
+            "BaseAngularUrl": "\/coins\/fct\/",
+            "Name": "Factoids",
+            "ImageUrl": "\/media\/1382863\/fct1.png",
+            "Description": "<p><strong>Blockchain to Business and\u00a0Governments<\/strong><\/p><p>Factom is a system for securing millions of real-time records in the blockchain with a single hash.<\/p><p>Businesses and governments can use Factom to simplify records management, record business processes, and address security and compliance issues.<\/p><p>Factom uses\u00a0the blockchain to power a remarkable range of applications, including audit systems, medical records, supply chain management, voting systems, property titles, legal applications, and financial systems.\u00a0<\/p><p>Download\u00a0the\u00a0<a href=\"https:\/\/github.com\/FactomProject\/FactomDocs\/blob\/master\/Factom_Whitepaper.pdf?raw=true\" target=\"_blank\">Factom Whitepaper<\/a>\u00a0to understand out how business and governments can use the blockchain technology to improve their services and their profit margins.<\/p>",
+            "Features": "<p>Factoids are traded on Poloniex under the ticker \u2013 \u201cFCT\u201d, making the whole project more approachable for novice users. The ticker \u201cFCT\u201d coupled with \u201cFactom Exchange\u201d should make it a lot easier for anyone to find the software tokens on Poloniex. It\u2019s not necessary to know all the technical aspects regarding Factom or Factoids to reap the benefits of this platform.<\/p><p>Investors have been eagerly awaiting the addition of Factoids on major cryptocurrency exchanges since the conclusion of the Factom token sale. Factoids trading on crypto-exchanges are likely to generate additional interest in the Factom platform while allowing new community members to purchase some tokens for future use.<\/p><p>In preparation for the launch of the Factoids trading market on Poloniex, the Factom team also released the binaries and installers for the project\u2019s software client recently. The Factom client provides a convenient manner of storing and transferring Factoids.<\/p>",
+            "Technology": "<p><strong>Will Factoids have their own blockchain?<\/strong><\/p><p>Ultimately Factoids will be implemented on their own Chain in Factom. For the crowd sale, other options are possible.<\/p><p><strong>How are Factoids created?<\/strong><\/p><p>Two ways. Factoids will be created as a part of the crowd sale. Secondly, Factoids will be created at a fixed rate and paid to the Factom Servers and Audit Servers for their work running the system, and to pay other incentives.<\/p><p><strong>Is there a separate Proof of Work or other consensus mechanism for factoids, independent of factom?<\/strong><\/p><p>No. That said, the Factom chain and the Entry chain are managed by the Factom Servers (they are the application using these chains) so they validate them in real time. No invalid entries can be placed in these chains.<\/p><p><strong>How do factoids get sent back to the protocol? Is it a kind of burn? \u00a0<\/strong><\/p><p>No. The Entry Credits are burned. Entry Credits are non transferable. They can only be used to buy entries. But when they DO buy entries, the Factoid in the protocol that was used to buy the Entry Credits is released. The amount of Factoids varies since the price of Entry Credits per Factoid varies. \u00a0<\/p><p>The Factoid paid out is calculated by dividing the total number of Factoid in the protocol by the number of outstanding Entry Credits. \u00a0<\/p><p>The number of Factoids in the protocol and the number of outstanding Entry Credits are all computable from the Entry Chain and the Factoid Chain. \u00a0<\/p>",
+            "TotalCoinSupply": "8753873",
+            "Algorithm": "",
+            "ProofType": "",
+            "StartDate": "05\/10\/2015",
+            "Twitter": "@factomproject",
+            "AffiliateUrl": "http:\/\/factom.org\/",
+            "Website": "<a href='http:\/\/factom.org\/' target='_blank'>Factoids<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926488,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 8753873,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~FCT~UNO",
+            "2~Cryptopia~FCT~DOGE",
+            "2~Cryptopia~FCT~LTC",
+            "2~BitTrex~FCT~ETH",
+            "2~Cryptopia~FCT~XMR",
+            "2~BitTrex~FCT~BTC",
+            "2~Cryptopia~FCT~FTC",
+            "2~Poloniex~FCT~BTC",
+            "2~Cryptopia~FCT~DOT",
+            "2~Cryptopia~FCT~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~FCT~UNO~4~1.01~1497949364~0.11895321~0.12014274~1497949364~0~0~0~0~1.01~1.01~1.01~1.01~1.01~1.01~Cryptopia~7ffe9",
+            "5~CCCAGG~FCT~DOGE~4~7975.72000053~1515195657~0.7510911~5990.49230849~1515195657.002~0~0~0~0~7975.72~7975.72000053~7975.72~7975.72000053~7975.72000053~7975.72000053~Cryptopia~7ffe9",
+            "5~CCCAGG~FCT~LTC~4~0.25123903~1515195767~0.5~0.12561952~1515195767~0~0~0~0~0.2512~0.25123903~0.2512~0.25123903~0.25123903~0.25123903~Cryptopia~7ffe9",
+            "5~CCCAGG~FCT~ETH~4~0.04985~1515948469~0.38857568~0.01936893~19754564~1589.6780760399993~75.61486783000001~2380.7602375500005~110.32971838000002~0.045~0.05113~0.04452~0.04468~0.05113~0.043~BitTrex~7ffe9",
+            "5~CCCAGG~FCT~XMR~4~54.99999999~1485550231~0.00012211~0.006716~1485550231~0~0~0~0~54.99999999~54.99999999~54.99999999~54.99999999~54.99999999~54.99999999~Cryptopia~7ffe9",
+            "5~CCCAGG~FCT~BTC~2~0.004637~1515950177~0.00000432~1e-8~5796635~144189.45639765964~681.0899746299989~154529.45408166997~725.55220044~0.004327~0.004975~0.004318~0.004273~0.004994~0.004256~Poloniex~7ffe9",
+            "5~CCCAGG~FCT~FTC~4~3.00000681~1485582051~0.00092381~0.002771~1485582051~0~0~0~0~3.00000681~3.00000681~3.00000681~3.00000681~3.00000681~3.00000681~Cryptopia~7ffe9",
+            "5~CCCAGG~FCT~DOT~4~14228749.99999998~1485719751~0.00000166~23.619725~1485719751~0~0~0~0~14228749.99999998~14228749.99999998~14228749.99999998~14228749.99999998~14228749.99999998~14228749.99999998~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

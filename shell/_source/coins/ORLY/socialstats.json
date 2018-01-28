@@ -1,0 +1,236 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ORLY",
+            "CoinName": "OrlyCoin",
+            "Type": "Webpagecoinp",
+            "Points": 325
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28083,
+                    "Name": "CarterCoin",
+                    "FullName": "CarterCoin (CTC)",
+                    "ImageUrl": "\/media\/351496\/ctc.png",
+                    "Url": "\/coins\/ctc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28654,
+                    "Name": "Armory Coin",
+                    "FullName": "Armory Coin (ARM)",
+                    "ImageUrl": "\/media\/351545\/arm.png",
+                    "Url": "\/coins\/arm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29008,
+                    "Name": "Opair",
+                    "FullName": "Opair (XPO)",
+                    "ImageUrl": "\/media\/351590\/xpo.png",
+                    "Url": "\/coins\/xpo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7564,
+                    "Name": "Empyrean",
+                    "FullName": "Empyrean (EPY)",
+                    "ImageUrl": "\/media\/20628\/epy.png",
+                    "Url": "\/coins\/epy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29460,
+                    "Name": "UPcoin",
+                    "FullName": "UPcoin (XUP)",
+                    "ImageUrl": "\/media\/351638\/xup.png",
+                    "Url": "\/coins\/xup\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4584,
+                    "Name": "OpenSourceCoin",
+                    "FullName": "OpenSourceCoin (OSC)",
+                    "ImageUrl": "\/media\/19847\/osc.png",
+                    "Url": "\/coins\/osc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45612,
+                    "Name": "MasterCar",
+                    "FullName": "MasterCar (MCAR)",
+                    "ImageUrl": "\/media\/1382659\/mcar.png",
+                    "Url": "\/coins\/mcar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5395,
+                    "Name": "EggCoin",
+                    "FullName": "EggCoin (EGG)",
+                    "ImageUrl": "\/media\/20269\/egg.png",
+                    "Url": "\/coins\/egg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4444,
+                    "Name": "EZCoin",
+                    "FullName": "EZCoin (EZC)",
+                    "ImageUrl": "\/media\/19702\/ezc.png",
+                    "Url": "\/coins\/ezc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 71862,
+                    "Name": "GoldReserve",
+                    "FullName": "GoldReserve (XGR)",
+                    "ImageUrl": "\/media\/1383161\/xgr.png",
+                    "Url": "\/coins\/xgr\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 527323,
+                    "Name": "bdymondwombacker",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/527323\/4026b6ff-4a54-4e71-abb3-671b15cf5f92.jpg",
+                    "Url": "\/profile\/bdymondwombacker\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 473907,
+                    "Name": "ondrikosom",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/473907\/c0027659-9395-4048-9ab6-5a25d5d125b9.jpg",
+                    "Url": "\/profile\/ondrikosom\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 439556,
+                    "Name": "refaelefron",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/439556\/74123577-d330-42c8-9507-c1a73d89710e.jpg",
+                    "Url": "\/profile\/refaelefron\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 123387,
+                    "Name": "damzurek",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/123387\/e567e95f-d5f8-437b-84ec-d13bd2561297.jpg",
+                    "Url": "\/profile\/damzurek\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 396984,
+                    "Name": "z9387y",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/396984\/e9f9945d-d279-4391-910b-65ad0a2e98a4.jpg",
+                    "Url": "\/profile\/z9387y\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 314755,
+                    "Name": "katastroffa_75",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/314755\/4903022c-5e07-42d2-a368-72a24bf76c2a.jpg",
+                    "Url": "\/profile\/katastroffa_75\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 306328,
+                    "Name": "paracetamol.iv",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/306328\/1c38276c-bef9-476e-a299-075b563c4e51.jpg",
+                    "Url": "\/profile\/paracetamol.iv\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 341249,
+                    "Name": "bbpacker04",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/341249\/600dbc5b-b3d1-4853-a9f7-67d0ea07ef14.jpg",
+                    "Url": "\/profile\/bbpacker04\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 25774,
+                    "Name": "rouhaibi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/25774\/37f4a176-30ff-4602-84fc-2fb528a58f17.jpg",
+                    "Url": "\/profile\/rouhaibi\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 12,
+            "Points": 300,
+            "PageViewsSplit": {
+                "Overview": 885,
+                "Markets": 54,
+                "Analysis": 41,
+                "Charts": 24,
+                "Trades": 32,
+                "Orderbook": 1,
+                "Forum": 18,
+                "Influence": 12
+            },
+            "PageViews": 1067
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 22,
+            "is_closed": "false",
+            "talking_about": "1",
+            "name": "Orlycoin O RLY?",
+            "link": "https:\/\/www.facebook.com\/Orlycoin-O-RLY-246256049059906\/",
+            "Points": 22
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "4239",
+                    "url": "https:\/\/github.com\/Orlycoin\/Orlycoin",
+                    "last_update": "1459789173",
+                    "last_push": "1459790601",
+                    "created_at": "1456574501",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

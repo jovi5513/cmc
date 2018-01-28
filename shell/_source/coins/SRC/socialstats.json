@@ -1,0 +1,210 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SRC",
+            "CoinName": "SecureCoin",
+            "Type": "Webpagecoinp",
+            "Points": 770
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 30119,
+                    "Name": "Californium",
+                    "FullName": "Californium (CF)",
+                    "ImageUrl": "\/media\/351730\/cf.png",
+                    "Url": "\/coins\/cf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 404752,
+                    "Name": "Magnet",
+                    "FullName": "Magnet (MAG)",
+                    "ImageUrl": "\/media\/16404853\/mag.png",
+                    "Url": "\/coins\/mag\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 53915,
+                    "Name": "Honey",
+                    "FullName": "Honey (HONEY)",
+                    "ImageUrl": "\/media\/1382937\/honey1.png",
+                    "Url": "\/coins\/honey\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29552,
+                    "Name": "Halloween Coin",
+                    "FullName": "Halloween Coin (HALLO)",
+                    "ImageUrl": "\/media\/351657\/hallo.png",
+                    "Url": "\/coins\/hallo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 336556,
+                    "Name": "Rockchain",
+                    "FullName": "Rockchain (ROK)",
+                    "ImageUrl": "\/media\/12318268\/rok.png",
+                    "Url": "\/coins\/rok\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28342,
+                    "Name": "Pioneershares",
+                    "FullName": "Pioneershares (PIO)",
+                    "ImageUrl": "\/media\/351528\/pio.png",
+                    "Url": "\/coins\/pio\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41989,
+                    "Name": "GoldenBird",
+                    "FullName": "GoldenBird (XGB)",
+                    "ImageUrl": "\/media\/1382372\/xgb.png",
+                    "Url": "\/coins\/xgb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182346,
+                    "Name": "Bitcoin Planet",
+                    "FullName": "Bitcoin Planet (BTPL)",
+                    "ImageUrl": "\/media\/1383774\/btpl.png",
+                    "Url": "\/coins\/btpl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29462,
+                    "Name": "Octocoin",
+                    "FullName": "Octocoin (888)",
+                    "ImageUrl": "\/media\/351639\/888.png",
+                    "Url": "\/coins\/888\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32691,
+                    "Name": "WineCoin",
+                    "FullName": "WineCoin (WINE)",
+                    "ImageUrl": "\/media\/351929\/wine.png",
+                    "Url": "\/coins\/wine\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 313581,
+                    "Name": "milesdonald",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/313581\/b0a93df4-56ba-41ad-8eb6-1a8ad1fe1190.jpg",
+                    "Url": "\/profile\/milesdonald\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 503315,
+                    "Name": "roveminder",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/503315\/e33e2e49-2696-43ea-bf3f-59de1cc2ed55.jpg",
+                    "Url": "\/profile\/roveminder\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 553428,
+                    "Name": "harizan5458",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/553428\/78156f4e-ccc1-40d9-9174-d5d25c2dfc63.jpg",
+                    "Url": "\/profile\/harizan5458\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 593386,
+                    "Name": "b_mutyaba",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/593386\/a9ea9d0f-65e6-4a96-a923-4eaf945a87e3.jpg",
+                    "Url": "\/profile\/b_mutyaba\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 549145,
+                    "Name": "jlekwot",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/549145\/f4dab972-7877-4ad5-af76-70624e6a6f0e.jpg",
+                    "Url": "\/profile\/jlekwot\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 329520,
+                    "Name": "shahkhan_87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/329520\/1fc7a918-abe2-41f3-8f4e-4d38530bb47d.jpg",
+                    "Url": "\/profile\/shahkhan_87\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 297459,
+                    "Name": "omeragicarnesa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/297459\/e0b1816f-6b97-436b-985b-f34ddf7995b8.jpg",
+                    "Url": "\/profile\/omeragicarnesa\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 206625,
+                    "Name": "wes.meijrink",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/206625\/0ca2acb9-f7e7-4de7-9c63-e384673cf515.jpg",
+                    "Url": "\/profile\/wes.meijrink\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 124446,
+                    "Name": "mtasci",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/124446\/2810b9a8-8ca6-4de7-8818-5aedf9756fec.jpg",
+                    "Url": "\/profile\/mtasci\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 58148,
+                    "Name": "flashluvaria",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/58148\/76ef6df4-5940-4cf2-abf9-468200abac5d.jpg",
+                    "Url": "\/profile\/flashluvaria\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 14,
+            "Points": 350,
+            "PageViewsSplit": {
+                "Overview": 1867,
+                "Markets": 164,
+                "Analysis": 71,
+                "Charts": 61,
+                "Trades": 69,
+                "Orderbook": 0,
+                "Forum": 49,
+                "Influence": 17
+            },
+            "PageViews": 2298
+        },
+        "Twitter": {
+            "favourites": "0",
+            "lists": 17,
+            "name": "SecureCoin",
+            "statuses": 2,
+            "followers": 335,
+            "following": "5",
+            "account_creation": "1323635874",
+            "link": "https:\/\/twitter.com\/SecureCoin",
+            "Points": 420
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

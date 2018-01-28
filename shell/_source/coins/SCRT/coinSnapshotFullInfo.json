@@ -1,0 +1,75 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "SecretCoin (SCRT) - Live streaming prices and market cap",
+            "PageDescription": "Live SecretCoin prices from all markets and SCRT coin market Capitalization. Stay up to date with the latest SecretCoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351031\/scrt.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "21760",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "SecretCoin (SCRT)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "SCRT",
+            "Url": "\/coins\/scrt\/",
+            "BaseAngularUrl": "\/coins\/scrt\/",
+            "Name": "SecretCoin",
+            "ImageUrl": "\/media\/351031\/scrt.png",
+            "Description": "<p>SecretCoin is PoW\/PoS hybrid cryptocurrency ment to be used in online game exchanges where it can be exchnaged for points\/levels\/weapons\/vehicles\/etc. the SCRT team created the coin as a way to develop games for the SecretCoin community.<\/p><p>\u00a0<\/p>",
+            "Features": "",
+            "Technology": "<p><strong>Block Rewards<\/strong><br \/><span>500 coins per block until block 2000<\/span><br \/><span>250 coins per block until block 4000<\/span><br \/><span>125 coins per block until block 8000<\/span><br \/><span>62.5 coins per block until block 16000<\/span><br \/><span>31.25 coins per block until block 224000<\/span><\/p>",
+            "TotalCoinSupply": "21000000",
+            "Algorithm": "X11",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "26\/08\/2015",
+            "Twitter": "@SecretCoinDevs",
+            "AffiliateUrl": "https:\/\/secretcoin.club\/",
+            "Website": "<a href='https:\/\/secretcoin.club\/' target='_blank'>SecretCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1504106399,
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": -1,
+            "BlockTime": 150,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~SCRT~BTC",
+            "2~Yobit~SCRT~WAVES",
+            "2~Yobit~SCRT~ETH",
+            "2~Yobit~SCRT~USD",
+            "2~BitTrex~SCRT~BTC",
+            "2~Yobit~SCRT~DOGE",
+            "2~Yobit~SCRT~RUR",
+            "2~Yobit~SCRT~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~SCRT~BTC~1~0.00000955~1515937235~20.94240837~0.00019999999993349998~200000016~1564.04600451~0.0094420703790319~1718.04600451~0.0109143103790319~0.00000956~0.00000956~0.00000405~0.00000966~0.00000966~0.00000405~Yobit~7ffe9",
+            "5~CCCAGG~SCRT~WAVES~4~0.00100001~1515651259~4.13331755~0.0041333588831755~183984702~0~0~0~0~0.001~0.00100001~0.001~0.00100001~0.00100001~0.00100001~Yobit~7ffe9",
+            "5~CCCAGG~SCRT~ETH~4~0.002113~1515649905~2.94329789~0.00621918844157~183976319~0~0~0~0~0.002113~0.002113~0.002113~0.002113~0.002113~0.002113~Yobit~7ffe9",
+            "5~CCCAGG~SCRT~USD~1~0.12000012~1515842360~16.66665~1.999999999998~200000005~0~0~0~0~0.12~0.12000012~0.12~0.12000012~0.12000012~0.12000012~Yobit~7ffe9",
+            "5~CCCAGG~SCRT~DOGE~4~13~1515787797~553.37197727~7193.83570451~200000001~0~0~0~0~13~13~13~13~13~13~Yobit~7ffe9",
+            "5~CCCAGG~SCRT~RUR~4~2.7~1515917010~0.17001964~0.4590530331005892~200000009~0.17001964~0.4590530331005892~2.17001964~6.459053033100589~3~3~2.7~3~3~2.7~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

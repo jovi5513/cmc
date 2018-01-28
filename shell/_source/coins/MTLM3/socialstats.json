@@ -1,0 +1,177 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MTLM3",
+            "CoinName": "Metal Music v3",
+            "Type": "Webpagecoinp",
+            "Points": 660
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5405,
+                    "Name": "Event Token",
+                    "FullName": "Event Token (EVENT)",
+                    "ImageUrl": "\/media\/20277\/event.png",
+                    "Url": "\/coins\/event\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3641,
+                    "Name": "GiveCoin",
+                    "FullName": "GiveCoin (GIVE)",
+                    "ImageUrl": "\/media\/20297\/give.png",
+                    "Url": "\/coins\/give\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28772,
+                    "Name": "SteamPunk",
+                    "FullName": "SteamPunk (PNK)",
+                    "ImageUrl": "\/media\/351557\/pnk.png",
+                    "Url": "\/coins\/pnk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29193,
+                    "Name": "PantherCoin",
+                    "FullName": "PantherCoin (PINKX)",
+                    "ImageUrl": "\/media\/351624\/pinkx.png",
+                    "Url": "\/coins\/pinkx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44799,
+                    "Name": "NukeCoin",
+                    "FullName": "NukeCoin (NUKE)",
+                    "ImageUrl": "\/media\/1382626\/nuke.png",
+                    "Url": "\/coins\/nuke\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6411,
+                    "Name": "TamaGucci",
+                    "FullName": "TamaGucci (TAM)",
+                    "ImageUrl": "\/media\/20565\/tam.png",
+                    "Url": "\/coins\/tam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28650,
+                    "Name": "Samsara Coin",
+                    "FullName": "Samsara Coin (SMSR)",
+                    "ImageUrl": "\/media\/351543\/smsr.png",
+                    "Url": "\/coins\/smsr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 409363,
+                    "Name": "Ludum token",
+                    "FullName": "Ludum token (LDM)",
+                    "ImageUrl": "\/media\/16404870\/ldm.png",
+                    "Url": "\/coins\/ldm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30016,
+                    "Name": "Vaporcoin",
+                    "FullName": "Vaporcoin (VAPOR)",
+                    "ImageUrl": "\/media\/351708\/vapor.png",
+                    "Url": "\/coins\/vapor\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29368,
+                    "Name": "EGOcoin",
+                    "FullName": "EGOcoin (EGO)",
+                    "ImageUrl": "\/media\/351632\/ego.png",
+                    "Url": "\/coins\/ego\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 242832,
+                    "Name": "anelehtos",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/242832\/fbca08ab-a573-48e9-a51f-5621ce1d130e.png",
+                    "Url": "\/profile\/anelehtos\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 158465,
+                    "Name": "runejessen1988",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/158465\/e867494c-6c46-4145-a0a5-bb2490443315.jpg",
+                    "Url": "\/profile\/runejessen1988\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Points": 75,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 514,
+                "Markets": 14,
+                "Analysis": 4,
+                "Charts": 4,
+                "Trades": 8,
+                "Orderbook": 0,
+                "Forum": 5,
+                "Influence": 4
+            },
+            "PageViews": 553
+        },
+        "Twitter": {
+            "followers": 485,
+            "following": "549",
+            "lists": 17,
+            "favourites": "3",
+            "statuses": 202,
+            "account_creation": "1412589377",
+            "name": "metalmusiccoin",
+            "link": "https:\/\/twitter.com\/metalmusiccoin",
+            "Points": 570
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 1,
+                    "language": "C++",
+                    "forks": 1,
+                    "open_total_issues": "0",
+                    "subscribers": 4,
+                    "size": "5426",
+                    "url": "https:\/\/github.com\/metalmusiccoin\/MTLMCV3",
+                    "last_update": "1485124516",
+                    "last_push": "1461201594",
+                    "created_at": "1424833676",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 15
+        }
+    }
+}

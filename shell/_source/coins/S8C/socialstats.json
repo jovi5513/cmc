@@ -1,0 +1,161 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "S8C",
+            "CoinName": "S88 Coin",
+            "Type": "Webpagecoinp",
+            "Points": 25
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4548,
+                    "Name": "CoinWorksCoin",
+                    "FullName": "CoinWorksCoin (LAB*)",
+                    "ImageUrl": "\/media\/20040\/lab.png",
+                    "Url": "\/coins\/labstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30920,
+                    "Name": "DarkKnightCoin",
+                    "FullName": "DarkKnightCoin (DKC)",
+                    "ImageUrl": "\/media\/351870\/dkc.png",
+                    "Url": "\/coins\/dkc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41116,
+                    "Name": "MrsaCoin",
+                    "FullName": "MrsaCoin (MRSA)",
+                    "ImageUrl": "\/media\/1382287\/msra.png",
+                    "Url": "\/coins\/mrsa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6097,
+                    "Name": "DeOxyRibose",
+                    "FullName": "DeOxyRibose (XNA)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/xna\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 486886,
+                    "Name": "PeepCoin",
+                    "FullName": "PeepCoin (PCN)",
+                    "ImageUrl": "\/media\/16746648\/pcn.png",
+                    "Url": "\/coins\/pcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 675134,
+                    "Name": "Monkey Project",
+                    "FullName": "Monkey Project (MONK)",
+                    "ImageUrl": "\/media\/20780785\/monk.png",
+                    "Url": "\/coins\/monk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 675053,
+                    "Name": "High Performance Blockchain",
+                    "FullName": "High Performance Blockchain (HPB)",
+                    "ImageUrl": "\/media\/20780783\/hpb.png",
+                    "Url": "\/coins\/hpb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 563196,
+                    "Name": "Hawala.Today",
+                    "FullName": "Hawala.Today (HAT)",
+                    "ImageUrl": "\/media\/20780593\/hat.png",
+                    "Url": "\/coins\/hat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 372748,
+                    "Name": "Dutch Coin",
+                    "FullName": "Dutch Coin (DUTCH)",
+                    "ImageUrl": "\/media\/14913487\/dutch.png",
+                    "Url": "\/coins\/dutch\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5013,
+                    "Name": "Utility Coin",
+                    "FullName": "Utility Coin (UTIL)",
+                    "ImageUrl": "\/media\/20067\/util.png",
+                    "Url": "\/coins\/util\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 55612,
+                    "Name": "Grounded_Sage",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/55612\/0b9c70f9-b54b-4fb6-8238-923a30ffec17.jpg",
+                    "Url": "\/profile\/Grounded_Sage\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 25,
+            "Followers": 1,
+            "PageViewsSplit": {
+                "Overview": 203,
+                "Markets": 16,
+                "Analysis": 35,
+                "Charts": 13,
+                "Trades": 11,
+                "Orderbook": 0,
+                "Forum": 9,
+                "Influence": 11
+            },
+            "PageViews": 298
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1483431402",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "0",
+                    "size": "2465",
+                    "last_push": "1483431552",
+                    "stars": 0,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1483431554",
+                    "open_pull_issues": "0",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/mc8coin\/s88coin",
+                    "closed_issues": "0",
+                    "open_issues": "0",
+                    "subscribers": 0,
+                    "language": "C++",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

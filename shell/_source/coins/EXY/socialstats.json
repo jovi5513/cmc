@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "EXY",
+            "CoinName": "Experty",
+            "Type": "Webpagecoinp",
+            "Points": 19085
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20825,
+                    "Name": "Pepe",
+                    "FullName": "Pepe (MEME)",
+                    "ImageUrl": "\/media\/1383050\/pepecoin-512.png",
+                    "Url": "\/coins\/meme\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 310754,
+                    "Name": "Ethereum Dark",
+                    "FullName": "Ethereum Dark (ETHD)",
+                    "ImageUrl": "\/media\/12318087\/ethd.png",
+                    "Url": "\/coins\/ethd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5037,
+                    "Name": "ZiftrCoin",
+                    "FullName": "ZiftrCoin (ZRC*)",
+                    "ImageUrl": "\/media\/20078\/zrc.png",
+                    "Url": "\/coins\/zrcstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20824,
+                    "Name": "1337",
+                    "FullName": "1337 (1337)",
+                    "ImageUrl": "\/media\/350976\/1337.png",
+                    "Url": "\/coins\/1337\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 59968,
+                    "Name": "EB3coin",
+                    "FullName": "EB3coin (EB3)",
+                    "ImageUrl": "\/media\/1382938\/eb3.png",
+                    "Url": "\/coins\/eb3\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 349487,
+                    "Name": "GATCOIN",
+                    "FullName": "GATCOIN (GAT)",
+                    "ImageUrl": "\/media\/12318390\/gat.png",
+                    "Url": "\/coins\/gat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41192,
+                    "Name": "Maker",
+                    "FullName": "Maker (MKR)",
+                    "ImageUrl": "\/media\/1382296\/mkr.png",
+                    "Url": "\/coins\/mkr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5387,
+                    "Name": "Curecoin",
+                    "FullName": "Curecoin (CURE)",
+                    "ImageUrl": "\/media\/1383812\/cure.png",
+                    "Url": "\/coins\/cure\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3647,
+                    "Name": "GeoCoin",
+                    "FullName": "GeoCoin (GEO)",
+                    "ImageUrl": "\/media\/20292\/geo.png",
+                    "Url": "\/coins\/geo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 89572,
+                    "Name": "Etheroll",
+                    "FullName": "Etheroll (DICE)",
+                    "ImageUrl": "\/media\/1383361\/dice.png",
+                    "Url": "\/coins\/dice\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 216841,
+                    "Name": "vox079",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/216841\/72495b44-d359-4b52-a4a8-6c662c468006.jpg",
+                    "Url": "\/profile\/vox079\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 630906,
+                    "Name": "randomkoinz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/630906\/92e342fa-2108-4537-9082-407be6e95575.jpg",
+                    "Url": "\/profile\/randomkoinz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 502219,
+                    "Name": "pierdrs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/502219\/7332e648-94c1-4c3e-93c4-fb0568c4b48d.jpg",
+                    "Url": "\/profile\/pierdrs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 558512,
+                    "Name": "misteram",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/558512\/9469a352-ba49-4092-abad-bc6706dcb698.jpg",
+                    "Url": "\/profile\/misteram\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 418672,
+                    "Name": "osaka-style",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/418672\/417d4437-5dc9-4da9-ba9f-2f56a3f7b109.png",
+                    "Url": "\/profile\/osaka-style\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 662392,
+                    "Name": "chrizzjuh",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/662392\/73b0ef40-5a79-4c0d-9c3b-efbedd1164b5.jpg",
+                    "Url": "\/profile\/chrizzjuh\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 620058,
+                    "Name": "cembaspinar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/620058\/1fe90644-0d3f-4eb0-af69-c07c911cf70a.jpg",
+                    "Url": "\/profile\/cembaspinar\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 658867,
+                    "Name": "carln",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/658867\/c43ae80d-0614-4d31-afd0-9fdaea325fbb.jpg",
+                    "Url": "\/profile\/carln\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 527882,
+                    "Name": "dkazad10",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/527882\/d17fc14d-2b2a-4a4d-bbb5-34470841ae3e.jpg",
+                    "Url": "\/profile\/dkazad10\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 521663,
+                    "Name": "tefljobs.net",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/521663\/1ae12858-8399-4af2-a037-4dc0f90105b2.jpg",
+                    "Url": "\/profile\/tefljobs.net\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 639420,
+                    "Name": "arunjbhandari",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/639420\/7e5e6e51-2fa4-449e-9569-2c855a5f37ce.jpg",
+                    "Url": "\/profile\/arunjbhandari\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 2045,
+            "Followers": 73,
+            "Posts": "8",
+            "Comments": "2",
+            "PageViewsSplit": {
+                "Overview": 2771,
+                "Markets": 32,
+                "Analysis": 35,
+                "Charts": 17,
+                "Trades": 13,
+                "Orderbook": 0,
+                "Forum": 125,
+                "Influence": 43
+            },
+            "PageViews": 3036
+        },
+        "Twitter": {
+            "following": "224",
+            "account_creation": "1501082475",
+            "name": "Experty.io",
+            "lists": 78,
+            "statuses": 469,
+            "favourites": "325",
+            "followers": 14917,
+            "link": "https:\/\/twitter.com\/experty_io",
+            "Points": 15307
+        },
+        "Reddit": {
+            "posts_per_hour": "0.01",
+            "comments_per_hour": "0.01",
+            "posts_per_day": "0.17",
+            "comments_per_day": 0.3,
+            "name": "experty",
+            "link": "https:\/\/www.reddit.com\/r\/experty\/",
+            "active_users": 5,
+            "community_creation": "1503675412",
+            "subscribers": 63,
+            "Points": 78
+        },
+        "Facebook": {
+            "likes": 1643,
+            "link": "https:\/\/www.facebook.com\/experty.io\/",
+            "is_closed": "false",
+            "talking_about": "672",
+            "name": "Experty - calls powered by cryptocurrency",
+            "Points": 1643
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1506642510",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "eth-interactions",
+                        "Url": "https:\/\/github.com\/gkucmierz\/eth-interactions",
+                        "InternalId": -1
+                    },
+                    "size": "61",
+                    "closed_total_issues": "2",
+                    "stars": 0,
+                    "last_update": "1506642512",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/Experty\/eth-interactions",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "2",
+                    "fork": "true",
+                    "last_push": "1508750448",
+                    "source": {
+                        "Name": "eth-interactions",
+                        "Url": "https:\/\/github.com\/gkucmierz\/eth-interactions",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "JavaScript",
+                    "subscribers": 4,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 12
+        }
+    }
+}

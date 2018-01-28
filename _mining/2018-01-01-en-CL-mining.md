@@ -1,0 +1,30 @@
+---
+layout: mining
+title: Coinlancer
+meta-title: 
+h1-title: 
+meta-description: 
+image: "/media/20780740/cl.png"
+published: true
+allow_search_engine: false
+sitemap: false
+enable_comment: false
+sort_order: 1255
+permalink: "/en/cl/mining.html"
+coin_a_symbol: "CL"
+coin_a_name: "CoinLancer"
+coin_a_lower_case: "cl"
+price_usd: "0.267331"
+price_btc: "0.00002275"
+24h_volume_usd: "88428.4"
+market_cap_usd: "300000000.0"
+total_supply: "300000000.0"
+available_supply: ""
+percent_change_1h: "-1.86"
+percent_change_24h: "-3.09"
+percent_change_7d: "-17.61"
+last_updated: "1517140766"
+parent-url: "/en/cl/"
+author: Sam
+---
+

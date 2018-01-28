@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": "X13",
+        "ProofType": "PoS",
+        "BlockNumber": 1888944,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 4119477.3841271,
+        "BlockReward": 0.14574558719993,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "BLITZ",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00026",
+            "LASTUPDATE": "1516090740",
+            "LASTVOLUME": "142.5",
+            "LASTVOLUMETO": "0.03705",
+            "LASTTRADEID": "9433963",
+            "VOLUMEDAY": "27281.454658029998",
+            "VOLUMEDAYTO": "7.132222700000002",
+            "VOLUME24HOUR": "71194.28509341",
+            "VOLUME24HOURTO": "19.325339589999995",
+            "OPENDAY": "0.000268",
+            "HIGHDAY": "0.0002759",
+            "LOWDAY": "0.00026",
+            "OPEN24HOUR": "0.0003062",
+            "HIGH24HOUR": "0.0003062",
+            "LOW24HOUR": "0.00026",
+            "LASTMARKET": "BitTrex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "BLITZ",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00026",
+                "LASTUPDATE": "1516090740",
+                "LASTVOLUME": "142.5",
+                "LASTVOLUMETO": "0.03705",
+                "LASTTRADEID": "9433963",
+                "VOLUME24HOUR": "71194.28509341",
+                "VOLUME24HOURTO": "19.325339589999995",
+                "OPEN24HOUR": "0.00030618",
+                "HIGH24HOUR": "0.00030618",
+                "LOW24HOUR": "0.00026"
+            }
+        ]
+    },
+    "Type": 100
+}

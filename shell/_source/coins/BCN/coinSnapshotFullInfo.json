@@ -1,0 +1,82 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "ByteCoin (BCN) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "Bytecoin (BCN) is the first currency based on the CryptoNote technology and launched back in July, 2012. BCN protects your privacy with completely untraceable and anonymous transactions so it is deservedly called the next generation anonymous cryptocurrency.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/12318404\/bcn.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "5280",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "ByteCoin (BCN)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BCN",
+            "Url": "\/coins\/bcn\/",
+            "BaseAngularUrl": "\/coins\/bcn\/",
+            "Name": "ByteCoin",
+            "ImageUrl": "\/media\/12318404\/bcn.png",
+            "Description": "<p>Bytecoin (BCN) is the first currency based on the CryptoNote technology and launched back in July, 2012. BCN protects your privacy with completely untraceable and anonymous transactions so it is deservedly called the next generation anonymous cryptocurrency.\u00a0<\/p><p><span>It is a fully independent currency which has been developing separately from Bitcoin and its forks. The basis for the creation of Bytecoin was the CryptoNote unique technology.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "184467440735",
+            "Algorithm": "CryptoNight",
+            "ProofType": "PoW",
+            "StartDate": "05\/07\/2012",
+            "Twitter": "@bytecoin_dev",
+            "AffiliateUrl": "https:\/\/bytecoin.org\/",
+            "Website": "<a href='https:\/\/bytecoin.org\/' target='_blank'>ByteCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515981682,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "-",
+            "BlockNumber": 1442139,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 10743544.483333,
+            "TotalCoinsMined": 183662634424.71,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 3071.16415074
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~BCN~DOT",
+            "2~Cryptopia~BCN~BTC",
+            "2~HitBTC~BCN~BTC",
+            "2~Cryptopia~BCN~XMR",
+            "2~HitBTC~BCN~USD",
+            "2~Cryptopia~BCN~UNO",
+            "2~Cryptopia~BCN~DOGE",
+            "2~Cryptopia~BCN~FTC",
+            "2~Poloniex~BCN~BTC",
+            "2~HitBTC~BCN~ETH",
+            "2~Poloniex~BCN~XMR",
+            "2~Cryptopia~BCN~LTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BCN~DOT~4~0.15000004~1489020219~6010.78256523~901.617625~1489020219~0~0~0~0~0.15000004~0.15000004~0.15000004~0.15000004~0.15000004~0.15000004~Cryptopia~7ffe9",
+            "5~CCCAGG~BCN~BTC~4~7.8e-7~1515982075~10000~0.0078000000000000005~152470908~115337874.56512918~87.11270984999969~1126562550.8190868~856.6696853999987~7.4e-7~7.8e-7~7.3e-7~7.8e-7~8e-7~7.2e-7~HitBTC~7ffe9",
+            "5~CCCAGG~BCN~XMR~1~0.00002736~1515981934~506.5449391~0.01385906~187568~124543.07834531997~3.3039218200000007~1394277.6343597705~36.69671837~0.00002631~0.00002736~0.00002631~0.00002667~0.00002736~0.0000255~Poloniex~7ffe9",
+            "5~CCCAGG~BCN~USD~1~0.01064~1515982078~10000~106.37~152470962~12642570~129757.54500000038~97494530~995618.3494199988~0.01005~0.01071~0.01003~0.01113~0.0112~0.009423~HitBTC~7ffe9",
+            "5~CCCAGG~BCN~UNO~4~0.000045~1498067010~197.47463659~0.00888636~1498067010~0~0~0~0~0.000045~0.000045~0.000045~0.000045~0.000045~0.000045~Cryptopia~7ffe9",
+            "5~CCCAGG~BCN~DOGE~4~0.74999999~1503226079~102.42095016~76.8157116~1503226079~0~0~0~0~0.74999999~0.74999999~0.74999999~0.74999999~0.74999999~0.74999999~Cryptopia~7ffe9",
+            "5~CCCAGG~BCN~FTC~4~0.01999999~1488067555~100.00005~2~1488067555~0~0~0~0~0.01999999~0.01999999~0.01999999~0.01999999~0.01999999~0.01999999~Cryptopia~7ffe9",
+            "5~CCCAGG~BCN~ETH~4~0.000008~1515982066~5900~0.0472~152470744~3719300~28.13770999999998~24650400~190.27612999999997~0.0000074~0.000008~0.0000073~0.0000081~0.0000083~0.0000073~HitBTC~7ffe9",
+            "5~CCCAGG~BCN~LTC~4~0.00002581~1503226131~165.22217493~0.00426438~1503226131~0~0~0~0~0.00002581~0.00002581~0.00002581~0.00002581~0.00002581~0.00002581~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

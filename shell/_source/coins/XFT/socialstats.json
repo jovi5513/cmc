@@ -1,0 +1,169 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XFT",
+            "CoinName": "Footy Cash",
+            "Type": "Webpagecoinp",
+            "Points": 2012
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5392,
+                    "Name": "ConSpiracy Coin ",
+                    "FullName": "ConSpiracy Coin  (CYC)",
+                    "ImageUrl": "\/media\/19671\/cyc.png",
+                    "Url": "\/coins\/cyc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4534,
+                    "Name": "HoboNickels",
+                    "FullName": "HoboNickels (HBN)",
+                    "ImageUrl": "\/media\/19735\/hbn.png",
+                    "Url": "\/coins\/hbn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 301150,
+                    "Name": "ToTheMoon",
+                    "FullName": "ToTheMoon (TMT)",
+                    "ImageUrl": "\/media\/12317977\/tmt.png",
+                    "Url": "\/coins\/tmt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34487,
+                    "Name": "DeltaCredits",
+                    "FullName": "DeltaCredits (DCRE)",
+                    "ImageUrl": "\/media\/352128\/dcre.png",
+                    "Url": "\/coins\/dcre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4603,
+                    "Name": "ShieldCoin",
+                    "FullName": "ShieldCoin (SHLD)",
+                    "ImageUrl": "\/media\/19904\/shld.png",
+                    "Url": "\/coins\/shld\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4628,
+                    "Name": "Umbrella",
+                    "FullName": "Umbrella (ULTC)",
+                    "ImageUrl": "\/media\/20063\/ultc.png",
+                    "Url": "\/coins\/ultc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5365,
+                    "Name": "OmniCron",
+                    "FullName": "OmniCron (OMC)",
+                    "ImageUrl": "\/media\/1381967\/omc.png",
+                    "Url": "\/coins\/omc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5297,
+                    "Name": "SolarFarm",
+                    "FullName": "SolarFarm (CELL)",
+                    "ImageUrl": "\/media\/20227\/cell.png",
+                    "Url": "\/coins\/cell\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4533,
+                    "Name": "Halcyon",
+                    "FullName": "Halcyon (HAL)",
+                    "ImageUrl": "\/media\/20036\/hal.png",
+                    "Url": "\/coins\/hal\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 237385,
+                    "Name": "Sojourn Coin",
+                    "FullName": "Sojourn Coin (SOJ)",
+                    "ImageUrl": "\/media\/9350725\/soj.png",
+                    "Url": "\/coins\/soj\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 357421,
+                    "Name": "zleman139",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/357421\/133909d5-fe86-40ae-ac05-5a8c2bce4c13.jpg",
+                    "Url": "\/profile\/zleman139\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 25,
+            "Followers": 1,
+            "PageViewsSplit": {
+                "Overview": 118,
+                "Markets": 10,
+                "Analysis": 7,
+                "Charts": 5,
+                "Trades": 4,
+                "Orderbook": 0,
+                "Forum": 9,
+                "Influence": 4
+            },
+            "PageViews": 157
+        },
+        "Twitter": {
+            "statuses": 301,
+            "favourites": "19",
+            "following": "803",
+            "account_creation": "1455982458",
+            "followers": 1805,
+            "name": "Footy Cash",
+            "link": "https:\/\/twitter.com\/Footy_Cash",
+            "lists": 33,
+            "Points": 1970
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1502049667",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "2",
+                    "size": "2786",
+                    "last_push": "1505466284",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "stars": 2,
+                    "open_pull_issues": "0",
+                    "last_update": "1505516335",
+                    "forks": 3,
+                    "url": "https:\/\/github.com\/FootyCash\/FootyCashV2",
+                    "closed_issues": "2",
+                    "open_issues": "0",
+                    "language": "C++",
+                    "subscribers": 3,
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 17
+        }
+    }
+}

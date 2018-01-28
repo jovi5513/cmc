@@ -1,0 +1,140 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "TDFB",
+            "CoinName": "TDFB",
+            "Type": "Webpagecoinp",
+            "Points": 75
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 29758,
+                    "Name": "AntiLitecoin",
+                    "FullName": "AntiLitecoin (ANTC)",
+                    "ImageUrl": "\/media\/351690\/antc.png",
+                    "Url": "\/coins\/antc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4572,
+                    "Name": "Nybble",
+                    "FullName": "Nybble (NBL)",
+                    "ImageUrl": "\/media\/19825\/nbl.png",
+                    "Url": "\/coins\/nbl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 339431,
+                    "Name": "Kolion",
+                    "FullName": "Kolion (KOLION)",
+                    "ImageUrl": "\/media\/12318295\/kolion.png",
+                    "Url": "\/coins\/kolion\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4543,
+                    "Name": "JunkCoin",
+                    "FullName": "JunkCoin (JKC)",
+                    "ImageUrl": "\/media\/19757\/jkc.png",
+                    "Url": "\/coins\/jkc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7580,
+                    "Name": "Charity Coin",
+                    "FullName": "Charity Coin (CHA)",
+                    "ImageUrl": "\/media\/19986\/a3c.png",
+                    "Url": "\/coins\/cha\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5329,
+                    "Name": "EbolaShare",
+                    "FullName": "EbolaShare (EBS)",
+                    "ImageUrl": "\/media\/20267\/ebs.png",
+                    "Url": "\/coins\/ebs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30568,
+                    "Name": "AndromedaCoin",
+                    "FullName": "AndromedaCoin (AND)",
+                    "ImageUrl": "\/media\/351797\/and.png",
+                    "Url": "\/coins\/and\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182463,
+                    "Name": "Ammo Rewards",
+                    "FullName": "Ammo Rewards (AMMO)",
+                    "ImageUrl": "\/media\/1383778\/ammo.png",
+                    "Url": "\/coins\/ammo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 619929,
+                    "Name": "Accolade",
+                    "FullName": "Accolade (ACCO)",
+                    "ImageUrl": "\/media\/20780654\/acco.png",
+                    "Url": "\/coins\/acco\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28174,
+                    "Name": "EneCoin",
+                    "FullName": "EneCoin (ENE)",
+                    "ImageUrl": "\/media\/351506\/ene.png",
+                    "Url": "\/coins\/ene\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 158762,
+                    "Name": "maxikserik",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/158762\/7e5786a4-7455-451c-a031-af84e43a931f.jpg",
+                    "Url": "\/profile\/maxikserik\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 78294,
+                    "Name": "alwaysprofitting",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/78294\/8beeaf06-db5c-4af3-935f-59a4c9776f2a.jpg",
+                    "Url": "\/profile\/alwaysprofitting\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Points": 75,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 217,
+                "Markets": 11,
+                "Analysis": 23,
+                "Charts": 14,
+                "Trades": 10,
+                "Orderbook": 1,
+                "Forum": 14,
+                "Influence": 14
+            },
+            "PageViews": 304
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

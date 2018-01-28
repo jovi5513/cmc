@@ -1,0 +1,67 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "GoByte (GBX) - Live streaming prices and market cap",
+            "PageDescription": "Live GoByte prices from all markets and GBX coin market Capitalization. Stay up to date with the latest GoByte price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/15887411\/gbx.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "398705",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "GoByte (GBX)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "GBX",
+            "Url": "\/coins\/gbx\/",
+            "BaseAngularUrl": "\/coins\/gbx\/",
+            "Name": "GoByte",
+            "ImageUrl": "\/media\/15887411\/gbx.png",
+            "Description": "<p>GoByte is an ASIC resistant PoW cryptocurrency using the NeoScrypt hashing algorithm.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "31800000",
+            "Algorithm": "NeoScrypt",
+            "ProofType": "PoW",
+            "StartDate": "16\/11\/2017",
+            "Twitter": "@gobytenetwork",
+            "AffiliateUrl": "https:\/\/www.gobyte.network\/",
+            "Website": "<a href='https:\/\/www.gobyte.network\/' target='_blank'>GoByte<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515969932,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 31871,
+            "BlockTime": 150,
+            "NetHashesPerSecond": 41734980599.231,
+            "TotalCoinsMined": 1328310.0733995,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~GBX~LTC",
+            "2~Cryptopia~GBX~BTC",
+            "2~Cryptopia~GBX~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~GBX~LTC~4~0.1269999~1515195563~0.10471836~0.01329922~1515195563~0~0~0~0~0.127~0.127~0.1269999~0.1269999~0.1269999~0.1269999~Cryptopia~7ffe9",
+            "5~CCCAGG~GBX~BTC~1~0.00486~1515979265~0.18314179~0.00089003~1515979265~132.46412655~0.6553320499999996~11693.187856029997~59.572743249999995~0.005003~0.00505~0.00485~0.004749~0.006~0.00461~Cryptopia~7ffe9",
+            "5~CCCAGG~GBX~DOGE~4~4399~1515190158~0.12~527.88~1515190158~0~0~0~0~4399~4399~4399~4399~4399~4399~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

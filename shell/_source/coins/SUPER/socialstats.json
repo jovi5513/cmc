@@ -1,0 +1,212 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SUPER",
+            "CoinName": "SuperCoin",
+            "Type": "Webpagecoinp",
+            "Points": 2080
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 25238,
+                    "Name": "BitFinex Tokens",
+                    "FullName": "BitFinex Tokens (BFX)",
+                    "ImageUrl": "\/media\/19554\/bitfinex.png",
+                    "Url": "\/coins\/bfx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 205967,
+                    "Name": "Kencoin",
+                    "FullName": "Kencoin (KCN)",
+                    "ImageUrl": "\/media\/1383953\/kencoin.png",
+                    "Url": "\/coins\/kcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 389808,
+                    "Name": "Interstellar Holdings",
+                    "FullName": "Interstellar Holdings (HOLD)",
+                    "ImageUrl": "\/media\/14913647\/hold.png",
+                    "Url": "\/coins\/hold\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 364472,
+                    "Name": "Sharpe Capital",
+                    "FullName": "Sharpe Capital (SHP)",
+                    "ImageUrl": "\/media\/14761950\/shp.png",
+                    "Url": "\/coins\/shp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 304833,
+                    "Name": "Paycentos",
+                    "FullName": "Paycentos (PYN)",
+                    "ImageUrl": "\/media\/12318033\/pyn.png",
+                    "Url": "\/coins\/pyn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 301216,
+                    "Name": "Wish Finance",
+                    "FullName": "Wish Finance (WSH)",
+                    "ImageUrl": "\/media\/12317980\/wish.png",
+                    "Url": "\/coins\/wsh\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 176004,
+                    "Name": "Compcoin",
+                    "FullName": "Compcoin (CMP)",
+                    "ImageUrl": "\/media\/1383692\/compcoin.png",
+                    "Url": "\/coins\/cmp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 348278,
+                    "Name": "Soma",
+                    "FullName": "Soma (SCT*)",
+                    "ImageUrl": "\/media\/12318383\/sct.png",
+                    "Url": "\/coins\/sctstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 409422,
+                    "Name": "LiteCoin Gold",
+                    "FullName": "LiteCoin Gold (LTG)",
+                    "ImageUrl": "\/media\/16404871\/ltg.png",
+                    "Url": "\/coins\/ltg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 388042,
+                    "Name": "Mercury Protocol",
+                    "FullName": "Mercury Protocol (GMT)",
+                    "ImageUrl": "\/media\/14913642\/gmt.png",
+                    "Url": "\/coins\/gmt\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 596368,
+                    "Name": "brandonallen83",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596368\/4d9346a4-2329-42c1-bf4b-d49c6f0b14c1.jpg",
+                    "Url": "\/profile\/brandonallen83\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 488627,
+                    "Name": "BDA28B45",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/488627\/563147ea-8370-4347-a5d5-60c72ecc3d65.jpg",
+                    "Url": "\/profile\/BDA28B45\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 357563,
+                    "Name": "generatetv",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/357563\/6e5a750c-f113-4d91-98cb-91d950760168.jpg",
+                    "Url": "\/profile\/generatetv\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 329520,
+                    "Name": "shahkhan_87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/329520\/1fc7a918-abe2-41f3-8f4e-4d38530bb47d.jpg",
+                    "Url": "\/profile\/shahkhan_87\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 348198,
+                    "Name": "moongoon1080",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/348198\/9d926532-2db6-4a7d-a7af-46fe7ad77e95.jpg",
+                    "Url": "\/profile\/moongoon1080\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 374093,
+                    "Name": "kylelough",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/374093\/d2f76c5a-0f4e-4794-9319-2b9c61c70fa4.jpg",
+                    "Url": "\/profile\/kylelough\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 476599,
+                    "Name": "StrangeTrip",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/476599\/fe6b78d1-a6ee-4fba-aea8-f0672cf65478.png",
+                    "Url": "\/profile\/StrangeTrip\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 461467,
+                    "Name": "arogacev49",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/461467\/e7f4f7bd-611d-4e91-a61f-a4a39e1d4e4c.jpg",
+                    "Url": "\/profile\/arogacev49\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 188316,
+                    "Name": "mbeek2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/188316\/ce98cabe-f772-4ad3-ae6c-4d7e45d21c25.jpg",
+                    "Url": "\/profile\/mbeek2\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 785,
+            "Posts": "2",
+            "Comments": "1",
+            "Followers": 29,
+            "PageViewsSplit": {
+                "Overview": 1979,
+                "Markets": 156,
+                "Analysis": 127,
+                "Charts": 158,
+                "Trades": 81,
+                "Orderbook": 2,
+                "Forum": 51,
+                "Influence": 36
+            },
+            "PageViews": 2590
+        },
+        "Twitter": {
+            "following": "1295",
+            "account_creation": "1400993095",
+            "statuses": 268,
+            "favourites": "0",
+            "followers": 1175,
+            "name": "Super Coin",
+            "link": "https:\/\/twitter.com\/CoinSuper ",
+            "lists": 24,
+            "Points": 1295
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

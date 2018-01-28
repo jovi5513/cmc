@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "TRST",
+            "CoinName": "TrustCoin",
+            "Type": "Webpagecoinp",
+            "Points": 30807
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 42596,
+                    "Name": "Internet of People",
+                    "FullName": "Internet of People (IOP)",
+                    "ImageUrl": "\/media\/12318262\/iop.png",
+                    "Url": "\/coins\/iop\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5292,
+                    "Name": "CounterParty",
+                    "FullName": "CounterParty (XCP)",
+                    "ImageUrl": "\/media\/19960\/xcp.png",
+                    "Url": "\/coins\/xcp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338335,
+                    "Name": "Enigma",
+                    "FullName": "Enigma (ENG)",
+                    "ImageUrl": "\/media\/12318287\/eng.png",
+                    "Url": "\/coins\/eng\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 364348,
+                    "Name": "Bitcoin SegWit2X",
+                    "FullName": "Bitcoin SegWit2X (BT2)",
+                    "ImageUrl": "\/media\/19633\/btc.png",
+                    "Url": "\/coins\/bt2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 27996,
+                    "Name": "Trigger",
+                    "FullName": "Trigger (TRIG)",
+                    "ImageUrl": "\/media\/351489\/trg.png",
+                    "Url": "\/coins\/trig\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 175618,
+                    "Name": "ATB coin",
+                    "FullName": "ATB coin (ATB)",
+                    "ImageUrl": "\/media\/1383689\/atb.png",
+                    "Url": "\/coins\/atb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 18180,
+                    "Name": "Voxels",
+                    "FullName": "Voxels (VOX)",
+                    "ImageUrl": "\/media\/350824\/vox.png",
+                    "Url": "\/coins\/vox\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 225277,
+                    "Name": "Centra",
+                    "FullName": "Centra (CTR)",
+                    "ImageUrl": "\/media\/1384029\/ctr.png",
+                    "Url": "\/coins\/ctr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28328,
+                    "Name": "FirstBlood",
+                    "FullName": "FirstBlood (1ST)",
+                    "ImageUrl": "\/media\/351524\/1st.png",
+                    "Url": "\/coins\/1st\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 309621,
+                    "Name": "ChainLink",
+                    "FullName": "ChainLink (LINK)",
+                    "ImageUrl": "\/media\/12318078\/link.png",
+                    "Url": "\/coins\/link\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 675406,
+                    "Name": "xskendeg",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675406\/bc2f3f27-4fcf-4e57-b738-1c482f1f8907.jpg",
+                    "Url": "\/profile\/xskendeg\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 663567,
+                    "Name": "janb.l33t",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/663567\/8b9986eb-5630-4429-aa3b-2adb98112307.jpg",
+                    "Url": "\/profile\/janb.l33t\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 566861,
+                    "Name": "mojo221076",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/566861\/e9c13f85-a3c6-47ff-80b3-3b241a596d2b.jpg",
+                    "Url": "\/profile\/mojo221076\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 153492,
+                    "Name": "oturgutg",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/153492\/176e66cc-36dc-48b3-a820-e3d977713943.jpg",
+                    "Url": "\/profile\/oturgutg\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 661034,
+                    "Name": "gatman55rus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/661034\/725018b0-d9b9-4eeb-89f1-654ab7f43a4f.jpg",
+                    "Url": "\/profile\/gatman55rus\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 653502,
+                    "Name": "parketall",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/653502\/7fbf996f-24ef-4129-a571-928815c2f730.jpg",
+                    "Url": "\/profile\/parketall\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 650142,
+                    "Name": "den-denden.denis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/650142\/b80d0db5-b101-4432-8d6d-ff40c672a8e1.jpg",
+                    "Url": "\/profile\/den-denden.denis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 649871,
+                    "Name": "boydteam",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/649871\/d8912ef6-4c09-441b-9d4d-cf0034827f7d.jpg",
+                    "Url": "\/profile\/boydteam\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 448676,
+                    "Name": "p.kimak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/448676\/cee0f356-4352-4fa5-a004-5ac59a6b68fb.jpg",
+                    "Url": "\/profile\/p.kimak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 635510,
+                    "Name": "pfcgene",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/635510\/e041e424-02de-41ea-af28-0d208a06adf9.jpg",
+                    "Url": "\/profile\/pfcgene\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 330626,
+                    "Name": "alanavila08",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/330626\/8a502ad5-ff10-47ce-998b-eb2ee1958b8a.jpg",
+                    "Url": "\/profile\/alanavila08\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 8540,
+            "Followers": 305,
+            "Posts": "31",
+            "Comments": "14",
+            "PageViewsSplit": {
+                "Overview": 25307,
+                "Markets": 1249,
+                "Analysis": 644,
+                "Charts": 2243,
+                "Trades": 547,
+                "Orderbook": 23,
+                "Forum": 1255,
+                "Influence": 245
+            },
+            "PageViews": 31513
+        },
+        "Twitter": {
+            "following": "782",
+            "account_creation": "1476044673",
+            "name": "WeTrustTeam",
+            "lists": 395,
+            "statuses": 1165,
+            "favourites": "14623",
+            "followers": 15929,
+            "link": "https:\/\/twitter.com\/WeTrustPlatform",
+            "Points": 17905
+        },
+        "Reddit": {
+            "posts_per_hour": "0.02",
+            "comments_per_hour": "0.16",
+            "posts_per_day": "0.51",
+            "comments_per_day": 3.95,
+            "name": "WeTrustPlatform",
+            "link": "https:\/\/www.reddit.com\/r\/WeTrustPlatform\/",
+            "active_users": 71,
+            "community_creation": "1476044484",
+            "subscribers": 1472,
+            "Points": 1692
+        },
+        "Facebook": {
+            "likes": 2624,
+            "link": "https:\/\/www.facebook.com\/wetrustplatform\/",
+            "is_closed": "false",
+            "talking_about": "185",
+            "name": "WeTrust",
+            "Points": 2624
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1489087381",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "203",
+                    "closed_total_issues": "31",
+                    "stars": 12,
+                    "last_update": "1515224440",
+                    "forks": 2,
+                    "url": "https:\/\/github.com\/WeTrustPlatform\/token-contracts",
+                    "closed_issues": "1",
+                    "closed_pull_issues": "30",
+                    "fork": "false",
+                    "last_push": "1514195371",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "JavaScript",
+                    "subscribers": 9,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 43
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "ELM",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000418",
+            "LASTUPDATE": "1516091034",
+            "LASTVOLUME": "10",
+            "LASTVOLUMETO": "0.000039999999999999996",
+            "LASTTRADEID": "154441279",
+            "VOLUMEDAY": "16699.23311844",
+            "VOLUMEDAYTO": "0.07875654",
+            "VOLUME24HOUR": "69838.6313965",
+            "VOLUME24HOURTO": "0.29856726",
+            "OPENDAY": "0.0000049",
+            "HIGHDAY": "0.000005",
+            "LOWDAY": "0.000004",
+            "OPEN24HOUR": "0.00000411",
+            "HIGH24HOUR": "0.000005",
+            "LOW24HOUR": "0.00000395",
+            "LASTMARKET": "HitBTC"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "HitBTC",
+                "FROMSYMBOL": "ELM",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.000004",
+                "LASTUPDATE": "1516091034",
+                "LASTVOLUME": "10",
+                "LASTVOLUMETO": "0.000039999999999999996",
+                "LASTTRADEID": "154441279",
+                "VOLUME24HOUR": "42790",
+                "VOLUME24HOURTO": "0.17272999999999997",
+                "OPEN24HOUR": "0.000004",
+                "HIGH24HOUR": "0.000005",
+                "LOW24HOUR": "0.000004"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "ELM",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00000195",
+                "LASTUPDATE": "1514887048",
+                "LASTVOLUME": "2247.74774775",
+                "LASTVOLUMETO": "0.0043831081081125",
+                "LASTTRADEID": "3898",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000195",
+                "HIGH24HOUR": "0.00000195",
+                "LOW24HOUR": "0.00000195"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "ELM",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000466",
+                "LASTUPDATE": "1516090154",
+                "LASTVOLUME": "150",
+                "LASTVOLUMETO": "0.000699",
+                "LASTTRADEID": "1516090154",
+                "VOLUME24HOUR": "27048.6313965",
+                "VOLUME24HOURTO": "0.12583726",
+                "OPEN24HOUR": "0.0000044",
+                "HIGH24HOUR": "0.000005",
+                "LOW24HOUR": "0.0000038"
+            }
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 579840,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 25276358.071329,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "BPL",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "2",
+            "PRICE": "0.0000401",
+            "LASTUPDATE": "1516092930",
+            "LASTVOLUME": "2583.45509146",
+            "LASTVOLUMETO": "0.10359655",
+            "LASTTRADEID": "1516092930.001",
+            "VOLUMEDAY": "42299.81878647999",
+            "VOLUMEDAYTO": "1.9515268",
+            "VOLUME24HOUR": "73146.00401342",
+            "VOLUME24HOURTO": "3.61751267",
+            "OPENDAY": "0.00005588",
+            "HIGHDAY": "0.00005588",
+            "LOWDAY": "0.00003811",
+            "OPEN24HOUR": "0.000053",
+            "HIGH24HOUR": "0.00005712",
+            "LOW24HOUR": "0.00003811",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "BPL",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.0000401",
+                "LASTUPDATE": "1516092930",
+                "LASTVOLUME": "2583.45509146",
+                "LASTVOLUMETO": "0.10359655",
+                "LASTTRADEID": "1516092930.001",
+                "VOLUME24HOUR": "73146.00401342",
+                "VOLUME24HOURTO": "3.61751267",
+                "OPEN24HOUR": "0.000053",
+                "HIGH24HOUR": "0.00005712",
+                "LOW24HOUR": "0.00003811"
+            }
+        ]
+    },
+    "Type": 100
+}

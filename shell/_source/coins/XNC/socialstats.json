@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XNC",
+            "CoinName": "XenCoin",
+            "Type": "Webpagecoinp",
+            "Points": 1246
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 6393,
+                    "Name": "Global",
+                    "FullName": "Global (GLOBE)",
+                    "ImageUrl": "\/media\/20564\/globe.png",
+                    "Url": "\/coins\/globe\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 638142,
+                    "Name": "OmiseGO Classic",
+                    "FullName": "OmiseGO Classic (OMGC)",
+                    "ImageUrl": "\/media\/20780667\/omgc.png",
+                    "Url": "\/coins\/omgc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 40847,
+                    "Name": "YAYcoin",
+                    "FullName": "YAYcoin (YAY)",
+                    "ImageUrl": "\/media\/1382253\/yay.png",
+                    "Url": "\/coins\/yay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 348289,
+                    "Name": "NamoCoin",
+                    "FullName": "NamoCoin (NAMO)",
+                    "ImageUrl": "\/media\/12318384\/namo.png",
+                    "Url": "\/coins\/namo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30379,
+                    "Name": "KRCoin",
+                    "FullName": "KRCoin (KRC)",
+                    "ImageUrl": "\/media\/351755\/krc.png",
+                    "Url": "\/coins\/krc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30123,
+                    "Name": "CoffeeCoin",
+                    "FullName": "CoffeeCoin (CFC)",
+                    "ImageUrl": "\/media\/351732\/cfc.png",
+                    "Url": "\/coins\/cfc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7635,
+                    "Name": "Bob Coin",
+                    "FullName": "Bob Coin (BOB)",
+                    "ImageUrl": "\/media\/20207\/bob.png",
+                    "Url": "\/coins\/bob\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 314331,
+                    "Name": "Algo.Land",
+                    "FullName": "Algo.Land (PLM)",
+                    "ImageUrl": "\/media\/12318124\/plm.jpg",
+                    "Url": "\/coins\/plm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 646897,
+                    "Name": "DFSCoin",
+                    "FullName": "DFSCoin (DFS)",
+                    "ImageUrl": "\/media\/20780715\/dfs.png",
+                    "Url": "\/coins\/dfs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41590,
+                    "Name": "CryptoPennies",
+                    "FullName": "CryptoPennies (CRPS)",
+                    "ImageUrl": "\/media\/1382338\/crps.png",
+                    "Url": "\/coins\/crps\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 510191,
+                    "Name": "milshor77",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/510191\/71d45d4c-2952-46b0-8cde-3e716bd3083c.jpg",
+                    "Url": "\/profile\/milshor77\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 435611,
+                    "Name": "79F59E56",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/435611\/7cd59ba1-97bd-45dd-8ee1-f22821a2d10d.jpg",
+                    "Url": "\/profile\/79F59E56\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 336696,
+                    "Name": "gaizka",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/336696\/b30ae8ee-768a-47fb-b2a1-10a856878ec6.jpg",
+                    "Url": "\/profile\/gaizka\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 367496,
+                    "Name": "pettrobb",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/367496\/46d58b51-dc28-4656-ac9b-8c836152de47.jpg",
+                    "Url": "\/profile\/pettrobb\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 339608,
+                    "Name": "554DDE2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/339608\/2e8f3f9d-3044-45be-a5f7-80158847eee2.jpg",
+                    "Url": "\/profile\/554DDE2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 225160,
+                    "Name": "suslov-1974",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/225160\/cf379db9-7218-460c-9151-dc34cfac22b4.jpg",
+                    "Url": "\/profile\/suslov-1974\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 7,
+            "Posts": "1",
+            "Points": 200,
+            "PageViewsSplit": {
+                "Overview": 652,
+                "Markets": 46,
+                "Analysis": 20,
+                "Charts": 27,
+                "Trades": 26,
+                "Orderbook": 0,
+                "Forum": 14,
+                "Influence": 9
+            },
+            "PageViews": 794
+        },
+        "Twitter": {
+            "favourites": "0",
+            "statuses": 2,
+            "following": "0",
+            "account_creation": "1368134112",
+            "name": "Xencoin",
+            "link": "https:\/\/twitter.com\/Xencoin",
+            "lists": 3,
+            "followers": 44,
+            "Points": 59
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 972,
+            "name": "Xencoin",
+            "link": "https:\/\/www.facebook.com\/Xencoins\/",
+            "talking_about": "3",
+            "is_closed": "false",
+            "Points": 972
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/xencoin\/Xencoin",
+                    "last_update": "1505303382",
+                    "subscribers": 2,
+                    "size": "2448",
+                    "created_at": "1371630532",
+                    "open_pull_issues": "0",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "TypeScript",
+                    "open_total_issues": "1",
+                    "stars": 1,
+                    "forks": 4,
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "1",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1372674684"
+                }
+            ],
+            "Points": 15
+        }
+    }
+}

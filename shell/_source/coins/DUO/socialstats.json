@@ -1,0 +1,183 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "DUO",
+            "CoinName": "ParallelCoin",
+            "Type": "Webpagecoinp",
+            "Points": 113
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5404,
+                    "Name": "BitMiles",
+                    "FullName": "BitMiles (BTMI)",
+                    "ImageUrl": "\/media\/20213\/btmi.png",
+                    "Url": "\/coins\/btmi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 52008,
+                    "Name": "ChatCoin",
+                    "FullName": "ChatCoin (CHAT)",
+                    "ImageUrl": "\/media\/1382762\/chat.png",
+                    "Url": "\/coins\/chat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4569,
+                    "Name": "NanoToken",
+                    "FullName": "NanoToken (NAN)",
+                    "ImageUrl": "\/media\/19821\/nan.png",
+                    "Url": "\/coins\/nan\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21222,
+                    "Name": "MediumProject",
+                    "FullName": "MediumProject (MPRO)",
+                    "ImageUrl": "\/media\/350999\/mpro.jpg",
+                    "Url": "\/coins\/mpro\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6107,
+                    "Name": "MultiWallet Coin",
+                    "FullName": "MultiWallet Coin (MWC)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/mwc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29556,
+                    "Name": "EmiratesGoldCoin",
+                    "FullName": "EmiratesGoldCoin (EMIGR)",
+                    "ImageUrl": "\/media\/351659\/emirg.png",
+                    "Url": "\/coins\/emigr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21378,
+                    "Name": "GIZMOcoin",
+                    "FullName": "GIZMOcoin (GIZ)",
+                    "ImageUrl": "\/media\/351015\/giz.png",
+                    "Url": "\/coins\/giz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 436162,
+                    "Name": "RAFL",
+                    "FullName": "RAFL (RFL)",
+                    "ImageUrl": "\/media\/16746549\/rfl.png",
+                    "Url": "\/coins\/rfl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7653,
+                    "Name": "Hedgecoin",
+                    "FullName": "Hedgecoin (HEDG)",
+                    "ImageUrl": "\/media\/20663\/hedg.png",
+                    "Url": "\/coins\/hedg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38371,
+                    "Name": "Quebecoin",
+                    "FullName": "Quebecoin (QBC)",
+                    "ImageUrl": "\/media\/19874\/qbc.png",
+                    "Url": "\/coins\/qbc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 283480,
+                    "Name": "madhugudipudi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/283480\/542ec6fe-f5aa-41e3-a14c-84dfc43c1387.jpg",
+                    "Url": "\/profile\/madhugudipudi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 486639,
+                    "Name": "giordanodesign",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/486639\/99506846-defb-427e-967f-d39a077c97c5.jpg",
+                    "Url": "\/profile\/giordanodesign\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 316194,
+                    "Name": "Face93",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/316194\/e5cd8a34-deb2-4641-bd45-864505f5c2fa.jpg",
+                    "Url": "\/profile\/Face93\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 74315,
+                    "Name": "haydernnn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/74315\/8d239839-806b-4b5c-b706-7845e66bd0b9.jpg",
+                    "Url": "\/profile\/haydernnn\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 100,
+            "Posts": "0",
+            "Followers": 4,
+            "PageViewsSplit": {
+                "Overview": 390,
+                "Markets": 38,
+                "Analysis": 19,
+                "Charts": 188,
+                "Trades": 27,
+                "Orderbook": 1,
+                "Forum": 6,
+                "Influence": 11
+            },
+            "PageViews": 680
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1417224686",
+                    "open_total_issues": "0",
+                    "fork": "true",
+                    "parent": {
+                        "Name": "parallelcoin",
+                        "Url": "https:\/\/github.com\/parallelcoin\/parallelcoin",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "0",
+                    "size": "2922",
+                    "last_push": "1434929105",
+                    "stars": 0,
+                    "source": {
+                        "Name": "parallelcoin",
+                        "Url": "https:\/\/github.com\/parallelcoin\/parallelcoin",
+                        "InternalId": -1
+                    },
+                    "last_update": "1434922700",
+                    "open_pull_issues": "0",
+                    "forks": 2,
+                    "url": "https:\/\/github.com\/marcetin\/parallelcoin",
+                    "closed_issues": "0",
+                    "open_issues": "0",
+                    "subscribers": 3,
+                    "language": "C++",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 13
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "16BitCoin (BIT16) - Live streaming prices and market cap",
+            "PageDescription": "Live 16BitCoin prices from all markets and BIT16 coin market Capitalization. Stay up to date with the latest 16BitCoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20181\/16bit.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "22333",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "16BitCoin (BIT16)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BIT16",
+            "Url": "\/coins\/bit16\/",
+            "BaseAngularUrl": "\/coins\/bit16\/",
+            "Name": "16BitCoin",
+            "ImageUrl": "\/media\/20181\/16bit.png",
+            "Description": "<p>16BitCoin is an arcade themed cryptocurrency, it can be mined with computational power or through staking your BIT16 balance and uses the Nist5 hashing algorithm.<\/p><div><span><\/span><\/div>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "16000000",
+            "Algorithm": "NIST5",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "04\/05\/2015",
+            "Twitter": "@16bit_coin",
+            "AffiliateUrl": "http:\/\/www.16bit.ml\/",
+            "Website": "<a href='http:\/\/www.16bit.ml\/' target='_blank'>16BitCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1499356955,
+            "DifficultyAdjustment": "Per 1 Block",
+            "BlockRewardReduction": "",
+            "BlockNumber": 0,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~BIT16~ETH",
+            "2~Yobit~BIT16~RUR",
+            "2~Yobit~BIT16~DOGE",
+            "2~Yobit~BIT16~WAVES",
+            "2~Yobit~BIT16~USD",
+            "2~Yobit~BIT16~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BIT16~ETH~4~0.00000275~1515620343~50~0.0001375~183795854~0~0~0~0~0.00000275~0.00000275~0.00000275~0.00000275~0.00000275~0.00000275~Yobit~7ffe9",
+            "5~CCCAGG~BIT16~RUR~4~1.20999975~1515636881~35.54008756~43.00349706257811~183897177~0~0~0~0~1.21~1.21~1.20999975~1.20999975~1.20999975~1.20999975~Yobit~7ffe9",
+            "5~CCCAGG~BIT16~DOGE~4~8.9~1513673039~9.42350333~83.86917963700002~171531331~0~0~0~0~8.9~8.9~8.9~8.9~8.9~8.9~Yobit~7ffe9",
+            "5~CCCAGG~BIT16~WAVES~4~0.00112268~1515673673~2.038988~0.00228913104784~184159922~0~0~0~0~0.001123~0.001123~0.00112268~0.00112268~0.00112268~0.00112268~Yobit~7ffe9",
+            "5~CCCAGG~BIT16~USD~4~0.02184902~1515781606~34.67977097~0.7577190095189494~200000000~0~0~0~0~0.02184902~0.02184902~0.02184902~0.02184902~0.02184902~0.02184902~Yobit~7ffe9",
+            "5~CCCAGG~BIT16~BTC~1~9e-7~1515950599~111.12222222~0.000100009999998~200000009~1722.33333333~0.0015200999999970002~1722.33333333~0.0015200999999970002~8.9e-7~9e-7~8.4e-7~8.9e-7~9e-7~8.4e-7~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

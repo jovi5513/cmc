@@ -1,0 +1,226 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BNB",
+            "CoinName": "Binance Coin",
+            "Type": "Webpagecoinp",
+            "Points": 583040
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 19745,
+                    "Name": "Lisk",
+                    "FullName": "Lisk (LSK)",
+                    "ImageUrl": "\/media\/352246\/lsk.png",
+                    "Url": "\/coins\/lsk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 213532,
+                    "Name": "Gas",
+                    "FullName": "Gas (GAS)",
+                    "ImageUrl": "\/media\/1383858\/neo.jpg",
+                    "Url": "\/coins\/gas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33022,
+                    "Name": "Golem Network Token",
+                    "FullName": "Golem Network Token (GNT)",
+                    "ImageUrl": "\/media\/351995\/golem_logo.png",
+                    "Url": "\/coins\/gnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5285,
+                    "Name": "NEM",
+                    "FullName": "NEM (XEM)",
+                    "ImageUrl": "\/media\/20490\/xem.png",
+                    "Url": "\/coins\/xem\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24294,
+                    "Name": "Stratis",
+                    "FullName": "Stratis (STRAT)",
+                    "ImageUrl": "\/media\/351303\/stratis-logo.png",
+                    "Url": "\/coins\/strat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 166503,
+                    "Name": "EOS",
+                    "FullName": "EOS (EOS)",
+                    "ImageUrl": "\/media\/1383652\/eos_1.png",
+                    "Url": "\/coins\/eos\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4592,
+                    "Name": "ReddCoin",
+                    "FullName": "ReddCoin (RDD)",
+                    "ImageUrl": "\/media\/19887\/rdd.png",
+                    "Url": "\/coins\/rdd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5018,
+                    "Name": "VertCoin",
+                    "FullName": "VertCoin (VTC)",
+                    "ImageUrl": "\/media\/19945\/vtc.png",
+                    "Url": "\/coins\/vtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20131,
+                    "Name": "Waves",
+                    "FullName": "Waves (WAVES)",
+                    "ImageUrl": "\/media\/350884\/waves_1.png",
+                    "Url": "\/coins\/waves\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 347235,
+                    "Name": "Bitcoin Gold",
+                    "FullName": "Bitcoin Gold (BTG)",
+                    "ImageUrl": "\/media\/12318377\/btg.png",
+                    "Url": "\/coins\/btg\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 677544,
+                    "Name": "2E17B0CB",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677544\/5b4c9fee-4f04-4e98-8b03-a236d890bcb1.jpg",
+                    "Url": "\/profile\/2E17B0CB\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 223453,
+                    "Name": "john.mana",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/223453\/ac5ec7e9-c0dd-485c-a764-2e10e8ec61cc.jpg",
+                    "Url": "\/profile\/john.mana\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677485,
+                    "Name": "pressureboy7th",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677485\/9024d444-100b-4504-8baa-ca0bd3f0691f.jpg",
+                    "Url": "\/profile\/pressureboy7th\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 563120,
+                    "Name": "johnycage",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/563120\/6cd9fee1-83a2-4e75-8f15-789576f33a73.jpg",
+                    "Url": "\/profile\/johnycage\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 632357,
+                    "Name": "keegan.ead",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/632357\/2a941c71-a978-424b-abc3-d7b4f2f2b90e.jpg",
+                    "Url": "\/profile\/keegan.ead\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 594099,
+                    "Name": "bali_curran",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/594099\/069373ed-c589-4336-918d-407b051be393.jpg",
+                    "Url": "\/profile\/bali_curran\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 672642,
+                    "Name": "901realtor",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/672642\/797eef88-3aca-4e54-8754-9272c23f027d.jpg",
+                    "Url": "\/profile\/901realtor\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 348198,
+                    "Name": "moongoon1080",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/348198\/9d926532-2db6-4a7d-a7af-46fe7ad77e95.jpg",
+                    "Url": "\/profile\/moongoon1080\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 314471,
+                    "Name": "ppcomp",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/314471\/b62df54d-03bb-4295-82a8-f51eff6e5634.jpg",
+                    "Url": "\/profile\/ppcomp\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 225661,
+                    "Name": "allan3313",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/225661\/ce928cfb-c293-4e4b-8bde-583fbe49cd2c.jpg",
+                    "Url": "\/profile\/allan3313\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 924,
+            "Posts": "138",
+            "Comments": "133",
+            "Points": 27880,
+            "PageViewsSplit": {
+                "Overview": 69022,
+                "Markets": 2051,
+                "Analysis": 1311,
+                "Charts": 7039,
+                "Trades": 1060,
+                "Orderbook": 22,
+                "Forum": 4907,
+                "Influence": 484
+            },
+            "PageViews": 85896
+        },
+        "Twitter": {
+            "favourites": "325",
+            "lists": 3021,
+            "statuses": 734,
+            "following": "1349",
+            "account_creation": "1498120695",
+            "name": "binance",
+            "followers": 456665,
+            "link": "https:\/\/twitter.com\/binance_2017",
+            "Points": 471770
+        },
+        "Reddit": {
+            "subscribers": 34658,
+            "posts_per_hour": "2.15",
+            "community_creation": "1498873536",
+            "comments_per_hour": "15.03",
+            "comments_per_day": 360.8,
+            "posts_per_day": "51.52",
+            "name": "binance",
+            "link": "https:\/\/www.reddit.com\/r\/binance\/",
+            "active_users": 3358,
+            "Points": 45453
+        },
+        "Facebook": {
+            "name": "Binance",
+            "likes": 37929,
+            "link": "https:\/\/www.facebook.com\/binanceexchange\/",
+            "talking_about": "8675",
+            "is_closed": "false",
+            "Points": 37929
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MGN",
+            "CoinName": "MagnaCoin",
+            "Type": "Webpagecoinp",
+            "Points": 14
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 372748,
+                    "Name": "Dutch Coin",
+                    "FullName": "Dutch Coin (DUTCH)",
+                    "ImageUrl": "\/media\/14913487\/dutch.png",
+                    "Url": "\/coins\/dutch\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5013,
+                    "Name": "Utility Coin",
+                    "FullName": "Utility Coin (UTIL)",
+                    "ImageUrl": "\/media\/20067\/util.png",
+                    "Url": "\/coins\/util\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 667139,
+                    "Name": "Litecoin Plus",
+                    "FullName": "Litecoin Plus (LCP)",
+                    "ImageUrl": "\/media\/20780774\/lcp.png",
+                    "Url": "\/coins\/lcp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 235221,
+                    "Name": "BeckSang",
+                    "FullName": "BeckSang (ARI*)",
+                    "ImageUrl": "\/media\/9350704\/ari.png",
+                    "Url": "\/coins\/aristar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4421,
+                    "Name": "ConcealCoin",
+                    "FullName": "ConcealCoin (CNL)",
+                    "ImageUrl": "\/media\/20024\/cnl.png",
+                    "Url": "\/coins\/cnl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 536278,
+                    "Name": "Luxmi Coin",
+                    "FullName": "Luxmi Coin (LUX**)",
+                    "ImageUrl": "\/media\/16746739\/lux.png",
+                    "Url": "\/coins\/luxstarstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 675692,
+                    "Name": "Setcoin",
+                    "FullName": "Setcoin (SET)",
+                    "ImageUrl": "\/media\/20780787\/set.png",
+                    "Url": "\/coins\/set\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 675359,
+                    "Name": "Jinn",
+                    "FullName": "Jinn (JINN)",
+                    "ImageUrl": "\/media\/20780786\/jinn.png",
+                    "Url": "\/coins\/jinn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 676163,
+                    "Name": "Gainer",
+                    "FullName": "Gainer (GNR)",
+                    "ImageUrl": "\/media\/20780791\/gnr.png",
+                    "Url": "\/coins\/gnr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 659973,
+                    "Name": "Energo",
+                    "FullName": "Energo (TSL)",
+                    "ImageUrl": "\/media\/20780749\/tsl.png",
+                    "Url": "\/coins\/tsl\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "PageViewsSplit": {
+                "Overview": 9,
+                "Markets": 1,
+                "Analysis": 0,
+                "Charts": 0,
+                "Trades": 0,
+                "Orderbook": 0,
+                "Forum": 0,
+                "Influence": 0
+            },
+            "PageViews": 10
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1512889155",
+                    "open_total_issues": "0",
+                    "fork": "true",
+                    "parent": {
+                        "Name": "PIVX",
+                        "Url": "https:\/\/github.com\/PIVX-Project\/PIVX",
+                        "InternalId": -1
+                    },
+                    "size": "105320",
+                    "last_push": "1512894012",
+                    "closed_total_issues": "0",
+                    "stars": 3,
+                    "source": {
+                        "Name": "bitcoin",
+                        "Url": "https:\/\/github.com\/bitcoin\/bitcoin",
+                        "InternalId": -1
+                    },
+                    "last_update": "1515532268",
+                    "open_pull_issues": "0",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/MagnaCoinProject\/MagnaCoin",
+                    "closed_issues": "0",
+                    "language": "C++",
+                    "subscribers": 3,
+                    "open_issues": "0",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 14
+        }
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GRS",
+            "CoinName": "Groestlcoin ",
+            "Type": "Webpagecoinp",
+            "Points": 83302
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4618,
+                    "Name": "SysCoin",
+                    "FullName": "SysCoin (SYS)",
+                    "ImageUrl": "\/media\/20062\/sys.png",
+                    "Url": "\/coins\/sys\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4587,
+                    "Name": "PotCoin",
+                    "FullName": "PotCoin (POT)",
+                    "ImageUrl": "\/media\/19865\/pot.png",
+                    "Url": "\/coins\/pot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 177175,
+                    "Name": "district0x",
+                    "FullName": "district0x (DNT)",
+                    "ImageUrl": "\/media\/1383701\/dnt.png",
+                    "Url": "\/coins\/dnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 138642,
+                    "Name": "AventCoin",
+                    "FullName": "AventCoin (AVT)",
+                    "ImageUrl": "\/media\/1383599\/avt.png",
+                    "Url": "\/coins\/avt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4339,
+                    "Name": "BlackCoin",
+                    "FullName": "BlackCoin (BLK)",
+                    "ImageUrl": "\/media\/351795\/blk.png",
+                    "Url": "\/coins\/blk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 328639,
+                    "Name": "Metaverse",
+                    "FullName": "Metaverse (ETP)",
+                    "ImageUrl": "\/media\/12318223\/etp.png",
+                    "Url": "\/coins\/etp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32544,
+                    "Name": "ZClassic",
+                    "FullName": "ZClassic (ZCL)",
+                    "ImageUrl": "\/media\/351926\/zcl.png",
+                    "Url": "\/coins\/zcl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25921,
+                    "Name": "Iconomi",
+                    "FullName": "Iconomi (ICN)",
+                    "ImageUrl": "\/media\/351400\/icn.png",
+                    "Url": "\/coins\/icn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 283116,
+                    "Name": "Enjin Coin",
+                    "FullName": "Enjin Coin (ENJ)",
+                    "ImageUrl": "\/media\/11417639\/enjt.png",
+                    "Url": "\/coins\/enj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 180678,
+                    "Name": "DIMCOIN",
+                    "FullName": "DIMCOIN (DIM)",
+                    "ImageUrl": "\/media\/1383761\/dim.png",
+                    "Url": "\/coins\/dim\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 673862,
+                    "Name": "webpok",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673862\/835a28d2-0be1-4eb5-bf96-3656fd567290.jpg",
+                    "Url": "\/profile\/webpok\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 669748,
+                    "Name": "carlaydayton",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/669748\/863047eb-30bc-406d-bade-d72618e84811.jpg",
+                    "Url": "\/profile\/carlaydayton\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676836,
+                    "Name": "profprince21",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676836\/e9783d7a-ea39-4147-9fa1-b274b16099b2.jpg",
+                    "Url": "\/profile\/profprince21\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674596,
+                    "Name": "ohodsker",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674596\/b689bec5-b7cd-41ab-b240-c1f6d73abfa2.jpg",
+                    "Url": "\/profile\/ohodsker\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 578282,
+                    "Name": "daniel.02.200",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/578282\/b1bd0d50-8ef3-4df6-8201-473ac5b07916.jpg",
+                    "Url": "\/profile\/daniel.02.200\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634177,
+                    "Name": "darren365",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634177\/f4310fe7-786c-42e5-881a-e46e9970a2d5.jpg",
+                    "Url": "\/profile\/darren365\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 338355,
+                    "Name": "vinnycash",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/338355\/7b0c38e7-25f8-4af2-b31d-582950d097ee.png",
+                    "Url": "\/profile\/vinnycash\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 482632,
+                    "Name": "E007A398",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/482632\/8eb55d74-59f3-4735-b338-1199e20ff311.jpg",
+                    "Url": "\/profile\/E007A398\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 665044,
+                    "Name": "joshow232",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/665044\/a220de00-9d23-490c-b11f-4bf7f0bf6abc.jpg",
+                    "Url": "\/profile\/joshow232\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 550951,
+                    "Name": "blakeclarity",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/550951\/67141d2f-bf88-44ca-bbef-0a33671f7920.jpg",
+                    "Url": "\/profile\/blakeclarity\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 312058,
+                    "Name": "6EDA0D9F",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/312058\/5f2415d7-1a57-4542-a286-746448f5e5ed.jpg",
+                    "Url": "\/profile\/6EDA0D9F\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 13055,
+            "Followers": 444,
+            "Posts": "59",
+            "Comments": "48",
+            "PageViewsSplit": {
+                "Overview": 45350,
+                "Markets": 1830,
+                "Analysis": 1046,
+                "Charts": 4421,
+                "Trades": 1226,
+                "Orderbook": 215,
+                "Forum": 3673,
+                "Influence": 445
+            },
+            "PageViews": 58206
+        },
+        "Twitter": {
+            "following": "216",
+            "account_creation": "1396516018",
+            "name": "Groestlcoin (GRS)",
+            "lists": 307,
+            "statuses": 2436,
+            "favourites": "6184",
+            "followers": 63036,
+            "link": "https:\/\/twitter.com\/GroestlcoinTeam",
+            "Points": 64573
+        },
+        "Reddit": {
+            "posts_per_hour": "0.21",
+            "comments_per_hour": "1.10",
+            "posts_per_day": "5.10",
+            "comments_per_day": 26.41,
+            "name": "groestlcoin",
+            "link": "https:\/\/www.reddit.com\/r\/groestlcoin\/",
+            "active_users": 256,
+            "community_creation": "1396537819",
+            "subscribers": 4782,
+            "Points": 5602
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1437145836",
+                    "open_total_issues": "1",
+                    "parent": {
+                        "InternalId": 1182,
+                        "Name": "bitcoin",
+                        "Url": "https:\/\/github.com\/bitcoin\/bitcoin",
+                        "InternalData": {
+                            "Id": 1182,
+                            "Name": "Bitcoin",
+                            "Symbol": "BTC",
+                            "ImageUrl": "\/media\/19633\/btc.png",
+                            "Type": "Webpagecoinp",
+                            "Url": "\/coins\/btc\/"
+                        }
+                    },
+                    "size": "51619",
+                    "closed_total_issues": "7",
+                    "stars": 13,
+                    "last_update": "1515880699",
+                    "forks": 9,
+                    "url": "https:\/\/github.com\/Groestlcoin\/groestlcoin",
+                    "closed_issues": "7",
+                    "closed_pull_issues": "0",
+                    "fork": "true",
+                    "last_push": "1515363952",
+                    "source": {
+                        "InternalId": 1182,
+                        "Name": "bitcoin",
+                        "Url": "https:\/\/github.com\/bitcoin\/bitcoin",
+                        "InternalData": {
+                            "Id": 1182,
+                            "Name": "Bitcoin",
+                            "Symbol": "BTC",
+                            "ImageUrl": "\/media\/19633\/btc.png",
+                            "Type": "Webpagecoinp",
+                            "Url": "\/coins\/btc\/"
+                        }
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 12,
+                    "open_issues": "1"
+                }
+            ],
+            "Points": 67
+        }
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "DRGN",
+            "CoinName": "Dragonchain",
+            "Type": "Webpagecoinp",
+            "Points": 11334
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 204716,
+                    "Name": "Stox",
+                    "FullName": "Stox (STX)",
+                    "ImageUrl": "\/media\/1383946\/stx.png",
+                    "Url": "\/coins\/stx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338070,
+                    "Name": "Cindicator",
+                    "FullName": "Cindicator (CND)",
+                    "ImageUrl": "\/media\/12318283\/cnd.png",
+                    "Url": "\/coins\/cnd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 310297,
+                    "Name": "Eidoo",
+                    "FullName": "Eidoo (EDO)",
+                    "ImageUrl": "\/media\/12318082\/eiboo.png",
+                    "Url": "\/coins\/edo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 220204,
+                    "Name": "Agrello Delta",
+                    "FullName": "Agrello Delta (DLT)",
+                    "ImageUrl": "\/media\/1384001\/delta.png",
+                    "Url": "\/coins\/dlt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 84752,
+                    "Name": "HTML Coin",
+                    "FullName": "HTML Coin (HTML5)",
+                    "ImageUrl": "\/media\/1383327\/html5.png",
+                    "Url": "\/coins\/html5\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 240322,
+                    "Name": "GoldMint",
+                    "FullName": "GoldMint (MNT)",
+                    "ImageUrl": "\/media\/9350745\/mntp.png",
+                    "Url": "\/coins\/mnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 345420,
+                    "Name": "Revain",
+                    "FullName": "Revain (R)",
+                    "ImageUrl": "\/media\/12318360\/r.png",
+                    "Url": "\/coins\/r\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 175671,
+                    "Name": "Blocktix",
+                    "FullName": "Blocktix (TIX)",
+                    "ImageUrl": "\/media\/1383690\/tix.png",
+                    "Url": "\/coins\/tix\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 57481,
+                    "Name": "DubaiCoin",
+                    "FullName": "DubaiCoin (DBIX)",
+                    "ImageUrl": "\/media\/1382860\/dbix.png",
+                    "Url": "\/coins\/dbix\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45253,
+                    "Name": "Melon",
+                    "FullName": "Melon (MLN)",
+                    "ImageUrl": "\/media\/1382653\/mln.png",
+                    "Url": "\/coins\/mln\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 650900,
+                    "Name": "aquinastheory",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/650900\/70c93383-41d8-49f7-b0f7-ee2854455d86.png",
+                    "Url": "\/profile\/aquinastheory\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 308884,
+                    "Name": "dougreid",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/308884\/f0522c38-01ca-4af5-80c5-fe0219e1cbd2.jpg",
+                    "Url": "\/profile\/dougreid\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 603825,
+                    "Name": "mylongname",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/603825\/df478994-d6a6-4f24-807d-9f4798e97f7c.jpg",
+                    "Url": "\/profile\/mylongname\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634475,
+                    "Name": "samuelchaplin7",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634475\/7ec2afae-53fe-42e9-bb8c-2cfcb91739f8.jpg",
+                    "Url": "\/profile\/samuelchaplin7\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 543562,
+                    "Name": "ralphy80.mr",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/543562\/0146c403-4fb7-4109-8479-d2a93f31f46f.jpg",
+                    "Url": "\/profile\/ralphy80.mr\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674540,
+                    "Name": "cryptoboi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674540\/861428d8-1296-4cbe-a1c8-ad97deaca070.jpg",
+                    "Url": "\/profile\/cryptoboi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 652394,
+                    "Name": "WellSaidJuan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/652394\/299f9fe7-8adc-487a-8a37-146accc75eff.png",
+                    "Url": "\/profile\/WellSaidJuan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 652450,
+                    "Name": "jrumford",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/652450\/6b93f182-2984-4221-8ac7-a6ab4783a274.jpg",
+                    "Url": "\/profile\/jrumford\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 636770,
+                    "Name": "glennsutton09",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/636770\/6711c779-8780-4f8d-9b80-b0ead002edca.jpg",
+                    "Url": "\/profile\/glennsutton09\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 673040,
+                    "Name": "Stilobix",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673040\/b9721a3b-5488-412e-9e20-d6a5d36eef11.jpg",
+                    "Url": "\/profile\/Stilobix\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 10340,
+            "Posts": "47",
+            "Comments": "39",
+            "Followers": 351,
+            "PageViewsSplit": {
+                "Overview": 24897,
+                "Markets": 2435,
+                "Analysis": 772,
+                "Charts": 1768,
+                "Trades": 872,
+                "Orderbook": 0,
+                "Forum": 1892,
+                "Influence": 208
+            },
+            "PageViews": 32844
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1471846114",
+                    "open_total_issues": "51",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1514962618",
+                    "closed_total_issues": "105",
+                    "size": "649",
+                    "stars": 484,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1515959204",
+                    "open_pull_issues": "7",
+                    "forks": 105,
+                    "url": "https:\/\/github.com\/dragonchain\/dragonchain",
+                    "closed_issues": "48",
+                    "open_issues": "44",
+                    "subscribers": 99,
+                    "language": "Python",
+                    "closed_pull_issues": "57"
+                }
+            ],
+            "Points": 991
+        }
+    }
+}

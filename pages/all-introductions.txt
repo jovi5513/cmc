@@ -1,0 +1,7 @@
+---
+layout: null
+permalink: "/backend/all-introductions.txt"
+---
+{% assign introductions = (site.introductions | sort: "sort_order") %}
+{% for intro in introductions %}
+{{intro.title}}	{{site.url}}{{intro.url}}	{{site.url}}en/{{intro.title | slugify }}/	https://github.com/imsamthomas/crypto-project/edit/master/shell/_source/coins/{{intro.title}}/coinSnapshotFullInfo_MetaData.json{% endfor %}

@@ -1,0 +1,169 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "OMC",
+            "CoinName": "OmniCron",
+            "Type": "Webpagecoinp",
+            "Points": 1227
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5033,
+                    "Name": "XXXCoin",
+                    "FullName": "XXXCoin (XXX)",
+                    "ImageUrl": "\/media\/350617\/xxx.png",
+                    "Url": "\/coins\/xxx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 301150,
+                    "Name": "ToTheMoon",
+                    "FullName": "ToTheMoon (TMT)",
+                    "ImageUrl": "\/media\/12317977\/tmt.png",
+                    "Url": "\/coins\/tmt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34487,
+                    "Name": "DeltaCredits",
+                    "FullName": "DeltaCredits (DCRE)",
+                    "ImageUrl": "\/media\/352128\/dcre.png",
+                    "Url": "\/coins\/dcre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4603,
+                    "Name": "ShieldCoin",
+                    "FullName": "ShieldCoin (SHLD)",
+                    "ImageUrl": "\/media\/19904\/shld.png",
+                    "Url": "\/coins\/shld\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 625458,
+                    "Name": "Footy Cash",
+                    "FullName": "Footy Cash (XFT)",
+                    "ImageUrl": "\/media\/20780662\/xft.png",
+                    "Url": "\/coins\/xft\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5297,
+                    "Name": "SolarFarm",
+                    "FullName": "SolarFarm (CELL)",
+                    "ImageUrl": "\/media\/20227\/cell.png",
+                    "Url": "\/coins\/cell\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35027,
+                    "Name": "SeedShares",
+                    "FullName": "SeedShares (SEEDS)",
+                    "ImageUrl": "\/media\/352190\/seeds.png",
+                    "Url": "\/coins\/seeds\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 237385,
+                    "Name": "Sojourn Coin",
+                    "FullName": "Sojourn Coin (SOJ)",
+                    "ImageUrl": "\/media\/9350725\/soj.png",
+                    "Url": "\/coins\/soj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22212,
+                    "Name": "VIP Tokens",
+                    "FullName": "VIP Tokens (VIP)",
+                    "ImageUrl": "\/media\/351069\/vip.png",
+                    "Url": "\/coins\/vip\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 78190,
+                    "Name": "RiceCoin",
+                    "FullName": "RiceCoin (RICE)",
+                    "ImageUrl": "\/media\/1383245\/rice.png",
+                    "Url": "\/coins\/rice\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 67873,
+                    "Name": "klymacks",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/67873\/5f5a8101-7cc2-4ca1-aa8c-7782472922e1.png",
+                    "Url": "\/profile\/klymacks\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 398608,
+                    "Name": "domovoy1469",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/398608\/b90f941b-97d5-4d6a-a704-3f3b6cab315a.jpg",
+                    "Url": "\/profile\/domovoy1469\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 230229,
+                    "Name": "paulocrocha88",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/230229\/ba0ecdf7-398d-4a7a-8f33-4522b4713728.jpg",
+                    "Url": "\/profile\/paulocrocha88\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 165168,
+                    "Name": "mirzap",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/165168\/e4ce9d49-b0e4-4fc4-aa0c-8cf4c8c22fab.jpg",
+                    "Url": "\/profile\/mirzap\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 738,
+                "Markets": 50,
+                "Analysis": 35,
+                "Charts": 46,
+                "Trades": 45,
+                "Orderbook": 0,
+                "Forum": 42,
+                "Influence": 33
+            },
+            "PageViews": 989
+        },
+        "Twitter": {
+            "favourites": "97",
+            "lists": 20,
+            "name": "Adam Trat",
+            "statuses": 235,
+            "followers": 1002,
+            "following": "71",
+            "account_creation": "1379262949",
+            "link": "https:\/\/twitter.com\/gladimorcrypto",
+            "Points": 1102
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "LSK",
+            "CoinName": "Lisk",
+            "Type": "Webpagecoinp",
+            "Points": 343861
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 187440,
+                    "Name": "OmiseGo",
+                    "FullName": "OmiseGo (OMG)",
+                    "ImageUrl": "\/media\/1383814\/omisego.png",
+                    "Url": "\/coins\/omg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 321992,
+                    "Name": "Cardano",
+                    "FullName": "Cardano (ADA)",
+                    "ImageUrl": "\/media\/12318177\/ada.png",
+                    "Url": "\/coins\/ada\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5280,
+                    "Name": "ByteCoin",
+                    "FullName": "ByteCoin (BCN)",
+                    "ImageUrl": "\/media\/12318404\/bcn.png",
+                    "Url": "\/coins\/bcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 13072,
+                    "Name": "Siacoin",
+                    "FullName": "Siacoin (SC)",
+                    "ImageUrl": "\/media\/20726\/siacon-logo.png",
+                    "Url": "\/coins\/sc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 1183,
+                    "Name": "Nxt",
+                    "FullName": "Nxt (NXT)",
+                    "ImageUrl": "\/media\/20627\/nxt.png",
+                    "Url": "\/coins\/nxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33022,
+                    "Name": "Golem Network Token",
+                    "FullName": "Golem Network Token (GNT)",
+                    "ImageUrl": "\/media\/351995\/golem_logo.png",
+                    "Url": "\/coins\/gnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 213532,
+                    "Name": "Gas",
+                    "FullName": "Gas (GAS)",
+                    "ImageUrl": "\/media\/1383858\/neo.jpg",
+                    "Url": "\/coins\/gas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5285,
+                    "Name": "NEM",
+                    "FullName": "NEM (XEM)",
+                    "ImageUrl": "\/media\/20490\/xem.png",
+                    "Url": "\/coins\/xem\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24294,
+                    "Name": "Stratis",
+                    "FullName": "Stratis (STRAT)",
+                    "ImageUrl": "\/media\/351303\/stratis-logo.png",
+                    "Url": "\/coins\/strat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 204788,
+                    "Name": "Binance Coin",
+                    "FullName": "Binance Coin (BNB)",
+                    "ImageUrl": "\/media\/1383947\/bnb.png",
+                    "Url": "\/coins\/bnb\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 595792,
+                    "Name": "popdanieljames",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/595792\/6d05e8b2-da89-4620-8e7c-bf032871bb2d.jpg",
+                    "Url": "\/profile\/popdanieljames\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 675406,
+                    "Name": "xskendeg",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675406\/bc2f3f27-4fcf-4e57-b738-1c482f1f8907.jpg",
+                    "Url": "\/profile\/xskendeg\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670606,
+                    "Name": "jaramosiii35",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670606\/22dad5ca-3937-44f7-968e-d86c9fd3be30.jpg",
+                    "Url": "\/profile\/jaramosiii35\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 420742,
+                    "Name": "luismufe",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/420742\/0f3becfa-6c08-4e4e-802c-eb44222f1eac.jpg",
+                    "Url": "\/profile\/luismufe\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 655354,
+                    "Name": "Gully",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/655354\/2dcd4a95-1569-4548-a6ab-1c538773edc0.jpg",
+                    "Url": "\/profile\/Gully\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 180300,
+                    "Name": "kapklam",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/180300\/8ce7a807-d01b-49af-a3cd-42ea45c5d57a.jpg",
+                    "Url": "\/profile\/kapklam\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 673572,
+                    "Name": "greg.ys.chang",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673572\/a297b65a-10c2-4f0e-9d2f-183b3a73b873.jpg",
+                    "Url": "\/profile\/greg.ys.chang\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 239235,
+                    "Name": "7ADF4DD",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/239235\/e27b0409-a52d-4de4-8f88-11ab66044c39.jpg",
+                    "Url": "\/profile\/7ADF4DD\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 321631,
+                    "Name": "maurosimas",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/321631\/090f8eeb-2238-400f-ace8-ad00783d80ec.jpg",
+                    "Url": "\/profile\/maurosimas\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 362814,
+                    "Name": "Stumyza",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/362814\/5d088101-b37d-4c0c-b895-68bce8a0f782.jpg",
+                    "Url": "\/profile\/Stumyza\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3210,
+            "Posts": "344",
+            "Comments": "482",
+            "Points": 93670,
+            "PageViewsSplit": {
+                "Overview": 255705,
+                "Markets": 12530,
+                "Analysis": 5456,
+                "Charts": 41602,
+                "Trades": 7321,
+                "Orderbook": 1195,
+                "Forum": 34394,
+                "Influence": 1631
+            },
+            "PageViews": 359834
+        },
+        "Twitter": {
+            "favourites": "3264",
+            "statuses": 1368,
+            "following": "258",
+            "account_creation": "1452184928",
+            "name": "Lisk",
+            "link": "https:\/\/twitter.com\/LiskHQ ",
+            "lists": 1775,
+            "followers": 181678,
+            "Points": 190554
+        },
+        "Reddit": {
+            "comments_per_hour": "6.47",
+            "comments_per_day": 155.2,
+            "link": "https:\/\/www.reddit.com\/r\/Lisk\/",
+            "posts_per_day": "13.46",
+            "active_users": 2668,
+            "subscribers": 24247,
+            "posts_per_hour": "0.56",
+            "community_creation": "1452185360",
+            "name": "Lisk",
+            "Points": 32561
+        },
+        "Facebook": {
+            "likes": 24221,
+            "name": "Lisk",
+            "link": "https:\/\/www.facebook.com\/LiskHQ\/",
+            "talking_about": "1046",
+            "is_closed": "false",
+            "Points": 24221
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1515919953",
+                    "url": "https:\/\/github.com\/LiskHQ\/lisk",
+                    "subscribers": 209,
+                    "size": "10725",
+                    "created_at": "1454363135",
+                    "open_pull_issues": "5",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "JavaScript",
+                    "open_total_issues": "105",
+                    "stars": 1719,
+                    "forks": 237,
+                    "closed_total_issues": "1195",
+                    "closed_pull_issues": "515",
+                    "open_issues": "100",
+                    "closed_issues": "680",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1515851848"
+                }
+            ],
+            "Points": 2820
+        }
+    }
+}

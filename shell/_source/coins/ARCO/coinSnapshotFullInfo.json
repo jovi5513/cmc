@@ -1,0 +1,85 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "AquariusCoin (ARCO) - Live streaming prices and market cap",
+            "PageDescription": "Live AquariusCoin prices from all markets and ARCO coin market Capitalization. Stay up to date with the latest AquariusCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/352134\/arco.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "34506",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "AquariusCoin (ARCO)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ARCO",
+            "Url": "\/coins\/arco\/",
+            "BaseAngularUrl": "\/coins\/arco\/",
+            "Name": "AquariusCoin",
+            "ImageUrl": "\/media\/352134\/arco.png",
+            "Description": "<p>AquariusCoin is a PoW\/PoS cryptocurrency, currently in the Proof of Stake phase. It uses the Scrypt algorithm and has a 64 second block time.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "42000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "19\/02\/2016",
+            "Twitter": "@ArcCoin",
+            "AffiliateUrl": "https:\/\/aquariuscoin.com\/",
+            "Website": "<a href='https:\/\/aquariuscoin.com\/' target='_blank'>AquariusCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515952025,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 989813,
+            "BlockTime": 64,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 1546720.9247316,
+            "PreviousTotalCoinsMined": 1546713.5818251,
+            "BlockReward": 1.0966590839904
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~ARCO~BTC",
+            "2~Cryptopia~ARCO~DOGE",
+            "2~Cryptopia~ARCO~DOT",
+            "2~Yobit~ARCO~RUR",
+            "2~Yobit~ARCO~DOGE",
+            "2~Cryptopia~ARCO~UNO",
+            "2~Cryptopia~ARCO~XMR",
+            "2~Cryptopia~ARCO~FTC",
+            "2~Yobit~ARCO~USD",
+            "2~Yobit~ARCO~WAVES",
+            "2~Cryptopia~ARCO~BTC",
+            "2~Cryptopia~ARCO~LTC",
+            "2~Yobit~ARCO~ETH"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ARCO~BTC~4~0.00003495~1515951410~111.38863503~0.0038986~1515951410.001~4140.686693459998~0.15551738963933986~6311.72961239~0.23956308684748095~0.00003062~0.00004099~0.00002168~0.00003952~0.00004159~0.00003495~Cryptopia~7ffe9",
+            "5~CCCAGG~ARCO~DOGE~4~10.00000005~1515362729~6~60.0000003~181770929~0~0~0~0~10~10.00000005~10~10.00000005~10.00000005~10.00000005~Yobit~7ffe9",
+            "5~CCCAGG~ARCO~DOT~4~15.19300003~1489097456~49.20914774~747.634583~1489097456~0~0~0~0~15.19300003~15.19300003~15.19300003~15.19300003~15.19300003~15.19300003~Cryptopia~7ffe9",
+            "5~CCCAGG~ARCO~RUR~4~69~1515597234~0.28571429~19.71428601~183592966~0~0~0~0~69~69~69~69~69~69~Yobit~7ffe9",
+            "5~CCCAGG~ARCO~UNO~4~0.00061001~1497379809~0.52122~0.00031795~1497379809~0~0~0~0~0.00061001~0.00061001~0.00061001~0.00061001~0.00061001~0.00061001~Cryptopia~7ffe9",
+            "5~CCCAGG~ARCO~XMR~4~0.00001829~1486694823~36.33554265~0.000665~1486694823~0~0~0~0~0.00001829~0.00001829~0.00001829~0.00001829~0.00001829~0.00001829~Cryptopia~7ffe9",
+            "5~CCCAGG~ARCO~FTC~4~2.99999999~1489099380~23.95138305~71.854149~1489099380.001~0~0~0~0~2.99999999~2.99999999~2.99999999~2.99999999~2.99999999~2.99999999~Cryptopia~7ffe9",
+            "5~CCCAGG~ARCO~USD~4~1.3998~1515599017~1~1.3998~183608253~0~0~0~0~1.4~1.4~1.3998~1.3998~1.3998~1.3998~Yobit~7ffe9",
+            "5~CCCAGG~ARCO~WAVES~4~0.041~1511287136~0.01582~0.00064862~161085894~0~0~0~0~0.041~0.041~0.041~0.041~0.041~0.041~Yobit~7ffe9",
+            "5~CCCAGG~ARCO~LTC~4~0.00145999~1515044575~10~0.0145999~1515044575~0~0~0~0~0.00146~0.00146~0.00145999~0.00145999~0.00145999~0.00145999~Cryptopia~7ffe9",
+            "5~CCCAGG~ARCO~ETH~4~0.0034~1515551017~1~0.0034~183252964~0~0~0~0~0.0034~0.0034~0.0034~0.0034~0.0034~0.0034~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

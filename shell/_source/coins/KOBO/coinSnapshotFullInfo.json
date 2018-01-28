@@ -1,0 +1,92 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "KoboCoin (KOBO) - Live streaming prices and market cap",
+            "PageDescription": "Live KoboCoin prices from all markets and KOBO coin market Capitalization. Stay up to date with the latest KoboCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20329\/kobo.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "3642",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "KoboCoin (KOBO)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "KOBO",
+            "Url": "\/coins\/kobo\/",
+            "BaseAngularUrl": "\/coins\/kobo\/",
+            "Name": "KoboCoin",
+            "ImageUrl": "\/media\/20329\/kobo.png",
+            "Description": "<p>Kobocoin is a digital currency and payment system similar to Bitcoin, with an African heritage. All nodes verify transactions in a public distributed ledger calledthe blockchain. The ledger uses its own unit of account, also called KoboCoin(s). KOBO can be sent to anyone in the world for small fees and almost instantly and\u00a0can also\u00a0be used for Micropayments.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "350000000",
+            "Algorithm": "X15",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "11\/09\/2014",
+            "Twitter": "@kobocoindev",
+            "AffiliateUrl": "http:\/\/kobocoin.com",
+            "Website": "<a href='http:\/\/kobocoin.com' target='_blank'>KoboCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515948196,
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": 1468806,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 24897799.151096,
+            "PreviousTotalCoinsMined": 24897792.340791,
+            "BlockReward": 0.73605320602655
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~KOBO~UNO",
+            "2~Cryptopia~KOBO~LTC",
+            "2~Cryptopia~KOBO~DOT",
+            "2~Novaexchange~KOBO~DOGE",
+            "2~Novaexchange~KOBO~ETH",
+            "2~Cryptopia~KOBO~BTC",
+            "2~Yobit~KOBO~RUR",
+            "2~Yobit~KOBO~DOGE",
+            "2~Cryptopia~KOBO~DOGE",
+            "2~Cryptopia~KOBO~FTC",
+            "2~Yobit~KOBO~WAVES",
+            "2~Novaexchange~KOBO~ESP2",
+            "2~Yobit~KOBO~BTC",
+            "2~Novaexchange~KOBO~BTC",
+            "2~BitTrex~KOBO~BTC",
+            "2~CCEX~KOBO~BTC",
+            "2~Cryptopia~KOBO~XMR",
+            "2~Yobit~KOBO~USD",
+            "2~Yobit~KOBO~ETH"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~KOBO~UNO~4~0.00010001~1496542211~3.21~0.00032103~1496542211~0~0~0~0~0.00010001~0.00010001~0.00010001~0.00010001~0.00010001~0.00010001~Cryptopia~7ffe9",
+            "5~CCCAGG~KOBO~LTC~4~0.00038967~1515187617~1023.35115573~0.39876924~1515187617~0~0~0~0~0.0003897~0.0003897~0.00038967~0.00038967~0.00038967~0.00038967~Cryptopia~7ffe9",
+            "5~CCCAGG~KOBO~DOT~4~1.00000001~1487200953~0.1~0.1~1487200953~0~0~0~0~1.00000001~1.00000001~1.00000001~1.00000001~1.00000001~1.00000001~Cryptopia~7ffe9",
+            "5~CCCAGG~KOBO~DOGE~4~10~1515902513~2.60302481~26.030248073969748~200000007~141.70579924~373.78720223233046~141.70579924~373.7872022323307~2.5~10~2.5~2.5~10~2.5~Yobit~7ffe9",
+            "5~CCCAGG~KOBO~ETH~4~0.00000361~1515825693~34.49060201~0.00012451107325610003~184314240~0~0~0~0~0.00000361~0.00000361~0.00000361~0.00000361~0.00000361~0.00000361~Yobit~7ffe9",
+            "5~CCCAGG~KOBO~BTC~4~0.00000564~1515948150~21.91588765~0.00010936027937349998~200000215~28470.317546399994~0.15464723797073537~71502.42302046~0.4045841025125569~0.00000821~0.00000821~0.00000407~0.00000568~0.00000592~0.00000442~Yobit~7ffe9",
+            "5~CCCAGG~KOBO~RUR~4~0.9111~1515938592~0.15000002~0.13666801822240002~200000023~1.91525002~4.96480354464615~1.91525002~4.96480354464615~0.91~8.81~0.91~0.9111~8.81~0.9111~Yobit~7ffe9",
+            "5~CCCAGG~KOBO~FTC~4~0.328~1485643124~0.88724989~0.291018~1485643124.004~0~0~0~0~0.328~0.328~0.328~0.328~0.328~0.328~Cryptopia~7ffe9",
+            "5~CCCAGG~KOBO~WAVES~4~0.00035021~1515773477~0.36~0.0001260756~200000000~0~0~0~0~0.00035021~0.00035021~0.00035021~0.00035021~0.00035021~0.00035021~Yobit~7ffe9",
+            "5~CCCAGG~KOBO~ESP2~4~10.00000005~1502951999~0.09~0.9000000045000001~1502951999001~0~0~0~0~10.00000005~10.00000005~10.00000005~10.00000005~10.00000005~10.00000005~Novaexchange~7ffe9",
+            "5~CCCAGG~KOBO~XMR~4~0.000185~1488072370~5.12379982~0.000948~1488072370~0~0~0~0~0.000185~0.000185~0.000185~0.000185~0.000185~0.000185~Cryptopia~7ffe9",
+            "5~CCCAGG~KOBO~USD~2~0.033~1515940647~60.60229591~2.0000006057595745~200000007~60.60229591~2.0000006057595745~60.60229591~2.0000006057595745~0.123~0.123~0.033~0.033~0.033~0.033~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,182 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "RIPO",
+            "CoinName": "RipOffCoin",
+            "Type": "Webpagecoinp",
+            "Points": 2057
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5382,
+                    "Name": "SlimCoin",
+                    "FullName": "SlimCoin (SLM)",
+                    "ImageUrl": "\/media\/20426\/slm.png",
+                    "Url": "\/coins\/slm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34493,
+                    "Name": "PLNCoin",
+                    "FullName": "PLNCoin (PLNC)",
+                    "ImageUrl": "\/media\/352131\/plnc.png",
+                    "Url": "\/coins\/plnc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4609,
+                    "Name": "Spots",
+                    "FullName": "Spots (SPT)",
+                    "ImageUrl": "\/media\/19917\/spt.png",
+                    "Url": "\/coins\/spt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38026,
+                    "Name": "Avatar Coin",
+                    "FullName": "Avatar Coin (AV)",
+                    "ImageUrl": "\/media\/1382048\/av.png",
+                    "Url": "\/coins\/av\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21708,
+                    "Name": "Fuzzballs",
+                    "FullName": "Fuzzballs (FUZZ)",
+                    "ImageUrl": "\/media\/351025\/fuzz.png",
+                    "Url": "\/coins\/fuzz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3655,
+                    "Name": "DogeParty",
+                    "FullName": "DogeParty (XDP)",
+                    "ImageUrl": "\/media\/20560\/xdp.png",
+                    "Url": "\/coins\/xdp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 379232,
+                    "Name": "Confido",
+                    "FullName": "Confido (CFD)",
+                    "ImageUrl": "\/media\/14913552\/cfd.png",
+                    "Url": "\/coins\/cfd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 222125,
+                    "Name": "Prospectors",
+                    "FullName": "Prospectors (PGL)",
+                    "ImageUrl": "\/media\/1384018\/pgl.png",
+                    "Url": "\/coins\/pgl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28021,
+                    "Name": "bitUSD",
+                    "FullName": "bitUSD (BITUSD)",
+                    "ImageUrl": "\/media\/351491\/bitusd.png",
+                    "Url": "\/coins\/bitusd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 12985,
+                    "Name": "Paycon",
+                    "FullName": "Paycon (CON)",
+                    "ImageUrl": "\/media\/20717\/con_.png",
+                    "Url": "\/coins\/con_\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 482519,
+                    "Name": "smetanin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/482519\/2288a95f-d236-4560-bee3-a3ce7dcbfd07.jpg",
+                    "Url": "\/profile\/smetanin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 415469,
+                    "Name": "rizqallahbarrimo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/415469\/0c20ca85-90ce-4be2-bbfc-180c3ab94cc3.jpg",
+                    "Url": "\/profile\/rizqallahbarrimo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 65541,
+                    "Name": "charityfundplus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/65541\/2afef154-f545-4a05-8606-357f07289b07.jpg",
+                    "Url": "\/profile\/charityfundplus\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 62955,
+                    "Name": "peter.bayer654",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/62955\/57b11389-4c4b-4f54-bc4c-af7f026092ff.jpg",
+                    "Url": "\/profile\/peter.bayer654\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 53954,
+                    "Name": "baallajaouad",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/53954\/f8131a40-c408-4b60-aab7-de60468d2d35.jpg",
+                    "Url": "\/profile\/baallajaouad\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 12283,
+                    "Name": "ninestakfa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/12283\/aab813a7-a7d4-4d9b-90b0-a9f6b05072c2.jpg",
+                    "Url": "\/profile\/ninestakfa\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 7,
+            "Points": 175,
+            "PageViewsSplit": {
+                "Overview": 748,
+                "Markets": 21,
+                "Analysis": 23,
+                "Charts": 44,
+                "Trades": 69,
+                "Orderbook": 1,
+                "Forum": 36,
+                "Influence": 21
+            },
+            "PageViews": 963
+        },
+        "Twitter": {
+            "followers": 1842,
+            "following": "605",
+            "lists": 8,
+            "favourites": "34",
+            "statuses": 962,
+            "account_creation": "1406480283",
+            "name": "Marty McRip",
+            "link": "https:\/\/twitter.com\/RipoffCoin",
+            "Points": 1882
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

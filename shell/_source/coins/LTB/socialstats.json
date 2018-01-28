@@ -1,0 +1,211 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "LTB",
+            "CoinName": "Litebar ",
+            "Type": "Webpagecoinp",
+            "Points": 901
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 42843,
+                    "Name": "BitzCoin",
+                    "FullName": "BitzCoin (BTZ)",
+                    "ImageUrl": "\/media\/1382433\/btz.png",
+                    "Url": "\/coins\/btz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4399,
+                    "Name": "BitBar",
+                    "FullName": "BitBar (BTB)",
+                    "ImageUrl": "\/media\/20083\/bitb.png",
+                    "Url": "\/coins\/btb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29374,
+                    "Name": "RCoin",
+                    "FullName": "RCoin (RCN*)",
+                    "ImageUrl": "\/media\/351634\/rcn.png",
+                    "Url": "\/coins\/rcnstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 382536,
+                    "Name": "Masari",
+                    "FullName": "Masari (MSR)",
+                    "ImageUrl": "\/media\/14913574\/msr.png",
+                    "Url": "\/coins\/msr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8767,
+                    "Name": "StarCoin",
+                    "FullName": "StarCoin (STR*)",
+                    "ImageUrl": "\/media\/19920\/str.png",
+                    "Url": "\/coins\/strstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5335,
+                    "Name": "JoinCoin",
+                    "FullName": "JoinCoin (J)",
+                    "ImageUrl": "\/media\/20350\/j.png",
+                    "Url": "\/coins\/j\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5399,
+                    "Name": "Ribbit Rewards",
+                    "FullName": "Ribbit Rewards (RBR)",
+                    "ImageUrl": "\/media\/20408\/rbr.png",
+                    "Url": "\/coins\/rbr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 108099,
+                    "Name": "F16Coin",
+                    "FullName": "F16Coin (F16)",
+                    "ImageUrl": "\/media\/1383372\/f16.png",
+                    "Url": "\/coins\/f16\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341400,
+                    "Name": "Aureus",
+                    "FullName": "Aureus (AURS)",
+                    "ImageUrl": "\/media\/12318345\/aurs.png",
+                    "Url": "\/coins\/aurs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45615,
+                    "Name": "TechShares",
+                    "FullName": "TechShares (THS)",
+                    "ImageUrl": "\/media\/1382660\/ths.png",
+                    "Url": "\/coins\/ths\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 381982,
+                    "Name": "svetlozar_kolev",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/381982\/0e43092a-95d1-4496-80c4-b1bb65d70de5.jpg",
+                    "Url": "\/profile\/svetlozar_kolev\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 380566,
+                    "Name": "scott_m2k",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/380566\/14f5c714-2c66-4e90-a314-0c6522681ba2.jpg",
+                    "Url": "\/profile\/scott_m2k\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 158465,
+                    "Name": "runejessen1988",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/158465\/e867494c-6c46-4145-a0a5-bb2490443315.jpg",
+                    "Url": "\/profile\/runejessen1988\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 203535,
+                    "Name": "jpmalot",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/203535\/6ee9c05d-aa35-45ef-b43f-68acb9cdd0d4.jpg",
+                    "Url": "\/profile\/jpmalot\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 296853,
+                    "Name": "gunestugla",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/296853\/f45a68e7-79d0-456b-99a9-36caa617ae20.jpg",
+                    "Url": "\/profile\/gunestugla\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 275309,
+                    "Name": "lipe.smo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/275309\/b1e00c8e-7c07-4552-9b3b-f9e0de41717a.jpg",
+                    "Url": "\/profile\/lipe.smo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 271848,
+                    "Name": "AdAstra",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/271848\/38fb1a63-54ac-4096-a04d-85e2b7b1e6a5.jpg",
+                    "Url": "\/profile\/AdAstra\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 273225,
+                    "Name": "davidwidmann",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/273225\/e3527d5f-a64c-44eb-a160-a79600cee96b.jpg",
+                    "Url": "\/profile\/davidwidmann\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 237979,
+                    "Name": "deepsx",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/237979\/677ccb46-cf94-4cd3-a612-14227ecda108.png",
+                    "Url": "\/profile\/deepsx\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 211433,
+                    "Name": "christian.kunz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/211433\/919685ee-8d88-4251-9916-08bbf23a8649.jpg",
+                    "Url": "\/profile\/christian.kunz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 273566,
+                    "Name": "fk1437",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/273566\/d9baa02d-2ba4-4b77-b8ce-7848fb949d4c.jpg",
+                    "Url": "\/profile\/fk1437\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 18,
+            "Points": 500,
+            "Posts": "2",
+            "PageViewsSplit": {
+                "Overview": 1355,
+                "Markets": 83,
+                "Analysis": 79,
+                "Charts": 111,
+                "Trades": 83,
+                "Orderbook": 2,
+                "Forum": 69,
+                "Influence": 32
+            },
+            "PageViews": 1814
+        },
+        "Twitter": {
+            "favourites": "3",
+            "lists": 9,
+            "name": "LiteBar",
+            "statuses": 404,
+            "followers": 356,
+            "following": "254",
+            "account_creation": "1392054560",
+            "link": "https:\/\/twitter.com\/litebarco",
+            "Points": 401
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

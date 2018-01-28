@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "EQM",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.0000044",
+            "LASTUPDATE": "1516026375",
+            "LASTVOLUME": "391.60636255",
+            "LASTVOLUMETO": "0.00172306799522",
+            "LASTTRADEID": "200000007",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "1245.07473588",
+            "VOLUME24HOURTO": "0.0054697941541387",
+            "OPENDAY": "0.0000044",
+            "HIGHDAY": "0.0000044",
+            "LOWDAY": "0.0000044",
+            "OPEN24HOUR": "0.00000439",
+            "HIGH24HOUR": "0.0000044",
+            "LOW24HOUR": "0.00000439",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "EQM",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00000105",
+                "LASTUPDATE": "1437234622",
+                "LASTVOLUME": "9039.5172356",
+                "LASTVOLUMETO": "0.00949149",
+                "LASTTRADEID": "49880",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000105",
+                "HIGH24HOUR": "0.00000105",
+                "LOW24HOUR": "0.00000105"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "EQM",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00000295",
+                "LASTUPDATE": "1445465961",
+                "LASTVOLUME": "9200.78644068",
+                "LASTVOLUMETO": "0.027142320000006",
+                "LASTTRADEID": "1445465961034",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000295",
+                "HIGH24HOUR": "0.00000295",
+                "LOW24HOUR": "0.00000295"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "EQM",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.0000044",
+                "LASTUPDATE": "1516026375",
+                "LASTVOLUME": "391.60636255",
+                "LASTVOLUMETO": "0.00172306799522",
+                "LASTTRADEID": "200000007",
+                "VOLUME24HOUR": "1245.07473588",
+                "VOLUME24HOURTO": "0.0054697941541387",
+                "OPEN24HOUR": "0.00000439",
+                "HIGH24HOUR": "0.0000044",
+                "LOW24HOUR": "0.00000439"
+            }
+        ]
+    },
+    "Type": 100
+}

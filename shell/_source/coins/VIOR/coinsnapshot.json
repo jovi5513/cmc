@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": "Scrypt",
+        "ProofType": "PoW\/PoS",
+        "BlockNumber": -1,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 0,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "VIOR",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000268",
+            "LASTUPDATE": "1474663026",
+            "LASTVOLUME": "6033.54299811",
+            "LASTVOLUMETO": "0.01616989",
+            "LASTTRADEID": "1848683",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.00000268",
+            "HIGHDAY": "0.00000268",
+            "LOWDAY": "0.00000268",
+            "OPEN24HOUR": "0.00000268",
+            "HIGH24HOUR": "0.00000268",
+            "LOW24HOUR": "0.00000268",
+            "LASTMARKET": "BitTrex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "VIOR",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00000268",
+                "LASTUPDATE": "1474663026",
+                "LASTVOLUME": "6033.54299811",
+                "LASTVOLUMETO": "0.01616989",
+                "LASTTRADEID": "1848683",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000268",
+                "HIGH24HOUR": "0.00000268",
+                "LOW24HOUR": "0.00000268"
+            }
+        ]
+    },
+    "Type": 100
+}

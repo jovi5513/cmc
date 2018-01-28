@@ -1,0 +1,86 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "LuckChain (BASH) - Live streaming prices and market cap",
+            "PageDescription": "Live LuckChain prices from all markets and BASH coin market Capitalization. Stay up to date with the latest LuckChain price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/352004\/bash.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "33129",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "LuckChain (BASH)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BASH",
+            "Url": "\/coins\/bash\/",
+            "BaseAngularUrl": "\/coins\/bash\/",
+            "Name": "LuckChain",
+            "ImageUrl": "\/media\/352004\/bash.png",
+            "Description": "<p>LuckChain is a Scrypt cryptocurrency that provides\u00a0a decentralized gaming platform on the\u00a0blockchain. Games include\u00a0Lucky 16, Lucky Odd Even, Lucky Big Small, Lucky Boss, Lucky Lotto and bet real events, you can bet anything in LuckChain.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "1000000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "01\/01\/0001",
+            "Twitter": "@LuckChain ",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926594,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 553393,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 715868298.82558,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~BASH~LTC",
+            "2~CCEX~BASH~LTC",
+            "2~Yobit~BASH~RUR",
+            "2~Novaexchange~BASH~ETH",
+            "2~Yobit~BASH~ETH",
+            "2~Novaexchange~BASH~ESP2",
+            "2~Novaexchange~BASH~DOGE",
+            "2~Yobit~BASH~WAVES",
+            "2~Novaexchange~BASH~BTC",
+            "2~Yobit~BASH~USD",
+            "2~CCEX~BASH~USD",
+            "2~Yobit~BASH~BTC",
+            "2~CCEX~BASH~BTC",
+            "2~Novaexchange~BASH~MOON",
+            "2~CCEX~BASH~DOGE",
+            "2~Yobit~BASH~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BASH~LTC~4~0.00000115~1513881058~712.87751277~0.0008198091396854999~1815167~0~0~0~0~0.00000115~0.00000115~0.00000115~0.00000115~0.00000115~0.00000115~CCEX~7ffe9",
+            "5~CCCAGG~BASH~RUR~4~0.851~1515945192~17.74196914~15.098415738139998~200000041~2204.00548511~3101.2295089551208~3116.5488358800003~4378.74899982112~1.4~1.9~0.851~1.4~1.9~0.851~Yobit~7ffe9",
+            "5~CCCAGG~BASH~ETH~4~0.00001~1515503152~46.99999999~0.0004699999999~182892398~0~0~0~0~0.00001~0.00001~0.00001~0.00001~0.00001~0.00001~Yobit~7ffe9",
+            "5~CCCAGG~BASH~ESP2~4~1.00000001~1498272631~245.12582924~245.12583169125827~1498272631001~0~0~0~0~1.00000001~1.00000001~1.00000001~1.00000001~1.00000001~1.00000001~Novaexchange~7ffe9",
+            "5~CCCAGG~BASH~DOGE~2~1.1~1515951110~79.00833332~86.90916665200001~200000051~7454.811150220001~26229.322499982998~17815.8883468~64080.013414242~3.6~3.6~1.1~2~4.89~1.1~Yobit~7ffe9",
+            "5~CCCAGG~BASH~WAVES~4~0.003~1515531587~134.71403~0.40414209~183118186~0~0~0~0~0.003~0.003~0.003~0.003~0.003~0.003~Yobit~7ffe9",
+            "5~CCCAGG~BASH~BTC~4~0.00000156~1515951089~79.00833332~0.00012325299997920002~200000254~37395.66153204999~0.05030665584268661~84269.49796532~0.11842285296222432~0.0000013~0.00000157~0.000001~0.00000129~0.00000157~0.000001~Yobit~7ffe9",
+            "5~CCCAGG~BASH~USD~4~0.021~1515945194~17.74196914~0.37258135193999997~200000106~2062.1050948899997~74.18064189519399~14543.841153529998~908.336259815116~0.021~0.054~0.021~0.0201~0.3704~0.02~Yobit~7ffe9",
+            "5~CCCAGG~BASH~MOON~4~236~1498577235~0.00062901~0.14844636~1498577235001~0~0~0~0~236~236~236~236~236~236~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

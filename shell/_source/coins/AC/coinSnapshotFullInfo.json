@@ -1,0 +1,90 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Asia Coin (AC) - Live streaming prices and market cap",
+            "PageDescription": "Live Asia Coin prices from all markets and AC coin market Capitalization. Stay up to date with the latest Asia Coin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19593\/ac.png",
+            "OgImageWidth": "150",
+            "OgImageHeight": "150"
+        },
+        "General": {
+            "Id": "4322",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Asia Coin (AC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "AC",
+            "Url": "\/coins\/ac\/",
+            "BaseAngularUrl": "\/coins\/ac\/",
+            "Name": "Asia Coin",
+            "ImageUrl": "\/media\/19593\/ac.png",
+            "Description": "<p>Asia Coin is a Scrypt Coin with a very brief PoW phase of two weeks or 20,000 blocks. The PoW phase is scheduled to produce 40% of the hard capped limit of 360 million. The PoS phase is set for ten years with first year stake interest set at a high 100% - whcih subsequently drops to 2%. Block time is 60 seconds, difficulty retargets every block and there was no premine.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoS",
+            "StartDate": "26\/04\/2014",
+            "Twitter": "@AsiaCoin_",
+            "AffiliateUrl": "http:\/\/www.thecoin.asia\/",
+            "Website": "<a href='http:\/\/www.thecoin.asia\/' target='_blank'>Asia Coin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515980587,
+            "DifficultyAdjustment": "per block",
+            "BlockRewardReduction": "",
+            "BlockNumber": 1975715,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 1249367298.0303,
+            "PreviousTotalCoinsMined": 1249261609.5524,
+            "BlockReward": 2694.5928168924
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~AC~ETH",
+            "2~Novaexchange~AC~DOGE",
+            "2~Cryptopia~AC~POP",
+            "2~Cryptsy~AC~BTC",
+            "2~BTER~AC~BTC",
+            "2~Cryptopia~AC~DOGE",
+            "2~Cryptsy~AC~XRP",
+            "2~Novaexchange~AC~BTC",
+            "2~Cryptopia~AC~XMR",
+            "2~Cryptopia~AC~BTC",
+            "2~Cryptopia~AC~LTC",
+            "2~Cryptopia~AC~DOT",
+            "2~Novaexchange~AC~LTC",
+            "2~Novaexchange~AC~ESP2",
+            "2~Cryptopia~AC~UNO",
+            "2~Novaexchange~AC~MOON",
+            "2~Cryptopia~AC~FTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~AC~ETH~4~0.000325~1500802170~96.57514044~0.031386920643~1500802170000~0~0~0~0~0.000325~0.000325~0.000325~0.000325~0.000325~0.000325~Novaexchange~7ffe9",
+            "5~CCCAGG~AC~DOGE~4~1.955~1515178874~4380.18430842~8563.26032296~1515178874~0~0~0~0~1.96~1.96~1.95~1.955~1.955~1.955~Cryptopia~7ffe9",
+            "5~CCCAGG~AC~POP~4~300.00000003~1457214110~1.1~330~1457214110~0~0~0~0~300.00000003~300.00000003~300.00000003~300.00000003~300.00000003~300.00000003~Cryptopia~7ffe9",
+            "5~CCCAGG~AC~BTC~4~0.00000218~1515980809~4954.95690012~0.01080181~1515980809~1262094.2657650507~2.3625877500000003~5507862.11355311~8.382437160000002~0.00000162~0.00000222~0.0000015~0.000001~0.00000222~8.2e-7~Cryptopia~7ffe9",
+            "5~CCCAGG~AC~XRP~4~0.0402993~1430876125~110~4.432923~92232659~0~0~0.0402993~0.0402993~0.0402993~Cryptsy~78ce9",
+            "5~CCCAGG~AC~XMR~4~0.00000944~1486694954~488.41068889~0.004611~1486694954~0~0~0~0~0.00000944~0.00000944~0.00000944~0.00000944~0.00000944~0.00000944~Cryptopia~7ffe9",
+            "5~CCCAGG~AC~LTC~4~0.00007399~1515196681~11352.47942113~0.83996995~1515196681~0~0~0~0~0.00007399~0.00007399~0.00007399~0.00007399~0.00007399~0.00007399~Cryptopia~7ffe9",
+            "5~CCCAGG~AC~DOT~4~0.80410804~1486694526~3067.8870468~2466.91264~1486694526~0~0~0~0~0.80410804~0.80410804~0.80410804~0.80410804~0.80410804~0.80410804~Cryptopia~7ffe9",
+            "5~CCCAGG~AC~ESP2~4~2.048~1504196485~0.1~0.2048~1504196485000~0~0~0~0~2.048~2.048~2.048~2.048~2.048~2.048~Novaexchange~7ffe9",
+            "5~CCCAGG~AC~UNO~4~0.00005~1497449218~0.001211~6e-8~1497449218~0~0~0~0~0.00005~0.00005~0.00005~0.00005~0.00005~0.00005~Cryptopia~7ffe9",
+            "5~CCCAGG~AC~MOON~4~20.00000007~1501625992~0.1~2.000000007~1501625992000~0~0~0~0~20.00000007~20.00000007~20.00000007~20.00000007~20.00000007~20.00000007~Novaexchange~7ffe9",
+            "5~CCCAGG~AC~FTC~4~0.19999997~1487581688~109.90849437~21.981696~1487581688~0~0~0~0~0.19999997~0.19999997~0.19999997~0.19999997~0.19999997~0.19999997~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,137 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "Q2C",
+            "CoinName": "QubitCoin",
+            "Type": "Webpagecoinp",
+            "Points": 703
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 380671,
+                    "Name": "WiserCoin",
+                    "FullName": "WiserCoin (WSC)",
+                    "ImageUrl": "\/media\/14913560\/wsc.png",
+                    "Url": "\/coins\/wsc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 213113,
+                    "Name": "Bitmxittz",
+                    "FullName": "Bitmxittz (BMXT)",
+                    "ImageUrl": "\/media\/1383984\/bmxt.png",
+                    "Url": "\/coins\/bmxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20580,
+                    "Name": "Phalanx",
+                    "FullName": "Phalanx (PXL)",
+                    "ImageUrl": "\/media\/350930\/pxl.png",
+                    "Url": "\/coins\/pxl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517389,
+                    "Name": "AC3",
+                    "FullName": "AC3 (AC3)",
+                    "ImageUrl": "\/media\/16746668\/ac3.png",
+                    "Url": "\/coins\/ac3\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45821,
+                    "Name": "EagleCoin",
+                    "FullName": "EagleCoin (EA)",
+                    "ImageUrl": "\/media\/1382685\/ea.png",
+                    "Url": "\/coins\/ea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5336,
+                    "Name": "GhostCoin",
+                    "FullName": "GhostCoin (GHC)",
+                    "ImageUrl": "\/media\/19721\/ghc.png",
+                    "Url": "\/coins\/ghc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21219,
+                    "Name": "Uther",
+                    "FullName": "Uther (UTH)",
+                    "ImageUrl": "\/media\/350998\/uth.png",
+                    "Url": "\/coins\/uth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4551,
+                    "Name": "LuckyCoin",
+                    "FullName": "LuckyCoin (LKY)",
+                    "ImageUrl": "\/media\/19774\/lky.png",
+                    "Url": "\/coins\/lky\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28885,
+                    "Name": "Lathaan",
+                    "FullName": "Lathaan (LTH)",
+                    "ImageUrl": "\/media\/351565\/lth.png",
+                    "Url": "\/coins\/lth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20205,
+                    "Name": "Spots",
+                    "FullName": "Spots (SPOTS)",
+                    "ImageUrl": "\/media\/350893\/spots.png",
+                    "Url": "\/coins\/spots\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 571657,
+                    "Name": "C7ADE7ED",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/571657\/dc815248-a46d-47a0-842d-e34a9392fe47.jpg",
+                    "Url": "\/profile\/C7ADE7ED\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 1,
+            "Points": 25,
+            "PageViewsSplit": {
+                "Overview": 68,
+                "Markets": 8,
+                "Analysis": 5,
+                "Charts": 3,
+                "Trades": 4,
+                "Orderbook": 0,
+                "Forum": 3,
+                "Influence": 2
+            },
+            "PageViews": 93
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 678,
+            "is_closed": "false",
+            "talking_about": "485",
+            "name": "QubitCoin",
+            "link": "https:\/\/www.facebook.com\/qubitcoin.cc\/",
+            "Points": 678
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

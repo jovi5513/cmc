@@ -1,0 +1,211 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "LEMON",
+            "CoinName": "LemonCoin",
+            "Type": "Webpagecoinp",
+            "Points": 235
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4561,
+                    "Name": "Minerals Coin",
+                    "FullName": "Minerals Coin (MIN)",
+                    "ImageUrl": "\/media\/19793\/min.png",
+                    "Url": "\/coins\/min\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8696,
+                    "Name": "Chip",
+                    "FullName": "Chip (CHIP)",
+                    "ImageUrl": "\/media\/20685\/chip.png",
+                    "Url": "\/coins\/chip\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21244,
+                    "Name": "Flash",
+                    "FullName": "Flash (FLX)",
+                    "ImageUrl": "\/media\/351007\/flx.png",
+                    "Url": "\/coins\/flx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33866,
+                    "Name": "Free Game Zone",
+                    "FullName": "Free Game Zone (FGZ)",
+                    "ImageUrl": "\/media\/352082\/fgz.png",
+                    "Url": "\/coins\/fgz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37214,
+                    "Name": "TheChiefCoin",
+                    "FullName": "TheChiefCoin (CHIEF)",
+                    "ImageUrl": "\/media\/1381988\/chief.png",
+                    "Url": "\/coins\/chief\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4439,
+                    "Name": "Elacoin",
+                    "FullName": "Elacoin (ELC)",
+                    "ImageUrl": "\/media\/19694\/elc.png",
+                    "Url": "\/coins\/elc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 617055,
+                    "Name": "Sucre",
+                    "FullName": "Sucre (SUCR)",
+                    "ImageUrl": "\/media\/20780650\/sucr.png",
+                    "Url": "\/coins\/sucr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28025,
+                    "Name": "Save The Ocean",
+                    "FullName": "Save The Ocean (STO)",
+                    "ImageUrl": "\/media\/351493\/sto.png",
+                    "Url": "\/coins\/sto\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34491,
+                    "Name": "NPCcoin",
+                    "FullName": "NPCcoin (NPC)",
+                    "ImageUrl": "\/media\/352130\/npc.png",
+                    "Url": "\/coins\/npc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28278,
+                    "Name": "DarkGold",
+                    "FullName": "DarkGold (DGDC)",
+                    "ImageUrl": "\/media\/351520\/dgd.png",
+                    "Url": "\/coins\/dgdc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 443006,
+                    "Name": "loringboyden",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/443006\/b173e725-45ee-4663-bf6f-4bb7ca8c1af4.jpg",
+                    "Url": "\/profile\/loringboyden\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509106,
+                    "Name": "c.b.stannard",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509106\/541ff26a-5e2d-4234-84aa-60d5324d9b2d.jpg",
+                    "Url": "\/profile\/c.b.stannard\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 453062,
+                    "Name": "r-verweij",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/453062\/8da95251-971f-4ef7-b4fd-a78b5588be7e.jpg",
+                    "Url": "\/profile\/r-verweij\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 351624,
+                    "Name": "Evk110400",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/351624\/58dc00d7-186c-4681-b67b-7db3478f353f.jpg",
+                    "Url": "\/profile\/Evk110400\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 231333,
+                    "Name": "jasonacannon1970",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/231333\/1f9983b9-c107-4432-880f-ebb8056f539c.jpg",
+                    "Url": "\/profile\/jasonacannon1970\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 176774,
+                    "Name": "ferrochrom",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/176774\/883c988a-2c47-444d-9210-3b673cf7e634.png",
+                    "Url": "\/profile\/ferrochrom\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 305966,
+                    "Name": "Carmen_bercea",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/305966\/323888c6-a0bb-4a1a-8a25-0e8bdd3aa039.jpg",
+                    "Url": "\/profile\/Carmen_bercea\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 67888,
+                    "Name": "zacdexter",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/67888\/0f57127b-1662-4e99-80b1-ecc14137cd3e.jpg",
+                    "Url": "\/profile\/zacdexter\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 8,
+            "Posts": "1",
+            "Points": 225,
+            "PageViewsSplit": {
+                "Overview": 2379,
+                "Markets": 147,
+                "Analysis": 95,
+                "Charts": 242,
+                "Trades": 109,
+                "Orderbook": 2,
+                "Forum": 58,
+                "Influence": 38
+            },
+            "PageViews": 3070
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1459477970",
+                    "url": "https:\/\/github.com\/lemoncoin-project\/lemoncoin",
+                    "forks": 2,
+                    "closed_pull_issues": "3",
+                    "closed_total_issues": "3",
+                    "subscribers": 2,
+                    "open_issues": "2",
+                    "size": "5938",
+                    "created_at": "1459477895",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "2",
+                    "last_push": "1460212317",
+                    "stars": 0
+                }
+            ],
+            "Points": 10
+        }
+    }
+}

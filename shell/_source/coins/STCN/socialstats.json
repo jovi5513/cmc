@@ -1,0 +1,166 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "STCN",
+            "CoinName": "Stakecoin",
+            "Type": "Webpagecoinp",
+            "Points": 3640
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4567,
+                    "Name": "MysteryCoin",
+                    "FullName": "MysteryCoin (MYST*)",
+                    "ImageUrl": "\/media\/20053\/myst.png",
+                    "Url": "\/coins\/myststar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5294,
+                    "Name": "007 coin",
+                    "FullName": "007 coin (007)",
+                    "ImageUrl": "\/media\/350595\/007.png",
+                    "Url": "\/coins\/007\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41967,
+                    "Name": "SelenCoin",
+                    "FullName": "SelenCoin (SEL)",
+                    "ImageUrl": "\/media\/1382369\/sel.png",
+                    "Url": "\/coins\/sel\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29559,
+                    "Name": "BighanCoin",
+                    "FullName": "BighanCoin (BHC)",
+                    "ImageUrl": "\/media\/351660\/bhc.png",
+                    "Url": "\/coins\/bhc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5369,
+                    "Name": "LTBCoin",
+                    "FullName": "LTBCoin (LTBC)",
+                    "ImageUrl": "\/media\/20336\/ltb.png",
+                    "Url": "\/coins\/ltbc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60631,
+                    "Name": "Universe",
+                    "FullName": "Universe (UNI)",
+                    "ImageUrl": "\/media\/1382968\/uni.png",
+                    "Url": "\/coins\/uni\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4542,
+                    "Name": "JumBucks Coin",
+                    "FullName": "JumBucks Coin (JBS)",
+                    "ImageUrl": "\/media\/20044\/jbs.png",
+                    "Url": "\/coins\/jbs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35230,
+                    "Name": "Kernalcoin",
+                    "FullName": "Kernalcoin (KC)",
+                    "ImageUrl": "\/media\/352224\/kc.png",
+                    "Url": "\/coins\/kc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 404752,
+                    "Name": "Magnet",
+                    "FullName": "Magnet (MAG)",
+                    "ImageUrl": "\/media\/16404853\/mag.png",
+                    "Url": "\/coins\/mag\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 326082,
+                    "Name": "WishFinance",
+                    "FullName": "WishFinance (WISH*)",
+                    "ImageUrl": "\/media\/12317980\/wish.png",
+                    "Url": "\/coins\/wishstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 660352,
+                    "Name": "ferdikurniawan19",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/660352\/4f3ca6c6-1f66-4dcd-aa33-db7fad5d0b6d.jpg",
+                    "Url": "\/profile\/ferdikurniawan19\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 41635,
+                    "Name": "Rocker",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/41635\/c4827ac1-a23d-4736-b27a-a13d8498f9a7.png",
+                    "Url": "\/profile\/Rocker\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 379193,
+                    "Name": "gigipepscrypt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/379193\/7bfef139-292b-450a-87c2-d161cfd23f7a.jpg",
+                    "Url": "\/profile\/gigipepscrypt\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 251867,
+                    "Name": "franckparra",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/251867\/7b543011-0676-4c63-9f0f-069f9f558b6b.png",
+                    "Url": "\/profile\/franckparra\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 404,
+                "Markets": 51,
+                "Analysis": 15,
+                "Charts": 17,
+                "Trades": 22,
+                "Orderbook": 0,
+                "Forum": 6,
+                "Influence": 7
+            },
+            "PageViews": 522
+        },
+        "Twitter": {
+            "favourites": "6",
+            "lists": 5,
+            "statuses": 14,
+            "following": "21",
+            "account_creation": "1490264721",
+            "name": "Stake Coin",
+            "followers": 213,
+            "link": "https:\/\/twitter.com\/stkcoin",
+            "Points": 238
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "Stake Coin",
+            "likes": 3302,
+            "link": "https:\/\/www.facebook.com\/stkcoin\/",
+            "talking_about": "6",
+            "is_closed": "false",
+            "Points": 3302
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

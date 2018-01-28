@@ -1,0 +1,127 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GTC",
+            "CoinName": "Game",
+            "Type": "Webpagecoinp",
+            "Points": 307
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 373880,
+                    "Name": "Huncoin",
+                    "FullName": "Huncoin (HNC*)",
+                    "ImageUrl": "\/media\/14913529\/hnc.png",
+                    "Url": "\/coins\/hncstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 625173,
+                    "Name": "TokugawaCoin",
+                    "FullName": "TokugawaCoin (TOK)",
+                    "ImageUrl": "\/media\/20780659\/tok.png",
+                    "Url": "\/coins\/tok\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25817,
+                    "Name": "PokeChain",
+                    "FullName": "PokeChain (XPOKE)",
+                    "ImageUrl": "\/media\/351393\/xpoke.png",
+                    "Url": "\/coins\/xpoke\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4550,
+                    "Name": "Lucky7Coin",
+                    "FullName": "Lucky7Coin (LK7)",
+                    "ImageUrl": "\/media\/19776\/lk7.png",
+                    "Url": "\/coins\/lk7\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30423,
+                    "Name": "PeaceCoin",
+                    "FullName": "PeaceCoin (PEC)",
+                    "ImageUrl": "\/media\/351761\/pec.png",
+                    "Url": "\/coins\/pec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20986,
+                    "Name": "AcesCoin",
+                    "FullName": "AcesCoin (AEC)",
+                    "ImageUrl": "\/media\/350991\/aec.png",
+                    "Url": "\/coins\/aec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29370,
+                    "Name": "BitluckCoin",
+                    "FullName": "BitluckCoin (BTCL*)",
+                    "ImageUrl": "\/media\/351633\/btlc.png",
+                    "Url": "\/coins\/btclstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 248243,
+                    "Name": "Scrypto",
+                    "FullName": "Scrypto (SRT)",
+                    "ImageUrl": "\/media\/9350771\/srt.png",
+                    "Url": "\/coins\/srt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20640,
+                    "Name": "OldSafeCoin",
+                    "FullName": "OldSafeCoin (OLDSF)",
+                    "ImageUrl": "\/media\/350936\/oldsf.png",
+                    "Url": "\/coins\/oldsf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5306,
+                    "Name": "Stability Shares",
+                    "FullName": "Stability Shares (XSI)",
+                    "ImageUrl": "\/media\/20165\/xsi.png",
+                    "Url": "\/coins\/xsi\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "PageViewsSplit": {
+                "Overview": 84,
+                "Markets": 5,
+                "Analysis": 3,
+                "Charts": 3,
+                "Trades": 2,
+                "Orderbook": 0,
+                "Forum": 4,
+                "Influence": 3
+            },
+            "PageViews": 104
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "Game.com",
+            "is_closed": "false",
+            "likes": 307,
+            "link": "https:\/\/www.facebook.com\/Game.com.Community\/",
+            "talking_about": "21",
+            "Points": 307
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

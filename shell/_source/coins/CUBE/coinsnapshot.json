@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "CUBE",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.0003999",
+            "LASTUPDATE": "1516009458",
+            "LASTVOLUME": "1.80898198",
+            "LASTVOLUMETO": "0.000723411893802",
+            "LASTTRADEID": "200000189",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "70.67052943",
+            "VOLUME24HOURTO": "0.026983829657951302",
+            "OPENDAY": "0.0003999",
+            "HIGHDAY": "0.0003999",
+            "LOWDAY": "0.0003999",
+            "OPEN24HOUR": "0.0004",
+            "HIGH24HOUR": "0.0004",
+            "LOW24HOUR": "0.0002004",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "CUBE",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.0000018",
+                "LASTUPDATE": "1463598494",
+                "LASTVOLUME": "1000.175",
+                "LASTVOLUMETO": "0.00180031",
+                "LASTTRADEID": "662151",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.0000018",
+                "HIGH24HOUR": "0.0000018",
+                "LOW24HOUR": "0.0000018"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "CUBE",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "1.1e-7",
+                "LASTUPDATE": "1469792486",
+                "LASTVOLUME": "53191.36363636",
+                "LASTVOLUMETO": "0.0058510499999996",
+                "LASTTRADEID": "1469792486081",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "1.1e-7",
+                "HIGH24HOUR": "1.1e-7",
+                "LOW24HOUR": "1.1e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "CUBE",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "1e-8",
+                "LASTUPDATE": "1485657814",
+                "LASTVOLUME": "446007.98403194",
+                "LASTVOLUMETO": "0.00446",
+                "LASTTRADEID": "1485657814",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "1e-8",
+                "HIGH24HOUR": "1e-8",
+                "LOW24HOUR": "1e-8"
+            }
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "SPRTS",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "1e-8",
+            "LASTUPDATE": "1485802884",
+            "LASTVOLUME": "25000",
+            "LASTVOLUMETO": "0.00025",
+            "LASTTRADEID": "1485802884",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "1e-8",
+            "HIGHDAY": "1e-8",
+            "LOWDAY": "1e-8",
+            "OPEN24HOUR": "1e-8",
+            "HIGH24HOUR": "1e-8",
+            "LOW24HOUR": "1e-8",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "SPRTS",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "1e-8",
+                "LASTUPDATE": "1477109128",
+                "LASTVOLUME": "1146751.935",
+                "LASTVOLUMETO": "0.01146751",
+                "LASTTRADEID": "94052",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "1e-8",
+                "HIGH24HOUR": "1e-8",
+                "LOW24HOUR": "1e-8"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "SPRTS",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "5.2e-7",
+                "LASTUPDATE": "1452827290",
+                "LASTVOLUME": "11187.01923077",
+                "LASTVOLUMETO": "0.00581725",
+                "LASTTRADEID": "110947035",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "5.2e-7",
+                "HIGH24HOUR": "5.2e-7",
+                "LOW24HOUR": "5.2e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "SPRTS",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "1e-8",
+                "LASTUPDATE": "1485802884",
+                "LASTVOLUME": "25000",
+                "LASTVOLUMETO": "0.00025",
+                "LASTTRADEID": "1485802884",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "1e-8",
+                "HIGH24HOUR": "1e-8",
+                "LOW24HOUR": "1e-8"
+            }
+        ]
+    },
+    "Type": 100
+}

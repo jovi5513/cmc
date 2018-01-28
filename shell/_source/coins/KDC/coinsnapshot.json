@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "KDC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000432",
+            "LASTUPDATE": "1516078677",
+            "LASTVOLUME": "599.76343609",
+            "LASTVOLUMETO": "0.00259098",
+            "LASTTRADEID": "1516078677",
+            "VOLUMEDAY": "16130.847520419999",
+            "VOLUMEDAYTO": "0.06706513000000001",
+            "VOLUME24HOUR": "124634.07808079",
+            "VOLUME24HOURTO": "0.51599661",
+            "OPENDAY": "0.00000402",
+            "HIGHDAY": "0.00000432",
+            "LOWDAY": "0.00000401",
+            "OPEN24HOUR": "0.00000446",
+            "HIGH24HOUR": "0.0000051",
+            "LOW24HOUR": "0.00000401",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "KDC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000432",
+                "LASTUPDATE": "1516078677",
+                "LASTVOLUME": "599.76343609",
+                "LASTVOLUMETO": "0.00259098",
+                "LASTTRADEID": "1516078677",
+                "VOLUME24HOUR": "124634.07808079",
+                "VOLUME24HOURTO": "0.51599661",
+                "OPEN24HOUR": "0.00000446",
+                "HIGH24HOUR": "0.0000051",
+                "LOW24HOUR": "0.00000401"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "BTER",
+                "FROMSYMBOL": "KDC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.0000046",
+                "LASTUPDATE": "1459000521",
+                "LASTVOLUME": "257.272",
+                "LASTVOLUMETO": "0.0011834512",
+                "LASTTRADEID": "12695876",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.0000046",
+                "HIGH24HOUR": "0.0000046",
+                "LOW24HOUR": "0.0000046"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "KDC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000127",
+                "LASTUPDATE": "1452808682",
+                "LASTVOLUME": "2.38857135",
+                "LASTVOLUMETO": "0.00000303",
+                "LASTTRADEID": "110942541",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000127",
+                "HIGH24HOUR": "0.00000127",
+                "LOW24HOUR": "0.00000127"
+            }
+        ]
+    },
+    "Type": 100
+}

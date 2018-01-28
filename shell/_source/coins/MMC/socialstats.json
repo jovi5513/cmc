@@ -1,0 +1,161 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MMC",
+            "CoinName": "MemoryCoin",
+            "Type": "Webpagecoinp",
+            "Points": 150
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 409363,
+                    "Name": "Ludum token",
+                    "FullName": "Ludum token (LDM)",
+                    "ImageUrl": "\/media\/16404870\/ldm.png",
+                    "Url": "\/coins\/ldm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30016,
+                    "Name": "Vaporcoin",
+                    "FullName": "Vaporcoin (VAPOR)",
+                    "ImageUrl": "\/media\/351708\/vapor.png",
+                    "Url": "\/coins\/vapor\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29368,
+                    "Name": "EGOcoin",
+                    "FullName": "EGOcoin (EGO)",
+                    "ImageUrl": "\/media\/351632\/ego.png",
+                    "Url": "\/coins\/ego\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42850,
+                    "Name": "Opes",
+                    "FullName": "Opes (OPES)",
+                    "ImageUrl": "\/media\/1382434\/opes.png",
+                    "Url": "\/coins\/opes\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37204,
+                    "Name": "Impulse Coin",
+                    "FullName": "Impulse Coin (IMPS)",
+                    "ImageUrl": "\/media\/1381984\/imps.jpg",
+                    "Url": "\/coins\/imps\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21229,
+                    "Name": "Supreme",
+                    "FullName": "Supreme (SPM)",
+                    "ImageUrl": "\/media\/351002\/sup.png",
+                    "Url": "\/coins\/spm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29004,
+                    "Name": "PSIcoin",
+                    "FullName": "PSIcoin (PSI)",
+                    "ImageUrl": "\/media\/351589\/psi.png",
+                    "Url": "\/coins\/psi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4325,
+                    "Name": "AlphaCoin",
+                    "FullName": "AlphaCoin (ALF)",
+                    "ImageUrl": "\/media\/19600\/alf.png",
+                    "Url": "\/coins\/alf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21213,
+                    "Name": "Cygnus",
+                    "FullName": "Cygnus (CYG)",
+                    "ImageUrl": "\/media\/350997\/cygnus.png",
+                    "Url": "\/coins\/cyg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8693,
+                    "Name": "Axiom Coin",
+                    "FullName": "Axiom Coin (AXIOM)",
+                    "ImageUrl": "\/media\/20686\/axiom.png",
+                    "Url": "\/coins\/axiom\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 124658,
+                    "Name": "MAHDIAGER",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/124658\/60590893-fea1-4054-bebc-ad243030163a.jpg",
+                    "Url": "\/profile\/MAHDIAGER\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 35657,
+                    "Name": "saphareas",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/35657\/1d319ef9-170c-4225-9405-8140e7264655.jpg",
+                    "Url": "\/profile\/saphareas\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 27839,
+                    "Name": "kishor.logistics",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/27839\/a9799c56-35f4-4d2a-98a9-2ba5e3e9ef11.jpg",
+                    "Url": "\/profile\/kishor.logistics\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 27762,
+                    "Name": "dongcv",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/27762\/6366f873-16bf-42b4-9316-ea9930cf3c78.jpg",
+                    "Url": "\/profile\/dongcv\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 150,
+            "Followers": 5,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 365,
+                "Markets": 57,
+                "Analysis": 149,
+                "Charts": 35,
+                "Trades": 53,
+                "Orderbook": 1,
+                "Forum": 40,
+                "Influence": 8
+            },
+            "PageViews": 708
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

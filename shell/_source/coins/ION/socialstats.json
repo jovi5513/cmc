@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ION",
+            "CoinName": "Ionomy",
+            "Type": "Webpagecoinp",
+            "Points": 8100
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4340,
+                    "Name": "BlueCoin",
+                    "FullName": "BlueCoin (BLU)",
+                    "ImageUrl": "\/media\/19624\/blu.png",
+                    "Url": "\/coins\/blu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 218008,
+                    "Name": "Bytom",
+                    "FullName": "Bytom (BTM*)",
+                    "ImageUrl": "\/media\/1383996\/btm.png",
+                    "Url": "\/coins\/btmstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30020,
+                    "Name": "Recovery Right Tokens",
+                    "FullName": "Recovery Right Tokens (RRT)",
+                    "ImageUrl": "\/media\/19554\/bitfinex.png",
+                    "Url": "\/coins\/rrt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5371,
+                    "Name": "HyperCoin",
+                    "FullName": "HyperCoin (HYPER)",
+                    "ImageUrl": "\/media\/19744\/hyper.png",
+                    "Url": "\/coins\/hyper\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 362627,
+                    "Name": "Avesta",
+                    "FullName": "Avesta (AVE)",
+                    "ImageUrl": "\/media\/14761937\/ave.png",
+                    "Url": "\/coins\/ave\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 350048,
+                    "Name": "Ethereum Blue",
+                    "FullName": "Ethereum Blue (BLUE)",
+                    "ImageUrl": "\/media\/12318407\/blue.png",
+                    "Url": "\/coins\/blue\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4624,
+                    "Name": "TitCoin",
+                    "FullName": "TitCoin (TIT)",
+                    "ImageUrl": "\/media\/20069\/tit.png",
+                    "Url": "\/coins\/tit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 249821,
+                    "Name": "AdCoin",
+                    "FullName": "AdCoin (ACC)",
+                    "ImageUrl": "\/media\/9350776\/acc.jpg",
+                    "Url": "\/coins\/acc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 516982,
+                    "Name": "Super Bitcoin",
+                    "FullName": "Super Bitcoin (SBTC)",
+                    "ImageUrl": "\/media\/16746666\/sbtc.png",
+                    "Url": "\/coins\/sbtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 202706,
+                    "Name": "Mobius",
+                    "FullName": "Mobius (MOBI)",
+                    "ImageUrl": "\/media\/1383921\/mobi.png",
+                    "Url": "\/coins\/mobi\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 597387,
+                    "Name": "redking974",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/597387\/64b3bb62-55a0-4408-83c3-b44ff19a91fb.jpg",
+                    "Url": "\/profile\/redking974\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 557077,
+                    "Name": "D61DE1A0",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/557077\/f8a10f73-7516-4056-a76e-abe643693824.jpg",
+                    "Url": "\/profile\/D61DE1A0\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 549483,
+                    "Name": "olaflugtenburg",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/549483\/c1f4ae46-a4d5-496b-ad3e-ccc293ff548d.jpg",
+                    "Url": "\/profile\/olaflugtenburg\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 35908,
+                    "Name": "dbom",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/35908\/f68de644-248c-4fd5-ac32-cd9c98ad54f9.jpg",
+                    "Url": "\/profile\/dbom\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 477186,
+                    "Name": "688D4CB5",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/477186\/be4d2cc3-f3b4-4fbb-9511-4ae2db074e9b.jpg",
+                    "Url": "\/profile\/688D4CB5\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 472784,
+                    "Name": "farouk.alhaja",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/472784\/d671f584-032f-47f7-9bd9-19271418cbae.jpg",
+                    "Url": "\/profile\/farouk.alhaja\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 310295,
+                    "Name": "H2021",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/310295\/9fd05506-93fa-4ee9-aa12-7740394f273a.png",
+                    "Url": "\/profile\/H2021\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 204041,
+                    "Name": "cryptolee",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/204041\/bb05b1b0-8e15-42ab-90c4-171d6ddb2253.png",
+                    "Url": "\/profile\/cryptolee\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 410155,
+                    "Name": "pdcrowley30",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/410155\/f94b5893-d55a-4b1d-8e59-751f35c50cb7.jpg",
+                    "Url": "\/profile\/pdcrowley30\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 309173,
+                    "Name": "CryptoGuy",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/309173\/e96167c4-ca1b-4d6d-8764-c038ff7a8488.png",
+                    "Url": "\/profile\/CryptoGuy\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 365791,
+                    "Name": "CryptoSAMURAI",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/365791\/41636853-4711-4133-9e9e-f9b4facd7f17.png",
+                    "Url": "\/profile\/CryptoSAMURAI\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 60,
+            "Posts": "11",
+            "Comments": "6",
+            "Points": 1835,
+            "PageViewsSplit": {
+                "Overview": 6305,
+                "Markets": 380,
+                "Analysis": 173,
+                "Charts": 550,
+                "Trades": 191,
+                "Orderbook": 5,
+                "Forum": 206,
+                "Influence": 73
+            },
+            "PageViews": 7883
+        },
+        "Twitter": {
+            "favourites": "42",
+            "statuses": 254,
+            "following": "83",
+            "account_creation": "1455042666",
+            "name": "ionomy",
+            "link": "https:\/\/twitter.com\/ionomics",
+            "lists": 107,
+            "followers": 5220,
+            "Points": 5755
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 455,
+            "name": "Ionomy",
+            "link": "https:\/\/www.facebook.com\/ionomy\/",
+            "talking_about": "1",
+            "is_closed": "false",
+            "Points": 455
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/ionomy\/ion",
+                    "last_update": "1511604724",
+                    "subscribers": 11,
+                    "size": "20395",
+                    "created_at": "1498474006",
+                    "open_pull_issues": "5",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "6",
+                    "stars": 8,
+                    "forks": 7,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "open_issues": "1",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1500216156"
+                }
+            ],
+            "Points": 55
+        }
+    }
+}

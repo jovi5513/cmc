@@ -1,0 +1,72 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "ProCurrency (PROC) - Live streaming prices and market cap",
+            "PageDescription": "Live ProCurrency prices from all markets and PROC coin market Capitalization. Stay up to date with the latest ProCurrency price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1383159\/proc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "71334",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "ProCurrency (PROC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "PROC",
+            "Url": "\/coins\/proc\/",
+            "BaseAngularUrl": "\/coins\/proc\/",
+            "Name": "ProCurrency",
+            "ImageUrl": "\/media\/1383159\/proc.png",
+            "Description": "<p>PROC is a decentralized cryptocurrency not only focused on disrupting an industry but focused on disrupting commerce, the way we exchange goods and services. It&#39;s a PoS cryptocurrency based on the SHA256 algorithm like Bitcoin itself.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "75000000000",
+            "Algorithm": "SHA256",
+            "ProofType": "PoS",
+            "StartDate": "01\/01\/0001",
+            "Twitter": "@ProCommerceInfo",
+            "AffiliateUrl": "https:\/\/procommerce.io\/",
+            "Website": "<a href='https:\/\/procommerce.io\/' target='_blank'>ProCurrency<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515978442,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 96516229,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~PROC~BTC",
+            "2~CCEX~PROC~DOGE",
+            "2~CCEX~PROC~USD",
+            "2~Cryptopia~PROC~LTC",
+            "2~CCEX~PROC~BTC",
+            "2~Cryptopia~PROC~DOGE",
+            "2~CCEX~PROC~LTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~PROC~BTC~1~0.00000741~1515978389~6417.62886625~0.04755463~1515978389~64825.593632250006~0.48028215~2446249.1999050896~18.92917923~0.0000073~0.00000752~0.00000723~0.00000815~0.00000845~0.0000072~Cryptopia~7ffe9",
+            "5~CCCAGG~PROC~DOGE~4~1.81120914~1515185279~509.9319614~923.59342927~1515185279.001~0~0~0~0~1.81~1.81120914~1.81~1.81120914~1.81120914~1.81120914~Cryptopia~7ffe9",
+            "5~CCCAGG~PROC~USD~4~0.00999999~1514460167~33.37792643~0.3337789305207357~1898013~0~0~0~0~0.00999999~0.00999999~0.00999999~0.00999999~0.00999999~0.00999999~CCEX~7ffe9",
+            "5~CCCAGG~PROC~LTC~4~0.0000995~1515195737~21530.75609368~2.14231023~1515195737~0~0~0~0~0.0000995~0.0000995~0.0000995~0.0000995~0.0000995~0.0000995~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

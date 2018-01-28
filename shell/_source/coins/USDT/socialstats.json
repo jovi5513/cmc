@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "USDT",
+            "CoinName": "Tether",
+            "Type": "Webpagecoinp",
+            "Points": 30683
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5296,
+                    "Name": "MonaCoin",
+                    "FullName": "MonaCoin (MONA)",
+                    "ImageUrl": "\/media\/19801\/mona.png",
+                    "Url": "\/coins\/mona\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30736,
+                    "Name": "Byteball",
+                    "FullName": "Byteball (GBYTE)",
+                    "ImageUrl": "\/media\/351835\/bytes.png",
+                    "Url": "\/coins\/gbyte\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6103,
+                    "Name": "Nexus",
+                    "FullName": "Nexus (NXS)",
+                    "ImageUrl": "\/media\/1382387\/nexus.jpg",
+                    "Url": "\/coins\/nxs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185669,
+                    "Name": "InvestFeed",
+                    "FullName": "InvestFeed (IFT)",
+                    "ImageUrl": "\/media\/12318127\/ift.png",
+                    "Url": "\/coins\/ift\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 18907,
+                    "Name": "Digix DAO",
+                    "FullName": "Digix DAO (DGD)",
+                    "ImageUrl": "\/media\/350851\/dgd.png",
+                    "Url": "\/coins\/dgd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186309,
+                    "Name": "Tierion",
+                    "FullName": "Tierion (TNT)",
+                    "ImageUrl": "\/media\/1383800\/tnt.png",
+                    "Url": "\/coins\/tnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 177863,
+                    "Name": "Santiment",
+                    "FullName": "Santiment (SAN)",
+                    "ImageUrl": "\/media\/1383730\/san.png",
+                    "Url": "\/coins\/san\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 194883,
+                    "Name": "Everex",
+                    "FullName": "Everex (EVX)",
+                    "ImageUrl": "\/media\/1383850\/evx.png",
+                    "Url": "\/coins\/evx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4417,
+                    "Name": "CloakCoin",
+                    "FullName": "CloakCoin (CLOAK)",
+                    "ImageUrl": "\/media\/19994\/cloak.png",
+                    "Url": "\/coins\/cloak\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 213663,
+                    "Name": "FileCoin",
+                    "FullName": "FileCoin (FIL)",
+                    "ImageUrl": "\/media\/1383987\/fil.png",
+                    "Url": "\/coins\/fil\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 494980,
+                    "Name": "kjrdc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/494980\/1ce8110f-b6ef-4226-befa-7c1957bfe323.jpg",
+                    "Url": "\/profile\/kjrdc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676900,
+                    "Name": "povedaanatoli",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676900\/75e1293f-e83b-4752-ade0-38c29811abc3.jpg",
+                    "Url": "\/profile\/povedaanatoli\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 672618,
+                    "Name": "BE343D0F",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/672618\/dded32d5-cebf-49c9-afe6-198a60b19d8d.jpg",
+                    "Url": "\/profile\/BE343D0F\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 675537,
+                    "Name": "ipat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675537\/0b88fa16-acd7-45bc-bb26-abc563e74fa6.jpg",
+                    "Url": "\/profile\/ipat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 675218,
+                    "Name": "amol379",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675218\/1989c740-ec22-4a98-a5b3-22af4027f0de.jpg",
+                    "Url": "\/profile\/amol379\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 453033,
+                    "Name": "luke.morgan67",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/453033\/543bc88a-8e7d-4c26-9d78-bf4e8b5957a5.jpg",
+                    "Url": "\/profile\/luke.morgan67\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 209959,
+                    "Name": "anton.northern",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/209959\/149d67a0-08a1-4170-af09-e3014fa0ec15.jpg",
+                    "Url": "\/profile\/anton.northern\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 570610,
+                    "Name": "FOMOArigato",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/570610\/6c956e6d-a74b-412f-83b9-3db8add66264.jpg",
+                    "Url": "\/profile\/FOMOArigato\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 603322,
+                    "Name": "A99D7B98",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/603322\/ba6553c3-3fae-4d32-a4d5-25d305068e62.jpg",
+                    "Url": "\/profile\/A99D7B98\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16006,
+                    "Name": "C6CB54FD",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16006\/979b1e90-757b-41e6-9b7a-3e35a301e113.jpg",
+                    "Url": "\/profile\/C6CB54FD\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 587102,
+                    "Name": "Atomicus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/587102\/d183379b-667e-4966-a2ab-b52e274dd9d6.png",
+                    "Url": "\/profile\/Atomicus\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 13035,
+            "Posts": "38",
+            "Comments": "56",
+            "Followers": 461,
+            "PageViewsSplit": {
+                "Overview": 39953,
+                "Markets": 3210,
+                "Analysis": 1446,
+                "Charts": 2377,
+                "Trades": 1018,
+                "Orderbook": 28,
+                "Forum": 2215,
+                "Influence": 213
+            },
+            "PageViews": 50460
+        },
+        "Twitter": {
+            "favourites": "126",
+            "statuses": 268,
+            "following": "388",
+            "account_creation": "1415394150",
+            "followers": 14594,
+            "name": "Tether",
+            "link": "https:\/\/twitter.com\/Tether_to",
+            "lists": 391,
+            "Points": 16549
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "55",
+            "name": "Tether",
+            "likes": 1094,
+            "link": "https:\/\/www.facebook.com\/tether.to\/",
+            "Points": 1094
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

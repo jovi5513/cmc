@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ONION",
+            "CoinName": "DeepOnion",
+            "Type": "Webpagecoinp",
+            "Points": 136443
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 30173,
+                    "Name": "Ardor",
+                    "FullName": "Ardor (ARDR)",
+                    "ImageUrl": "\/media\/351736\/ardr.png",
+                    "Url": "\/coins\/ardr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 17857,
+                    "Name": "OKCash",
+                    "FullName": "OKCash (OK)",
+                    "ImageUrl": "\/media\/350819\/ok.png",
+                    "Url": "\/coins\/ok\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 137013,
+                    "Name": "Status Network Token",
+                    "FullName": "Status Network Token (SNT)",
+                    "ImageUrl": "\/media\/1383568\/snt.png",
+                    "Url": "\/coins\/snt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5282,
+                    "Name": "DigitalNote ",
+                    "FullName": "DigitalNote  (XDN)",
+                    "ImageUrl": "\/media\/19957\/xdn.jpg",
+                    "Url": "\/coins\/xdn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5286,
+                    "Name": "BurstCoin",
+                    "FullName": "BurstCoin (BURST)",
+                    "ImageUrl": "\/media\/16746623\/burst.png",
+                    "Url": "\/coins\/burst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186277,
+                    "Name": "0x",
+                    "FullName": "0x (ZRX)",
+                    "ImageUrl": "\/media\/1383799\/zrx.png",
+                    "Url": "\/coins\/zrx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 187347,
+                    "Name": "Storj",
+                    "FullName": "Storj (STORJ)",
+                    "ImageUrl": "\/media\/20422\/sjcx.png",
+                    "Url": "\/coins\/storj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 66193,
+                    "Name": "Gnosis",
+                    "FullName": "Gnosis (GNO)",
+                    "ImageUrl": "\/media\/1383083\/gnosis-logo.png",
+                    "Url": "\/coins\/gno\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5288,
+                    "Name": "StorjCoin",
+                    "FullName": "StorjCoin (SJCX)",
+                    "ImageUrl": "\/media\/20422\/sjcx.png",
+                    "Url": "\/coins\/sjcx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 166548,
+                    "Name": "Monaco",
+                    "FullName": "Monaco (MCO)",
+                    "ImageUrl": "\/media\/1383653\/mco.jpg",
+                    "Url": "\/coins\/mco\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 308884,
+                    "Name": "dougreid",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/308884\/f0522c38-01ca-4af5-80c5-fe0219e1cbd2.jpg",
+                    "Url": "\/profile\/dougreid\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 532766,
+                    "Name": "GreenGurly",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/532766\/804698b8-22d1-44b6-a518-16e1106ed970.jpg",
+                    "Url": "\/profile\/GreenGurly\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 655354,
+                    "Name": "Gully",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/655354\/2dcd4a95-1569-4548-a6ab-1c538773edc0.jpg",
+                    "Url": "\/profile\/Gully\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 672363,
+                    "Name": "mr_lonelyhp",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/672363\/1c123430-db52-4b2b-b17f-b433bdba2d28.jpg",
+                    "Url": "\/profile\/mr_lonelyhp\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 85653,
+                    "Name": "danarrowsmith101",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/85653\/3fdadda5-54c6-43a9-9dc7-8fd94da655bb.jpg",
+                    "Url": "\/profile\/danarrowsmith101\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 485358,
+                    "Name": "C5AF2C6",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/485358\/18bd4a4e-2487-4635-a62f-86a658caf67b.jpg",
+                    "Url": "\/profile\/C5AF2C6\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 379238,
+                    "Name": "kjdowdle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/379238\/af331a97-ebb2-4ef9-a6c6-cd63d2a19e0d.jpg",
+                    "Url": "\/profile\/kjdowdle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 368393,
+                    "Name": "Pacman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/368393\/c4a1ebf0-fa78-41c6-9e2c-f16a94b7717c.jpg",
+                    "Url": "\/profile\/Pacman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 513070,
+                    "Name": "michaelsteinlauf",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/513070\/23dfa154-9b84-4bd7-aa16-3ff1468748e2.jpg",
+                    "Url": "\/profile\/michaelsteinlauf\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 639866,
+                    "Name": "thisisink01",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/639866\/8aa5e16a-02d2-4ca4-a008-95837c16c7c4.jpg",
+                    "Url": "\/profile\/thisisink01\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 664706,
+                    "Name": "Adamturner83",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/664706\/896c7ee9-74aa-489d-9141-95571dcd7f40.jpg",
+                    "Url": "\/profile\/Adamturner83\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 525,
+            "Posts": "530",
+            "Comments": "23",
+            "Points": 26605,
+            "PageViewsSplit": {
+                "Overview": 10134,
+                "Markets": 816,
+                "Analysis": 581,
+                "Charts": 848,
+                "Trades": 325,
+                "Orderbook": 6,
+                "Forum": 2530,
+                "Influence": 152
+            },
+            "PageViews": 15392
+        },
+        "Twitter": {
+            "favourites": "231",
+            "statuses": 1119,
+            "following": "110",
+            "account_creation": "1497987775",
+            "name": "DeepOnion",
+            "link": "https:\/\/twitter.com\/deeponionx",
+            "lists": 98,
+            "followers": 53649,
+            "Points": 54140
+        },
+        "Reddit": {
+            "comments_per_hour": "0.33",
+            "comments_per_day": 7.96,
+            "link": "https:\/\/www.reddit.com\/r\/DeepOnion\/",
+            "posts_per_day": "1.94",
+            "active_users": 69,
+            "subscribers": 2353,
+            "posts_per_hour": "0.08",
+            "community_creation": "1500003144",
+            "name": "DeepOnion",
+            "Points": 2575
+        },
+        "Facebook": {
+            "likes": 52621,
+            "name": "DeepOnion",
+            "link": "https:\/\/www.facebook.com\/deeponionx\/",
+            "talking_about": "215",
+            "is_closed": "false",
+            "Points": 52621
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/deeponion\/deeponion",
+                    "last_update": "1515865495",
+                    "subscribers": 91,
+                    "size": "3602",
+                    "created_at": "1499542399",
+                    "open_pull_issues": "0",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C",
+                    "open_total_issues": "6",
+                    "stars": 140,
+                    "forks": 44,
+                    "closed_total_issues": "15",
+                    "closed_pull_issues": "10",
+                    "open_issues": "6",
+                    "closed_issues": "5",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1515774293"
+                }
+            ],
+            "Points": 501
+        }
+    }
+}

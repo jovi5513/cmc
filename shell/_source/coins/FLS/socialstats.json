@@ -1,0 +1,166 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "FLS",
+            "CoinName": "Fuloos Coin",
+            "Type": "Webpagecoinp",
+            "Points": 98859
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 196591,
+                    "Name": "Reality Clash",
+                    "FullName": "Reality Clash (RCC)",
+                    "ImageUrl": "\/media\/1383864\/rcc.png",
+                    "Url": "\/coins\/rcc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 384605,
+                    "Name": "Bankera",
+                    "FullName": "Bankera (BNK)",
+                    "ImageUrl": "\/media\/14913602\/bnk.png",
+                    "Url": "\/coins\/bnk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 337863,
+                    "Name": "Gameflip",
+                    "FullName": "Gameflip (FLP)",
+                    "ImageUrl": "\/media\/12318280\/flip.png",
+                    "Url": "\/coins\/flp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 234811,
+                    "Name": "Cobinhood",
+                    "FullName": "Cobinhood (COB)",
+                    "ImageUrl": "\/media\/9350700\/cobin.png",
+                    "Url": "\/coins\/cob\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 247232,
+                    "Name": "NewYorkCoin",
+                    "FullName": "NewYorkCoin (NYC)",
+                    "ImageUrl": "\/media\/9350762\/nyc.png",
+                    "Url": "\/coins\/nyc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 196541,
+                    "Name": "Linda",
+                    "FullName": "Linda (LINDA)",
+                    "ImageUrl": "\/media\/1383860\/linda.png",
+                    "Url": "\/coins\/linda\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5300,
+                    "Name": "BitBay",
+                    "FullName": "BitBay (BAY)",
+                    "ImageUrl": "\/media\/1383137\/bay1.png",
+                    "Url": "\/coins\/bay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5017,
+                    "Name": "VeriCoin",
+                    "FullName": "VeriCoin (VRC)",
+                    "ImageUrl": "\/media\/20068\/vrc.png",
+                    "Url": "\/coins\/vrc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4524,
+                    "Name": "FeatherCoin",
+                    "FullName": "FeatherCoin (FTC)",
+                    "ImageUrl": "\/media\/19718\/ftc.png",
+                    "Url": "\/coins\/ftc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186875,
+                    "Name": "Storm",
+                    "FullName": "Storm (STORM)",
+                    "ImageUrl": "\/media\/1383803\/storm.jpg",
+                    "Url": "\/coins\/storm\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "Points": 0,
+            "Followers": 0,
+            "PageViewsSplit": {
+                "Overview": 28,
+                "Markets": 1,
+                "Analysis": 7,
+                "Charts": 4,
+                "Trades": 3,
+                "Orderbook": 0,
+                "Forum": 5,
+                "Influence": 7
+            },
+            "PageViews": 55
+        },
+        "Twitter": {
+            "following": "10",
+            "account_creation": "1513219748",
+            "name": "Fuloos Coin",
+            "lists": 1,
+            "favourites": "75",
+            "statuses": 86,
+            "followers": 30145,
+            "link": "https:\/\/twitter.com\/realfuloos",
+            "Points": 30150
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 68709,
+            "link": "https:\/\/www.facebook.com\/Fuloos.org\/",
+            "is_closed": "false",
+            "talking_about": "118",
+            "name": "Fuloos.org",
+            "Points": 68709
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1513072551",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "3334",
+                    "closed_total_issues": "0",
+                    "stars": 0,
+                    "last_update": "1513072869",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/fuloos\/Fuloos",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1513759223",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "subscribers": 0,
+                    "language": "C++",
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

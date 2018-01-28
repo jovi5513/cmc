@@ -1,0 +1,233 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BTCA",
+            "CoinName": "Bitair",
+            "Type": "Webpagecoinp",
+            "Points": 1470
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 35953,
+                    "Name": "Enigma",
+                    "FullName": "Enigma (XNG)",
+                    "ImageUrl": "\/media\/352311\/xng.png",
+                    "Url": "\/coins\/xng\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 398705,
+                    "Name": "GoByte",
+                    "FullName": "GoByte (GBX)",
+                    "ImageUrl": "\/media\/15887411\/gbx.png",
+                    "Url": "\/coins\/gbx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4568,
+                    "Name": "MazaCoin",
+                    "FullName": "MazaCoin (MZC)",
+                    "ImageUrl": "\/media\/19816\/mzc.png",
+                    "Url": "\/coins\/mzc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5375,
+                    "Name": "GreenCoin",
+                    "FullName": "GreenCoin (GRE)",
+                    "ImageUrl": "\/media\/1382396\/grn.png",
+                    "Url": "\/coins\/gre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 294364,
+                    "Name": "TokenStars",
+                    "FullName": "TokenStars (ACE)",
+                    "ImageUrl": "\/media\/11999076\/ace.png",
+                    "Url": "\/coins\/ace\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45832,
+                    "Name": "Persistent Information Exchange",
+                    "FullName": "Persistent Information Exchange (PIE)",
+                    "ImageUrl": "\/media\/1382686\/pie.png",
+                    "Url": "\/coins\/pie\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32777,
+                    "Name": "ZCashDarkCoin",
+                    "FullName": "ZCashDarkCoin (ZECD)",
+                    "ImageUrl": "\/media\/351935\/zecd.png",
+                    "Url": "\/coins\/zecd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8717,
+                    "Name": "Gram Coin",
+                    "FullName": "Gram Coin (GRAM)",
+                    "ImageUrl": "\/media\/20688\/gram.png",
+                    "Url": "\/coins\/gram\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 52015,
+                    "Name": "Canada eCoin",
+                    "FullName": "Canada eCoin (CDN)",
+                    "ImageUrl": "\/media\/1382763\/cdn.png",
+                    "Url": "\/coins\/cdn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 322963,
+                    "Name": "Bismuth",
+                    "FullName": "Bismuth (BIS)",
+                    "ImageUrl": "\/media\/12318191\/bis.png",
+                    "Url": "\/coins\/bis\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 554090,
+                    "Name": "Dixieman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/554090\/771b723e-cb1b-4df1-8e11-8641d5d81d5a.jpg",
+                    "Url": "\/profile\/Dixieman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 587684,
+                    "Name": "dezl_v",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/587684\/350a573d-06c3-4c0d-8bd3-3af7e333b43b.jpg",
+                    "Url": "\/profile\/dezl_v\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 600517,
+                    "Name": "robx1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/600517\/6c9f2d9d-1819-465b-a697-bc28dc00ab44.jpg",
+                    "Url": "\/profile\/robx1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 667324,
+                    "Name": "jensvo9el",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/667324\/e23fd007-7477-48db-87b8-0cc995caa142.jpg",
+                    "Url": "\/profile\/jensvo9el\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 592829,
+                    "Name": "LethalHobbo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/592829\/8d4da983-b60f-48e8-874f-bf65912ba394.png",
+                    "Url": "\/profile\/LethalHobbo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 665065,
+                    "Name": "nashxp10",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/665065\/f756d7d5-feae-4656-8b84-e71ea6335d43.jpg",
+                    "Url": "\/profile\/nashxp10\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 284173,
+                    "Name": "uae.forex971",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/284173\/62786f52-540b-49a9-aae0-5062ce2e58b7.jpg",
+                    "Url": "\/profile\/uae.forex971\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 200441,
+                    "Name": "steveosml",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/200441\/8dae0034-0269-4185-9143-f5bae35f47f1.jpg",
+                    "Url": "\/profile\/steveosml\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 658866,
+                    "Name": "aish1102",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/658866\/55faf6e0-8244-4401-9409-694b4357b4ab.jpg",
+                    "Url": "\/profile\/aish1102\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 562691,
+                    "Name": "borlovanpetrica",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/562691\/9c764709-f1d3-450d-935c-b830d318ee42.jpg",
+                    "Url": "\/profile\/borlovanpetrica\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 644926,
+                    "Name": "dbudesa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/644926\/74216212-7d74-4095-9660-172616510f15.jpg",
+                    "Url": "\/profile\/dbudesa\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1470,
+            "Posts": "6",
+            "Comments": "12",
+            "Followers": 48,
+            "PageViewsSplit": {
+                "Overview": 3680,
+                "Markets": 183,
+                "Analysis": 99,
+                "Charts": 193,
+                "Trades": 99,
+                "Orderbook": 0,
+                "Forum": 181,
+                "Influence": 32
+            },
+            "PageViews": 4467
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1504040919",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1504040920",
+                    "closed_total_issues": "0",
+                    "size": "0",
+                    "stars": 0,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1504040919",
+                    "open_pull_issues": "0",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/BitAir\/SmartContract",
+                    "closed_issues": "0",
+                    "open_issues": "0",
+                    "subscribers": 0,
+                    "language": "null",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

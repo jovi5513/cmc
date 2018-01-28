@@ -1,0 +1,182 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CETI",
+            "CoinName": "CETUS Coin",
+            "Type": "Webpagecoinp",
+            "Points": 7115
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 32870,
+                    "Name": "WashingtonCoin",
+                    "FullName": "WashingtonCoin (WASH)",
+                    "ImageUrl": "\/media\/351944\/wash.png",
+                    "Url": "\/coins\/wash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4559,
+                    "Name": "MegaCoin",
+                    "FullName": "MegaCoin (MEC)",
+                    "ImageUrl": "\/media\/19789\/mec.png",
+                    "Url": "\/coins\/mec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29458,
+                    "Name": "GBR Coin",
+                    "FullName": "GBR Coin (GBRC)",
+                    "ImageUrl": "\/media\/351637\/gbrc.png",
+                    "Url": "\/coins\/gbrc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 385907,
+                    "Name": "Grid+",
+                    "FullName": "Grid+ (GRID)",
+                    "ImageUrl": "\/media\/14913632\/grid.png",
+                    "Url": "\/coins\/grid\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 197886,
+                    "Name": "OpenZen",
+                    "FullName": "OpenZen (ZNT)",
+                    "ImageUrl": "\/media\/1383875\/znt.png",
+                    "Url": "\/coins\/znt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 67430,
+                    "Name": "MacronCoin",
+                    "FullName": "MacronCoin (MCRN)",
+                    "ImageUrl": "\/media\/1383111\/mcrn.png",
+                    "Url": "\/coins\/mcrn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3642,
+                    "Name": "KoboCoin",
+                    "FullName": "KoboCoin (KOBO)",
+                    "ImageUrl": "\/media\/20329\/kobo.png",
+                    "Url": "\/coins\/kobo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 413886,
+                    "Name": "FoodCoin",
+                    "FullName": "FoodCoin (FOOD)",
+                    "ImageUrl": "\/media\/16746427\/food.png",
+                    "Url": "\/coins\/food\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182325,
+                    "Name": "DigitalPrice",
+                    "FullName": "DigitalPrice (DP)",
+                    "ImageUrl": "\/media\/1383772\/dp.png",
+                    "Url": "\/coins\/dp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369209,
+                    "Name": "Datacoin",
+                    "FullName": "Datacoin (DTC)",
+                    "ImageUrl": "\/media\/14913440\/dtc.png",
+                    "Url": "\/coins\/dtcstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 623620,
+                    "Name": "najeebtbtc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/623620\/a2038399-703a-4906-a004-e8c2e1580f37.jpg",
+                    "Url": "\/profile\/najeebtbtc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 384568,
+                    "Name": "AF8B1067",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/384568\/8cb38fae-ef8a-44dd-a892-cc692f89fcbd.jpg",
+                    "Url": "\/profile\/AF8B1067\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 219586,
+                    "Name": "5DA4E43A",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/219586\/659e797d-bb13-402c-89b8-0aa4fc73445d.jpg",
+                    "Url": "\/profile\/5DA4E43A\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 25022,
+                    "Name": "DC2AC0AA",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/25022\/6c627d53-a752-4c36-bf30-64cf75711d5d.jpg",
+                    "Url": "\/profile\/DC2AC0AA\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 17423,
+                    "Name": "Kanopt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/17423\/d9aa0e8f-c15a-435b-b257-0e0674a3a600.png",
+                    "Url": "\/profile\/Kanopt\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 175,
+            "Followers": 7,
+            "PageViewsSplit": {
+                "Overview": 406,
+                "Markets": 27,
+                "Analysis": 38,
+                "Charts": 105,
+                "Trades": 54,
+                "Orderbook": 0,
+                "Forum": 50,
+                "Influence": 26
+            },
+            "PageViews": 706
+        },
+        "Twitter": {
+            "following": "4742",
+            "account_creation": "1411304569",
+            "statuses": 797,
+            "favourites": "483",
+            "followers": 6805,
+            "name": "CetusCoin",
+            "link": "https:\/\/twitter.com\/CetusCoin",
+            "lists": 27,
+            "Points": 6940
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

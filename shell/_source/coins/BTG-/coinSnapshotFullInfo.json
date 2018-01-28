@@ -1,0 +1,85 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BitGem (BTG*) - Live streaming prices and market cap",
+            "PageDescription": "Live BitGem prices from all markets and BTG* coin market Capitalization. Stay up to date with the latest BitGem price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19634\/btg.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "245"
+        },
+        "General": {
+            "Id": "4402",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "BitGem (BTG)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BTG*",
+            "Url": "\/coins\/btgstar\/",
+            "BaseAngularUrl": "\/coins\/btgstar\/",
+            "Name": "BitGem",
+            "ImageUrl": "\/media\/19634\/btg.png",
+            "Description": "<p>PoW scrypt and PoS like NovaCoin, but adapted to gem&#39;s character, providing semi-scarce, precious and highly valuable currency properties. Mining a block you could to get up to 3 BTGs.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "1500000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "13\/05\/2013",
+            "Twitter": "",
+            "AffiliateUrl": "http:\/\/www.bitgem.pw\/",
+            "Website": "<a href='http:\/\/www.bitgem.pw\/' target='_blank'>BitGem<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515928635,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 59833.804895,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~BTG*~DOGE",
+            "2~Cryptopia~BTG*~BTC",
+            "2~Cryptopia~BTG*~LTC",
+            "2~Cryptsy~BTG*~BTC",
+            "2~Novaexchange~BTG*~ETH",
+            "2~Cryptsy~BTG*~XRP",
+            "2~EtherDelta~BTG*~ETH",
+            "2~Novaexchange~BTG*~BTC",
+            "2~Cryptopia~BTG*~XMR",
+            "2~Cryptopia~BTG*~FTC",
+            "2~Novaexchange~BTG*~KIC",
+            "2~Novaexchange~BTG*~DOGE",
+            "2~Cryptopia~BTG*~DOT",
+            "2~Cryptopia~BTG*~UNO"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BTG*~DOGE~4~520.0000019~1515195268~1.24906632~649.51448877~1515195268~0~0~0~0~520~520.0000019~520~520.0000019~520.0000019~520.0000019~Cryptopia~7ffe9",
+            "5~CCCAGG~BTG*~BTC~2~0.0006606~1515945344~1.1~0.00072666~1515945344~3575.5680995999983~2.68550699~4069.9569459999993~3.0916367999999994~0.0008197~0.001053~0.000587~0.000819~0.001053~0.000587~Cryptopia~7ffe9",
+            "5~CCCAGG~BTG*~LTC~4~0.04799999~1515181549~3.95961498~0.19006148~1515181549~0~0~0~0~0.048~0.048~0.04799999~0.04799999~0.04799999~0.04799999~Cryptopia~7ffe9",
+            "5~CCCAGG~BTG*~ETH~4~3.1e-7~1511811586~0.99391885~3.081148435e-7~1511811586000~0~0~0~0~3.1e-7~3.1e-7~3.1e-7~3.1e-7~3.1e-7~3.1e-7~EtherDelta~7ffe9",
+            "5~CCCAGG~BTG*~XRP~4~14.96257898~1430791015~3.68812991~55.18393507~92162367~0~0~14.96257898~14.96257898~14.96257898~Cryptsy~78ce9",
+            "5~CCCAGG~BTG*~XMR~4~0.00010536~1486694929~62.5737704~0.006593~1486694929~0~0~0~0~0.00010536~0.00010536~0.00010536~0.00010536~0.00010536~0.00010536~Cryptopia~7ffe9",
+            "5~CCCAGG~BTG*~FTC~4~11.8769067~1488112132~0.00001194~0.000142~1488112132~0~0~0~0~11.8769067~11.8769067~11.8769067~11.8769067~11.8769067~11.8769067~Cryptopia~7ffe9",
+            "5~CCCAGG~BTG*~KIC~4~1000~1505784844~0.0005~0.5~1505784844000~0~0~0~0~1000~1000~1000~1000~1000~1000~Novaexchange~7ffe9",
+            "5~CCCAGG~BTG*~DOT~4~150.00000613~1486696053~4.94924011~742.386047~1486696053~0~0~0~0~150.00000613~150.00000613~150.00000613~150.00000613~150.00000613~150.00000613~Cryptopia~7ffe9",
+            "5~CCCAGG~BTG*~UNO~4~0.042~1495710994~0.00004793~0.00000201~1495710994~0~0~0~0~0.042~0.042~0.042~0.042~0.042~0.042~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

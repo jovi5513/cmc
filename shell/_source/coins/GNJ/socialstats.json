@@ -1,0 +1,182 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GNJ",
+            "CoinName": "GanjaCoin V2",
+            "Type": "Webpagecoinp",
+            "Points": 545
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4604,
+                    "Name": "SilkCoin",
+                    "FullName": "SilkCoin (SILK)",
+                    "ImageUrl": "\/media\/20057\/silk.png",
+                    "Url": "\/coins\/silk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 385933,
+                    "Name": "PlatinumBAR",
+                    "FullName": "PlatinumBAR (XPTX)",
+                    "ImageUrl": "\/media\/14913633\/xptx.png",
+                    "Url": "\/coins\/xptx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6096,
+                    "Name": "World Trade Funds",
+                    "FullName": "World Trade Funds (XWT)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/xwt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3648,
+                    "Name": "CleverHash",
+                    "FullName": "CleverHash (CHASH)",
+                    "ImageUrl": "\/media\/20231\/chash.png",
+                    "Url": "\/coins\/chash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8683,
+                    "Name": "BitSeeds",
+                    "FullName": "BitSeeds (XSEED)",
+                    "ImageUrl": "\/media\/20163\/xseed.png",
+                    "Url": "\/coins\/xseed\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 59966,
+                    "Name": "StarCredits",
+                    "FullName": "StarCredits (SRC*)",
+                    "ImageUrl": "\/media\/1382936\/src1.png",
+                    "Url": "\/coins\/srcstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22180,
+                    "Name": "ExitCoin",
+                    "FullName": "ExitCoin (EXIT)",
+                    "ImageUrl": "\/media\/351065\/exit.png",
+                    "Url": "\/coins\/exit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4342,
+                    "Name": "BoostCoin",
+                    "FullName": "BoostCoin (BOST)",
+                    "ImageUrl": "\/media\/19626\/bost.png",
+                    "Url": "\/coins\/bost\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5363,
+                    "Name": "MaryJane Coin",
+                    "FullName": "MaryJane Coin (MARYJ)",
+                    "ImageUrl": "\/media\/20343\/maryj.png",
+                    "Url": "\/coins\/maryj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5354,
+                    "Name": "CypherPunkCoin",
+                    "FullName": "CypherPunkCoin (CYP)",
+                    "ImageUrl": "\/media\/20248\/cyp.png",
+                    "Url": "\/coins\/cyp\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 565252,
+                    "Name": "ROLLINGSTONE",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/565252\/82b831bf-955b-42a1-a70c-ebad613bfe7a.png",
+                    "Url": "\/profile\/ROLLINGSTONE\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 85728,
+                    "Name": "grigoriodesmo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/85728\/f109bd9b-bc3e-4e33-8397-c99b63252361.jpg",
+                    "Url": "\/profile\/grigoriodesmo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 336022,
+                    "Name": "j.r.smith.com",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/336022\/bdfded24-c897-495a-95eb-d0f662ec04b5.jpg",
+                    "Url": "\/profile\/j.r.smith.com\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 313822,
+                    "Name": "mylifeislove50",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/313822\/a97fdcdd-c147-46ba-ace7-226b16a3c720.jpg",
+                    "Url": "\/profile\/mylifeislove50\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 133078,
+                    "Name": "jamimantellino",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/133078\/46808484-56ff-408c-8fbd-734197426b35.jpg",
+                    "Url": "\/profile\/jamimantellino\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 212230,
+                    "Name": "imartinson",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/212230\/91ad2fb0-3965-4a76-a1fa-6ca649342047.jpg",
+                    "Url": "\/profile\/imartinson\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 165627,
+                    "Name": "unrulyelite",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/165627\/a8cb0080-4851-46b2-93b6-ad140dc269dc.png",
+                    "Url": "\/profile\/unrulyelite\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 7,
+            "Points": 175,
+            "PageViewsSplit": {
+                "Overview": 542,
+                "Markets": 56,
+                "Analysis": 45,
+                "Charts": 48,
+                "Trades": 48,
+                "Orderbook": 3,
+                "Forum": 23,
+                "Influence": 11
+            },
+            "PageViews": 776
+        },
+        "Twitter": {
+            "followers": 320,
+            "following": "333",
+            "lists": 10,
+            "favourites": "3",
+            "statuses": 20,
+            "account_creation": "1476742035",
+            "name": "GanjaCoin",
+            "link": "https:\/\/twitter.com\/GanjaCoinV2",
+            "Points": 370
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

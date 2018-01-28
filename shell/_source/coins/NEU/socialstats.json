@@ -1,0 +1,226 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NEU",
+            "CoinName": "Neumark",
+            "Type": "Webpagecoinp",
+            "Points": 6359
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 29378,
+                    "Name": "Mycelium Token",
+                    "FullName": "Mycelium Token (MT)",
+                    "ImageUrl": "\/media\/19453\/mycelium.png",
+                    "Url": "\/coins\/mt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 40990,
+                    "Name": "YesCoin",
+                    "FullName": "YesCoin (YES)",
+                    "ImageUrl": "\/media\/1382269\/yes.png",
+                    "Url": "\/coins\/yes\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517896,
+                    "Name": "LockChain",
+                    "FullName": "LockChain (LOC*)",
+                    "ImageUrl": "\/media\/16746675\/loc.png",
+                    "Url": "\/coins\/locstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5314,
+                    "Name": "QoraCoin",
+                    "FullName": "QoraCoin (QORA)",
+                    "ImageUrl": "\/media\/19876\/qora.png",
+                    "Url": "\/coins\/qora\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 57705,
+                    "Name": "Kay\u0131",
+                    "FullName": "Kay\u0131 (KAYI)",
+                    "ImageUrl": "\/media\/1382863\/kayi.png",
+                    "Url": "\/coins\/kayi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33403,
+                    "Name": "EtherDoge",
+                    "FullName": "EtherDoge (DOGETH)",
+                    "ImageUrl": "\/media\/352023\/dogeth-2.png",
+                    "Url": "\/coins\/dogeth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5030,
+                    "Name": "PayCoin",
+                    "FullName": "PayCoin (XPY)",
+                    "ImageUrl": "\/media\/20076\/xpy_1.png",
+                    "Url": "\/coins\/xpy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 181373,
+                    "Name": "Dinastycoin",
+                    "FullName": "Dinastycoin (DCY)",
+                    "ImageUrl": "\/media\/1383767\/dcy.png",
+                    "Url": "\/coins\/dcy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4321,
+                    "Name": "42 Coin",
+                    "FullName": "42 Coin (42)",
+                    "ImageUrl": "\/media\/12318415\/42.png",
+                    "Url": "\/coins\/42\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340872,
+                    "Name": "Propthereum",
+                    "FullName": "Propthereum (PTC*)",
+                    "ImageUrl": "\/media\/14913426\/ptc.png",
+                    "Url": "\/coins\/ptcstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 153158,
+                    "Name": "kerstineichmann",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/153158\/835f601e-45a2-4251-988c-904392042667.jpg",
+                    "Url": "\/profile\/kerstineichmann\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 257793,
+                    "Name": "to.kern",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/257793\/6f8af3ef-7d9e-4ef1-8759-1c0451dc8ae2.jpg",
+                    "Url": "\/profile\/to.kern\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 645751,
+                    "Name": "sferrari2001",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/645751\/98fa1632-c866-430d-b208-3343fcf6c6de.jpg",
+                    "Url": "\/profile\/sferrari2001\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 640133,
+                    "Name": "k-andrey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/640133\/9eb66ac1-d712-461c-8c4d-63838413f8b4.jpg",
+                    "Url": "\/profile\/k-andrey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 218487,
+                    "Name": "dfwd",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/218487\/943d39d6-18c2-49d1-a28e-84c434d1a85a.jpg",
+                    "Url": "\/profile\/dfwd\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 618398,
+                    "Name": "josh9",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/618398\/1c7a3766-7065-49dc-b9b5-a37702a33843.jpg",
+                    "Url": "\/profile\/josh9\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 506058,
+                    "Name": "2448551D",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/506058\/b7a91c8e-71c6-40a6-8003-5bf36d2402b9.jpg",
+                    "Url": "\/profile\/2448551D\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 27329,
+                    "Name": "DZ88",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/27329\/5f82efd5-230b-408a-8b7e-94161e1b786a.png",
+                    "Url": "\/profile\/DZ88\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 608343,
+                    "Name": "bnvidal",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/608343\/4f465fcc-1795-4519-8a3f-39dae21d8043.jpg",
+                    "Url": "\/profile\/bnvidal\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 486722,
+                    "Name": "johnnyfogel",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/486722\/94f3bc91-eab2-4f74-9561-bc647ca4b7cd.jpg",
+                    "Url": "\/profile\/johnnyfogel\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 528994,
+                    "Name": "abremen74",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/528994\/d73c6008-e78a-4a7c-a175-f0640473ecea.jpg",
+                    "Url": "\/profile\/abremen74\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1060,
+            "Posts": "7",
+            "Comments": "6",
+            "Followers": 33,
+            "PageViewsSplit": {
+                "Overview": 3158,
+                "Markets": 305,
+                "Analysis": 174,
+                "Charts": 158,
+                "Trades": 172,
+                "Orderbook": 1,
+                "Forum": 128,
+                "Influence": 47
+            },
+            "PageViews": 4143
+        },
+        "Twitter": {
+            "statuses": 624,
+            "favourites": "1362",
+            "following": "513",
+            "account_creation": "1472811251",
+            "followers": 2331,
+            "name": "Neufund",
+            "link": "https:\/\/twitter.com\/neufundorg",
+            "lists": 63,
+            "Points": 2646
+        },
+        "Reddit": {
+            "posts_per_hour": "0.01",
+            "link": "https:\/\/www.reddit.com\/r\/neufund\/",
+            "comments_per_hour": "0.04",
+            "posts_per_day": "0.17",
+            "active_users": 19,
+            "community_creation": "1480530328",
+            "subscribers": 279,
+            "name": "neufund",
+            "comments_per_day": 1.07,
+            "Points": 338
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "55",
+            "name": "Neufund",
+            "likes": 2315,
+            "link": "https:\/\/www.facebook.com\/neufundorg\/",
+            "Points": 2315
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

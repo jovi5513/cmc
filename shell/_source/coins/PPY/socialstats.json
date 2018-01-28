@@ -1,0 +1,226 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PPY",
+            "CoinName": "Peerplays",
+            "Type": "Webpagecoinp",
+            "Points": 148557
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 185689,
+                    "Name": "BitClave",
+                    "FullName": "BitClave (CAT*)",
+                    "ImageUrl": "\/media\/20780714\/cat.png",
+                    "Url": "\/coins\/cat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30022,
+                    "Name": "ZCoin",
+                    "FullName": "ZCoin (XZC)",
+                    "ImageUrl": "\/media\/1382780\/xzc1.png",
+                    "Url": "\/coins\/xzc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 116180,
+                    "Name": "ZenCash",
+                    "FullName": "ZenCash (ZEN)",
+                    "ImageUrl": "\/media\/1383502\/zen.png",
+                    "Url": "\/coins\/zen\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 208914,
+                    "Name": "Monetha",
+                    "FullName": "Monetha (MTH)",
+                    "ImageUrl": "\/media\/1383976\/mth.png",
+                    "Url": "\/coins\/mth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22327,
+                    "Name": "Bancor Network Token",
+                    "FullName": "Bancor Network Token (BNT)",
+                    "ImageUrl": "\/media\/1383549\/bnt.jpg",
+                    "Url": "\/coins\/bnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 12194,
+                    "Name": "Expanse",
+                    "FullName": "Expanse (EXP)",
+                    "ImageUrl": "\/media\/20707\/exp.png",
+                    "Url": "\/coins\/exp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 299397,
+                    "Name": "Waltonchain",
+                    "FullName": "Waltonchain (WTC)",
+                    "ImageUrl": "\/media\/12317959\/wtc.png",
+                    "Url": "\/coins\/wtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 335059,
+                    "Name": "Request Network",
+                    "FullName": "Request Network (REQ)",
+                    "ImageUrl": "\/media\/12318260\/req.png",
+                    "Url": "\/coins\/req\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340940,
+                    "Name": "WaBi",
+                    "FullName": "WaBi (WABI)",
+                    "ImageUrl": "\/media\/12318331\/wabi.png",
+                    "Url": "\/coins\/wabi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20730,
+                    "Name": "AeonCoin",
+                    "FullName": "AeonCoin (AEON)",
+                    "ImageUrl": "\/media\/350955\/aeon.png",
+                    "Url": "\/coins\/aeon\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 566321,
+                    "Name": "Orkun",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/566321\/f49011dd-0ea3-4904-8bec-30481c29e01a.jpg",
+                    "Url": "\/profile\/Orkun\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 492007,
+                    "Name": "skycrane50",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/492007\/07561a3e-f0be-49a4-929e-a7a9a0b2b9e0.jpg",
+                    "Url": "\/profile\/skycrane50\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 124658,
+                    "Name": "MAHDIAGER",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/124658\/60590893-fea1-4054-bebc-ad243030163a.jpg",
+                    "Url": "\/profile\/MAHDIAGER\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 613149,
+                    "Name": "60E72BD4",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/613149\/cc5dafcb-1d7f-4de9-a187-6c38413192c0.jpg",
+                    "Url": "\/profile\/60E72BD4\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 596287,
+                    "Name": "jbowersock",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596287\/70fb0a13-5d7d-43ba-a279-cbc4f7887854.jpg",
+                    "Url": "\/profile\/jbowersock\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 65592,
+                    "Name": "lekritze",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/65592\/c1e7dfc5-5d8a-4668-bc84-f29683ee63ad.jpg",
+                    "Url": "\/profile\/lekritze\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 248370,
+                    "Name": "lediszep",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/248370\/36b7cbbc-12e3-428c-9cb7-9e77e196b752.png",
+                    "Url": "\/profile\/lediszep\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 410359,
+                    "Name": "499FDABB",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/410359\/90c6e548-99e7-4873-a8a7-adce6bbc6ad1.jpg",
+                    "Url": "\/profile\/499FDABB\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 415947,
+                    "Name": "erp_pros",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/415947\/dd5eee18-67e7-4ad2-9278-f29ab8e3ab04.jpg",
+                    "Url": "\/profile\/erp_pros\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 375844,
+                    "Name": "avidking",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/375844\/7a2a9180-60e6-445d-8a69-d1b8a31fbc82.jpg",
+                    "Url": "\/profile\/avidking\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 472086,
+                    "Name": "JimmyTrouble",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/472086\/0a6ef3e5-d1e9-4577-a7fd-8c4b0cac8a64.jpg",
+                    "Url": "\/profile\/JimmyTrouble\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 4000,
+            "Posts": "21",
+            "Comments": "5",
+            "Followers": 137,
+            "PageViewsSplit": {
+                "Overview": 3937,
+                "Markets": 260,
+                "Analysis": 90,
+                "Charts": 200,
+                "Trades": 106,
+                "Orderbook": 5,
+                "Forum": 333,
+                "Influence": 55
+            },
+            "PageViews": 4986
+        },
+        "Twitter": {
+            "statuses": 484,
+            "favourites": "440",
+            "following": "2209",
+            "account_creation": "1454985590",
+            "followers": 3215,
+            "name": "PeerPlays",
+            "link": "https:\/\/twitter.com\/PeerPlays",
+            "lists": 97,
+            "Points": 3700
+        },
+        "Reddit": {
+            "posts_per_hour": "0.01",
+            "link": "https:\/\/www.reddit.com\/r\/Peerplays\/",
+            "comments_per_hour": "0.03",
+            "posts_per_day": "0.27",
+            "active_users": 20,
+            "community_creation": "1461860963",
+            "subscribers": 248,
+            "name": "Peerplays",
+            "comments_per_day": 0.66,
+            "Points": 309
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "47",
+            "name": "PeerPlays",
+            "likes": 140548,
+            "link": "https:\/\/www.facebook.com\/PeerPlays\/",
+            "Points": 140548
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

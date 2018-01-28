@@ -1,0 +1,72 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "RaiBlocks (XRB) - Live streaming prices and market cap",
+            "PageDescription": "Live RaiBlocks prices from all markets and XRB coin market Capitalization. Stay up to date with the latest RaiBlocks price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1383674\/xrb.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "172091",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "RaiBlocks (XRB)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "XRB",
+            "Url": "\/coins\/xrb\/",
+            "BaseAngularUrl": "\/coins\/xrb\/",
+            "Name": "RaiBlocks",
+            "ImageUrl": "\/media\/1383674\/xrb.png",
+            "Description": "<p><span>RaiBlocks is designed to be a\u00a0<\/span><strong>low latency<\/strong><span>,<span>\u00a0<\/span><\/span><strong>high throughput<\/strong><span><span>\u00a0<\/span>cryptocurrency. It<\/span> builds on an analogy from the electrical engineering discipline by equating network consensus to arbiters circuits. This gives RaiBlocks an established and well researched modeling basis for how the system comes to a distributed, egalitarian, and efficient conclusion. In the RaiBlocks system,\u00a0each account in the system has a block chain that is controlled only by them, all chains are replicated to all peers in the network, removing block intervals, mining, transaction fees.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "340282367",
+            "Algorithm": "Blake2b",
+            "ProofType": "PoW",
+            "StartDate": "29\/02\/2016",
+            "Twitter": "@raiblocks",
+            "AffiliateUrl": "https:\/\/raiblocks.net\/",
+            "Website": "<a href='https:\/\/raiblocks.net\/' target='_blank'>RaiBlocks<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970063,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 133248289,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Kucoin~XRB~ETH",
+            "2~Cryptopia~XRB~BTC",
+            "2~Kucoin~XRB~BTC",
+            "2~Cryptopia~XRB~DOT",
+            "2~Cryptopia~XRB~DOGE",
+            "2~Cryptopia~XRB~LTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~XRB~ETH~1~0.01688~1515978187~7.109004~0.11999998751999999~1515978187000~12629.400654~211.235668083172~116081.620722~1945.2669850476448~0.01625~0.01723~0.01625~0.01844~0.01898~0.0135~Kucoin~7ffe9",
+            "5~CCCAGG~XRB~BTC~4~0.001665~1515978167~136.560445~0.227373140925~1515978167000~14000.806502000003~23.317466783057995~219488.68360000005~362.12023622952415~0.001617~0.0017~0.001613~0.00178~0.001815~0.0013~Kucoin~7ffe9",
+            "5~CCCAGG~XRB~DOT~4~20.00000015~1489051441~4.99999996~100~1489051441.001~0~0~0~0~20.00000015~20.00000015~20.00000015~20.00000015~20.00000015~20.00000015~Cryptopia~7ffe9",
+            "5~CCCAGG~XRB~DOGE~4~34~1489310446~185.202577~6296.887618~1489310446~0~0~0~0~34~34~34~34~34~34~Cryptopia~7ffe9",
+            "5~CCCAGG~XRB~LTC~4~0.00055~1489259289~2.00000087~0.0011~1489259289~0~0~0~0~0.00055~0.00055~0.00055~0.00055~0.00055~0.00055~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

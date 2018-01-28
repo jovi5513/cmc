@@ -1,0 +1,30 @@
+---
+layout: market
+title: VectorAI
+meta-title: 
+h1-title: 
+meta-description: 
+image: "/media/351101/vec2.png"
+published: true
+allow_search_engine: false
+sitemap: false
+enable_comment: false
+sort_order: 1075
+permalink: "/en/vec2/market.html"
+coin_a_symbol: "VEC2"
+coin_a_name: "VectorCoin 2.0 "
+coin_a_lower_case: "vec2"
+price_usd: "0.00775474"
+price_btc: "0.00000066"
+24h_volume_usd: "449.99"
+market_cap_usd: "16840556.0"
+total_supply: "16840556.0"
+available_supply: "16840556.0"
+percent_change_1h: "-17.12"
+percent_change_24h: "5.57"
+percent_change_7d: "-30.76"
+last_updated: "1517140747"
+parent-url: "/en/vec2/"
+author: Sam
+---
+

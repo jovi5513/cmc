@@ -1,0 +1,159 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GCC*",
+            "CoinName": "TheGCCcoin",
+            "Type": "Webpagecoinp",
+            "Points": 1093
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 63312,
+                    "Name": "EmporiumCoin",
+                    "FullName": "EmporiumCoin (EMPC)",
+                    "ImageUrl": "\/media\/1383081\/empc.png",
+                    "Url": "\/coins\/empc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28330,
+                    "Name": "Gold Pressed Latinum",
+                    "FullName": "Gold Pressed Latinum (GPL)",
+                    "ImageUrl": "\/media\/351525\/gpl.png",
+                    "Url": "\/coins\/gpl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24405,
+                    "Name": "BitMoon",
+                    "FullName": "BitMoon (BM)",
+                    "ImageUrl": "\/media\/351311\/bm.png",
+                    "Url": "\/coins\/bm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35226,
+                    "Name": "ShortyCoin",
+                    "FullName": "ShortyCoin (SHORTY)",
+                    "ImageUrl": "\/media\/352222\/shorty.png",
+                    "Url": "\/coins\/shorty\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22177,
+                    "Name": "Obscurebay",
+                    "FullName": "Obscurebay (OBS)",
+                    "ImageUrl": "\/media\/351064\/obs.png",
+                    "Url": "\/coins\/obs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43257,
+                    "Name": "SmurfCoin",
+                    "FullName": "SmurfCoin (SMF)",
+                    "ImageUrl": "\/media\/1382468\/xmf.png",
+                    "Url": "\/coins\/smf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33127,
+                    "Name": "PenCoin",
+                    "FullName": "PenCoin (PEN)",
+                    "ImageUrl": "\/media\/20384\/pen.png",
+                    "Url": "\/coins\/pen\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20679,
+                    "Name": "InvisibleCoin",
+                    "FullName": "InvisibleCoin (IVZ)",
+                    "ImageUrl": "\/media\/350944\/ivz.png",
+                    "Url": "\/coins\/ivz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44749,
+                    "Name": "ErrorCoin",
+                    "FullName": "ErrorCoin (ERR)",
+                    "ImageUrl": "\/media\/1382624\/err.png",
+                    "Url": "\/coins\/err\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7624,
+                    "Name": "SpinCoin",
+                    "FullName": "SpinCoin (SPC)",
+                    "ImageUrl": "\/media\/20655\/spc.png",
+                    "Url": "\/coins\/spc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "PageViewsSplit": {
+                "Overview": 6,
+                "Markets": 0,
+                "Analysis": 1,
+                "Charts": 2,
+                "Trades": 1,
+                "Orderbook": 0,
+                "Forum": 2,
+                "Influence": 1
+            },
+            "PageViews": 13
+        },
+        "Twitter": {
+            "statuses": 222,
+            "favourites": "159",
+            "following": "1542",
+            "account_creation": "1435330164",
+            "followers": 982,
+            "name": "The GCC Group",
+            "link": "https:\/\/twitter.com\/TheGCCGroup_",
+            "lists": 19,
+            "Points": 1077
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1502373612",
+                    "open_total_issues": "5",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "0",
+                    "size": "22448",
+                    "last_push": "1509087938",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "stars": 2,
+                    "open_pull_issues": "0",
+                    "last_update": "1509751001",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/TheGCCcoin\/TheGCCcoin-source-code",
+                    "closed_issues": "0",
+                    "open_issues": "5",
+                    "language": "C++",
+                    "subscribers": 4,
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 16
+        }
+    }
+}

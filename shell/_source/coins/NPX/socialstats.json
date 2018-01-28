@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NPX",
+            "CoinName": "Napoleon X",
+            "Type": "Webpagecoinp",
+            "Points": 11718
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 345544,
+                    "Name": "Bitcomo",
+                    "FullName": "Bitcomo (BM*)",
+                    "ImageUrl": "\/media\/12318361\/bm.png",
+                    "Url": "\/coins\/bmstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4563,
+                    "Name": "Cryptsy Mining Contract",
+                    "FullName": "Cryptsy Mining Contract (MN)",
+                    "ImageUrl": "\/media\/19796\/mn1.png",
+                    "Url": "\/coins\/mn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 61061,
+                    "Name": "Solaris",
+                    "FullName": "Solaris (XLR)",
+                    "ImageUrl": "\/media\/1382994\/xlr.png",
+                    "Url": "\/coins\/xlr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182288,
+                    "Name": "Denarius",
+                    "FullName": "Denarius (DNR)",
+                    "ImageUrl": "\/media\/1383770\/dnr.png",
+                    "Url": "\/coins\/dnr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 51845,
+                    "Name": "Zero",
+                    "FullName": "Zero (ZER)",
+                    "ImageUrl": "\/media\/1382761\/zer.png",
+                    "Url": "\/coins\/zer\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20339,
+                    "Name": "Dotcoin",
+                    "FullName": "Dotcoin (DOT)",
+                    "ImageUrl": "\/media\/350909\/dot.png",
+                    "Url": "\/coins\/dot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 543363,
+                    "Name": "Bounty0x",
+                    "FullName": "Bounty0x (BNTY)",
+                    "ImageUrl": "\/media\/20780588\/bnty.png",
+                    "Url": "\/coins\/bnty\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 136269,
+                    "Name": "Skycoin",
+                    "FullName": "Skycoin (SKY)",
+                    "ImageUrl": "\/media\/1383565\/sky.png",
+                    "Url": "\/coins\/sky\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 313967,
+                    "Name": "TrackNetToken",
+                    "FullName": "TrackNetToken (MTN)",
+                    "ImageUrl": "\/media\/12318118\/mtn.png",
+                    "Url": "\/coins\/mtn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 375855,
+                    "Name": "ATFS Project",
+                    "FullName": "ATFS Project (ATFS)",
+                    "ImageUrl": "\/media\/14913545\/atfs.png",
+                    "Url": "\/coins\/atfs\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 615057,
+                    "Name": "thelastottoman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/615057\/ba6728b4-a7ba-4567-b0f6-e0fb1fbd5e66.jpg",
+                    "Url": "\/profile\/thelastottoman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 675117,
+                    "Name": "kanemtradingco",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675117\/608050da-3f25-4f9a-8b7a-8babd31d114b.jpg",
+                    "Url": "\/profile\/kanemtradingco\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 620058,
+                    "Name": "cembaspinar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/620058\/1fe90644-0d3f-4eb0-af69-c07c911cf70a.jpg",
+                    "Url": "\/profile\/cembaspinar\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 641625,
+                    "Name": "klsfin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/641625\/84a47ebb-9f00-440a-99fa-60431658ae91.jpg",
+                    "Url": "\/profile\/klsfin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 67695,
+                    "Name": "codjosan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/67695\/8aa37123-2222-4186-b0b0-f57b900fb360.jpg",
+                    "Url": "\/profile\/codjosan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 645735,
+                    "Name": "cryptozan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/645735\/bb204f8e-d88f-476c-94eb-4b0e6d15c1f2.png",
+                    "Url": "\/profile\/cryptozan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 643814,
+                    "Name": "jassonmackay",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/643814\/fc3f34ee-53f5-420a-900e-b5dd4f541e7e.jpg",
+                    "Url": "\/profile\/jassonmackay\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 617282,
+                    "Name": "CryptAT",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/617282\/abc9d0a4-edc7-49fe-bdee-7429f18f1a5d.jpg",
+                    "Url": "\/profile\/CryptAT\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 633244,
+                    "Name": "cocoepps",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/633244\/db2a7501-35d5-4ce6-b7c6-5aa8c77e4ab3.jpg",
+                    "Url": "\/profile\/cocoepps\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 637426,
+                    "Name": "mourad621",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/637426\/340ec038-096f-4261-a613-66ca49a1a098.jpg",
+                    "Url": "\/profile\/mourad621\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 186687,
+                    "Name": "aeioumo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/186687\/d07a4226-3505-4919-b18b-8b29ff0c27d6.jpg",
+                    "Url": "\/profile\/aeioumo\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1785,
+            "Posts": "3",
+            "Comments": "1",
+            "Followers": 68,
+            "PageViewsSplit": {
+                "Overview": 5782,
+                "Markets": 68,
+                "Analysis": 77,
+                "Charts": 24,
+                "Trades": 28,
+                "Orderbook": 16,
+                "Forum": 53,
+                "Influence": 165
+            },
+            "PageViews": 6213
+        },
+        "Twitter": {
+            "statuses": 2140,
+            "favourites": "1084",
+            "following": "1476",
+            "account_creation": "1493976675",
+            "followers": 3560,
+            "name": "NaPoleonX",
+            "link": "https:\/\/twitter.com\/NapoleonXai",
+            "lists": 26,
+            "Points": 3692
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "164",
+            "name": "NaPoleonX",
+            "likes": 6241,
+            "link": "https:\/\/www.facebook.com\/NapoleonXProject\/",
+            "Points": 6241
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

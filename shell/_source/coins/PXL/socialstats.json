@@ -1,0 +1,183 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PXL",
+            "CoinName": "Phalanx",
+            "Type": "Webpagecoinp",
+            "Points": 177
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28019,
+                    "Name": "bitCNY",
+                    "FullName": "bitCNY (BITCNY)",
+                    "ImageUrl": "\/media\/351490\/bitcny.png",
+                    "Url": "\/coins\/bitcny\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 362846,
+                    "Name": "Bitcloud 2.0",
+                    "FullName": "Bitcloud 2.0 (BTDX)",
+                    "ImageUrl": "\/media\/14761939\/btdx.png",
+                    "Url": "\/coins\/btdx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29928,
+                    "Name": "Resumeo Shares",
+                    "FullName": "Resumeo Shares (RMS)",
+                    "ImageUrl": "\/media\/351701\/rms.png",
+                    "Url": "\/coins\/rms\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4334,
+                    "Name": "AXRON",
+                    "FullName": "AXRON (AXR)",
+                    "ImageUrl": "\/media\/20086\/axr.png",
+                    "Url": "\/coins\/axr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 380671,
+                    "Name": "WiserCoin",
+                    "FullName": "WiserCoin (WSC)",
+                    "ImageUrl": "\/media\/14913560\/wsc.png",
+                    "Url": "\/coins\/wsc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 213113,
+                    "Name": "Bitmxittz",
+                    "FullName": "Bitmxittz (BMXT)",
+                    "ImageUrl": "\/media\/1383984\/bmxt.png",
+                    "Url": "\/coins\/bmxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517389,
+                    "Name": "AC3",
+                    "FullName": "AC3 (AC3)",
+                    "ImageUrl": "\/media\/16746668\/ac3.png",
+                    "Url": "\/coins\/ac3\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 638297,
+                    "Name": "QubitCoin",
+                    "FullName": "QubitCoin (Q2C)",
+                    "ImageUrl": "\/media\/19872\/q2c.jpg",
+                    "Url": "\/coins\/q2c\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45821,
+                    "Name": "EagleCoin",
+                    "FullName": "EagleCoin (EA)",
+                    "ImageUrl": "\/media\/1382685\/ea.png",
+                    "Url": "\/coins\/ea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21219,
+                    "Name": "Uther",
+                    "FullName": "Uther (UTH)",
+                    "ImageUrl": "\/media\/350998\/uth.png",
+                    "Url": "\/coins\/uth\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 348198,
+                    "Name": "moongoon1080",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/348198\/9d926532-2db6-4a7d-a7af-46fe7ad77e95.jpg",
+                    "Url": "\/profile\/moongoon1080\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 326270,
+                    "Name": "jhndez26",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/326270\/d7008cce-51a5-4a23-95c5-34604839ecb1.jpg",
+                    "Url": "\/profile\/jhndez26\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 237,
+                "Markets": 25,
+                "Analysis": 29,
+                "Charts": 25,
+                "Trades": 38,
+                "Orderbook": 0,
+                "Forum": 24,
+                "Influence": 11
+            },
+            "PageViews": 389
+        },
+        "Twitter": {
+            "lists": 4,
+            "favourites": "3",
+            "statuses": 19,
+            "following": "76",
+            "account_creation": "1425970149",
+            "name": "PXL_Dev",
+            "followers": 77,
+            "link": "https:\/\/twitter.com\/PLXDev",
+            "Points": 97
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/PLXDev\/PLX",
+                    "last_update": "1425951231",
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "size": "2584",
+                    "created_at": "1425951021",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1425951231",
+                    "stars": 0
+                }
+            ],
+            "Points": 5
+        }
+    }
+}

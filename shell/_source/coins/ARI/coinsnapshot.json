@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "ARI",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000133",
+            "LASTUPDATE": "1516089672",
+            "LASTVOLUME": "172.14995534",
+            "LASTVOLUMETO": "0.00022896",
+            "LASTTRADEID": "1516089672.002",
+            "VOLUMEDAY": "3249060.6652583526",
+            "VOLUMEDAYTO": "4.494799360000007",
+            "VOLUME24HOUR": "14625268.855350161",
+            "VOLUME24HOURTO": "21.52727849000001",
+            "OPENDAY": "0.00000105",
+            "HIGHDAY": "0.00000184",
+            "LOWDAY": "9e-7",
+            "OPEN24HOUR": "0.00000111",
+            "HIGH24HOUR": "0.00000218",
+            "LOW24HOUR": "8.7e-7",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "ARI",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "5.2e-7",
+                "LASTUPDATE": "1432311215",
+                "LASTVOLUME": "1601.63037026",
+                "LASTVOLUMETO": "0.00083284",
+                "LASTTRADEID": "91398",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "5.2e-7",
+                "HIGH24HOUR": "5.2e-7",
+                "LOW24HOUR": "5.2e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "ARI",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000133",
+                "LASTUPDATE": "1516089672",
+                "LASTVOLUME": "172.14995534",
+                "LASTVOLUMETO": "0.00022896",
+                "LASTTRADEID": "1516089672.002",
+                "VOLUME24HOUR": "14626908.367370881",
+                "VOLUME24HOURTO": "21.52947043000001",
+                "OPEN24HOUR": "0.00000111",
+                "HIGH24HOUR": "0.00000218",
+                "LOW24HOUR": "8.7e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "ARI",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "4e-7",
+                "LASTUPDATE": "1452823613",
+                "LASTVOLUME": "28571.42857143",
+                "LASTVOLUMETO": "0.01142857",
+                "LASTTRADEID": "110945852",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "4e-7",
+                "HIGH24HOUR": "4e-7",
+                "LOW24HOUR": "4e-7"
+            }
+        ]
+    },
+    "Type": 100
+}

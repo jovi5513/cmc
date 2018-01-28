@@ -1,0 +1,221 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BMC",
+            "CoinName": "Blackmoon Crypto",
+            "Type": "Webpagecoinp",
+            "Points": 11710
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4630,
+                    "Name": "Unobtanium",
+                    "FullName": "Unobtanium (UNO)",
+                    "ImageUrl": "\/media\/20065\/uno.png",
+                    "Url": "\/coins\/uno\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 16125,
+                    "Name": "Bata",
+                    "FullName": "Bata (BTA)",
+                    "ImageUrl": "\/media\/1383113\/bta1.png",
+                    "Url": "\/coins\/bta\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 637681,
+                    "Name": "QLINK",
+                    "FullName": "QLINK (QLC)",
+                    "ImageUrl": "\/media\/20780665\/qlc.png",
+                    "Url": "\/coins\/qlc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22325,
+                    "Name": "MonetaryUnit",
+                    "FullName": "MonetaryUnit (MUE)",
+                    "ImageUrl": "\/media\/351084\/mue.png",
+                    "Url": "\/coins\/mue\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 170958,
+                    "Name": "Quantum",
+                    "FullName": "Quantum (QAU)",
+                    "ImageUrl": "\/media\/1383669\/qau.png",
+                    "Url": "\/coins\/qau\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 318154,
+                    "Name": "XP",
+                    "FullName": "XP (XP)",
+                    "ImageUrl": "\/media\/12318134\/xp.png",
+                    "Url": "\/coins\/xp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 71077,
+                    "Name": "TokenCard  ",
+                    "FullName": "TokenCard   (TKN)",
+                    "ImageUrl": "\/media\/1383157\/tkn.png",
+                    "Url": "\/coins\/tkn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 177139,
+                    "Name": "CoinDash",
+                    "FullName": "CoinDash (CDT)",
+                    "ImageUrl": "\/media\/1383699\/cdt.png",
+                    "Url": "\/coins\/cdt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5299,
+                    "Name": "Positron",
+                    "FullName": "Positron (TRON)",
+                    "ImageUrl": "\/media\/20459\/tron.png",
+                    "Url": "\/coins\/tron\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 136190,
+                    "Name": "Mysterium",
+                    "FullName": "Mysterium (MYST)",
+                    "ImageUrl": "\/media\/1383561\/myst.png",
+                    "Url": "\/coins\/myst\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 494744,
+                    "Name": "aioannou",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/494744\/bc4a571a-1c41-40c4-a299-d0b415b1ec40.jpg",
+                    "Url": "\/profile\/aioannou\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 79863,
+                    "Name": "crankgirl",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/79863\/e11b0355-be78-4955-9baa-bb001f848745.jpg",
+                    "Url": "\/profile\/crankgirl\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 657255,
+                    "Name": "raydmitrij",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/657255\/027e9a5f-8230-4278-b380-0d223bd4fb00.jpg",
+                    "Url": "\/profile\/raydmitrij\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 644501,
+                    "Name": "robertlee623",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/644501\/efd37a81-d790-4d22-a46f-8ab0423a3df1.jpg",
+                    "Url": "\/profile\/robertlee623\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 585825,
+                    "Name": "Tiggerbetty52",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/585825\/a6d499fa-b099-4dfb-bfad-489c5435c304.jpg",
+                    "Url": "\/profile\/Tiggerbetty52\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 590554,
+                    "Name": "funkydrama",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/590554\/1d76e07a-b926-416c-8143-54129daf58c4.png",
+                    "Url": "\/profile\/funkydrama\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 261240,
+                    "Name": "jasonccook",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/261240\/74a02363-db29-4b82-bb5e-33a5640a3d9e.jpg",
+                    "Url": "\/profile\/jasonccook\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 530681,
+                    "Name": "a.zakharov.cd",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/530681\/376b85f5-de82-400e-a13b-aafc424ff2c9.jpg",
+                    "Url": "\/profile\/a.zakharov.cd\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 477485,
+                    "Name": "marc_delgrange",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/477485\/fbb2ea99-f6ab-4cc3-b564-5114559c92c6.jpg",
+                    "Url": "\/profile\/marc_delgrange\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 487149,
+                    "Name": "LRTF1227",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/487149\/c293e849-9f37-4c8e-b683-93192fb5f69b.jpg",
+                    "Url": "\/profile\/LRTF1227\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 4220,
+            "Posts": "31",
+            "Comments": "32",
+            "Followers": 125,
+            "PageViewsSplit": {
+                "Overview": 9947,
+                "Markets": 1056,
+                "Analysis": 350,
+                "Charts": 528,
+                "Trades": 233,
+                "Orderbook": 6,
+                "Forum": 487,
+                "Influence": 71
+            },
+            "PageViews": 12678
+        },
+        "Twitter": {
+            "favourites": "42",
+            "statuses": 251,
+            "following": "68",
+            "account_creation": "1467377778",
+            "followers": 5359,
+            "name": "Blackmoon",
+            "link": "https:\/\/twitter.com\/BlackmoonFG",
+            "lists": 110,
+            "Points": 5909
+        },
+        "Reddit": {
+            "posts_per_hour": "0.04",
+            "link": "https:\/\/www.reddit.com\/r\/BlackMoonCrypto\/",
+            "comments_per_hour": "0.84",
+            "posts_per_day": "1.04",
+            "active_users": 40,
+            "community_creation": "1501734752",
+            "subscribers": 1420,
+            "comments_per_day": 20.12,
+            "name": "BlackMoonCrypto",
+            "Points": 1580
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

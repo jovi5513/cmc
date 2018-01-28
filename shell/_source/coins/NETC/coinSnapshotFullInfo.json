@@ -1,0 +1,70 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "NetworkCoin (NETC) - Live streaming prices and market cap",
+            "PageDescription": "Live NetworkCoin prices from all markets and NETC coin market Capitalization. Stay up to date with the latest NetworkCoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350938\/netc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20647",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "NetworkCoin (NETC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "NETC",
+            "Url": "\/coins\/netc\/",
+            "BaseAngularUrl": "\/coins\/netc\/",
+            "Name": "NetworkCoin",
+            "ImageUrl": "\/media\/350938\/netc.png",
+            "Description": "<p>NetworkCoin uses X13 consensus algorithm, which provides higher security and performance. NETC is a PoW\/PoS Hybrid that provides fast, cheap and safe transactions.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "",
+            "Algorithm": "X13",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "13\/04\/2016",
+            "Twitter": "@Network_Coin",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~NETC~USD",
+            "2~Yobit~NETC~BTC",
+            "2~CCEX~NETC~BTC",
+            "2~Yobit~NETC~RUR",
+            "2~Yobit~NETC~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~NETC~USD~4~0.1~1515939311~3.01363816~0.301363966681908~200000009~3.01363816~0.301363966681908~3.01363816~0.301363966681908~0.6~0.6~0.1~0.1~0.1~0.1~Yobit~7ffe9",
+            "5~CCCAGG~NETC~BTC~4~0.000045~1515847005~9.63822222~0.0004337199999~200000028~0~0~0~0~0.000045~0.000045~0.000045~0.000045~0.000045~0.000045~Yobit~7ffe9",
+            "5~CCCAGG~NETC~RUR~4~6.53~1515827513~11.11842506~72.6033156418~200000004~0~0~0~0~6.53~6.53~6.53~6.53~6.53~6.53~Yobit~7ffe9",
+            "5~CCCAGG~NETC~DOGE~4~899999~1512205275~0.0001~89.99990000000001~164508852~0~0~0~0~899999~899999~899999~899999~899999~899999~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

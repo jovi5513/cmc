@@ -1,0 +1,231 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NUM",
+            "CoinName": "NumbersCoin",
+            "Type": "Webpagecoinp",
+            "Points": 403
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 338156,
+                    "Name": "NetM",
+                    "FullName": "NetM (NTM)",
+                    "ImageUrl": "\/media\/12318286\/ntm.png",
+                    "Url": "\/coins\/ntm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21770,
+                    "Name": "Ratecoin",
+                    "FullName": "Ratecoin (XRA)",
+                    "ImageUrl": "\/media\/351032\/xra.png",
+                    "Url": "\/coins\/xra\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 15888,
+                    "Name": "MindCoin",
+                    "FullName": "MindCoin (MND)",
+                    "ImageUrl": "\/media\/350616\/mnd.png",
+                    "Url": "\/coins\/mnd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4620,
+                    "Name": "TakCoin",
+                    "FullName": "TakCoin (TAK)",
+                    "ImageUrl": "\/media\/19928\/tak.png",
+                    "Url": "\/coins\/tak\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 196560,
+                    "Name": "King93",
+                    "FullName": "King93 (KING)",
+                    "ImageUrl": "\/media\/1383862\/king.png",
+                    "Url": "\/coins\/king\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30523,
+                    "Name": "TeamUP",
+                    "FullName": "TeamUP (TEAM)",
+                    "ImageUrl": "\/media\/351790\/team.png",
+                    "Url": "\/coins\/team\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 304693,
+                    "Name": "3DES",
+                    "FullName": "3DES (3DES)",
+                    "ImageUrl": "\/media\/12318014\/3des.png",
+                    "Url": "\/coins\/3des\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4631,
+                    "Name": "UroCoin",
+                    "FullName": "UroCoin (URO)",
+                    "ImageUrl": "\/media\/19937\/uro.png",
+                    "Url": "\/coins\/uro\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 301119,
+                    "Name": "Deep Gold",
+                    "FullName": "Deep Gold (DEEP)",
+                    "ImageUrl": "\/media\/12317976\/deep.png",
+                    "Url": "\/coins\/deep\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4541,
+                    "Name": "IXcoin",
+                    "FullName": "IXcoin (IXC)",
+                    "ImageUrl": "\/media\/19761\/ixc.png",
+                    "Url": "\/coins\/ixc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 341216,
+                    "Name": "p4157",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/341216\/26779925-a244-41c0-8d46-3711d0661926.jpg",
+                    "Url": "\/profile\/p4157\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 657769,
+                    "Name": "philippjung1984",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/657769\/292de661-d806-4298-a267-fdb4484e9d44.jpg",
+                    "Url": "\/profile\/philippjung1984\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 380016,
+                    "Name": "vsabatino05",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/380016\/0b19a1ca-c21d-43d5-97c8-efc901a9b234.jpg",
+                    "Url": "\/profile\/vsabatino05\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 547884,
+                    "Name": "cashcoachben",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/547884\/369bd96a-7f3b-4aac-8f0f-2f36e96bb448.jpg",
+                    "Url": "\/profile\/cashcoachben\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 89408,
+                    "Name": "Vukinho",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/89408\/69f54f7c-72db-4291-b1d1-dbbc417b67fb.png",
+                    "Url": "\/profile\/Vukinho\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 50521,
+                    "Name": "EURODRY",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/50521\/c77df8a1-89ad-40de-8ed4-dc6cb53c53be.jpg",
+                    "Url": "\/profile\/EURODRY\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 520280,
+                    "Name": "JohnLambent",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/520280\/672fec8f-6bc6-4856-9340-82ebe356a3e5.jpg",
+                    "Url": "\/profile\/JohnLambent\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 532967,
+                    "Name": "njunarunu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/532967\/8992fa64-e00a-44f0-92ae-0158ed99b746.jpg",
+                    "Url": "\/profile\/njunarunu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 112047,
+                    "Name": "ggarcia8808",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/112047\/f095dd7e-0fbc-4c43-b30e-05c38af9613d.jpg",
+                    "Url": "\/profile\/ggarcia8808\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 542735,
+                    "Name": "aceappliance707",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/542735\/d22837cb-2455-4e18-aca1-c6580a43adea.jpg",
+                    "Url": "\/profile\/aceappliance707\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 16,
+            "Points": 400,
+            "PageViewsSplit": {
+                "Overview": 969,
+                "Markets": 63,
+                "Analysis": 40,
+                "Charts": 73,
+                "Trades": 36,
+                "Orderbook": 0,
+                "Forum": 21,
+                "Influence": 28
+            },
+            "PageViews": 1230
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1462201514",
+                    "url": "https:\/\/github.com\/numberscoin\/num",
+                    "forks": 0,
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "size": "1925",
+                    "created_at": "1462201320",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1462201510",
+                    "stars": 0
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

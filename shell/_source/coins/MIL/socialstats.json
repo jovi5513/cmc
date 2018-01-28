@@ -1,0 +1,154 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MIL",
+            "CoinName": "Milllionaire Coin",
+            "Type": "Webpagecoinp",
+            "Points": 479
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 35813,
+                    "Name": "CryptoSpots",
+                    "FullName": "CryptoSpots (CS)",
+                    "ImageUrl": "\/media\/352292\/cs.png",
+                    "Url": "\/coins\/cs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20826,
+                    "Name": "DragonSphere",
+                    "FullName": "DragonSphere (XDB)",
+                    "ImageUrl": "\/media\/350977\/xdb.png",
+                    "Url": "\/coins\/xdb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38277,
+                    "Name": "GAKHcoin",
+                    "FullName": "GAKHcoin (GAKH)",
+                    "ImageUrl": "\/media\/1382090\/gakh.png",
+                    "Url": "\/coins\/gakh\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6116,
+                    "Name": "DarkBit",
+                    "FullName": "DarkBit (DB)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/db\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33393,
+                    "Name": "MegaFlash",
+                    "FullName": "MegaFlash (MEGA)",
+                    "ImageUrl": "\/media\/352020\/mega.png",
+                    "Url": "\/coins\/mega\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4413,
+                    "Name": "CinderCoin",
+                    "FullName": "CinderCoin (CIN)",
+                    "ImageUrl": "\/media\/20698\/cinder.png",
+                    "Url": "\/coins\/cin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 329507,
+                    "Name": "LakeBanker",
+                    "FullName": "LakeBanker (BAC*)",
+                    "ImageUrl": "\/media\/12318229\/bac.png",
+                    "Url": "\/coins\/bacstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4576,
+                    "Name": "NoirBits",
+                    "FullName": "NoirBits (NRB)",
+                    "ImageUrl": "\/media\/19839\/nrb.png",
+                    "Url": "\/coins\/nrb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 447315,
+                    "Name": "Neuro",
+                    "FullName": "Neuro (NRO)",
+                    "ImageUrl": "\/media\/16746592\/nro.png",
+                    "Url": "\/coins\/nro\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5404,
+                    "Name": "BitMiles",
+                    "FullName": "BitMiles (BTMI)",
+                    "ImageUrl": "\/media\/20213\/btmi.png",
+                    "Url": "\/coins\/btmi\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 375247,
+                    "Name": "nattawatll9525",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/375247\/717303e4-ec2f-463c-8930-561c93f8c021.jpg",
+                    "Url": "\/profile\/nattawatll9525\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 232688,
+                    "Name": "dnl_gllrd",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/232688\/0e1848e6-62c8-4a6d-83a2-447ad07d03ce.jpg",
+                    "Url": "\/profile\/dnl_gllrd\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 379,
+                "Markets": 40,
+                "Analysis": 432,
+                "Charts": 25,
+                "Trades": 49,
+                "Orderbook": 3,
+                "Forum": 50,
+                "Influence": 8
+            },
+            "PageViews": 986
+        },
+        "Twitter": {
+            "lists": 7,
+            "favourites": "7",
+            "statuses": 26,
+            "following": "93",
+            "account_creation": "1401503149",
+            "name": "Millionaire Coin",
+            "followers": 369,
+            "link": "https:\/\/twitter.com\/MilCoin",
+            "Points": 404
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

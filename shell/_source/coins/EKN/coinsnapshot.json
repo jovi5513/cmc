@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "EKN",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000261",
+            "LASTUPDATE": "1436081282",
+            "LASTVOLUME": "254.46088772",
+            "LASTVOLUMETO": "0.00066414",
+            "LASTTRADEID": "310220",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.00000261",
+            "HIGHDAY": "0.00000261",
+            "LOWDAY": "0.00000261",
+            "OPEN24HOUR": "0.00000261",
+            "HIGH24HOUR": "0.00000261",
+            "LOW24HOUR": "0.00000261",
+            "LASTMARKET": "BitTrex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "EKN",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000176",
+                "LASTUPDATE": "1435851375",
+                "LASTVOLUME": "3056.22196126",
+                "LASTVOLUMETO": "0.0053789506518176",
+                "LASTTRADEID": "1435851375412",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000176",
+                "HIGH24HOUR": "0.00000176",
+                "LOW24HOUR": "0.00000176"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "EKN",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "7.4e-7",
+                "LASTUPDATE": "1452731313",
+                "LASTVOLUME": "168.64801306",
+                "LASTVOLUMETO": "0.0001248",
+                "LASTTRADEID": "110916059",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "7.4e-7",
+                "HIGH24HOUR": "7.4e-7",
+                "LOW24HOUR": "7.4e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "EKN",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000261",
+                "LASTUPDATE": "1436081282",
+                "LASTVOLUME": "254.46088772",
+                "LASTVOLUMETO": "0.00066414",
+                "LASTTRADEID": "310220",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000261",
+                "HIGH24HOUR": "0.00000261",
+                "LOW24HOUR": "0.00000261"
+            }
+        ]
+    },
+    "Type": 100
+}

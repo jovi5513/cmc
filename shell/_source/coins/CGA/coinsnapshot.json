@@ -1,0 +1,49 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "CGA",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.0000235",
+            "LASTUPDATE": "1483592066",
+            "LASTVOLUME": "324.95911414",
+            "LASTVOLUMETO": "0.00763653",
+            "LASTTRADEID": "139463",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.0000235",
+            "HIGHDAY": "0.0000235",
+            "LOWDAY": "0.0000235",
+            "OPEN24HOUR": "0.0000235",
+            "HIGH24HOUR": "0.0000235",
+            "LOW24HOUR": "0.0000235",
+            "LASTMARKET": "Poloniex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Poloniex",
+                "FROMSYMBOL": "CGA",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.0000235",
+                "LASTUPDATE": "1483592066",
+                "LASTVOLUME": "324.95911414",
+                "LASTVOLUMETO": "0.00763653",
+                "LASTTRADEID": "139463",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.0000235",
+                "HIGH24HOUR": "0.0000235",
+                "LOW24HOUR": "0.0000235"
+            }
+        ]
+    },
+    "Type": 100
+}

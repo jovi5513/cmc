@@ -1,0 +1,72 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Grid+ (GRID) - Live streaming prices and market cap",
+            "PageDescription": "Live Grid+ prices from all markets and GRID coin market Capitalization. Stay up to date with the latest Grid+ price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/14913632\/grid.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "385907",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "GRID+ (GRID)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "GRID",
+            "Url": "\/coins\/grid\/",
+            "BaseAngularUrl": "\/coins\/grid\/",
+            "Name": "Grid+",
+            "ImageUrl": "\/media\/14913632\/grid.png",
+            "Description": "<p>Grid+ created a computer (called\u00a0<span>Grid+ Smart agent)\u00a0<\/span>with natively\u00a0integrated hardware and software for the Ethereum protocol, that pays for a customer&#39;s electricity usage in real time. Grid+ operates with a two-ERC20 token model. The BOLT token,\u00a0<span>required to use the Grid+ platform<\/span> is treated as a stable-coin. It&#39;s redeemable by customers for $1 worth of energy from Grid* and backed by USD deposits. The GRID token allows Grid+ customers to purchase electricity from Grid+ at wholesale price.<\/p><p>\u00a0<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "300000000",
+            "Algorithm": "",
+            "ProofType": "",
+            "StartDate": "12\/07\/2017",
+            "Twitter": "@gridplus_energy",
+            "AffiliateUrl": "http:\/\/gridplus.io\/",
+            "Website": "<a href='http:\/\/gridplus.io\/' target='_blank'>Grid+<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970043,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "-",
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 300000000,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~GRID~USD",
+            "2~EtherDelta~GRID~ETH",
+            "2~CCEX~GRID~LTC",
+            "2~CCEX~GRID~DOGE",
+            "2~CCEX~GRID~BTC",
+            "2~BitTrex~GRID~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~GRID~USD~4~0.00010004~1435804676~1000~0.10004~1435804676004~0~0~0~0~0.00010004~0.00010004~0.00010004~0.00010004~0.00010004~0.00010004~CCEX~7ffe9",
+            "5~CCCAGG~GRID~ETH~4~0.002~1515979068~75~0.15~1515979068000~122.381920939011~0.24476384187802397~18501.11900964943~37.99250172813382~0.00206~0.00206~0.002~0.00209~0.002795~0.00138~EtherDelta~7ffe9",
+            "5~CCCAGG~GRID~LTC~4~0.000043~1437061551~500~0.021500000000000002~1437061551837~0~0~0~0~0.000043~0.000043~0.000043~0.000043~0.000043~0.000043~CCEX~7ffe9",
+            "5~CCCAGG~GRID~DOGE~4~3~1436593754~6.98~20.94~1436593754002~0~0~0~0~3~3~3~3~3~3~CCEX~7ffe9",
+            "5~CCCAGG~GRID~BTC~4~3.8e-7~1441580395~1835.76315789~0.00069758~761639~0~0~0~0~3.8e-7~3.8e-7~3.8e-7~3.8e-7~3.8e-7~3.8e-7~BitTrex~7ffe9"
+        ]
+    },
+    "Type": 100
+}

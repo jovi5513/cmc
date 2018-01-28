@@ -1,0 +1,188 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PGL",
+            "CoinName": "Prospectors",
+            "Type": "Webpagecoinp",
+            "Points": 1745
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 29196,
+                    "Name": "FireCoin",
+                    "FullName": "FireCoin (FIRE)",
+                    "ImageUrl": "\/media\/351625\/fire.png",
+                    "Url": "\/coins\/fire\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 40845,
+                    "Name": "DarkEther",
+                    "FullName": "DarkEther (DETH)",
+                    "ImageUrl": "\/media\/1382252\/deth.png",
+                    "Url": "\/coins\/deth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 201896,
+                    "Name": "Arena",
+                    "FullName": "Arena (ARENA)",
+                    "ImageUrl": "\/media\/12318225\/arena.png",
+                    "Url": "\/coins\/arena\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60409,
+                    "Name": "FazzCoin",
+                    "FullName": "FazzCoin (FAZZ)",
+                    "ImageUrl": "\/media\/1382944\/fazz.png",
+                    "Url": "\/coins\/fazz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 379232,
+                    "Name": "Confido",
+                    "FullName": "Confido (CFD)",
+                    "ImageUrl": "\/media\/14913552\/cfd.png",
+                    "Url": "\/coins\/cfd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5351,
+                    "Name": "TruckCoin",
+                    "FullName": "TruckCoin (TRK)",
+                    "ImageUrl": "\/media\/20460\/trk.png",
+                    "Url": "\/coins\/trk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 661619,
+                    "Name": "Trollcoin",
+                    "FullName": "Trollcoin (TROLL)",
+                    "ImageUrl": "\/media\/20780763\/troll.png",
+                    "Url": "\/coins\/troll\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33008,
+                    "Name": "CBD Crystals",
+                    "FullName": "CBD Crystals (CBD)",
+                    "ImageUrl": "\/media\/351990\/cbd.png",
+                    "Url": "\/coins\/cbd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21875,
+                    "Name": "GothicCoin",
+                    "FullName": "GothicCoin (GOTX)",
+                    "ImageUrl": "\/media\/351071\/gotx.png",
+                    "Url": "\/coins\/gotx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20585,
+                    "Name": "SoulCoin",
+                    "FullName": "SoulCoin (SOUL)",
+                    "ImageUrl": "\/media\/350930\/pxl.png",
+                    "Url": "\/coins\/soul\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 36392,
+                    "Name": "ArtemSvetlyshny",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/36392\/f5aac849-5065-4d73-bb8a-96482947efc4.jpg",
+                    "Url": "\/profile\/ArtemSvetlyshny\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 341122,
+                    "Name": "orhan.ayaz54",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/341122\/e5374e82-f8d9-4b25-b376-896dfbd10674.png",
+                    "Url": "\/profile\/orhan.ayaz54\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 300734,
+                    "Name": "dypukua",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/300734\/fdc598f7-db0d-4ec3-af21-3b0c6860b633.jpg",
+                    "Url": "\/profile\/dypukua\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 288130,
+                    "Name": "zaheerjk",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/288130\/c52934bc-6626-4343-a5b5-701c8b86e533.jpg",
+                    "Url": "\/profile\/zaheerjk\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 287371,
+                    "Name": "wojo2187",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/287371\/50ea6691-3bfc-4fa3-af77-10696044fc52.jpg",
+                    "Url": "\/profile\/wojo2187\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 284837,
+                    "Name": "crypt0clutch",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/284837\/c5f9e5c5-502c-4d6c-ad54-87659b3358e5.jpg",
+                    "Url": "\/profile\/crypt0clutch\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 228997,
+                    "Name": "madeinbritain",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/228997\/2001268d-d010-4de3-977b-64d680087f9a.jpg",
+                    "Url": "\/profile\/madeinbritain\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 7,
+            "Posts": "1",
+            "Points": 200,
+            "PageViewsSplit": {
+                "Overview": 1044,
+                "Markets": 151,
+                "Analysis": 38,
+                "Charts": 29,
+                "Trades": 65,
+                "Orderbook": 4,
+                "Forum": 13,
+                "Influence": 16
+            },
+            "PageViews": 1360
+        },
+        "Twitter": {
+            "favourites": "7",
+            "lists": 14,
+            "statuses": 41,
+            "following": "171",
+            "account_creation": "1492774974",
+            "name": "Prospectors",
+            "followers": 815,
+            "link": "https:\/\/twitter.com\/prospectorsgame",
+            "Points": 885
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "Prospectors",
+            "likes": 660,
+            "link": "https:\/\/www.facebook.com\/prospectors.io\/",
+            "talking_about": "42",
+            "is_closed": "false",
+            "Points": 660
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "FRST",
+            "CoinName": "FirstCoin",
+            "Type": "Webpagecoinp",
+            "Points": 2521
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 29721,
+                    "Name": "Atomic Coin",
+                    "FullName": "Atomic Coin (ATOM)",
+                    "ImageUrl": "\/media\/351685\/atom.png",
+                    "Url": "\/coins\/atom\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 439136,
+                    "Name": "Gold Reward Token",
+                    "FullName": "Gold Reward Token (GRX)",
+                    "ImageUrl": "\/media\/16746557\/grx.png",
+                    "Url": "\/coins\/grx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 207775,
+                    "Name": "ICOBox",
+                    "FullName": "ICOBox (ICOS)",
+                    "ImageUrl": "\/media\/1383968\/icos1.png",
+                    "Url": "\/coins\/icos\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 360740,
+                    "Name": "Xios",
+                    "FullName": "Xios (XIOS)",
+                    "ImageUrl": "\/media\/14761915\/xios.png",
+                    "Url": "\/coins\/xios\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4442,
+                    "Name": "Exclusive Coin",
+                    "FullName": "Exclusive Coin (EXCL)",
+                    "ImageUrl": "\/media\/20035\/excl.png",
+                    "Url": "\/coins\/excl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 350048,
+                    "Name": "Ethereum Blue",
+                    "FullName": "Ethereum Blue (BLUE)",
+                    "ImageUrl": "\/media\/12318407\/blue.png",
+                    "Url": "\/coins\/blue\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4340,
+                    "Name": "BlueCoin",
+                    "FullName": "BlueCoin (BLU)",
+                    "ImageUrl": "\/media\/19624\/blu.png",
+                    "Url": "\/coins\/blu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 218008,
+                    "Name": "Bytom",
+                    "FullName": "Bytom (BTM*)",
+                    "ImageUrl": "\/media\/1383996\/btm.png",
+                    "Url": "\/coins\/btmstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 368732,
+                    "Name": "eBoost",
+                    "FullName": "eBoost (EBST)",
+                    "ImageUrl": "\/media\/14913431\/ebst.png",
+                    "Url": "\/coins\/ebst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4624,
+                    "Name": "TitCoin",
+                    "FullName": "TitCoin (TIT)",
+                    "ImageUrl": "\/media\/20069\/tit.png",
+                    "Url": "\/coins\/tit\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 606158,
+                    "Name": "costel.manacu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/606158\/2bf95df1-f777-419f-b9a9-84864f0c9f12.jpg",
+                    "Url": "\/profile\/costel.manacu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 292765,
+                    "Name": "Dave541",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/292765\/c7eb5f6f-358e-426d-a304-d6a656b0a934.png",
+                    "Url": "\/profile\/Dave541\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634732,
+                    "Name": "gyuricskorobert",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634732\/0f034452-b721-4a0a-9989-74902540ccef.jpg",
+                    "Url": "\/profile\/gyuricskorobert\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 351672,
+                    "Name": "ogualapc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/351672\/6eb2fbd8-75ba-4dce-a078-25c87fcd890d.jpg",
+                    "Url": "\/profile\/ogualapc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 219825,
+                    "Name": "muhammaddanish.b",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/219825\/986eec5f-0892-4af4-b285-8b26a644e962.jpg",
+                    "Url": "\/profile\/muhammaddanish.b\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 553427,
+                    "Name": "afrodigitalcoin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/553427\/87a7b273-b88e-4f4f-aff9-16fe4d401c5b.png",
+                    "Url": "\/profile\/afrodigitalcoin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 552530,
+                    "Name": "tahibul",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/552530\/1f620ba3-f589-412a-b648-2298b3a595f3.jpg",
+                    "Url": "\/profile\/tahibul\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 532333,
+                    "Name": "bs.007",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/532333\/c766ceef-771b-4137-8b04-6c895eda1dc2.jpg",
+                    "Url": "\/profile\/bs.007\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 523908,
+                    "Name": "iftikharahmed994",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/523908\/0b619abe-195f-473d-9ffb-a7da6e9ac348.jpg",
+                    "Url": "\/profile\/iftikharahmed994\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 528753,
+                    "Name": "adveranton",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/528753\/61f804bc-d462-45cf-b123-6b54a56df9e8.jpg",
+                    "Url": "\/profile\/adveranton\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 498107,
+                    "Name": "naveedsabir05",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/498107\/8a06af28-abbb-47ac-be0b-83918263d9f0.jpg",
+                    "Url": "\/profile\/naveedsabir05\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 2520,
+            "Posts": "7",
+            "Followers": 89,
+            "Comments": "12",
+            "PageViewsSplit": {
+                "Overview": 13851,
+                "Markets": 873,
+                "Analysis": 657,
+                "Charts": 1230,
+                "Trades": 343,
+                "Orderbook": 55,
+                "Forum": 538,
+                "Influence": 272
+            },
+            "PageViews": 17819
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

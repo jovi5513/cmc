@@ -1,0 +1,154 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "TWLV",
+            "CoinName": "Twelve Coin",
+            "Type": "Webpagecoinp",
+            "Points": 280
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4596,
+                    "Name": "RoyalCoin",
+                    "FullName": "RoyalCoin (RYC)",
+                    "ImageUrl": "\/media\/19898\/ryc.png",
+                    "Url": "\/coins\/ryc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4529,
+                    "Name": "GalaxyCoin",
+                    "FullName": "GalaxyCoin (GLX)",
+                    "ImageUrl": "\/media\/19728\/glx.png",
+                    "Url": "\/coins\/glx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 653274,
+                    "Name": "PolisPay",
+                    "FullName": "PolisPay (POLIS)",
+                    "ImageUrl": "\/media\/20780731\/polis.png",
+                    "Url": "\/coins\/polis\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 400693,
+                    "Name": "Insta Cash Coin",
+                    "FullName": "Insta Cash Coin (ICC)",
+                    "ImageUrl": "\/media\/15887424\/icc.png",
+                    "Url": "\/coins\/icc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7592,
+                    "Name": "GridMaster",
+                    "FullName": "GridMaster (GRM)",
+                    "ImageUrl": "\/media\/20642\/grm.png",
+                    "Url": "\/coins\/grm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 253766,
+                    "Name": "GoodCoin",
+                    "FullName": "GoodCoin (GOOD)",
+                    "ImageUrl": "\/media\/9350786\/good.png",
+                    "Url": "\/coins\/good\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28019,
+                    "Name": "bitCNY",
+                    "FullName": "bitCNY (BITCNY)",
+                    "ImageUrl": "\/media\/351490\/bitcny.png",
+                    "Url": "\/coins\/bitcny\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 362846,
+                    "Name": "Bitcloud 2.0",
+                    "FullName": "Bitcloud 2.0 (BTDX)",
+                    "ImageUrl": "\/media\/14761939\/btdx.png",
+                    "Url": "\/coins\/btdx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29928,
+                    "Name": "Resumeo Shares",
+                    "FullName": "Resumeo Shares (RMS)",
+                    "ImageUrl": "\/media\/351701\/rms.png",
+                    "Url": "\/coins\/rms\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4334,
+                    "Name": "AXRON",
+                    "FullName": "AXRON (AXR)",
+                    "ImageUrl": "\/media\/20086\/axr.png",
+                    "Url": "\/coins\/axr\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 246682,
+                    "Name": "doncesare",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/246682\/ff436530-09b4-4e8b-b929-790c3a1f4fc7.jpg",
+                    "Url": "\/profile\/doncesare\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 164775,
+                    "Name": "mickeynons4u",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/164775\/6e33e6f8-5b03-460b-ba0f-156b59deb5ad.jpg",
+                    "Url": "\/profile\/mickeynons4u\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 48519,
+                    "Name": "wajidpk350",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/48519\/bc21d498-9a77-42b6-b556-77188ea765e4.jpg",
+                    "Url": "\/profile\/wajidpk350\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 150,
+                "Markets": 12,
+                "Analysis": 38,
+                "Charts": 35,
+                "Trades": 16,
+                "Orderbook": 0,
+                "Forum": 37,
+                "Influence": 21
+            },
+            "PageViews": 309
+        },
+        "Twitter": {
+            "followers": 185,
+            "following": "532",
+            "lists": 4,
+            "favourites": "55",
+            "statuses": 113,
+            "account_creation": "1432750227",
+            "name": "TwelveCoin",
+            "link": "https:\/\/twitter.com\/CoinTwelve",
+            "Points": 205
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

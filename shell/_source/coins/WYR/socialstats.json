@@ -1,0 +1,136 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "WYR",
+            "CoinName": "Wyrify",
+            "Type": "Webpagecoinp",
+            "Points": 61205
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 247322,
+                    "Name": "EasyMine",
+                    "FullName": "EasyMine (EMT)",
+                    "ImageUrl": "\/media\/9350765\/emt.png",
+                    "Url": "\/coins\/emt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5305,
+                    "Name": "BlockNet",
+                    "FullName": "BlockNet (BLOCK)",
+                    "ImageUrl": "\/media\/20204\/block.png",
+                    "Url": "\/coins\/block\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 589829,
+                    "Name": "HomeBlockCoin",
+                    "FullName": "HomeBlockCoin (HBC)",
+                    "ImageUrl": "\/media\/20780615\/hbc.png",
+                    "Url": "\/coins\/hbc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5287,
+                    "Name": "NuBits",
+                    "FullName": "NuBits (NBT)",
+                    "ImageUrl": "\/media\/20363\/nbt.png",
+                    "Url": "\/coins\/nbt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 322013,
+                    "Name": "Regalcoin",
+                    "FullName": "Regalcoin (REC)",
+                    "ImageUrl": "\/media\/12318179\/rec.png",
+                    "Url": "\/coins\/rec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 371095,
+                    "Name": "eBitcoinCash",
+                    "FullName": "eBitcoinCash (EBCH)",
+                    "ImageUrl": "\/media\/14913464\/ebch.png",
+                    "Url": "\/coins\/ebch\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 299415,
+                    "Name": "Breakout Stake",
+                    "FullName": "Breakout Stake (BRX)",
+                    "ImageUrl": "\/media\/12317960\/brx.png",
+                    "Url": "\/coins\/brx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338426,
+                    "Name": "Covesting",
+                    "FullName": "Covesting (COV)",
+                    "ImageUrl": "\/media\/12318288\/cov.png",
+                    "Url": "\/coins\/cov\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 409249,
+                    "Name": "Electra",
+                    "FullName": "Electra (ECA)",
+                    "ImageUrl": "\/media\/16404869\/eca.png",
+                    "Url": "\/coins\/eca\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5391,
+                    "Name": "BitcoinPlus",
+                    "FullName": "BitcoinPlus (XBC)",
+                    "ImageUrl": "\/media\/20488\/xbc.png",
+                    "Url": "\/coins\/xbc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "PageViewsSplit": {
+                "Overview": 183,
+                "Markets": 4,
+                "Analysis": 4,
+                "Charts": 3,
+                "Trades": 3,
+                "Orderbook": 0,
+                "Forum": 12,
+                "Influence": 5
+            },
+            "PageViews": 214
+        },
+        "Twitter": {
+            "following": "205",
+            "account_creation": "1502482959",
+            "favourites": "9",
+            "statuses": 29,
+            "followers": 53672,
+            "name": "Wyrify",
+            "link": "https:\/\/twitter.com\/wyrify",
+            "lists": 3,
+            "Points": 53687
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/\/user\/Wyrify\/",
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "11",
+            "name": "Wyrify",
+            "likes": 7518,
+            "link": "https:\/\/www.facebook.com\/wyrify\/",
+            "Points": 7518
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

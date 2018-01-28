@@ -1,0 +1,74 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Synergy (SNRG)  - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "Synergy is a peer-to-peer decentralized cryptocurrency that uses a dual-algorithm system to mine blocks. For the first 10 days, which contains the full PoW (proof of work) period, Synergy uses the X11 algorithm. Because X11 is unnecessarily inefficient after PoW, Synergy switches to SHA256d for the PoS period (proof of stake). SHA256d is easier on CPUs during syncronization and bootstrap because it requires only two hashes to verify a block whereas X11 requires 11 hashes.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20700\/snrg.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "8825",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Synergy (SNRG)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "SNRG",
+            "Url": "\/coins\/snrg\/",
+            "BaseAngularUrl": "\/coins\/snrg\/",
+            "Name": "Synergy",
+            "ImageUrl": "\/media\/20700\/snrg.png",
+            "Description": "<p>Synergy is a peer-to-peer decentralized cryptocurrency that uses a dual-algorithm system to mine blocks. For the first 10 days, which contains the full PoW (proof of work) period, Synergy uses the X11 algorithm. Because X11 is unnecessarily inefficient after PoW, Synergy switches to SHA256d for the PoS period (proof of stake). SHA256d is easier on CPUs during syncronization and bootstrap because it requires only two hashes\u00a0to verify a block whereas X11 requires 11 hashes.<\/p><p>The early part of the Synergy PoS period makes use of Turbo Stake, which awards Synergy holders greater interest for every stake. The multiplier is directly used in the reward calculation by multiplying it with the base Synergy interest rate of 10% per year.<\/p><p>Holders build the Turbo Stake multiplier over two days by staking consistently. After that, the multiplier will level out and the holder will stake with a consistent rate that depends on how much stake competes with his. The Turbo Stake period lasts 30 days from the time of launch.\u00a0<\/p>",
+            "Features": "",
+            "Technology": "<ul><li>Ticker Symbol: SNRG<\/li><li>PoW Algorithm: X11<\/li><li>PoS Algorithm: X11, switching to SHA256d after 10 days<\/li><li>RPC Port: 50542 (configurable with rpcport= option)<\/li><li>P2P Port: 40698 (configurable with port= option)<\/li><li>Tor Port: 38155 (configurable with torport= option)<\/li><li>Block Times: 2 Minutes<\/li><li>PoW Blocks: 4320 (6 days)<\/li><li>10% POS Interest per Year<\/li><li>Max Turbo Stake Multiplier: 288<\/li><li>Turbo Stake Lookback: 2 days Percent of Blocks over 2 days for Max Multiplier: 20%<\/li><li>Max Money Supply after PoW: 250,001 SNRG<\/li><li>Stake Minumum Age: 48 hours (2 days)<\/li><li>Stake Maximum Age: 144 hours (6 days)<\/li><li>Stake Maximum Reward Age: 8 days<\/li><li>New Mint Spendable: 120 blocks (4 hours)<\/li><li>Message Start (\u201cMagic Bytes\u201d): 0xf1, 0xe3, 0xe5, 0xd9<\/li><li>Message Start Test Net: 0xaf, 0xb9, 0xd9, 0xff<\/li><li>Application Data Folder Windows: \u201cSynergy\u201d OS X: \u201cSynergy\u201d Linux: \u201c.synergy\u201d<\/li><li>Config File Name Windows: \u201csynergy.conf\u201d OS X: \u201csynergy.conf\u201d Linux: \u201csynergy.conf\u201d<\/li><\/ul>",
+            "TotalCoinSupply": "",
+            "Algorithm": "X11",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "25\/05\/2015",
+            "Twitter": "@SynergyCoin",
+            "AffiliateUrl": "http:\/\/www.synergycoin.com\/",
+            "Website": "<a href='http:\/\/www.synergycoin.com\/' target='_blank'>Synergy<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515949776,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 348463,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 3350357.7808224,
+            "PreviousTotalCoinsMined": 3350297.7808224,
+            "BlockReward": 10
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~SNRG~WAVES",
+            "2~Yobit~SNRG~BTC",
+            "2~Yobit~SNRG~ETH",
+            "2~BitTrex~SNRG~BTC",
+            "2~Yobit~SNRG~DOGE",
+            "2~Yobit~SNRG~RUR",
+            "2~Yobit~SNRG~USD"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~SNRG~WAVES~4~0.56666599~1515786293~0.0236945~0.013426867300054999~200000003~0~0~0~0~0.56666599~0.56666599~0.56666599~0.56666599~0.56666599~0.56666599~Yobit~7ffe9",
+            "5~CCCAGG~SNRG~BTC~4~0.0003663~1515949591~2.01568898~0.00073828~7714667~7514.175715189999~2.7832856027904755~10618.91281626~3.944152192787519~0.0003805~0.0003809~0.0003325~0.0003837~0.0003837~0.00036~BitTrex~7ffe9",
+            "5~CCCAGG~SNRG~ETH~4~0.088~1515680243~0.22889326~0.020142606879999997~184213870~0~0~0~0~0.088~0.088~0.088~0.088~0.088~0.088~Yobit~7ffe9",
+            "5~CCCAGG~SNRG~DOGE~4~1331.9999999~1515680230~0.29984894~399.39878805001507~184213767~0~0~0~0~1332~1332~1331.9999999~1331.9999999~1331.9999999~1331.9999999~Yobit~7ffe9",
+            "5~CCCAGG~SNRG~RUR~4~698~1515870337~0.2~139.6~200000003~0~0~0.2~139.6~698~698~698~786~786~698~Yobit~7ffe9",
+            "5~CCCAGG~SNRG~USD~4~14.99~1515825297~0.01~0.1499~200000012~0~0~0~0~14.99~14.99~14.99~14.99~14.99~14.99~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

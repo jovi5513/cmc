@@ -1,0 +1,146 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "LTH",
+            "CoinName": "Lathaan",
+            "Type": "Webpagecoinp",
+            "Points": 75
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 517389,
+                    "Name": "AC3",
+                    "FullName": "AC3 (AC3)",
+                    "ImageUrl": "\/media\/16746668\/ac3.png",
+                    "Url": "\/coins\/ac3\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 638297,
+                    "Name": "QubitCoin",
+                    "FullName": "QubitCoin (Q2C)",
+                    "ImageUrl": "\/media\/19872\/q2c.jpg",
+                    "Url": "\/coins\/q2c\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45821,
+                    "Name": "EagleCoin",
+                    "FullName": "EagleCoin (EA)",
+                    "ImageUrl": "\/media\/1382685\/ea.png",
+                    "Url": "\/coins\/ea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21219,
+                    "Name": "Uther",
+                    "FullName": "Uther (UTH)",
+                    "ImageUrl": "\/media\/350998\/uth.png",
+                    "Url": "\/coins\/uth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5336,
+                    "Name": "GhostCoin",
+                    "FullName": "GhostCoin (GHC)",
+                    "ImageUrl": "\/media\/19721\/ghc.png",
+                    "Url": "\/coins\/ghc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4551,
+                    "Name": "LuckyCoin",
+                    "FullName": "LuckyCoin (LKY)",
+                    "ImageUrl": "\/media\/19774\/lky.png",
+                    "Url": "\/coins\/lky\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20205,
+                    "Name": "Spots",
+                    "FullName": "Spots (SPOTS)",
+                    "ImageUrl": "\/media\/350893\/spots.png",
+                    "Url": "\/coins\/spots\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645766,
+                    "Name": "Galactrum",
+                    "FullName": "Galactrum (ORE)",
+                    "ImageUrl": "\/media\/20780695\/ore.png",
+                    "Url": "\/coins\/ore\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 74894,
+                    "Name": "GrowthCoin",
+                    "FullName": "GrowthCoin (GRW)",
+                    "ImageUrl": "\/media\/1383234\/grw.png",
+                    "Url": "\/coins\/grw\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43253,
+                    "Name": "NiceCoin",
+                    "FullName": "NiceCoin (NICE)",
+                    "ImageUrl": "\/media\/1382467\/nice.png",
+                    "Url": "\/coins\/nice\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 34302,
+                    "Name": "bittrader1500",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/34302\/9efc254b-d0bb-49eb-9df9-3f9307cc871c.jpg",
+                    "Url": "\/profile\/bittrader1500\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 957,
+                "Markets": 58,
+                "Analysis": 109,
+                "Charts": 44,
+                "Trades": 31,
+                "Orderbook": 0,
+                "Forum": 23,
+                "Influence": 13
+            },
+            "PageViews": 1235
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

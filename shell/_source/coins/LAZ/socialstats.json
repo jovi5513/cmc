@@ -1,0 +1,182 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "LAZ",
+            "CoinName": "Lazarus",
+            "Type": "Webpagecoinp",
+            "Points": 100
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 661719,
+                    "Name": "Force Coin",
+                    "FullName": "Force Coin (FOR)",
+                    "ImageUrl": "\/media\/20780764\/for.png",
+                    "Url": "\/coins\/for\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5021,
+                    "Name": "SapienceCoin",
+                    "FullName": "SapienceCoin (XAI)",
+                    "ImageUrl": "\/media\/20071\/xai.png",
+                    "Url": "\/coins\/xai\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35816,
+                    "Name": "PoolStamp",
+                    "FullName": "PoolStamp (XSP)",
+                    "ImageUrl": "\/media\/352293\/xsp.png",
+                    "Url": "\/coins\/xsp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21370,
+                    "Name": "FlyCoin",
+                    "FullName": "FlyCoin (FLY)",
+                    "ImageUrl": "\/media\/351013\/fly.png",
+                    "Url": "\/coins\/fly\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35687,
+                    "Name": "Horse Power",
+                    "FullName": "Horse Power (HSP)",
+                    "ImageUrl": "\/media\/352251\/hsp.png",
+                    "Url": "\/coins\/hsp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4607,
+                    "Name": "SoleCoin",
+                    "FullName": "SoleCoin (SOLE)",
+                    "ImageUrl": "\/media\/20431\/sole.png",
+                    "Url": "\/coins\/sole\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 39710,
+                    "Name": "ReturnCoin",
+                    "FullName": "ReturnCoin (RNC)",
+                    "ImageUrl": "\/media\/1382240\/rnc.png",
+                    "Url": "\/coins\/rnc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33127,
+                    "Name": "PenCoin",
+                    "FullName": "PenCoin (PEN)",
+                    "ImageUrl": "\/media\/20384\/pen.png",
+                    "Url": "\/coins\/pen\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8832,
+                    "Name": "Ghoul Coin",
+                    "FullName": "Ghoul Coin (GHOUL)",
+                    "ImageUrl": "\/media\/20701\/ghoul.png",
+                    "Url": "\/coins\/ghoul\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33526,
+                    "Name": "FistBump",
+                    "FullName": "FistBump (FIST)",
+                    "ImageUrl": "\/media\/352056\/fist.png",
+                    "Url": "\/coins\/fist\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 552712,
+                    "Name": "zetinme",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/552712\/fc42712d-929e-4e59-8e8f-de6571b72f19.png",
+                    "Url": "\/profile\/zetinme\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 426229,
+                    "Name": "romeocln",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/426229\/7ae46e0e-fdeb-48de-be6f-f2302e6ab8ae.jpg",
+                    "Url": "\/profile\/romeocln\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 544,
+                "Markets": 39,
+                "Analysis": 40,
+                "Charts": 28,
+                "Trades": 31,
+                "Orderbook": 1,
+                "Forum": 21,
+                "Influence": 13
+            },
+            "PageViews": 717
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "JavaScript",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 0,
+                    "size": "126",
+                    "url": "https:\/\/github.com\/lazarus2016\/lazarus",
+                    "last_update": "1472656720",
+                    "last_push": "1472657363",
+                    "created_at": "1472656231",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

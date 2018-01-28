@@ -1,0 +1,245 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NEVA",
+            "CoinName": "NevaCoin",
+            "Type": "Webpagecoinp",
+            "Points": 3074
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 196986,
+                    "Name": "CryptoABS",
+                    "FullName": "CryptoABS (CABS)",
+                    "ImageUrl": "\/media\/1383869\/cabs.png",
+                    "Url": "\/coins\/cabs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 370535,
+                    "Name": "Pure",
+                    "FullName": "Pure (PURE)",
+                    "ImageUrl": "\/media\/14913451\/pure.png",
+                    "Url": "\/coins\/pure\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 616471,
+                    "Name": "Handelion",
+                    "FullName": "Handelion (HION)",
+                    "ImageUrl": "\/media\/20780646\/hion.png",
+                    "Url": "\/coins\/hion\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20724,
+                    "Name": "Steps",
+                    "FullName": "Steps (STEPS)",
+                    "ImageUrl": "\/media\/350952\/steps.png",
+                    "Url": "\/coins\/steps\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 579189,
+                    "Name": "Valorem",
+                    "FullName": "Valorem (VLR)",
+                    "ImageUrl": "\/media\/20780606\/vlr.png",
+                    "Url": "\/coins\/vlr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42663,
+                    "Name": "Pepe Cash",
+                    "FullName": "Pepe Cash (PEPECASH)",
+                    "ImageUrl": "\/media\/1382397\/pepecash.png",
+                    "Url": "\/coins\/pepecash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6100,
+                    "Name": "GlobalBoost",
+                    "FullName": "GlobalBoost (BSTY)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/bsty\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 223644,
+                    "Name": "DetectorToken",
+                    "FullName": "DetectorToken (DTCT)",
+                    "ImageUrl": "\/media\/1384025\/dtct.png",
+                    "Url": "\/coins\/dtct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 364317,
+                    "Name": "Bitfinex Bitcoin Future",
+                    "FullName": "Bitfinex Bitcoin Future (BT1)",
+                    "ImageUrl": "\/media\/19633\/btc.png",
+                    "Url": "\/coins\/bt1\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22418,
+                    "Name": "ReeCoin",
+                    "FullName": "ReeCoin (REE)",
+                    "ImageUrl": "\/media\/351096\/ree.png",
+                    "Url": "\/coins\/ree\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 447221,
+                    "Name": "espann",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/447221\/d2cb060a-4371-452b-8ae6-f2b75d2caa08.jpg",
+                    "Url": "\/profile\/espann\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 628932,
+                    "Name": "cryptoprokool",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/628932\/bc599b41-b20d-4d82-8ad7-bc3a2cdf8ddb.jpg",
+                    "Url": "\/profile\/cryptoprokool\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 272438,
+                    "Name": "givivadachkoria",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/272438\/bb977701-19bd-460f-b9e8-eea04a813845.jpg",
+                    "Url": "\/profile\/givivadachkoria\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 85728,
+                    "Name": "grigoriodesmo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/85728\/f109bd9b-bc3e-4e33-8397-c99b63252361.jpg",
+                    "Url": "\/profile\/grigoriodesmo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 246112,
+                    "Name": "D9ABD08A",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/246112\/220792e1-c92e-4e99-a0a6-e52c6742cca5.jpg",
+                    "Url": "\/profile\/D9ABD08A\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 130405,
+                    "Name": "6CCB6CCB",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/130405\/5e6b9466-62bf-4a71-a9d5-c6fde58ce9a8.jpg",
+                    "Url": "\/profile\/6CCB6CCB\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 61388,
+                    "Name": "pfrazercpa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/61388\/1d9baf65-73d6-4beb-85c0-a4e946ad8356.jpg",
+                    "Url": "\/profile\/pfrazercpa\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 59798,
+                    "Name": "helpdisman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/59798\/72950aa6-e730-475e-8849-d447efe74ed1.jpg",
+                    "Url": "\/profile\/helpdisman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 33018,
+                    "Name": "bluecheese",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/33018\/d2c0a293-7974-4b26-9ad8-e0054ea3c90e.jpg",
+                    "Url": "\/profile\/bluecheese\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 425,
+            "Followers": 14,
+            "Posts": "3",
+            "PageViewsSplit": {
+                "Overview": 1088,
+                "Markets": 95,
+                "Analysis": 53,
+                "Charts": 65,
+                "Trades": 62,
+                "Orderbook": 0,
+                "Forum": 40,
+                "Influence": 25
+            },
+            "PageViews": 1428
+        },
+        "Twitter": {
+            "following": "360",
+            "account_creation": "1457304812",
+            "name": "Nevacoin",
+            "lists": 36,
+            "statuses": 119,
+            "favourites": "47",
+            "followers": 621,
+            "link": "https:\/\/twitter.com\/nevacoin",
+            "Points": 801
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 196,
+            "link": "https:\/\/www.facebook.com\/nevacoin\/",
+            "is_closed": "false",
+            "talking_about": "8",
+            "name": "Nevacoin",
+            "Points": 196
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1406951351",
+                    "open_total_issues": "5",
+                    "parent": {
+                        "Name": "cpuminer-multi",
+                        "Url": "https:\/\/github.com\/lucasjones\/cpuminer-multi",
+                        "InternalId": -1
+                    },
+                    "size": "19427",
+                    "closed_total_issues": "16",
+                    "stars": 668,
+                    "last_update": "1515942672",
+                    "forks": 252,
+                    "url": "https:\/\/github.com\/tpruvot\/cpuminer-multi",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "16",
+                    "fork": "true",
+                    "last_push": "1511163044",
+                    "source": {
+                        "Name": "cpuminer-multi",
+                        "Url": "https:\/\/github.com\/lucasjones\/cpuminer-multi",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "5",
+                    "language": "C",
+                    "subscribers": 160,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 1652
+        }
+    }
+}

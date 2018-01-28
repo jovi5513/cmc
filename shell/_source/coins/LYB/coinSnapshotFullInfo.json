@@ -1,0 +1,70 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "LyraBar (LYB) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "LyraBar is a new cryptocurrency based on its own algorithm Lyra2RE. The coin has been mined since january 2015.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20339\/lyb.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "13281",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "LyraBar (LYB)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "LYB",
+            "Url": "\/coins\/lyb\/",
+            "BaseAngularUrl": "\/coins\/lyb\/",
+            "Name": "LyraBar",
+            "ImageUrl": "\/media\/20339\/lyb.png",
+            "Description": "<p>LyraBar is a new cryptocurrency based on its own algorithm Lyra2RE. The coin has been mined since january 2015.<\/p><p>- 2.5 minute block targets<br \/>- 1971000 total LYB<br \/>- 5 coins per block<br \/>- Block reward will half at blocks 210240, 420480, 630720 (one year between each)<br \/>- Last PoW block is 840960<br \/>- Difficulty retargeting with Kimoto&#39;s Gravity Well<br \/>- Stealth addresses (experimental, use at own risk)<\/p>",
+            "Features": "",
+            "Technology": "<p>New algorithm Lyra2RE white paper<a href=\"https:\/\/vertcoin.org\/downloads\/Vertcoin_Lyra2RE_Paper_11292014.pdf\"><br \/><\/a><\/p>",
+            "TotalCoinSupply": "0",
+            "Algorithm": "Lyra2RE",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "21\/01\/2015",
+            "Twitter": "@LyraBar",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~LYB~LTC",
+            "2~CCEX~LYB~USD",
+            "2~BitTrex~LYB~BTC",
+            "2~CCEX~LYB~BTC",
+            "2~CCEX~LYB~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~LYB~LTC~4~0.00002469~1433732279~17.83814071~0.0004404236941299~1433732279003~0~0~0~0~0.00002469~0.00002469~0.00002469~0.00002469~0.00002469~0.00002469~CCEX~7ffe9",
+            "5~CCCAGG~LYB~USD~4~0.01003045~1448552001~0.0464356~0.00046576996402~1448552001006~0~0~0~0~0.01003045~0.01003045~0.01003045~0.01003045~0.01003045~0.01003045~CCEX~7ffe9",
+            "5~CCCAGG~LYB~BTC~4~8.2e-7~1471192352~140.00464625~0.00011480380992500001~1471192352146~0~0~0~0~8.2e-7~8.2e-7~8.2e-7~8.2e-7~8.2e-7~8.2e-7~CCEX~7ffe9",
+            "5~CCCAGG~LYB~DOGE~4~598.99899997~1461122911~0.03908087~23.40940204795757~1461122911002~0~0~0~0~598.99899997~598.99899997~598.99899997~598.99899997~598.99899997~598.99899997~CCEX~7ffe9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,182 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MET",
+            "CoinName": "Memessenger",
+            "Type": "Webpagecoinp",
+            "Points": 433
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4342,
+                    "Name": "BoostCoin",
+                    "FullName": "BoostCoin (BOST)",
+                    "ImageUrl": "\/media\/19626\/bost.png",
+                    "Url": "\/coins\/bost\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5354,
+                    "Name": "CypherPunkCoin",
+                    "FullName": "CypherPunkCoin (CYP)",
+                    "ImageUrl": "\/media\/20248\/cyp.png",
+                    "Url": "\/coins\/cyp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22191,
+                    "Name": "Clinton",
+                    "FullName": "Clinton (CLINT)",
+                    "ImageUrl": "\/media\/351067\/clint.png",
+                    "Url": "\/coins\/clint\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6115,
+                    "Name": "SupplyShock",
+                    "FullName": "SupplyShock (M1)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/m1\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29554,
+                    "Name": "BaseballCardCoin",
+                    "FullName": "BaseballCardCoin (BBCC)",
+                    "ImageUrl": "\/media\/351658\/bbcc.png",
+                    "Url": "\/coins\/bbcc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 71873,
+                    "Name": "WarCoin",
+                    "FullName": "WarCoin (WRC*)",
+                    "ImageUrl": "\/media\/1383162\/wrc.png",
+                    "Url": "\/coins\/wrcstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7484,
+                    "Name": "CryptoCircuits",
+                    "FullName": "CryptoCircuits (CIRC)",
+                    "ImageUrl": "\/media\/20603\/circ.png",
+                    "Url": "\/coins\/circ\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4546,
+                    "Name": "KeyCoin",
+                    "FullName": "KeyCoin (KEY)",
+                    "ImageUrl": "\/media\/20331\/key.png",
+                    "Url": "\/coins\/keystar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24885,
+                    "Name": "ExtremeCoin",
+                    "FullName": "ExtremeCoin (XT)",
+                    "ImageUrl": "\/media\/351364\/xt.png",
+                    "Url": "\/coins\/xt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 61066,
+                    "Name": "Dark",
+                    "FullName": "Dark (DARK)",
+                    "ImageUrl": "\/media\/1382995\/dark.png",
+                    "Url": "\/coins\/dark\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 334521,
+                    "Name": "jerry45",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/334521\/7b5f36e1-f92d-48f6-9124-5ecae46fa195.jpg",
+                    "Url": "\/profile\/jerry45\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 278340,
+                    "Name": "onlysmile176",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/278340\/1e11078a-bfe9-403c-895a-de447db5dfea.jpg",
+                    "Url": "\/profile\/onlysmile176\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 302026,
+                    "Name": "gregorecris",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/302026\/7470d3fa-b26e-4555-b149-ebf8bde4316a.jpg",
+                    "Url": "\/profile\/gregorecris\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 239766,
+                    "Name": "mrsniper1205",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/239766\/d5526a24-0ddd-4628-8708-8f5149b7debd.jpg",
+                    "Url": "\/profile\/mrsniper1205\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 221574,
+                    "Name": "oliver.disler",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/221574\/9e5b9323-9b8a-4079-8dca-ca4efaa73dfe.jpg",
+                    "Url": "\/profile\/oliver.disler\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 235160,
+                    "Name": "flying.gecko",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/235160\/43e56afb-71d6-42a3-8712-532b4eaf6ef8.jpg",
+                    "Url": "\/profile\/flying.gecko\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 231739,
+                    "Name": "karlhewer",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/231739\/ab152280-c35f-48bf-bb80-fc8eb72ae5eb.jpg",
+                    "Url": "\/profile\/karlhewer\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 7,
+            "Points": 175,
+            "PageViewsSplit": {
+                "Overview": 1503,
+                "Markets": 134,
+                "Analysis": 38,
+                "Charts": 25,
+                "Trades": 56,
+                "Orderbook": 1,
+                "Forum": 14,
+                "Influence": 16
+            },
+            "PageViews": 1787
+        },
+        "Twitter": {
+            "favourites": "0",
+            "lists": 4,
+            "statuses": 23,
+            "following": "3",
+            "account_creation": "1499537510",
+            "name": "Memessenger",
+            "followers": 238,
+            "link": "https:\/\/twitter.com\/TheMemessenger",
+            "Points": 258
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

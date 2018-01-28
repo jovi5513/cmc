@@ -1,0 +1,153 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "RYC",
+            "CoinName": "RoyalCoin",
+            "Type": "Webpagecoinp",
+            "Points": 100
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5320,
+                    "Name": "Sonic Screw Driver Coin",
+                    "FullName": "Sonic Screw Driver Coin (SSD)",
+                    "ImageUrl": "\/media\/20443\/ssd.png",
+                    "Url": "\/coins\/ssd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7480,
+                    "Name": "Droidz",
+                    "FullName": "Droidz (DRZ)",
+                    "ImageUrl": "\/media\/20259\/drz.png",
+                    "Url": "\/coins\/drz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33010,
+                    "Name": "PosEx",
+                    "FullName": "PosEx (PEX)",
+                    "ImageUrl": "\/media\/351992\/pex.png",
+                    "Url": "\/coins\/pex\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22264,
+                    "Name": "InceptionCoin",
+                    "FullName": "InceptionCoin (INCP)",
+                    "ImageUrl": "\/media\/351078\/incp.png",
+                    "Url": "\/coins\/incp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4529,
+                    "Name": "GalaxyCoin",
+                    "FullName": "GalaxyCoin (GLX)",
+                    "ImageUrl": "\/media\/19728\/glx.png",
+                    "Url": "\/coins\/glx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3653,
+                    "Name": "Insanity Coin",
+                    "FullName": "Insanity Coin (WOLF)",
+                    "ImageUrl": "\/media\/20559\/wolf.png",
+                    "Url": "\/coins\/wolf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 653274,
+                    "Name": "PolisPay",
+                    "FullName": "PolisPay (POLIS)",
+                    "ImageUrl": "\/media\/20780731\/polis.png",
+                    "Url": "\/coins\/polis\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 400693,
+                    "Name": "Insta Cash Coin",
+                    "FullName": "Insta Cash Coin (ICC)",
+                    "ImageUrl": "\/media\/15887424\/icc.png",
+                    "Url": "\/coins\/icc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7592,
+                    "Name": "GridMaster",
+                    "FullName": "GridMaster (GRM)",
+                    "ImageUrl": "\/media\/20642\/grm.png",
+                    "Url": "\/coins\/grm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6105,
+                    "Name": "Twelve Coin",
+                    "FullName": "Twelve Coin (TWLV)",
+                    "ImageUrl": "\/media\/20472\/viral.png",
+                    "Url": "\/coins\/twlv\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 229870,
+                    "Name": "41506FD8",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/229870\/1a2df0c1-192e-4b75-9f94-556b589ae265.jpg",
+                    "Url": "\/profile\/41506FD8\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 26022,
+                    "Name": "rajeshreddy2223",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/26022\/47059deb-b502-46b8-b0e1-2e64938acf47.jpg",
+                    "Url": "\/profile\/rajeshreddy2223\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 218,
+                "Markets": 31,
+                "Analysis": 24,
+                "Charts": 30,
+                "Trades": 27,
+                "Orderbook": 0,
+                "Forum": 43,
+                "Influence": 16
+            },
+            "PageViews": 389
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

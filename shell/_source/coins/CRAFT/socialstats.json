@@ -1,0 +1,175 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CRAFT",
+            "CoinName": "Craftcoin",
+            "Type": "Webpagecoinp",
+            "Points": 78
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 247259,
+                    "Name": "FrazCoin",
+                    "FullName": "FrazCoin (FRAZ)",
+                    "ImageUrl": "\/media\/9350764\/fraz.png",
+                    "Url": "\/coins\/fraz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42103,
+                    "Name": "GravityBit",
+                    "FullName": "GravityBit (GBIT)",
+                    "ImageUrl": "\/media\/1382382\/gbit.jpg",
+                    "Url": "\/coins\/gbit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29718,
+                    "Name": "DelightPay",
+                    "FullName": "DelightPay (DPAY)",
+                    "ImageUrl": "\/media\/351684\/dpay.png",
+                    "Url": "\/coins\/dpay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29366,
+                    "Name": "NineElevenTruthCoin",
+                    "FullName": "NineElevenTruthCoin (NTC)",
+                    "ImageUrl": "\/media\/351631\/ntc.png",
+                    "Url": "\/coins\/ntc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32688,
+                    "Name": "NetBit",
+                    "FullName": "NetBit (NBIT)",
+                    "ImageUrl": "\/media\/351928\/nbit.png",
+                    "Url": "\/coins\/nbit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5359,
+                    "Name": "FriendshipCoin",
+                    "FullName": "FriendshipCoin (FSC2)",
+                    "ImageUrl": "\/media\/19717\/fsc.png",
+                    "Url": "\/coins\/fsc2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20980,
+                    "Name": "Nebuchadnezzar",
+                    "FullName": "Nebuchadnezzar (NEBU)",
+                    "ImageUrl": "\/media\/350990\/nebu.png",
+                    "Url": "\/coins\/nebu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33004,
+                    "Name": "Midnight ",
+                    "FullName": "Midnight  (MDT)",
+                    "ImageUrl": "\/media\/351989\/mdt.png",
+                    "Url": "\/coins\/mdt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4591,
+                    "Name": "PayCoin",
+                    "FullName": "PayCoin (PYC)",
+                    "ImageUrl": "\/media\/19878\/pyc.png",
+                    "Url": "\/coins\/pyc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5290,
+                    "Name": "BigCoin",
+                    "FullName": "BigCoin (HUGE)",
+                    "ImageUrl": "\/media\/20318\/huge.png",
+                    "Url": "\/coins\/huge\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 432460,
+                    "Name": "fourknobs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/432460\/a9196ede-5941-4f6b-8c4f-4a77f8e4ddff.jpg",
+                    "Url": "\/profile\/fourknobs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 121119,
+                    "Name": "josef.dvorak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/121119\/6a4f19c3-3d22-49cf-9ae5-cd0189b87611.jpg",
+                    "Url": "\/profile\/josef.dvorak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 286,
+                "Markets": 22,
+                "Analysis": 11,
+                "Charts": 22,
+                "Trades": 13,
+                "Orderbook": 2,
+                "Forum": 17,
+                "Influence": 7
+            },
+            "PageViews": 380
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "2043",
+                    "url": "https:\/\/github.com\/dimitrimahiro\/craftcoin-source",
+                    "last_update": "1469508446",
+                    "last_push": "1469507891",
+                    "created_at": "1469468512",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

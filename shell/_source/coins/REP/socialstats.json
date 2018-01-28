@@ -1,0 +1,283 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "REP",
+            "CoinName": "Augur",
+            "Type": "Webpagecoinp",
+            "Points": 187471
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5018,
+                    "Name": "VertCoin",
+                    "FullName": "VertCoin (VTC)",
+                    "ImageUrl": "\/media\/19945\/vtc.png",
+                    "Url": "\/coins\/vtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20131,
+                    "Name": "Waves",
+                    "FullName": "Waves (WAVES)",
+                    "ImageUrl": "\/media\/350884\/waves_1.png",
+                    "Url": "\/coins\/waves\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 347235,
+                    "Name": "Bitcoin Gold",
+                    "FullName": "Bitcoin Gold (BTG)",
+                    "ImageUrl": "\/media\/12318377\/btg.png",
+                    "Url": "\/coins\/btg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 361881,
+                    "Name": "Electroneum",
+                    "FullName": "Electroneum (ETN)",
+                    "ImageUrl": "\/media\/14761932\/electroneum.png",
+                    "Url": "\/coins\/etn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45260,
+                    "Name": "TenX",
+                    "FullName": "TenX (PAY)",
+                    "ImageUrl": "\/media\/1383687\/pay.png",
+                    "Url": "\/coins\/pay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 166390,
+                    "Name": "Tezos",
+                    "FullName": "Tezos (XTZ)",
+                    "ImageUrl": "\/media\/1383651\/xbt.png",
+                    "Url": "\/coins\/xtz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32699,
+                    "Name": "ARK",
+                    "FullName": "ARK (ARK)",
+                    "ImageUrl": "\/media\/351931\/ark.png",
+                    "Url": "\/coins\/ark\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20333,
+                    "Name": "Steem",
+                    "FullName": "Steem (STEEM)",
+                    "ImageUrl": "\/media\/350907\/steem.png",
+                    "Url": "\/coins\/steem\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 112392,
+                    "Name": "QTUM",
+                    "FullName": "QTUM (QTUM)",
+                    "ImageUrl": "\/media\/1383382\/qtum.png",
+                    "Url": "\/coins\/qtum\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42433,
+                    "Name": "Private Instant Verified Transaction",
+                    "FullName": "Private Instant Verified Transaction (PIVX)",
+                    "ImageUrl": "\/media\/1382389\/pivx.png",
+                    "Url": "\/coins\/pivx\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 675734,
+                    "Name": "sharf0773",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675734\/0e32892b-aa3e-41c5-94e7-42eac6f4f850.jpg",
+                    "Url": "\/profile\/sharf0773\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 239530,
+                    "Name": "maverickws",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/239530\/1f73d8f3-25a3-43bd-b734-522f643341cc.png",
+                    "Url": "\/profile\/maverickws\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674036,
+                    "Name": "yyyjs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674036\/02155960-e50c-4235-9c9a-95af7c656fad.jpg",
+                    "Url": "\/profile\/yyyjs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 532766,
+                    "Name": "GreenGurly",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/532766\/804698b8-22d1-44b6-a518-16e1106ed970.jpg",
+                    "Url": "\/profile\/GreenGurly\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 673572,
+                    "Name": "greg.ys.chang",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673572\/a297b65a-10c2-4f0e-9d2f-183b3a73b873.jpg",
+                    "Url": "\/profile\/greg.ys.chang\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 69046,
+                    "Name": "jerry3061",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/69046\/02065e42-eb62-4e5f-aa48-1fa3cb92e188.jpg",
+                    "Url": "\/profile\/jerry3061\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 208204,
+                    "Name": "phmail2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/208204\/013e4957-43de-4ebf-8c0c-12a817aa283c.jpg",
+                    "Url": "\/profile\/phmail2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 64874,
+                    "Name": "redcert",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/64874\/e2c0bd33-283c-4420-bbcc-5603ba065c99.jpg",
+                    "Url": "\/profile\/redcert\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 67181,
+                    "Name": "Touring",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/67181\/f0275a11-c51b-4264-a9ff-a51401afd3b1.jpg",
+                    "Url": "\/profile\/Touring\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 49130,
+                    "Name": "Bachir.Annane",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/49130\/60de9c28-9fb3-4cc0-ac9c-7e54ff665216.jpg",
+                    "Url": "\/profile\/Bachir.Annane\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 52640,
+            "Followers": 2002,
+            "Posts": "72",
+            "Comments": "79",
+            "PageViewsSplit": {
+                "Overview": 158191,
+                "Markets": 4388,
+                "Analysis": 2471,
+                "Charts": 35894,
+                "Trades": 4081,
+                "Orderbook": 410,
+                "Forum": 7487,
+                "Influence": 928
+            },
+            "PageViews": 213850
+        },
+        "Twitter": {
+            "following": "226",
+            "account_creation": "1415597558",
+            "name": "Augur",
+            "lists": 1483,
+            "statuses": 1684,
+            "favourites": "2303",
+            "followers": 94859,
+            "link": "https:\/\/twitter.com\/AugurProject",
+            "Points": 102275
+        },
+        "Reddit": {
+            "posts_per_hour": "0.10",
+            "comments_per_hour": "1.19",
+            "posts_per_day": "2.39",
+            "comments_per_day": 28.49,
+            "name": "Augur",
+            "link": "https:\/\/www.reddit.com\/r\/Augur\/",
+            "active_users": 2450,
+            "community_creation": "1223809002",
+            "subscribers": 6982,
+            "Points": 14388
+        },
+        "Facebook": {
+            "likes": 16769,
+            "link": "https:\/\/www.facebook.com\/augurproject\/",
+            "is_closed": "false",
+            "talking_about": "105",
+            "name": "Augur",
+            "Points": 16769
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1417844539",
+                    "open_total_issues": "3",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "14096",
+                    "closed_total_issues": "526",
+                    "stars": 322,
+                    "last_update": "1515893866",
+                    "forks": 66,
+                    "url": "https:\/\/github.com\/AugurProject\/augur-core",
+                    "closed_issues": "132",
+                    "closed_pull_issues": "394",
+                    "fork": "false",
+                    "last_push": "1515900230",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "2",
+                    "language": "TypeScript",
+                    "subscribers": 86,
+                    "open_issues": "1"
+                },
+                {
+                    "created_at": "1422910579",
+                    "open_total_issues": "2",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "48060",
+                    "closed_total_issues": "1071",
+                    "stars": 301,
+                    "last_update": "1515773012",
+                    "forks": 67,
+                    "url": "https:\/\/github.com\/AugurProject\/augur",
+                    "closed_issues": "685",
+                    "closed_pull_issues": "386",
+                    "fork": "false",
+                    "last_push": "1515810371",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "JavaScript",
+                    "subscribers": 77,
+                    "open_issues": "2"
+                }
+            ],
+            "Points": 1378
+        }
+    }
+}

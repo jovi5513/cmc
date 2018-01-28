@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PASC",
+            "CoinName": "Pascal Coin",
+            "Type": "Webpagecoinp",
+            "Points": 24635
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20157,
+                    "Name": "Gamecredits",
+                    "FullName": "Gamecredits (GAME)",
+                    "ImageUrl": "\/media\/350887\/game.png",
+                    "Url": "\/coins\/game\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 346812,
+                    "Name": "AppCoins",
+                    "FullName": "AppCoins (APPC)",
+                    "ImageUrl": "\/media\/12318370\/app.png",
+                    "Url": "\/coins\/appc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 136211,
+                    "Name": "Veritaseum",
+                    "FullName": "Veritaseum (VERI)",
+                    "ImageUrl": "\/media\/1383562\/veri.png",
+                    "Url": "\/coins\/veri\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29924,
+                    "Name": "The Hempcoin",
+                    "FullName": "The Hempcoin (THC)",
+                    "ImageUrl": "\/media\/351699\/thc.png",
+                    "Url": "\/coins\/thc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 198710,
+                    "Name": "Viberate",
+                    "FullName": "Viberate (VIB)",
+                    "ImageUrl": "\/media\/1383893\/vib.png",
+                    "Url": "\/coins\/vib\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5309,
+                    "Name": "GridCoin",
+                    "FullName": "GridCoin (GRC)",
+                    "ImageUrl": "\/media\/20307\/grc.png",
+                    "Url": "\/coins\/grc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 431235,
+                    "Name": "Aion",
+                    "FullName": "Aion (AION)",
+                    "ImageUrl": "\/media\/16746538\/aion.png",
+                    "Url": "\/coins\/aion\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 383953,
+                    "Name": "Envion",
+                    "FullName": "Envion (EVN)",
+                    "ImageUrl": "\/media\/14913587\/env.png",
+                    "Url": "\/coins\/evn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4580,
+                    "Name": "NameCoin",
+                    "FullName": "NameCoin (NMC)",
+                    "ImageUrl": "\/media\/19830\/nmc.png",
+                    "Url": "\/coins\/nmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 231674,
+                    "Name": "Ignis",
+                    "FullName": "Ignis (IGNIS)",
+                    "ImageUrl": "\/media\/1384046\/ignis.png",
+                    "Url": "\/coins\/ignis\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 318304,
+                    "Name": "techmental",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/318304\/fdc6a285-c3a3-4388-a9ee-d72e570c2e1b.png",
+                    "Url": "\/profile\/techmental\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 667520,
+                    "Name": "antvar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/667520\/583a8b43-8ef1-40f5-8f01-b197462b33bc.jpg",
+                    "Url": "\/profile\/antvar\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 513158,
+                    "Name": "btcdaddy",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/513158\/42021fdb-c5c6-4365-9c2b-1ff89c78a0e8.png",
+                    "Url": "\/profile\/btcdaddy\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 465010,
+                    "Name": "ghamada974",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/465010\/64e1b175-3091-4588-9c21-9ae47523c663.jpg",
+                    "Url": "\/profile\/ghamada974\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 667731,
+                    "Name": "cryospace79",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/667731\/42e348b5-0d71-4e87-8707-c495b2a3c3e1.jpg",
+                    "Url": "\/profile\/cryospace79\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 665121,
+                    "Name": "newagetomboy",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/665121\/cfbd0f52-0583-4f56-9715-7d2b7e6f73de.jpg",
+                    "Url": "\/profile\/newagetomboy\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 603805,
+                    "Name": "freebusinessman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/603805\/6229d113-4e40-44a9-ac69-506489b0fc4d.jpg",
+                    "Url": "\/profile\/freebusinessman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 662074,
+                    "Name": "viktor.cokic",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/662074\/f2aa82b0-ebb1-411c-9b78-bd9d723721b1.jpg",
+                    "Url": "\/profile\/viktor.cokic\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 330082,
+                    "Name": "jerachang",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/330082\/f258a748-2eec-40e2-81a7-60260330e112.jpg",
+                    "Url": "\/profile\/jerachang\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 661793,
+                    "Name": "EA7270AA",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/661793\/83788ff1-c34f-4dff-b46d-59ee6cfde8a4.jpg",
+                    "Url": "\/profile\/EA7270AA\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 71674,
+                    "Name": "JBooth",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/71674\/f5bf5a0d-5331-43f6-a480-d30d04d782e7.jpg",
+                    "Url": "\/profile\/JBooth\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 535,
+            "Posts": "52",
+            "Comments": "55",
+            "Points": 15225,
+            "PageViewsSplit": {
+                "Overview": 60723,
+                "Markets": 2594,
+                "Analysis": 3672,
+                "Charts": 4988,
+                "Trades": 1413,
+                "Orderbook": 491,
+                "Forum": 2375,
+                "Influence": 587
+            },
+            "PageViews": 76843
+        },
+        "Twitter": {
+            "favourites": "240",
+            "statuses": 392,
+            "following": "122",
+            "account_creation": "1468424224",
+            "name": "PascalCoin $PASC",
+            "link": "https:\/\/twitter.com\/PascalCoin",
+            "lists": 146,
+            "followers": 8052,
+            "Points": 8782
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 129,
+            "name": "PascalCoin",
+            "link": "https:\/\/www.facebook.com\/PascalCoin-850645181770093\/",
+            "talking_about": "16",
+            "is_closed": "false",
+            "Points": 129
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/PascalCoin\/PascalCoin",
+                    "last_update": "1515583206",
+                    "subscribers": 62,
+                    "size": "21500",
+                    "created_at": "1468306742",
+                    "open_pull_issues": "6",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "Pascal",
+                    "open_total_issues": "31",
+                    "stars": 150,
+                    "forks": 78,
+                    "closed_pull_issues": "12",
+                    "closed_total_issues": "39",
+                    "open_issues": "25",
+                    "closed_issues": "27",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1515771078"
+                }
+            ],
+            "Points": 492
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "FractalCoin (FRAC) - Live streaming prices and market cap",
+            "PageDescription": "Live FractalCoin prices from all markets and FRAC coin market Capitalization. Stay up to date with the latest FractalCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19710\/frac.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4450",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "FractalCoin (FRAC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "FRAC",
+            "Url": "\/coins\/frac\/",
+            "BaseAngularUrl": "\/coins\/frac\/",
+            "Name": "FractalCoin",
+            "ImageUrl": "\/media\/19710\/frac.png",
+            "Description": "<p>Fractal Coin intends to distribute 90% of its 1 million coins in the initial 28 days of mining. The coin features a new difficulty adjustment mechanism known as slingshot - the aim of which is to increase the % of controlled hashrate required for a 51% attack to over 70%. The idea is that block rewards will be based solely on transaction fees. Otherwise the coin has a 6o second block time and has a 0.5% premine.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "1000000",
+            "Algorithm": "X11",
+            "ProofType": "PoW",
+            "StartDate": "12\/06\/2014",
+            "Twitter": "@fractalcoin",
+            "AffiliateUrl": "http:\/\/fractalco.in\/",
+            "Website": "<a href='http:\/\/fractalco.in\/' target='_blank'>FractalCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Poloniex~FRAC~BTC",
+            "2~Cryptsy~FRAC~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~FRAC~BTC~4~0.00002399~1437249354~4.38488561~0.00010519~3833~0~0~0~0~0.00002399~0.00002399~0.00002399~0.00002399~0.00002399~0.00002399~Poloniex~7ffe9"
+        ]
+    },
+    "Type": 100
+}

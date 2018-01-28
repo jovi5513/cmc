@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XVG",
+            "CoinName": "Verge",
+            "Type": "Webpagecoinp",
+            "Points": 739494
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 127356,
+                    "Name": "IOTA",
+                    "FullName": "IOTA (IOT)",
+                    "ImageUrl": "\/media\/1383540\/iota_logo.png",
+                    "Url": "\/coins\/iot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 202330,
+                    "Name": "Bitcoin Cash \/ BCC",
+                    "FullName": "Bitcoin Cash \/ BCC (BCH)",
+                    "ImageUrl": "\/media\/1383919\/bch.jpg",
+                    "Url": "\/coins\/bch\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4614,
+                    "Name": "Stellar",
+                    "FullName": "Stellar (XLM)",
+                    "ImageUrl": "\/media\/20696\/str.png",
+                    "Url": "\/coins\/xlm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5038,
+                    "Name": "Monero",
+                    "FullName": "Monero (XMR)",
+                    "ImageUrl": "\/media\/19969\/xmr.png",
+                    "Url": "\/coins\/xmr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 27368,
+                    "Name": "NEO",
+                    "FullName": "NEO (NEO)",
+                    "ImageUrl": "\/media\/1383858\/neo.jpg",
+                    "Url": "\/coins\/neo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24854,
+                    "Name": "ZCash",
+                    "FullName": "ZCash (ZEC)",
+                    "ImageUrl": "\/media\/351360\/zec.png",
+                    "Url": "\/coins\/zec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4432,
+                    "Name": "Dogecoin",
+                    "FullName": "Dogecoin (DOGE)",
+                    "ImageUrl": "\/media\/19684\/doge.png",
+                    "Url": "\/coins\/doge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 370889,
+                    "Name": "Rebellious",
+                    "FullName": "Rebellious (REBL)",
+                    "ImageUrl": "\/media\/14913454\/rebl.png",
+                    "Url": "\/coins\/rebl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3807,
+                    "Name": "DigitalCash",
+                    "FullName": "DigitalCash (DASH)",
+                    "ImageUrl": "\/media\/20626\/imageedit_27_4355944719.png",
+                    "Url": "\/coins\/dash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4430,
+                    "Name": "DigiByte",
+                    "FullName": "DigiByte (DGB)",
+                    "ImageUrl": "\/media\/12318264\/7638-nty_400x400.jpg",
+                    "Url": "\/coins\/dgb\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 678213,
+                    "Name": "Hrsize",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/678213\/573b4cb8-ef94-4e6e-bfcf-61e108bce265.jpg",
+                    "Url": "\/profile\/Hrsize\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 678182,
+                    "Name": "madridpimp36",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/678182\/3f74ab67-0b4e-49bd-9fb2-89b6e114b468.jpg",
+                    "Url": "\/profile\/madridpimp36\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 239961,
+                    "Name": "skaterdjeman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/239961\/d1f1cd17-aaec-495f-8f42-4b1330620eb8.jpg",
+                    "Url": "\/profile\/skaterdjeman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 215878,
+                    "Name": "boydconstruction",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/215878\/fb511b0a-75aa-4bfd-9213-f415524110b1.jpg",
+                    "Url": "\/profile\/boydconstruction\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 574871,
+                    "Name": "rodrigla",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/574871\/7aac9308-5f38-487a-8453-211b9b92cef5.jpg",
+                    "Url": "\/profile\/rodrigla\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 668269,
+                    "Name": "qedufoh",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/668269\/3ab0b4e1-b551-4df0-b669-7e052682058a.jpg",
+                    "Url": "\/profile\/qedufoh\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 389594,
+                    "Name": "yipshidze111",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/389594\/306b243d-be98-4f48-8529-aaf427b8fc9a.jpg",
+                    "Url": "\/profile\/yipshidze111\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 642019,
+                    "Name": "abheeshekdubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/642019\/71d5939b-7424-482b-ac6d-1fa2ace4badd.jpg",
+                    "Url": "\/profile\/abheeshekdubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 417041,
+                    "Name": "politkin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/417041\/a381f5d5-6884-47d3-8715-b47d3d918c1c.jpg",
+                    "Url": "\/profile\/politkin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677680,
+                    "Name": "89FDF085",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677680\/924e649c-5bb7-43c5-a89f-37f19efa69f9.jpg",
+                    "Url": "\/profile\/89FDF085\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 57907,
+                    "Name": "xtreme",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/57907\/d55db348-9eba-4737-a1f6-07e81198e02d.jpg",
+                    "Url": "\/profile\/xtreme\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 6789,
+            "Posts": "7379",
+            "Comments": "12474",
+            "Points": 478940,
+            "PageViewsSplit": {
+                "Overview": 815608,
+                "Markets": 35176,
+                "Analysis": 13826,
+                "Charts": 106635,
+                "Trades": 41098,
+                "Orderbook": 224,
+                "Forum": 883301,
+                "Influence": 5341
+            },
+            "PageViews": 1901209
+        },
+        "Twitter": {
+            "favourites": "4298",
+            "statuses": 1907,
+            "following": "734",
+            "account_creation": "1453175224",
+            "name": "vergecurrency",
+            "link": "https:\/\/twitter.com\/vergecurrency",
+            "lists": 1381,
+            "followers": 218094,
+            "Points": 225000
+        },
+        "Reddit": {
+            "comments_per_hour": "0.07",
+            "comments_per_day": 1.79,
+            "posts_per_day": "0.04",
+            "link": "https:\/\/www.reddit.com\/r\/verge\/",
+            "active_users": 25,
+            "subscribers": 4890,
+            "posts_per_hour": "0.00",
+            "community_creation": "1321296391",
+            "name": "verge",
+            "Points": 4968
+        },
+        "Facebook": {
+            "likes": 27412,
+            "name": "VERGE",
+            "link": "https:\/\/www.facebook.com\/VERGEcurrency\/",
+            "talking_about": "1823",
+            "is_closed": "false",
+            "Points": 27412
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/vergecurrency\/VERGE",
+                    "last_update": "1515971058",
+                    "subscribers": 395,
+                    "size": "40707",
+                    "created_at": "1453522814",
+                    "open_pull_issues": "21",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C",
+                    "open_total_issues": "107",
+                    "stars": 1145,
+                    "forks": 327,
+                    "closed_pull_issues": "159",
+                    "closed_total_issues": "368",
+                    "open_issues": "86",
+                    "closed_issues": "209",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1515975750"
+                }
+            ],
+            "Points": 2984
+        }
+    }
+}

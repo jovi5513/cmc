@@ -1,0 +1,174 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GUN",
+            "CoinName": "GunCoin",
+            "Type": "Webpagecoinp",
+            "Points": 3530
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 7600,
+                    "Name": "Litestar Coin",
+                    "FullName": "Litestar Coin (LTS)",
+                    "ImageUrl": "\/media\/20644\/lts.png",
+                    "Url": "\/coins\/lts\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4425,
+                    "Name": "CraigsCoin",
+                    "FullName": "CraigsCoin (CRAIG)",
+                    "ImageUrl": "\/media\/20022\/craig.png",
+                    "Url": "\/coins\/craig\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32686,
+                    "Name": "Pabyosi Coin",
+                    "FullName": "Pabyosi Coin (PCS)",
+                    "ImageUrl": "\/media\/351927\/pabyosi.png",
+                    "Url": "\/coins\/pcs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5400,
+                    "Name": "Quotient",
+                    "FullName": "Quotient (XQN)",
+                    "ImageUrl": "\/media\/12318067\/xqn.png",
+                    "Url": "\/coins\/xqn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8716,
+                    "Name": "SpecCoin",
+                    "FullName": "SpecCoin (SPEC)",
+                    "ImageUrl": "\/media\/20689\/spec.png",
+                    "Url": "\/coins\/spec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28776,
+                    "Name": "DollarCoin",
+                    "FullName": "DollarCoin (DLC)",
+                    "ImageUrl": "\/media\/351559\/dlc.png",
+                    "Url": "\/coins\/dlc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 674918,
+                    "Name": "Ink",
+                    "FullName": "Ink (INK)",
+                    "ImageUrl": "\/media\/20780781\/ink.png",
+                    "Url": "\/coins\/ink\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20644,
+                    "Name": "SunShotCoin",
+                    "FullName": "SunShotCoin (SSTC)",
+                    "ImageUrl": "\/media\/350937\/ssc.png",
+                    "Url": "\/coins\/sstc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 372608,
+                    "Name": "Rupaya",
+                    "FullName": "Rupaya (RUPX)",
+                    "ImageUrl": "\/media\/14913484\/rupx.png",
+                    "Url": "\/coins\/rupx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 660438,
+                    "Name": "IrishCoin",
+                    "FullName": "IrishCoin (IRL)",
+                    "ImageUrl": "\/media\/20780751\/irl.png",
+                    "Url": "\/coins\/irl\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 547327,
+                    "Name": "mshihadeh3",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/547327\/0ff09252-4b5c-4357-9e92-74e6a63440a0.jpg",
+                    "Url": "\/profile\/mshihadeh3\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 25,
+            "Followers": 1,
+            "PageViewsSplit": {
+                "Overview": 91,
+                "Markets": 32,
+                "Analysis": 11,
+                "Charts": 4,
+                "Trades": 3,
+                "Orderbook": 0,
+                "Forum": 2,
+                "Influence": 2
+            },
+            "PageViews": 145
+        },
+        "Twitter": {
+            "following": "1792",
+            "account_creation": "1393637417",
+            "name": "TeamGuncoin",
+            "lists": 23,
+            "statuses": 275,
+            "favourites": "157",
+            "followers": 922,
+            "link": "https:\/\/twitter.com\/TeamGuncoin",
+            "Points": 1037
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 2410,
+            "link": "https:\/\/www.facebook.com\/guncoin\/",
+            "is_closed": "false",
+            "talking_about": "18",
+            "name": "Guncoin",
+            "Points": 2410
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1398957007",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "42056",
+                    "closed_total_issues": "2",
+                    "stars": 2,
+                    "last_update": "1515469910",
+                    "forks": 13,
+                    "url": "https:\/\/github.com\/guncoin\/guncoin",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "2",
+                    "fork": "false",
+                    "last_push": "1514547349",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 10,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 58
+        }
+    }
+}

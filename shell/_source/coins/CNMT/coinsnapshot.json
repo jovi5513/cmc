@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 0,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 3000000,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "CNMT",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.0001316",
+            "LASTUPDATE": "1473118906",
+            "LASTVOLUME": "32.114259",
+            "LASTVOLUMETO": "0.00422623",
+            "LASTTRADEID": "12308",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.0001316",
+            "HIGHDAY": "0.0001316",
+            "LOWDAY": "0.0001316",
+            "OPEN24HOUR": "0.0001316",
+            "HIGH24HOUR": "0.0001316",
+            "LOW24HOUR": "0.0001316",
+            "LASTMARKET": "Poloniex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Poloniex",
+                "FROMSYMBOL": "CNMT",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.0001316",
+                "LASTUPDATE": "1473118906",
+                "LASTVOLUME": "32.114259",
+                "LASTVOLUMETO": "0.00422623",
+                "LASTTRADEID": "12308",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.0001316",
+                "HIGH24HOUR": "0.0001316",
+                "LOW24HOUR": "0.0001316"
+            }
+        ]
+    },
+    "Type": 100
+}

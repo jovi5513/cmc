@@ -1,0 +1,226 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MTH",
+            "CoinName": "Monetha",
+            "Type": "Webpagecoinp",
+            "Points": 39176
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 202849,
+                    "Name": "KickCoin",
+                    "FullName": "KickCoin (KICK)",
+                    "ImageUrl": "\/media\/1383929\/kick.png",
+                    "Url": "\/coins\/kick\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185689,
+                    "Name": "BitClave",
+                    "FullName": "BitClave (CAT*)",
+                    "ImageUrl": "\/media\/20780714\/cat.png",
+                    "Url": "\/coins\/cat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30022,
+                    "Name": "ZCoin",
+                    "FullName": "ZCoin (XZC)",
+                    "ImageUrl": "\/media\/1382780\/xzc1.png",
+                    "Url": "\/coins\/xzc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 116180,
+                    "Name": "ZenCash",
+                    "FullName": "ZenCash (ZEN)",
+                    "ImageUrl": "\/media\/1383502\/zen.png",
+                    "Url": "\/coins\/zen\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22327,
+                    "Name": "Bancor Network Token",
+                    "FullName": "Bancor Network Token (BNT)",
+                    "ImageUrl": "\/media\/1383549\/bnt.jpg",
+                    "Url": "\/coins\/bnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 299397,
+                    "Name": "Waltonchain",
+                    "FullName": "Waltonchain (WTC)",
+                    "ImageUrl": "\/media\/12317959\/wtc.png",
+                    "Url": "\/coins\/wtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 335059,
+                    "Name": "Request Network",
+                    "FullName": "Request Network (REQ)",
+                    "ImageUrl": "\/media\/12318260\/req.png",
+                    "Url": "\/coins\/req\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340940,
+                    "Name": "WaBi",
+                    "FullName": "WaBi (WABI)",
+                    "ImageUrl": "\/media\/12318331\/wabi.png",
+                    "Url": "\/coins\/wabi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29348,
+                    "Name": "Peerplays",
+                    "FullName": "Peerplays (PPY)",
+                    "ImageUrl": "\/media\/351630\/peerplays.png",
+                    "Url": "\/coins\/ppy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 12194,
+                    "Name": "Expanse",
+                    "FullName": "Expanse (EXP)",
+                    "ImageUrl": "\/media\/20707\/exp.png",
+                    "Url": "\/coins\/exp\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 271519,
+                    "Name": "b.penman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/271519\/81842740-fb67-47e9-9e95-dd5d21747061.jpg",
+                    "Url": "\/profile\/b.penman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 403681,
+                    "Name": "bams5",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/403681\/aef221e9-b4c1-41aa-a349-0397ddb56017.jpg",
+                    "Url": "\/profile\/bams5\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 522810,
+                    "Name": "b-kh",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/522810\/5f344dd3-f522-4de2-9d9e-ee63990c520a.jpg",
+                    "Url": "\/profile\/b-kh\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 446656,
+                    "Name": "yun.johnsu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/446656\/24b1f95e-0461-4b4f-925b-6746688e0e63.png",
+                    "Url": "\/profile\/yun.johnsu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 657822,
+                    "Name": "syedjafri93",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/657822\/c75db736-75c9-4489-8c20-bad2be9a0881.jpg",
+                    "Url": "\/profile\/syedjafri93\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 159293,
+                    "Name": "ajaxpack",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/159293\/fc1be9d8-c811-4b2c-9cd8-9cfa898b7d0d.jpg",
+                    "Url": "\/profile\/ajaxpack\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 438679,
+                    "Name": "557655F6",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/438679\/da6ae663-030a-467f-ab7e-d0f7cf06e03f.jpg",
+                    "Url": "\/profile\/557655F6\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 650127,
+                    "Name": "edocean",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/650127\/271a1a46-7ba9-4f69-940b-fc257ec732ab.jpg",
+                    "Url": "\/profile\/edocean\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 544730,
+                    "Name": "itodak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/544730\/592d4843-670f-495c-8416-2a8187af1088.jpg",
+                    "Url": "\/profile\/itodak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 644855,
+                    "Name": "bitbnchin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/644855\/e5d8e899-e49b-4a37-a42d-fe4082ae2bbc.jpg",
+                    "Url": "\/profile\/bitbnchin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 447221,
+                    "Name": "espann",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/447221\/d2cb060a-4371-452b-8ae6-f2b75d2caa08.jpg",
+                    "Url": "\/profile\/espann\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 14040,
+            "Posts": "85",
+            "Comments": "64",
+            "Followers": 451,
+            "PageViewsSplit": {
+                "Overview": 38920,
+                "Markets": 3204,
+                "Analysis": 1368,
+                "Charts": 2724,
+                "Trades": 1253,
+                "Orderbook": 62,
+                "Forum": 3102,
+                "Influence": 517
+            },
+            "PageViews": 51150
+        },
+        "Twitter": {
+            "favourites": "230",
+            "statuses": 253,
+            "following": "53",
+            "account_creation": "1493625665",
+            "followers": 15092,
+            "name": "Monetha.io",
+            "link": "https:\/\/twitter.com\/Monetha_io",
+            "lists": 224,
+            "Points": 16212
+        },
+        "Reddit": {
+            "posts_per_hour": "0.04",
+            "link": "https:\/\/www.reddit.com\/r\/Monetha\/",
+            "comments_per_hour": "0.11",
+            "posts_per_day": "0.99",
+            "active_users": 62,
+            "community_creation": "1497965758",
+            "subscribers": 1831,
+            "name": "Monetha",
+            "comments_per_day": 2.59,
+            "Points": 2022
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "218",
+            "name": "Monetha",
+            "likes": 6897,
+            "link": "https:\/\/www.facebook.com\/Monetha.io\/",
+            "Points": 6897
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

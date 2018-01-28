@@ -1,0 +1,191 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CFD",
+            "CoinName": "Confido",
+            "Type": "Webpagecoinp",
+            "Points": 355
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 41125,
+                    "Name": "BitBoss",
+                    "FullName": "BitBoss (BOSS)",
+                    "ImageUrl": "\/media\/1382289\/boss.png",
+                    "Url": "\/coins\/boss\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29196,
+                    "Name": "FireCoin",
+                    "FullName": "FireCoin (FIRE)",
+                    "ImageUrl": "\/media\/351625\/fire.png",
+                    "Url": "\/coins\/fire\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 40845,
+                    "Name": "DarkEther",
+                    "FullName": "DarkEther (DETH)",
+                    "ImageUrl": "\/media\/1382252\/deth.png",
+                    "Url": "\/coins\/deth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 201896,
+                    "Name": "Arena",
+                    "FullName": "Arena (ARENA)",
+                    "ImageUrl": "\/media\/12318225\/arena.png",
+                    "Url": "\/coins\/arena\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60409,
+                    "Name": "FazzCoin",
+                    "FullName": "FazzCoin (FAZZ)",
+                    "ImageUrl": "\/media\/1382944\/fazz.png",
+                    "Url": "\/coins\/fazz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 222125,
+                    "Name": "Prospectors",
+                    "FullName": "Prospectors (PGL)",
+                    "ImageUrl": "\/media\/1384018\/pgl.png",
+                    "Url": "\/coins\/pgl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5351,
+                    "Name": "TruckCoin",
+                    "FullName": "TruckCoin (TRK)",
+                    "ImageUrl": "\/media\/20460\/trk.png",
+                    "Url": "\/coins\/trk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 661619,
+                    "Name": "Trollcoin",
+                    "FullName": "Trollcoin (TROLL)",
+                    "ImageUrl": "\/media\/20780763\/troll.png",
+                    "Url": "\/coins\/troll\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33008,
+                    "Name": "CBD Crystals",
+                    "FullName": "CBD Crystals (CBD)",
+                    "ImageUrl": "\/media\/351990\/cbd.png",
+                    "Url": "\/coins\/cbd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21875,
+                    "Name": "GothicCoin",
+                    "FullName": "GothicCoin (GOTX)",
+                    "ImageUrl": "\/media\/351071\/gotx.png",
+                    "Url": "\/coins\/gotx\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 355858,
+                    "Name": "islam.mohamedali",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/355858\/36e65edb-146d-498c-bafd-1f0e3851f597.jpg",
+                    "Url": "\/profile\/islam.mohamedali\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 336073,
+                    "Name": "fermaf",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/336073\/3fb84f96-654f-476c-bb60-573d404c1ed1.jpg",
+                    "Url": "\/profile\/fermaf\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 498447,
+                    "Name": "BAE9A8F",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/498447\/ac4cee83-3604-4e5b-8cb3-818c0754fff2.jpg",
+                    "Url": "\/profile\/BAE9A8F\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 382953,
+                    "Name": "tvthvt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/382953\/08a5cad7-60e4-4928-96c3-0715783f2e7d.jpg",
+                    "Url": "\/profile\/tvthvt\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 359390,
+                    "Name": "GBiz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/359390\/dffa7b80-59b2-4a45-8f50-545ef031b39d.png",
+                    "Url": "\/profile\/GBiz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 381809,
+                    "Name": "Manwell",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/381809\/90c549c7-a314-44fe-8c6e-0c448e4367e3.jpg",
+                    "Url": "\/profile\/Manwell\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 274990,
+                    "Name": "cinnamon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/274990\/1c226d18-e3cc-41f4-8f3f-3ff21365932b.jpg",
+                    "Url": "\/profile\/cinnamon\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 284814,
+                    "Name": "servant.justice",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/284814\/97d1b497-406c-4d02-9b26-82f32659bc05.jpg",
+                    "Url": "\/profile\/servant.justice\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 188077,
+                    "Name": "bose.debasish",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/188077\/de69d024-648b-4679-87a3-e0be10830e11.jpg",
+                    "Url": "\/profile\/bose.debasish\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 355,
+            "Posts": "4",
+            "Followers": 9,
+            "Comments": "3",
+            "PageViewsSplit": {
+                "Overview": 1515,
+                "Markets": 111,
+                "Analysis": 52,
+                "Charts": 119,
+                "Trades": 79,
+                "Orderbook": 0,
+                "Forum": 75,
+                "Influence": 29
+            },
+            "PageViews": 1980
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/confido\/\/",
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

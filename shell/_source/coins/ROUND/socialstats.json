@@ -1,0 +1,204 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ROUND",
+            "CoinName": "RoundCoin",
+            "Type": "Webpagecoinp",
+            "Points": 930
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20688,
+                    "Name": "DigiCube",
+                    "FullName": "DigiCube (CUBE)",
+                    "ImageUrl": "\/media\/350948\/cube.png",
+                    "Url": "\/coins\/cube\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25830,
+                    "Name": "PizzaCoin",
+                    "FullName": "PizzaCoin (PIZZA)",
+                    "ImageUrl": "\/media\/351397\/pizza.png",
+                    "Url": "\/coins\/pizza\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 100944,
+                    "Name": "Subscriptio",
+                    "FullName": "Subscriptio (SUB*)",
+                    "ImageUrl": "\/media\/1383362\/sub.png",
+                    "Url": "\/coins\/substar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338140,
+                    "Name": "Prosense.tv",
+                    "FullName": "Prosense.tv (VRP*)",
+                    "ImageUrl": "\/media\/12318284\/vrt.png",
+                    "Url": "\/coins\/vrp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 418694,
+                    "Name": "Uquid Coin",
+                    "FullName": "Uquid Coin (UQC)",
+                    "ImageUrl": "\/media\/16746443\/uqc.png",
+                    "Url": "\/coins\/uqc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 412112,
+                    "Name": "Autonio",
+                    "FullName": "Autonio (NIO)",
+                    "ImageUrl": "\/media\/16404894\/nio.png",
+                    "Url": "\/coins\/nio\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 370825,
+                    "Name": "PoSToken",
+                    "FullName": "PoSToken (POS)",
+                    "ImageUrl": "\/media\/14913455\/pos.png",
+                    "Url": "\/coins\/pos\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22328,
+                    "Name": "EkoCoin",
+                    "FullName": "EkoCoin (EKO)",
+                    "ImageUrl": "\/media\/351085\/eko.png",
+                    "Url": "\/coins\/eko\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4583,
+                    "Name": "Orbitcoin",
+                    "FullName": "Orbitcoin (ORB)",
+                    "ImageUrl": "\/media\/19845\/orb.png",
+                    "Url": "\/coins\/orb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 364747,
+                    "Name": "Jincor",
+                    "FullName": "Jincor (JCR)",
+                    "ImageUrl": "\/media\/14761952\/jcr.png",
+                    "Url": "\/coins\/jcr\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 124658,
+                    "Name": "MAHDIAGER",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/124658\/60590893-fea1-4054-bebc-ad243030163a.jpg",
+                    "Url": "\/profile\/MAHDIAGER\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 219586,
+                    "Name": "5DA4E43A",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/219586\/659e797d-bb13-402c-89b8-0aa4fc73445d.jpg",
+                    "Url": "\/profile\/5DA4E43A\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 191403,
+                    "Name": "opencity360",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/191403\/20b846ca-f196-45df-b9ca-965c5d19d579.jpg",
+                    "Url": "\/profile\/opencity360\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 216996,
+                    "Name": "harzov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/216996\/a8093f2f-d8a2-494e-b7be-0812c6353613.jpg",
+                    "Url": "\/profile\/harzov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 54173,
+                    "Name": "konradwladyko",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/54173\/b425555a-04ab-4821-b259-ef2ebb1f9970.jpg",
+                    "Url": "\/profile\/konradwladyko\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 175659,
+                    "Name": "rarities",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/175659\/88bccc79-5c2a-439f-b926-f33a8001cd70.jpg",
+                    "Url": "\/profile\/rarities\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 18575,
+                    "Name": "cryptosavvy",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/18575\/3cc7d234-0b8d-480a-9fa9-0701ce214f88.png",
+                    "Url": "\/profile\/cryptosavvy\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 181764,
+                    "Name": "crypto.leb.2017",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/181764\/2015fa0a-da82-4682-95b6-3640736551dd.jpg",
+                    "Url": "\/profile\/crypto.leb.2017\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 168876,
+                    "Name": "8FF92985",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/168876\/fe0e622b-8d26-4b81-8a6f-2c09cdc52c3d.jpg",
+                    "Url": "\/profile\/8FF92985\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 130103,
+                    "Name": "sukhlenko",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/130103\/078a8bcb-6541-48d8-83b9-b5718125db2f.jpg",
+                    "Url": "\/profile\/sukhlenko\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 930,
+            "Posts": "5",
+            "Followers": 31,
+            "Comments": "3",
+            "PageViewsSplit": {
+                "Overview": 2096,
+                "Markets": 137,
+                "Analysis": 93,
+                "Charts": 222,
+                "Trades": 98,
+                "Orderbook": 2,
+                "Forum": 67,
+                "Influence": 36
+            },
+            "PageViews": 2751
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

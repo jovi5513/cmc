@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "M1",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00015946",
+            "LASTUPDATE": "1515652781",
+            "LASTVOLUME": "25.766554",
+            "LASTVOLUMETO": "0.00410873470084",
+            "LASTTRADEID": "183993785",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.0001595",
+            "HIGHDAY": "0.0001595",
+            "LOWDAY": "0.00015946",
+            "OPEN24HOUR": "0.00015946",
+            "HIGH24HOUR": "0.00015946",
+            "LOW24HOUR": "0.00015946",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "M1",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00015946",
+                "LASTUPDATE": "1515652781",
+                "LASTVOLUME": "25.766554",
+                "LASTVOLUMETO": "0.00410873470084",
+                "LASTTRADEID": "183993785",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00015946",
+                "HIGH24HOUR": "0.00015946",
+                "LOW24HOUR": "0.00015946"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "M1",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00004781",
+                "LASTUPDATE": "1450174565",
+                "LASTVOLUME": "214.53164092",
+                "LASTVOLUMETO": "0.01025675",
+                "LASTTRADEID": "288551",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00004781",
+                "HIGH24HOUR": "0.00004781",
+                "LOW24HOUR": "0.00004781"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "M1",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.0001",
+                "LASTUPDATE": "1445153447",
+                "LASTVOLUME": "0.0163",
+                "LASTVOLUMETO": "0.0000016299999999999999",
+                "LASTTRADEID": "1445153447011",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.0001",
+                "HIGH24HOUR": "0.0001",
+                "LOW24HOUR": "0.0001"
+            }
+        ]
+    },
+    "Type": 100
+}

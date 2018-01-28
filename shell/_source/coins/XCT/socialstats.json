@@ -1,0 +1,253 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XCT",
+            "CoinName": "C-Bits",
+            "Type": "Webpagecoinp",
+            "Points": 1052
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28216,
+                    "Name": "ZayedCoin",
+                    "FullName": "ZayedCoin (ZYD)",
+                    "ImageUrl": "\/media\/351510\/zyd.png",
+                    "Url": "\/coins\/zyd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30391,
+                    "Name": "Zurcoin",
+                    "FullName": "Zurcoin (ZUR)",
+                    "ImageUrl": "\/media\/351758\/zur.png",
+                    "Url": "\/coins\/zur\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 334997,
+                    "Name": "Eloplay",
+                    "FullName": "Eloplay (ELT)",
+                    "ImageUrl": "\/media\/12318259\/elt.png",
+                    "Url": "\/coins\/elt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42685,
+                    "Name": "Elysium",
+                    "FullName": "Elysium (ELS)",
+                    "ImageUrl": "\/media\/1382400\/els.png",
+                    "Url": "\/coins\/els\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 625010,
+                    "Name": "REMME",
+                    "FullName": "REMME (REM)",
+                    "ImageUrl": "\/media\/20780658\/rem.png",
+                    "Url": "\/coins\/rem\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 453943,
+                    "Name": "FinTab",
+                    "FullName": "FinTab (FNT)",
+                    "ImageUrl": "\/media\/16746591\/fnt.png",
+                    "Url": "\/coins\/fnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 398648,
+                    "Name": "BitBoost",
+                    "FullName": "BitBoost (BBT)",
+                    "ImageUrl": "\/media\/15887410\/bbt.png",
+                    "Url": "\/coins\/bbt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28023,
+                    "Name": "Autumncoin",
+                    "FullName": "Autumncoin (ATM)",
+                    "ImageUrl": "\/media\/351492\/atm.png",
+                    "Url": "\/coins\/atm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5367,
+                    "Name": "CyberCoin",
+                    "FullName": "CyberCoin (CC)",
+                    "ImageUrl": "\/media\/20225\/cc.png",
+                    "Url": "\/coins\/cc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4552,
+                    "Name": "LightSpeedCoin",
+                    "FullName": "LightSpeedCoin (LSD)",
+                    "ImageUrl": "\/media\/20041\/lsd.png",
+                    "Url": "\/coins\/lsd\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 211700,
+                    "Name": "lyons_bernadette",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/211700\/fdd8013a-bcae-4925-b903-1c3765860775.jpg",
+                    "Url": "\/profile\/lyons_bernadette\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 513946,
+                    "Name": "dimsky180",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/513946\/d3502d21-5232-4315-8f72-ff6312928f18.jpg",
+                    "Url": "\/profile\/dimsky180\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 192872,
+                    "Name": "sulwester",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/192872\/d3ee4311-3dda-4597-9368-ebe1c6d4abba.jpg",
+                    "Url": "\/profile\/sulwester\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 510023,
+                    "Name": "trec.music",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/510023\/0d5eeab1-cf65-4c21-bbeb-53e17e5e8cd0.jpg",
+                    "Url": "\/profile\/trec.music\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 341122,
+                    "Name": "orhan.ayaz54",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/341122\/e5374e82-f8d9-4b25-b376-896dfbd10674.png",
+                    "Url": "\/profile\/orhan.ayaz54\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 333557,
+                    "Name": "k.gouwenberg",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/333557\/90230026-1c68-44ec-871d-58175dc5ed05.jpg",
+                    "Url": "\/profile\/k.gouwenberg\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 213517,
+                    "Name": "CryptoPhat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/213517\/f983e0dc-deda-4f41-bc33-fe8cda13b8b1.png",
+                    "Url": "\/profile\/CryptoPhat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 65541,
+                    "Name": "charityfundplus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/65541\/2afef154-f545-4a05-8606-357f07289b07.jpg",
+                    "Url": "\/profile\/charityfundplus\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 181764,
+                    "Name": "crypto.leb.2017",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/181764\/2015fa0a-da82-4682-95b6-3640736551dd.jpg",
+                    "Url": "\/profile\/crypto.leb.2017\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 152437,
+                    "Name": "apituya",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/152437\/1a203acb-f929-4f6a-ae7d-b75fd76b1d3a.jpg",
+                    "Url": "\/profile\/apituya\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 57387,
+                    "Name": "coachtarek24",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/57387\/52eb7718-3caa-4185-aba0-d24be2259f93.jpg",
+                    "Url": "\/profile\/coachtarek24\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 580,
+            "Followers": 14,
+            "Posts": "8",
+            "Comments": "3",
+            "PageViewsSplit": {
+                "Overview": 1653,
+                "Markets": 123,
+                "Analysis": 44,
+                "Charts": 90,
+                "Trades": 109,
+                "Orderbook": 3,
+                "Forum": 96,
+                "Influence": 22
+            },
+            "PageViews": 2140
+        },
+        "Twitter": {
+            "following": "8",
+            "account_creation": "1492971356",
+            "name": "XCT Cbits",
+            "lists": 9,
+            "statuses": 12,
+            "favourites": "2",
+            "followers": 361,
+            "link": "https:\/\/twitter.com\/xctcbits",
+            "Points": 406
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "posts_per_day": "0.03",
+            "name": "cbit",
+            "link": "https:\/\/www.reddit.com\/r\/cbit\/",
+            "active_users": 10,
+            "community_creation": "1469363859",
+            "subscribers": 18,
+            "Points": 48
+        },
+        "Facebook": {
+            "likes": 13,
+            "link": "https:\/\/www.facebook.com\/xctcbits\/",
+            "is_closed": "false",
+            "talking_about": "5",
+            "name": "XCT Cbits",
+            "Points": 13
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1492405277",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "c-bit",
+                        "Url": "https:\/\/github.com\/c-bit\/c-bit",
+                        "InternalId": -1
+                    },
+                    "size": "6466",
+                    "closed_total_issues": "0",
+                    "stars": 0,
+                    "last_update": "1492405285",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/cbit-xct\/c-bit",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "true",
+                    "last_push": "1458093021",
+                    "source": {
+                        "Name": "c-bit",
+                        "Url": "https:\/\/github.com\/c-bit\/c-bit",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 1,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 5
+        }
+    }
+}

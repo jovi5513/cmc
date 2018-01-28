@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "VIDZ",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000382",
+            "LASTUPDATE": "1516091461",
+            "LASTVOLUME": "3851.66252997",
+            "LASTVOLUMETO": "0.013095652601898",
+            "LASTTRADEID": "200013273",
+            "VOLUMEDAY": "5798585.346461304",
+            "VOLUMEDAYTO": "22.23239437167323",
+            "VOLUME24HOUR": "49510278.06447563",
+            "VOLUME24HOURTO": "324.4987511758071",
+            "OPENDAY": "0.00000197",
+            "HIGHDAY": "0.00000545",
+            "LOWDAY": "0.00000163",
+            "OPEN24HOUR": "0.00000867",
+            "HIGH24HOUR": "0.00001804",
+            "LOW24HOUR": "0.00000239",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "VIDZ",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.0000034",
+                "LASTUPDATE": "1516091461",
+                "LASTVOLUME": "3851.66252997",
+                "LASTVOLUMETO": "0.013095652601898",
+                "LASTTRADEID": "200013273",
+                "VOLUME24HOUR": "18125948.312210776",
+                "VOLUME24HOURTO": "53.99606680580679",
+                "OPEN24HOUR": "0.0000035",
+                "HIGH24HOUR": "0.00000632",
+                "LOW24HOUR": "0.00000153"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "VIDZ",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "3.4e-7",
+                "LASTUPDATE": "1494268164",
+                "LASTVOLUME": "550",
+                "LASTVOLUMETO": "0.000187",
+                "LASTTRADEID": "761",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "3.4e-7",
+                "HIGH24HOUR": "3.4e-7",
+                "LOW24HOUR": "3.4e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "VIDZ",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00000412",
+                "LASTUPDATE": "1516090882",
+                "LASTVOLUME": "2629.23623137",
+                "LASTVOLUMETO": "0.01083245",
+                "LASTTRADEID": "1516090882.003",
+                "VOLUME24HOUR": "31384329.752264857",
+                "VOLUME24HOURTO": "270.50268437000034",
+                "OPEN24HOUR": "0.0000124",
+                "HIGH24HOUR": "0.0000265",
+                "LOW24HOUR": "0.00000301"
+            }
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,160 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "FAME",
+            "CoinName": "FameCoin",
+            "Type": "Webpagecoinp",
+            "Points": 670
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 3645,
+                    "Name": "Supcoin",
+                    "FullName": "Supcoin (SUP)",
+                    "ImageUrl": "\/media\/20442\/sup.png",
+                    "Url": "\/coins\/sup\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35232,
+                    "Name": "CoralPay",
+                    "FullName": "CoralPay (CORAL)",
+                    "ImageUrl": "\/media\/352225\/coral.png",
+                    "Url": "\/coins\/coral\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33945,
+                    "Name": "Coin to the Future",
+                    "FullName": "Coin to the Future (BTTF)",
+                    "ImageUrl": "\/media\/352111\/bttf.png",
+                    "Url": "\/coins\/bttf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 77306,
+                    "Name": "Prizm",
+                    "FullName": "Prizm (PZM)",
+                    "ImageUrl": "\/media\/1383242\/pzm.jpg",
+                    "Url": "\/coins\/pzm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4566,
+                    "Name": "MurrayCoin",
+                    "FullName": "MurrayCoin (MRY)",
+                    "ImageUrl": "\/media\/19807\/mry.jpg",
+                    "Url": "\/coins\/mry\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34213,
+                    "Name": "DollarOnline",
+                    "FullName": "DollarOnline (DLR)",
+                    "ImageUrl": "\/media\/352114\/dollarcoin.png",
+                    "Url": "\/coins\/dlr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 13281,
+                    "Name": "LyraBar",
+                    "FullName": "LyraBar (LYB)",
+                    "ImageUrl": "\/media\/20339\/lyb.png",
+                    "Url": "\/coins\/lyb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5036,
+                    "Name": "ZedCoins",
+                    "FullName": "ZedCoins (ZED)",
+                    "ImageUrl": "\/media\/19981\/zed.png",
+                    "Url": "\/coins\/zed\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4598,
+                    "Name": "Saturn2Coin",
+                    "FullName": "Saturn2Coin (SAT2)",
+                    "ImageUrl": "\/media\/19897\/sat2.png",
+                    "Url": "\/coins\/sat2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340112,
+                    "Name": "CybCSec Coin",
+                    "FullName": "CybCSec Coin (XCS)",
+                    "ImageUrl": "\/media\/12318323\/xcs.png",
+                    "Url": "\/coins\/xcs\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 232191,
+                    "Name": "pet_14",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/232191\/9ddc1988-1bd8-4720-a68f-dd74d400ab8b.jpg",
+                    "Url": "\/profile\/pet_14\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 41600,
+                    "Name": "wictorius",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/41600\/9b2f1023-9442-4cb4-b438-2b42d217b5f1.jpg",
+                    "Url": "\/profile\/wictorius\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 41314,
+                    "Name": "khavinshankar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/41314\/e403e1e7-ed83-4eea-89b6-8c626e47a12e.jpg",
+                    "Url": "\/profile\/khavinshankar\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 100,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 1318,
+                "Markets": 95,
+                "Analysis": 107,
+                "Charts": 81,
+                "Trades": 62,
+                "Orderbook": 3,
+                "Forum": 19,
+                "Influence": 30
+            },
+            "PageViews": 1715
+        },
+        "Twitter": {
+            "followers": 507,
+            "following": "72",
+            "lists": 7,
+            "favourites": "7",
+            "statuses": 18,
+            "account_creation": "1473477944",
+            "name": "Fame",
+            "link": "https:\/\/twitter.com\/famecoinn",
+            "Points": 542
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 28,
+            "is_closed": "false",
+            "talking_about": "0",
+            "name": "Famecoin",
+            "link": "https:\/\/www.facebook.com\/Famecoin-1118072174937890\/",
+            "Points": 28
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

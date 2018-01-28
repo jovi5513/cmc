@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "CMT",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00002623",
+            "LASTUPDATE": "1516088405",
+            "LASTVOLUME": "352.69815124",
+            "LASTVOLUMETO": "0.007142137562610001",
+            "LASTTRADEID": "200000100",
+            "VOLUMEDAY": "6563.6461812",
+            "VOLUMEDAYTO": "0.14645040380958",
+            "VOLUME24HOUR": "9683296.49618516",
+            "VOLUME24HOURTO": "263.7220353217213",
+            "OPENDAY": "0.00002588",
+            "HIGHDAY": "0.00002628",
+            "LOWDAY": "0.0000257",
+            "OPEN24HOUR": "0.00002726",
+            "HIGH24HOUR": "0.00002901",
+            "LOW24HOUR": "0.0000256",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "CMT",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00002025",
+                "LASTUPDATE": "1516088405",
+                "LASTVOLUME": "352.69815124",
+                "LASTVOLUMETO": "0.007142137562610001",
+                "LASTTRADEID": "200000100",
+                "VOLUME24HOUR": "4048.3839044300003",
+                "VOLUME24HOURTO": "0.0881928317213812",
+                "OPEN24HOUR": "0.00002003",
+                "HIGH24HOUR": "0.00002903",
+                "LOW24HOUR": "0.00002003"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Novaexchange",
+                "FROMSYMBOL": "CMT",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.000004",
+                "LASTUPDATE": "1510060524",
+                "LASTVOLUME": "81.5495001",
+                "LASTVOLUMETO": "0.0003261980004",
+                "LASTTRADEID": "1510060524001",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.000004",
+                "HIGH24HOUR": "0.000004",
+                "LOW24HOUR": "0.000004"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "CMT",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00002352",
+                "LASTUPDATE": "1516085479",
+                "LASTVOLUME": "215.23004012",
+                "LASTVOLUMETO": "0.00506221",
+                "LASTTRADEID": "1516085479",
+                "VOLUME24HOUR": "21816.11228073",
+                "VOLUME24HOURTO": "0.59006018",
+                "OPEN24HOUR": "0.0000305",
+                "HIGH24HOUR": "0.00003233",
+                "LOW24HOUR": "0.0000235"
+            }
+        ]
+    },
+    "Type": 100
+}

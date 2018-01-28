@@ -1,0 +1,226 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "INS",
+            "CoinName": "INS Ecosystem",
+            "Type": "Webpagecoinp",
+            "Points": 32558
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 335127,
+                    "Name": "Aeron",
+                    "FullName": "Aeron (ARN)",
+                    "ImageUrl": "\/media\/12318261\/arn.png",
+                    "Url": "\/coins\/arn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33914,
+                    "Name": "Time",
+                    "FullName": "Time (TIME)",
+                    "ImageUrl": "\/media\/352105\/time.png",
+                    "Url": "\/coins\/time\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 307219,
+                    "Name": "Ripio",
+                    "FullName": "Ripio (RCN)",
+                    "ImageUrl": "\/media\/12318046\/rnc.png",
+                    "Url": "\/coins\/rcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369132,
+                    "Name": "SimpleToken",
+                    "FullName": "SimpleToken (OST)",
+                    "ImageUrl": "\/media\/14913437\/st.png",
+                    "Url": "\/coins\/ost\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5374,
+                    "Name": "PinkCoin",
+                    "FullName": "PinkCoin (PINK)",
+                    "ImageUrl": "\/media\/350588\/pinkcoin-logo.png",
+                    "Url": "\/coins\/pink\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 56249,
+                    "Name": "ChainCoin",
+                    "FullName": "ChainCoin (CHC)",
+                    "ImageUrl": "\/media\/1383907\/chc.png",
+                    "Url": "\/coins\/chc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7636,
+                    "Name": "MonetaVerde",
+                    "FullName": "MonetaVerde (MCN)",
+                    "ImageUrl": "\/media\/20346\/mcn.png",
+                    "Url": "\/coins\/mcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338541,
+                    "Name": "Worldwide Asset eXchange",
+                    "FullName": "Worldwide Asset eXchange (WAX)",
+                    "ImageUrl": "\/media\/12318290\/wax.png",
+                    "Url": "\/coins\/wax\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 393742,
+                    "Name": "Scorum",
+                    "FullName": "Scorum (SCR)",
+                    "ImageUrl": "\/media\/14913681\/scr.png",
+                    "Url": "\/coins\/scr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 292748,
+                    "Name": "Etherparty",
+                    "FullName": "Etherparty (FUEL)",
+                    "ImageUrl": "\/media\/11999072\/fuel.png",
+                    "Url": "\/coins\/fuel\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 111244,
+                    "Name": "druesteele",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/111244\/6befabe6-300e-4b44-8412-ad0ef26c6f91.jpg",
+                    "Url": "\/profile\/druesteele\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 518388,
+                    "Name": "adrianpabloali",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/518388\/0045f704-70cf-4486-b384-b9d98a034fc6.jpg",
+                    "Url": "\/profile\/adrianpabloali\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 471950,
+                    "Name": "marek.grden",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/471950\/cac821ba-9bc5-48ec-9fef-4e666e5b9972.jpg",
+                    "Url": "\/profile\/marek.grden\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 403922,
+                    "Name": "antonjspringford",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/403922\/3091a687-3719-4749-aba5-e60d7e0c0bc7.jpg",
+                    "Url": "\/profile\/antonjspringford\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 416970,
+                    "Name": "69E62273",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/416970\/d3e4c08b-2c11-4972-9c59-86230a3860fb.jpg",
+                    "Url": "\/profile\/69E62273\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 624814,
+                    "Name": "apextuntopface",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/624814\/bc8a996f-7e85-4fe4-8389-2a1b0301ef85.jpg",
+                    "Url": "\/profile\/apextuntopface\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 370647,
+                    "Name": "bladow1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/370647\/e4dd2bbc-df4c-4414-a3b3-d4f7fdad3211.jpg",
+                    "Url": "\/profile\/bladow1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 80185,
+                    "Name": "henk.huurman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/80185\/c6cc6e76-da46-40f7-b23a-747a18d1fc5b.jpg",
+                    "Url": "\/profile\/henk.huurman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 624761,
+                    "Name": "annau.mike",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/624761\/45ea8272-37c8-4621-ba02-dab2fdc472df.jpg",
+                    "Url": "\/profile\/annau.mike\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 465314,
+                    "Name": "lazzarin.nicolo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/465314\/caa4138a-538b-447d-a718-018ed950f62c.jpg",
+                    "Url": "\/profile\/lazzarin.nicolo\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 4510,
+            "Posts": "20",
+            "Comments": "16",
+            "Followers": 154,
+            "PageViewsSplit": {
+                "Overview": 7231,
+                "Markets": 206,
+                "Analysis": 148,
+                "Charts": 75,
+                "Trades": 35,
+                "Orderbook": 0,
+                "Forum": 602,
+                "Influence": 178
+            },
+            "PageViews": 8475
+        },
+        "Twitter": {
+            "statuses": 228,
+            "favourites": "832",
+            "following": "123",
+            "account_creation": "1430169287",
+            "followers": 10661,
+            "name": "INS Ecosystem",
+            "link": "https:\/\/twitter.com\/INS_Ecosystem",
+            "lists": 99,
+            "Points": 11156
+        },
+        "Reddit": {
+            "posts_per_hour": "0.04",
+            "link": "https:\/\/www.reddit.com\/r\/INS_Ecosystem\/",
+            "comments_per_hour": "0.99",
+            "posts_per_day": "1.02",
+            "active_users": 22,
+            "community_creation": "1505775820",
+            "comments_per_day": 23.88,
+            "name": "INS_Ecosystem",
+            "subscribers": 635,
+            "Points": 748
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "1784",
+            "name": "INS Ecosystem",
+            "likes": 16144,
+            "link": "https:\/\/www.facebook.com\/ins.ecosystem\/",
+            "Points": 16144
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

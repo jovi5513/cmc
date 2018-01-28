@@ -1,0 +1,189 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GAKH",
+            "CoinName": "GAKHcoin",
+            "Type": "Webpagecoinp",
+            "Points": 128
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 58125,
+                    "Name": "CryptoJournal",
+                    "FullName": "CryptoJournal (CJC)",
+                    "ImageUrl": "\/media\/1382887\/cjc.png",
+                    "Url": "\/coins\/cjc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30179,
+                    "Name": "CrabCoin",
+                    "FullName": "CrabCoin (CRAB)",
+                    "ImageUrl": "\/media\/351739\/crab.png",
+                    "Url": "\/coins\/crab\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20679,
+                    "Name": "InvisibleCoin",
+                    "FullName": "InvisibleCoin (IVZ)",
+                    "ImageUrl": "\/media\/350944\/ivz.png",
+                    "Url": "\/coins\/ivz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35813,
+                    "Name": "CryptoSpots",
+                    "FullName": "CryptoSpots (CS)",
+                    "ImageUrl": "\/media\/352292\/cs.png",
+                    "Url": "\/coins\/cs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20826,
+                    "Name": "DragonSphere",
+                    "FullName": "DragonSphere (XDB)",
+                    "ImageUrl": "\/media\/350977\/xdb.png",
+                    "Url": "\/coins\/xdb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6116,
+                    "Name": "DarkBit",
+                    "FullName": "DarkBit (DB)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/db\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33393,
+                    "Name": "MegaFlash",
+                    "FullName": "MegaFlash (MEGA)",
+                    "ImageUrl": "\/media\/352020\/mega.png",
+                    "Url": "\/coins\/mega\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7581,
+                    "Name": "Milllionaire Coin",
+                    "FullName": "Milllionaire Coin (MIL)",
+                    "ImageUrl": "\/media\/20354\/mil.png",
+                    "Url": "\/coins\/mil\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4413,
+                    "Name": "CinderCoin",
+                    "FullName": "CinderCoin (CIN)",
+                    "ImageUrl": "\/media\/20698\/cinder.png",
+                    "Url": "\/coins\/cin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 329507,
+                    "Name": "LakeBanker",
+                    "FullName": "LakeBanker (BAC*)",
+                    "ImageUrl": "\/media\/12318229\/bac.png",
+                    "Url": "\/coins\/bacstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 660180,
+                    "Name": "chinabuyer8",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/660180\/a31f7543-1a12-410d-bfc0-f9a535f20bb9.jpg",
+                    "Url": "\/profile\/chinabuyer8\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 325894,
+                    "Name": "thurabupef",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/325894\/f931aa07-9ae8-4512-a65c-6c5188a38c90.jpg",
+                    "Url": "\/profile\/thurabupef\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 216123,
+                    "Name": "tanvirk140",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/216123\/7dd601d1-bf83-4a63-bfbe-81288025aa2f.jpg",
+                    "Url": "\/profile\/tanvirk140\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 53079,
+                    "Name": "karimmiffa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/53079\/4dc8418e-3dd2-437c-9d3d-4af346b00bcf.png",
+                    "Url": "\/profile\/karimmiffa\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "PageViewsSplit": {
+                "Overview": 206,
+                "Markets": 16,
+                "Analysis": 5,
+                "Charts": 11,
+                "Trades": 8,
+                "Orderbook": 0,
+                "Forum": 8,
+                "Influence": 7
+            },
+            "PageViews": 261
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "2530",
+                    "url": "https:\/\/github.com\/gakh\/GAKHcoin",
+                    "last_update": "1469527488",
+                    "last_push": "1469878794",
+                    "created_at": "1469527235",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

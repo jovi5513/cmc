@@ -1,0 +1,161 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "FRAC",
+            "CoinName": "FractalCoin",
+            "Type": "Webpagecoinp",
+            "Points": 657
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 371004,
+                    "Name": "Tracto",
+                    "FullName": "Tracto (TRCT)",
+                    "ImageUrl": "\/media\/14913462\/trct.png",
+                    "Url": "\/coins\/trct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5323,
+                    "Name": "GridPay",
+                    "FullName": "GridPay (GRID*)",
+                    "ImageUrl": "\/media\/20313\/grid.png",
+                    "Url": "\/coins\/gridstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28326,
+                    "Name": "RootCoin",
+                    "FullName": "RootCoin (ROOT)",
+                    "ImageUrl": "\/media\/351523\/root.png",
+                    "Url": "\/coins\/root\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4423,
+                    "Name": "CoolCoin",
+                    "FullName": "CoolCoin (COOL)",
+                    "ImageUrl": "\/media\/19658\/cool.png",
+                    "Url": "\/coins\/cool\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3650,
+                    "Name": "NXTI",
+                    "FullName": "NXTI (NXTI)",
+                    "ImageUrl": "\/media\/20376\/nxti.png",
+                    "Url": "\/coins\/nxti\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6088,
+                    "Name": "Viral Coin",
+                    "FullName": "Viral Coin (VIRAL)",
+                    "ImageUrl": "\/media\/20472\/viral.png",
+                    "Url": "\/coins\/viral\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185625,
+                    "Name": "GeoFunders",
+                    "FullName": "GeoFunders (GUNS)",
+                    "ImageUrl": "\/media\/1383789\/guns.png",
+                    "Url": "\/coins\/guns\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4443,
+                    "Name": "ExeCoin",
+                    "FullName": "ExeCoin (EXE)",
+                    "ImageUrl": "\/media\/19700\/exe.png",
+                    "Url": "\/coins\/exe\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21710,
+                    "Name": "Nukecoinz",
+                    "FullName": "Nukecoinz (NKC)",
+                    "ImageUrl": "\/media\/351041\/nkc.png",
+                    "Url": "\/coins\/nkc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42440,
+                    "Name": "WealthCoin",
+                    "FullName": "WealthCoin (WEALTH)",
+                    "ImageUrl": "\/media\/1382392\/wealth.png",
+                    "Url": "\/coins\/wealth\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 225160,
+                    "Name": "suslov-1974",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/225160\/cf379db9-7218-460c-9151-dc34cfac22b4.jpg",
+                    "Url": "\/profile\/suslov-1974\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 323081,
+                    "Name": "slammminsammmy79",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/323081\/32a158f1-24c7-48ad-922c-c10d24a7250b.jpg",
+                    "Url": "\/profile\/slammminsammmy79\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 46194,
+                    "Name": "t.h.85",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/46194\/556e805f-88ac-4897-8a63-6f0501290239.jpg",
+                    "Url": "\/profile\/t.h.85\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 148,
+                "Markets": 10,
+                "Analysis": 9,
+                "Charts": 19,
+                "Trades": 11,
+                "Orderbook": 0,
+                "Forum": 16,
+                "Influence": 11
+            },
+            "PageViews": 224
+        },
+        "Twitter": {
+            "followers": 487,
+            "following": "9",
+            "lists": 14,
+            "favourites": "1",
+            "statuses": 77,
+            "account_creation": "1402099238",
+            "name": "Fractalcoin",
+            "link": "https:\/\/twitter.com\/fractalcoin",
+            "Points": 557
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

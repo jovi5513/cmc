@@ -1,0 +1,241 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NEOS",
+            "CoinName": "NeosCoin",
+            "Type": "Webpagecoinp",
+            "Points": 30956
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 33399,
+                    "Name": "Veros",
+                    "FullName": "Veros (VRS)",
+                    "ImageUrl": "\/media\/352021\/vrs.png",
+                    "Url": "\/coins\/vrs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28332,
+                    "Name": "DopeCoin",
+                    "FullName": "DopeCoin (DOPE)",
+                    "ImageUrl": "\/media\/351526\/dope.png",
+                    "Url": "\/coins\/dope\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 200941,
+                    "Name": "Signatum",
+                    "FullName": "Signatum (SIGT)",
+                    "ImageUrl": "\/media\/9350710\/sigt.png",
+                    "Url": "\/coins\/sigt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 67096,
+                    "Name": "Guppy",
+                    "FullName": "Guppy (GUP)",
+                    "ImageUrl": "\/media\/1383107\/gup.png",
+                    "Url": "\/coins\/gup\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 466492,
+                    "Name": "Universa",
+                    "FullName": "Universa (UTN)",
+                    "ImageUrl": "\/media\/16746611\/utn.png",
+                    "Url": "\/coins\/utn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 327184,
+                    "Name": "BitcoinZ",
+                    "FullName": "BitcoinZ (BTCZ)",
+                    "ImageUrl": "\/media\/12318408\/btcz.png",
+                    "Url": "\/coins\/btcz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21365,
+                    "Name": "DimeCoin",
+                    "FullName": "DimeCoin (DIME)",
+                    "ImageUrl": "\/media\/351012\/dime.png",
+                    "Url": "\/coins\/dime\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5348,
+                    "Name": "Folding Coin",
+                    "FullName": "Folding Coin (FLDC)",
+                    "ImageUrl": "\/media\/20284\/fldc.png",
+                    "Url": "\/coins\/fldc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 184237,
+                    "Name": "BitJob",
+                    "FullName": "BitJob (STU)",
+                    "ImageUrl": "\/media\/1383785\/stu.png",
+                    "Url": "\/coins\/stu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 321177,
+                    "Name": "Elixir",
+                    "FullName": "Elixir (ELIX)",
+                    "ImageUrl": "\/media\/12318172\/elix.png",
+                    "Url": "\/coins\/elix\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 657892,
+                    "Name": "linalwayz24_7",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/657892\/07db224f-f105-4a58-9722-71a7c9dbe393.jpg",
+                    "Url": "\/profile\/linalwayz24_7\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 552799,
+                    "Name": "roi0507",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/552799\/3ae1f215-9bac-4ff6-b3ef-80b613d9d7d2.jpg",
+                    "Url": "\/profile\/roi0507\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 638569,
+                    "Name": "neojapanese1116",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/638569\/45d76212-e629-4a4a-9256-f3774d520a75.jpg",
+                    "Url": "\/profile\/neojapanese1116\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 639177,
+                    "Name": "gabriel.martelo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/639177\/b1582f57-1782-44d6-95e4-5ec181ec0cab.jpg",
+                    "Url": "\/profile\/gabriel.martelo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 227212,
+                    "Name": "fredben7",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/227212\/b9d9b712-a021-4289-a0e5-040a061f8b21.jpg",
+                    "Url": "\/profile\/fredben7\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 469923,
+                    "Name": "adamtozer67",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/469923\/7e5830b2-5435-4db1-9150-0f904166811c.jpg",
+                    "Url": "\/profile\/adamtozer67\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 155013,
+                    "Name": "uheredia",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/155013\/353e81af-7e5a-448e-8326-e913b23552fd.jpg",
+                    "Url": "\/profile\/uheredia\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 472754,
+                    "Name": "vanridesbikes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/472754\/c6626294-766d-4d32-974a-7bcf2f0d6404.jpg",
+                    "Url": "\/profile\/vanridesbikes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 331269,
+                    "Name": "antonio.vecchio",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/331269\/5a9e1359-0ef2-40c3-96d1-4c75a85c0dc8.jpg",
+                    "Url": "\/profile\/antonio.vecchio\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 364930,
+                    "Name": "carol",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/364930\/d6d10009-eb71-4df4-a2c5-e68bfc82d151.jpg",
+                    "Url": "\/profile\/carol\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 416663,
+                    "Name": "zeynepdoner",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/416663\/37ef9f6b-6f63-42c6-bc8e-9b0693b31fe4.png",
+                    "Url": "\/profile\/zeynepdoner\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 4165,
+            "Followers": 154,
+            "Posts": "11",
+            "Comments": "4",
+            "PageViewsSplit": {
+                "Overview": 24600,
+                "Markets": 657,
+                "Analysis": 403,
+                "Charts": 1689,
+                "Trades": 339,
+                "Orderbook": 105,
+                "Forum": 641,
+                "Influence": 143
+            },
+            "PageViews": 28577
+        },
+        "Twitter": {
+            "following": "48",
+            "account_creation": "1407747934",
+            "name": "NeosCoin",
+            "lists": 274,
+            "favourites": "442",
+            "statuses": 2184,
+            "followers": 25356,
+            "link": "https:\/\/twitter.com\/NeosCoin",
+            "Points": 26728
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1475173342",
+                    "open_total_issues": "2",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "0",
+                    "size": "3046",
+                    "stars": 15,
+                    "last_update": "1514609607",
+                    "forks": 8,
+                    "url": "https:\/\/github.com\/neoscoin\/neos-core",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1512832112",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "subscribers": 10,
+                    "open_issues": "2",
+                    "language": "C++"
+                }
+            ],
+            "Points": 61
+        }
+    }
+}

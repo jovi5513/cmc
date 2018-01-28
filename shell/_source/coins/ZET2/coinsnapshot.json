@@ -1,0 +1,49 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "ZET2",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00002044",
+            "LASTUPDATE": "1516048494",
+            "LASTVOLUME": "100",
+            "LASTVOLUMETO": "0.0020440000000000002",
+            "LASTTRADEID": "200000044",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "100",
+            "VOLUME24HOURTO": "0.002044",
+            "OPENDAY": "0.00002044",
+            "HIGHDAY": "0.00002044",
+            "LOWDAY": "0.00002044",
+            "OPEN24HOUR": "0.0000196",
+            "HIGH24HOUR": "0.00002044",
+            "LOW24HOUR": "0.0000196",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "ZET2",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00002044",
+                "LASTUPDATE": "1516048494",
+                "LASTVOLUME": "100",
+                "LASTVOLUMETO": "0.0020440000000000002",
+                "LASTTRADEID": "200000044",
+                "VOLUME24HOUR": "100",
+                "VOLUME24HOURTO": "0.002044",
+                "OPEN24HOUR": "0.0000196",
+                "HIGH24HOUR": "0.00002044",
+                "LOW24HOUR": "0.0000196"
+            }
+        ]
+    },
+    "Type": 100
+}

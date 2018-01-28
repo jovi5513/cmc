@@ -1,0 +1,80 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "DeepOnion (ONION) - Live streaming prices and market cap",
+            "PageDescription": "Live DeepOnion prices from all markets and ONION coin market Capitalization. Stay up to date with the latest DeepOnion price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1383894\/onion.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "198967",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "DeepOnion (ONION)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ONION",
+            "Url": "\/coins\/onion\/",
+            "BaseAngularUrl": "\/coins\/onion\/",
+            "Name": "DeepOnion",
+            "ImageUrl": "\/media\/1383894\/onion.png",
+            "Description": "<p><span>DeepOnion is a cryptocurrency that uses of the X13 proof of work (PoW)\u00a0<\/span><span>consensus as well as proof of stake (PoS). It is natively integrated with the TOR network and always starts with TOR network.<span>\u00a0<\/span><\/span><span>Out of the 90% premine, 70% will be air-dropped to community, 20% will be used for bounties, rewards and other promotions, and about 10% will be reserved for the dev team.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "18898187.6216583",
+            "Algorithm": "X13",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "06\/07\/2017",
+            "Twitter": "@deeponionx",
+            "AffiliateUrl": "https:\/\/deeponion.org\/",
+            "Website": "<a href='https:\/\/deeponion.org\/' target='_blank'>DeepOnion<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515977151,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 315382,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 3720332.4479352,
+            "TotalCoinsMined": 19357386.182537,
+            "PreviousTotalCoinsMined": 19356997.253846,
+            "BlockReward": 3.9833627105083
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Kucoin~ONION~ETH",
+            "2~Novaexchange~ONION~BTC",
+            "2~Cryptopia~ONION~LTC",
+            "2~Novaexchange~ONION~ESP2",
+            "2~Novaexchange~ONION~LTC",
+            "2~Kucoin~ONION~BTC",
+            "2~Cryptopia~ONION~DOGE",
+            "2~Novaexchange~ONION~MOON",
+            "2~Novaexchange~ONION~DOGE",
+            "2~Novaexchange~ONION~ETH",
+            "2~Novaexchange~ONION~KIC",
+            "2~Cryptopia~ONION~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ONION~ETH~2~0.01038~1515979403~9.79~0.10163978~1515979403000~347.7419~3.513107474100001~4476.640399999999~44.21921069700001~0.00954~0.01043~0.009539~0.0107~0.01224~0.0085~Kucoin~7ffe9",
+            "5~CCCAGG~ONION~BTC~4~0.0009856~1515979405~9.78~0.010366799999999999~1515979405000~2188.3718116200007~2.1327151108099995~45479.08365036999~44.01591403940901~0.0009495~0.0009856~0.0009314~0.001055~0.001074~0.0009136~Kucoin~7ffe9",
+            "5~CCCAGG~ONION~LTC~4~0.02457263~1515196633~4.06579462~0.09990727~1515196633~0~0~0~0~0.02457263~0.02457263~0.02457263~0.02457263~0.02457263~0.02457263~Cryptopia~7ffe9",
+            "5~CCCAGG~ONION~ESP2~4~4432.00000001~1509453472~0.00087~3.8558400000087~1509453472000~0~0~0~0~4432.00000001~4432.00000001~4432.00000001~4432.00000001~4432.00000001~4432.00000001~Novaexchange~7ffe9",
+            "5~CCCAGG~ONION~DOGE~4~600.45662993~1515195573~3~1801.36988979~1515195573~0~0~0~0~600.46~600.46~600.45662993~600.45662993~600.45662993~600.45662993~Cryptopia~7ffe9",
+            "5~CCCAGG~ONION~MOON~4~2500~1502314447~1~2500~1502314447000~0~0~0~0~2500~2500~2500~2500~2500~2500~Novaexchange~7ffe9",
+            "5~CCCAGG~ONION~KIC~4~27~1502823890~0.20699259~5.58879993~1502823890000~0~0~0~0~27~27~27~27~27~27~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

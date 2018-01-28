@@ -1,0 +1,190 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CYG",
+            "CoinName": "Cygnus",
+            "Type": "Webpagecoinp",
+            "Points": 506
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 37204,
+                    "Name": "Impulse Coin",
+                    "FullName": "Impulse Coin (IMPS)",
+                    "ImageUrl": "\/media\/1381984\/imps.jpg",
+                    "Url": "\/coins\/imps\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5389,
+                    "Name": "MemoryCoin",
+                    "FullName": "MemoryCoin (MMC)",
+                    "ImageUrl": "\/media\/19795\/mmc.png",
+                    "Url": "\/coins\/mmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21229,
+                    "Name": "Supreme",
+                    "FullName": "Supreme (SPM)",
+                    "ImageUrl": "\/media\/351002\/sup.png",
+                    "Url": "\/coins\/spm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29004,
+                    "Name": "PSIcoin",
+                    "FullName": "PSIcoin (PSI)",
+                    "ImageUrl": "\/media\/351589\/psi.png",
+                    "Url": "\/coins\/psi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4325,
+                    "Name": "AlphaCoin",
+                    "FullName": "AlphaCoin (ALF)",
+                    "ImageUrl": "\/media\/19600\/alf.png",
+                    "Url": "\/coins\/alf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8693,
+                    "Name": "Axiom Coin",
+                    "FullName": "Axiom Coin (AXIOM)",
+                    "ImageUrl": "\/media\/20686\/axiom.png",
+                    "Url": "\/coins\/axiom\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5337,
+                    "Name": "DayTrader Coin",
+                    "FullName": "DayTrader Coin (DTC*)",
+                    "ImageUrl": "\/media\/19688\/dtc.png",
+                    "Url": "\/coins\/dtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37370,
+                    "Name": "PXcoin",
+                    "FullName": "PXcoin (PX)",
+                    "ImageUrl": "\/media\/1381994\/px.png",
+                    "Url": "\/coins\/px\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5350,
+                    "Name": "Social Media Coin",
+                    "FullName": "Social Media Coin (SMAC)",
+                    "ImageUrl": "\/media\/20427\/smac.png",
+                    "Url": "\/coins\/smac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 40839,
+                    "Name": "TwisterCoin",
+                    "FullName": "TwisterCoin (TWIST)",
+                    "ImageUrl": "\/media\/1382250\/twist1.png",
+                    "Url": "\/coins\/twist\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 203274,
+                    "Name": "polo.rascon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/203274\/5075a92a-de31-4bfa-b5ea-edbd4d7f616e.jpg",
+                    "Url": "\/profile\/polo.rascon\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 45787,
+                    "Name": "love-2009-",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/45787\/ccb32d39-22dd-477c-9402-d660972c57d0.jpg",
+                    "Url": "\/profile\/love-2009-\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 15587,
+                    "Name": "cepsh35",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/15587\/eea4e8a4-557b-4e72-9d6d-269a9c81be4d.jpg",
+                    "Url": "\/profile\/cepsh35\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 254,
+                "Markets": 15,
+                "Analysis": 16,
+                "Charts": 18,
+                "Trades": 13,
+                "Orderbook": 0,
+                "Forum": 28,
+                "Influence": 11
+            },
+            "PageViews": 355
+        },
+        "Twitter": {
+            "favourites": "0",
+            "lists": 4,
+            "statuses": 17,
+            "following": "15",
+            "account_creation": "1455875815",
+            "name": "Cygnus",
+            "followers": 374,
+            "link": "https:\/\/twitter.com\/Project_Cygnus",
+            "Points": 394
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1456469390",
+                    "url": "https:\/\/github.com\/ProjectCygnus\/Cygnus",
+                    "forks": 4,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "size": "3291",
+                    "created_at": "1456258952",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1456259271",
+                    "stars": 1
+                }
+            ],
+            "Points": 12
+        }
+    }
+}

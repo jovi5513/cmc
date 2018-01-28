@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "DBIX",
+            "CoinName": "DubaiCoin",
+            "Type": "Webpagecoinp",
+            "Points": 19499
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 84752,
+                    "Name": "HTML Coin",
+                    "FullName": "HTML Coin (HTML5)",
+                    "ImageUrl": "\/media\/1383327\/html5.png",
+                    "Url": "\/coins\/html5\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 240322,
+                    "Name": "GoldMint",
+                    "FullName": "GoldMint (MNT)",
+                    "ImageUrl": "\/media\/9350745\/mntp.png",
+                    "Url": "\/coins\/mnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 175671,
+                    "Name": "Blocktix",
+                    "FullName": "Blocktix (TIX)",
+                    "ImageUrl": "\/media\/1383690\/tix.png",
+                    "Url": "\/coins\/tix\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 355702,
+                    "Name": "Dragonchain",
+                    "FullName": "Dragonchain (DRGN)",
+                    "ImageUrl": "\/media\/16746490\/drgn.png",
+                    "Url": "\/coins\/drgn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 345420,
+                    "Name": "Revain",
+                    "FullName": "Revain (R)",
+                    "ImageUrl": "\/media\/12318360\/r.png",
+                    "Url": "\/coins\/r\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45253,
+                    "Name": "Melon",
+                    "FullName": "Melon (MLN)",
+                    "ImageUrl": "\/media\/1382653\/mln.png",
+                    "Url": "\/coins\/mln\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20892,
+                    "Name": "BreakoutCoin",
+                    "FullName": "BreakoutCoin (BRK)",
+                    "ImageUrl": "\/media\/350981\/brk.png",
+                    "Url": "\/coins\/brk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 327632,
+                    "Name": "CanYaCoin",
+                    "FullName": "CanYaCoin (CAN*)",
+                    "ImageUrl": "\/media\/12318218\/canya.png",
+                    "Url": "\/coins\/can\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179896,
+                    "Name": "Populous",
+                    "FullName": "Populous (PPT)",
+                    "ImageUrl": "\/media\/1383747\/ppt.png",
+                    "Url": "\/coins\/ppt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4338,
+                    "Name": "BitBean",
+                    "FullName": "BitBean (BITB)",
+                    "ImageUrl": "\/media\/350879\/bitb.png",
+                    "Url": "\/coins\/bitb\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 674962,
+                    "Name": "thomas_hart",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674962\/c833006c-2ac6-46ac-b2fb-0af14308a4ae.jpg",
+                    "Url": "\/profile\/thomas_hart\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 673624,
+                    "Name": "Luna",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673624\/c9e3728f-f688-4672-bf03-4a197dd9b422.jpg",
+                    "Url": "\/profile\/Luna\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 665065,
+                    "Name": "nashxp10",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/665065\/f756d7d5-feae-4656-8b84-e71ea6335d43.jpg",
+                    "Url": "\/profile\/nashxp10\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 631695,
+                    "Name": "davidregoor",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/631695\/6315aa0d-4880-433b-8920-427ff34df1b9.jpg",
+                    "Url": "\/profile\/davidregoor\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 658951,
+                    "Name": "lukedanastasi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/658951\/76356653-6a6b-4a39-8a20-cc06c9937bae.jpg",
+                    "Url": "\/profile\/lukedanastasi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 486639,
+                    "Name": "giordanodesign",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/486639\/99506846-defb-427e-967f-d39a077c97c5.jpg",
+                    "Url": "\/profile\/giordanodesign\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 336012,
+                    "Name": "Baki87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/336012\/64a6d759-d8e3-497f-9892-8d6c0d4efb48.jpg",
+                    "Url": "\/profile\/Baki87\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 657496,
+                    "Name": "petoelgen",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/657496\/5243b791-c77f-4b78-8511-6db521a6434e.jpg",
+                    "Url": "\/profile\/petoelgen\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 331468,
+                    "Name": "minakyo0",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/331468\/3c0f67f5-488e-4016-ae4a-056c762bbd6e.jpg",
+                    "Url": "\/profile\/minakyo0\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 654890,
+                    "Name": "t.m.i.r.i.t.w",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/654890\/dffa7084-3712-48ab-bb05-234de3138e81.jpg",
+                    "Url": "\/profile\/t.m.i.r.i.t.w\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 649572,
+                    "Name": "nabil.fakih",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/649572\/8e583041-3aa9-469d-a86b-c57be90ed3b7.jpg",
+                    "Url": "\/profile\/nabil.fakih\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 9915,
+            "Followers": 346,
+            "Posts": "37",
+            "Comments": "34",
+            "PageViewsSplit": {
+                "Overview": 29681,
+                "Markets": 1910,
+                "Analysis": 1720,
+                "Charts": 3660,
+                "Trades": 1907,
+                "Orderbook": 100,
+                "Forum": 2004,
+                "Influence": 455
+            },
+            "PageViews": 41437
+        },
+        "Twitter": {
+            "following": "29",
+            "account_creation": "1484583067",
+            "name": "ArabianChain",
+            "lists": 71,
+            "statuses": 584,
+            "favourites": "392",
+            "followers": 6089,
+            "link": "https:\/\/twitter.com\/arabianchain",
+            "Points": 6444
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "comments_per_hour": "0.00",
+            "posts_per_day": "0.03",
+            "comments_per_day": 0.01,
+            "name": "ArabianChain",
+            "link": "https:\/\/www.reddit.com\/r\/ArabianChain\/",
+            "active_users": 5,
+            "community_creation": "1487636075",
+            "subscribers": 28,
+            "Points": 43
+        },
+        "Facebook": {
+            "likes": 3032,
+            "link": "https:\/\/www.facebook.com\/DubaiCoin\/",
+            "is_closed": "false",
+            "talking_about": "55",
+            "name": "DubaiCoin",
+            "Points": 3032
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1490736289",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "go-dubaicoinrk",
+                        "Url": "https:\/\/github.com\/rkanadev\/go-dubaicoinrk",
+                        "InternalId": -1
+                    },
+                    "size": "14108",
+                    "closed_total_issues": "0",
+                    "stars": 11,
+                    "last_update": "1510420456",
+                    "forks": 10,
+                    "url": "https:\/\/github.com\/dbix-project\/go-dubaicoin",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "true",
+                    "last_push": "1501528140",
+                    "source": {
+                        "Name": "go-dubaicoinrk",
+                        "Url": "https:\/\/github.com\/rkanadev\/go-dubaicoinrk",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "Go",
+                    "subscribers": 10,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 61
+        }
+    }
+}

@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "WRT",
+            "CoinName": "WRTcoin",
+            "Type": "Webpagecoinp",
+            "Points": 53808
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 337162,
+                    "Name": "AirSwap",
+                    "FullName": "AirSwap (AST)",
+                    "ImageUrl": "\/media\/12318279\/ast.png",
+                    "Url": "\/coins\/ast\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5303,
+                    "Name": "Vcash",
+                    "FullName": "Vcash (XVC)",
+                    "ImageUrl": "\/media\/350813\/xvc.png",
+                    "Url": "\/coins\/xvc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42598,
+                    "Name": "Spectre",
+                    "FullName": "Spectre (XSPEC)",
+                    "ImageUrl": "\/media\/1382395\/xspec.png",
+                    "Url": "\/coins\/xspec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 311829,
+                    "Name": "DomRaider",
+                    "FullName": "DomRaider (DRT)",
+                    "ImageUrl": "\/media\/12318099\/drt.png",
+                    "Url": "\/coins\/drt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 409128,
+                    "Name": "Farad",
+                    "FullName": "Farad (FRD)",
+                    "ImageUrl": "\/media\/16404865\/frd.png",
+                    "Url": "\/coins\/frd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 198474,
+                    "Name": "BrickBlock",
+                    "FullName": "BrickBlock (BBT*)",
+                    "ImageUrl": "\/media\/1383883\/bbt.png",
+                    "Url": "\/coins\/bbtstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4540,
+                    "Name": "IOCoin",
+                    "FullName": "IOCoin (IOC)",
+                    "ImageUrl": "\/media\/20042\/ioc.png",
+                    "Url": "\/coins\/ioc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21382,
+                    "Name": "Carboncoin",
+                    "FullName": "Carboncoin (CARBON)",
+                    "ImageUrl": "\/media\/351017\/carbon.png",
+                    "Url": "\/coins\/carbon\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 310812,
+                    "Name": "Sumokoin",
+                    "FullName": "Sumokoin (SUMO)",
+                    "ImageUrl": "\/media\/12318088\/sumo.png",
+                    "Url": "\/coins\/sumo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5339,
+                    "Name": "LiteDoge",
+                    "FullName": "LiteDoge (LDOGE)",
+                    "ImageUrl": "\/media\/20332\/ldoge.png",
+                    "Url": "\/coins\/ldoge\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 318226,
+                    "Name": "logant07",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/318226\/11b5692e-4081-4c43-912e-4439dbacedb6.jpg",
+                    "Url": "\/profile\/logant07\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 399735,
+                    "Name": "zwljt855",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/399735\/2c9d5c29-0202-4c4b-9889-90694445cfe4.jpg",
+                    "Url": "\/profile\/zwljt855\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 522246,
+                    "Name": "bahmed990",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/522246\/7ef1178f-b742-4cf6-adf1-4831a2d3afab.png",
+                    "Url": "\/profile\/bahmed990\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 553959,
+                    "Name": "alhajibonjo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/553959\/4e131c65-25d9-4357-927e-3bf56e6e5718.jpg",
+                    "Url": "\/profile\/alhajibonjo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 530067,
+                    "Name": "ShadowC4",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/530067\/57612a81-beee-4c03-92c5-8587330eedc0.jpg",
+                    "Url": "\/profile\/ShadowC4\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 122258,
+                    "Name": "vlad15235",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/122258\/0d759943-b3fd-4f88-b760-cc788951b3da.jpg",
+                    "Url": "\/profile\/vlad15235\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 411030,
+                    "Name": "7C24DC39",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/411030\/79bcde86-1bf6-40f8-9424-a652cbc92c42.jpg",
+                    "Url": "\/profile\/7C24DC39\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 411751,
+                    "Name": "iziwealth",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/411751\/03041d6f-196b-49e2-ad5c-4592516c4d08.jpg",
+                    "Url": "\/profile\/iziwealth\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 223051,
+                    "Name": "rkgudgeon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/223051\/b70c59f7-3a81-4672-8ee0-a50afe25377d.jpg",
+                    "Url": "\/profile\/rkgudgeon\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 23,
+            "Posts": "1",
+            "Comments": "1",
+            "Points": 610,
+            "PageViewsSplit": {
+                "Overview": 1618,
+                "Markets": 118,
+                "Analysis": 52,
+                "Charts": 19,
+                "Trades": 38,
+                "Orderbook": 0,
+                "Forum": 10,
+                "Influence": 16
+            },
+            "PageViews": 1871
+        },
+        "Twitter": {
+            "favourites": "16",
+            "statuses": 130,
+            "following": "4694",
+            "account_creation": "1450024576",
+            "name": "Andrew.WeigRate",
+            "link": "https:\/\/twitter.com\/WeigRate",
+            "lists": 5,
+            "followers": 44438,
+            "Points": 44463
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 8735,
+            "name": "WeigRate",
+            "link": "https:\/\/www.facebook.com\/weigrate\/",
+            "talking_about": "14",
+            "is_closed": "false",
+            "Points": 8735
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/weigrate\/weigrate",
+                    "last_update": "1498187047",
+                    "subscribers": 0,
+                    "size": "2087",
+                    "created_at": "1498184290",
+                    "open_pull_issues": "0",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "stars": 0,
+                    "forks": 0,
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1498187283"
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

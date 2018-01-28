@@ -1,0 +1,197 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SAND",
+            "CoinName": "BeachCoin",
+            "Type": "Webpagecoinp",
+            "Points": 175
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 21871,
+                    "Name": "WMCoin",
+                    "FullName": "WMCoin (WMC)",
+                    "ImageUrl": "\/media\/351044\/wmc.png",
+                    "Url": "\/coins\/wmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 385866,
+                    "Name": "Sakuracoin",
+                    "FullName": "Sakuracoin (SKR)",
+                    "ImageUrl": "\/media\/14913631\/skr.png",
+                    "Url": "\/coins\/skr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6455,
+                    "Name": "Cerium",
+                    "FullName": "Cerium (XCE)",
+                    "ImageUrl": "\/media\/20573\/xce.png",
+                    "Url": "\/coins\/xce\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44952,
+                    "Name": "Solarflarecoin",
+                    "FullName": "Solarflarecoin (SFC)",
+                    "ImageUrl": "\/media\/1382639\/sfc.png",
+                    "Url": "\/coins\/sfc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4531,
+                    "Name": "GameLeagueCoin",
+                    "FullName": "GameLeagueCoin (GML)",
+                    "ImageUrl": "\/media\/19726\/gml.png",
+                    "Url": "\/coins\/gml\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 659724,
+                    "Name": "SagaCoin",
+                    "FullName": "SagaCoin (SAGA)",
+                    "ImageUrl": "\/media\/20780745\/saga.png",
+                    "Url": "\/coins\/saga\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5311,
+                    "Name": "KryptCoin",
+                    "FullName": "KryptCoin (KTK)",
+                    "ImageUrl": "\/media\/19771\/ktk.png",
+                    "Url": "\/coins\/ktk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 105206,
+                    "Name": "DuxCoin",
+                    "FullName": "DuxCoin (DUX)",
+                    "ImageUrl": "\/media\/1383364\/dux.png",
+                    "Url": "\/coins\/dux\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60424,
+                    "Name": "BlazerCoin",
+                    "FullName": "BlazerCoin (BLAZR)",
+                    "ImageUrl": "\/media\/1382946\/blazr.png",
+                    "Url": "\/coins\/blazr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 446051,
+                    "Name": "People",
+                    "FullName": "People (MAN)",
+                    "ImageUrl": "\/media\/16746574\/man.png",
+                    "Url": "\/coins\/man\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 645734,
+                    "Name": "r055binfield",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/645734\/5c16b93a-f61b-47b6-b518-3f72fbe612dc.jpg",
+                    "Url": "\/profile\/r055binfield\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 559662,
+                    "Name": "pbwcrypto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/559662\/4dda151f-b698-4d80-8d0e-cbdd5d2e3690.jpg",
+                    "Url": "\/profile\/pbwcrypto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 508495,
+                    "Name": "forestgamp0095",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/508495\/243543e7-5a03-42ad-9e4d-656773e27557.jpg",
+                    "Url": "\/profile\/forestgamp0095\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 286244,
+                    "Name": "coinwollie",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/286244\/ccae4216-0e9c-4fb9-8893-23951da0e506.png",
+                    "Url": "\/profile\/coinwollie\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 342465,
+                    "Name": "stianullaland",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/342465\/ef7a4304-9f2a-4d62-ab85-3aaf41ccb83a.jpg",
+                    "Url": "\/profile\/stianullaland\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 75122,
+                    "Name": "tulkhu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/75122\/ca727194-4b06-42a4-b6bc-a4f5a74f37f9.jpg",
+                    "Url": "\/profile\/tulkhu\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 6,
+            "Posts": "1",
+            "Points": 175,
+            "PageViewsSplit": {
+                "Overview": 1384,
+                "Markets": 75,
+                "Analysis": 90,
+                "Charts": 71,
+                "Trades": 40,
+                "Orderbook": 0,
+                "Forum": 11,
+                "Influence": 17
+            },
+            "PageViews": 1688
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/beachcoinorg\/wallets",
+                    "last_update": "1496379644",
+                    "forks": 0,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 0,
+                    "open_issues": "0",
+                    "size": "2276",
+                    "created_at": "1496379631",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1496531678",
+                    "stars": 0
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

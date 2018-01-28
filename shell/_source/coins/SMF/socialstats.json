@@ -1,0 +1,183 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SMF",
+            "CoinName": "SmurfCoin",
+            "Type": "Webpagecoinp",
+            "Points": 125
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28330,
+                    "Name": "Gold Pressed Latinum",
+                    "FullName": "Gold Pressed Latinum (GPL)",
+                    "ImageUrl": "\/media\/351525\/gpl.png",
+                    "Url": "\/coins\/gpl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22177,
+                    "Name": "Obscurebay",
+                    "FullName": "Obscurebay (OBS)",
+                    "ImageUrl": "\/media\/351064\/obs.png",
+                    "Url": "\/coins\/obs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 667444,
+                    "Name": "TheGCCcoin",
+                    "FullName": "TheGCCcoin (GCC*)",
+                    "ImageUrl": "\/media\/20780778\/gcc.png",
+                    "Url": "\/coins\/gccstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24405,
+                    "Name": "BitMoon",
+                    "FullName": "BitMoon (BM)",
+                    "ImageUrl": "\/media\/351311\/bm.png",
+                    "Url": "\/coins\/bm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35226,
+                    "Name": "ShortyCoin",
+                    "FullName": "ShortyCoin (SHORTY)",
+                    "ImageUrl": "\/media\/352222\/shorty.png",
+                    "Url": "\/coins\/shorty\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44749,
+                    "Name": "ErrorCoin",
+                    "FullName": "ErrorCoin (ERR)",
+                    "ImageUrl": "\/media\/1382624\/err.png",
+                    "Url": "\/coins\/err\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7624,
+                    "Name": "SpinCoin",
+                    "FullName": "SpinCoin (SPC)",
+                    "ImageUrl": "\/media\/20655\/spc.png",
+                    "Url": "\/coins\/spc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35947,
+                    "Name": "NewInvestCoin",
+                    "FullName": "NewInvestCoin (NIC)",
+                    "ImageUrl": "\/media\/352309\/nic.png",
+                    "Url": "\/coins\/nic\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 58125,
+                    "Name": "CryptoJournal",
+                    "FullName": "CryptoJournal (CJC)",
+                    "ImageUrl": "\/media\/1382887\/cjc.png",
+                    "Url": "\/coins\/cjc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30179,
+                    "Name": "CrabCoin",
+                    "FullName": "CrabCoin (CRAB)",
+                    "ImageUrl": "\/media\/351739\/crab.png",
+                    "Url": "\/coins\/crab\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 599085,
+                    "Name": "curiosityears",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/599085\/ab89f64d-ef06-4234-9065-4ae55d1dc2d5.jpg",
+                    "Url": "\/profile\/curiosityears\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 602301,
+                    "Name": "bosjabthedon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/602301\/994ffa2c-f32a-4abd-aefe-e83c7ba105a9.jpg",
+                    "Url": "\/profile\/bosjabthedon\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 125,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 633,
+                "Markets": 54,
+                "Analysis": 37,
+                "Charts": 17,
+                "Trades": 64,
+                "Orderbook": 0,
+                "Forum": 25,
+                "Influence": 16
+            },
+            "PageViews": 846
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 0,
+                    "size": "1403",
+                    "url": "https:\/\/github.com\/smurfscoin\/smf",
+                    "last_update": "1485891400",
+                    "last_push": "1485891398",
+                    "created_at": "1485891374",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

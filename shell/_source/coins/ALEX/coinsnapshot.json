@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "ALEX",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "2",
+            "PRICE": "0.0000285",
+            "LASTUPDATE": "1516092169",
+            "LASTVOLUME": "36.98188941",
+            "LASTVOLUMETO": "0.00105398",
+            "LASTTRADEID": "1516092169",
+            "VOLUMEDAY": "1139.8324731099997",
+            "VOLUMEDAYTO": "0.03084729999999999",
+            "VOLUME24HOUR": "33098.01138624999",
+            "VOLUME24HOURTO": "1.1268497006802",
+            "OPENDAY": "0.00002607",
+            "HIGHDAY": "0.00002992",
+            "LOWDAY": "0.0000251",
+            "OPEN24HOUR": "0.00002359",
+            "HIGH24HOUR": "0.0000521",
+            "LOW24HOUR": "0.0000205",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Novaexchange",
+                "FROMSYMBOL": "ALEX",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.0000121",
+                "LASTUPDATE": "1510518303",
+                "LASTVOLUME": "52.56417893",
+                "LASTVOLUMETO": "0.000636026565053",
+                "LASTTRADEID": "1510518303001",
+                "VOLUME24HOUR": "105.12835786",
+                "VOLUME24HOURTO": "0.001272053130106",
+                "OPEN24HOUR": "0.0000121",
+                "HIGH24HOUR": "0.0000121",
+                "LOW24HOUR": "0.0000121"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "ALEX",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.0000285",
+                "LASTUPDATE": "1516092169",
+                "LASTVOLUME": "36.98188941",
+                "LASTVOLUMETO": "0.00105398",
+                "LASTTRADEID": "1516092169",
+                "VOLUME24HOUR": "32920.154254819994",
+                "VOLUME24HOURTO": "1.1219375600000001",
+                "OPEN24HOUR": "0.00002359",
+                "HIGH24HOUR": "0.0000521",
+                "LOW24HOUR": "0.0000205"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "ALEX",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00003238",
+                "LASTUPDATE": "1516076782",
+                "LASTVOLUME": "10",
+                "LASTVOLUMETO": "0.00032379999999999996",
+                "LASTTRADEID": "200000017",
+                "VOLUME24HOUR": "177.85713143",
+                "VOLUME24HOURTO": "0.0049121406802",
+                "OPEN24HOUR": "0.00003218",
+                "HIGH24HOUR": "0.00003238",
+                "LOW24HOUR": "0.00002221"
+            }
+        ]
+    },
+    "Type": 100
+}

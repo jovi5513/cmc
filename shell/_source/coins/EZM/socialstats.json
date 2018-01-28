@@ -1,0 +1,196 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "EZM",
+            "CoinName": "EZMarket",
+            "Type": "Webpagecoinp",
+            "Points": 562
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 21215,
+                    "Name": "LGBTQoin",
+                    "FullName": "LGBTQoin (LGBTQ)",
+                    "ImageUrl": "\/media\/350996\/lgbtq.png",
+                    "Url": "\/coins\/lgbtq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 130951,
+                    "Name": "Espers",
+                    "FullName": "Espers (ESP)",
+                    "ImageUrl": "\/media\/14761907\/esp.png",
+                    "Url": "\/coins\/esp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 336594,
+                    "Name": "X Real Estate Development",
+                    "FullName": "X Real Estate Development (XRED)",
+                    "ImageUrl": "\/media\/12318269\/xred.png",
+                    "Url": "\/coins\/xred\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517477,
+                    "Name": "GIFTO",
+                    "FullName": "GIFTO (GTO)",
+                    "ImageUrl": "\/media\/16746671\/gto.png",
+                    "Url": "\/coins\/gto\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20724,
+                    "Name": "Steps",
+                    "FullName": "Steps (STEPS)",
+                    "ImageUrl": "\/media\/350952\/steps.png",
+                    "Url": "\/coins\/steps\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 363066,
+                    "Name": "Data Trading",
+                    "FullName": "Data Trading (DTT*)",
+                    "ImageUrl": "\/media\/14761941\/dtt1.png",
+                    "Url": "\/coins\/dttstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5301,
+                    "Name": "Neutron",
+                    "FullName": "Neutron (NTRN)",
+                    "ImageUrl": "\/media\/12318281\/ntrn.png",
+                    "Url": "\/coins\/ntrn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 536213,
+                    "Name": "BitcoinX",
+                    "FullName": "BitcoinX (BCX*)",
+                    "ImageUrl": "\/media\/16746738\/bcx.png",
+                    "Url": "\/coins\/bcxstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179345,
+                    "Name": "MyBit",
+                    "FullName": "MyBit (MYB)",
+                    "ImageUrl": "\/media\/1383746\/myb.png",
+                    "Url": "\/coins\/myb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 383878,
+                    "Name": "Ethersportcoin",
+                    "FullName": "Ethersportcoin (ESC*)",
+                    "ImageUrl": "\/media\/14913585\/esc.png",
+                    "Url": "\/coins\/esc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 384568,
+                    "Name": "AF8B1067",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/384568\/8cb38fae-ef8a-44dd-a892-cc692f89fcbd.jpg",
+                    "Url": "\/profile\/AF8B1067\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 360469,
+                    "Name": "keenanramsey88",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/360469\/a609c933-630f-4ca0-a562-c17ef11eea47.jpg",
+                    "Url": "\/profile\/keenanramsey88\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 332164,
+                    "Name": "wapanther",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/332164\/93f89a38-58bb-417f-9658-826fc5209c54.jpg",
+                    "Url": "\/profile\/wapanther\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 325479,
+                    "Name": "tantaimurom",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/325479\/71ffcc00-31f5-4d5f-940b-919a3bc731ad.jpg",
+                    "Url": "\/profile\/tantaimurom\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 331862,
+                    "Name": "Marsid",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/331862\/92ab67bd-c856-4615-b01e-00df135da3c3.jpg",
+                    "Url": "\/profile\/Marsid\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 242695,
+                    "Name": "xiaole.zhao",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/242695\/d12ced92-1cf7-4863-b78e-bd275c21e1ac.png",
+                    "Url": "\/profile\/xiaole.zhao\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 308073,
+                    "Name": "dubrovkina",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/308073\/e25deee5-185c-464b-bdd0-ff5ed7279ba5.jpg",
+                    "Url": "\/profile\/dubrovkina\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 175,
+            "Followers": 7,
+            "PageViewsSplit": {
+                "Overview": 424,
+                "Markets": 5,
+                "Analysis": 5,
+                "Charts": 2,
+                "Trades": 2,
+                "Orderbook": 0,
+                "Forum": 11,
+                "Influence": 3
+            },
+            "PageViews": 452
+        },
+        "Twitter": {
+            "statuses": 30,
+            "favourites": "3",
+            "following": "3",
+            "account_creation": "1503398971",
+            "followers": 205,
+            "name": "EZMarket",
+            "link": "https:\/\/twitter.com\/ezmarketsupport",
+            "lists": 6,
+            "Points": 235
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "link": "https:\/\/www.reddit.com\/r\/EZMarket\/\/",
+            "comments_per_hour": "0.00",
+            "posts_per_day": "0.00",
+            "active_users": 0,
+            "community_creation": "undefined",
+            "subscribers": 0,
+            "name": "undefined",
+            "comments_per_day": 0,
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "6",
+            "name": "EZMarket",
+            "likes": 152,
+            "link": "https:\/\/www.facebook.com\/ezmarket.io\/",
+            "Points": 152
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

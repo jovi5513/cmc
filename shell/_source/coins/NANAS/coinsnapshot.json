@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "NANAS",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000703",
+            "LASTUPDATE": "1515640730",
+            "LASTVOLUME": "14.22617354",
+            "LASTVOLUMETO": "0.00010000999998619999",
+            "LASTTRADEID": "183921228",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.00000703",
+            "HIGHDAY": "0.00000703",
+            "LOWDAY": "0.00000703",
+            "OPEN24HOUR": "0.00000703",
+            "HIGH24HOUR": "0.00000703",
+            "LOW24HOUR": "0.00000703",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "NANAS",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000308",
+                "LASTUPDATE": "1445465040",
+                "LASTVOLUME": "9876.98926762",
+                "LASTVOLUMETO": "0.0304211269442696",
+                "LASTTRADEID": "1445465040002",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000308",
+                "HIGH24HOUR": "0.00000308",
+                "LOW24HOUR": "0.00000308"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "NANAS",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000315",
+                "LASTUPDATE": "1442676203",
+                "LASTVOLUME": "25.98205763",
+                "LASTVOLUMETO": "0.00008184",
+                "LASTTRADEID": "270652",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000315",
+                "HIGH24HOUR": "0.00000315",
+                "LOW24HOUR": "0.00000315"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "NANAS",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000703",
+                "LASTUPDATE": "1515640730",
+                "LASTVOLUME": "14.22617354",
+                "LASTVOLUMETO": "0.00010000999998619999",
+                "LASTTRADEID": "183921228",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000703",
+                "HIGH24HOUR": "0.00000703",
+                "LOW24HOUR": "0.00000703"
+            }
+        ]
+    },
+    "Type": 100
+}

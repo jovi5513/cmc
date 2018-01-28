@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 0,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 70856774.495,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "FUCK",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000338",
+            "LASTUPDATE": "1510427906",
+            "LASTVOLUME": "37.21597633",
+            "LASTVOLUMETO": "0.00012578999999539997",
+            "LASTTRADEID": "1510427906001",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.00000338",
+            "HIGHDAY": "0.00000338",
+            "LOWDAY": "0.00000338",
+            "OPEN24HOUR": "0.00000338",
+            "HIGH24HOUR": "0.00000338",
+            "LOW24HOUR": "0.00000338",
+            "LASTMARKET": "Novaexchange"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Novaexchange",
+                "FROMSYMBOL": "FUCK",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000338",
+                "LASTUPDATE": "1510427906",
+                "LASTVOLUME": "37.21597633",
+                "LASTVOLUMETO": "0.00012578999999539997",
+                "LASTTRADEID": "1510427906001",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000338",
+                "HIGH24HOUR": "0.00000338",
+                "LOW24HOUR": "0.00000338"
+            }
+        ]
+    },
+    "Type": 100
+}

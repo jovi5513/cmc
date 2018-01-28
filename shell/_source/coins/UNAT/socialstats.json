@@ -1,0 +1,147 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "UNAT",
+            "CoinName": "Unattanium",
+            "Type": "Webpagecoinp",
+            "Points": 132
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 607521,
+                    "Name": "Numus",
+                    "FullName": "Numus (NMS)",
+                    "ImageUrl": "\/media\/20780637\/nms.png",
+                    "Url": "\/coins\/nms\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 229307,
+                    "Name": "Veredictum",
+                    "FullName": "Veredictum (VNT)",
+                    "ImageUrl": "\/media\/1384044\/vnt.jpg",
+                    "Url": "\/coins\/vnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5281,
+                    "Name": "Elektron",
+                    "FullName": "Elektron (EKN)",
+                    "ImageUrl": "\/media\/20270\/ekn.png",
+                    "Url": "\/coins\/ekn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4418,
+                    "Name": "CopperLark",
+                    "FullName": "CopperLark (CLR)",
+                    "ImageUrl": "\/media\/19657\/clr.png",
+                    "Url": "\/coins\/clr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4595,
+                    "Name": "RotoCoin",
+                    "FullName": "RotoCoin (RT2)",
+                    "ImageUrl": "\/media\/19896\/rt2.png",
+                    "Url": "\/coins\/rt2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4602,
+                    "Name": "ShadeCoin",
+                    "FullName": "ShadeCoin (SHADE)",
+                    "ImageUrl": "\/media\/20056\/shade.png",
+                    "Url": "\/coins\/shade\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28081,
+                    "Name": "Fusion",
+                    "FullName": "Fusion (FSN)",
+                    "ImageUrl": "\/media\/351495\/fsn.png",
+                    "Url": "\/coins\/fsn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5378,
+                    "Name": "BOOM Coin",
+                    "FullName": "BOOM Coin (BOOM)",
+                    "ImageUrl": "\/media\/20208\/boom.png",
+                    "Url": "\/coins\/boom\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 16717,
+                    "Name": "Nas2Coin",
+                    "FullName": "Nas2Coin (NAS2)",
+                    "ImageUrl": "\/media\/350776\/nas2.png",
+                    "Url": "\/coins\/nas2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30121,
+                    "Name": "CrankCoin",
+                    "FullName": "CrankCoin (CRNK)",
+                    "ImageUrl": "\/media\/351731\/crnk.png",
+                    "Url": "\/coins\/crnk\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 237468,
+                    "Name": "rozmi.awang",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/237468\/3e1bb2ad-daf9-4959-b996-a9d110b974ff.jpg",
+                    "Url": "\/profile\/rozmi.awang\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Points": 50,
+            "PageViewsSplit": {
+                "Overview": 114,
+                "Markets": 7,
+                "Analysis": 23,
+                "Charts": 26,
+                "Trades": 31,
+                "Orderbook": 0,
+                "Forum": 38,
+                "Influence": 28
+            },
+            "PageViews": 267
+        },
+        "Twitter": {
+            "followers": 72,
+            "following": "4",
+            "lists": 2,
+            "favourites": "0",
+            "statuses": 65,
+            "account_creation": "1407351104",
+            "name": "unattainium.org",
+            "link": "https:\/\/twitter.com\/UnattainiumOrg",
+            "Points": 82
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

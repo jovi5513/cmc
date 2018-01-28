@@ -1,0 +1,204 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PIZZA",
+            "CoinName": "PizzaCoin",
+            "Type": "Webpagecoinp",
+            "Points": 895
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 176004,
+                    "Name": "Compcoin",
+                    "FullName": "Compcoin (CMP)",
+                    "ImageUrl": "\/media\/1383692\/compcoin.png",
+                    "Url": "\/coins\/cmp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 409422,
+                    "Name": "LiteCoin Gold",
+                    "FullName": "LiteCoin Gold (LTG)",
+                    "ImageUrl": "\/media\/16404871\/ltg.png",
+                    "Url": "\/coins\/ltg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 348278,
+                    "Name": "Soma",
+                    "FullName": "Soma (SCT*)",
+                    "ImageUrl": "\/media\/12318383\/sct.png",
+                    "Url": "\/coins\/sctstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 388042,
+                    "Name": "Mercury Protocol",
+                    "FullName": "Mercury Protocol (GMT)",
+                    "ImageUrl": "\/media\/14913642\/gmt.png",
+                    "Url": "\/coins\/gmt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20688,
+                    "Name": "DigiCube",
+                    "FullName": "DigiCube (CUBE)",
+                    "ImageUrl": "\/media\/350948\/cube.png",
+                    "Url": "\/coins\/cube\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 100944,
+                    "Name": "Subscriptio",
+                    "FullName": "Subscriptio (SUB*)",
+                    "ImageUrl": "\/media\/1383362\/sub.png",
+                    "Url": "\/coins\/substar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338140,
+                    "Name": "Prosense.tv",
+                    "FullName": "Prosense.tv (VRP*)",
+                    "ImageUrl": "\/media\/12318284\/vrt.png",
+                    "Url": "\/coins\/vrp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 418694,
+                    "Name": "Uquid Coin",
+                    "FullName": "Uquid Coin (UQC)",
+                    "ImageUrl": "\/media\/16746443\/uqc.png",
+                    "Url": "\/coins\/uqc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43604,
+                    "Name": "RoundCoin",
+                    "FullName": "RoundCoin (ROUND)",
+                    "ImageUrl": "\/media\/1382508\/round.png",
+                    "Url": "\/coins\/round\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 412112,
+                    "Name": "Autonio",
+                    "FullName": "Autonio (NIO)",
+                    "ImageUrl": "\/media\/16404894\/nio.png",
+                    "Url": "\/coins\/nio\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 438166,
+                    "Name": "nanasutv",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/438166\/246c1172-2360-43eb-9110-45911467df21.jpg",
+                    "Url": "\/profile\/nanasutv\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 412734,
+                    "Name": "blanka138",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/412734\/b0e339a2-db7c-4b09-8975-0fadfc796399.jpg",
+                    "Url": "\/profile\/blanka138\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 432323,
+                    "Name": "sem.koolennl",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/432323\/8ea87d70-3759-4e5f-89eb-4c4e77e9748a.jpg",
+                    "Url": "\/profile\/sem.koolennl\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 384568,
+                    "Name": "AF8B1067",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/384568\/8cb38fae-ef8a-44dd-a892-cc692f89fcbd.jpg",
+                    "Url": "\/profile\/AF8B1067\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 239697,
+                    "Name": "malek_ghaemi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/239697\/c3b54d82-9018-4201-bb1f-054b14352bbb.jpg",
+                    "Url": "\/profile\/malek_ghaemi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 231333,
+                    "Name": "jasonacannon1970",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/231333\/1f9983b9-c107-4432-880f-ebb8056f539c.jpg",
+                    "Url": "\/profile\/jasonacannon1970\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 158923,
+                    "Name": "micro",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/158923\/5420455d-f4f2-4456-ac55-05dc25439451.png",
+                    "Url": "\/profile\/micro\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 256285,
+                    "Name": "Timbo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/256285\/43971a71-f54d-41e1-97f3-13319a3f6d7b.png",
+                    "Url": "\/profile\/Timbo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 28707,
+                    "Name": "corey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/28707\/e5358773-85d0-4c08-856b-70b2a2739cc9.jpg",
+                    "Url": "\/profile\/corey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 28709,
+                    "Name": "yuuuup",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/28709\/f0f84643-5653-4a97-95e4-2c0f27fffba0.png",
+                    "Url": "\/profile\/yuuuup\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 211433,
+                    "Name": "christian.kunz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/211433\/919685ee-8d88-4251-9916-08bbf23a8649.jpg",
+                    "Url": "\/profile\/christian.kunz\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 895,
+            "Posts": "9",
+            "Followers": 24,
+            "Comments": "7",
+            "PageViewsSplit": {
+                "Overview": 3791,
+                "Markets": 154,
+                "Analysis": 127,
+                "Charts": 122,
+                "Trades": 147,
+                "Orderbook": 5,
+                "Forum": 213,
+                "Influence": 49
+            },
+            "PageViews": 4608
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

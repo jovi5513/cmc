@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 0,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 0,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "WNET",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.0000076",
+            "LASTUPDATE": "1516064144",
+            "LASTVOLUME": "298.68380919",
+            "LASTVOLUMETO": "0.0022699969498439997",
+            "LASTTRADEID": "4QswBN4bEseVRA6xj8C92xsqoxkwCoWifTQ3o7ESfb2o",
+            "VOLUMEDAY": "5000",
+            "VOLUMEDAYTO": "0.03784685",
+            "VOLUME24HOUR": "5271.5520186",
+            "VOLUME24HOURTO": "0.039540099742772006",
+            "OPENDAY": "0.0000066",
+            "HIGHDAY": "0.0000076",
+            "LOWDAY": "0.0000066",
+            "OPEN24HOUR": "0.0000066",
+            "HIGH24HOUR": "0.0000076",
+            "LOW24HOUR": "0.0000054",
+            "LASTMARKET": "WavesDEX"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "WavesDEX",
+                "FROMSYMBOL": "WNET",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.0000076",
+                "LASTUPDATE": "1516064144",
+                "LASTVOLUME": "298.68380919",
+                "LASTVOLUMETO": "0.0022699969498439997",
+                "LASTTRADEID": "4QswBN4bEseVRA6xj8C92xsqoxkwCoWifTQ3o7ESfb2o",
+                "VOLUME24HOUR": "5271.5520186",
+                "VOLUME24HOURTO": "0.039540099742772006",
+                "OPEN24HOUR": "0.0000066",
+                "HIGH24HOUR": "0.0000076",
+                "LOW24HOUR": "0.0000054"
+            }
+        ]
+    },
+    "Type": 100
+}

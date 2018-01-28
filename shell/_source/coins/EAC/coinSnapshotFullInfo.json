@@ -1,0 +1,81 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "EarthCoin (EAC) - Live streaming prices and market cap",
+            "PageDescription": "Live EarthCoin prices from all markets and EAC coin market Capitalization. Stay up to date with the latest EarthCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19690\/eac.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4437",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "EarthCoin (EAC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "EAC",
+            "Url": "\/coins\/eac\/",
+            "BaseAngularUrl": "\/coins\/eac\/",
+            "Name": "EarthCoin",
+            "ImageUrl": "\/media\/19690\/eac.png",
+            "Description": "<p>EarthCoin uses scrypt as a proof of work scheme and is a scrypt coin descendant of Litecoin, Holders can send Earthcoin to anyone in the world - in 10 seconds - without having to worry about banks and borders, it uses a 365 day period &amp; starts with 10,000 coins p\/block &amp; it varies in a sine curve with amplitude of 2,000 with a period of one year (like the Earth moving around the Sun). Then a new minimum of 8000 coins per block at about 9 months.\u00a0<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "13500000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "21\/12\/2013",
+            "Twitter": "@getearthcoin",
+            "AffiliateUrl": "http:\/\/getearthcoin.com\/",
+            "Website": "<a href='http:\/\/getearthcoin.com\/' target='_blank'>EarthCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1488311245,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "-",
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~EAC~LTC",
+            "2~Novaexchange~EAC~MOON",
+            "2~Jubi~EAC~CNY",
+            "2~Cryptsy~EAC~XRP",
+            "2~Novaexchange~EAC~DOGE",
+            "2~Novaexchange~EAC~KIC",
+            "2~Novaexchange~EAC~BTC",
+            "2~BTC38~EAC~CNY",
+            "2~Novaexchange~EAC~ETH",
+            "2~Cryptsy~EAC~BTC",
+            "2~Cryptsy~EAC~LTC",
+            "2~BTC38~EAC~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~EAC~LTC~4~0.00000486~1501482462~195180.6958848~0.948578182000128~1501482462000~0~0~0~0~0.00000486~0.00000486~0.00000486~0.00000486~0.00000486~0.00000486~Novaexchange~7ffe9",
+            "5~CCCAGG~EAC~MOON~4~26.99999999~1501724894~27.02531065~729.683387279747~1501724894000~0~0~0~0~26.99999999~26.99999999~26.99999999~26.99999999~26.99999999~26.99999999~Novaexchange~7ffe9",
+            "5~CCCAGG~EAC~CNY~4~0.001~1505966412~524056.502029~524.0565020290001~2227179~0~0~0~0~0.001~0.001~0.001~0.001~0.001~0.001~BTC38~7ffe9",
+            "5~CCCAGG~EAC~XRP~4~0.01719222~1452816287~10000~171.9222~110944614~0~0~0.01719222~0.01719222~0.01719222~Cryptsy~78ce9",
+            "5~CCCAGG~EAC~DOGE~4~0.11386864~1510573705~5490.5186~625.197885876704~1510573705001~0~0~411011.94755157~44582.97971478612~0.1139~0.1139~0.1139~0.06767862~0.11386864~0.06767862~Novaexchange~7ffe9",
+            "5~CCCAGG~EAC~KIC~4~0.2~1501655215~108.62197781~21.724395562~1501655215000~0~0~0~0~0.2~0.2~0.2~0.2~0.2~0.2~Novaexchange~7ffe9",
+            "5~CCCAGG~EAC~BTC~4~2e-8~1510582134~7271~0.00014542~1510582134000~0~0~4330175.493516649~0.0795840749871901~2e-8~2e-8~2e-8~1e-8~2e-8~1e-8~Novaexchange~7ffe9",
+            "5~CCCAGG~EAC~ETH~4~0.00000505~1502319493~385.3282726~0.0019459077766299999~1502319493000~0~0~0~0~0.00000505~0.00000505~0.00000505~0.00000505~0.00000505~0.00000505~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

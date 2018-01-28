@@ -1,0 +1,168 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CIR",
+            "CoinName": "CircuitCoin",
+            "Type": "Webpagecoinp",
+            "Points": 50
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5022,
+                    "Name": "SocialXbotCoin",
+                    "FullName": "SocialXbotCoin (XBOT)",
+                    "ImageUrl": "\/media\/20073\/xbot.png",
+                    "Url": "\/coins\/xbot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35407,
+                    "Name": "BAM",
+                    "FullName": "BAM (BamitCoin)",
+                    "ImageUrl": "\/media\/352236\/bam.png",
+                    "Url": "\/coins\/bam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25594,
+                    "Name": "Uniqredit",
+                    "FullName": "Uniqredit (UNIQ)",
+                    "ImageUrl": "\/media\/351387\/uniq.png",
+                    "Url": "\/coins\/uniq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 667050,
+                    "Name": "MediShares",
+                    "FullName": "MediShares (MDS)",
+                    "ImageUrl": "\/media\/20780773\/ipnvhhke_400x400.jpg",
+                    "Url": "\/coins\/mds\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25825,
+                    "Name": "Coinomat",
+                    "FullName": "Coinomat (CNMT)",
+                    "ImageUrl": "\/media\/351396\/cnmt.png",
+                    "Url": "\/coins\/cnmt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29455,
+                    "Name": "Tianhe",
+                    "FullName": "Tianhe (TIA)",
+                    "ImageUrl": "\/media\/351636\/tia.png",
+                    "Url": "\/coins\/tia\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4588,
+                    "Name": "PseudoCash",
+                    "FullName": "PseudoCash (PSEUD)",
+                    "ImageUrl": "\/media\/20052\/pseud.png",
+                    "Url": "\/coins\/pseud\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28131,
+                    "Name": "FuturePoints",
+                    "FullName": "FuturePoints (FTP)",
+                    "ImageUrl": "\/media\/351501\/ftp.png",
+                    "Url": "\/coins\/ftp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4575,
+                    "Name": "Nimbus Coin",
+                    "FullName": "Nimbus Coin (NMB)",
+                    "ImageUrl": "\/media\/20049\/nmb.png",
+                    "Url": "\/coins\/nmb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 196572,
+                    "Name": "Anacrypt",
+                    "FullName": "Anacrypt (ANCP)",
+                    "ImageUrl": "\/media\/1383863\/ancp.png",
+                    "Url": "\/coins\/ancp\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 53954,
+                    "Name": "baallajaouad",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/53954\/f8131a40-c408-4b60-aab7-de60468d2d35.jpg",
+                    "Url": "\/profile\/baallajaouad\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Points": 50,
+            "PageViewsSplit": {
+                "Overview": 199,
+                "Markets": 45,
+                "Analysis": 26,
+                "Charts": 13,
+                "Trades": 15,
+                "Orderbook": 1,
+                "Forum": 13,
+                "Influence": 13
+            },
+            "PageViews": 325
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1480978380",
+                    "url": "https:\/\/github.com\/circuitcoinproject\/circuitcoin",
+                    "forks": 0,
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "subscribers": 0,
+                    "open_issues": "0",
+                    "size": "1708",
+                    "created_at": "1480978349",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1480978376",
+                    "stars": 0
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

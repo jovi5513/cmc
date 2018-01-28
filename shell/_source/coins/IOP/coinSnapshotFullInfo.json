@@ -1,0 +1,71 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Internet of People (IOP) - Live streaming prices and market cap",
+            "PageDescription": "Live Internet of People prices from all markets and IOP coin market Capitalization. Stay up to date with the latest Internet of People price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/12318262\/iop.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "42596",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Internet of People (IOP)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "IOP",
+            "Url": "\/coins\/iop\/",
+            "BaseAngularUrl": "\/coins\/iop\/",
+            "Name": "Internet of People",
+            "ImageUrl": "\/media\/12318262\/iop.png",
+            "Description": "<p><span>The Internet of People is a set of P2P networks, designed to enable direct device to device P2P communication using P2P apps. The main purpose of the network is to allow my device to connect directly to your device without using any service of any company in the process of establishing the connection or during the interaction.<br \/>One of this P2P Networks is a blockchain that runs the token system needed to incentivize operators to run all the components of other P2P networks that form the Internet of People. The token for this blockchain is IOP,<\/span><span>\u00a0a PoW\/PoS token with a 21M supply.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "21000000",
+            "Algorithm": "SHA256",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "01\/08\/2014",
+            "Twitter": "@IoP_community",
+            "AffiliateUrl": "http:\/\/iop-project.com\/",
+            "Website": "<a href='http:\/\/iop-project.com\/' target='_blank'>Internet of People<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1511614487,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 68346,
+            "BlockTime": 120,
+            "NetHashesPerSecond": 3663933790.8567,
+            "TotalCoinsMined": 2526078.4752545,
+            "PreviousTotalCoinsMined": 2526078.4752545,
+            "BlockReward": 50
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~IOP~LTC",
+            "2~BitSquare~IOP~BTC",
+            "2~CCEX~IOP~USD",
+            "2~CCEX~IOP~DOGE",
+            "2~CCEX~IOP~BTC",
+            "2~BitTrex~IOP~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~IOP~LTC~4~0.01000118~1497970908~0.06707053~0.0006707844432254001~1634102~0~0~0~0~0.01000118~0.01000118~0.01000118~0.01000118~0.01000118~0.01000118~CCEX~7ffe9",
+            "5~CCCAGG~IOP~BTC~4~0.0006687~1515952403~29.45856096~0.01970011~17196067~136400.8620893402~89.03136479000028~189244.60133946995~122.31096846~0.0006415~0.000699~0.0006118~0.0006274~0.000699~0.0006118~BitTrex~7ffe9",
+            "5~CCCAGG~IOP~USD~4~1~1501789216~0.1~0.1~1617205~0~0~0~0~1~1~1~1~1~1~CCEX~7ffe9",
+            "5~CCCAGG~IOP~DOGE~4~5.24000372~1501130591~0.00604754~0.031689132096848795~1908189~0~0~0~0~5.24000372~5.24000372~5.24000372~5.24000372~5.24000372~5.24000372~CCEX~7ffe9"
+        ]
+    },
+    "Type": 100
+}

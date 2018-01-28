@@ -1,0 +1,80 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Spreadcoin (SPR) - Live streaming prices and market cap",
+            "PageDescription": "Live Frankywillcoin prices from all markets and FRWC coin market Capitalization. Stay up to date with the latest Frankywillcoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20438\/spr.png",
+            "OgImageWidth": "256",
+            "OgImageHeight": "256"
+        },
+        "General": {
+            "Id": "3649",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "SpreadCoin (SPR)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "SPR",
+            "Url": "\/coins\/spr\/",
+            "BaseAngularUrl": "\/coins\/spr\/",
+            "Name": "Spreadcoin",
+            "ImageUrl": "\/media\/20438\/spr.png",
+            "Description": "<p>SpreadCoin is a new cryptocurrency which is more decentralized than Bitcoin. It prevents centralization of hashing power in pools, which is one of the main concerns of Bitcoin security. SpreadCoin was fairly launched with no premine.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "20000000",
+            "Algorithm": "X11",
+            "ProofType": "PoW",
+            "StartDate": "30\/07\/2014",
+            "Twitter": "",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515948146,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "",
+            "BlockNumber": 1795977,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 11323080677,
+            "TotalCoinsMined": 9417260.6930401,
+            "PreviousTotalCoinsMined": 9417190.8986459,
+            "BlockReward": 3.6734191665426
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~SPR~DOGE",
+            "2~Yobit~SPR~ETH",
+            "2~Yobit~SPR~DOGE",
+            "2~CCEX~SPR~USD",
+            "2~Cryptopia~SPR~LTC",
+            "2~Yobit~SPR~BTC",
+            "2~Yobit~SPR~WAVES",
+            "2~Cryptopia~SPR~BTC",
+            "2~BitTrex~SPR~BTC",
+            "2~Yobit~SPR~USD",
+            "2~Yobit~SPR~RUR",
+            "2~CCEX~SPR~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~SPR~DOGE~4~231~1515928865~0.04746326~10.96401306~200000009~2.28462213~522.6093519625673~2.28462213~522.609351962567~30~231~30~30~231~30~Yobit~7ffe9",
+            "5~CCCAGG~SPR~ETH~4~0.00292124~1515682163~207.77667992~0.6069655484495008~184229164~0~0~0~0~0.002921~0.00292124~0.002921~0.00292124~0.00292124~0.00292124~Yobit~7ffe9",
+            "5~CCCAGG~SPR~USD~4~2.6~1515941876~0.1~0.26~200000049~63.754916959999996~172.1466959087003~68.20986524~188.17035475967356~3.61~3.61~2.6~3~3.61~2.6~Yobit~7ffe9",
+            "5~CCCAGG~SPR~LTC~4~0.009~1515190780~2~0.018~1515190780~0~0~0~0~0.009~0.009~0.009~0.009~0.009~0.009~Cryptopia~7ffe9",
+            "5~CCCAGG~SPR~BTC~2~0.0001678~1515948279~32.7385038~0.00549384~11733721~510780.7020550504~87.37933680555753~691988.8508068998~121.29756387733461~0.0001811~0.000187~0.0001602~0.0001941~0.0001979~0.00016~BitTrex~7ffe9",
+            "5~CCCAGG~SPR~WAVES~4~0.2417~1515912706~0.05052574~0.0122123295445314~200000001~0.05052574~0.0122123295445314~0.05052574~0.0122123295445314~0.02000036~0.2417~0.02000036~0.02~0.2417~0.02~Yobit~7ffe9",
+            "5~CCCAGG~SPR~RUR~4~183.5~1515943316~9.67655629~1775.6012446825564~200000040~43.94914041~8041.222294594219~56.76441897~10155.743256994218~165~183.5~103.2~170~183.5~103.2~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

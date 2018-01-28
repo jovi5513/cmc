@@ -1,0 +1,241 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "KRB",
+            "CoinName": "Karbowanec",
+            "Type": "Webpagecoinp",
+            "Points": 4269
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20822,
+                    "Name": "Krypton",
+                    "FullName": "Krypton (KR)",
+                    "ImageUrl": "\/media\/350974\/kr.png",
+                    "Url": "\/coins\/kr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3649,
+                    "Name": "Spreadcoin",
+                    "FullName": "Spreadcoin (SPR)",
+                    "ImageUrl": "\/media\/20438\/spr.png",
+                    "Url": "\/coins\/spr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 199107,
+                    "Name": "Cosmos",
+                    "FullName": "Cosmos (ATOM*)",
+                    "ImageUrl": "\/media\/1383901\/cosmos.jpg",
+                    "Url": "\/coins\/atomstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 278056,
+                    "Name": "CarTaxi",
+                    "FullName": "CarTaxi (CTX)",
+                    "ImageUrl": "\/media\/12318075\/ctx1.png",
+                    "Url": "\/coins\/ctx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 205991,
+                    "Name": "Ties Network",
+                    "FullName": "Ties Network (TIE)",
+                    "ImageUrl": "\/media\/1383955\/tie.png",
+                    "Url": "\/coins\/tie\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8695,
+                    "Name": "Rimbit",
+                    "FullName": "Rimbit (RBT)",
+                    "ImageUrl": "\/media\/20407\/rbt.png",
+                    "Url": "\/coins\/rbt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 199065,
+                    "Name": "GCoin",
+                    "FullName": "GCoin (GCN)",
+                    "ImageUrl": "\/media\/1383899\/gcn.png",
+                    "Url": "\/coins\/gcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 393656,
+                    "Name": "Viuly",
+                    "FullName": "Viuly (VIU)",
+                    "ImageUrl": "\/media\/14913680\/viu.png",
+                    "Url": "\/coins\/viu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35823,
+                    "Name": "Incent",
+                    "FullName": "Incent (INCNT)",
+                    "ImageUrl": "\/media\/352296\/incnt.png",
+                    "Url": "\/coins\/incnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20680,
+                    "Name": "VirtaCoin",
+                    "FullName": "VirtaCoin (VTA)",
+                    "ImageUrl": "\/media\/350945\/vta.png",
+                    "Url": "\/coins\/vta\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 367284,
+                    "Name": "raxshint",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/367284\/3d612f3f-99b4-49ae-9680-432935394aa5.jpg",
+                    "Url": "\/profile\/raxshint\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 661606,
+                    "Name": "neosky380",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/661606\/e4751f23-c8b3-4dfc-bef3-1a2a9d9a0115.jpg",
+                    "Url": "\/profile\/neosky380\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 372508,
+                    "Name": "51CCF4AA",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/372508\/a769435c-da2c-4898-80ab-1db06aab0ab0.jpg",
+                    "Url": "\/profile\/51CCF4AA\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 487122,
+                    "Name": "tom.angistalis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/487122\/4a10d900-1687-4015-81aa-bde6fa1df5f3.jpg",
+                    "Url": "\/profile\/tom.angistalis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 630671,
+                    "Name": "Bytecoin-War",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/630671\/18b11d99-8935-4d8b-a74a-3ba1271c0da0.png",
+                    "Url": "\/profile\/Bytecoin-War\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 117587,
+                    "Name": "kycherr",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/117587\/902b52fb-861c-48e3-8cc1-09eee22bbdb7.jpg",
+                    "Url": "\/profile\/kycherr\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 344085,
+                    "Name": "a.cryptocompare",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/344085\/f7d2185b-52ce-4b23-8b5f-b97718b48440.jpg",
+                    "Url": "\/profile\/a.cryptocompare\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 622599,
+                    "Name": "41FB44D0",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/622599\/b0279ba2-71a9-4a82-a1f1-9fbea0e9fc42.jpg",
+                    "Url": "\/profile\/41FB44D0\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 528843,
+                    "Name": "vladon445",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/528843\/e83573af-dc0b-4456-ae88-3240a7a793a6.jpg",
+                    "Url": "\/profile\/vladon445\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 534330,
+                    "Name": "yuzunzhi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/534330\/479733e9-efe3-403c-a946-5d0a20623cb3.jpg",
+                    "Url": "\/profile\/yuzunzhi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 410342,
+                    "Name": "s.nemchenko",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/410342\/461f7c0f-5587-403d-96f1-036380bea47d.jpg",
+                    "Url": "\/profile\/s.nemchenko\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 2950,
+            "Posts": "12",
+            "Comments": "10",
+            "Followers": 102,
+            "PageViewsSplit": {
+                "Overview": 8396,
+                "Markets": 748,
+                "Analysis": 551,
+                "Charts": 923,
+                "Trades": 471,
+                "Orderbook": 4,
+                "Forum": 291,
+                "Influence": 134
+            },
+            "PageViews": 11518
+        },
+        "Twitter": {
+            "favourites": "21",
+            "statuses": 97,
+            "following": "15",
+            "account_creation": "1464605780",
+            "followers": 1013,
+            "name": "Karbo",
+            "link": "https:\/\/twitter.com\/krbcoin",
+            "lists": 31,
+            "Points": 1168
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1458920479",
+                    "open_total_issues": "7",
+                    "fork": "true",
+                    "parent": {
+                        "Name": "cryptonote",
+                        "Url": "https:\/\/github.com\/cryptonotefoundation\/cryptonote",
+                        "InternalId": -1
+                    },
+                    "last_push": "1515938083",
+                    "closed_total_issues": "8",
+                    "size": "16859",
+                    "stars": 30,
+                    "source": {
+                        "Name": "bytecoin",
+                        "Url": "https:\/\/github.com\/amjuarez\/bytecoin",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "last_update": "1515760274",
+                    "forks": 27,
+                    "url": "https:\/\/github.com\/seredat\/karbowanec",
+                    "closed_issues": "3",
+                    "language": "C++",
+                    "subscribers": 22,
+                    "open_issues": "7",
+                    "closed_pull_issues": "5"
+                }
+            ],
+            "Points": 150
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "ShadowCash (SDC) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "ShadowCash (SDC) is a scrypt hybrid Proof of work and proof of stake coin with a 2% staking interest per annum.An entire privacy-based platform which aims to establish an anonymous economy, with multiple features that give people all the financial freedom and privacy they should have",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20419\/sdc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4600",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "ShadowCash (SDC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "SDC",
+            "Url": "\/coins\/sdc\/",
+            "BaseAngularUrl": "\/coins\/sdc\/",
+            "Name": "ShadowCash",
+            "ImageUrl": "\/media\/20419\/sdc.png",
+            "Description": "<p>ShadowCash\u00a0(SDC) is a scrypt hybrid Proof of work and proof of stake coin with a 2% staking interest per annum.<\/p><p>An entire privacy-based platform which aims to establish an anonymous economy, with multiple features that give people all the financial freedom and privacy they should have.<\/p><p>Shadow is a decentralized anonymous communication, commerce and currency platform through which the virtual currency, ShadowCash, can be transferred. One of the significant advantages of Shadow is its deep integration with the rest of Shadow&#39;s features as well as offering native TOR support for IP obfuscation.<\/p>",
+            "Features": "<p>The ShadowSend protocol combines:<\/p><p><strong>Dual-key stealth addresses<\/strong><\/p><p>--\u00a0Unlinkability<\/p><p>--\u00a0Severs links between the sender and receiver<\/p><p><strong>Ring signatures<\/strong><\/p><p>--\u00a0Signature obfuscation<\/p><p>--\u00a0Signatures are grouped with other signatures to hide the real sender<\/p><p><strong>NIZK (Non-Interactive Zero Knowledge) proofs<\/strong><\/p><p>\u00a0--\u00a0Untraceability<\/p><p>\u00a0--\u00a0Separates the transaction inputs and outputs<\/p>",
+            "Technology": "<p>Specification<\/p><p>- Block Time: 60 seconds<\/p><p>-\u00a0Difficulty Re-target: every block<\/p><p>-\u00a0Nominal Stake Interest: 2% annually<\/p><p>-\u00a0Min Transaction Fee: 0.0001 SDC<\/p><p>-\u00a0Confirmations: 10\u00a0- Maturity: 500<\/p><p>-\u00a0Min Stake Age: 8 hours - no max age<\/p><p>-\u00a0P2P Port: 51737<\/p><p>-\u00a0RPC Port: 51736<\/p>",
+            "TotalCoinSupply": "",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "18\/06\/2014",
+            "Twitter": "@SDCoin",
+            "AffiliateUrl": "http:\/\/www.aboutshadow.com\/",
+            "Website": "<a href='http:\/\/www.aboutshadow.com\/' target='_blank'>ShadowCash<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926666,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "-",
+            "BlockNumber": 1606522,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 6728478.8437452,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~SDC~ESP2",
+            "2~Yobit~SDC~DOGE",
+            "2~Poloniex~SDC~BTC",
+            "2~BitSquare~SDC~BTC",
+            "2~Cryptsy~SDC~XRP",
+            "2~Yobit~SDC~RUR",
+            "2~BitTrex~SDC~BTC",
+            "2~Yobit~SDC~ETH",
+            "2~Cryptopia~SDC~DOT",
+            "2~Cryptopia~SDC~XMR",
+            "2~Cryptopia~SDC~FTC",
+            "2~Cryptopia~SDC~BTC",
+            "2~Novaexchange~SDC~LTC",
+            "2~Cryptopia~SDC~UNO",
+            "2~Yobit~SDC~BTC",
+            "2~Cryptopia~SDC~LTC",
+            "2~Cryptsy~SDC~BTC",
+            "2~Yobit~SDC~USD",
+            "2~Novaexchange~SDC~BTC",
+            "2~Cryptopia~SDC~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~SDC~ESP2~4~18.00000001~1495186815~0.00666667~0.12000006006666672~1495186815001~0~0~0~0~18.00000001~18.00000001~18.00000001~18.00000001~18.00000001~18.00000001~Novaexchange~7ffe9",
+            "5~CCCAGG~SDC~DOGE~4~1.51000015~1515060280~23.29902685~35.18153403835403~179240391~0~0~0~0~1.51~1.51000015~1.51~1.51000015~1.51000015~1.51000015~Yobit~7ffe9",
+            "5~CCCAGG~SDC~BTC~2~0.00002222~1515930465~35.67786422~0.0007927621429684~200000254~1869.39600899~0.03534473562520529~30741.58943064~1.0965585858425089~0.00001837~0.00002224~0.00001671~0.00001918~0.00005155~0.00001671~Yobit~7ffe9",
+            "5~CCCAGG~SDC~XRP~4~13.90000101~1430823151~0.013~0.18070001~92187797~0~0~13.90000101~13.90000101~13.90000101~Cryptsy~78ce9",
+            "5~CCCAGG~SDC~RUR~4~48.9999999~1515071548~8~391.9999992~179324292~0~0~0~0~49~49~48.9999999~48.9999999~48.9999999~48.9999999~Yobit~7ffe9",
+            "5~CCCAGG~SDC~ETH~4~0.00001182~1515303070~8.20687049~0.0000970052091918~181203573~0~0~0~0~0.00001182~0.00001182~0.00001182~0.00001182~0.00001182~0.00001182~Yobit~7ffe9",
+            "5~CCCAGG~SDC~DOT~4~7804.36~1487197257~0.00003822~0.298283~1487197257~0~0~0~0~7804.36~7804.36~7804.36~7804.36~7804.36~7804.36~Cryptopia~7ffe9",
+            "5~CCCAGG~SDC~XMR~4~0.11650012~1488480274~0.05~0.005825~1488480274~0~0~0~0~0.11650012~0.11650012~0.11650012~0.11650012~0.11650012~0.11650012~Cryptopia~7ffe9",
+            "5~CCCAGG~SDC~FTC~4~1472.081~1489031881~0.001~1.472081~1489031881~0~0~0~0~1472.081~1472.081~1472.081~1472.081~1472.081~1472.081~Cryptopia~7ffe9",
+            "5~CCCAGG~SDC~LTC~4~0.00101032~1498338327~2.69124491~0.0027190185574712004~1498338327000~0~0~0~0~0.00101032~0.00101032~0.00101032~0.00101032~0.00101032~0.00101032~Novaexchange~7ffe9",
+            "5~CCCAGG~SDC~UNO~4~0.4~1490612915~0.00050419~0.000202~1490612915~0~0~0~0~0.4~0.4~0.4~0.4~0.4~0.4~Cryptopia~7ffe9",
+            "5~CCCAGG~SDC~USD~4~0.22~1515927627~46.28075099~10.1817652178~200000042~304.03966257~64.31972127208049~507.35697294~185.00477496424216~0.21~0.22~0.21~0.21~0.99~0.21~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

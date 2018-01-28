@@ -1,0 +1,148 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BOOM",
+            "CoinName": "BOOM Coin",
+            "Type": "Webpagecoinp",
+            "Points": 59
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4418,
+                    "Name": "CopperLark",
+                    "FullName": "CopperLark (CLR)",
+                    "ImageUrl": "\/media\/19657\/clr.png",
+                    "Url": "\/coins\/clr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4595,
+                    "Name": "RotoCoin",
+                    "FullName": "RotoCoin (RT2)",
+                    "ImageUrl": "\/media\/19896\/rt2.png",
+                    "Url": "\/coins\/rt2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5381,
+                    "Name": "Unattanium",
+                    "FullName": "Unattanium (UNAT)",
+                    "ImageUrl": "\/media\/20456\/unat.png",
+                    "Url": "\/coins\/unat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4602,
+                    "Name": "ShadeCoin",
+                    "FullName": "ShadeCoin (SHADE)",
+                    "ImageUrl": "\/media\/20056\/shade.png",
+                    "Url": "\/coins\/shade\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28081,
+                    "Name": "Fusion",
+                    "FullName": "Fusion (FSN)",
+                    "ImageUrl": "\/media\/351495\/fsn.png",
+                    "Url": "\/coins\/fsn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 16717,
+                    "Name": "Nas2Coin",
+                    "FullName": "Nas2Coin (NAS2)",
+                    "ImageUrl": "\/media\/350776\/nas2.png",
+                    "Url": "\/coins\/nas2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30121,
+                    "Name": "CrankCoin",
+                    "FullName": "CrankCoin (CRNK)",
+                    "ImageUrl": "\/media\/351731\/crnk.png",
+                    "Url": "\/coins\/crnk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28087,
+                    "Name": "TotCoin",
+                    "FullName": "TotCoin (TOT)",
+                    "ImageUrl": "\/media\/351497\/tot.png",
+                    "Url": "\/coins\/tot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28665,
+                    "Name": "ERBCoin",
+                    "FullName": "ERBCoin (ERB)",
+                    "ImageUrl": "\/media\/351550\/erb.png",
+                    "Url": "\/coins\/erb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44752,
+                    "Name": "TrueInvestmentCoin",
+                    "FullName": "TrueInvestmentCoin (TIC)",
+                    "ImageUrl": "\/media\/1382625\/tic.png",
+                    "Url": "\/coins\/tic\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Points": 50,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 634,
+                "Markets": 48,
+                "Analysis": 65,
+                "Charts": 34,
+                "Trades": 44,
+                "Orderbook": 0,
+                "Forum": 46,
+                "Influence": 10
+            },
+            "PageViews": 881
+        },
+        "Twitter": {
+            "followers": 4,
+            "following": "0",
+            "lists": 1,
+            "favourites": "0",
+            "statuses": 0,
+            "account_creation": "1493765020",
+            "name": "coin boom",
+            "link": "https:\/\/twitter.com\/Boom_Coin",
+            "Points": 9
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Flash (FLX) - Live streaming prices and market cap",
+            "PageDescription": "Live Flash prices from all markets and FLX coin market Capitalization. Stay up to date with the latest Flash price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351007\/flx.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "21244",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Flash (FLX)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "FLX",
+            "Url": "\/coins\/flx\/",
+            "BaseAngularUrl": "\/coins\/flx\/",
+            "Name": "Flash",
+            "ImageUrl": "\/media\/351007\/flx.png",
+            "Description": "<p>Flash is a PoW\/PoS hybrid coin with fast and completely free transactions. FLX provides strealth adresses and an encrypted message system<br \/><br \/><br \/>!<\/p>",
+            "Features": "",
+            "Technology": "<p><span>POW Schedule<\/span><br \/><span>Blocks 1- 500: 500FLX<\/span><br \/><span>Blocks 500-1000: 250FLX<\/span><br \/><span>Blocks 1000-1500: 50FLX<\/span><br \/><span>Blocks 1500-2000: 25FLX<\/span><\/p><p><br \/><span>POS Schedule<\/span><br \/><span>Random is 1-100<\/span><br \/><span>1-500: rand * 500;<\/span><br \/><span>500-1000: rand * 250;<\/span><br \/><span>1000-1500: rand * 75;<\/span><br \/><span>Proof of Stake<\/span><br \/><span>Interest: 1.25%<\/span><br \/><br \/>10MB Block size.<br \/><br \/>No TX Fees, the way it should be<\/p>",
+            "TotalCoinSupply": "1000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "13\/06\/2016",
+            "Twitter": "@CryptoFlashDev",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~FLX~USD",
+            "2~Yobit~FLX~BTC",
+            "2~Yobit~FLX~DOGE",
+            "2~Yobit~FLX~ETH",
+            "2~Yobit~FLX~RUR"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~FLX~USD~4~0.036~1515843795~27.77777777~0.99999999972~200000014~0~0~0~0~0.036~0.036~0.036~0.036~0.036~0.036~Yobit~7ffe9",
+            "5~CCCAGG~FLX~BTC~4~0.00000217~1515913993~3000~0.00651~200000011~3223.88059701~0.0068099999999934~3323.88059701~0.0070309999999934~0.00000221~0.00000221~0.00000134~0.00000135~0.00000221~0.00000134~Yobit~7ffe9",
+            "5~CCCAGG~FLX~DOGE~4~9~1515398154~50.94997112~458.54974008~182048332~0~0~0~0~9~9~9~9~9~9~Yobit~7ffe9",
+            "5~CCCAGG~FLX~ETH~2~0.00000929~1515933382~89.94337339~0.0008355739387931002~200000012~166.40685295~0.0015466842987011003~166.40685295~0.0015466842987011003~0.0000237~0.0000237~0.00000929~0.0000093~0.0000093~0.00000929~Yobit~7ffe9",
+            "5~CCCAGG~FLX~RUR~4~1.04~1515945819~66.67937943~69.49511693136384~200000011~67.73483731~70.59514470782963~81.90893731~85.84404403262963~1.04~1.04~1.04~2.03~2.03~1.04~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

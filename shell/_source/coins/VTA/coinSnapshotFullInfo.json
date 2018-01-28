@@ -1,0 +1,75 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "VirtaCoin (VTA) - Live streaming prices and market cap",
+            "PageDescription": "Live VirtaCoin prices from all markets and VTA coin market Capitalization. Stay up to date with the latest VirtaCoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350945\/vta.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20680",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "VirtaCoin (VTA)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "VTA",
+            "Url": "\/coins\/vta\/",
+            "BaseAngularUrl": "\/coins\/vta\/",
+            "Name": "VirtaCoin",
+            "ImageUrl": "\/media\/350945\/vta.png",
+            "Description": "<div><span>VirtaCoin, formerly PayBox.me\/VirtaPay, enables instant payments to anyone, anywhere in the world<\/span><span>.\u00a0VirtaCoin offers a \u201cprinted cash-note\u201d system, which can help real-life users in adopting to cryptocurrencies through a familiar method: paper money. Altough VTA is \u00a0Proof of Work currency, you can also earn interest by being involved in VirtaCoin Kiva Fund.<\/span><\/div>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "21000000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "13\/04\/2016",
+            "Twitter": "@VirtaCoin",
+            "AffiliateUrl": "http:\/\/www.virtalocal.com\/",
+            "Website": "<a href='http:\/\/www.virtalocal.com\/' target='_blank'>VirtaCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1504106308,
+            "DifficultyAdjustment": "Per 1 Block",
+            "BlockRewardReduction": "50",
+            "BlockNumber": -1,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~VTA~BTC",
+            "2~CCEX~VTA~DOGE",
+            "2~CCEX~VTA~LTC",
+            "2~Novaexchange~VTA~ETH",
+            "2~CCEX~VTA~ETH",
+            "2~CCEX~VTA~BTC",
+            "2~CCEX~VTA~USD",
+            "2~Novaexchange~VTA~LTC",
+            "2~Novaexchange~VTA~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~VTA~BTC~4~1e-8~1510532847~100000~0.001~1510532847001~0~0~200000~0.002~1e-8~1e-8~1e-8~1e-8~1e-8~1e-8~Novaexchange~7ffe9",
+            "5~CCCAGG~VTA~DOGE~4~0.00061~1510458637~350~0.2135~1510458637001~0~0~0~0~0.00061~0.00061~0.00061~0.00061~0.00061~0.00061~Novaexchange~7ffe9",
+            "5~CCCAGG~VTA~LTC~4~7e-8~1502051640~299400~0.020958~1652506~0~0~0~0~7e-8~7e-8~7e-8~7e-8~7e-8~7e-8~CCEX~7ffe9",
+            "5~CCCAGG~VTA~ETH~4~2e-8~1501769391~436584.07024341~0.0087316814048682~1501769391000~0~0~0~0~2e-8~2e-8~2e-8~2e-8~2e-8~2e-8~Novaexchange~7ffe9",
+            "5~CCCAGG~VTA~USD~4~0.00000201~1502127384~201592.008~0.40519993608~1624380~0~0~0~0~0.00000201~0.00000201~0.00000201~0.00000201~0.00000201~0.00000201~CCEX~7ffe9"
+        ]
+    },
+    "Type": 100
+}

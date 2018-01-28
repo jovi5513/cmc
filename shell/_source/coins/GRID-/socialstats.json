@@ -1,0 +1,162 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GRID*",
+            "CoinName": "GridPay",
+            "Type": "Webpagecoinp",
+            "Points": 429
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 42110,
+                    "Name": "BombCoin",
+                    "FullName": "BombCoin (BOMB)",
+                    "ImageUrl": "\/media\/1382384\/bomb.png",
+                    "Url": "\/coins\/bomb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 232607,
+                    "Name": "JustDatingSite",
+                    "FullName": "JustDatingSite (JDC)",
+                    "ImageUrl": "\/media\/1384049\/jdc.png",
+                    "Url": "\/coins\/jdc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5028,
+                    "Name": "LibertyCoin",
+                    "FullName": "LibertyCoin (XLB)",
+                    "ImageUrl": "\/media\/19966\/xlb.png",
+                    "Url": "\/coins\/xlb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 194689,
+                    "Name": "CoinJob",
+                    "FullName": "CoinJob (XCJ)",
+                    "ImageUrl": "\/media\/1383849\/xcj.png",
+                    "Url": "\/coins\/xcj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 371004,
+                    "Name": "Tracto",
+                    "FullName": "Tracto (TRCT)",
+                    "ImageUrl": "\/media\/14913462\/trct.png",
+                    "Url": "\/coins\/trct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28326,
+                    "Name": "RootCoin",
+                    "FullName": "RootCoin (ROOT)",
+                    "ImageUrl": "\/media\/351523\/root.png",
+                    "Url": "\/coins\/root\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4423,
+                    "Name": "CoolCoin",
+                    "FullName": "CoolCoin (COOL)",
+                    "ImageUrl": "\/media\/19658\/cool.png",
+                    "Url": "\/coins\/cool\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3650,
+                    "Name": "NXTI",
+                    "FullName": "NXTI (NXTI)",
+                    "ImageUrl": "\/media\/20376\/nxti.png",
+                    "Url": "\/coins\/nxti\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4450,
+                    "Name": "FractalCoin",
+                    "FullName": "FractalCoin (FRAC)",
+                    "ImageUrl": "\/media\/19710\/frac.png",
+                    "Url": "\/coins\/frac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6088,
+                    "Name": "Viral Coin",
+                    "FullName": "Viral Coin (VIRAL)",
+                    "ImageUrl": "\/media\/20472\/viral.png",
+                    "Url": "\/coins\/viral\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 377125,
+                    "Name": "6657A28E",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/377125\/ae014069-0871-4de9-b9f0-469746e83cc1.jpg",
+                    "Url": "\/profile\/6657A28E\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 137424,
+                    "Name": "nbrulay",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/137424\/9209e6e0-5b18-4094-8b8b-ce41ed2c39d8.jpg",
+                    "Url": "\/profile\/nbrulay\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 244691,
+                    "Name": "essamsung",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/244691\/4513e11f-30b2-4bc0-b86d-942d07f12c69.jpg",
+                    "Url": "\/profile\/essamsung\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 125,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 450,
+                "Markets": 21,
+                "Analysis": 60,
+                "Charts": 57,
+                "Trades": 56,
+                "Orderbook": 0,
+                "Forum": 34,
+                "Influence": 25
+            },
+            "PageViews": 703
+        },
+        "Twitter": {
+            "followers": 274,
+            "following": "13",
+            "lists": 6,
+            "favourites": "0",
+            "statuses": 17,
+            "account_creation": "1423025799",
+            "name": "GridPay",
+            "link": "https:\/\/twitter.com\/GridPayTeam",
+            "Points": 304
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

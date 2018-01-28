@@ -1,0 +1,182 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "QBC",
+            "CoinName": "Quebecoin",
+            "Type": "Webpagecoinp",
+            "Points": 110
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 436162,
+                    "Name": "RAFL",
+                    "FullName": "RAFL (RFL)",
+                    "ImageUrl": "\/media\/16746549\/rfl.png",
+                    "Url": "\/coins\/rfl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29556,
+                    "Name": "EmiratesGoldCoin",
+                    "FullName": "EmiratesGoldCoin (EMIGR)",
+                    "ImageUrl": "\/media\/351659\/emirg.png",
+                    "Url": "\/coins\/emigr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21378,
+                    "Name": "GIZMOcoin",
+                    "FullName": "GIZMOcoin (GIZ)",
+                    "ImageUrl": "\/media\/351015\/giz.png",
+                    "Url": "\/coins\/giz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7653,
+                    "Name": "Hedgecoin",
+                    "FullName": "Hedgecoin (HEDG)",
+                    "ImageUrl": "\/media\/20663\/hedg.png",
+                    "Url": "\/coins\/hedg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 477743,
+                    "Name": "XinFin Coin",
+                    "FullName": "XinFin Coin (XDC)",
+                    "ImageUrl": "\/media\/16746634\/xdc.png",
+                    "Url": "\/coins\/xdc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24866,
+                    "Name": "Frankywillcoin",
+                    "FullName": "Frankywillcoin (FRWC)",
+                    "ImageUrl": "\/media\/351361\/frwc.png",
+                    "Url": "\/coins\/frwc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 659663,
+                    "Name": "ArubaCoin",
+                    "FullName": "ArubaCoin (AUA)",
+                    "ImageUrl": "\/media\/20780743\/aua.png",
+                    "Url": "\/coins\/aua\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42106,
+                    "Name": "TeCoin",
+                    "FullName": "TeCoin (TEC)",
+                    "ImageUrl": "\/media\/1382383\/tecoin.png",
+                    "Url": "\/coins\/tec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21359,
+                    "Name": "CludCoin",
+                    "FullName": "CludCoin (CLUD)",
+                    "ImageUrl": "\/media\/351027\/clud.png",
+                    "Url": "\/coins\/clud\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43247,
+                    "Name": "Babes and Nerds",
+                    "FullName": "Babes and Nerds (BAN)",
+                    "ImageUrl": "\/media\/1382466\/ban.png",
+                    "Url": "\/coins\/ban\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 641957,
+                    "Name": "elgars.retigs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/641957\/6c0eaa81-a25d-4a73-99e8-fceacefe8d93.jpg",
+                    "Url": "\/profile\/elgars.retigs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 211649,
+                    "Name": "tremblay96",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/211649\/3f3565d7-fdee-4028-b81c-d3ddf52e3d47.jpg",
+                    "Url": "\/profile\/tremblay96\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 474702,
+                    "Name": "oliverthejeweler",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/474702\/5bb2e3d1-1ebf-4974-a13a-721c098524fe.jpg",
+                    "Url": "\/profile\/oliverthejeweler\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 27897,
+                    "Name": "amilton7217",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/27897\/16e254d2-1428-41da-9ff2-110882ff33d5.jpg",
+                    "Url": "\/profile\/amilton7217\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 100,
+            "Followers": 4,
+            "PageViewsSplit": {
+                "Overview": 447,
+                "Markets": 35,
+                "Analysis": 20,
+                "Charts": 32,
+                "Trades": 30,
+                "Orderbook": 0,
+                "Forum": 7,
+                "Influence": 9
+            },
+            "PageViews": 580
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1403056928",
+                    "open_total_issues": "0",
+                    "fork": "true",
+                    "parent": {
+                        "Name": "QBC",
+                        "Url": "https:\/\/github.com\/JPGagnon\/QBC",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "0",
+                    "size": "3338",
+                    "last_push": "1406112984",
+                    "stars": 1,
+                    "source": {
+                        "Name": "QBC",
+                        "Url": "https:\/\/github.com\/JPGagnon\/QBC",
+                        "InternalId": -1
+                    },
+                    "last_update": "1404182969",
+                    "open_pull_issues": "0",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/morinpa\/QBC",
+                    "closed_issues": "0",
+                    "open_issues": "0",
+                    "subscribers": 3,
+                    "language": "TypeScript",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 10
+        }
+    }
+}

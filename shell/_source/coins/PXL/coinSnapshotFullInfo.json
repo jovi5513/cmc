@@ -1,0 +1,77 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Phalanx (PXL) - Live streaming prices and market cap",
+            "PageDescription": "Live Phalanx prices from all markets and PXL coin market Capitalization. Stay up to date with the latest Phalanx price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350930\/pxl.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20580",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Phalanx (PXL)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "PXL",
+            "Url": "\/coins\/pxl\/",
+            "BaseAngularUrl": "\/coins\/pxl\/",
+            "Name": "Phalanx",
+            "ImageUrl": "\/media\/350930\/pxl.png",
+            "Description": "<p>PhalanXL provides a mining platform where miners can sell, buy, trade and rent mining resources and computational power. The\u00a0<span>QT-client also, allows users to store and trade multiple cryptocurrencies<\/span><\/p>",
+            "Features": "<p><span>y<\/span><\/p>",
+            "Technology": "",
+            "TotalCoinSupply": "15000000",
+            "Algorithm": "SHA256",
+            "ProofType": "PoW",
+            "StartDate": "10\/03\/2015",
+            "Twitter": "@PLXDev",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1504106367,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": -1,
+            "BlockTime": 120,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~PXL~BTC",
+            "2~Yobit~PXL~USD",
+            "2~Yobit~PXL~RUR",
+            "2~CCEX~PXL~LTC",
+            "2~Yobit~PXL~BTC",
+            "2~CCEX~PXL~DOGE",
+            "2~Yobit~PXL~ETH",
+            "2~Yobit~PXL~DOGE",
+            "2~Yobit~PXL~WAVES"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~PXL~BTC~4~0.00000481~1515888541~22.72349272~0.00010929999998319999~200000001~22.72349272~0.00010929999998319999~22.72349272~0.0001092999999832~0.00000404~0.00000481~0.00000404~0.00000404~0.00000481~0.00000404~Yobit~7ffe9",
+            "5~CCCAGG~PXL~USD~4~0.11~1515531025~1~0.11~183113764~0~0~0~0~0.11~0.11~0.11~0.11~0.11~0.11~Yobit~7ffe9",
+            "5~CCCAGG~PXL~RUR~4~1.4~1515948363~1~1.40000001~200000008~5.000002~6.99996277997998~5.8459727500000005~13.59852616181277~7.8~7.8~1.4~7.8~7.8~1.4~Yobit~7ffe9",
+            "5~CCCAGG~PXL~LTC~4~0.00000358~1434967764~163.4754649~0.000585242164342~1434967764001~0~0~0~0~0.00000358~0.00000358~0.00000358~0.00000358~0.00000358~0.00000358~CCEX~7ffe9",
+            "5~CCCAGG~PXL~DOGE~4~10~1515410778~0.99118616~9.9118616~182161678~0~0~0~0~10~10~10~10~10~10~Yobit~7ffe9",
+            "5~CCCAGG~PXL~ETH~4~0.09~1509107387~0.00111222~0.0001000998~153911068~0~0~0~0~0.09~0.09~0.09~0.09~0.09~0.09~Yobit~7ffe9",
+            "5~CCCAGG~PXL~WAVES~4~0.00051234~1515701534~1.00012002~0.0005124014910468~200000000~0~0~0~0~0.0005123~0.00051234~0.0005123~0.00051234~0.00051234~0.00051234~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

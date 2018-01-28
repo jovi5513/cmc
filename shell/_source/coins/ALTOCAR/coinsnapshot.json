@@ -1,0 +1,49 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "ALTOCAR",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.0000036",
+            "LASTUPDATE": "1515981610",
+            "LASTVOLUME": "8",
+            "LASTVOLUMETO": "0.0000288",
+            "LASTTRADEID": "4Vo2a6vtatAadi5CTuMrkySczBjy9PLcqnmM6ppZayVQ",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.0000036",
+            "HIGHDAY": "0.0000036",
+            "LOWDAY": "0.0000036",
+            "OPEN24HOUR": "0.0000036",
+            "HIGH24HOUR": "0.0000036",
+            "LOW24HOUR": "0.0000036",
+            "LASTMARKET": "WavesDEX"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "WavesDEX",
+                "FROMSYMBOL": "ALTOCAR",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.0000036",
+                "LASTUPDATE": "1515981610",
+                "LASTVOLUME": "8",
+                "LASTVOLUMETO": "0.0000288",
+                "LASTTRADEID": "4Vo2a6vtatAadi5CTuMrkySczBjy9PLcqnmM6ppZayVQ",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.0000036",
+                "HIGH24HOUR": "0.0000036",
+                "LOW24HOUR": "0.0000036"
+            }
+        ]
+    },
+    "Type": 100
+}

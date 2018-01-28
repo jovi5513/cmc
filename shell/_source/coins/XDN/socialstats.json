@@ -1,0 +1,258 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XDN",
+            "CoinName": "DigitalNote ",
+            "Type": "Webpagecoinp",
+            "Points": 56190
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5293,
+                    "Name": "MaidSafe Coin",
+                    "FullName": "MaidSafe Coin (MAID)",
+                    "ImageUrl": "\/media\/352247\/maid.png",
+                    "Url": "\/coins\/maid\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 221463,
+                    "Name": "Substratum Network",
+                    "FullName": "Substratum Network (SUB)",
+                    "ImageUrl": "\/media\/1384011\/sub1.png",
+                    "Url": "\/coins\/sub\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30173,
+                    "Name": "Ardor",
+                    "FullName": "Ardor (ARDR)",
+                    "ImageUrl": "\/media\/351736\/ardr.png",
+                    "Url": "\/coins\/ardr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 17857,
+                    "Name": "OKCash",
+                    "FullName": "OKCash (OK)",
+                    "ImageUrl": "\/media\/350819\/ok.png",
+                    "Url": "\/coins\/ok\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 137013,
+                    "Name": "Status Network Token",
+                    "FullName": "Status Network Token (SNT)",
+                    "ImageUrl": "\/media\/1383568\/snt.png",
+                    "Url": "\/coins\/snt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5286,
+                    "Name": "BurstCoin",
+                    "FullName": "BurstCoin (BURST)",
+                    "ImageUrl": "\/media\/16746623\/burst.png",
+                    "Url": "\/coins\/burst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 198967,
+                    "Name": "DeepOnion",
+                    "FullName": "DeepOnion (ONION)",
+                    "ImageUrl": "\/media\/1383894\/onion.png",
+                    "Url": "\/coins\/onion\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186277,
+                    "Name": "0x",
+                    "FullName": "0x (ZRX)",
+                    "ImageUrl": "\/media\/1383799\/zrx.png",
+                    "Url": "\/coins\/zrx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 187347,
+                    "Name": "Storj",
+                    "FullName": "Storj (STORJ)",
+                    "ImageUrl": "\/media\/20422\/sjcx.png",
+                    "Url": "\/coins\/storj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 66193,
+                    "Name": "Gnosis",
+                    "FullName": "Gnosis (GNO)",
+                    "ImageUrl": "\/media\/1383083\/gnosis-logo.png",
+                    "Url": "\/coins\/gno\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 653125,
+                    "Name": "yann.selva.sys",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/653125\/165e7ce4-1020-4f49-8c1a-47b17fd62e86.jpg",
+                    "Url": "\/profile\/yann.selva.sys\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676118,
+                    "Name": "dl.play",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676118\/2917cdb0-d4b4-4ea1-a005-8f7af360b4cf.jpg",
+                    "Url": "\/profile\/dl.play\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 587684,
+                    "Name": "dezl_v",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/587684\/350a573d-06c3-4c0d-8bd3-3af7e333b43b.jpg",
+                    "Url": "\/profile\/dezl_v\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 209959,
+                    "Name": "anton.northern",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/209959\/149d67a0-08a1-4170-af09-e3014fa0ec15.jpg",
+                    "Url": "\/profile\/anton.northern\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670606,
+                    "Name": "jaramosiii35",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670606\/22dad5ca-3937-44f7-968e-d86c9fd3be30.jpg",
+                    "Url": "\/profile\/jaramosiii35\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 642330,
+                    "Name": "dobrev78",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/642330\/0e7886a3-4726-4b32-b6b8-0ac40fa9a932.jpg",
+                    "Url": "\/profile\/dobrev78\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 639880,
+                    "Name": "DanielB",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/639880\/509d04ad-6242-4f53-a547-5e9771c2edcc.jpg",
+                    "Url": "\/profile\/DanielB\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 277343,
+                    "Name": "gek2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/277343\/def69c76-b006-4fea-a370-927917502049.jpg",
+                    "Url": "\/profile\/gek2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 624721,
+                    "Name": "djnoelly",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/624721\/d1503247-5bff-4b68-9d55-f349eb2a2260.jpg",
+                    "Url": "\/profile\/djnoelly\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 655354,
+                    "Name": "Gully",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/655354\/2dcd4a95-1569-4548-a6ab-1c538773edc0.jpg",
+                    "Url": "\/profile\/Gully\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 373291,
+                    "Name": "merskacic",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/373291\/a0e22028-4aa9-4fee-8d79-01efcd852e7a.jpg",
+                    "Url": "\/profile\/merskacic\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 37085,
+            "Followers": 1108,
+            "Posts": "247",
+            "Comments": "321",
+            "PageViewsSplit": {
+                "Overview": 102960,
+                "Markets": 8194,
+                "Analysis": 2632,
+                "Charts": 8678,
+                "Trades": 3453,
+                "Orderbook": 214,
+                "Forum": 14259,
+                "Influence": 963
+            },
+            "PageViews": 141353
+        },
+        "Twitter": {
+            "following": "822",
+            "account_creation": "1409418135",
+            "name": "DigitalNote",
+            "lists": 166,
+            "statuses": 680,
+            "favourites": "15",
+            "followers": 14214,
+            "link": "https:\/\/twitter.com\/DigitalNote_XDN",
+            "Points": 15044
+        },
+        "Reddit": {
+            "posts_per_hour": "0.18",
+            "comments_per_hour": "0.63",
+            "posts_per_day": "4.40",
+            "comments_per_day": 15.2,
+            "name": "digitalNote",
+            "link": "https:\/\/www.reddit.com\/r\/digitalNote\/",
+            "active_users": 57,
+            "community_creation": "1433625436",
+            "subscribers": 3624,
+            "Points": 3825
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1433610408",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "darknote",
+                        "Url": "https:\/\/github.com\/ducknote\/darknote",
+                        "InternalId": -1
+                    },
+                    "size": "16908",
+                    "closed_total_issues": "0",
+                    "stars": 54,
+                    "last_update": "1515939550",
+                    "forks": 33,
+                    "url": "https:\/\/github.com\/xdn-project\/digitalnote",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "true",
+                    "last_push": "1503070096",
+                    "source": {
+                        "InternalId": 5280,
+                        "Name": "bytecoin",
+                        "Url": "https:\/\/github.com\/amjuarez\/bytecoin",
+                        "InternalData": {
+                            "Id": 5280,
+                            "Name": "ByteCoin",
+                            "Symbol": "BCN",
+                            "ImageUrl": "\/media\/12318404\/bcn.png",
+                            "Type": "Webpagecoinp",
+                            "Url": "\/coins\/bcn\/"
+                        }
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 34,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 222
+        }
+    }
+}

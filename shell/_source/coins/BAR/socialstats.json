@@ -1,0 +1,251 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BAR",
+            "CoinName": "TBIS token",
+            "Type": "Webpagecoinp",
+            "Points": 20090
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 383878,
+                    "Name": "Ethersportcoin",
+                    "FullName": "Ethersportcoin (ESC*)",
+                    "ImageUrl": "\/media\/14913585\/esc.png",
+                    "Url": "\/coins\/esc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 247246,
+                    "Name": "LiteBitcoin",
+                    "FullName": "LiteBitcoin (LBTC)",
+                    "ImageUrl": "\/media\/9350763\/lbtc.png",
+                    "Url": "\/coins\/lbtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 318199,
+                    "Name": "Hshare",
+                    "FullName": "Hshare (HSR)",
+                    "ImageUrl": "\/media\/12318137\/hsr.png",
+                    "Url": "\/coins\/hsr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 243079,
+                    "Name": "Gimli",
+                    "FullName": "Gimli (GIM)",
+                    "ImageUrl": "\/media\/9350754\/gim.png",
+                    "Url": "\/coins\/gim\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 675053,
+                    "Name": "High Performance Blockchain",
+                    "FullName": "High Performance Blockchain (HPB)",
+                    "ImageUrl": "\/media\/20780783\/hpb.png",
+                    "Url": "\/coins\/hpb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 370606,
+                    "Name": "Cloud",
+                    "FullName": "Cloud (CLD)",
+                    "ImageUrl": "\/media\/14913452\/cld.png",
+                    "Url": "\/coins\/cld\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 370535,
+                    "Name": "Pure",
+                    "FullName": "Pure (PURE)",
+                    "ImageUrl": "\/media\/14913451\/pure.png",
+                    "Url": "\/coins\/pure\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 409492,
+                    "Name": "Bitcoin Diamond",
+                    "FullName": "Bitcoin Diamond (BCD)",
+                    "ImageUrl": "\/media\/16404872\/bcd.png",
+                    "Url": "\/coins\/bcd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 350476,
+                    "Name": "Vezt",
+                    "FullName": "Vezt (VZT)",
+                    "ImageUrl": "\/media\/12318414\/vzt.png",
+                    "Url": "\/coins\/vzt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 184187,
+                    "Name": "IMMLA",
+                    "FullName": "IMMLA (IML)",
+                    "ImageUrl": "\/media\/1383783\/iml.png",
+                    "Url": "\/coins\/iml\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 605058,
+                    "Name": "connila",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/605058\/a57592a4-e606-4c56-950e-63fd8ee1a35f.jpg",
+                    "Url": "\/profile\/connila\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 483337,
+                    "Name": "abramstrade1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/483337\/51684a0e-9876-45ca-9489-6f970dfc7c56.jpg",
+                    "Url": "\/profile\/abramstrade1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670936,
+                    "Name": "bta.osullivan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670936\/6f57751e-e426-4db9-81fb-bf08aa91887e.jpg",
+                    "Url": "\/profile\/bta.osullivan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 309442,
+                    "Name": "ed_coyle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/309442\/109dd72e-065a-4484-b928-81282ac13282.jpg",
+                    "Url": "\/profile\/ed_coyle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 85619,
+                    "Name": "angeliquevanuum2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/85619\/e2c12e29-7d4e-4f6a-806d-29229b47fed3.jpg",
+                    "Url": "\/profile\/angeliquevanuum2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 75617,
+                    "Name": "tonyvuum",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/75617\/88f541a8-c221-4b95-9e58-cdc89188abb2.jpg",
+                    "Url": "\/profile\/tonyvuum\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 337755,
+                    "Name": "kagaencomputers",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/337755\/425c3644-5288-44be-840a-cefbbe394937.jpg",
+                    "Url": "\/profile\/kagaencomputers\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 120194,
+                    "Name": "stoeckli.daniel",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/120194\/8e6e91ae-a9d6-484d-928e-e56dea99b899.jpg",
+                    "Url": "\/profile\/stoeckli.daniel\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 572630,
+                    "Name": "giudavcoin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/572630\/cb7b2f61-ab27-4c49-9094-570ac07d0811.jpg",
+                    "Url": "\/profile\/giudavcoin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 512139,
+                    "Name": "boiceng67",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/512139\/a04088c8-dd59-4b10-87b6-e8b1c2cd7cfe.jpg",
+                    "Url": "\/profile\/boiceng67\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 152773,
+                    "Name": "babarmughal",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/152773\/31552360-2628-4fad-9bf5-5879e707c49e.jpg",
+                    "Url": "\/profile\/babarmughal\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 530,
+            "Followers": 14,
+            "Posts": "6",
+            "Comments": "3",
+            "PageViewsSplit": {
+                "Overview": 1663,
+                "Markets": 96,
+                "Analysis": 78,
+                "Charts": 40,
+                "Trades": 49,
+                "Orderbook": 0,
+                "Forum": 99,
+                "Influence": 48
+            },
+            "PageViews": 2073
+        },
+        "Twitter": {
+            "following": "88",
+            "account_creation": "1507581547",
+            "name": "TBIS Inc.",
+            "lists": 28,
+            "statuses": 185,
+            "favourites": "46",
+            "followers": 17950,
+            "link": "https:\/\/twitter.com\/TBISINC",
+            "Points": 18090
+        },
+        "Reddit": {
+            "name": "undefined",
+            "link": "https:\/\/www.reddit.com\/r\/TBISINC\/",
+            "active_users": 0,
+            "community_creation": "undefined",
+            "subscribers": 0,
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 1470,
+            "link": "https:\/\/www.facebook.com\/TBISICO\/",
+            "is_closed": "false",
+            "talking_about": "4704",
+            "name": "TBIS Inc.",
+            "Points": 1470
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1507063265",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "272",
+                    "closed_total_issues": "0",
+                    "stars": 0,
+                    "last_update": "1507063265",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/tbis-inc\/TBIS",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1515938864",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "null",
+                    "subscribers": 0,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

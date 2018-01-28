@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "GCC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "2",
+            "PRICE": "7.2e-7",
+            "LASTUPDATE": "1516088632",
+            "LASTVOLUME": "189.44281461",
+            "LASTVOLUMETO": "0.0001363988265192",
+            "LASTTRADEID": "200000265",
+            "VOLUMEDAY": "3819342.4340105406",
+            "VOLUMEDAYTO": "4.335680117882473",
+            "VOLUME24HOUR": "3822168.1499575097",
+            "VOLUME24HOURTO": "4.337533419202618",
+            "OPENDAY": "6.6e-7",
+            "HIGHDAY": "0.00000119",
+            "LOWDAY": "6.4e-7",
+            "OPEN24HOUR": "6e-7",
+            "HIGH24HOUR": "0.00000119",
+            "LOW24HOUR": "6e-7",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "GCC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "3.5e-7",
+                "LASTUPDATE": "1485895555",
+                "LASTVOLUME": "1311",
+                "LASTVOLUMETO": "0.00045884999999999996",
+                "LASTTRADEID": "3536",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "3.5e-7",
+                "HIGH24HOUR": "3.5e-7",
+                "LOW24HOUR": "3.5e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "GCC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "7.2e-7",
+                "LASTUPDATE": "1516088632",
+                "LASTVOLUME": "189.44281461",
+                "LASTVOLUMETO": "0.0001363988265192",
+                "LASTTRADEID": "200000265",
+                "VOLUME24HOUR": "3822168.1499575097",
+                "VOLUME24HOURTO": "4.337533419202618",
+                "OPEN24HOUR": "6e-7",
+                "HIGH24HOUR": "0.00000119",
+                "LOW24HOUR": "6e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Novaexchange",
+                "FROMSYMBOL": "GCC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000107",
+                "LASTUPDATE": "1510582324",
+                "LASTVOLUME": "153.91060952",
+                "LASTVOLUMETO": "0.0001646843521864",
+                "LASTTRADEID": "1510582324000",
+                "VOLUME24HOUR": "73793.36335845",
+                "VOLUME24HOURTO": "0.0776465923831917",
+                "OPEN24HOUR": "0.00000105",
+                "HIGH24HOUR": "0.00000121",
+                "LOW24HOUR": "0.00000105"
+            }
+        ]
+    },
+    "Type": 100
+}

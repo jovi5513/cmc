@@ -1,0 +1,139 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "FTP",
+            "CoinName": "FuturePoints",
+            "Type": "Webpagecoinp",
+            "Points": 50
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 667050,
+                    "Name": "MediShares",
+                    "FullName": "MediShares (MDS)",
+                    "ImageUrl": "\/media\/20780773\/ipnvhhke_400x400.jpg",
+                    "Url": "\/coins\/mds\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25825,
+                    "Name": "Coinomat",
+                    "FullName": "Coinomat (CNMT)",
+                    "ImageUrl": "\/media\/351396\/cnmt.png",
+                    "Url": "\/coins\/cnmt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43598,
+                    "Name": "CircuitCoin",
+                    "FullName": "CircuitCoin (CIR)",
+                    "ImageUrl": "\/media\/1382506\/cir.png",
+                    "Url": "\/coins\/cir\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29455,
+                    "Name": "Tianhe",
+                    "FullName": "Tianhe (TIA)",
+                    "ImageUrl": "\/media\/351636\/tia.png",
+                    "Url": "\/coins\/tia\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4588,
+                    "Name": "PseudoCash",
+                    "FullName": "PseudoCash (PSEUD)",
+                    "ImageUrl": "\/media\/20052\/pseud.png",
+                    "Url": "\/coins\/pseud\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4575,
+                    "Name": "Nimbus Coin",
+                    "FullName": "Nimbus Coin (NMB)",
+                    "ImageUrl": "\/media\/20049\/nmb.png",
+                    "Url": "\/coins\/nmb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 196572,
+                    "Name": "Anacrypt",
+                    "FullName": "Anacrypt (ANCP)",
+                    "ImageUrl": "\/media\/1383863\/ancp.png",
+                    "Url": "\/coins\/ancp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 249784,
+                    "Name": "BuildTeam",
+                    "FullName": "BuildTeam (BT)",
+                    "ImageUrl": "\/media\/9350775\/bt.png",
+                    "Url": "\/coins\/bt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517603,
+                    "Name": "CHIPS",
+                    "FullName": "CHIPS (CHIPS*)",
+                    "ImageUrl": "\/media\/16746673\/chips.png",
+                    "Url": "\/coins\/chips\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 402805,
+                    "Name": "KingN Coin",
+                    "FullName": "KingN Coin (KNC**)",
+                    "ImageUrl": "\/media\/16404850\/knc.png",
+                    "Url": "\/coins\/kncstarstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 69674,
+                    "Name": "freetrax",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/69674\/4217b087-414d-4ef8-bc71-15132d65296b.jpg",
+                    "Url": "\/profile\/freetrax\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 50,
+            "Followers": 2,
+            "PageViewsSplit": {
+                "Overview": 194,
+                "Markets": 23,
+                "Analysis": 12,
+                "Charts": 10,
+                "Trades": 17,
+                "Orderbook": 1,
+                "Forum": 9,
+                "Influence": 9
+            },
+            "PageViews": 275
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

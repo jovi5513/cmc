@@ -1,0 +1,196 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "WEALTH",
+            "CoinName": "WealthCoin",
+            "Type": "Webpagecoinp",
+            "Points": 153
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 3650,
+                    "Name": "NXTI",
+                    "FullName": "NXTI (NXTI)",
+                    "ImageUrl": "\/media\/20376\/nxti.png",
+                    "Url": "\/coins\/nxti\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60419,
+                    "Name": "Aptcoin",
+                    "FullName": "Aptcoin (APT)",
+                    "ImageUrl": "\/media\/1382945\/apt.png",
+                    "Url": "\/coins\/apt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4443,
+                    "Name": "ExeCoin",
+                    "FullName": "ExeCoin (EXE)",
+                    "ImageUrl": "\/media\/19700\/exe.png",
+                    "Url": "\/coins\/exe\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21710,
+                    "Name": "Nukecoinz",
+                    "FullName": "Nukecoinz (NKC)",
+                    "ImageUrl": "\/media\/351041\/nkc.png",
+                    "Url": "\/coins\/nkc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185625,
+                    "Name": "GeoFunders",
+                    "FullName": "GeoFunders (GUNS)",
+                    "ImageUrl": "\/media\/1383789\/guns.png",
+                    "Url": "\/coins\/guns\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4450,
+                    "Name": "FractalCoin",
+                    "FullName": "FractalCoin (FRAC)",
+                    "ImageUrl": "\/media\/19710\/frac.png",
+                    "Url": "\/coins\/frac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6088,
+                    "Name": "Viral Coin",
+                    "FullName": "Viral Coin (VIRAL)",
+                    "ImageUrl": "\/media\/20472\/viral.png",
+                    "Url": "\/coins\/viral\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21007,
+                    "Name": "Aiden",
+                    "FullName": "Aiden (ADN)",
+                    "ImageUrl": "\/media\/350993\/adn.png",
+                    "Url": "\/coins\/adn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5346,
+                    "Name": "Pebble Coin",
+                    "FullName": "Pebble Coin (XPB)",
+                    "ImageUrl": "\/media\/20158\/xpb.png",
+                    "Url": "\/coins\/xpb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5366,
+                    "Name": "GigCoin",
+                    "FullName": "GigCoin (GIG)",
+                    "ImageUrl": "\/media\/20294\/gig.png",
+                    "Url": "\/coins\/gig\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 498960,
+                    "Name": "ahassouna23",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/498960\/0848eb24-db63-458d-9210-48a4b22e1e11.jpg",
+                    "Url": "\/profile\/ahassouna23\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 316918,
+                    "Name": "ragwell",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/316918\/4e3c5f99-3a87-4292-a275-78fd492259f0.jpg",
+                    "Url": "\/profile\/ragwell\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 276329,
+                    "Name": "ifeel21c",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/276329\/ebba7e3a-3146-4773-bdf1-092d97985f7f.jpg",
+                    "Url": "\/profile\/ifeel21c\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 49389,
+                    "Name": "2theM0oon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/49389\/55b8cb99-1017-4047-9108-e3a4713a043a.jpg",
+                    "Url": "\/profile\/2theM0oon\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 63006,
+                    "Name": "rashidaharrisa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/63006\/883e1717-833f-4be7-b270-95df06bb9f12.jpg",
+                    "Url": "\/profile\/rashidaharrisa\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 6,
+            "Points": 150,
+            "PageViewsSplit": {
+                "Overview": 850,
+                "Markets": 100,
+                "Analysis": 57,
+                "Charts": 48,
+                "Trades": 50,
+                "Orderbook": 1,
+                "Forum": 23,
+                "Influence": 13
+            },
+            "PageViews": 1142
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "3960",
+                    "url": "https:\/\/github.com\/WealthCoinDev\/WealthCoin",
+                    "last_update": "1437511972",
+                    "last_push": "1437511964",
+                    "created_at": "1437511393",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

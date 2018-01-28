@@ -1,0 +1,231 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "INV",
+            "CoinName": "Invictus",
+            "Type": "Webpagecoinp",
+            "Points": 306
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 314331,
+                    "Name": "Algo.Land",
+                    "FullName": "Algo.Land (PLM)",
+                    "ImageUrl": "\/media\/12318124\/plm.jpg",
+                    "Url": "\/coins\/plm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 646897,
+                    "Name": "DFSCoin",
+                    "FullName": "DFSCoin (DFS)",
+                    "ImageUrl": "\/media\/20780715\/dfs.png",
+                    "Url": "\/coins\/dfs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41590,
+                    "Name": "CryptoPennies",
+                    "FullName": "CryptoPennies (CRPS)",
+                    "ImageUrl": "\/media\/1382338\/crps.png",
+                    "Url": "\/coins\/crps\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 15272,
+                    "Name": "BitStone",
+                    "FullName": "BitStone (BST)",
+                    "ImageUrl": "\/media\/350558\/bst.png",
+                    "Url": "\/coins\/bst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 661398,
+                    "Name": "PumaPay",
+                    "FullName": "PumaPay (PMA)",
+                    "ImageUrl": "\/media\/20780758\/pma.png",
+                    "Url": "\/coins\/pma\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28083,
+                    "Name": "CarterCoin",
+                    "FullName": "CarterCoin (CTC)",
+                    "ImageUrl": "\/media\/351496\/ctc.png",
+                    "Url": "\/coins\/ctc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28654,
+                    "Name": "Armory Coin",
+                    "FullName": "Armory Coin (ARM)",
+                    "ImageUrl": "\/media\/351545\/arm.png",
+                    "Url": "\/coins\/arm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29008,
+                    "Name": "Opair",
+                    "FullName": "Opair (XPO)",
+                    "ImageUrl": "\/media\/351590\/xpo.png",
+                    "Url": "\/coins\/xpo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7564,
+                    "Name": "Empyrean",
+                    "FullName": "Empyrean (EPY)",
+                    "ImageUrl": "\/media\/20628\/epy.png",
+                    "Url": "\/coins\/epy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29460,
+                    "Name": "UPcoin",
+                    "FullName": "UPcoin (XUP)",
+                    "ImageUrl": "\/media\/351638\/xup.png",
+                    "Url": "\/coins\/xup\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 297503,
+                    "Name": "DD4716D2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/297503\/2b8a52d4-40e3-410b-9813-7964290994a4.jpg",
+                    "Url": "\/profile\/DD4716D2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 513206,
+                    "Name": "Themartin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/513206\/d549d119-c480-4f23-be0e-8ae30282a3b2.png",
+                    "Url": "\/profile\/Themartin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 456951,
+                    "Name": "sjohann04",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/456951\/b527dcbe-8913-44c5-a229-cd120327e5db.jpg",
+                    "Url": "\/profile\/sjohann04\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 451642,
+                    "Name": "jeffery.ferguson",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/451642\/a3ce80f4-5c7e-4e56-850e-dc76e07b3057.jpg",
+                    "Url": "\/profile\/jeffery.ferguson\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 138986,
+                    "Name": "teremoanaoc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/138986\/2b082682-ff35-45af-aee5-787ed1c8c26f.jpg",
+                    "Url": "\/profile\/teremoanaoc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 450350,
+                    "Name": "paul_landers",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/450350\/51cc4864-6e35-4ae9-96b3-27ef4c234ca2.jpg",
+                    "Url": "\/profile\/paul_landers\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 442381,
+                    "Name": "raphaelmeridda",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/442381\/087514eb-3e76-48d7-82fd-21dea0ac3ba9.jpg",
+                    "Url": "\/profile\/raphaelmeridda\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 442644,
+                    "Name": "eharroldiii",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/442644\/62754be3-a314-4607-9da3-3ea7735b0c24.jpg",
+                    "Url": "\/profile\/eharroldiii\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 193746,
+                    "Name": "graviisan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/193746\/79627e67-dd4f-494d-abcb-0de08c8773e0.jpg",
+                    "Url": "\/profile\/graviisan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 29689,
+                    "Name": "SASA979",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/29689\/06f77b6d-f8be-4319-a69c-bb74871ea7c8.jpg",
+                    "Url": "\/profile\/SASA979\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 12,
+            "Points": 300,
+            "PageViewsSplit": {
+                "Overview": 1066,
+                "Markets": 62,
+                "Analysis": 44,
+                "Charts": 37,
+                "Trades": 44,
+                "Orderbook": 0,
+                "Forum": 23,
+                "Influence": 16
+            },
+            "PageViews": 1292
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 2,
+                    "size": "2873",
+                    "url": "https:\/\/github.com\/invictusproject\/invictus",
+                    "last_update": "1464979146",
+                    "last_push": "1464979143",
+                    "created_at": "1464978908",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 6
+        }
+    }
+}

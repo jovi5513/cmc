@@ -1,0 +1,170 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BAN",
+            "CoinName": "Babes and Nerds",
+            "Type": "Webpagecoinp",
+            "Points": 346
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 38371,
+                    "Name": "Quebecoin",
+                    "FullName": "Quebecoin (QBC)",
+                    "ImageUrl": "\/media\/19874\/qbc.png",
+                    "Url": "\/coins\/qbc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24866,
+                    "Name": "Frankywillcoin",
+                    "FullName": "Frankywillcoin (FRWC)",
+                    "ImageUrl": "\/media\/351361\/frwc.png",
+                    "Url": "\/coins\/frwc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 659663,
+                    "Name": "ArubaCoin",
+                    "FullName": "ArubaCoin (AUA)",
+                    "ImageUrl": "\/media\/20780743\/aua.png",
+                    "Url": "\/coins\/aua\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42106,
+                    "Name": "TeCoin",
+                    "FullName": "TeCoin (TEC)",
+                    "ImageUrl": "\/media\/1382383\/tecoin.png",
+                    "Url": "\/coins\/tec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21359,
+                    "Name": "CludCoin",
+                    "FullName": "CludCoin (CLUD)",
+                    "ImageUrl": "\/media\/351027\/clud.png",
+                    "Url": "\/coins\/clud\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3744,
+                    "Name": "2015 coin",
+                    "FullName": "2015 coin (2015)",
+                    "ImageUrl": "\/media\/20180\/2015.png",
+                    "Url": "\/coins\/2015\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28151,
+                    "Name": "CovenCoin",
+                    "FullName": "CovenCoin (COV*)",
+                    "ImageUrl": "\/media\/351503\/cov.png",
+                    "Url": "\/coins\/covstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5398,
+                    "Name": "Camcoin",
+                    "FullName": "Camcoin (CAM)",
+                    "ImageUrl": "\/media\/20220\/cam.png",
+                    "Url": "\/coins\/cam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34847,
+                    "Name": "Old Dogs New Tricks",
+                    "FullName": "Old Dogs New Tricks (ODNT)",
+                    "ImageUrl": "\/media\/352186\/odnt.png",
+                    "Url": "\/coins\/odnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5034,
+                    "Name": "YAcCoin",
+                    "FullName": "YAcCoin (YAC)",
+                    "ImageUrl": "\/media\/19976\/yac.png",
+                    "Url": "\/coins\/yac\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 1,
+            "Points": 75,
+            "Posts": "2",
+            "PageViewsSplit": {
+                "Overview": 525,
+                "Markets": 39,
+                "Analysis": 13,
+                "Charts": 10,
+                "Trades": 13,
+                "Orderbook": 0,
+                "Forum": 19,
+                "Influence": 9
+            },
+            "PageViews": 628
+        },
+        "Twitter": {
+            "followers": 253,
+            "following": "343",
+            "lists": 3,
+            "favourites": "1",
+            "statuses": 82,
+            "account_creation": "1443359967",
+            "name": "Babes&Nerds",
+            "link": "https:\/\/twitter.com\/BabesAndNerds",
+            "Points": 268
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "4872",
+                    "url": "https:\/\/github.com\/marksize\/lowered",
+                    "last_update": "1443815704",
+                    "last_push": "1443815702",
+                    "created_at": "1443815420",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

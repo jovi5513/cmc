@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "LTS",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "2",
+            "PRICE": "0.00001025",
+            "LASTUPDATE": "1516090860",
+            "LASTVOLUME": "10.10051019",
+            "LASTVOLUMETO": "0.0001035302294475",
+            "LASTTRADEID": "200000879",
+            "VOLUMEDAY": "3773443.7522710254",
+            "VOLUMEDAYTO": "29.52410348555551",
+            "VOLUME24HOUR": "3773851.4680797793",
+            "VOLUME24HOURTO": "29.524868318508872",
+            "OPENDAY": "0.00000199",
+            "HIGHDAY": "0.00001456",
+            "LOWDAY": "0.00000199",
+            "OPEN24HOUR": "0.00000244",
+            "HIGH24HOUR": "0.00001456",
+            "LOW24HOUR": "0.00000162",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BTER",
+                "FROMSYMBOL": "LTS",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "8.6e-7",
+                "LASTUPDATE": "1458982940",
+                "LASTVOLUME": "18945.338",
+                "LASTVOLUMETO": "0.01629299068",
+                "LASTTRADEID": "12694589",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "8.6e-7",
+                "HIGH24HOUR": "8.6e-7",
+                "LOW24HOUR": "8.6e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "LTS",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000199",
+                "LASTUPDATE": "1514231154",
+                "LASTVOLUME": "41.91457286",
+                "LASTVOLUMETO": "0.0000834099999914",
+                "LASTTRADEID": "1245051",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000199",
+                "HIGH24HOUR": "0.00000199",
+                "LOW24HOUR": "0.00000199"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "LTS",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00001025",
+                "LASTUPDATE": "1516090860",
+                "LASTVOLUME": "10.10051019",
+                "LASTVOLUMETO": "0.0001035302294475",
+                "LASTTRADEID": "200000879",
+                "VOLUME24HOUR": "3773851.4680797793",
+                "VOLUME24HOURTO": "29.524868318508872",
+                "OPEN24HOUR": "0.00000244",
+                "HIGH24HOUR": "0.00001456",
+                "LOW24HOUR": "0.00000162"
+            }
+        ]
+    },
+    "Type": 100
+}

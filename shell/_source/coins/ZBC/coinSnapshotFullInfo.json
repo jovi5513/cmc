@@ -1,0 +1,82 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Zilbercoin (ZBC) - Live streaming prices and market cap",
+            "PageDescription": "Live Zilbercoin prices from all markets and ZBC coin market Capitalization. Stay up to date with the latest Zilbercoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1382652\/zbc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "45250",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Zilbercoin (ZBC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ZBC",
+            "Url": "\/coins\/zbc\/",
+            "BaseAngularUrl": "\/coins\/zbc\/",
+            "Name": "Zilbercoin",
+            "ImageUrl": "\/media\/1382652\/zbc.png",
+            "Description": "<p>Zilbercoin is a Proof of Work\/Proof of Stake cryptocurrency created to improve on the issues found on Bitcoin. ZBC uses the popular Scrypt algorihtm.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "55000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "26\/01\/2017",
+            "Twitter": "",
+            "AffiliateUrl": "http:\/\/zilbercoin.space\/wiki\/Hauptseite",
+            "Website": "<a href='http:\/\/zilbercoin.space\/wiki\/Hauptseite' target='_blank'>Zilbercoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515980822,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 497972,
+            "BlockTime": 150,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 9111025.0910628,
+            "PreviousTotalCoinsMined": 9111023.4932748,
+            "BlockReward": 0.096244914626533
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~LiveCoin~ZBC~XMR",
+            "2~LiveCoin~ZBC~RUR",
+            "2~Novaexchange~ZBC~ETH",
+            "2~Novaexchange~ZBC~DOGE",
+            "2~Novaexchange~ZBC~BTC",
+            "2~LiveCoin~ZBC~USD",
+            "2~LiveCoin~ZBC~EUR",
+            "2~LiveCoin~ZBC~ETH",
+            "2~Novaexchange~ZBC~LTC",
+            "2~LiveCoin~ZBC~BTC",
+            "2~CCEX~ZBC~BTC",
+            "2~Novaexchange~ZBC~MOON"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ZBC~XMR~4~0.0001001~1515934127~38.059~0.0038097058999999995~244302660~0~0~76.118~0.017928072539999996~0.0001001~0.0001001~0.0001001~0.000371~0.000371~0.0001001~LiveCoin~7ffe9",
+            "5~CCCAGG~ZBC~RUR~4~4.9~1515933831~12.33646~60.448654000000005~243998273~0~0~0~0~4.9~4.9~4.9~4.9~4.9~4.9~LiveCoin~7ffe9",
+            "5~CCCAGG~ZBC~ETH~4~0.0000565~1515934502~39.55207801~0.002234692407565~244407618~0~0~209.59337196~0.010124608446845002~0.0000565~0.0000565~0.0000565~0.0000464~0.0000565~0.0000464~LiveCoin~7ffe9",
+            "5~CCCAGG~ZBC~DOGE~4~0.1100003~1509590400~16.26563295~1.7892245041898849~1509590400001~0~0~0~0~0.11~0.1100003~0.11~0.1100003~0.1100003~0.1100003~Novaexchange~7ffe9",
+            "5~CCCAGG~ZBC~BTC~4~0.00000486~1515762102~173~0.00084078~242237473~0~0~0~0~0.00000486~0.00000486~0.00000486~0.00000486~0.00000486~0.00000486~LiveCoin~7ffe9",
+            "5~CCCAGG~ZBC~USD~4~0.08801~1515589178~20~1.7602000000000002~240050057~0~0~0~0~0.08801~0.08801~0.08801~0.08801~0.08801~0.08801~LiveCoin~7ffe9",
+            "5~CCCAGG~ZBC~EUR~4~0.45~1491277120~3.27727~1.4747715000000001~96372464~0~0~0~0~0.45~0.45~0.45~0.45~0.45~0.45~LiveCoin~7ffe9",
+            "5~CCCAGG~ZBC~LTC~4~0.099999~1505783368~0.00100001~0.00009999999999~1505783368000~0~0~0~0~0.099999~0.099999~0.099999~0.099999~0.099999~0.099999~Novaexchange~7ffe9",
+            "5~CCCAGG~ZBC~MOON~4~100000000~1505785441~5e-7~50~1505785441000~0~0~0~0~100000000~100000000~100000000~100000000~100000000~100000000~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

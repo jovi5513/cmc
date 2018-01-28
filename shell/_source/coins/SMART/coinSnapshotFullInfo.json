@@ -1,0 +1,73 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "SmartCash (SMART) - Live streaming prices and market cap",
+            "PageDescription": "Live SmartCash prices from all markets and SMART coin market Capitalization. Stay up to date with the latest SMARTprice movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1383906\/smart.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "199901",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "SmartCash (SMART)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "SMART",
+            "Url": "\/coins\/smart\/",
+            "BaseAngularUrl": "\/coins\/smart\/",
+            "Name": "SmartCash",
+            "ImageUrl": "\/media\/1383906\/smart.png",
+            "Description": "<p><span>SmartCash is a community governance, cooperation &amp; growth focused cryptocurrency based on the Keccak algorithm.\u00a0The team uses 80% of the block reward to fund not only the community projects, but also the growth &amp; development of SmartCash.\u00a0<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "5000000000",
+            "Algorithm": "Keccak",
+            "ProofType": "PoW",
+            "StartDate": "11\/07\/2017",
+            "Twitter": "@scashofficial",
+            "AffiliateUrl": "https:\/\/smartcash.cc\/",
+            "Website": "<a href='https:\/\/smartcash.cc\/' target='_blank'>SmartCash<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970628,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 275326,
+            "BlockTime": 55,
+            "NetHashesPerSecond": 14296895921803,
+            "TotalCoinsMined": 1188445746.926,
+            "PreviousTotalCoinsMined": 1188417080.926,
+            "BlockReward": 2606.0000001095
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~SMART~LTC",
+            "2~HitBTC~SMART~ETH",
+            "2~Cryptopia~SMART~DOGE",
+            "2~EtherDelta~SMART~ETH",
+            "2~Cryptopia~SMART~BTC",
+            "2~HitBTC~SMART~USD",
+            "2~HitBTC~SMART~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~SMART~LTC~4~0.00175~1515196909~228.11519818~0.3992016~1515196909.01~0~0~0~0~0.00175~0.00175~0.00175~0.00175~0.00175~0.00175~Cryptopia~7ffe9",
+            "5~CCCAGG~SMART~ETH~4~0.001501~1515979433~100~0.1502~152423015~12300~17.095999999999997~218615~313.73661280263616~0.001305~0.001502~0.001289~0.001451~0.001773~0.0012~HitBTC~7ffe9",
+            "5~CCCAGG~SMART~DOGE~4~39.3473375~1515194089~10~393.473375~1515194089~0~0~0~0~39.35~39.35~39.3473375~39.3473375~39.3473375~39.3473375~Cryptopia~7ffe9",
+            "5~CCCAGG~SMART~BTC~2~0.000149~1515979373~200~0.029799999999999997~152421945~20500~2.8862499999999995~336000~48.232369999999996~0.0001288~0.00015~0.0001288~0.0001408~0.0001735~0.0001243~HitBTC~7ffe9",
+            "5~CCCAGG~SMART~USD~4~2.01~1515979323~20~40.212~152421135~16460~31587.60899999999~339730~672089.2320000001~1.73~2.1~1.68~2.03~2.5~1.66~HitBTC~7ffe9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "GrandCoin (GDC) - Live streaming prices and market cap",
+            "PageDescription": "Live GrandCoin prices from all markets and GDC coin market Capitalization. Stay up to date with the latest GrandCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20054\/gdc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "298"
+        },
+        "General": {
+            "Id": "4526",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "GrandCoin (GDC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "GDC",
+            "Url": "\/coins\/gdc\/",
+            "BaseAngularUrl": "\/coins\/gdc\/",
+            "Name": "GrandCoin",
+            "ImageUrl": "\/media\/20054\/gdc.png",
+            "Description": "<p>GrandCoin [GDC] is a descendant of Litecoin, it pays 1 grand per block. There is a 45 second block time - with 50 confirmations needed for a mined block to mature - and a 6 block transaction confirmation time. The TX fee is 0.1%. The difficulty is retargetted every block and the block reward halves every year. Alongside the system supports transaction messaging.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "1420609614",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "13\/07\/2013",
+            "Twitter": "@GDCPool",
+            "AffiliateUrl": "http:\/\/grandcoin.org\/",
+            "Website": "<a href='http:\/\/grandcoin.org\/' target='_blank'>GrandCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~GDC~FTC",
+            "2~Cryptopia~GDC~POP",
+            "2~Cryptopia~GDC~DOGE",
+            "2~Coinse~GDC~BTC",
+            "2~Cryptopia~GDC~DOT",
+            "2~Cryptopia~GDC~UNO",
+            "2~Cryptsy~GDC~BTC",
+            "2~Novaexchange~GDC~LTC",
+            "2~Cryptopia~GDC~LTC",
+            "2~Cryptopia~GDC~BTC",
+            "2~Cryptopia~GDC~XMR",
+            "2~Novaexchange~GDC~BTC",
+            "2~Novaexchange~GDC~ETH"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~GDC~FTC~4~0.00006513~1485032177~12.50000625~0.000814~1485032177~0~0~0~0~0.00006513~0.00006513~0.00006513~0.00006513~0.00006513~0.00006513~Cryptopia~7ffe9",
+            "5~CCCAGG~GDC~POP~4~0.70000001~1457619090~860.44552176~602.311874~1457619090~0~0~0~0~0.70000001~0.70000001~0.70000001~0.70000001~0.70000001~0.70000001~Cryptopia~7ffe9",
+            "5~CCCAGG~GDC~DOGE~4~0.0300006~1515194498~18199.60537~545.99908086~1515194498~0~0~0~0~0.03~0.0300006~0.03~0.0300006~0.0300006~0.0300006~Cryptopia~7ffe9",
+            "5~CCCAGG~GDC~BTC~4~1e-8~1510370531~100000~0.001~1510370531001~0~0~0~0~1e-8~1e-8~1e-8~1e-8~1e-8~1e-8~Novaexchange~7ffe9",
+            "5~CCCAGG~GDC~DOT~4~0.00200003~1488085735~15.23137808~0.030463~1488085735~0~0~0~0~0.00200003~0.00200003~0.00200003~0.00200003~0.00200003~0.00200003~Cryptopia~7ffe9",
+            "5~CCCAGG~GDC~UNO~4~0.00000119~1497737300~395.62383333~0.00047079~1497737300~0~0~0~0~0.00000119~0.00000119~0.00000119~0.00000119~0.00000119~0.00000119~Cryptopia~7ffe9",
+            "5~CCCAGG~GDC~LTC~4~0.0000014~1515193192~49406.13821861~0.06916859~1515193192~0~0~0~0~0.0000014~0.0000014~0.0000014~0.0000014~0.0000014~0.0000014~Cryptopia~7ffe9",
+            "5~CCCAGG~GDC~XMR~4~2.2e-7~1488816255~6499.24839962~0.00143~1488816255~0~0~0~0~2.2e-7~2.2e-7~2.2e-7~2.2e-7~2.2e-7~2.2e-7~Cryptopia~7ffe9",
+            "5~CCCAGG~GDC~ETH~4~2.3e-7~1500801243~10000~0.0023~1500801243001~0~0~0~0~2.3e-7~2.3e-7~2.3e-7~2.3e-7~2.3e-7~2.3e-7~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

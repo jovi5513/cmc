@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "SLM",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "5.9e-7",
+            "LASTUPDATE": "1510573574",
+            "LASTVOLUME": "297",
+            "LASTVOLUMETO": "0.00017523",
+            "LASTTRADEID": "1510573574001",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "5009.967856249999",
+            "VOLUME24HOURTO": "0.0029822110351875",
+            "OPENDAY": "5.9e-7",
+            "HIGHDAY": "5.9e-7",
+            "LOWDAY": "5.9e-7",
+            "OPEN24HOUR": "5.9e-7",
+            "HIGH24HOUR": "6e-7",
+            "LOW24HOUR": "5.9e-7",
+            "LASTMARKET": "Novaexchange"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "SLM",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00000698",
+                "LASTUPDATE": "1434625309",
+                "LASTVOLUME": "446.34097421",
+                "LASTVOLUMETO": "0.0031154599999858",
+                "LASTTRADEID": "1434625309006",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000698",
+                "HIGH24HOUR": "0.00000698",
+                "LOW24HOUR": "0.00000698"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Novaexchange",
+                "FROMSYMBOL": "SLM",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "5.9e-7",
+                "LASTUPDATE": "1510573574",
+                "LASTVOLUME": "297",
+                "LASTVOLUMETO": "0.00017523",
+                "LASTTRADEID": "1510573574001",
+                "VOLUME24HOUR": "5009.967856249999",
+                "VOLUME24HOURTO": "0.0029822110351875",
+                "OPEN24HOUR": "5.9e-7",
+                "HIGH24HOUR": "6e-7",
+                "LOW24HOUR": "5.9e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "BTER",
+                "FROMSYMBOL": "SLM",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.000009",
+                "LASTUPDATE": "1458995602",
+                "LASTVOLUME": "9111.111",
+                "LASTVOLUMETO": "0.081999999",
+                "LASTTRADEID": "12695376",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.000009",
+                "HIGH24HOUR": "0.000009",
+                "LOW24HOUR": "0.000009"
+            }
+        ]
+    },
+    "Type": 100
+}

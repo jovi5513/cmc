@@ -1,0 +1,76 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BitMark (BTM) - Live streaming prices and market cap",
+            "PageDescription": "Live BitMark prices from all markets and BTM coin market Capitalization. Stay up to date with the latest BitMark price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20084\/btm.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "298"
+        },
+        "General": {
+            "Id": "4403",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Bitmark (BTM)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BTM",
+            "Url": "\/coins\/btm\/",
+            "BaseAngularUrl": "\/coins\/btm\/",
+            "Name": "BitMark",
+            "ImageUrl": "\/media\/20084\/btm.png",
+            "Description": "<p>BitMark has a total coin supply of 27.58 million BTM - difficulty retargetting each 720 blocks and a block reward of 20 BTM.\u00a0<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "27580000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "21\/05\/2014",
+            "Twitter": "@ProjectBitmark",
+            "AffiliateUrl": "https:\/\/github.com\/project-bitmark\/",
+            "Website": "<a href='https:\/\/github.com\/project-bitmark\/' target='_blank'>BitMark<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1503370420,
+            "DifficultyAdjustment": "-",
+            "BlockRewardReduction": "50%",
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 1407000000,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~BitTrex~BTM~BTC",
+            "2~Novaexchange~BTM~LTC",
+            "2~BTER~BTM~BTC",
+            "2~Novaexchange~BTM~ETH",
+            "2~Cryptsy~BTM~BTC",
+            "2~Novaexchange~BTM~BTC",
+            "2~Cryptsy~BTM~XRP",
+            "2~BTER~BTM~CNY",
+            "2~Poloniex~BTM~BTC",
+            "2~Binance~BTM~ETH"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BTM~BTC~4~0.0002152~1515948146~16.18491034~0.00348315~731501~7418.596585669991~1.589837999999997~10865.791947719998~2.3296100400000004~0.0002129~0.0002225~0.0002129~0.0002147~0.0002225~0.0002128~Poloniex~7ffe9",
+            "5~CCCAGG~BTM~LTC~4~0.00400002~1500277555~20.20312398~0.0808128999824796~1500277555000~0~0~0~0~0.00119~0.00119~0.00119~0.00400002~0.00400002~0.00400002~Novaexchange~7ffe9",
+            "5~CCCAGG~BTM~ETH~4~0.00430999~1513760116~2519~10.85686481~87294~0~0~0~0~0.00431~0.00431~0.00430999~0.00430999~0.00430999~0.00430999~Binance~7ffe9",
+            "5~CCCAGG~BTM~XRP~4~2.09979066~1430188384~0.0883232~0.18546023~91627915~0~0~2.09979066~2.09979066~2.09979066~Cryptsy~78ce9",
+            "5~CCCAGG~BTM~CNY~4~1.144~1502644325~1748.25~1999.9979999999998~23498432~0~0~0~0~1.144~1.144~1.144~1.144~1.144~1.144~BTER~7ffe9"
+        ]
+    },
+    "Type": 100
+}

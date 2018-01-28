@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "EVX",
+            "CoinName": "Everex",
+            "Type": "Webpagecoinp",
+            "Points": 30487
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 185669,
+                    "Name": "InvestFeed",
+                    "FullName": "InvestFeed (IFT)",
+                    "ImageUrl": "\/media\/12318127\/ift.png",
+                    "Url": "\/coins\/ift\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 18907,
+                    "Name": "Digix DAO",
+                    "FullName": "Digix DAO (DGD)",
+                    "ImageUrl": "\/media\/350851\/dgd.png",
+                    "Url": "\/coins\/dgd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 171986,
+                    "Name": "Tether",
+                    "FullName": "Tether (USDT)",
+                    "ImageUrl": "\/media\/1383672\/usdt.png",
+                    "Url": "\/coins\/usdt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186309,
+                    "Name": "Tierion",
+                    "FullName": "Tierion (TNT)",
+                    "ImageUrl": "\/media\/1383800\/tnt.png",
+                    "Url": "\/coins\/tnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 177863,
+                    "Name": "Santiment",
+                    "FullName": "Santiment (SAN)",
+                    "ImageUrl": "\/media\/1383730\/san.png",
+                    "Url": "\/coins\/san\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4417,
+                    "Name": "CloakCoin",
+                    "FullName": "CloakCoin (CLOAK)",
+                    "ImageUrl": "\/media\/19994\/cloak.png",
+                    "Url": "\/coins\/cloak\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 213663,
+                    "Name": "FileCoin",
+                    "FullName": "FileCoin (FIL)",
+                    "ImageUrl": "\/media\/1383987\/fil.png",
+                    "Url": "\/coins\/fil\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25946,
+                    "Name": "Wings DAO",
+                    "FullName": "Wings DAO (WINGS)",
+                    "ImageUrl": "\/media\/1382758\/1wings.png",
+                    "Url": "\/coins\/wings\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 72438,
+                    "Name": "Humaniq",
+                    "FullName": "Humaniq (HMQ)",
+                    "ImageUrl": "\/media\/1383174\/hmq.png",
+                    "Url": "\/coins\/hmq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24926,
+                    "Name": "SingularDTV",
+                    "FullName": "SingularDTV (SNGLS)",
+                    "ImageUrl": "\/media\/351368\/sngls.png",
+                    "Url": "\/coins\/sngls\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 64874,
+                    "Name": "redcert",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/64874\/e2c0bd33-283c-4420-bbcc-5603ba065c99.jpg",
+                    "Url": "\/profile\/redcert\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 647693,
+                    "Name": "javierruzg",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/647693\/4aad789f-426d-4b0e-a1db-679d98c4bf7b.jpg",
+                    "Url": "\/profile\/javierruzg\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 671169,
+                    "Name": "andacpank",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/671169\/62e197b1-48bf-42e7-8c46-e0952f8c84ee.jpg",
+                    "Url": "\/profile\/andacpank\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 666700,
+                    "Name": "pmaher",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/666700\/2bc35726-2090-4785-b66d-501edee8ce41.jpg",
+                    "Url": "\/profile\/pmaher\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 663998,
+                    "Name": "krajangwit",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/663998\/a4b4016f-3cf9-4e4c-8a24-89c6b784e9aa.jpg",
+                    "Url": "\/profile\/krajangwit\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 660331,
+                    "Name": "ppjoolpp01",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/660331\/aaa94690-b6ed-41b1-86c5-163f9965b515.jpg",
+                    "Url": "\/profile\/ppjoolpp01\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 428231,
+                    "Name": "pyannis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/428231\/cba9c740-81ab-4cb0-9028-68af5593cc21.jpg",
+                    "Url": "\/profile\/pyannis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 645978,
+                    "Name": "robbyang.423",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/645978\/89a7077a-2485-414a-ae2d-05ce924bdbf6.jpg",
+                    "Url": "\/profile\/robbyang.423\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 644254,
+                    "Name": "llcokeza_cpe007",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/644254\/7504cf1e-e67b-45fd-ab49-3257e42b8c09.jpg",
+                    "Url": "\/profile\/llcokeza_cpe007\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 465863,
+                    "Name": "r-meenut",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/465863\/952335fe-67eb-4e82-9d6c-968225d5df07.jpg",
+                    "Url": "\/profile\/r-meenut\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 640198,
+                    "Name": "gapsaint",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/640198\/76e22b92-8211-45d7-ab17-b128d5dc5dd3.jpg",
+                    "Url": "\/profile\/gapsaint\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 12250,
+            "Posts": "76",
+            "Comments": "80",
+            "Followers": 382,
+            "PageViewsSplit": {
+                "Overview": 72009,
+                "Markets": 6991,
+                "Analysis": 2387,
+                "Charts": 9795,
+                "Trades": 4104,
+                "Orderbook": 58,
+                "Forum": 3832,
+                "Influence": 340
+            },
+            "PageViews": 99516
+        },
+        "Twitter": {
+            "favourites": "423",
+            "statuses": 406,
+            "following": "839",
+            "account_creation": "1460204233",
+            "followers": 10801,
+            "name": "Everex",
+            "link": "https:\/\/twitter.com\/everexio",
+            "lists": 196,
+            "Points": 11781
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "222",
+            "name": "Everex",
+            "likes": 6447,
+            "link": "https:\/\/www.facebook.com\/everex.io\/",
+            "Points": 6447
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

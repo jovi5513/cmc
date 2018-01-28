@@ -1,0 +1,76 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BreakoutCoin (BRK) - Live streaming prices and market cap",
+            "PageDescription": "Live BreakoutCoin prices from all markets and BRK coin market Capitalization. Stay up to date with the latest BreakoutCoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350981\/brk.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20892",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "BreakoutCoin (BRK)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BRK",
+            "Url": "\/coins\/brk\/",
+            "BaseAngularUrl": "\/coins\/brk\/",
+            "Name": "BreakoutCoin",
+            "ImageUrl": "\/media\/350981\/brk.png",
+            "Description": "<div class=\"4u 12u$(medium)\"><p>Breakout Chain is <span>Multicurrency Blockchain based platform<\/span>. <span>Breakout Chain allows the issuance of colored coins, pegged currencies and the deployment of smart contracts Break Chain&#39;s main currency is BreakCoin (BRK), which<\/span><span>\u00a0can also be used to gamble\u00a0<\/span><span>on the<\/span><span>\u00a0Breakout Gaming Platform.<\/span><\/p><\/div><div class=\"4u$ 12u$(medium)\"><\/div>",
+            "Features": "<p>Multicurrencies \u2013 multiple currencies carried on a single chain<\/p><p>Multicurrency Hybrid PoW\/PoS \u2013 a security mechanism where currency A is rewarded to secure a chain using Proof-of-Work, and currency B is rewarded to secure the same\u00a0chain using Proof-of-Stake (PoS, also described below)<\/p><p>Breakout Gravity Wave \u2013 a difficulty algorithm derived from Dark Gravity Wave that throttles block creation.<\/p><p>Delegated Fees \u2013 the ability to send currency A but pay for the transaction in currency B<\/p><p>Fee Scavenging \u2013 the ability for transaction fee collection to be deferred until a Proof-of-Work claims the fee<\/p><p>Nonmalleable Transactions \u2013 transactions protected against changes to their transaction IDs<\/p><p>Colored Coins \u2013 currencies with only one unit that is indivisible, a proof of concept for which has been incorporated into Breakout Chain in the form of a deck of cards<\/p><p><span>Currency Interrelationships<\/span><\/p><p>Exchange Friendliness<\/p>",
+            "Technology": "",
+            "TotalCoinSupply": "42000000",
+            "Algorithm": "SHA256",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "15\/10\/2015",
+            "Twitter": "@BreakoutGaming",
+            "AffiliateUrl": "http:\/\/breakoutenterprise.com\/",
+            "Website": "<a href='http:\/\/breakoutenterprise.com\/' target='_blank'>BreakoutCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1499356923,
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": 0,
+            "BlockTime": 30,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~BRK~KIC",
+            "2~BitTrex~BRK~BTC",
+            "2~Novaexchange~BRK~ETH",
+            "2~Novaexchange~BRK~MOON",
+            "2~Novaexchange~BRK~ESP2",
+            "2~Novaexchange~BRK~DOGE",
+            "2~Novaexchange~BRK~BTC",
+            "2~Novaexchange~BRK~LTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BRK~KIC~4~11.1138889~1502005398~0.0000291~0.00032341416698999996~1502005398000~0~0~0~0~11.1138889~11.1138889~11.1138889~11.1138889~11.1138889~11.1138889~Novaexchange~7ffe9",
+            "5~CCCAGG~BRK~BTC~2~0.0000725~1515950485~55.17241379~0.00399999~7022716~207191.48096790985~15.488576559999979~313126.65551877004~23.79495162~0.00008028~0.00008031~0.00007151~0.00007889~0.00008031~0.00007151~BitTrex~7ffe9",
+            "5~CCCAGG~BRK~ETH~4~0.00002015~1509522006~28.59598854~0.000576209169081~1509522006000~0~0~0~0~0.00002015~0.00002015~0.00002015~0.00002015~0.00002015~0.00002015~Novaexchange~7ffe9",
+            "5~CCCAGG~BRK~MOON~4~2801.01710501~1501992344~0.12797522~358.46078023741785~1501992344000~0~0~0~0~2801.01710501~2801.01710501~2801.01710501~2801.01710501~2801.01710501~2801.01710501~Novaexchange~7ffe9",
+            "5~CCCAGG~BRK~ESP2~4~370.86777589~1502033076~0.00219865~0.8154084354605485~1502033076000~0~0~0~0~370.86777589~370.86777589~370.86777589~370.86777589~370.86777589~370.86777589~Novaexchange~7ffe9",
+            "5~CCCAGG~BRK~DOGE~4~40.00000099~1510386181~0.01080771~0.4323084106996329~1510386181001~0~0~0~0~40~40.00000099~40~40.00000099~40.00000099~40.00000099~Novaexchange~7ffe9",
+            "5~CCCAGG~BRK~LTC~4~0.00192316~1502007786~0.15999959~0.0003077048115044~1502007786000~0~0~0~0~0.00192316~0.00192316~0.00192316~0.00192316~0.00192316~0.00192316~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

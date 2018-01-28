@@ -1,0 +1,161 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CAM",
+            "CoinName": "Camcoin",
+            "Type": "Webpagecoinp",
+            "Points": 170
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 42106,
+                    "Name": "TeCoin",
+                    "FullName": "TeCoin (TEC)",
+                    "ImageUrl": "\/media\/1382383\/tecoin.png",
+                    "Url": "\/coins\/tec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21359,
+                    "Name": "CludCoin",
+                    "FullName": "CludCoin (CLUD)",
+                    "ImageUrl": "\/media\/351027\/clud.png",
+                    "Url": "\/coins\/clud\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43247,
+                    "Name": "Babes and Nerds",
+                    "FullName": "Babes and Nerds (BAN)",
+                    "ImageUrl": "\/media\/1382466\/ban.png",
+                    "Url": "\/coins\/ban\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3744,
+                    "Name": "2015 coin",
+                    "FullName": "2015 coin (2015)",
+                    "ImageUrl": "\/media\/20180\/2015.png",
+                    "Url": "\/coins\/2015\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28151,
+                    "Name": "CovenCoin",
+                    "FullName": "CovenCoin (COV*)",
+                    "ImageUrl": "\/media\/351503\/cov.png",
+                    "Url": "\/coins\/covstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34847,
+                    "Name": "Old Dogs New Tricks",
+                    "FullName": "Old Dogs New Tricks (ODNT)",
+                    "ImageUrl": "\/media\/352186\/odnt.png",
+                    "Url": "\/coins\/odnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5034,
+                    "Name": "YAcCoin",
+                    "FullName": "YAcCoin (YAC)",
+                    "ImageUrl": "\/media\/19976\/yac.png",
+                    "Url": "\/coins\/yac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5334,
+                    "Name": "NakomotoDark",
+                    "FullName": "NakomotoDark (NKT)",
+                    "ImageUrl": "\/media\/20371\/nkt.png",
+                    "Url": "\/coins\/nkt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33873,
+                    "Name": "PlatiniumCoin",
+                    "FullName": "PlatiniumCoin (PNC)",
+                    "ImageUrl": "\/media\/352085\/pnc.png",
+                    "Url": "\/coins\/pnc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37190,
+                    "Name": "MIScoin",
+                    "FullName": "MIScoin (MIS)",
+                    "ImageUrl": "\/media\/1381981\/mis.png",
+                    "Url": "\/coins\/mis\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 552835,
+                    "Name": "rexvanewijk",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/552835\/84df970f-6586-4936-b589-0124da37b7cd.jpg",
+                    "Url": "\/profile\/rexvanewijk\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 171515,
+                    "Name": "mooncoin32767",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/171515\/393b007a-a93f-4ef0-ac20-c59d1be50542.jpg",
+                    "Url": "\/profile\/mooncoin32767\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 74395,
+                    "Name": "dayveed24",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/74395\/a9902f5d-4388-47be-b009-cbb040f5baf8.jpg",
+                    "Url": "\/profile\/dayveed24\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 288,
+                "Markets": 49,
+                "Analysis": 23,
+                "Charts": 19,
+                "Trades": 26,
+                "Orderbook": 0,
+                "Forum": 41,
+                "Influence": 8
+            },
+            "PageViews": 454
+        },
+        "Twitter": {
+            "followers": 60,
+            "following": "17",
+            "lists": 2,
+            "favourites": "2",
+            "statuses": 17,
+            "account_creation": "1404919933",
+            "name": "CamCoins",
+            "link": "https:\/\/twitter.com\/CamCoinShare",
+            "Points": 70
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

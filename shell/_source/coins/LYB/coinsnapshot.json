@@ -1,0 +1,66 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "LYB",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "8.2e-7",
+            "LASTUPDATE": "1471192352",
+            "LASTVOLUME": "140.00464625",
+            "LASTVOLUMETO": "0.00011480380992500001",
+            "LASTTRADEID": "1471192352146",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "8.2e-7",
+            "HIGHDAY": "8.2e-7",
+            "LOWDAY": "8.2e-7",
+            "OPEN24HOUR": "8.2e-7",
+            "HIGH24HOUR": "8.2e-7",
+            "LOW24HOUR": "8.2e-7",
+            "LASTMARKET": "CCEX"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "LYB",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00001598",
+                "LASTUPDATE": "1429708083",
+                "LASTVOLUME": "39.16720482",
+                "LASTVOLUMETO": "0.00062589",
+                "LASTTRADEID": "31709",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00001598",
+                "HIGH24HOUR": "0.00001598",
+                "LOW24HOUR": "0.00001598"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "LYB",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "8.2e-7",
+                "LASTUPDATE": "1471192352",
+                "LASTVOLUME": "140.00464625",
+                "LASTVOLUMETO": "0.00011480380992500001",
+                "LASTTRADEID": "1471192352146",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "8.2e-7",
+                "HIGH24HOUR": "8.2e-7",
+                "LOW24HOUR": "8.2e-7"
+            }
+        ]
+    },
+    "Type": 100
+}

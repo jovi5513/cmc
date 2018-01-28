@@ -1,0 +1,241 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MINT",
+            "CoinName": "MintCoin",
+            "Type": "Webpagecoinp",
+            "Points": 17349
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 242873,
+                    "Name": "Oxycoin",
+                    "FullName": "Oxycoin (OXY)",
+                    "ImageUrl": "\/media\/9350753\/oxy.png",
+                    "Url": "\/coins\/oxy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 372029,
+                    "Name": "AIX",
+                    "FullName": "AIX (AXT)",
+                    "ImageUrl": "\/media\/14913467\/axt.png",
+                    "Url": "\/coins\/axt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 374246,
+                    "Name": "Decision Token",
+                    "FullName": "Decision Token (HST)",
+                    "ImageUrl": "\/media\/14913538\/hst.png",
+                    "Url": "\/coins\/hst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5289,
+                    "Name": "StartCoin",
+                    "FullName": "StartCoin (START)",
+                    "ImageUrl": "\/media\/19916\/start.png",
+                    "Url": "\/coins\/start\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4579,
+                    "Name": "NovaCoin",
+                    "FullName": "NovaCoin (NVC)",
+                    "ImageUrl": "\/media\/20713\/nvc.png",
+                    "Url": "\/coins\/nvc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4523,
+                    "Name": "FastCoin",
+                    "FullName": "FastCoin (FST)",
+                    "ImageUrl": "\/media\/19720\/fst.png",
+                    "Url": "\/coins\/fst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4431,
+                    "Name": "Diamond",
+                    "FullName": "Diamond (DMD)",
+                    "ImageUrl": "\/media\/19680\/dmd.png",
+                    "Url": "\/coins\/dmd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 194567,
+                    "Name": "BlockCAT",
+                    "FullName": "BlockCAT (CAT)",
+                    "ImageUrl": "\/media\/1383848\/bcat1.png",
+                    "Url": "\/coins\/catstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 176669,
+                    "Name": "Nimiq Exchange Token",
+                    "FullName": "Nimiq Exchange Token (NET*)",
+                    "ImageUrl": "\/media\/1383697\/net1.png",
+                    "Url": "\/coins\/netstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 84262,
+                    "Name": "Infinium-8",
+                    "FullName": "Infinium-8 (INF8)",
+                    "ImageUrl": "\/media\/1383326\/inf8.png",
+                    "Url": "\/coins\/inf8\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 673682,
+                    "Name": "cryptocarlax",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673682\/3034b13c-72db-4eb7-9b61-02bf8770cd4d.jpg",
+                    "Url": "\/profile\/cryptocarlax\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 668388,
+                    "Name": "mike.bumble",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/668388\/95577fa2-b383-4628-a24a-be45af9848dd.jpg",
+                    "Url": "\/profile\/mike.bumble\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670333,
+                    "Name": "mrathb2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670333\/826720e8-b315-4df7-9c8a-7d45e35da360.jpg",
+                    "Url": "\/profile\/mrathb2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 669554,
+                    "Name": "onefreenegro",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/669554\/1f25d107-aa6b-442e-8ea5-c7ee904d0e4c.jpg",
+                    "Url": "\/profile\/onefreenegro\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 669040,
+                    "Name": "antoinegilard",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/669040\/2ba006c8-fcfe-46ea-b6db-508d0b3d1241.jpg",
+                    "Url": "\/profile\/antoinegilard\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 41176,
+                    "Name": "elleon80",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/41176\/ec7ca0ff-9df6-4179-9c0a-ab03a3b1ebae.jpg",
+                    "Url": "\/profile\/elleon80\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 73656,
+                    "Name": "orsetto18",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/73656\/6c9ae186-7d2e-4f3d-8a33-c744aad89d6e.jpg",
+                    "Url": "\/profile\/orsetto18\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 558488,
+                    "Name": "sadgora1994",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/558488\/aa991e9c-c3c1-4045-bfa1-bfa6bb592bdc.jpg",
+                    "Url": "\/profile\/sadgora1994\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 369554,
+                    "Name": "jabagazdeliani0",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/369554\/079a8e71-9101-4d8b-b240-47a9df457752.jpg",
+                    "Url": "\/profile\/jabagazdeliani0\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 422350,
+                    "Name": "midakev",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/422350\/130d88cd-9031-4fda-8d74-d1a87cb12851.jpg",
+                    "Url": "\/profile\/midakev\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 548996,
+                    "Name": "noor_rehman120",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/548996\/066d471a-b3df-4de0-b791-1b270f22e12b.jpg",
+                    "Url": "\/profile\/noor_rehman120\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 3715,
+            "Posts": "25",
+            "Comments": "19",
+            "Followers": 116,
+            "PageViewsSplit": {
+                "Overview": 10161,
+                "Markets": 874,
+                "Analysis": 322,
+                "Charts": 874,
+                "Trades": 609,
+                "Orderbook": 26,
+                "Forum": 918,
+                "Influence": 134
+            },
+            "PageViews": 13918
+        },
+        "Twitter": {
+            "favourites": "203",
+            "statuses": 1170,
+            "following": "1272",
+            "account_creation": "1391268260",
+            "followers": 12697,
+            "name": "Mintcoin",
+            "link": "https:\/\/twitter.com\/MintcoinTeam",
+            "lists": 157,
+            "Points": 13483
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1406860173",
+                    "open_total_issues": "7",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1504743246",
+                    "closed_total_issues": "24",
+                    "size": "6734",
+                    "stars": 22,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "4",
+                    "last_update": "1515767251",
+                    "forks": 25,
+                    "url": "https:\/\/github.com\/MintcoinCommunity\/Mintcoin-Desktop-Wallet",
+                    "closed_issues": "4",
+                    "language": "C++",
+                    "subscribers": 26,
+                    "open_issues": "3",
+                    "closed_pull_issues": "20"
+                }
+            ],
+            "Points": 150
+        }
+    }
+}

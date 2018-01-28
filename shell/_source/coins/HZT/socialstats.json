@@ -1,0 +1,184 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "HZT",
+            "CoinName": "HazMatCoin",
+            "Type": "Webpagecoinp",
+            "Points": 94
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 45609,
+                    "Name": "TrashBurn",
+                    "FullName": "TrashBurn (TBCX)",
+                    "ImageUrl": "\/media\/1382658\/tbcx.png",
+                    "Url": "\/coins\/tbcx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28770,
+                    "Name": "Save and Gain",
+                    "FullName": "Save and Gain (SANDG)",
+                    "ImageUrl": "\/media\/351556\/sandt.png",
+                    "Url": "\/coins\/sandg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4544,
+                    "Name": "JudgeCoin",
+                    "FullName": "JudgeCoin (JUDGE)",
+                    "ImageUrl": "\/media\/20038\/judge.png",
+                    "Url": "\/coins\/judge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5330,
+                    "Name": "AeroMe",
+                    "FullName": "AeroMe (AM)",
+                    "ImageUrl": "\/media\/20191\/am.png",
+                    "Url": "\/coins\/am\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 23435,
+                    "Name": "Specie",
+                    "FullName": "Specie (SPX)",
+                    "ImageUrl": "\/media\/351212\/spx.png",
+                    "Url": "\/coins\/spx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5380,
+                    "Name": "ROS Coin",
+                    "FullName": "ROS Coin (ROS)",
+                    "ImageUrl": "\/media\/19710\/frac.png",
+                    "Url": "\/coins\/ros\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 27681,
+                    "Name": "WayCoin",
+                    "FullName": "WayCoin (WAY)",
+                    "ImageUrl": "\/media\/351433\/way.png",
+                    "Url": "\/coins\/way\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30421,
+                    "Name": "Tennet",
+                    "FullName": "Tennet (TENNET)",
+                    "ImageUrl": "\/media\/351760\/tennet.png",
+                    "Url": "\/coins\/tennet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43046,
+                    "Name": "Ratio",
+                    "FullName": "Ratio (RATIO)",
+                    "ImageUrl": "\/media\/1382442\/ratio.png",
+                    "Url": "\/coins\/ratio\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 247259,
+                    "Name": "FrazCoin",
+                    "FullName": "FrazCoin (FRAZ)",
+                    "ImageUrl": "\/media\/9350764\/fraz.png",
+                    "Url": "\/coins\/fraz\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 239697,
+                    "Name": "malek_ghaemi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/239697\/c3b54d82-9018-4201-bb1f-054b14352bbb.jpg",
+                    "Url": "\/profile\/malek_ghaemi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 166851,
+                    "Name": "DBFC5376",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/166851\/71c7fe8b-5baa-4f7e-b6e0-08e83192c172.jpg",
+                    "Url": "\/profile\/DBFC5376\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 75,
+            "Followers": 3,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 291,
+                "Markets": 23,
+                "Analysis": 12,
+                "Charts": 15,
+                "Trades": 11,
+                "Orderbook": 0,
+                "Forum": 8,
+                "Influence": 3
+            },
+            "PageViews": 363
+        },
+        "Twitter": {
+            "statuses": 5,
+            "following": "6",
+            "followers": 11,
+            "name": "HazMatCoin",
+            "link": "https:\/\/twitter.com\/hazmatcoin_",
+            "lists": 1,
+            "favourites": "0",
+            "account_creation": "1428791112",
+            "Points": 16
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "forks": 0,
+                    "language": "C++",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "closed_pull_issues": "0",
+                    "open_total_issues": "0",
+                    "last_update": "1428698952",
+                    "last_push": "1428698951",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "1492",
+                    "stars": 0,
+                    "closed_issues": "0",
+                    "fork": "false",
+                    "created_at": "1428698919",
+                    "open_pull_issues": "0",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "url": "https:\/\/github.com\/HazMatCoin\/HazMatCoin",
+                    "closed_total_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "WINGS",
+            "CoinName": "Wings DAO",
+            "Type": "Webpagecoinp",
+            "Points": 51017
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 171986,
+                    "Name": "Tether",
+                    "FullName": "Tether (USDT)",
+                    "ImageUrl": "\/media\/1383672\/usdt.png",
+                    "Url": "\/coins\/usdt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 18907,
+                    "Name": "Digix DAO",
+                    "FullName": "Digix DAO (DGD)",
+                    "ImageUrl": "\/media\/350851\/dgd.png",
+                    "Url": "\/coins\/dgd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 177863,
+                    "Name": "Santiment",
+                    "FullName": "Santiment (SAN)",
+                    "ImageUrl": "\/media\/1383730\/san.png",
+                    "Url": "\/coins\/san\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 194883,
+                    "Name": "Everex",
+                    "FullName": "Everex (EVX)",
+                    "ImageUrl": "\/media\/1383850\/evx.png",
+                    "Url": "\/coins\/evx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 213663,
+                    "Name": "FileCoin",
+                    "FullName": "FileCoin (FIL)",
+                    "ImageUrl": "\/media\/1383987\/fil.png",
+                    "Url": "\/coins\/fil\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 72438,
+                    "Name": "Humaniq",
+                    "FullName": "Humaniq (HMQ)",
+                    "ImageUrl": "\/media\/1383174\/hmq.png",
+                    "Url": "\/coins\/hmq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4417,
+                    "Name": "CloakCoin",
+                    "FullName": "CloakCoin (CLOAK)",
+                    "ImageUrl": "\/media\/19994\/cloak.png",
+                    "Url": "\/coins\/cloak\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 184163,
+                    "Name": "LAToken",
+                    "FullName": "LAToken (LA)",
+                    "ImageUrl": "\/media\/1383782\/lato.png",
+                    "Url": "\/coins\/la\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24926,
+                    "Name": "SingularDTV",
+                    "FullName": "SingularDTV (SNGLS)",
+                    "ImageUrl": "\/media\/351368\/sngls.png",
+                    "Url": "\/coins\/sngls\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 423754,
+                    "Name": "BitDegree",
+                    "FullName": "BitDegree (BDG)",
+                    "ImageUrl": "\/media\/16746482\/bdg.png",
+                    "Url": "\/coins\/bdg\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 654072,
+                    "Name": "ugrs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/654072\/185422a1-99bb-43f7-a4b6-2d1d131ab226.jpg",
+                    "Url": "\/profile\/ugrs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 653145,
+                    "Name": "ilnar.fattakhov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/653145\/9384aab5-a678-4f4e-8307-7378313910f5.jpg",
+                    "Url": "\/profile\/ilnar.fattakhov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 548660,
+                    "Name": "cata4ro",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/548660\/53738c41-8800-4463-9eca-273a299d8b3f.jpg",
+                    "Url": "\/profile\/cata4ro\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 641994,
+                    "Name": "gr.vessiere",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/641994\/e80942e4-75a9-44d9-93b5-fa32c701bd77.jpg",
+                    "Url": "\/profile\/gr.vessiere\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 498084,
+                    "Name": "cblokvoort",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/498084\/8bdf0020-d91a-4ce7-912a-b23163b04767.jpg",
+                    "Url": "\/profile\/cblokvoort\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 624227,
+                    "Name": "traderunner",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/624227\/8eda7153-14aa-4531-912c-b3266eb291c7.jpg",
+                    "Url": "\/profile\/traderunner\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 481680,
+                    "Name": "pbrown581",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/481680\/f7b8fb1e-bc90-4d29-9df1-4d6c5c7fb373.jpg",
+                    "Url": "\/profile\/pbrown581\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 624055,
+                    "Name": "gil.v",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/624055\/d92d6a1f-459a-40cc-8654-a1d88c3be4cd.jpg",
+                    "Url": "\/profile\/gil.v\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 611229,
+                    "Name": "nash.pj",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/611229\/5e6d0937-8736-4376-90d7-1b6a82bc20a6.jpg",
+                    "Url": "\/profile\/nash.pj\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 314067,
+                    "Name": "4C5ABAF6",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/314067\/894bd224-2d33-4bd3-a713-a180b67e8854.jpg",
+                    "Url": "\/profile\/4C5ABAF6\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 615426,
+                    "Name": "jareddavis2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/615426\/1a03eb46-877b-4f20-bae8-152a0e75005f.jpg",
+                    "Url": "\/profile\/jareddavis2\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 9170,
+            "Followers": 333,
+            "Posts": "29",
+            "Comments": "12",
+            "PageViewsSplit": {
+                "Overview": 21006,
+                "Markets": 1050,
+                "Analysis": 687,
+                "Charts": 2984,
+                "Trades": 624,
+                "Orderbook": 23,
+                "Forum": 1126,
+                "Influence": 247
+            },
+            "PageViews": 27747
+        },
+        "Twitter": {
+            "following": "6929",
+            "account_creation": "1463397850",
+            "name": "WINGS Foundation",
+            "lists": 647,
+            "statuses": 15,
+            "favourites": "4119",
+            "followers": 34532,
+            "link": "https:\/\/twitter.com\/wingsplatform",
+            "Points": 37767
+        },
+        "Reddit": {
+            "posts_per_hour": "0.02",
+            "comments_per_hour": "0.07",
+            "posts_per_day": "0.48",
+            "comments_per_day": 1.65,
+            "name": "WingsDAO",
+            "link": "https:\/\/www.reddit.com\/r\/WingsDAO\/",
+            "active_users": 42,
+            "community_creation": "1463499150",
+            "subscribers": 1016,
+            "Points": 1145
+        },
+        "Facebook": {
+            "likes": 2893,
+            "link": "https:\/\/www.facebook.com\/WingsDAO\/",
+            "is_closed": "false",
+            "talking_about": "16",
+            "name": "Wings",
+            "Points": 2893
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1482343105",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "523",
+                    "closed_total_issues": "0",
+                    "stars": 10,
+                    "last_update": "1515330419",
+                    "forks": 3,
+                    "url": "https:\/\/github.com\/WingsDao\/contracts",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1502216098",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "JavaScript",
+                    "subscribers": 8,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 40
+        }
+    }
+}

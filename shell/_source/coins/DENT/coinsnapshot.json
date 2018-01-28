@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 0,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 100000000000,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "DENT",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.0000026",
+            "LASTUPDATE": "1516093478",
+            "LASTVOLUME": "5959.8807",
+            "LASTVOLUMETO": "0.01549568982",
+            "LASTTRADEID": "1516093478000",
+            "VOLUMEDAY": "24900886.791799985",
+            "VOLUMEDAYTO": "76.33978675614199",
+            "VOLUME24HOUR": "44215857.8957",
+            "VOLUME24HOURTO": "148.224997612434",
+            "OPENDAY": "0.00000364",
+            "HIGHDAY": "0.00000369",
+            "LOWDAY": "0.00000246",
+            "OPEN24HOUR": "0.00000388",
+            "HIGH24HOUR": "0.00000396",
+            "LOW24HOUR": "0.00000246",
+            "LASTMARKET": "Kucoin"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Kucoin",
+                "FROMSYMBOL": "DENT",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.0000026",
+                "LASTUPDATE": "1516093478",
+                "LASTVOLUME": "5959.8807",
+                "LASTVOLUMETO": "0.01549568982",
+                "LASTTRADEID": "1516093478000",
+                "VOLUME24HOUR": "44215857.8957",
+                "VOLUME24HOURTO": "148.224997612434",
+                "OPEN24HOUR": "0.00000388",
+                "HIGH24HOUR": "0.00000396",
+                "LOW24HOUR": "0.00000246"
+            }
+        ]
+    },
+    "Type": 100
+}

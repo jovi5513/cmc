@@ -1,0 +1,167 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GUNS",
+            "CoinName": "GeoFunders",
+            "Type": "Webpagecoinp",
+            "Points": 375
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4423,
+                    "Name": "CoolCoin",
+                    "FullName": "CoolCoin (COOL)",
+                    "ImageUrl": "\/media\/19658\/cool.png",
+                    "Url": "\/coins\/cool\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3650,
+                    "Name": "NXTI",
+                    "FullName": "NXTI (NXTI)",
+                    "ImageUrl": "\/media\/20376\/nxti.png",
+                    "Url": "\/coins\/nxti\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5323,
+                    "Name": "GridPay",
+                    "FullName": "GridPay (GRID*)",
+                    "ImageUrl": "\/media\/20313\/grid.png",
+                    "Url": "\/coins\/gridstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4450,
+                    "Name": "FractalCoin",
+                    "FullName": "FractalCoin (FRAC)",
+                    "ImageUrl": "\/media\/19710\/frac.png",
+                    "Url": "\/coins\/frac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6088,
+                    "Name": "Viral Coin",
+                    "FullName": "Viral Coin (VIRAL)",
+                    "ImageUrl": "\/media\/20472\/viral.png",
+                    "Url": "\/coins\/viral\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21710,
+                    "Name": "Nukecoinz",
+                    "FullName": "Nukecoinz (NKC)",
+                    "ImageUrl": "\/media\/351041\/nkc.png",
+                    "Url": "\/coins\/nkc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42440,
+                    "Name": "WealthCoin",
+                    "FullName": "WealthCoin (WEALTH)",
+                    "ImageUrl": "\/media\/1382392\/wealth.png",
+                    "Url": "\/coins\/wealth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4443,
+                    "Name": "ExeCoin",
+                    "FullName": "ExeCoin (EXE)",
+                    "ImageUrl": "\/media\/19700\/exe.png",
+                    "Url": "\/coins\/exe\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21007,
+                    "Name": "Aiden",
+                    "FullName": "Aiden (ADN)",
+                    "ImageUrl": "\/media\/350993\/adn.png",
+                    "Url": "\/coins\/adn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5346,
+                    "Name": "Pebble Coin",
+                    "FullName": "Pebble Coin (XPB)",
+                    "ImageUrl": "\/media\/20158\/xpb.png",
+                    "Url": "\/coins\/xpb\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 539451,
+                    "Name": "danngoff",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/539451\/374931de-9a4c-47e9-8873-b5851a216167.jpg",
+                    "Url": "\/profile\/danngoff\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 225160,
+                    "Name": "suslov-1974",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/225160\/cf379db9-7218-460c-9151-dc34cfac22b4.jpg",
+                    "Url": "\/profile\/suslov-1974\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 246782,
+                    "Name": "cepera.f1rst",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/246782\/9eee4650-ccde-4601-a92d-386d4c3f8371.jpg",
+                    "Url": "\/profile\/cepera.f1rst\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 206768,
+                    "Name": "icetimerq",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/206768\/8470a8dc-18ab-4cba-8ff0-8d510e4fb202.jpg",
+                    "Url": "\/profile\/icetimerq\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Posts": "1",
+            "Points": 125,
+            "PageViewsSplit": {
+                "Overview": 759,
+                "Markets": 88,
+                "Analysis": 88,
+                "Charts": 27,
+                "Trades": 22,
+                "Orderbook": 0,
+                "Forum": 9,
+                "Influence": 10
+            },
+            "PageViews": 1003
+        },
+        "Twitter": {
+            "lists": 9,
+            "favourites": "1",
+            "statuses": 20,
+            "following": "5",
+            "account_creation": "1464555397",
+            "name": "GeoFounders",
+            "followers": 113,
+            "link": "https:\/\/twitter.com\/geofounders",
+            "Points": 158
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "GeoFounders",
+            "likes": 92,
+            "link": "https:\/\/www.facebook.com\/geofounders\/",
+            "talking_about": "1",
+            "is_closed": "false",
+            "Points": 92
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

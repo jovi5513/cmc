@@ -1,0 +1,168 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MDC",
+            "CoinName": "MedicCoin",
+            "Type": "Webpagecoinp",
+            "Points": 53
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 30121,
+                    "Name": "CrankCoin",
+                    "FullName": "CrankCoin (CRNK)",
+                    "ImageUrl": "\/media\/351731\/crnk.png",
+                    "Url": "\/coins\/crnk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28087,
+                    "Name": "TotCoin",
+                    "FullName": "TotCoin (TOT)",
+                    "ImageUrl": "\/media\/351497\/tot.png",
+                    "Url": "\/coins\/tot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28665,
+                    "Name": "ERBCoin",
+                    "FullName": "ERBCoin (ERB)",
+                    "ImageUrl": "\/media\/351550\/erb.png",
+                    "Url": "\/coins\/erb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44752,
+                    "Name": "TrueInvestmentCoin",
+                    "FullName": "TrueInvestmentCoin (TIC)",
+                    "ImageUrl": "\/media\/1382625\/tic.png",
+                    "Url": "\/coins\/tic\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188677,
+                    "Name": "Bogcoin",
+                    "FullName": "Bogcoin (BOG)",
+                    "ImageUrl": "\/media\/1383826\/bog.png",
+                    "Url": "\/coins\/bog\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7590,
+                    "Name": "PharmaCoin",
+                    "FullName": "PharmaCoin (XPH)",
+                    "ImageUrl": "\/media\/20641\/xph.png",
+                    "Url": "\/coins\/xph\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5022,
+                    "Name": "SocialXbotCoin",
+                    "FullName": "SocialXbotCoin (XBOT)",
+                    "ImageUrl": "\/media\/20073\/xbot.png",
+                    "Url": "\/coins\/xbot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35407,
+                    "Name": "BAM",
+                    "FullName": "BAM (BamitCoin)",
+                    "ImageUrl": "\/media\/352236\/bam.png",
+                    "Url": "\/coins\/bam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25594,
+                    "Name": "Uniqredit",
+                    "FullName": "Uniqredit (UNIQ)",
+                    "ImageUrl": "\/media\/351387\/uniq.png",
+                    "Url": "\/coins\/uniq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 667050,
+                    "Name": "MediShares",
+                    "FullName": "MediShares (MDS)",
+                    "ImageUrl": "\/media\/20780773\/ipnvhhke_400x400.jpg",
+                    "Url": "\/coins\/mds\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 216123,
+                    "Name": "tanvirk140",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/216123\/7dd601d1-bf83-4a63-bfbe-81288025aa2f.jpg",
+                    "Url": "\/profile\/tanvirk140\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 29151,
+                    "Name": "msangaret",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/29151\/a3ee7bb2-ffe0-4056-8944-7022264e3a75.jpg",
+                    "Url": "\/profile\/msangaret\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Points": 50,
+            "PageViewsSplit": {
+                "Overview": 261,
+                "Markets": 15,
+                "Analysis": 14,
+                "Charts": 31,
+                "Trades": 29,
+                "Orderbook": 0,
+                "Forum": 17,
+                "Influence": 6
+            },
+            "PageViews": 373
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "2528",
+                    "url": "https:\/\/github.com\/mediccoincrypto\/MDC-V2",
+                    "last_update": "1428989172",
+                    "last_push": "1428989171",
+                    "created_at": "1423479753",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": "Scrypt",
+        "ProofType": "PoW",
+        "BlockNumber": 820916,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 19326319.14375,
+        "BlockReward": 0.34375,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "LKY",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "5e-7",
+            "LASTUPDATE": "1452826487",
+            "LASTVOLUME": "2.37980297",
+            "LASTVOLUMETO": "0.00000119",
+            "LASTTRADEID": "110946644",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPEN24HOUR": "5e-7",
+            "HIGH24HOUR": "5e-7",
+            "LOW24HOUR": "5e-7",
+            "LASTMARKET": "Cryptsy"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "LKY",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "5e-7",
+                "LASTUPDATE": "1452826487",
+                "LASTVOLUME": "2.37980297",
+                "LASTVOLUMETO": "0.00000119",
+                "LASTTRADEID": "110946644",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "5e-7",
+                "HIGH24HOUR": "5e-7",
+                "LOW24HOUR": "5e-7"
+            }
+        ]
+    },
+    "Type": 100
+}

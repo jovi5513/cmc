@@ -1,0 +1,76 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Bitstake (XBS) - Live streaming prices and market cap",
+            "PageDescription": "Live Bitstake prices from all markets and XBS coin market Capitalization. Stay up to date with the latest Bitstake price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351060\/xbs_1.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "5023",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "BitStake (XBS)",
+            "DangerTop": "",
+            "WarningTop": "\"There will be no future upgrade and support for XBS from bitstake team. XBS is an open source software and anyone is welcome to continue it&#39;s development.\"",
+            "InfoTop": "",
+            "Symbol": "XBS",
+            "Url": "\/coins\/xbs\/",
+            "BaseAngularUrl": "\/coins\/xbs\/",
+            "Name": "Bitstake",
+            "ImageUrl": "\/media\/351060\/xbs_1.png",
+            "Description": "<p>To create the infrastructure necessary to implement an inclusive digital economy that encourage affordable digital transactions and services.\u00a0Bitstake\u2019s vision is to make digital currencies more accessible to people unreached by traditional banking as well as drive down the costs of money transfers. Bitstake is a hybrid proof of work and proof of stake with a 5% annualised interest rate.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "1300000",
+            "Algorithm": "X11",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "11\/01\/2015",
+            "Twitter": "@Bitstake",
+            "AffiliateUrl": "https:\/\/bitstake.info\/",
+            "Website": "<a href='https:\/\/bitstake.info\/' target='_blank'>Bitstake<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1504106033,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "-",
+            "BlockNumber": -1,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~XBS~WAVES",
+            "2~Yobit~XBS~DOGE",
+            "2~CCEX~XBS~BTC",
+            "2~Cryptsy~XBS~BTC",
+            "2~Yobit~XBS~BTC",
+            "2~Yobit~XBS~USD",
+            "2~Yobit~XBS~ETH",
+            "2~BitTrex~XBS~BTC",
+            "2~Yobit~XBS~RUR"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~XBS~WAVES~4~1.2612993~1515682590~0.00831362~0.010485963086466~184232750~0~0~0~0~1.26~1.2612993~1.26~1.2612993~1.2612993~1.2612993~Yobit~7ffe9",
+            "5~CCCAGG~XBS~DOGE~4~1224.499~1515683199~0.00831362~10.18001937638~184238231~0~0~0~0~1224.5~1224.5~1224.499~1224.499~1224.499~1224.499~Yobit~7ffe9",
+            "5~CCCAGG~XBS~BTC~1~0.0004668~1515940899~1.31004941~0.0006115572655762~200000021~1.31004941~0.0006115572655762~20.10225865~0.0108239984063663~0.000466~0.0004668~0.000466~0.000466~0.000965~0.000466~Yobit~7ffe9",
+            "5~CCCAGG~XBS~USD~4~5~1515867576~0.54270774~2.7135387~200000001~0~0~0.54270774~2.7135387~5~5~5~5~5~5~Yobit~7ffe9",
+            "5~CCCAGG~XBS~ETH~4~0.119~1515688091~0.45871147~0.05458666493~184282688~0~0~0~0~0.119~0.119~0.119~0.119~0.119~0.119~Yobit~7ffe9",
+            "5~CCCAGG~XBS~RUR~4~250~1515878500~0.18546691~46.3667275~200000030~0~0~0.24546691~76.3667275~250~250~250~250~500~250~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

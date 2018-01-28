@@ -1,0 +1,184 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CRDS",
+            "CoinName": "Credits",
+            "Type": "Webpagecoinp",
+            "Points": 725
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 30536,
+                    "Name": "ScryptToken",
+                    "FullName": "ScryptToken (SCT)",
+                    "ImageUrl": "\/media\/351791\/sct.png",
+                    "Url": "\/coins\/sct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4526,
+                    "Name": "GrandCoin",
+                    "FullName": "GrandCoin (GDC)",
+                    "ImageUrl": "\/media\/20054\/gdc.png",
+                    "Url": "\/coins\/gdc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35684,
+                    "Name": "Blackstar",
+                    "FullName": "Blackstar (BSTAR)",
+                    "ImageUrl": "\/media\/352250\/bstar.png",
+                    "Url": "\/coins\/bstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30388,
+                    "Name": "BigLifeCoin",
+                    "FullName": "BigLifeCoin (LFC)",
+                    "ImageUrl": "\/media\/351757\/lfc.png",
+                    "Url": "\/coins\/lfc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7627,
+                    "Name": "DubCoin",
+                    "FullName": "DubCoin (DUB)",
+                    "ImageUrl": "\/media\/19986\/a3c.png",
+                    "Url": "\/coins\/dub\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44001,
+                    "Name": "Neurocoin",
+                    "FullName": "Neurocoin (NRC)",
+                    "ImageUrl": "\/media\/1382604\/nrc.png",
+                    "Url": "\/coins\/nrc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7483,
+                    "Name": "DarkTron",
+                    "FullName": "DarkTron (DRKT)",
+                    "ImageUrl": "\/media\/20604\/drkt.png",
+                    "Url": "\/coins\/drkt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 39698,
+                    "Name": "PentaCoin",
+                    "FullName": "PentaCoin (PTA)",
+                    "ImageUrl": "\/media\/1382236\/pta.png",
+                    "Url": "\/coins\/pta\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21224,
+                    "Name": "KATZcoin",
+                    "FullName": "KATZcoin (KAT)",
+                    "ImageUrl": "\/media\/351028\/katz.png",
+                    "Url": "\/coins\/kat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5409,
+                    "Name": "VirtualMining Coin",
+                    "FullName": "VirtualMining Coin (VMC)",
+                    "ImageUrl": "\/media\/19943\/vmc.png",
+                    "Url": "\/coins\/vmc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 232935,
+                    "Name": "almaztrade",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/232935\/ce14c1d3-93d3-45af-863d-da45d210445f.jpg",
+                    "Url": "\/profile\/almaztrade\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 482457,
+                    "Name": "kklaus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/482457\/8f49c649-d517-46ec-8af8-7ae2b39be7c7.jpg",
+                    "Url": "\/profile\/kklaus\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 456808,
+                    "Name": "Bruzcoin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/456808\/22b32ac6-c209-49c3-afa4-149a6b2280e0.jpg",
+                    "Url": "\/profile\/Bruzcoin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 125,
+            "Posts": "2",
+            "Followers": 3,
+            "PageViewsSplit": {
+                "Overview": 422,
+                "Markets": 8,
+                "Analysis": 15,
+                "Charts": 4,
+                "Trades": 3,
+                "Orderbook": 0,
+                "Forum": 26,
+                "Influence": 15
+            },
+            "PageViews": 493
+        },
+        "Twitter": {
+            "statuses": 66,
+            "favourites": "20",
+            "following": "194",
+            "account_creation": "1496331901",
+            "followers": 538,
+            "name": "Credits(CRDS)",
+            "link": "https:\/\/twitter.com\/credits_crds",
+            "lists": 8,
+            "Points": 578
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1499765540",
+                    "open_total_issues": "0",
+                    "fork": "true",
+                    "parent": {
+                        "Name": "Credits",
+                        "Url": "https:\/\/github.com\/Credits-CRDS\/Credits",
+                        "InternalId": -1
+                    },
+                    "last_push": "1513850273",
+                    "closed_total_issues": "2",
+                    "size": "73277",
+                    "stars": 5,
+                    "source": {
+                        "Name": "Credits",
+                        "Url": "https:\/\/github.com\/Credits-CRDS\/Credits",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "last_update": "1515562712",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/CRDS\/Credits",
+                    "closed_issues": "0",
+                    "language": "C++",
+                    "subscribers": 5,
+                    "open_issues": "0",
+                    "closed_pull_issues": "2"
+                }
+            ],
+            "Points": 22
+        }
+    }
+}

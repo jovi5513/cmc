@@ -1,0 +1,168 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CELL",
+            "CoinName": "SolarFarm",
+            "Type": "Webpagecoinp",
+            "Points": 1273
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5033,
+                    "Name": "XXXCoin",
+                    "FullName": "XXXCoin (XXX)",
+                    "ImageUrl": "\/media\/350617\/xxx.png",
+                    "Url": "\/coins\/xxx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4603,
+                    "Name": "ShieldCoin",
+                    "FullName": "ShieldCoin (SHLD)",
+                    "ImageUrl": "\/media\/19904\/shld.png",
+                    "Url": "\/coins\/shld\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34487,
+                    "Name": "DeltaCredits",
+                    "FullName": "DeltaCredits (DCRE)",
+                    "ImageUrl": "\/media\/352128\/dcre.png",
+                    "Url": "\/coins\/dcre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 625458,
+                    "Name": "Footy Cash",
+                    "FullName": "Footy Cash (XFT)",
+                    "ImageUrl": "\/media\/20780662\/xft.png",
+                    "Url": "\/coins\/xft\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5365,
+                    "Name": "OmniCron",
+                    "FullName": "OmniCron (OMC)",
+                    "ImageUrl": "\/media\/1381967\/omc.png",
+                    "Url": "\/coins\/omc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22212,
+                    "Name": "VIP Tokens",
+                    "FullName": "VIP Tokens (VIP)",
+                    "ImageUrl": "\/media\/351069\/vip.png",
+                    "Url": "\/coins\/vip\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35027,
+                    "Name": "SeedShares",
+                    "FullName": "SeedShares (SEEDS)",
+                    "ImageUrl": "\/media\/352190\/seeds.png",
+                    "Url": "\/coins\/seeds\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 237385,
+                    "Name": "Sojourn Coin",
+                    "FullName": "Sojourn Coin (SOJ)",
+                    "ImageUrl": "\/media\/9350725\/soj.png",
+                    "Url": "\/coins\/soj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 78190,
+                    "Name": "RiceCoin",
+                    "FullName": "RiceCoin (RICE)",
+                    "ImageUrl": "\/media\/1383245\/rice.png",
+                    "Url": "\/coins\/rice\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20600,
+                    "Name": "GrownCoin",
+                    "FullName": "GrownCoin (GROW)",
+                    "ImageUrl": "\/media\/350934\/grow.png",
+                    "Url": "\/coins\/grow\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 536178,
+                    "Name": "raul2955",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/536178\/40d2153a-c6b0-444a-a7fd-4bc5a53cf55a.jpg",
+                    "Url": "\/profile\/raul2955\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 504376,
+                    "Name": "scrutchmo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/504376\/2b5d1b08-ef8a-4984-a14b-57939251cdef.jpg",
+                    "Url": "\/profile\/scrutchmo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 492727,
+                    "Name": "eric.vince.ltd",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/492727\/2af753bb-98e9-42c7-a78e-7f176916be9f.jpg",
+                    "Url": "\/profile\/eric.vince.ltd\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 50922,
+                    "Name": "cryptokid101",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/50922\/37d2b957-09b7-4922-b71e-02bb1566da61.jpg",
+                    "Url": "\/profile\/cryptokid101\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 45251,
+                    "Name": "candaleaurel",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/45251\/28baf0ee-ce3b-447a-94cc-f16f7d0ced19.jpg",
+                    "Url": "\/profile\/candaleaurel\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "PageViewsSplit": {
+                "Overview": 378,
+                "Markets": 11,
+                "Analysis": 59,
+                "Charts": 25,
+                "Trades": 38,
+                "Orderbook": 0,
+                "Forum": 29,
+                "Influence": 6
+            },
+            "PageViews": 546
+        },
+        "Twitter": {
+            "followers": 1063,
+            "following": "227",
+            "lists": 17,
+            "favourites": "30",
+            "statuses": 58,
+            "account_creation": "1423625309",
+            "name": "cryptomining farm",
+            "link": "https:\/\/twitter.com\/miningfarm",
+            "Points": 1148
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "HappyCoin (HPC) - Live streaming prices and market cap",
+            "PageDescription": "Live HappyCoin prices from all markets and HPC coin market Capitalization. Stay up to date with the latest HappyCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1383046\/hpc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "62659",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "HappyCoin (HPC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "HPC",
+            "Url": "\/coins\/hpc\/",
+            "BaseAngularUrl": "\/coins\/hpc\/",
+            "Name": "HappyCoin",
+            "ImageUrl": "\/media\/1383046\/hpc.png",
+            "Description": "<p>HappyCoin is a PoW\/PoS hybrid based on the X11 algorithm.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "100000000",
+            "Algorithm": "X11",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "07\/04\/2017",
+            "Twitter": "@happycoin5",
+            "AffiliateUrl": "http:\/\/happycoin.blog\/",
+            "Website": "<a href='http:\/\/happycoin.blog\/' target='_blank'>HappyCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515978456,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 83444,
+            "BlockTime": 180,
+            "NetHashesPerSecond": 1905130652962,
+            "TotalCoinsMined": 13370683.439672,
+            "PreviousTotalCoinsMined": 13370482.33022,
+            "BlockReward": 0.74986300524324
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~HPC~KIC",
+            "2~Yobit~HPC~USD",
+            "2~Yobit~HPC~BTC",
+            "2~Yobit~HPC~RUR",
+            "2~Novaexchange~HPC~MOON",
+            "2~Novaexchange~HPC~ETH",
+            "2~Novaexchange~HPC~ESP2",
+            "2~Yobit~HPC~WAVES",
+            "2~HitBTC~HPC~BTC",
+            "2~Novaexchange~HPC~BTC",
+            "2~Yobit~HPC~DOGE",
+            "2~Novaexchange~HPC~LTC",
+            "2~Novaexchange~HPC~DOGE",
+            "2~Yobit~HPC~ETH"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~HPC~KIC~4~1000000~1505784807~5e-7~0.5~1505784807000~0~0~0~0~1000000~1000000~1000000~1000000~1000000~1000000~Novaexchange~7ffe9",
+            "5~CCCAGG~HPC~USD~4~0.2~1515963811~90.07037739~18.01406376885094~200000019~0~0~408.34755033~80.9623170292809~0.2~0.2~0.2~0.1999~0.2~0.1~Yobit~7ffe9",
+            "5~CCCAGG~HPC~BTC~1~0.00001139~1515977560~50~0.00065~152388008~31061~0.34513934000000007~87477.19743505~0.90839842069021~0.00000869~0.00001295~0.00000869~0.00000975~0.00001139~0.00000975~HitBTC~7ffe9",
+            "5~CCCAGG~HPC~RUR~4~9~1515964754~394.44444445~3550.00000005~200000031~0~0~2629.33489061~24029.06390460206~9~9~9~8.9~15~8.85~Yobit~7ffe9",
+            "5~CCCAGG~HPC~MOON~4~7~1499916899~2.27893358~15.952535059999999~1499916899000~0~0~0~0~7~7~7~7~7~7~Novaexchange~7ffe9",
+            "5~CCCAGG~HPC~ETH~4~0.00019874~1515752652~12.85749422~0.0025552984012828~200000000~0~0~0~0~0.00019874~0.00019874~0.00019874~0.00019874~0.00019874~0.00019874~Yobit~7ffe9",
+            "5~CCCAGG~HPC~ESP2~4~1000000~1499248355~0.000007~7~1499248355001~0~0~0~0~1000000~1000000~1000000~1000000~1000000~1000000~Novaexchange~7ffe9",
+            "5~CCCAGG~HPC~WAVES~4~0.01649995~1515523872~4.96221685~0.0818763299141575~183056396~0~0~0~0~0.0165~0.0165~0.01649995~0.01649995~0.01649995~0.01649995~Yobit~7ffe9",
+            "5~CCCAGG~HPC~DOGE~2~6~1515939783~45~270.00000719999997~200000009~0~0~333.41801756~6038.360401662702~6~6~6~20~20~6~Yobit~7ffe9",
+            "5~CCCAGG~HPC~LTC~4~5.1e-7~1497796776~244.50724737~0.00012469869615869999~1497796776000~0~0~0~0~5.1e-7~5.1e-7~5.1e-7~5.1e-7~5.1e-7~5.1e-7~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

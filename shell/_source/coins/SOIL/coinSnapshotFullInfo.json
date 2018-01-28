@@ -1,0 +1,68 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "SaluS (SOIL) - Live streaming prices and market cap",
+            "PageDescription": "Live SoilCoin prices from all markets and SOIL coin market Capitalization. Stay up to date with the latest SoilCoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350949\/soil.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20685",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "SoilCoin (SOIL)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "SOIL",
+            "Url": "\/coins\/soil\/",
+            "BaseAngularUrl": "\/coins\/soil\/",
+            "Name": "SoilCoin",
+            "ImageUrl": "\/media\/350949\/soil.png",
+            "Description": "<p><span>SOILcoin uses Dagger algorithm to allow the creation of Smart Contracts and Dapps while still allowing Developers to create this features for a lower cost, when buying and transfering SOIL,\u00a0than other cryptocurrencies that use similar technology (like Ethereum). SoilCoin allows any cryptocurrency protocol to be ran on the SOIL blockchain as a deployed smart contract hosting its own token.<\/span><\/p>",
+            "Features": "<p>SoilCoin has been integrated into the ROKOS OS for\u00a0Raspberry Pis<\/p>",
+            "Technology": "<p><span>SOIL uses DAGGER algorithm. Dagger was creted by Vitalik Buterin and it&#39;s a GPU-Friendly, Memory intensive, ASIC-proof consensus algorithm.<\/span><\/p>",
+            "TotalCoinSupply": "30000000",
+            "Algorithm": "Dagger",
+            "ProofType": "PoW",
+            "StartDate": "10\/09\/2015",
+            "Twitter": "@SOILcoin",
+            "AffiliateUrl": "http:\/\/soilcoin.xyz\/",
+            "Website": "<a href='http:\/\/soilcoin.xyz\/' target='_blank'>SoilCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926504,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 15,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 5702048,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~BitTrex~SOIL~BTC",
+            "2~Cryptopia~SOIL~DOGE",
+            "2~Cryptopia~SOIL~LTC",
+            "2~Cryptopia~SOIL~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~SOIL~BTC~4~0.00000714~1515947799~111.82117558~0.0007984~1515947799~7595.8494339399995~0.05329223999999999~11582.45721981~0.08028228999999999~0.0000065~0.00000725~0.00000649~0.00000647~0.00000725~0.00000647~Cryptopia~7ffe9",
+            "5~CCCAGG~SOIL~DOGE~4~6.99999999~1515187556~156.75000021~1097.2499999~1515187556~0~0~0~0~7~7~6.99999999~6.99999999~6.99999999~6.99999999~Cryptopia~7ffe9",
+            "5~CCCAGG~SOIL~LTC~4~0.0002969~1515188220~110.7600089~0.03288465~1515188220.001~0~0~0~0~0.0002969~0.0002969~0.0002969~0.0002969~0.0002969~0.0002969~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

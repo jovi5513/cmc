@@ -1,0 +1,192 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NETC",
+            "CoinName": "NetworkCoin",
+            "Type": "Webpagecoinp",
+            "Points": 812
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 21384,
+                    "Name": "DigiEuro",
+                    "FullName": "DigiEuro (DEUR)",
+                    "ImageUrl": "\/media\/351018\/deur.png",
+                    "Url": "\/coins\/deur\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33871,
+                    "Name": "ArtexCoin",
+                    "FullName": "ArtexCoin (ATX)",
+                    "ImageUrl": "\/media\/352084\/atx.png",
+                    "Url": "\/coins\/atx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22330,
+                    "Name": "Destiny",
+                    "FullName": "Destiny (DES)",
+                    "ImageUrl": "\/media\/351087\/des.png",
+                    "Url": "\/coins\/des\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41122,
+                    "Name": "OsmiumCoin",
+                    "FullName": "OsmiumCoin (OS76)",
+                    "ImageUrl": "\/media\/1382288\/os76.png",
+                    "Url": "\/coins\/os76\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45044,
+                    "Name": "NinjaDoge",
+                    "FullName": "NinjaDoge (NDOGE)",
+                    "ImageUrl": "\/media\/1382650\/ndoge.png",
+                    "Url": "\/coins\/ndoge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 27993,
+                    "Name": "MollyCoin",
+                    "FullName": "MollyCoin (TAB)",
+                    "ImageUrl": "\/media\/351488\/tab.png",
+                    "Url": "\/coins\/tab\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 39707,
+                    "Name": "RadicalCoin",
+                    "FullName": "RadicalCoin (RADI)",
+                    "ImageUrl": "\/media\/1382239\/rad.png",
+                    "Url": "\/coins\/radi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38962,
+                    "Name": "GiftNet",
+                    "FullName": "GiftNet (GIFT)",
+                    "ImageUrl": "\/media\/1382171\/gift.png",
+                    "Url": "\/coins\/gift\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28767,
+                    "Name": "FaucetCoin",
+                    "FullName": "FaucetCoin (DROP)",
+                    "ImageUrl": "\/media\/351555\/drop.png",
+                    "Url": "\/coins\/drop\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 221349,
+                    "Name": "Macroverse",
+                    "FullName": "Macroverse (MRV)",
+                    "ImageUrl": "\/media\/1384009\/mrv.png",
+                    "Url": "\/coins\/mrv\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 43840,
+                    "Name": "anatoliy2020074",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/43840\/2c162e60-353b-46c1-821e-57f9490b4989.jpg",
+                    "Url": "\/profile\/anatoliy2020074\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 552835,
+                    "Name": "rexvanewijk",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/552835\/84df970f-6586-4936-b589-0124da37b7cd.jpg",
+                    "Url": "\/profile\/rexvanewijk\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 545763,
+                    "Name": "orieldel",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/545763\/e2a48229-f1cf-44c3-ad7e-af190bd24ed3.jpg",
+                    "Url": "\/profile\/orieldel\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 17698,
+                    "Name": "waxmigs2902",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/17698\/2364312f-6b36-4741-9a29-eee53c1e9d33.jpg",
+                    "Url": "\/profile\/waxmigs2902\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Posts": "1",
+            "Comments": "3",
+            "Points": 155,
+            "PageViewsSplit": {
+                "Overview": 474,
+                "Markets": 48,
+                "Analysis": 36,
+                "Charts": 47,
+                "Trades": 50,
+                "Orderbook": 0,
+                "Forum": 44,
+                "Influence": 15
+            },
+            "PageViews": 714
+        },
+        "Twitter": {
+            "lists": 5,
+            "favourites": "6",
+            "statuses": 22,
+            "following": "1389",
+            "account_creation": "1436827526",
+            "name": "NetworkCoin",
+            "followers": 627,
+            "link": "https:\/\/twitter.com\/Network_Coin",
+            "Points": 652
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1437123787",
+                    "url": "https:\/\/github.com\/NETWORKCOIN\/NETC-NETWORKCOINX_13",
+                    "forks": 1,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "size": "3728",
+                    "created_at": "1437123511",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C",
+                    "open_total_issues": "0",
+                    "last_push": "1437123785",
+                    "stars": 0
+                }
+            ],
+            "Points": 5
+        }
+    }
+}

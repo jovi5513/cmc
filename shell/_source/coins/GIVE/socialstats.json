@@ -1,0 +1,167 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GIVE",
+            "CoinName": "GiveCoin",
+            "Type": "Webpagecoinp",
+            "Points": 150
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4443,
+                    "Name": "ExeCoin",
+                    "FullName": "ExeCoin (EXE)",
+                    "ImageUrl": "\/media\/19700\/exe.png",
+                    "Url": "\/coins\/exe\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21710,
+                    "Name": "Nukecoinz",
+                    "FullName": "Nukecoinz (NKC)",
+                    "ImageUrl": "\/media\/351041\/nkc.png",
+                    "Url": "\/coins\/nkc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42440,
+                    "Name": "WealthCoin",
+                    "FullName": "WealthCoin (WEALTH)",
+                    "ImageUrl": "\/media\/1382392\/wealth.png",
+                    "Url": "\/coins\/wealth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21007,
+                    "Name": "Aiden",
+                    "FullName": "Aiden (ADN)",
+                    "ImageUrl": "\/media\/350993\/adn.png",
+                    "Url": "\/coins\/adn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5366,
+                    "Name": "GigCoin",
+                    "FullName": "GigCoin (GIG)",
+                    "ImageUrl": "\/media\/20294\/gig.png",
+                    "Url": "\/coins\/gig\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28772,
+                    "Name": "SteamPunk",
+                    "FullName": "SteamPunk (PNK)",
+                    "ImageUrl": "\/media\/351557\/pnk.png",
+                    "Url": "\/coins\/pnk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5405,
+                    "Name": "Event Token",
+                    "FullName": "Event Token (EVENT)",
+                    "ImageUrl": "\/media\/20277\/event.png",
+                    "Url": "\/coins\/event\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5346,
+                    "Name": "Pebble Coin",
+                    "FullName": "Pebble Coin (XPB)",
+                    "ImageUrl": "\/media\/20158\/xpb.png",
+                    "Url": "\/coins\/xpb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44799,
+                    "Name": "NukeCoin",
+                    "FullName": "NukeCoin (NUKE)",
+                    "ImageUrl": "\/media\/1382626\/nuke.png",
+                    "Url": "\/coins\/nuke\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32875,
+                    "Name": "LuckyBlocks (LUCKY)",
+                    "FullName": "LuckyBlocks (LUCKY) (LUCKY)",
+                    "ImageUrl": "\/media\/351946\/lucky.png",
+                    "Url": "\/coins\/lucky\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 623620,
+                    "Name": "najeebtbtc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/623620\/a2038399-703a-4906-a004-e8c2e1580f37.jpg",
+                    "Url": "\/profile\/najeebtbtc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 561469,
+                    "Name": "geekyitgirl",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/561469\/69f026ad-9f11-4db0-b750-8071b4528832.jpg",
+                    "Url": "\/profile\/geekyitgirl\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 405391,
+                    "Name": "lachh1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/405391\/8f0d210d-f0c9-421b-b24b-9734715a3992.jpg",
+                    "Url": "\/profile\/lachh1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 178195,
+                    "Name": "eagledragon512",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/178195\/c1db3d1b-5140-4f43-a15b-3e510b36ca70.jpg",
+                    "Url": "\/profile\/eagledragon512\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 429897,
+                    "Name": "nipresaphe",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/429897\/d0a875af-d0e1-4dd2-91a2-5334ba04130d.jpg",
+                    "Url": "\/profile\/nipresaphe\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 6,
+            "Points": 150,
+            "PageViewsSplit": {
+                "Overview": 1044,
+                "Markets": 23,
+                "Analysis": 37,
+                "Charts": 35,
+                "Trades": 21,
+                "Orderbook": 0,
+                "Forum": 31,
+                "Influence": 29
+            },
+            "PageViews": 1220
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

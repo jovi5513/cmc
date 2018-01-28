@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ARN",
+            "CoinName": "Aeron",
+            "Type": "Webpagecoinp",
+            "Points": 17374
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4345,
+                    "Name": "MyriadCoin",
+                    "FullName": "MyriadCoin (XMY)",
+                    "ImageUrl": "\/media\/19815\/myr.png",
+                    "Url": "\/coins\/xmy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 371064,
+                    "Name": "Bitcoin Red",
+                    "FullName": "Bitcoin Red (BTCRED)",
+                    "ImageUrl": "\/media\/14913463\/btcred.png",
+                    "Url": "\/coins\/btcred\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 419209,
+                    "Name": "Sether",
+                    "FullName": "Sether (SETH)",
+                    "ImageUrl": "\/media\/16746447\/seth.png",
+                    "Url": "\/coins\/seth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341267,
+                    "Name": "Red Pulse",
+                    "FullName": "Red Pulse (RPX)",
+                    "ImageUrl": "\/media\/12318339\/rpx.png",
+                    "Url": "\/coins\/rpx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 321189,
+                    "Name": "eBitcoin",
+                    "FullName": "eBitcoin (EBTC)",
+                    "ImageUrl": "\/media\/12318175\/ebtc.png",
+                    "Url": "\/coins\/ebtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33914,
+                    "Name": "Time",
+                    "FullName": "Time (TIME)",
+                    "ImageUrl": "\/media\/352105\/time.png",
+                    "Url": "\/coins\/time\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 307219,
+                    "Name": "Ripio",
+                    "FullName": "Ripio (RCN)",
+                    "ImageUrl": "\/media\/12318046\/rnc.png",
+                    "Url": "\/coins\/rcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369132,
+                    "Name": "SimpleToken",
+                    "FullName": "SimpleToken (OST)",
+                    "ImageUrl": "\/media\/14913437\/st.png",
+                    "Url": "\/coins\/ost\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5374,
+                    "Name": "PinkCoin",
+                    "FullName": "PinkCoin (PINK)",
+                    "ImageUrl": "\/media\/350588\/pinkcoin-logo.png",
+                    "Url": "\/coins\/pink\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 370973,
+                    "Name": "INS Ecosystem",
+                    "FullName": "INS Ecosystem (INS)",
+                    "ImageUrl": "\/media\/14913458\/ins.png",
+                    "Url": "\/coins\/ins\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 475934,
+                    "Name": "zMintLimited",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/475934\/d223f3fc-45d0-4456-b6eb-5786dc9b9ef2.jpg",
+                    "Url": "\/profile\/zMintLimited\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 79831,
+                    "Name": "virex",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/79831\/b0701177-f8f7-4c51-9dbb-0021bd3a0c08.png",
+                    "Url": "\/profile\/virex\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 404997,
+                    "Name": "doru.vitalariu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/404997\/54273598-a7eb-44aa-b96c-4265b9f2aed2.jpg",
+                    "Url": "\/profile\/doru.vitalariu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 675004,
+                    "Name": "FCA1469F",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675004\/70ce47eb-2c16-44cc-ab08-15ae003eb93f.jpg",
+                    "Url": "\/profile\/FCA1469F\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 660187,
+                    "Name": "kristjan.silvet",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/660187\/cdcad080-0a1a-47bd-9d09-843c73522ba2.jpg",
+                    "Url": "\/profile\/kristjan.silvet\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 499644,
+                    "Name": "toddicus13",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/499644\/72b35b12-e80c-4095-8584-8e62e6e5e9b0.jpg",
+                    "Url": "\/profile\/toddicus13\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 662793,
+                    "Name": "rafaeuoliveira",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/662793\/5cb9b01a-08b1-4aa0-ad38-69d06f93f09e.jpg",
+                    "Url": "\/profile\/rafaeuoliveira\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 468916,
+                    "Name": "jamilimran5",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/468916\/45e8d7fa-4d68-4f36-95ee-204dcfb167a0.jpg",
+                    "Url": "\/profile\/jamilimran5\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 633761,
+                    "Name": "sam1.elgohary",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/633761\/e8a6e218-9015-4027-a959-eae561f93aa8.jpg",
+                    "Url": "\/profile\/sam1.elgohary\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 543444,
+                    "Name": "agnihotrimohit14",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/543444\/615c0bfd-2909-44b5-81dd-506f007b2134.jpg",
+                    "Url": "\/profile\/agnihotrimohit14\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 6810,
+            "Posts": "52",
+            "Comments": "31",
+            "Followers": 208,
+            "PageViewsSplit": {
+                "Overview": 22431,
+                "Markets": 1208,
+                "Analysis": 676,
+                "Charts": 3495,
+                "Trades": 494,
+                "Orderbook": 4,
+                "Forum": 3657,
+                "Influence": 180
+            },
+            "PageViews": 32145
+        },
+        "Twitter": {
+            "statuses": 168,
+            "favourites": "8",
+            "following": "0",
+            "account_creation": "1501152163",
+            "followers": 7435,
+            "name": "Aeron Aero",
+            "link": "https:\/\/twitter.com\/aeron_aero",
+            "lists": 98,
+            "Points": 7925
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "176",
+            "name": "Aeron",
+            "likes": 2636,
+            "link": "https:\/\/www.facebook.com\/aeronpublic\/",
+            "Points": 2636
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

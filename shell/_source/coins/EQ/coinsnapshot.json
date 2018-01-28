@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 0,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 500000000,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "EQ",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.000037",
+            "LASTUPDATE": "1513500799",
+            "LASTVOLUME": "4507.20756756",
+            "LASTVOLUMETO": "0.16676667999972",
+            "LASTTRADEID": "E4ouXVXq1yyVq2Jk3DuJogiXkVk1HCYDdLKvftTS8YxQ",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.000037",
+            "HIGHDAY": "0.000037",
+            "LOWDAY": "0.000037",
+            "OPEN24HOUR": "0.000037",
+            "HIGH24HOUR": "0.000037",
+            "LOW24HOUR": "0.000037",
+            "LASTMARKET": "WavesDEX"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "WavesDEX",
+                "FROMSYMBOL": "EQ",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.000037",
+                "LASTUPDATE": "1513500799",
+                "LASTVOLUME": "4507.20756756",
+                "LASTVOLUMETO": "0.16676667999972",
+                "LASTTRADEID": "E4ouXVXq1yyVq2Jk3DuJogiXkVk1HCYDdLKvftTS8YxQ",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.000037",
+                "HIGH24HOUR": "0.000037",
+                "LOW24HOUR": "0.000037"
+            }
+        ]
+    },
+    "Type": 100
+}

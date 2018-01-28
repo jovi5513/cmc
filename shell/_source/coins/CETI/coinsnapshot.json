@@ -1,0 +1,66 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "CETI",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "3e-8",
+            "LASTUPDATE": "1451772742",
+            "LASTVOLUME": "17568.53758411",
+            "LASTVOLUMETO": "0.000527",
+            "LASTTRADEID": "1451772742.002",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "3e-8",
+            "HIGHDAY": "3e-8",
+            "LOWDAY": "3e-8",
+            "OPEN24HOUR": "3e-8",
+            "HIGH24HOUR": "3e-8",
+            "LOW24HOUR": "3e-8",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "CETI",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "6e-7",
+                "LASTUPDATE": "1425705946",
+                "LASTVOLUME": "5009.98",
+                "LASTVOLUMETO": "0.00300598",
+                "LASTTRADEID": "19576",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "6e-7",
+                "HIGH24HOUR": "6e-7",
+                "LOW24HOUR": "6e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "CETI",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "3e-8",
+                "LASTUPDATE": "1451772742",
+                "LASTVOLUME": "17568.53758411",
+                "LASTVOLUMETO": "0.000527",
+                "LASTTRADEID": "1451772742.002",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "3e-8",
+                "HIGH24HOUR": "3e-8",
+                "LOW24HOUR": "3e-8"
+            }
+        ]
+    },
+    "Type": 100
+}

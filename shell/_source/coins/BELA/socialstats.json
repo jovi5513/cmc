@@ -1,0 +1,241 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BELA",
+            "CoinName": "BelaCoin",
+            "Type": "Webpagecoinp",
+            "Points": 3550
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 3647,
+                    "Name": "GeoCoin",
+                    "FullName": "GeoCoin (GEO)",
+                    "ImageUrl": "\/media\/20292\/geo.png",
+                    "Url": "\/coins\/geo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 89572,
+                    "Name": "Etheroll",
+                    "FullName": "Etheroll (DICE)",
+                    "ImageUrl": "\/media\/1383361\/dice.png",
+                    "Url": "\/coins\/dice\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5307,
+                    "Name": "Giga Hash",
+                    "FullName": "Giga Hash (GHS)",
+                    "ImageUrl": "\/media\/19565\/cexio.png",
+                    "Url": "\/coins\/ghs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 198698,
+                    "Name": "EQUI",
+                    "FullName": "EQUI (EQ)",
+                    "ImageUrl": "\/media\/1383891\/eq.png",
+                    "Url": "\/coins\/eq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341422,
+                    "Name": "Change",
+                    "FullName": "Change (CAG)",
+                    "ImageUrl": "\/media\/12318346\/cag.png",
+                    "Url": "\/coins\/cag\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 439963,
+                    "Name": "CyberMiles",
+                    "FullName": "CyberMiles (CMT*)",
+                    "ImageUrl": "\/media\/16746569\/cmt.png",
+                    "Url": "\/coins\/cmtstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8764,
+                    "Name": "ParkByte",
+                    "FullName": "ParkByte (PKB)",
+                    "ImageUrl": "\/media\/20694\/pkb.png",
+                    "Url": "\/coins\/pkb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 313176,
+                    "Name": "DreamTeam Token",
+                    "FullName": "DreamTeam Token (DTT)",
+                    "ImageUrl": "\/media\/12318109\/dtt.png",
+                    "Url": "\/coins\/dtt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 597181,
+                    "Name": "Guaranteed Entrance Token",
+                    "FullName": "Guaranteed Entrance Token (GET)",
+                    "ImageUrl": "\/media\/20780626\/get.png",
+                    "Url": "\/coins\/get\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22329,
+                    "Name": "BitSend",
+                    "FullName": "BitSend (BSD)",
+                    "ImageUrl": "\/media\/351086\/bsd.png",
+                    "Url": "\/coins\/bsd\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 32607,
+                    "Name": "vlad.lialine",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/32607\/cd213bb2-f2e6-4572-9dbf-5649244a1683.jpg",
+                    "Url": "\/profile\/vlad.lialine\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 160858,
+                    "Name": "bczmarts",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/160858\/e920fafe-354c-4cc1-85c8-0820cbeff43f.jpg",
+                    "Url": "\/profile\/bczmarts\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 221910,
+                    "Name": "AA527F6",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/221910\/d96e74f0-6b38-47e1-9ee7-17e943fa6309.jpg",
+                    "Url": "\/profile\/AA527F6\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 316525,
+                    "Name": "lengochakafe",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/316525\/7b066c49-caec-408c-8b31-b43cafbac192.jpg",
+                    "Url": "\/profile\/lengochakafe\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 57671,
+                    "Name": "alexanderhuetink",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/57671\/a457039a-f4b0-47ec-82e5-59fcc4ea28ca.jpg",
+                    "Url": "\/profile\/alexanderhuetink\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 557491,
+                    "Name": "kirzhava",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/557491\/8e96d10b-60a6-4611-af4e-02f13c74edb5.jpg",
+                    "Url": "\/profile\/kirzhava\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 551128,
+                    "Name": "mjrogers59",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/551128\/8700c0b5-caab-48f4-9521-94ede3b23a71.jpg",
+                    "Url": "\/profile\/mjrogers59\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509998,
+                    "Name": "bvandermeij",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509998\/97d54823-5a5e-479a-8225-fceaafb5b927.jpg",
+                    "Url": "\/profile\/bvandermeij\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 429142,
+                    "Name": "BB36867D",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/429142\/8b6a8477-ab44-4095-9693-a20009233a5b.jpg",
+                    "Url": "\/profile\/BB36867D\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 171317,
+                    "Name": "tachcka",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/171317\/e02bb2a6-2697-4f09-9669-e28824c28c73.jpg",
+                    "Url": "\/profile\/tachcka\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 444556,
+                    "Name": "6B506025",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/444556\/1c26a976-1304-41ad-aef2-9c5c370ea896.jpg",
+                    "Url": "\/profile\/6B506025\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 3480,
+            "Posts": "13",
+            "Comments": "3",
+            "Followers": 125,
+            "PageViewsSplit": {
+                "Overview": 13054,
+                "Markets": 515,
+                "Analysis": 420,
+                "Charts": 2005,
+                "Trades": 262,
+                "Orderbook": 179,
+                "Forum": 402,
+                "Influence": 205
+            },
+            "PageViews": 17042
+        },
+        "Twitter": {
+            "statuses": 10,
+            "favourites": "0",
+            "following": "100",
+            "account_creation": "1502684270",
+            "followers": 40,
+            "name": "Lorenzo Wright",
+            "link": "https:\/\/twitter.com\/BelaCoin",
+            "lists": 1,
+            "Points": 45
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1391833817",
+                    "open_total_issues": "1",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1495747361",
+                    "closed_total_issues": "0",
+                    "size": "3179",
+                    "stars": 2,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1514217030",
+                    "open_pull_issues": "0",
+                    "forks": 5,
+                    "url": "https:\/\/github.com\/bellacoin\/bellacoin",
+                    "closed_issues": "0",
+                    "language": "C++",
+                    "subscribers": 4,
+                    "open_issues": "1",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 24
+        }
+    }
+}

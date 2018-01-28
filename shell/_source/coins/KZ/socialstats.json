@@ -1,0 +1,159 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "KZ",
+            "CoinName": "KZCash",
+            "Type": "Webpagecoinp",
+            "Points": 9645
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 364472,
+                    "Name": "Sharpe Capital",
+                    "FullName": "Sharpe Capital (SHP)",
+                    "ImageUrl": "\/media\/14761950\/shp.png",
+                    "Url": "\/coins\/shp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 409422,
+                    "Name": "LiteCoin Gold",
+                    "FullName": "LiteCoin Gold (LTG)",
+                    "ImageUrl": "\/media\/16404871\/ltg.png",
+                    "Url": "\/coins\/ltg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 176004,
+                    "Name": "Compcoin",
+                    "FullName": "Compcoin (CMP)",
+                    "ImageUrl": "\/media\/1383692\/compcoin.png",
+                    "Url": "\/coins\/cmp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 348278,
+                    "Name": "Soma",
+                    "FullName": "Soma (SCT*)",
+                    "ImageUrl": "\/media\/12318383\/sct.png",
+                    "Url": "\/coins\/sctstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 388042,
+                    "Name": "Mercury Protocol",
+                    "FullName": "Mercury Protocol (GMT)",
+                    "ImageUrl": "\/media\/14913642\/gmt.png",
+                    "Url": "\/coins\/gmt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25238,
+                    "Name": "BitFinex Tokens",
+                    "FullName": "BitFinex Tokens (BFX)",
+                    "ImageUrl": "\/media\/19554\/bitfinex.png",
+                    "Url": "\/coins\/bfx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 205967,
+                    "Name": "Kencoin",
+                    "FullName": "Kencoin (KCN)",
+                    "ImageUrl": "\/media\/1383953\/kencoin.png",
+                    "Url": "\/coins\/kcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20688,
+                    "Name": "DigiCube",
+                    "FullName": "DigiCube (CUBE)",
+                    "ImageUrl": "\/media\/350948\/cube.png",
+                    "Url": "\/coins\/cube\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25830,
+                    "Name": "PizzaCoin",
+                    "FullName": "PizzaCoin (PIZZA)",
+                    "ImageUrl": "\/media\/351397\/pizza.png",
+                    "Url": "\/coins\/pizza\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 100944,
+                    "Name": "Subscriptio",
+                    "FullName": "Subscriptio (SUB*)",
+                    "ImageUrl": "\/media\/1383362\/sub.png",
+                    "Url": "\/coins\/substar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "PageViewsSplit": {
+                "Overview": 7,
+                "Markets": 1,
+                "Analysis": 0,
+                "Charts": 0,
+                "Trades": 0,
+                "Orderbook": 0,
+                "Forum": 0,
+                "Influence": 0
+            },
+            "PageViews": 8
+        },
+        "Twitter": {
+            "statuses": 230,
+            "favourites": "56",
+            "following": "51",
+            "account_creation": "1507560000",
+            "followers": 9629,
+            "name": "KZ Cash",
+            "link": "https:\/\/twitter.com\/cash_kz",
+            "lists": 2,
+            "Points": 9639
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1508925078",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "2",
+                    "size": "11282",
+                    "last_push": "1511448583",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "stars": 1,
+                    "open_pull_issues": "0",
+                    "last_update": "1515430700",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/kzcashteam\/kzcash",
+                    "closed_issues": "2",
+                    "open_issues": "0",
+                    "language": "C++",
+                    "subscribers": 1,
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 6
+        }
+    }
+}

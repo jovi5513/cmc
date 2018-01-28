@@ -1,0 +1,153 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "2015",
+            "CoinName": "2015 coin",
+            "Type": "Webpagecoinp",
+            "Points": 100
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 38371,
+                    "Name": "Quebecoin",
+                    "FullName": "Quebecoin (QBC)",
+                    "ImageUrl": "\/media\/19874\/qbc.png",
+                    "Url": "\/coins\/qbc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 659663,
+                    "Name": "ArubaCoin",
+                    "FullName": "ArubaCoin (AUA)",
+                    "ImageUrl": "\/media\/20780743\/aua.png",
+                    "Url": "\/coins\/aua\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42106,
+                    "Name": "TeCoin",
+                    "FullName": "TeCoin (TEC)",
+                    "ImageUrl": "\/media\/1382383\/tecoin.png",
+                    "Url": "\/coins\/tec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43247,
+                    "Name": "Babes and Nerds",
+                    "FullName": "Babes and Nerds (BAN)",
+                    "ImageUrl": "\/media\/1382466\/ban.png",
+                    "Url": "\/coins\/ban\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21359,
+                    "Name": "CludCoin",
+                    "FullName": "CludCoin (CLUD)",
+                    "ImageUrl": "\/media\/351027\/clud.png",
+                    "Url": "\/coins\/clud\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5398,
+                    "Name": "Camcoin",
+                    "FullName": "Camcoin (CAM)",
+                    "ImageUrl": "\/media\/20220\/cam.png",
+                    "Url": "\/coins\/cam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28151,
+                    "Name": "CovenCoin",
+                    "FullName": "CovenCoin (COV*)",
+                    "ImageUrl": "\/media\/351503\/cov.png",
+                    "Url": "\/coins\/covstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5334,
+                    "Name": "NakomotoDark",
+                    "FullName": "NakomotoDark (NKT)",
+                    "ImageUrl": "\/media\/20371\/nkt.png",
+                    "Url": "\/coins\/nkt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5034,
+                    "Name": "YAcCoin",
+                    "FullName": "YAcCoin (YAC)",
+                    "ImageUrl": "\/media\/19976\/yac.png",
+                    "Url": "\/coins\/yac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34847,
+                    "Name": "Old Dogs New Tricks",
+                    "FullName": "Old Dogs New Tricks (ODNT)",
+                    "ImageUrl": "\/media\/352186\/odnt.png",
+                    "Url": "\/coins\/odnt\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 457327,
+                    "Name": "itsec.consultant",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/457327\/2441f1c9-622a-4911-8a35-ff2c2debf5e0.jpg",
+                    "Url": "\/profile\/itsec.consultant\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 471172,
+                    "Name": "coin.er1980",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/471172\/cd48b365-662e-4d28-9da1-eba3f70bf368.jpg",
+                    "Url": "\/profile\/coin.er1980\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 33299,
+                    "Name": "niktrade",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/33299\/fff49f49-5056-4236-9243-36124ec5c732.jpg",
+                    "Url": "\/profile\/niktrade\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 1073,
+                "Markets": 39,
+                "Analysis": 31,
+                "Charts": 73,
+                "Trades": 21,
+                "Orderbook": 0,
+                "Forum": 34,
+                "Influence": 13
+            },
+            "PageViews": 1284
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

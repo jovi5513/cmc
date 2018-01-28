@@ -1,0 +1,222 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CLD",
+            "CoinName": "Cloud",
+            "Type": "Webpagecoinp",
+            "Points": 42167
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 247246,
+                    "Name": "LiteBitcoin",
+                    "FullName": "LiteBitcoin (LBTC)",
+                    "ImageUrl": "\/media\/9350763\/lbtc.png",
+                    "Url": "\/coins\/lbtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 318199,
+                    "Name": "Hshare",
+                    "FullName": "Hshare (HSR)",
+                    "ImageUrl": "\/media\/12318137\/hsr.png",
+                    "Url": "\/coins\/hsr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 243079,
+                    "Name": "Gimli",
+                    "FullName": "Gimli (GIM)",
+                    "ImageUrl": "\/media\/9350754\/gim.png",
+                    "Url": "\/coins\/gim\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 675053,
+                    "Name": "High Performance Blockchain",
+                    "FullName": "High Performance Blockchain (HPB)",
+                    "ImageUrl": "\/media\/20780783\/hpb.png",
+                    "Url": "\/coins\/hpb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 354771,
+                    "Name": "TBIS token",
+                    "FullName": "TBIS token (BAR)",
+                    "ImageUrl": "\/media\/14543951\/bar.png",
+                    "Url": "\/coins\/bar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 370535,
+                    "Name": "Pure",
+                    "FullName": "Pure (PURE)",
+                    "ImageUrl": "\/media\/14913451\/pure.png",
+                    "Url": "\/coins\/pure\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 409492,
+                    "Name": "Bitcoin Diamond",
+                    "FullName": "Bitcoin Diamond (BCD)",
+                    "ImageUrl": "\/media\/16404872\/bcd.png",
+                    "Url": "\/coins\/bcd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 350476,
+                    "Name": "Vezt",
+                    "FullName": "Vezt (VZT)",
+                    "ImageUrl": "\/media\/12318414\/vzt.png",
+                    "Url": "\/coins\/vzt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 184187,
+                    "Name": "IMMLA",
+                    "FullName": "IMMLA (IML)",
+                    "ImageUrl": "\/media\/1383783\/iml.png",
+                    "Url": "\/coins\/iml\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 589881,
+                    "Name": "MicroMoney",
+                    "FullName": "MicroMoney (AMM)",
+                    "ImageUrl": "\/media\/20780616\/amm.png",
+                    "Url": "\/coins\/amm\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 593822,
+                    "Name": "zyad.abulaynein",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/593822\/e74fef41-276f-43bd-9279-2f8402f1fc6a.jpg",
+                    "Url": "\/profile\/zyad.abulaynein\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 83095,
+                    "Name": "noathistar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/83095\/b6901f7a-a5a0-41a5-91e1-f61ff2f40b4a.png",
+                    "Url": "\/profile\/noathistar\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 666912,
+                    "Name": "rkurfuerst",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/666912\/a32de072-f0f4-4018-80ec-09f8a7532477.jpg",
+                    "Url": "\/profile\/rkurfuerst\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 655126,
+                    "Name": "jonny0303",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/655126\/d773b589-f0e4-4516-b354-0ea230316e2e.jpg",
+                    "Url": "\/profile\/jonny0303\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 622510,
+                    "Name": "benhibbert55",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/622510\/30b47223-f424-4857-a728-d7b003ef3bf6.jpg",
+                    "Url": "\/profile\/benhibbert55\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 558616,
+                    "Name": "bukhari.fareed",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/558616\/d81c585a-2e89-4df0-9cf1-89b63e2c6d1f.jpg",
+                    "Url": "\/profile\/bukhari.fareed\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 650307,
+                    "Name": "thumar.rushik",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/650307\/950133ca-99ce-4441-a0d4-73e9c2ec48b3.jpg",
+                    "Url": "\/profile\/thumar.rushik\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 173979,
+                    "Name": "mrmacc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/173979\/0874ebc7-4a92-4358-bf87-f65699d0c27a.jpg",
+                    "Url": "\/profile\/mrmacc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 584598,
+                    "Name": "alokbidasaria",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/584598\/b6f4d8d4-290b-4572-b46c-7f2604f5e3a8.jpg",
+                    "Url": "\/profile\/alokbidasaria\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 438679,
+                    "Name": "557655F6",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/438679\/da6ae663-030a-467f-ab7e-d0f7cf06e03f.jpg",
+                    "Url": "\/profile\/557655F6\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 645376,
+                    "Name": "bartspronk",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/645376\/6386670a-4299-43f7-acfb-0b41ed6f5ad6.jpg",
+                    "Url": "\/profile\/bartspronk\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 2045,
+            "Posts": "10",
+            "Comments": "7",
+            "Followers": 69,
+            "PageViewsSplit": {
+                "Overview": 9934,
+                "Markets": 863,
+                "Analysis": 353,
+                "Charts": 896,
+                "Trades": 337,
+                "Orderbook": 0,
+                "Forum": 338,
+                "Influence": 91
+            },
+            "PageViews": 12812
+        },
+        "Twitter": {
+            "statuses": 765,
+            "favourites": "304",
+            "following": "1872",
+            "account_creation": "1446461078",
+            "followers": 1880,
+            "name": "Cloud With Me",
+            "link": "https:\/\/twitter.com\/Cloudwith_me",
+            "lists": 151,
+            "Points": 2635
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/CLDWithMe\/",
+            "active_users": 0,
+            "community_creation": "undefined",
+            "subscribers": 0,
+            "name": "undefined",
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "61",
+            "name": "CloudWithMe",
+            "likes": 37486,
+            "link": "https:\/\/www.facebook.com\/cloudwithme\/",
+            "Points": 37486
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

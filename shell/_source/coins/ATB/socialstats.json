@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ATB",
+            "CoinName": "ATB coin",
+            "Type": "Webpagecoinp",
+            "Points": 32419
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 364348,
+                    "Name": "Bitcoin SegWit2X",
+                    "FullName": "Bitcoin SegWit2X (BT2)",
+                    "ImageUrl": "\/media\/19633\/btc.png",
+                    "Url": "\/coins\/bt2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 18180,
+                    "Name": "Voxels",
+                    "FullName": "Voxels (VOX)",
+                    "ImageUrl": "\/media\/350824\/vox.png",
+                    "Url": "\/coins\/vox\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 27996,
+                    "Name": "Trigger",
+                    "FullName": "Trigger (TRIG)",
+                    "ImageUrl": "\/media\/351489\/trg.png",
+                    "Url": "\/coins\/trig\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37040,
+                    "Name": "TrustCoin",
+                    "FullName": "TrustCoin (TRST)",
+                    "ImageUrl": "\/media\/1381975\/trst.png",
+                    "Url": "\/coins\/trst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 225277,
+                    "Name": "Centra",
+                    "FullName": "Centra (CTR)",
+                    "ImageUrl": "\/media\/1384029\/ctr.png",
+                    "Url": "\/coins\/ctr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186335,
+                    "Name": "COSS",
+                    "FullName": "COSS (COSS)",
+                    "ImageUrl": "\/media\/1383802\/coss.png",
+                    "Url": "\/coins\/coss\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28328,
+                    "Name": "FirstBlood",
+                    "FullName": "FirstBlood (1ST)",
+                    "ImageUrl": "\/media\/351524\/1st.png",
+                    "Url": "\/coins\/1st\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 309621,
+                    "Name": "ChainLink",
+                    "FullName": "ChainLink (LINK)",
+                    "ImageUrl": "\/media\/12318078\/link.png",
+                    "Url": "\/coins\/link\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 306304,
+                    "Name": "Cappasity",
+                    "FullName": "Cappasity (CAPP)",
+                    "ImageUrl": "\/media\/15887416\/capp.png",
+                    "Url": "\/coins\/capp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 402714,
+                    "Name": "Quoine Liquid",
+                    "FullName": "Quoine Liquid (QASH)",
+                    "ImageUrl": "\/media\/15887431\/qash.png",
+                    "Url": "\/coins\/qash\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 668134,
+                    "Name": "ED171288",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/668134\/8dd7ada1-6d4d-4963-9a84-472c1c10dc63.png",
+                    "Url": "\/profile\/ED171288\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 64874,
+                    "Name": "redcert",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/64874\/e2c0bd33-283c-4420-bbcc-5603ba065c99.jpg",
+                    "Url": "\/profile\/redcert\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 454696,
+                    "Name": "padamasinhpatil",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/454696\/4fab2b4b-4cf4-4b5d-a156-f917b0951ea8.jpg",
+                    "Url": "\/profile\/padamasinhpatil\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 283480,
+                    "Name": "madhugudipudi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/283480\/542ec6fe-f5aa-41e3-a14c-84dfc43c1387.jpg",
+                    "Url": "\/profile\/madhugudipudi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 200572,
+                    "Name": "vincentkopa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/200572\/f9176919-360a-4685-93e6-d5b7610e7b04.jpg",
+                    "Url": "\/profile\/vincentkopa\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 628692,
+                    "Name": "jaircaimi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/628692\/e07d5772-33ee-4d8e-be26-115c0264c640.jpg",
+                    "Url": "\/profile\/jaircaimi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 52123,
+                    "Name": "hazem.fanto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/52123\/cb912c2a-ec4d-4cc0-9518-d87d78c6fa50.jpg",
+                    "Url": "\/profile\/hazem.fanto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 562691,
+                    "Name": "borlovanpetrica",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/562691\/9c764709-f1d3-450d-935c-b830d318ee42.jpg",
+                    "Url": "\/profile\/borlovanpetrica\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 31200,
+                    "Name": "nugentw2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/31200\/46cdf48f-8817-422d-8b85-0863fc818763.jpg",
+                    "Url": "\/profile\/nugentw2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 533447,
+                    "Name": "wbrewer",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/533447\/92da8192-ccac-43a4-9c95-644e8a13f9b3.jpg",
+                    "Url": "\/profile\/wbrewer\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 9880,
+            "Posts": "81",
+            "Comments": "83",
+            "Followers": 281,
+            "PageViewsSplit": {
+                "Overview": 42079,
+                "Markets": 2140,
+                "Analysis": 958,
+                "Charts": 1424,
+                "Trades": 693,
+                "Orderbook": 92,
+                "Forum": 3270,
+                "Influence": 389
+            },
+            "PageViews": 51045
+        },
+        "Twitter": {
+            "favourites": "0",
+            "statuses": 332,
+            "following": "133",
+            "account_creation": "1493038436",
+            "followers": 3004,
+            "name": "ATBCoin",
+            "link": "https:\/\/twitter.com\/atbcoincom",
+            "lists": 48,
+            "Points": 3244
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "126",
+            "name": "ATB Coin",
+            "likes": 19290,
+            "link": "https:\/\/www.facebook.com\/atbcoincom\/",
+            "Points": 19290
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "CashOut (CSH) - Live streaming prices and market cap",
+            "PageDescription": "Live CashOut prices from all markets and CSH coin market Capitalization. Stay up to date with the latest CashOut price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351877\/csh.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "31004",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "CashOut (CSH)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "CSH",
+            "Url": "\/coins\/csh\/",
+            "BaseAngularUrl": "\/coins\/csh\/",
+            "Name": "CashOut",
+            "ImageUrl": "\/media\/351877\/csh.png",
+            "Description": "<p><span>Cashout is a new digital currency that enables instant payments to anyone, anywhere in the world. cashout uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. cashout is also the name of the open source software which enables the use of this currency.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "100000000",
+            "Algorithm": "SHA256",
+            "ProofType": "PoW",
+            "StartDate": "30\/09\/2016",
+            "Twitter": "",
+            "AffiliateUrl": "http:\/\/cshout.net\/",
+            "Website": "<a href='http:\/\/cshout.net\/' target='_blank'>CashOut<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1504106368,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": -1,
+            "BlockTime": 120,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~CSH~DOGE",
+            "2~CCEX~CSH~USD",
+            "2~CCEX~CSH~LTC",
+            "2~CCEX~CSH~ETH",
+            "2~CCEX~CSH~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~CSH~DOGE~4~0.00100001~1494260650~15146.642~15.146793466419998~1811517~0~0~0~0~0.00100001~0.00100001~0.00100001~0.00100001~0.00100001~0.00100001~CCEX~7ffe9",
+            "5~CCCAGG~CSH~USD~4~5.1e-7~1494274909~1095183.38753094~0.5585435276407793~1469957~0~0~0~0~5.1e-7~5.1e-7~5.1e-7~5.1e-7~5.1e-7~5.1e-7~CCEX~7ffe9",
+            "5~CCCAGG~CSH~LTC~4~8e-8~1494008045~53227~0.00425816~1612100~0~0~0~0~8e-8~8e-8~8e-8~8e-8~8e-8~8e-8~CCEX~7ffe9",
+            "5~CCCAGG~CSH~ETH~4~0.0000445~1480969449~2.2552809~0.00010036000004999998~69530~0~0~0~0~0.0000445~0.0000445~0.0000445~0.0000445~0.0000445~0.0000445~CCEX~7ffe9",
+            "5~CCCAGG~CSH~BTC~4~1e-8~1486421034~10000~0.0001~17351~0~0~0~0~1e-8~1e-8~1e-8~1e-8~1e-8~1e-8~CCEX~7ffe9"
+        ]
+    },
+    "Type": 100
+}

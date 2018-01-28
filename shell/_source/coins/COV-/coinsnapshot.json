@@ -1,0 +1,66 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "COV*",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.002839",
+            "LASTUPDATE": "1516058202",
+            "LASTVOLUME": "0.0352329",
+            "LASTVOLUMETO": "0.00010000999596599999",
+            "LASTTRADEID": "200000021",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0.5086894599999999",
+            "VOLUME24HOURTO": "0.001417190725418",
+            "OPENDAY": "0.002839",
+            "HIGHDAY": "0.002839",
+            "LOWDAY": "0.002839",
+            "OPEN24HOUR": "0.002837",
+            "HIGH24HOUR": "0.002839",
+            "LOW24HOUR": "0.002511",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "COV*",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00003401",
+                "LASTUPDATE": "1437683049",
+                "LASTVOLUME": "326.38042633",
+                "LASTVOLUMETO": "0.01110019",
+                "LASTTRADEID": "196675",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00003401",
+                "HIGH24HOUR": "0.00003401",
+                "LOW24HOUR": "0.00003401"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "COV*",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00283854",
+                "LASTUPDATE": "1516058202",
+                "LASTVOLUME": "0.0352329",
+                "LASTVOLUMETO": "0.00010000999596599999",
+                "LASTTRADEID": "200000021",
+                "VOLUME24HOUR": "0.5086894599999999",
+                "VOLUME24HOURTO": "0.001417190725418",
+                "OPEN24HOUR": "0.00283733",
+                "HIGH24HOUR": "0.00283854",
+                "LOW24HOUR": "0.00251115"
+            }
+        ]
+    },
+    "Type": 100
+}

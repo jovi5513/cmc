@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MUE",
+            "CoinName": "MonetaryUnit",
+            "Type": "Webpagecoinp",
+            "Points": 21568
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5322,
+                    "Name": "Dnotes",
+                    "FullName": "Dnotes (NOTE)",
+                    "ImageUrl": "\/media\/19832\/note.png",
+                    "Url": "\/coins\/note\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4416,
+                    "Name": "CLAMS",
+                    "FullName": "CLAMS (CLAM)",
+                    "ImageUrl": "\/media\/20020\/clam.png",
+                    "Url": "\/coins\/clam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4630,
+                    "Name": "Unobtanium",
+                    "FullName": "Unobtanium (UNO)",
+                    "ImageUrl": "\/media\/20065\/uno.png",
+                    "Url": "\/coins\/uno\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 16125,
+                    "Name": "Bata",
+                    "FullName": "Bata (BTA)",
+                    "ImageUrl": "\/media\/1383113\/bta1.png",
+                    "Url": "\/coins\/bta\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 637681,
+                    "Name": "QLINK",
+                    "FullName": "QLINK (QLC)",
+                    "ImageUrl": "\/media\/20780665\/qlc.png",
+                    "Url": "\/coins\/qlc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 170958,
+                    "Name": "Quantum",
+                    "FullName": "Quantum (QAU)",
+                    "ImageUrl": "\/media\/1383669\/qau.png",
+                    "Url": "\/coins\/qau\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 304184,
+                    "Name": "Blackmoon Crypto",
+                    "FullName": "Blackmoon Crypto (BMC)",
+                    "ImageUrl": "\/media\/12318008\/bmc.png",
+                    "Url": "\/coins\/bmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 318154,
+                    "Name": "XP",
+                    "FullName": "XP (XP)",
+                    "ImageUrl": "\/media\/12318134\/xp.png",
+                    "Url": "\/coins\/xp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 71077,
+                    "Name": "TokenCard  ",
+                    "FullName": "TokenCard   (TKN)",
+                    "ImageUrl": "\/media\/1383157\/tkn.png",
+                    "Url": "\/coins\/tkn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 177139,
+                    "Name": "CoinDash",
+                    "FullName": "CoinDash (CDT)",
+                    "ImageUrl": "\/media\/1383699\/cdt.png",
+                    "Url": "\/coins\/cdt\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 158465,
+                    "Name": "runejessen1988",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/158465\/e867494c-6c46-4145-a0a5-bb2490443315.jpg",
+                    "Url": "\/profile\/runejessen1988\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 648295,
+                    "Name": "cuity05",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/648295\/b2b95880-87e3-4cf1-ad6b-52da5247f2d1.jpg",
+                    "Url": "\/profile\/cuity05\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 103852,
+                    "Name": "raoul.s",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/103852\/c64b9688-6ebd-4203-a439-7be69e7492d7.jpg",
+                    "Url": "\/profile\/raoul.s\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 464524,
+                    "Name": "amitasthana4u",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/464524\/b3b16e24-4193-45d4-8288-e50e6e77da41.jpg",
+                    "Url": "\/profile\/amitasthana4u\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 254149,
+                    "Name": "sidxaxis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/254149\/d046211e-0b64-4422-a120-acb4f59e07ad.jpg",
+                    "Url": "\/profile\/sidxaxis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 30662,
+                    "Name": "chrisiminski",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/30662\/109497e3-2ada-4a5a-baeb-4e7668c87326.png",
+                    "Url": "\/profile\/chrisiminski\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 620367,
+                    "Name": "handuver4008",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/620367\/7ee1fa9e-4014-4a8a-98c0-0b6676bc2e6b.jpg",
+                    "Url": "\/profile\/handuver4008\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 79061,
+                    "Name": "MoChaaito",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/79061\/de059973-1aa4-40d7-93f1-64c30a8985e7.jpg",
+                    "Url": "\/profile\/MoChaaito\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 152446,
+                    "Name": "vkartmann",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/152446\/d57a084b-460b-491a-a904-d513c855440b.jpg",
+                    "Url": "\/profile\/vkartmann\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 4550,
+            "Followers": 158,
+            "Posts": "22",
+            "Comments": "5",
+            "PageViewsSplit": {
+                "Overview": 11575,
+                "Markets": 765,
+                "Analysis": 351,
+                "Charts": 1353,
+                "Trades": 343,
+                "Orderbook": 12,
+                "Forum": 441,
+                "Influence": 118
+            },
+            "PageViews": 14958
+        },
+        "Twitter": {
+            "following": "701",
+            "account_creation": "1403898629",
+            "name": "MonetaryUnit",
+            "lists": 300,
+            "statuses": 8654,
+            "favourites": "2761",
+            "followers": 13782,
+            "link": "https:\/\/twitter.com\/MonetaryUnit",
+            "Points": 15290
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 1679,
+            "link": "https:\/\/www.facebook.com\/MonetaryUnit\/",
+            "is_closed": "false",
+            "talking_about": "11",
+            "name": "MonetaryUnit",
+            "Points": 1679
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1422469724",
+                    "open_total_issues": "1",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "33150",
+                    "closed_total_issues": "14",
+                    "stars": 6,
+                    "last_update": "1507510620",
+                    "forks": 9,
+                    "url": "https:\/\/github.com\/MonetaryUnit\/MUE-Src",
+                    "closed_issues": "9",
+                    "closed_pull_issues": "5",
+                    "fork": "false",
+                    "last_push": "1460414921",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 8,
+                    "open_issues": "1"
+                }
+            ],
+            "Points": 48
+        }
+    }
+}

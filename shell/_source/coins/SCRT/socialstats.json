@@ -1,0 +1,230 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SCRT",
+            "CoinName": "SecretCoin",
+            "Type": "Webpagecoinp",
+            "Points": 1177
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 23745,
+                    "Name": "iBankCoin",
+                    "FullName": "iBankCoin (IBANK)",
+                    "ImageUrl": "\/media\/351238\/ibank.png",
+                    "Url": "\/coins\/ibank\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 378830,
+                    "Name": "LitecoinCash",
+                    "FullName": "LitecoinCash (LCASH)",
+                    "ImageUrl": "\/media\/14913550\/lcash.png",
+                    "Url": "\/coins\/lcash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45262,
+                    "Name": "OroCoin",
+                    "FullName": "OroCoin (ORO)",
+                    "ImageUrl": "\/media\/1382656\/oro.png",
+                    "Url": "\/coins\/oro\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30359,
+                    "Name": "President Clinton",
+                    "FullName": "President Clinton (HILL)",
+                    "ImageUrl": "\/media\/351747\/hill.png",
+                    "Url": "\/coins\/hill\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30424,
+                    "Name": "Goldmaxcoin",
+                    "FullName": "Goldmaxcoin (GMX)",
+                    "ImageUrl": "\/media\/351762\/gmx.jpg",
+                    "Url": "\/coins\/gmx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 368743,
+                    "Name": "KekCoin",
+                    "FullName": "KekCoin (KEK)",
+                    "ImageUrl": "\/media\/14913432\/kek.png",
+                    "Url": "\/coins\/kek\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 79887,
+                    "Name": "Coinmatic",
+                    "FullName": "Coinmatic (CTIC)",
+                    "ImageUrl": "\/media\/1383267\/ctic.png",
+                    "Url": "\/coins\/ctic\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20215,
+                    "Name": "SARCoin",
+                    "FullName": "SARCoin (SAR)",
+                    "ImageUrl": "\/media\/350901\/sar.png",
+                    "Url": "\/coins\/sar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 400432,
+                    "Name": "Castle",
+                    "FullName": "Castle (CSTL)",
+                    "ImageUrl": "\/media\/15887421\/cstl.png",
+                    "Url": "\/coins\/cstl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 418671,
+                    "Name": "Votecoin",
+                    "FullName": "Votecoin (VOT)",
+                    "ImageUrl": "\/media\/16746442\/vot.png",
+                    "Url": "\/coins\/vot\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 486639,
+                    "Name": "giordanodesign",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/486639\/99506846-defb-427e-967f-d39a077c97c5.jpg",
+                    "Url": "\/profile\/giordanodesign\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 435295,
+                    "Name": "marcrl12",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/435295\/1d7ee78b-bf4f-4bde-9308-d17c62e3aae0.jpg",
+                    "Url": "\/profile\/marcrl12\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 219240,
+                    "Name": "master-trader",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/219240\/96c5aea5-518c-4dad-a3bf-eb7bd14aff7c.jpg",
+                    "Url": "\/profile\/master-trader\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 336861,
+                    "Name": "TPOne",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/336861\/e49c106d-a0b9-443e-adee-7d58fc2d7e4e.jpg",
+                    "Url": "\/profile\/TPOne\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 376195,
+                    "Name": "lralvarez009",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/376195\/cdd7640e-4f62-405c-b6c3-7d5b376eefda.jpg",
+                    "Url": "\/profile\/lralvarez009\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 435775,
+                    "Name": "travis.green1964",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/435775\/3ee13f65-a70f-4862-bdc3-e63f61319686.png",
+                    "Url": "\/profile\/travis.green1964\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 38376,
+                    "Name": "covarj",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/38376\/135f4746-c65b-4a5d-a442-47abf2392e17.jpg",
+                    "Url": "\/profile\/covarj\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 9,
+            "Points": 225,
+            "PageViewsSplit": {
+                "Overview": 663,
+                "Markets": 78,
+                "Analysis": 22,
+                "Charts": 33,
+                "Trades": 25,
+                "Orderbook": 0,
+                "Forum": 28,
+                "Influence": 10
+            },
+            "PageViews": 859
+        },
+        "Twitter": {
+            "favourites": "6",
+            "statuses": 10,
+            "following": "637",
+            "account_creation": "1432096782",
+            "name": "Secret Coin",
+            "link": "https:\/\/twitter.com\/SecretCoinDevs",
+            "lists": 10,
+            "followers": 345,
+            "Points": 395
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 551,
+            "name": "Secret Coin",
+            "link": "https:\/\/www.facebook.com\/Secret-Coin-1631582977121900\/",
+            "talking_about": "0",
+            "is_closed": "false",
+            "Points": 551
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1450701653",
+                    "url": "https:\/\/github.com\/TeamSecret\/SecretCoin",
+                    "subscribers": 2,
+                    "size": "9013",
+                    "created_at": "1440521883",
+                    "open_pull_issues": "0",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "stars": 0,
+                    "forks": 0,
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1450738133"
+                }
+            ],
+            "Points": 6
+        }
+    }
+}

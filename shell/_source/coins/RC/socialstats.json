@@ -1,0 +1,233 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "RC",
+            "CoinName": "Russiacoin",
+            "Type": "Webpagecoinp",
+            "Points": 999
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 6476,
+                    "Name": "Anarchists Prime",
+                    "FullName": "Anarchists Prime (ACP)",
+                    "ImageUrl": "\/media\/351019\/acp.png",
+                    "Url": "\/coins\/acp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30369,
+                    "Name": "Rublebit",
+                    "FullName": "Rublebit (RUBIT)",
+                    "ImageUrl": "\/media\/351751\/rubit.png",
+                    "Url": "\/coins\/rubit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8763,
+                    "Name": "BitQuark",
+                    "FullName": "BitQuark (BTQ)",
+                    "ImageUrl": "\/media\/19638\/btq.png",
+                    "Url": "\/coins\/btq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 311558,
+                    "Name": "Maecenas",
+                    "FullName": "Maecenas (ART)",
+                    "ImageUrl": "\/media\/12318097\/art.png",
+                    "Url": "\/coins\/art\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 305047,
+                    "Name": "Kapu",
+                    "FullName": "Kapu (KAPU)",
+                    "ImageUrl": "\/media\/12318035\/logo_500x500.png",
+                    "Url": "\/coins\/kapu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4574,
+                    "Name": "NetCoin",
+                    "FullName": "NetCoin (NET)",
+                    "ImageUrl": "\/media\/19826\/net.png",
+                    "Url": "\/coins\/net\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 221350,
+                    "Name": "Embers",
+                    "FullName": "Embers (MBRS)",
+                    "ImageUrl": "\/media\/1384010\/mbrs.png",
+                    "Url": "\/coins\/mbrs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 325279,
+                    "Name": "Vsync",
+                    "FullName": "Vsync (VSX)",
+                    "ImageUrl": "\/media\/12318194\/vsx.png",
+                    "Url": "\/coins\/vsx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22352,
+                    "Name": "Project Decorum",
+                    "FullName": "Project Decorum (PDC)",
+                    "ImageUrl": "\/media\/351088\/pdc.png",
+                    "Url": "\/coins\/pdc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 177124,
+                    "Name": "8 Circuit Studios",
+                    "FullName": "8 Circuit Studios (8BT)",
+                    "ImageUrl": "\/media\/1383698\/8bt.png",
+                    "Url": "\/coins\/8bt\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 596432,
+                    "Name": "8EB80E34",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596432\/5ce5981a-ad81-4e7a-a9b5-097796ba90dd.jpg",
+                    "Url": "\/profile\/8EB80E34\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 558616,
+                    "Name": "bukhari.fareed",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/558616\/d81c585a-2e89-4df0-9cf1-89b63e2c6d1f.jpg",
+                    "Url": "\/profile\/bukhari.fareed\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 66308,
+                    "Name": "szatmarilne",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/66308\/642fba69-a07a-4a08-b3d0-cdca2df752cf.jpg",
+                    "Url": "\/profile\/szatmarilne\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 179658,
+                    "Name": "kryptoucet",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/179658\/670c548e-f815-4231-a1c1-c07e8e9e4a53.jpg",
+                    "Url": "\/profile\/kryptoucet\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 134991,
+                    "Name": "AntMan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/134991\/512e24ed-8aad-4772-bbb6-9c715df3dd46.jpg",
+                    "Url": "\/profile\/AntMan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 622154,
+                    "Name": "vasanthan_s",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/622154\/4a72b85a-2a58-48ba-881f-49dfd3095ba4.jpg",
+                    "Url": "\/profile\/vasanthan_s\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 651476,
+                    "Name": "pwsmolak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/651476\/b1db1d33-e8b2-4442-8eee-27cedfe6cb77.jpg",
+                    "Url": "\/profile\/pwsmolak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 657536,
+                    "Name": "cryptoGinx",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/657536\/7232b1a5-16e0-4882-bd22-afec247c8b4f.jpg",
+                    "Url": "\/profile\/cryptoGinx\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 510325,
+                    "Name": "dimitrijpenner",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/510325\/1201c127-6db9-4544-b3f8-4e4713acb6a4.jpg",
+                    "Url": "\/profile\/dimitrijpenner\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 656553,
+                    "Name": "farid_atouli",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/656553\/4bf2716e-5b0a-45a8-b057-b27f4329b64d.jpg",
+                    "Url": "\/profile\/farid_atouli\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 985,
+            "Posts": "5",
+            "Comments": "6",
+            "Followers": 32,
+            "PageViewsSplit": {
+                "Overview": 3688,
+                "Markets": 192,
+                "Analysis": 112,
+                "Charts": 232,
+                "Trades": 111,
+                "Orderbook": 2,
+                "Forum": 108,
+                "Influence": 29
+            },
+            "PageViews": 4474
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1402272558",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "0",
+                    "size": "2084",
+                    "last_push": "1402272586",
+                    "stars": 1,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1452311152",
+                    "open_pull_issues": "0",
+                    "forks": 2,
+                    "url": "https:\/\/github.com\/russiacoindev\/russiacoin",
+                    "closed_issues": "0",
+                    "open_issues": "0",
+                    "subscribers": 3,
+                    "language": "C++",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 14
+        }
+    }
+}

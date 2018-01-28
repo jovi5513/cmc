@@ -1,0 +1,212 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SAN",
+            "CoinName": "Santiment",
+            "Type": "Webpagecoinp",
+            "Points": 22176
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 6103,
+                    "Name": "Nexus",
+                    "FullName": "Nexus (NXS)",
+                    "ImageUrl": "\/media\/1382387\/nexus.jpg",
+                    "Url": "\/coins\/nxs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185669,
+                    "Name": "InvestFeed",
+                    "FullName": "InvestFeed (IFT)",
+                    "ImageUrl": "\/media\/12318127\/ift.png",
+                    "Url": "\/coins\/ift\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 18907,
+                    "Name": "Digix DAO",
+                    "FullName": "Digix DAO (DGD)",
+                    "ImageUrl": "\/media\/350851\/dgd.png",
+                    "Url": "\/coins\/dgd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186309,
+                    "Name": "Tierion",
+                    "FullName": "Tierion (TNT)",
+                    "ImageUrl": "\/media\/1383800\/tnt.png",
+                    "Url": "\/coins\/tnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 171986,
+                    "Name": "Tether",
+                    "FullName": "Tether (USDT)",
+                    "ImageUrl": "\/media\/1383672\/usdt.png",
+                    "Url": "\/coins\/usdt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 194883,
+                    "Name": "Everex",
+                    "FullName": "Everex (EVX)",
+                    "ImageUrl": "\/media\/1383850\/evx.png",
+                    "Url": "\/coins\/evx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25946,
+                    "Name": "Wings DAO",
+                    "FullName": "Wings DAO (WINGS)",
+                    "ImageUrl": "\/media\/1382758\/1wings.png",
+                    "Url": "\/coins\/wings\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 213663,
+                    "Name": "FileCoin",
+                    "FullName": "FileCoin (FIL)",
+                    "ImageUrl": "\/media\/1383987\/fil.png",
+                    "Url": "\/coins\/fil\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 72438,
+                    "Name": "Humaniq",
+                    "FullName": "Humaniq (HMQ)",
+                    "ImageUrl": "\/media\/1383174\/hmq.png",
+                    "Url": "\/coins\/hmq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24926,
+                    "Name": "SingularDTV",
+                    "FullName": "SingularDTV (SNGLS)",
+                    "ImageUrl": "\/media\/351368\/sngls.png",
+                    "Url": "\/coins\/sngls\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 494980,
+                    "Name": "kjrdc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/494980\/1ce8110f-b6ef-4226-befa-7c1957bfe323.jpg",
+                    "Url": "\/profile\/kjrdc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 673503,
+                    "Name": "orlipablo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673503\/79a9124a-7c1a-4d86-a680-db6f2d1f6d48.jpg",
+                    "Url": "\/profile\/orlipablo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 400643,
+                    "Name": "bilal.a.haddad",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/400643\/95d3daad-0404-4bf8-b5d3-218fe31fd783.jpg",
+                    "Url": "\/profile\/bilal.a.haddad\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 601983,
+                    "Name": "aexandergw",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/601983\/e985d3a7-ffad-47cb-bbdb-64ba081f5a75.jpg",
+                    "Url": "\/profile\/aexandergw\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 566321,
+                    "Name": "Orkun",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/566321\/f49011dd-0ea3-4904-8bec-30481c29e01a.jpg",
+                    "Url": "\/profile\/Orkun\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634741,
+                    "Name": "vojjinovic",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634741\/686eb0a6-46b8-4008-b5c6-d7e0dc9a326c.jpg",
+                    "Url": "\/profile\/vojjinovic\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 656617,
+                    "Name": "pontus_hanzen",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/656617\/26912ea4-825f-45f8-8b03-e94fa3f647e7.jpg",
+                    "Url": "\/profile\/pontus_hanzen\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 217109,
+                    "Name": "farinboy",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/217109\/3baada20-2ca5-4774-8030-4efcbf2b0be9.jpg",
+                    "Url": "\/profile\/farinboy\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 644926,
+                    "Name": "dbudesa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/644926\/74216212-7d74-4095-9660-172616510f15.jpg",
+                    "Url": "\/profile\/dbudesa\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 123132,
+                    "Name": "nasirishaikh",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/123132\/eb4acfb9-dd77-4997-8e2f-d7b7c6a3af1a.png",
+                    "Url": "\/profile\/nasirishaikh\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 208664,
+                    "Name": "epoquehu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/208664\/458466ef-fde1-43b0-a56b-e6d8569bee6b.jpg",
+                    "Url": "\/profile\/epoquehu\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 13750,
+            "Posts": "129",
+            "Comments": "150",
+            "Followers": 361,
+            "PageViewsSplit": {
+                "Overview": 38365,
+                "Markets": 1932,
+                "Analysis": 993,
+                "Charts": 3450,
+                "Trades": 951,
+                "Orderbook": 11,
+                "Forum": 6705,
+                "Influence": 211
+            },
+            "PageViews": 52618
+        },
+        "Twitter": {
+            "following": "31",
+            "account_creation": "1473866501",
+            "statuses": 411,
+            "favourites": "115",
+            "followers": 7391,
+            "name": "Santiment",
+            "link": "https:\/\/twitter.com\/santimentfeed",
+            "lists": 206,
+            "Points": 8421
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

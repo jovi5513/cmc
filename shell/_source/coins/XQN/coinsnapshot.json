@@ -1,0 +1,66 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "XQN",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "9e-7",
+            "LASTUPDATE": "1516084620",
+            "LASTVOLUME": "8000",
+            "LASTVOLUMETO": "0.0072",
+            "LASTTRADEID": "200000093",
+            "VOLUMEDAY": "12816.06131336",
+            "VOLUMEDAYTO": "0.0110684524814724",
+            "VOLUME24HOUR": "27726.02065283",
+            "VOLUME24HOURTO": "0.0244717800901113",
+            "OPENDAY": "8.1e-7",
+            "HIGHDAY": "9e-7",
+            "LOWDAY": "8e-7",
+            "OPEN24HOUR": "9e-7",
+            "HIGH24HOUR": "9e-7",
+            "LOW24HOUR": "8e-7",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "XQN",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "4.6e-7",
+                "LASTUPDATE": "1485582381",
+                "LASTVOLUME": "1464.15524731",
+                "LASTVOLUMETO": "0.00067351",
+                "LASTTRADEID": "1746276",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "4.6e-7",
+                "HIGH24HOUR": "4.6e-7",
+                "LOW24HOUR": "4.6e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "XQN",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "9e-7",
+                "LASTUPDATE": "1516084620",
+                "LASTVOLUME": "8000",
+                "LASTVOLUMETO": "0.0072",
+                "LASTTRADEID": "200000093",
+                "VOLUME24HOUR": "27726.02065283",
+                "VOLUME24HOURTO": "0.0244717800901113",
+                "OPEN24HOUR": "9e-7",
+                "HIGH24HOUR": "9e-7",
+                "LOW24HOUR": "8e-7"
+            }
+        ]
+    },
+    "Type": 100
+}

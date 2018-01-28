@@ -1,0 +1,221 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CFI",
+            "CoinName": "Cofound.it",
+            "Type": "Webpagecoinp",
+            "Points": 21226
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 56249,
+                    "Name": "ChainCoin",
+                    "FullName": "ChainCoin (CHC)",
+                    "ImageUrl": "\/media\/1383907\/chc.png",
+                    "Url": "\/coins\/chc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7636,
+                    "Name": "MonetaVerde",
+                    "FullName": "MonetaVerde (MCN)",
+                    "ImageUrl": "\/media\/20346\/mcn.png",
+                    "Url": "\/coins\/mcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338541,
+                    "Name": "Worldwide Asset eXchange",
+                    "FullName": "Worldwide Asset eXchange (WAX)",
+                    "ImageUrl": "\/media\/12318290\/wax.png",
+                    "Url": "\/coins\/wax\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 393742,
+                    "Name": "Scorum",
+                    "FullName": "Scorum (SCR)",
+                    "ImageUrl": "\/media\/14913681\/scr.png",
+                    "Url": "\/coins\/scr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 292748,
+                    "Name": "Etherparty",
+                    "FullName": "Etherparty (FUEL)",
+                    "ImageUrl": "\/media\/11999072\/fuel.png",
+                    "Url": "\/coins\/fuel\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 379248,
+                    "Name": "SophiaTX",
+                    "FullName": "SophiaTX (SPHTX)",
+                    "ImageUrl": "\/media\/14913551\/sphtx.png",
+                    "Url": "\/coins\/sphtx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 150545,
+                    "Name": "True Flip Lottery",
+                    "FullName": "True Flip Lottery (TFL)",
+                    "ImageUrl": "\/media\/1383621\/tfl.png",
+                    "Url": "\/coins\/tfl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 184221,
+                    "Name": "Exchange Union",
+                    "FullName": "Exchange Union (XUC)",
+                    "ImageUrl": "\/media\/1383784\/xuc.png",
+                    "Url": "\/coins\/xuc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 191116,
+                    "Name": "Particl",
+                    "FullName": "Particl (PART)",
+                    "ImageUrl": "\/media\/1383838\/part.png",
+                    "Url": "\/coins\/part\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 345510,
+                    "Name": "Modum",
+                    "FullName": "Modum (MOD)",
+                    "ImageUrl": "\/media\/12318362\/mod.png",
+                    "Url": "\/coins\/mod\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 241526,
+                    "Name": "fbslo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/241526\/fc6b3402-7552-47d3-8227-36fd8c7b78d4.png",
+                    "Url": "\/profile\/fbslo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 130157,
+                    "Name": "TEAMTRAE",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/130157\/2fe02c33-2ca5-409c-8ff8-1e244af83667.jpg",
+                    "Url": "\/profile\/TEAMTRAE\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 274614,
+                    "Name": "robgibbs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/274614\/9c8ae664-80fb-48e5-ac1d-339094a52b71.jpg",
+                    "Url": "\/profile\/robgibbs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 515704,
+                    "Name": "jlbii",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/515704\/7cf1d69d-c23e-4f84-8db1-d7166755fef7.jpg",
+                    "Url": "\/profile\/jlbii\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 428231,
+                    "Name": "pyannis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/428231\/cba9c740-81ab-4cb0-9028-68af5593cc21.jpg",
+                    "Url": "\/profile\/pyannis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 450243,
+                    "Name": "menziekee",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/450243\/bd836139-de2a-4ec9-9b5b-77553b2c6628.jpg",
+                    "Url": "\/profile\/menziekee\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 388743,
+                    "Name": "melis.storm",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/388743\/46892732-8cc5-40c2-a839-e5744695ca73.jpg",
+                    "Url": "\/profile\/melis.storm\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 79061,
+                    "Name": "MoChaaito",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/79061\/de059973-1aa4-40d7-93f1-64c30a8985e7.jpg",
+                    "Url": "\/profile\/MoChaaito\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 410342,
+                    "Name": "s.nemchenko",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/410342\/461f7c0f-5587-403d-96f1-036380bea47d.jpg",
+                    "Url": "\/profile\/s.nemchenko\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 590752,
+                    "Name": "livingstonvic",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/590752\/592e9ca5-d55a-4c96-a736-fd9b8c74057c.jpg",
+                    "Url": "\/profile\/livingstonvic\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 380534,
+                    "Name": "volkov485348",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/380534\/0e70beaa-5683-44da-9c17-e427ab76e35b.jpg",
+                    "Url": "\/profile\/volkov485348\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 4520,
+            "Posts": "17",
+            "Comments": "12",
+            "Followers": 159,
+            "PageViewsSplit": {
+                "Overview": 12137,
+                "Markets": 758,
+                "Analysis": 295,
+                "Charts": 1587,
+                "Trades": 280,
+                "Orderbook": 10,
+                "Forum": 844,
+                "Influence": 124
+            },
+            "PageViews": 16035
+        },
+        "Twitter": {
+            "favourites": "1354",
+            "statuses": 1179,
+            "following": "213",
+            "account_creation": "1476699865",
+            "followers": 14031,
+            "name": "Cofound.it",
+            "link": "https:\/\/twitter.com\/cofound_it",
+            "lists": 248,
+            "Points": 15272
+        },
+        "Reddit": {
+            "posts_per_hour": "0.03",
+            "link": "https:\/\/www.reddit.com\/r\/cofoundit\/",
+            "comments_per_hour": "0.05",
+            "posts_per_day": "0.81",
+            "active_users": 95,
+            "community_creation": "1490767717",
+            "subscribers": 1146,
+            "comments_per_day": 1.3,
+            "name": "cofoundit",
+            "Points": 1433
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

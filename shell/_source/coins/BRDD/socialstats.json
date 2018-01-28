@@ -1,0 +1,211 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BRDD",
+            "CoinName": "BeardDollars",
+            "Type": "Webpagecoinp",
+            "Points": 207
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28767,
+                    "Name": "FaucetCoin",
+                    "FullName": "FaucetCoin (DROP)",
+                    "ImageUrl": "\/media\/351555\/drop.png",
+                    "Url": "\/coins\/drop\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 221349,
+                    "Name": "Macroverse",
+                    "FullName": "Macroverse (MRV)",
+                    "ImageUrl": "\/media\/1384009\/mrv.png",
+                    "Url": "\/coins\/mrv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6454,
+                    "Name": "Wood Coin",
+                    "FullName": "Wood Coin (LOG)",
+                    "ImageUrl": "\/media\/20335\/log.png",
+                    "Url": "\/coins\/log\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517193,
+                    "Name": "Kalkulus",
+                    "FullName": "Kalkulus (KLK)",
+                    "ImageUrl": "\/media\/16746667\/klk.png",
+                    "Url": "\/coins\/klk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22422,
+                    "Name": "Liquid",
+                    "FullName": "Liquid (LQD)",
+                    "ImageUrl": "\/media\/351097\/lqd.png",
+                    "Url": "\/coins\/lqd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4628,
+                    "Name": "Umbrella",
+                    "FullName": "Umbrella (ULTC)",
+                    "ImageUrl": "\/media\/20063\/ultc.png",
+                    "Url": "\/coins\/ultc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4533,
+                    "Name": "Halcyon",
+                    "FullName": "Halcyon (HAL)",
+                    "ImageUrl": "\/media\/20036\/hal.png",
+                    "Url": "\/coins\/hal\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28136,
+                    "Name": "Zeta2Coin",
+                    "FullName": "Zeta2Coin (ZET2)",
+                    "ImageUrl": "\/media\/351502\/zet2.png",
+                    "Url": "\/coins\/zet2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4604,
+                    "Name": "SilkCoin",
+                    "FullName": "SilkCoin (SILK)",
+                    "ImageUrl": "\/media\/20057\/silk.png",
+                    "Url": "\/coins\/silk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 385933,
+                    "Name": "PlatinumBAR",
+                    "FullName": "PlatinumBAR (XPTX)",
+                    "ImageUrl": "\/media\/14913633\/xptx.png",
+                    "Url": "\/coins\/xptx\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 364930,
+                    "Name": "carol",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/364930\/d6d10009-eb71-4df4-a2c5-e68bfc82d151.jpg",
+                    "Url": "\/profile\/carol\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 404287,
+                    "Name": "lbjenious",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/404287\/91da1df1-841e-40a4-a13b-070f53299c34.jpg",
+                    "Url": "\/profile\/lbjenious\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 488924,
+                    "Name": "jamiehonor",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/488924\/bb7e7f38-7ebf-4034-9664-e0694f5330bf.jpg",
+                    "Url": "\/profile\/jamiehonor\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 370821,
+                    "Name": "armed_infidel1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/370821\/acca45aa-ef46-42d7-bd80-f5a67b4b1ef1.jpg",
+                    "Url": "\/profile\/armed_infidel1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 232090,
+                    "Name": "jozerucigaj",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/232090\/24fe257f-985c-42af-962e-843e01b13705.jpg",
+                    "Url": "\/profile\/jozerucigaj\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 170656,
+                    "Name": "chris.baker",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/170656\/0afb909b-fb55-42cf-a813-127ccff965a4.jpg",
+                    "Url": "\/profile\/chris.baker\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 8,
+            "Points": 200,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 2064,
+                "Markets": 76,
+                "Analysis": 45,
+                "Charts": 57,
+                "Trades": 41,
+                "Orderbook": 0,
+                "Forum": 52,
+                "Influence": 11
+            },
+            "PageViews": 2346
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 2,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "2522",
+                    "url": "https:\/\/github.com\/Bearddollars\/BeardDollars",
+                    "last_update": "1454851584",
+                    "last_push": "1454874630",
+                    "created_at": "1454851567",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 7
+        }
+    }
+}

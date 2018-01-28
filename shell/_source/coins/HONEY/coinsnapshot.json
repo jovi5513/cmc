@@ -1,0 +1,49 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "HONEY",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00001225",
+            "LASTUPDATE": "1510533113",
+            "LASTVOLUME": "449.02528882",
+            "LASTVOLUMETO": "0.005500559788045",
+            "LASTTRADEID": "1510533113001",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "898.05057764",
+            "VOLUME24HOURTO": "0.01100111957609",
+            "OPENDAY": "0.00001225",
+            "HIGHDAY": "0.00001225",
+            "LOWDAY": "0.00001225",
+            "OPEN24HOUR": "0.00001225",
+            "HIGH24HOUR": "0.00001225",
+            "LOW24HOUR": "0.00001225",
+            "LASTMARKET": "Novaexchange"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Novaexchange",
+                "FROMSYMBOL": "HONEY",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00001225",
+                "LASTUPDATE": "1510533113",
+                "LASTVOLUME": "449.02528882",
+                "LASTVOLUMETO": "0.005500559788045",
+                "LASTTRADEID": "1510533113001",
+                "VOLUME24HOUR": "898.05057764",
+                "VOLUME24HOURTO": "0.01100111957609",
+                "OPEN24HOUR": "0.00001225",
+                "HIGH24HOUR": "0.00001225",
+                "LOW24HOUR": "0.00001225"
+            }
+        ]
+    },
+    "Type": 100
+}

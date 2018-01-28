@@ -1,0 +1,153 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "WOLF",
+            "CoinName": "Insanity Coin",
+            "Type": "Webpagecoinp",
+            "Points": 100
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 7480,
+                    "Name": "Droidz",
+                    "FullName": "Droidz (DRZ)",
+                    "ImageUrl": "\/media\/20259\/drz.png",
+                    "Url": "\/coins\/drz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33010,
+                    "Name": "PosEx",
+                    "FullName": "PosEx (PEX)",
+                    "ImageUrl": "\/media\/351992\/pex.png",
+                    "Url": "\/coins\/pex\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22264,
+                    "Name": "InceptionCoin",
+                    "FullName": "InceptionCoin (INCP)",
+                    "ImageUrl": "\/media\/351078\/incp.png",
+                    "Url": "\/coins\/incp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4529,
+                    "Name": "GalaxyCoin",
+                    "FullName": "GalaxyCoin (GLX)",
+                    "ImageUrl": "\/media\/19728\/glx.png",
+                    "Url": "\/coins\/glx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4596,
+                    "Name": "RoyalCoin",
+                    "FullName": "RoyalCoin (RYC)",
+                    "ImageUrl": "\/media\/19898\/ryc.png",
+                    "Url": "\/coins\/ryc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 653274,
+                    "Name": "PolisPay",
+                    "FullName": "PolisPay (POLIS)",
+                    "ImageUrl": "\/media\/20780731\/polis.png",
+                    "Url": "\/coins\/polis\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 400693,
+                    "Name": "Insta Cash Coin",
+                    "FullName": "Insta Cash Coin (ICC)",
+                    "ImageUrl": "\/media\/15887424\/icc.png",
+                    "Url": "\/coins\/icc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7592,
+                    "Name": "GridMaster",
+                    "FullName": "GridMaster (GRM)",
+                    "ImageUrl": "\/media\/20642\/grm.png",
+                    "Url": "\/coins\/grm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6105,
+                    "Name": "Twelve Coin",
+                    "FullName": "Twelve Coin (TWLV)",
+                    "ImageUrl": "\/media\/20472\/viral.png",
+                    "Url": "\/coins\/twlv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 253766,
+                    "Name": "GoodCoin",
+                    "FullName": "GoodCoin (GOOD)",
+                    "ImageUrl": "\/media\/9350786\/good.png",
+                    "Url": "\/coins\/good\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 623620,
+                    "Name": "najeebtbtc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/623620\/a2038399-703a-4906-a004-e8c2e1580f37.jpg",
+                    "Url": "\/profile\/najeebtbtc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 305958,
+                    "Name": "Karmia",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/305958\/946d510f-58c9-4dbc-b337-49dbaa90a608.jpg",
+                    "Url": "\/profile\/Karmia\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 390431,
+                    "Name": "YuriyGagarin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/390431\/9e4b6474-da77-4c4b-969c-d8ff4b3e7aff.jpg",
+                    "Url": "\/profile\/YuriyGagarin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16226,
+                    "Name": "stanik4",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16226\/88c12f77-2f71-45ad-aac7-409552ec2e28.jpg",
+                    "Url": "\/profile\/stanik4\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 234,
+                "Markets": 12,
+                "Analysis": 30,
+                "Charts": 21,
+                "Trades": 23,
+                "Orderbook": 0,
+                "Forum": 40,
+                "Influence": 22
+            },
+            "PageViews": 382
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

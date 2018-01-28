@@ -1,0 +1,175 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SPOTS",
+            "CoinName": "Spots",
+            "Type": "Webpagecoinp",
+            "Points": 81
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 45821,
+                    "Name": "EagleCoin",
+                    "FullName": "EagleCoin (EA)",
+                    "ImageUrl": "\/media\/1382685\/ea.png",
+                    "Url": "\/coins\/ea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21219,
+                    "Name": "Uther",
+                    "FullName": "Uther (UTH)",
+                    "ImageUrl": "\/media\/350998\/uth.png",
+                    "Url": "\/coins\/uth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5336,
+                    "Name": "GhostCoin",
+                    "FullName": "GhostCoin (GHC)",
+                    "ImageUrl": "\/media\/19721\/ghc.png",
+                    "Url": "\/coins\/ghc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28885,
+                    "Name": "Lathaan",
+                    "FullName": "Lathaan (LTH)",
+                    "ImageUrl": "\/media\/351565\/lth.png",
+                    "Url": "\/coins\/lth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4551,
+                    "Name": "LuckyCoin",
+                    "FullName": "LuckyCoin (LKY)",
+                    "ImageUrl": "\/media\/19774\/lky.png",
+                    "Url": "\/coins\/lky\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645766,
+                    "Name": "Galactrum",
+                    "FullName": "Galactrum (ORE)",
+                    "ImageUrl": "\/media\/20780695\/ore.png",
+                    "Url": "\/coins\/ore\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 74894,
+                    "Name": "GrowthCoin",
+                    "FullName": "GrowthCoin (GRW)",
+                    "ImageUrl": "\/media\/1383234\/grw.png",
+                    "Url": "\/coins\/grw\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43253,
+                    "Name": "NiceCoin",
+                    "FullName": "NiceCoin (NICE)",
+                    "ImageUrl": "\/media\/1382467\/nice.png",
+                    "Url": "\/coins\/nice\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5388,
+                    "Name": "Gridmaster",
+                    "FullName": "Gridmaster (GMC)",
+                    "ImageUrl": "\/media\/20299\/gmc.png",
+                    "Url": "\/coins\/gmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29926,
+                    "Name": "Tetra",
+                    "FullName": "Tetra (TRA)",
+                    "ImageUrl": "\/media\/351700\/tra.png",
+                    "Url": "\/coins\/tra\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 77241,
+                    "Name": "randomname",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/77241\/9ae4fd58-938f-4779-b011-785bfa9d30e1.jpg",
+                    "Url": "\/profile\/randomname\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 20950,
+                    "Name": "mnuno.27",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/20950\/d51a98f6-1cc1-420d-bb45-49fbe4b4e08f.jpg",
+                    "Url": "\/profile\/mnuno.27\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 501,
+                "Markets": 35,
+                "Analysis": 31,
+                "Charts": 21,
+                "Trades": 45,
+                "Orderbook": 0,
+                "Forum": 20,
+                "Influence": 11
+            },
+            "PageViews": 664
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 2,
+                    "size": "2595",
+                    "url": "https:\/\/github.com\/iGotSpots\/SPOTS",
+                    "last_update": "1464637433",
+                    "last_push": "1464637543",
+                    "created_at": "1464637406",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 6
+        }
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ONG",
+            "CoinName": "onG.social",
+            "Type": "Webpagecoinp",
+            "Points": 2982
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 339419,
+                    "Name": "ATC Coin",
+                    "FullName": "ATC Coin (ATCC)",
+                    "ImageUrl": "\/media\/12318294\/atcc.png",
+                    "Url": "\/coins\/atcc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28089,
+                    "Name": "Bitcloud",
+                    "FullName": "Bitcloud (BTD)",
+                    "ImageUrl": "\/media\/351498\/btd.png",
+                    "Url": "\/coins\/btd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5408,
+                    "Name": "XCoin",
+                    "FullName": "XCoin (XCO)",
+                    "ImageUrl": "\/media\/20486\/xco.png",
+                    "Url": "\/coins\/xco\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33401,
+                    "Name": "Arab League Coin",
+                    "FullName": "Arab League Coin (ALC)",
+                    "ImageUrl": "\/media\/352022\/alc.png",
+                    "Url": "\/coins\/alc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29131,
+                    "Name": "Beats",
+                    "FullName": "Beats (XBTS)",
+                    "ImageUrl": "\/media\/351617\/beats.png",
+                    "Url": "\/coins\/xbts\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 524113,
+                    "Name": "SmartMesh",
+                    "FullName": "SmartMesh (SMT*)",
+                    "ImageUrl": "\/media\/16746697\/smt.png",
+                    "Url": "\/coins\/smtstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 15882,
+                    "Name": "BitHIRE",
+                    "FullName": "BitHIRE (HIRE*)",
+                    "ImageUrl": "\/media\/350613\/hire.png",
+                    "Url": "\/coins\/hirestar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34851,
+                    "Name": "CoolDarkCoin",
+                    "FullName": "CoolDarkCoin (CCX)",
+                    "ImageUrl": "\/media\/352188\/ccx.png",
+                    "Url": "\/coins\/ccx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33405,
+                    "Name": "KiloCoin",
+                    "FullName": "KiloCoin (KLC)",
+                    "ImageUrl": "\/media\/352024\/klc.png",
+                    "Url": "\/coins\/klc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341019,
+                    "Name": "TOA Coin",
+                    "FullName": "TOA Coin (TOA)",
+                    "ImageUrl": "\/media\/12318334\/toacoin.png",
+                    "Url": "\/coins\/toa\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 422175,
+                    "Name": "FFC40490",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/422175\/ca40f694-ff57-4b9b-8042-e3113bfc5c40.jpg",
+                    "Url": "\/profile\/FFC40490\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 389258,
+                    "Name": "tomtomplanetx",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/389258\/cadad01c-f359-4934-ae0f-b57594da0317.jpg",
+                    "Url": "\/profile\/tomtomplanetx\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 283371,
+                    "Name": "3546D480",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/283371\/0b19aac5-b60b-4b15-a8bf-f06e06a344f7.jpg",
+                    "Url": "\/profile\/3546D480\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 185303,
+                    "Name": "asealie",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/185303\/efa23477-544d-4091-8b63-7bcf0a929350.jpg",
+                    "Url": "\/profile\/asealie\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 379761,
+                    "Name": "Farahdila91",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/379761\/3a302d96-4cad-4891-8a89-97dfbc6ac51b.png",
+                    "Url": "\/profile\/Farahdila91\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 104138,
+                    "Name": "Christoff522",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/104138\/8c41506b-bed8-4627-8201-93ea5d50c3e4.jpg",
+                    "Url": "\/profile\/Christoff522\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 129462,
+                    "Name": "mediatechguy",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/129462\/eb93574c-007c-4746-98aa-bc117cab7537.jpg",
+                    "Url": "\/profile\/mediatechguy\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 200,
+            "Posts": "1",
+            "Followers": 7,
+            "PageViewsSplit": {
+                "Overview": 202,
+                "Markets": 34,
+                "Analysis": 14,
+                "Charts": 29,
+                "Trades": 17,
+                "Orderbook": 0,
+                "Forum": 9,
+                "Influence": 11
+            },
+            "PageViews": 316
+        },
+        "Twitter": {
+            "favourites": "546",
+            "statuses": 9292,
+            "following": "1513",
+            "account_creation": "1365575345",
+            "followers": 1658,
+            "name": "OneName Global",
+            "link": "https:\/\/twitter.com\/OneName_Global",
+            "lists": 39,
+            "Points": 1862
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "13",
+            "name": "Ong.social",
+            "likes": 920,
+            "link": "https:\/\/www.facebook.com\/OfficialonGsocial\/",
+            "Points": 920
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

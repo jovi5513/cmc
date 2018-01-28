@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "IOC",
+            "CoinName": "IOCoin",
+            "Type": "Webpagecoinp",
+            "Points": 18697
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 409128,
+                    "Name": "Farad",
+                    "FullName": "Farad (FRD)",
+                    "ImageUrl": "\/media\/16404865\/frd.png",
+                    "Url": "\/coins\/frd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 299811,
+                    "Name": "WRTcoin",
+                    "FullName": "WRTcoin (WRT)",
+                    "ImageUrl": "\/media\/12317963\/wrt.png",
+                    "Url": "\/coins\/wrt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42598,
+                    "Name": "Spectre",
+                    "FullName": "Spectre (XSPEC)",
+                    "ImageUrl": "\/media\/1382395\/xspec.png",
+                    "Url": "\/coins\/xspec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 337162,
+                    "Name": "AirSwap",
+                    "FullName": "AirSwap (AST)",
+                    "ImageUrl": "\/media\/12318279\/ast.png",
+                    "Url": "\/coins\/ast\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 198474,
+                    "Name": "BrickBlock",
+                    "FullName": "BrickBlock (BBT*)",
+                    "ImageUrl": "\/media\/1383883\/bbt.png",
+                    "Url": "\/coins\/bbtstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 586088,
+                    "Name": "DeepBrain Chain",
+                    "FullName": "DeepBrain Chain (DBC)",
+                    "ImageUrl": "\/media\/20780608\/dbc.png",
+                    "Url": "\/coins\/dbc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21382,
+                    "Name": "Carboncoin",
+                    "FullName": "Carboncoin (CARBON)",
+                    "ImageUrl": "\/media\/351017\/carbon.png",
+                    "Url": "\/coins\/carbon\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 310812,
+                    "Name": "Sumokoin",
+                    "FullName": "Sumokoin (SUMO)",
+                    "ImageUrl": "\/media\/12318088\/sumo.png",
+                    "Url": "\/coins\/sumo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5339,
+                    "Name": "LiteDoge",
+                    "FullName": "LiteDoge (LDOGE)",
+                    "ImageUrl": "\/media\/20332\/ldoge.png",
+                    "Url": "\/coins\/ldoge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179947,
+                    "Name": "Starbase",
+                    "FullName": "Starbase (STAR)",
+                    "ImageUrl": "\/media\/1383750\/star1.png",
+                    "Url": "\/coins\/star\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 476782,
+                    "Name": "mantou16",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/476782\/bf7728d7-dea1-4a9c-bb00-1b90009e02bc.jpg",
+                    "Url": "\/profile\/mantou16\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 661793,
+                    "Name": "EA7270AA",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/661793\/83788ff1-c34f-4dff-b46d-59ee6cfde8a4.jpg",
+                    "Url": "\/profile\/EA7270AA\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 620288,
+                    "Name": "Maxyking",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/620288\/058807b8-acf4-4cca-920d-01796fe40b84.jpg",
+                    "Url": "\/profile\/Maxyking\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 566452,
+                    "Name": "ivanstojanov44",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/566452\/1fa34a45-d4f7-45c8-85dd-525ed140b0ee.jpg",
+                    "Url": "\/profile\/ivanstojanov44\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 313581,
+                    "Name": "milesdonald",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/313581\/b0a93df4-56ba-41ad-8eb6-1a8ad1fe1190.jpg",
+                    "Url": "\/profile\/milesdonald\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 488211,
+                    "Name": "emdev100",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/488211\/dfb6da73-8ca0-48d3-bf44-7c5f9aeb47a5.jpg",
+                    "Url": "\/profile\/emdev100\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 517292,
+                    "Name": "smithy_kev",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/517292\/197a5242-84a4-49b8-a5e6-4d3230cafb97.jpg",
+                    "Url": "\/profile\/smithy_kev\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 528532,
+                    "Name": "aboudi.khan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/528532\/aa38c1e2-bf2b-4843-8f51-0a92b4838000.jpg",
+                    "Url": "\/profile\/aboudi.khan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 535615,
+                    "Name": "applemasterkz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/535615\/4920a18f-faef-45b9-b0c5-c59c59f9ec6e.jpg",
+                    "Url": "\/profile\/applemasterkz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 218355,
+                    "Name": "bobrov290793",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/218355\/b4c6422d-8a5d-4df6-8000-68fd80656711.jpg",
+                    "Url": "\/profile\/bobrov290793\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 520280,
+                    "Name": "JohnLambent",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/520280\/672fec8f-6bc6-4856-9340-82ebe356a3e5.jpg",
+                    "Url": "\/profile\/JohnLambent\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 3095,
+            "Followers": 109,
+            "Posts": "12",
+            "Comments": "7",
+            "PageViewsSplit": {
+                "Overview": 11349,
+                "Markets": 488,
+                "Analysis": 330,
+                "Charts": 1492,
+                "Trades": 300,
+                "Orderbook": 37,
+                "Forum": 376,
+                "Influence": 127
+            },
+            "PageViews": 14499
+        },
+        "Twitter": {
+            "following": "1868",
+            "account_creation": "1405448530",
+            "name": "I\/O Digital & I\/O Coin",
+            "lists": 410,
+            "statuses": 1997,
+            "favourites": "267",
+            "followers": 10447,
+            "link": "https:\/\/twitter.com\/IO_Coin",
+            "Points": 12498
+        },
+        "Reddit": {
+            "posts_per_hour": "0.02",
+            "comments_per_hour": "0.05",
+            "posts_per_day": "0.45",
+            "comments_per_day": 1.09,
+            "name": "IODigitalCurrency",
+            "link": "https:\/\/www.reddit.com\/r\/IODigitalCurrency\/",
+            "active_users": 42,
+            "community_creation": "1411719469",
+            "subscribers": 632,
+            "Points": 760
+        },
+        "Facebook": {
+            "likes": 2258,
+            "link": "https:\/\/www.facebook.com\/iodigitalblockchain\/",
+            "is_closed": "false",
+            "talking_about": "166",
+            "name": "IO Digital \/ IOCoin - Blockchain technology",
+            "Points": 2258
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1447197457",
+                    "open_total_issues": "2",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "21411",
+                    "closed_total_issues": "2",
+                    "stars": 12,
+                    "last_update": "1515312445",
+                    "forks": 8,
+                    "url": "https:\/\/github.com\/IOCoin\/DIONS",
+                    "closed_issues": "2",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1514836417",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 19,
+                    "open_issues": "2"
+                }
+            ],
+            "Points": 85
+        }
+    }
+}

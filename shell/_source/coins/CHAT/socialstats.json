@@ -1,0 +1,177 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CHAT",
+            "CoinName": "ChatCoin",
+            "Type": "Webpagecoinp",
+            "Points": 110
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5404,
+                    "Name": "BitMiles",
+                    "FullName": "BitMiles (BTMI)",
+                    "ImageUrl": "\/media\/20213\/btmi.png",
+                    "Url": "\/coins\/btmi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645830,
+                    "Name": "GoaCoin",
+                    "FullName": "GoaCoin (GOA)",
+                    "ImageUrl": "\/media\/20780697\/goa.png",
+                    "Url": "\/coins\/goa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4569,
+                    "Name": "NanoToken",
+                    "FullName": "NanoToken (NAN)",
+                    "ImageUrl": "\/media\/19821\/nan.png",
+                    "Url": "\/coins\/nan\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21222,
+                    "Name": "MediumProject",
+                    "FullName": "MediumProject (MPRO)",
+                    "ImageUrl": "\/media\/350999\/mpro.jpg",
+                    "Url": "\/coins\/mpro\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6107,
+                    "Name": "MultiWallet Coin",
+                    "FullName": "MultiWallet Coin (MWC)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/mwc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 73132,
+                    "Name": "ParallelCoin",
+                    "FullName": "ParallelCoin (DUO)",
+                    "ImageUrl": "\/media\/1383196\/duo.png",
+                    "Url": "\/coins\/duo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 436162,
+                    "Name": "RAFL",
+                    "FullName": "RAFL (RFL)",
+                    "ImageUrl": "\/media\/16746549\/rfl.png",
+                    "Url": "\/coins\/rfl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29556,
+                    "Name": "EmiratesGoldCoin",
+                    "FullName": "EmiratesGoldCoin (EMIGR)",
+                    "ImageUrl": "\/media\/351659\/emirg.png",
+                    "Url": "\/coins\/emigr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21378,
+                    "Name": "GIZMOcoin",
+                    "FullName": "GIZMOcoin (GIZ)",
+                    "ImageUrl": "\/media\/351015\/giz.png",
+                    "Url": "\/coins\/giz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7653,
+                    "Name": "Hedgecoin",
+                    "FullName": "Hedgecoin (HEDG)",
+                    "ImageUrl": "\/media\/20663\/hedg.png",
+                    "Url": "\/coins\/hedg\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 553959,
+                    "Name": "alhajibonjo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/553959\/4e131c65-25d9-4357-927e-3bf56e6e5718.jpg",
+                    "Url": "\/profile\/alhajibonjo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 122685,
+                    "Name": "hamzaxwq",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/122685\/3a2b6d4b-394f-4dcc-9049-6666a098108f.jpg",
+                    "Url": "\/profile\/hamzaxwq\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Posts": "1",
+            "Points": 110,
+            "Followers": 3,
+            "Comments": "1",
+            "PageViewsSplit": {
+                "Overview": 997,
+                "Markets": 87,
+                "Analysis": 44,
+                "Charts": 55,
+                "Trades": 56,
+                "Orderbook": 0,
+                "Forum": 9,
+                "Influence": 16
+            },
+            "PageViews": 1264
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 0,
+                    "size": "2474",
+                    "url": "https:\/\/github.com\/cchatnetcoin\/chat-source",
+                    "last_update": "1489486998",
+                    "last_push": "1489487219",
+                    "created_at": "1489486804",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

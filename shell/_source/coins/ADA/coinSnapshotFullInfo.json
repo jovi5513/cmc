@@ -1,0 +1,69 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Cardano (ADA) - Live streaming prices and market cap",
+            "PageDescription": "Live Cardano prices from all markets and ADA coin market Capitalization. Stay up to date with the latest Cardano price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/12318177\/ada.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "321992",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Cardano (ADA)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ADA",
+            "Url": "\/coins\/ada\/",
+            "BaseAngularUrl": "\/coins\/ada\/",
+            "Name": "Cardano",
+            "ImageUrl": "\/media\/12318177\/ada.png",
+            "Description": "<p>\u00a0<\/p><p>Designed and developed by\u00a0<span>IOHK in conjunction with the University of Edinburgh, the University of Athens and the University of Connecticut, C<\/span>ardano SL\u00a0<span>(or Cardano Settlement Layer) is a Proof of Stake cryptocurrency\u00a0based on the Haskell implementation of the white paper \u201cOuroboros: A Provably Secure Proof of Stake Blockchain Protocol\u201d by Aggelos Kiayias, Alexander Russell, Bernardo David and Roman Oliynykov.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "45000000000",
+            "Algorithm": "Ouroboros",
+            "ProofType": "PoS",
+            "StartDate": "01\/01\/0001",
+            "Twitter": "@cardanocom",
+            "AffiliateUrl": "https:\/\/www.cardanohub.org",
+            "Website": "<a href='https:\/\/www.cardanohub.org' target='_blank'>Cardano<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970079,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 25927070538,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Binance~ADA~ETH",
+            "2~Binance~ADA~BTC",
+            "2~BitTrex~ADA~USD",
+            "2~BitTrex~ADA~BTC",
+            "2~BitTrex~ADA~ETH"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ADA~ETH~4~0.0006038~1515980104~79~0.04778078~1494226~8075640.437594705~4785.07913588001~51363168.75213483~30019.60759568999~0.0005827~0.0006093~0.0005702~0.0006039~0.0006154~0.0005533~Binance~7ffe9",
+            "5~CCCAGG~ADA~BTC~4~0.00005989~1515980104~43~0.00256968~3104255~20280263.574608255~1214.5512545599959~144694058.0234667~8367.986197359995~0.00005817~0.00006204~0.0000572~0.00005846~0.00006241~0.00005545~Binance~7ffe9",
+            "5~CCCAGG~ADA~USD~4~0.814~1515980095~1147.7395918~934.26001624~1293148~535182.6878353998~439113.2963147604~6464770.951777507~5062636.057156019~0.8~0.8609~0.78~0.8401~0.8609~0.72~BitTrex~7ffe9"
+        ]
+    },
+    "Type": 100
+}

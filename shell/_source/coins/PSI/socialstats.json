@@ -1,0 +1,167 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PSI",
+            "CoinName": "PSIcoin",
+            "Type": "Webpagecoinp",
+            "Points": 150
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 29368,
+                    "Name": "EGOcoin",
+                    "FullName": "EGOcoin (EGO)",
+                    "ImageUrl": "\/media\/351632\/ego.png",
+                    "Url": "\/coins\/ego\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42850,
+                    "Name": "Opes",
+                    "FullName": "Opes (OPES)",
+                    "ImageUrl": "\/media\/1382434\/opes.png",
+                    "Url": "\/coins\/opes\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37204,
+                    "Name": "Impulse Coin",
+                    "FullName": "Impulse Coin (IMPS)",
+                    "ImageUrl": "\/media\/1381984\/imps.jpg",
+                    "Url": "\/coins\/imps\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5389,
+                    "Name": "MemoryCoin",
+                    "FullName": "MemoryCoin (MMC)",
+                    "ImageUrl": "\/media\/19795\/mmc.png",
+                    "Url": "\/coins\/mmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21229,
+                    "Name": "Supreme",
+                    "FullName": "Supreme (SPM)",
+                    "ImageUrl": "\/media\/351002\/sup.png",
+                    "Url": "\/coins\/spm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4325,
+                    "Name": "AlphaCoin",
+                    "FullName": "AlphaCoin (ALF)",
+                    "ImageUrl": "\/media\/19600\/alf.png",
+                    "Url": "\/coins\/alf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21213,
+                    "Name": "Cygnus",
+                    "FullName": "Cygnus (CYG)",
+                    "ImageUrl": "\/media\/350997\/cygnus.png",
+                    "Url": "\/coins\/cyg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8693,
+                    "Name": "Axiom Coin",
+                    "FullName": "Axiom Coin (AXIOM)",
+                    "ImageUrl": "\/media\/20686\/axiom.png",
+                    "Url": "\/coins\/axiom\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5337,
+                    "Name": "DayTrader Coin",
+                    "FullName": "DayTrader Coin (DTC*)",
+                    "ImageUrl": "\/media\/19688\/dtc.png",
+                    "Url": "\/coins\/dtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37370,
+                    "Name": "PXcoin",
+                    "FullName": "PXcoin (PX)",
+                    "ImageUrl": "\/media\/1381994\/px.png",
+                    "Url": "\/coins\/px\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 357108,
+                    "Name": "hit.dik2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/357108\/beed24a0-de13-4b44-b70f-66d0746e6a61.jpg",
+                    "Url": "\/profile\/hit.dik2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 287851,
+                    "Name": "21ACD4F9",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/287851\/82783b43-9c2c-473b-ab2c-a2e0ca78f68e.jpg",
+                    "Url": "\/profile\/21ACD4F9\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 135122,
+                    "Name": "vinxs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/135122\/36712a7f-6f47-4c7f-8529-38f70161b3e9.jpg",
+                    "Url": "\/profile\/vinxs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 73859,
+                    "Name": "kryptonet01k",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/73859\/42cc49d9-75ee-41db-98eb-378f2420b442.jpg",
+                    "Url": "\/profile\/kryptonet01k\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 6,
+            "Points": 150,
+            "PageViewsSplit": {
+                "Overview": 633,
+                "Markets": 33,
+                "Analysis": 24,
+                "Charts": 47,
+                "Trades": 17,
+                "Orderbook": 0,
+                "Forum": 29,
+                "Influence": 10
+            },
+            "PageViews": 793
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

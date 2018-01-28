@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "SQL",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "2",
+            "PRICE": "0.0001026",
+            "LASTUPDATE": "1516085484",
+            "LASTVOLUME": "29.63194751",
+            "LASTVOLUMETO": "0.00340619",
+            "LASTTRADEID": "1516085484.002",
+            "VOLUMEDAY": "503.89994633",
+            "VOLUMEDAYTO": "0.05439619",
+            "VOLUME24HOUR": "4638.30035373",
+            "VOLUME24HOURTO": "0.4774276541079171",
+            "OPENDAY": "0.0001166",
+            "HIGHDAY": "0.0001166",
+            "LOWDAY": "0.00009055",
+            "OPEN24HOUR": "0.0001327",
+            "HIGH24HOUR": "0.0001333",
+            "LOW24HOUR": "0.00008759",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "SQL",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.0000225",
+                "LASTUPDATE": "1516044240",
+                "LASTVOLUME": "2.02300408",
+                "LASTVOLUMETO": "0.00004551759180000001",
+                "LASTTRADEID": "200000026",
+                "VOLUME24HOUR": "618.87561941",
+                "VOLUME24HOURTO": "0.014829174107917101",
+                "OPEN24HOUR": "0.00004",
+                "HIGH24HOUR": "0.000045",
+                "LOW24HOUR": "0.0000225"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "SQL",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00011495",
+                "LASTUPDATE": "1516085484",
+                "LASTVOLUME": "29.63194751",
+                "LASTVOLUMETO": "0.00340619",
+                "LASTTRADEID": "1516085484.002",
+                "VOLUME24HOUR": "4019.42473432",
+                "VOLUME24HOURTO": "0.46259848",
+                "OPEN24HOUR": "0.00014694",
+                "HIGH24HOUR": "0.00014695",
+                "LOW24HOUR": "0.00009761"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Poloniex",
+                "FROMSYMBOL": "SQL",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00002533",
+                "LASTUPDATE": "1437414153",
+                "LASTVOLUME": "193.93454327",
+                "LASTVOLUMETO": "0.00491236",
+                "LASTTRADEID": "401",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00002533",
+                "HIGH24HOUR": "0.00002533",
+                "LOW24HOUR": "0.00002533"
+            }
+        ]
+    },
+    "Type": 100
+}

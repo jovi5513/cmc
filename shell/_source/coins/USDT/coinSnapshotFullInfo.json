@@ -1,0 +1,74 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Tether (USDT) - Live streaming prices and market cap",
+            "PageDescription": "Live Tether prices from all markets and USDT coin market Capitalization. Stay up to date with the latest Tether price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1383672\/usdt.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "171986",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Tether (USDT)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "USDT",
+            "Url": "\/coins\/usdt\/",
+            "BaseAngularUrl": "\/coins\/usdt\/",
+            "Name": "Tether",
+            "ImageUrl": "\/media\/1383672\/usdt.png",
+            "Description": "<p>USDT is a cryptocurrency asset issued on the Bitcoin blockchain via the Omni Layer Protocol. Each USDT unit is backed by a U.S Dollar held in the reserves of the Tether Limited and can be redeemed through the Tether Platform. USDT can be transferred, stored, spent, just like bitcoins or any other cryptocurrency.<\/p><p>USDT and other Tether currencies were created to facilitate the transfer of national currencies, to provide users with a stable alternative to Bitcoin and to provide an alternative for exchange and wallet audits which are currently unreliable. USDT provides an alternative to Proof of Solvency methods by introducing a Proof of Reserves Process.<\/p><p>In the Tether Proof of Reserves system, the amount of USDT in circulations can be easily checked on the Bitcoin blockchain via the tools provided at Omnichest.info, while the corresponding total amount of USD held reserves is proved by publishing the bank balance and undergoing periodic audits by professionals.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "",
+            "Algorithm": "",
+            "ProofType": "",
+            "StartDate": "10\/06\/2014",
+            "Twitter": "@Tether_to",
+            "AffiliateUrl": "https:\/\/tether.to\/",
+            "Website": "<a href='https:\/\/tether.to\/' target='_blank'>Tether<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970333,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 1468089837,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~USDT~LTC",
+            "2~CCEX~USDT~USD",
+            "2~Exmo~USDT~USD",
+            "2~Exmo~USDT~RUB",
+            "2~BitTrex~USDT~BTC",
+            "2~CCEX~USDT~BTC",
+            "2~Kraken~USDT~USD",
+            "2~CCEX~USDT~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~USDT~LTC~4~0.00511275~1515073742~13.13425652~0.06715217002262999~1837814~0~0~0~0~0.00511275~0.00511275~0.00511275~0.00511275~0.00511275~0.00511275~CCEX~7ffe9",
+            "5~CCCAGG~USDT~USD~4~1.01~1515978142~1000~1005.1000000000001~1515978142.2438~738950.6461192904~743353.7238886956~5650298.985730969~5700029.101365722~1.01~1.01~1.01~1.01~1.02~1~Kraken~7ffe9",
+            "5~CCCAGG~USDT~RUB~2~58.5~1515977925~6.81865942~398.89157607~41859158~1370.5794888099997~80981.58852491~28043.707339999997~1637928.3401801204~59.46~59.62~58.5~58.73~59.65~54.86~Exmo~7ffe9",
+            "5~CCCAGG~USDT~BTC~4~0.00007781~1515127787~172.61406681~0.0134311005384861~1172769~0~0~0~0~0.00007781~0.00007781~0.00007781~0.00007781~0.00007781~0.00007781~CCEX~7ffe9",
+            "5~CCCAGG~USDT~DOGE~4~234.96847897~1515127977~8.49475644~1995.999999927412~2167407~0~0~0~0~234.97~234.97~234.96847897~234.96847897~234.96847897~234.96847897~CCEX~7ffe9"
+        ]
+    },
+    "Type": 100
+}

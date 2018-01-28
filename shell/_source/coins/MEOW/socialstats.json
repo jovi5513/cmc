@@ -1,0 +1,178 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MEOW",
+            "CoinName": "Kittehcoin",
+            "Type": "Webpagecoinp",
+            "Points": 2351
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 40992,
+                    "Name": "LeninCoin",
+                    "FullName": "LeninCoin (LENIN)",
+                    "ImageUrl": "\/media\/1382270\/lenin.png",
+                    "Url": "\/coins\/lenin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 234659,
+                    "Name": "Scorista",
+                    "FullName": "Scorista (SCOR)",
+                    "ImageUrl": "\/media\/9350695\/scor.jpg",
+                    "Url": "\/coins\/scor\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5360,
+                    "Name": "NXTTY",
+                    "FullName": "NXTTY (NXTTY)",
+                    "ImageUrl": "\/media\/20379\/nxtty.png",
+                    "Url": "\/coins\/nxtty\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4425,
+                    "Name": "CraigsCoin",
+                    "FullName": "CraigsCoin (CRAIG)",
+                    "ImageUrl": "\/media\/20022\/craig.png",
+                    "Url": "\/coins\/craig\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 348256,
+                    "Name": "Eddie coin",
+                    "FullName": "Eddie coin (EDDIE)",
+                    "ImageUrl": "\/media\/12318382\/eddie.png",
+                    "Url": "\/coins\/eddie\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7600,
+                    "Name": "Litestar Coin",
+                    "FullName": "Litestar Coin (LTS)",
+                    "ImageUrl": "\/media\/20644\/lts.png",
+                    "Url": "\/coins\/lts\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 78172,
+                    "Name": "PupaCoin",
+                    "FullName": "PupaCoin (PUPA)",
+                    "ImageUrl": "\/media\/1383245\/pupa.png",
+                    "Url": "\/coins\/pupa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32686,
+                    "Name": "Pabyosi Coin",
+                    "FullName": "Pabyosi Coin (PCS)",
+                    "ImageUrl": "\/media\/351927\/pabyosi.png",
+                    "Url": "\/coins\/pcs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5400,
+                    "Name": "Quotient",
+                    "FullName": "Quotient (XQN)",
+                    "ImageUrl": "\/media\/12318067\/xqn.png",
+                    "Url": "\/coins\/xqn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8716,
+                    "Name": "SpecCoin",
+                    "FullName": "SpecCoin (SPEC)",
+                    "ImageUrl": "\/media\/20689\/spec.png",
+                    "Url": "\/coins\/spec\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 409376,
+                    "Name": "pipistrelle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/409376\/71d03059-a287-415a-8bca-98418930fe39.jpg",
+                    "Url": "\/profile\/pipistrelle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 138186,
+                    "Name": "2DCF216F",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/138186\/baa8f483-eed2-4d7d-918b-0477a95a4bf0.jpg",
+                    "Url": "\/profile\/2DCF216F\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Posts": "2",
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 478,
+                "Markets": 34,
+                "Analysis": 12,
+                "Charts": 20,
+                "Trades": 18,
+                "Orderbook": 0,
+                "Forum": 18,
+                "Influence": 5
+            },
+            "PageViews": 585
+        },
+        "Twitter": {
+            "favourites": "450",
+            "lists": 60,
+            "statuses": 1816,
+            "following": "79",
+            "account_creation": "1389506282",
+            "name": "KittehCoin Official",
+            "followers": 1856,
+            "link": "https:\/\/twitter.com\/KittehCoin",
+            "Points": 2157
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/kittehcoin\/\/",
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1498553249",
+                    "url": "https:\/\/github.com\/kittehcoin\/kittehcoin",
+                    "forks": 21,
+                    "closed_total_issues": "17",
+                    "closed_pull_issues": "12",
+                    "subscribers": 12,
+                    "open_issues": "0",
+                    "size": "148877",
+                    "created_at": "1387783879",
+                    "closed_issues": "5",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1499912197",
+                    "stars": 16
+                }
+            ],
+            "Points": 94
+        }
+    }
+}

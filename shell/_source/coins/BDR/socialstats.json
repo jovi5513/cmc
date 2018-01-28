@@ -1,0 +1,203 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BDR",
+            "CoinName": "BlueDragon",
+            "Type": "Webpagecoinp",
+            "Points": 475
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 6339,
+                    "Name": "EdgeCoin",
+                    "FullName": "EdgeCoin (EDGE)",
+                    "ImageUrl": "\/media\/20556\/edge.png",
+                    "Url": "\/coins\/edge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 584861,
+                    "Name": "Crypto-X",
+                    "FullName": "Crypto-X (CWX)",
+                    "ImageUrl": "\/media\/20780607\/cwx.png",
+                    "Url": "\/coins\/cwx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 238622,
+                    "Name": "Ethereum.Link",
+                    "FullName": "Ethereum.Link (LNK)",
+                    "ImageUrl": "\/media\/9350738\/lnk.png",
+                    "Url": "\/coins\/lnk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 77337,
+                    "Name": "Phreak",
+                    "FullName": "Phreak (PHR)",
+                    "ImageUrl": "\/media\/1383243\/phr.jpg",
+                    "Url": "\/coins\/phr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20211,
+                    "Name": "Khancoin",
+                    "FullName": "Khancoin (KNC*)",
+                    "ImageUrl": "\/media\/350895\/knc.png",
+                    "Url": "\/coins\/kncstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 394055,
+                    "Name": "D\u00fcber",
+                    "FullName": "D\u00fcber (DBR)",
+                    "ImageUrl": "\/media\/14913687\/dbr.png",
+                    "Url": "\/coins\/dbr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29001,
+                    "Name": "Mind Gene",
+                    "FullName": "Mind Gene (MG)",
+                    "ImageUrl": "\/media\/351588\/mg.png",
+                    "Url": "\/coins\/mg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20920,
+                    "Name": "SwingCoin",
+                    "FullName": "SwingCoin (SWING)",
+                    "ImageUrl": "\/media\/350987\/swing.png",
+                    "Url": "\/coins\/swing\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185873,
+                    "Name": "SynchroCoin",
+                    "FullName": "SynchroCoin (SYC)",
+                    "ImageUrl": "\/media\/1383793\/syc.png",
+                    "Url": "\/coins\/syc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4606,
+                    "Name": "SmartCoin",
+                    "FullName": "SmartCoin (SMC)",
+                    "ImageUrl": "\/media\/20059\/smc.png",
+                    "Url": "\/coins\/smc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 644743,
+                    "Name": "followperclick",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/644743\/556b5d98-8cc3-438b-ab57-b99a9b60514f.jpg",
+                    "Url": "\/profile\/followperclick\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 383454,
+                    "Name": "kuoiocom",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/383454\/9cbc8eef-3c16-4097-83e2-205d59ef1833.jpg",
+                    "Url": "\/profile\/kuoiocom\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 383428,
+                    "Name": "MarkBuster",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/383428\/a20f185c-7307-42fb-9f68-4207d204d209.png",
+                    "Url": "\/profile\/MarkBuster\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 383416,
+                    "Name": "droneCoon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/383416\/b169d01d-db10-4a8f-bbff-9a6adcbbeeb0.jpg",
+                    "Url": "\/profile\/droneCoon\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 383404,
+                    "Name": "CoinDragon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/383404\/644643a8-5c36-409c-8a9d-0d263aa4907e.jpg",
+                    "Url": "\/profile\/CoinDragon\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 383419,
+                    "Name": "annabelSmith",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/383419\/2a697cb3-ae79-4168-9c21-28dfc133fb25.jpg",
+                    "Url": "\/profile\/annabelSmith\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 383411,
+                    "Name": "lara-slane",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/383411\/d0e035dc-c68c-4e78-a789-c0c09f78a1af.jpg",
+                    "Url": "\/profile\/lara-slane\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 383406,
+                    "Name": "jack_spine",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/383406\/8bc7bead-e46f-416c-a07f-75cd7b7556e9.jpg",
+                    "Url": "\/profile\/jack_spine\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 383381,
+                    "Name": "alexbaysmith",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/383381\/6199bd96-e8d0-494f-a6c9-a670f1dd9a8d.jpg",
+                    "Url": "\/profile\/alexbaysmith\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 383417,
+                    "Name": "Andre__Sally",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/383417\/b858be20-2c2f-4e15-bfca-b82b096d80b6.jpg",
+                    "Url": "\/profile\/Andre__Sally\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 383441,
+                    "Name": "Cpt_BlueDragon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/383441\/cccaf515-7dd9-4cf4-bb2f-b6116db9038a.jpg",
+                    "Url": "\/profile\/Cpt_BlueDragon\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 475,
+            "Followers": 19,
+            "PageViewsSplit": {
+                "Overview": 175,
+                "Markets": 4,
+                "Analysis": 5,
+                "Charts": 5,
+                "Trades": 6,
+                "Orderbook": 0,
+                "Forum": 42,
+                "Influence": 11
+            },
+            "PageViews": 248
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/altcoin\/comments\/7b7vlj\/bluedragons_coin\/",
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

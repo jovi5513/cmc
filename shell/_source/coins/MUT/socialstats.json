@@ -1,0 +1,169 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MUT",
+            "CoinName": "Mutual Coin",
+            "Type": "Webpagecoinp",
+            "Points": 1111
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4330,
+                    "Name": "ApexCoin",
+                    "FullName": "ApexCoin (APEX)",
+                    "ImageUrl": "\/media\/19599\/apex.png",
+                    "Url": "\/coins\/apex\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 39700,
+                    "Name": "AcidCoin",
+                    "FullName": "AcidCoin (ACID)",
+                    "ImageUrl": "\/media\/1382237\/acid.png",
+                    "Url": "\/coins\/acid\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 23423,
+                    "Name": "Let it Ride",
+                    "FullName": "Let it Ride (LIR)",
+                    "ImageUrl": "\/media\/351208\/lir.png",
+                    "Url": "\/coins\/lir\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4623,
+                    "Name": "TigerCoin",
+                    "FullName": "TigerCoin (TGC)",
+                    "ImageUrl": "\/media\/19930\/tgc.png",
+                    "Url": "\/coins\/tgc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44957,
+                    "Name": "ParanoiaCoin",
+                    "FullName": "ParanoiaCoin (PARA)",
+                    "ImageUrl": "\/media\/1382641\/para.png",
+                    "Url": "\/coins\/para\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6343,
+                    "Name": "FutCoin",
+                    "FullName": "FutCoin (FUTC)",
+                    "ImageUrl": "\/media\/20558\/futc.png",
+                    "Url": "\/coins\/futc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4589,
+                    "Name": "Protoshares",
+                    "FullName": "Protoshares (PTS*)",
+                    "ImageUrl": "\/media\/19869\/pts.png",
+                    "Url": "\/coins\/ptsstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4324,
+                    "Name": "Aero Coin",
+                    "FullName": "Aero Coin (AERO)",
+                    "ImageUrl": "\/media\/19594\/aero.png",
+                    "Url": "\/coins\/aero\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 26121,
+                    "Name": "ReturnBit",
+                    "FullName": "ReturnBit (RBIT)",
+                    "ImageUrl": "\/media\/351405\/rbit.png",
+                    "Url": "\/coins\/rbit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20814,
+                    "Name": "PrimeChain",
+                    "FullName": "PrimeChain (PRIME)",
+                    "ImageUrl": "\/media\/350979\/prime.png",
+                    "Url": "\/coins\/prime\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 398608,
+                    "Name": "domovoy1469",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/398608\/b90f941b-97d5-4d6a-a704-3f3b6cab315a.jpg",
+                    "Url": "\/profile\/domovoy1469\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 571657,
+                    "Name": "C7ADE7ED",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/571657\/dc815248-a46d-47a0-842d-e34a9392fe47.jpg",
+                    "Url": "\/profile\/C7ADE7ED\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 583096,
+                    "Name": "sexylauren9620",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/583096\/794bf53f-321a-4c8b-a2db-ef4f762c0d55.jpg",
+                    "Url": "\/profile\/sexylauren9620\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 503108,
+                    "Name": "carbonsteele.ctg",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/503108\/8e83a8a2-6394-489c-aae5-9d7986d87ff3.jpg",
+                    "Url": "\/profile\/carbonsteele.ctg\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 467482,
+                    "Name": "lucawieder",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/467482\/ee46f628-cd3a-478c-8060-275d72c2bb9b.jpg",
+                    "Url": "\/profile\/lucawieder\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 200,
+            "Posts": "3",
+            "PageViewsSplit": {
+                "Overview": 702,
+                "Markets": 33,
+                "Analysis": 31,
+                "Charts": 13,
+                "Trades": 8,
+                "Orderbook": 0,
+                "Forum": 25,
+                "Influence": 15
+            },
+            "PageViews": 827
+        },
+        "Twitter": {
+            "lists": 13,
+            "favourites": "0",
+            "name": "Mutual Coin",
+            "statuses": 67,
+            "followers": 846,
+            "following": "0",
+            "link": "https:\/\/twitter.com\/mutual_coin",
+            "account_creation": "1509512138",
+            "Points": 911
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

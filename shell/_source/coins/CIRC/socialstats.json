@@ -1,0 +1,192 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CIRC",
+            "CoinName": "CryptoCircuits",
+            "Type": "Webpagecoinp",
+            "Points": 1127
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 71873,
+                    "Name": "WarCoin",
+                    "FullName": "WarCoin (WRC*)",
+                    "ImageUrl": "\/media\/1383162\/wrc.png",
+                    "Url": "\/coins\/wrcstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29554,
+                    "Name": "BaseballCardCoin",
+                    "FullName": "BaseballCardCoin (BBCC)",
+                    "ImageUrl": "\/media\/351658\/bbcc.png",
+                    "Url": "\/coins\/bbcc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6112,
+                    "Name": "Singular",
+                    "FullName": "Singular (SIGU)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/sigu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 61066,
+                    "Name": "Dark",
+                    "FullName": "Dark (DARK)",
+                    "ImageUrl": "\/media\/1382995\/dark.png",
+                    "Url": "\/coins\/dark\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4546,
+                    "Name": "KeyCoin",
+                    "FullName": "KeyCoin (KEY)",
+                    "ImageUrl": "\/media\/20331\/key.png",
+                    "Url": "\/coins\/keystar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24885,
+                    "Name": "ExtremeCoin",
+                    "FullName": "ExtremeCoin (XT)",
+                    "ImageUrl": "\/media\/351364\/xt.png",
+                    "Url": "\/coins\/xt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28229,
+                    "Name": "DickCoin",
+                    "FullName": "DickCoin (DCK)",
+                    "ImageUrl": "\/media\/351516\/dck.png",
+                    "Url": "\/coins\/dck\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28703,
+                    "Name": "FonzieCoin",
+                    "FullName": "FonzieCoin (FONZ)",
+                    "ImageUrl": "\/media\/351553\/fonz.png",
+                    "Url": "\/coins\/fonz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24307,
+                    "Name": "EnterCoin (ENTER)",
+                    "FullName": "EnterCoin (ENTER) (ENTER)",
+                    "ImageUrl": "\/media\/351305\/enter.png",
+                    "Url": "\/coins\/enter\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30536,
+                    "Name": "ScryptToken",
+                    "FullName": "ScryptToken (SCT)",
+                    "ImageUrl": "\/media\/351791\/sct.png",
+                    "Url": "\/coins\/sct\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 181764,
+                    "Name": "crypto.leb.2017",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/181764\/2015fa0a-da82-4682-95b6-3640736551dd.jpg",
+                    "Url": "\/profile\/crypto.leb.2017\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 51241,
+                    "Name": "soufian.el.badra",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/51241\/e890be26-2489-491e-ab54-4cec890fa66b.jpg",
+                    "Url": "\/profile\/soufian.el.badra\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 569,
+                "Markets": 69,
+                "Analysis": 41,
+                "Charts": 57,
+                "Trades": 26,
+                "Orderbook": 0,
+                "Forum": 26,
+                "Influence": 11
+            },
+            "PageViews": 799
+        },
+        "Twitter": {
+            "favourites": "79",
+            "statuses": 73,
+            "following": "668",
+            "account_creation": "1433098399",
+            "name": "Crypto Circuits",
+            "link": "https:\/\/twitter.com\/CryptoCircuits",
+            "lists": 23,
+            "followers": 917,
+            "Points": 1032
+        },
+        "Reddit": {
+            "comments_per_hour": "0.00",
+            "comments_per_day": 0,
+            "posts_per_day": "0.00",
+            "link": "https:\/\/www.reddit.com\/r\/cryptocircuits\/",
+            "active_users": 1,
+            "subscribers": 7,
+            "posts_per_hour": "0.00",
+            "community_creation": "1435165956",
+            "name": "cryptocircuits",
+            "Points": 10
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1455539718",
+                    "url": "https:\/\/github.com\/cryptocircuits\/circuits",
+                    "subscribers": 2,
+                    "size": "7049",
+                    "created_at": "1434280729",
+                    "open_pull_issues": "0",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "stars": 2,
+                    "forks": 1,
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1436469715"
+                }
+            ],
+            "Points": 10
+        }
+    }
+}

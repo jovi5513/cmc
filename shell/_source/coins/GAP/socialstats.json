@@ -1,0 +1,245 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GAP",
+            "CoinName": "Gapcoin",
+            "Type": "Webpagecoinp",
+            "Points": 2023
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 37191,
+                    "Name": "WorldPay",
+                    "FullName": "WorldPay (WOP)",
+                    "ImageUrl": "\/media\/1381982\/wop.png",
+                    "Url": "\/coins\/wop\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369209,
+                    "Name": "Datacoin",
+                    "FullName": "Datacoin (DTC)",
+                    "ImageUrl": "\/media\/14913440\/dtc.png",
+                    "Url": "\/coins\/dtcstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 368694,
+                    "Name": "ATMChain",
+                    "FullName": "ATMChain (ATM)",
+                    "ImageUrl": "\/media\/14913430\/atm.png",
+                    "Url": "\/coins\/atmstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20685,
+                    "Name": "SoilCoin",
+                    "FullName": "SoilCoin (SOIL)",
+                    "ImageUrl": "\/media\/350949\/soil.png",
+                    "Url": "\/coins\/soil\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 206512,
+                    "Name": "Wavesnode.net",
+                    "FullName": "Wavesnode.net (WNET)",
+                    "ImageUrl": "\/media\/1383982\/wnet1.png",
+                    "Url": "\/coins\/wnet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20718,
+                    "Name": "VapersCoin",
+                    "FullName": "VapersCoin (VPRC)",
+                    "ImageUrl": "\/media\/350951\/vpc.png",
+                    "Url": "\/coins\/vprc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4428,
+                    "Name": "CasinoCoin",
+                    "FullName": "CasinoCoin (CSC)",
+                    "ImageUrl": "\/media\/19667\/csc.png",
+                    "Url": "\/coins\/csc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5312,
+                    "Name": "Horizon",
+                    "FullName": "Horizon (HZ)",
+                    "ImageUrl": "\/media\/20320\/hz.png",
+                    "Url": "\/coins\/hz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35955,
+                    "Name": "Cannabis Industry Coin",
+                    "FullName": "Cannabis Industry Coin (XCI)",
+                    "ImageUrl": "\/media\/352312\/xci.png",
+                    "Url": "\/coins\/xci\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20444,
+                    "Name": "PostCoin",
+                    "FullName": "PostCoin (POST)",
+                    "ImageUrl": "\/media\/350917\/post.png",
+                    "Url": "\/coins\/post\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 547637,
+                    "Name": "chefyanev",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/547637\/91a6d7b7-40ce-4086-9b49-f82cdc7be636.jpg",
+                    "Url": "\/profile\/chefyanev\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 569047,
+                    "Name": "michaeles493",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/569047\/dabebab4-3527-4ae2-9e9e-ad43916d5bb5.jpg",
+                    "Url": "\/profile\/michaeles493\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 413690,
+                    "Name": "l0phtyg0als666",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/413690\/d1aa5a5e-4a5e-4ffc-9c1a-c53466d691ba.jpg",
+                    "Url": "\/profile\/l0phtyg0als666\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 595633,
+                    "Name": "lsalci",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/595633\/c7125471-80be-4a8f-a167-6e632bed5e28.jpg",
+                    "Url": "\/profile\/lsalci\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 580501,
+                    "Name": "icann",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/580501\/7f519795-f260-4ccf-9ea2-4f2bfb9dd30d.jpg",
+                    "Url": "\/profile\/icann\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 361388,
+                    "Name": "kirios",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/361388\/74d02012-27a8-4a84-ad99-3747eb382113.jpg",
+                    "Url": "\/profile\/kirios\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 517842,
+                    "Name": "gambler240562",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/517842\/78e8e420-373a-4ab6-841a-188505aff9b6.jpg",
+                    "Url": "\/profile\/gambler240562\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 573173,
+                    "Name": "dtowes0703",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/573173\/cf6af1fb-65dc-41d9-9b8d-259c5f6466c9.jpg",
+                    "Url": "\/profile\/dtowes0703\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 537323,
+                    "Name": "rsrahulsaxena410",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/537323\/faede85b-82e4-4b3d-9985-d1a03a8cd722.jpg",
+                    "Url": "\/profile\/rsrahulsaxena410\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 365979,
+                    "Name": "geldrama",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/365979\/5bfe322a-13d9-42d7-acbb-b2da03363a16.jpg",
+                    "Url": "\/profile\/geldrama\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 184779,
+                    "Name": "libramonkey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/184779\/f13404b9-c950-400d-aaa8-cb1645d3125f.jpg",
+                    "Url": "\/profile\/libramonkey\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 600,
+            "Followers": 23,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 1538,
+                "Markets": 120,
+                "Analysis": 193,
+                "Charts": 167,
+                "Trades": 117,
+                "Orderbook": 3,
+                "Forum": 43,
+                "Influence": 39
+            },
+            "PageViews": 2220
+        },
+        "Twitter": {
+            "following": "51",
+            "account_creation": "1402007935",
+            "name": "Gapcoin",
+            "lists": 12,
+            "statuses": 30,
+            "favourites": "1",
+            "followers": 239,
+            "link": "https:\/\/twitter.com\/Gapcoin",
+            "Points": 299
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 1019,
+            "link": "https:\/\/www.facebook.com\/HempCoinOfficial\/",
+            "is_closed": "false",
+            "talking_about": "17",
+            "name": "HempCoin",
+            "Points": 1019
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1393886822",
+                    "open_total_issues": "1",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "8738",
+                    "closed_total_issues": "16",
+                    "stars": 23,
+                    "last_update": "1515796524",
+                    "forks": 14,
+                    "url": "https:\/\/github.com\/hempcoin-project\/THC",
+                    "closed_issues": "7",
+                    "closed_pull_issues": "9",
+                    "fork": "false",
+                    "last_push": "1515716353",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 18,
+                    "open_issues": "1"
+                }
+            ],
+            "Points": 105
+        }
+    }
+}

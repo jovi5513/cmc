@@ -1,0 +1,226 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PRG",
+            "CoinName": "Paragon",
+            "Type": "Webpagecoinp",
+            "Points": 249457
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 178978,
+                    "Name": "FunFair",
+                    "FullName": "FunFair (FUN)",
+                    "ImageUrl": "\/media\/1383738\/fun.png",
+                    "Url": "\/coins\/fun\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 339617,
+                    "Name": "Power Ledger",
+                    "FullName": "Power Ledger (POWR)",
+                    "ImageUrl": "\/media\/12318301\/powr.png",
+                    "Url": "\/coins\/powr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35165,
+                    "Name": "BitConnect Coin",
+                    "FullName": "BitConnect Coin (BCCOIN)",
+                    "ImageUrl": "\/media\/9350709\/bccoin1.png",
+                    "Url": "\/coins\/bccoin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 236358,
+                    "Name": "Utrust",
+                    "FullName": "Utrust (UTK)",
+                    "ImageUrl": "\/media\/9350717\/utrust.png",
+                    "Url": "\/coins\/utk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 107672,
+                    "Name": "Basic Attention Token",
+                    "FullName": "Basic Attention Token (BAT)",
+                    "ImageUrl": "\/media\/1383370\/bat.png",
+                    "Url": "\/coins\/bat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5293,
+                    "Name": "MaidSafe Coin",
+                    "FullName": "MaidSafe Coin (MAID)",
+                    "ImageUrl": "\/media\/352247\/maid.png",
+                    "Url": "\/coins\/maid\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 221463,
+                    "Name": "Substratum Network",
+                    "FullName": "Substratum Network (SUB)",
+                    "ImageUrl": "\/media\/1384011\/sub1.png",
+                    "Url": "\/coins\/sub\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30173,
+                    "Name": "Ardor",
+                    "FullName": "Ardor (ARDR)",
+                    "ImageUrl": "\/media\/351736\/ardr.png",
+                    "Url": "\/coins\/ardr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 17857,
+                    "Name": "OKCash",
+                    "FullName": "OKCash (OK)",
+                    "ImageUrl": "\/media\/350819\/ok.png",
+                    "Url": "\/coins\/ok\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 137013,
+                    "Name": "Status Network Token",
+                    "FullName": "Status Network Token (SNT)",
+                    "ImageUrl": "\/media\/1383568\/snt.png",
+                    "Url": "\/coins\/snt\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 677604,
+                    "Name": "inversia2000",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677604\/3699dbc9-a9a3-428d-a9b7-76ee42576c02.jpg",
+                    "Url": "\/profile\/inversia2000\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 348926,
+                    "Name": "kirk.crypto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/348926\/caf39c23-7656-4c8b-9681-88b02d663aff.jpg",
+                    "Url": "\/profile\/kirk.crypto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 292765,
+                    "Name": "Dave541",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/292765\/c7eb5f6f-358e-426d-a304-d6a656b0a934.png",
+                    "Url": "\/profile\/Dave541\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 675051,
+                    "Name": "tristanwills",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675051\/9d51f33d-8f7f-478d-9e7e-9fbf53d97eb4.jpg",
+                    "Url": "\/profile\/tristanwills\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 642330,
+                    "Name": "dobrev78",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/642330\/0e7886a3-4726-4b32-b6b8-0ac40fa9a932.jpg",
+                    "Url": "\/profile\/dobrev78\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 655725,
+                    "Name": "raghava.srb",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/655725\/7a3c5795-c8ed-4d3e-b844-0597739219a9.jpg",
+                    "Url": "\/profile\/raghava.srb\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 635247,
+                    "Name": "aleku89",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/635247\/dc7049d6-5ab2-43b9-8a50-71fd8abcf982.jpg",
+                    "Url": "\/profile\/aleku89\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 672875,
+                    "Name": "alex8ybiz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/672875\/dd8d766a-5259-4735-a885-21f266cc7618.jpg",
+                    "Url": "\/profile\/alex8ybiz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 433874,
+                    "Name": "domingos1968",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/433874\/765618f4-2e7a-43ac-9f50-0773bbfaf7cb.jpg",
+                    "Url": "\/profile\/domingos1968\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 667020,
+                    "Name": "jonpikopreston",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/667020\/8f1e8c8f-9c77-4f3d-948a-ae0a9ed759d0.jpg",
+                    "Url": "\/profile\/jonpikopreston\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670606,
+                    "Name": "jaramosiii35",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670606\/22dad5ca-3937-44f7-968e-d86c9fd3be30.jpg",
+                    "Url": "\/profile\/jaramosiii35\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 911,
+            "Posts": "83",
+            "Comments": "129",
+            "Points": 26140,
+            "PageViewsSplit": {
+                "Overview": 83252,
+                "Markets": 4559,
+                "Analysis": 2840,
+                "Charts": 4564,
+                "Trades": 2440,
+                "Orderbook": 86,
+                "Forum": 3332,
+                "Influence": 614
+            },
+            "PageViews": 101687
+        },
+        "Twitter": {
+            "lists": 86,
+            "favourites": "162",
+            "statuses": 377,
+            "following": "72",
+            "account_creation": "1498537342",
+            "name": "Paragon",
+            "followers": 3799,
+            "link": "https:\/\/twitter.com\/ParagonCoin",
+            "Points": 4229
+        },
+        "Reddit": {
+            "subscribers": 1124,
+            "posts_per_hour": "0.13",
+            "community_creation": "1498537527",
+            "comments_per_hour": "0.82",
+            "comments_per_day": 19.61,
+            "name": "ParagonCoin",
+            "link": "https:\/\/www.reddit.com\/r\/ParagonCoin\/",
+            "posts_per_day": "3.11",
+            "active_users": 12,
+            "Points": 1199
+        },
+        "Facebook": {
+            "name": "Paragon Coin",
+            "likes": 217879,
+            "link": "https:\/\/www.facebook.com\/paragoncoin\/",
+            "talking_about": "177",
+            "is_closed": "false",
+            "Points": 217879
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

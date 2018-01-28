@@ -1,0 +1,182 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CYP",
+            "CoinName": "CypherPunkCoin",
+            "Type": "Webpagecoinp",
+            "Points": 551
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 385933,
+                    "Name": "PlatinumBAR",
+                    "FullName": "PlatinumBAR (XPTX)",
+                    "ImageUrl": "\/media\/14913633\/xptx.png",
+                    "Url": "\/coins\/xptx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8683,
+                    "Name": "BitSeeds",
+                    "FullName": "BitSeeds (XSEED)",
+                    "ImageUrl": "\/media\/20163\/xseed.png",
+                    "Url": "\/coins\/xseed\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30521,
+                    "Name": "GanjaCoin V2",
+                    "FullName": "GanjaCoin V2 (GNJ)",
+                    "ImageUrl": "\/media\/351789\/gnj.png",
+                    "Url": "\/coins\/gnj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22180,
+                    "Name": "ExitCoin",
+                    "FullName": "ExitCoin (EXIT)",
+                    "ImageUrl": "\/media\/351065\/exit.png",
+                    "Url": "\/coins\/exit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 59966,
+                    "Name": "StarCredits",
+                    "FullName": "StarCredits (SRC*)",
+                    "ImageUrl": "\/media\/1382936\/src1.png",
+                    "Url": "\/coins\/srcstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4342,
+                    "Name": "BoostCoin",
+                    "FullName": "BoostCoin (BOST)",
+                    "ImageUrl": "\/media\/19626\/bost.png",
+                    "Url": "\/coins\/bost\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5363,
+                    "Name": "MaryJane Coin",
+                    "FullName": "MaryJane Coin (MARYJ)",
+                    "ImageUrl": "\/media\/20343\/maryj.png",
+                    "Url": "\/coins\/maryj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6115,
+                    "Name": "SupplyShock",
+                    "FullName": "SupplyShock (M1)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/m1\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22191,
+                    "Name": "Clinton",
+                    "FullName": "Clinton (CLINT)",
+                    "ImageUrl": "\/media\/351067\/clint.png",
+                    "Url": "\/coins\/clint\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 221605,
+                    "Name": "Memessenger",
+                    "FullName": "Memessenger (MET)",
+                    "ImageUrl": "\/media\/1384013\/met1.png",
+                    "Url": "\/coins\/met\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 183629,
+                    "Name": "abdulmasriyanto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/183629\/1f49bf85-f2bc-4c43-ae01-798cc8c965e8.jpg",
+                    "Url": "\/profile\/abdulmasriyanto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 159444,
+                    "Name": "k.vanal",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/159444\/ca2cb71f-830a-48b7-88da-380a5f85331c.jpg",
+                    "Url": "\/profile\/k.vanal\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 59798,
+                    "Name": "helpdisman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/59798\/72950aa6-e730-475e-8849-d447efe74ed1.jpg",
+                    "Url": "\/profile\/helpdisman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 44889,
+                    "Name": "seme",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/44889\/3262bd23-82e9-42b6-945d-02ebc620da15.jpg",
+                    "Url": "\/profile\/seme\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 13213,
+                    "Name": "1975.09",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/13213\/04e2d09c-73e0-4aa4-9b29-7c0852718326.jpg",
+                    "Url": "\/profile\/1975.09\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 7,
+            "Points": 175,
+            "PageViewsSplit": {
+                "Overview": 512,
+                "Markets": 48,
+                "Analysis": 36,
+                "Charts": 42,
+                "Trades": 28,
+                "Orderbook": 0,
+                "Forum": 28,
+                "Influence": 12
+            },
+            "PageViews": 706
+        },
+        "Twitter": {
+            "followers": 351,
+            "following": "309",
+            "lists": 5,
+            "favourites": "38",
+            "statuses": 66,
+            "account_creation": "1427784263",
+            "name": "Cypher",
+            "link": "https:\/\/twitter.com\/CypherCoin2015",
+            "Points": 376
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

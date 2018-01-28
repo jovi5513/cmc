@@ -1,0 +1,183 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "RMS",
+            "CoinName": "Resumeo Shares",
+            "Type": "Webpagecoinp",
+            "Points": 261
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 7592,
+                    "Name": "GridMaster",
+                    "FullName": "GridMaster (GRM)",
+                    "ImageUrl": "\/media\/20642\/grm.png",
+                    "Url": "\/coins\/grm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6105,
+                    "Name": "Twelve Coin",
+                    "FullName": "Twelve Coin (TWLV)",
+                    "ImageUrl": "\/media\/20472\/viral.png",
+                    "Url": "\/coins\/twlv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 253766,
+                    "Name": "GoodCoin",
+                    "FullName": "GoodCoin (GOOD)",
+                    "ImageUrl": "\/media\/9350786\/good.png",
+                    "Url": "\/coins\/good\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28019,
+                    "Name": "bitCNY",
+                    "FullName": "bitCNY (BITCNY)",
+                    "ImageUrl": "\/media\/351490\/bitcny.png",
+                    "Url": "\/coins\/bitcny\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 362846,
+                    "Name": "Bitcloud 2.0",
+                    "FullName": "Bitcloud 2.0 (BTDX)",
+                    "ImageUrl": "\/media\/14761939\/btdx.png",
+                    "Url": "\/coins\/btdx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4334,
+                    "Name": "AXRON",
+                    "FullName": "AXRON (AXR)",
+                    "ImageUrl": "\/media\/20086\/axr.png",
+                    "Url": "\/coins\/axr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 380671,
+                    "Name": "WiserCoin",
+                    "FullName": "WiserCoin (WSC)",
+                    "ImageUrl": "\/media\/14913560\/wsc.png",
+                    "Url": "\/coins\/wsc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20580,
+                    "Name": "Phalanx",
+                    "FullName": "Phalanx (PXL)",
+                    "ImageUrl": "\/media\/350930\/pxl.png",
+                    "Url": "\/coins\/pxl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 213113,
+                    "Name": "Bitmxittz",
+                    "FullName": "Bitmxittz (BMXT)",
+                    "ImageUrl": "\/media\/1383984\/bmxt.png",
+                    "Url": "\/coins\/bmxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517389,
+                    "Name": "AC3",
+                    "FullName": "AC3 (AC3)",
+                    "ImageUrl": "\/media\/16746668\/ac3.png",
+                    "Url": "\/coins\/ac3\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 583391,
+                    "Name": "bisoooandroid",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/583391\/6acb3953-e16a-4d29-b7ea-e5c6d8d1a8aa.jpg",
+                    "Url": "\/profile\/bisoooandroid\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 75759,
+                    "Name": "lebedev2007",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/75759\/bbbcd0ae-721f-4eb0-ad87-db8ecfdcb800.jpg",
+                    "Url": "\/profile\/lebedev2007\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 48519,
+                    "Name": "wajidpk350",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/48519\/bc21d498-9a77-42b6-b556-77188ea765e4.jpg",
+                    "Url": "\/profile\/wajidpk350\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 285,
+                "Markets": 37,
+                "Analysis": 16,
+                "Charts": 18,
+                "Trades": 21,
+                "Orderbook": 0,
+                "Forum": 16,
+                "Influence": 6
+            },
+            "PageViews": 399
+        },
+        "Twitter": {
+            "favourites": "0",
+            "lists": 3,
+            "statuses": 24,
+            "following": "166",
+            "account_creation": "1417908145",
+            "name": "Resumeo shares",
+            "followers": 171,
+            "link": "https:\/\/twitter.com\/Resumeoshares",
+            "Points": 186
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1420300873",
+                    "url": "https:\/\/github.com\/vanyabios\/resumeo",
+                    "forks": 0,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 0,
+                    "open_issues": "0",
+                    "size": "4424",
+                    "created_at": "1418321364",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "C",
+                    "open_total_issues": "0",
+                    "last_push": "1420300873",
+                    "stars": 0
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

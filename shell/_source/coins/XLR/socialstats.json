@@ -1,0 +1,241 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XLR",
+            "CoinName": "Solaris",
+            "Type": "Webpagecoinp",
+            "Points": 10123
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 502301,
+                    "Name": "Verify",
+                    "FullName": "Verify (CRED)",
+                    "ImageUrl": "\/media\/16746661\/cred.png",
+                    "Url": "\/coins\/cred\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 48787,
+                    "Name": "CreativeChain",
+                    "FullName": "CreativeChain (CREA)",
+                    "ImageUrl": "\/media\/1382709\/crea.png",
+                    "Url": "\/coins\/crea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188400,
+                    "Name": "Crypviser",
+                    "FullName": "Crypviser (CVCOIN)",
+                    "ImageUrl": "\/media\/1383821\/cvcoin.png",
+                    "Url": "\/coins\/cvcoin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 345544,
+                    "Name": "Bitcomo",
+                    "FullName": "Bitcomo (BM*)",
+                    "ImageUrl": "\/media\/12318361\/bm.png",
+                    "Url": "\/coins\/bmstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4563,
+                    "Name": "Cryptsy Mining Contract",
+                    "FullName": "Cryptsy Mining Contract (MN)",
+                    "ImageUrl": "\/media\/19796\/mn1.png",
+                    "Url": "\/coins\/mn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182288,
+                    "Name": "Denarius",
+                    "FullName": "Denarius (DNR)",
+                    "ImageUrl": "\/media\/1383770\/dnr.png",
+                    "Url": "\/coins\/dnr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 51845,
+                    "Name": "Zero",
+                    "FullName": "Zero (ZER)",
+                    "ImageUrl": "\/media\/1382761\/zer.png",
+                    "Url": "\/coins\/zer\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 187015,
+                    "Name": "Napoleon X",
+                    "FullName": "Napoleon X (NPX)",
+                    "ImageUrl": "\/media\/12318066\/npx.png",
+                    "Url": "\/coins\/npx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20339,
+                    "Name": "Dotcoin",
+                    "FullName": "Dotcoin (DOT)",
+                    "ImageUrl": "\/media\/350909\/dot.png",
+                    "Url": "\/coins\/dot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 543363,
+                    "Name": "Bounty0x",
+                    "FullName": "Bounty0x (BNTY)",
+                    "ImageUrl": "\/media\/20780588\/bnty.png",
+                    "Url": "\/coins\/bnty\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 670606,
+                    "Name": "jaramosiii35",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670606\/22dad5ca-3937-44f7-968e-d86c9fd3be30.jpg",
+                    "Url": "\/profile\/jaramosiii35\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 362814,
+                    "Name": "Stumyza",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/362814\/5d088101-b37d-4c0c-b895-68bce8a0f782.jpg",
+                    "Url": "\/profile\/Stumyza\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 79863,
+                    "Name": "crankgirl",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/79863\/e11b0355-be78-4955-9baa-bb001f848745.jpg",
+                    "Url": "\/profile\/crankgirl\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 379238,
+                    "Name": "kjdowdle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/379238\/af331a97-ebb2-4ef9-a6c6-cd63d2a19e0d.jpg",
+                    "Url": "\/profile\/kjdowdle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 489214,
+                    "Name": "Lodes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/489214\/61c06b44-13f1-4903-bb73-76ab7456a032.jpg",
+                    "Url": "\/profile\/Lodes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 437212,
+                    "Name": "ian.peterson.esq",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/437212\/7bcf48d5-a8c7-4608-b22a-974ca56cfaf6.jpg",
+                    "Url": "\/profile\/ian.peterson.esq\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 556337,
+                    "Name": "erictruongg",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/556337\/2170bde7-fe1b-42ff-9b06-a192b56ea152.jpg",
+                    "Url": "\/profile\/erictruongg\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 630060,
+                    "Name": "gongdan201243",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/630060\/eec377a8-93f7-4418-b5be-9a100e015829.jpg",
+                    "Url": "\/profile\/gongdan201243\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 505963,
+                    "Name": "jpingram",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/505963\/22811cf7-1efc-4b43-b91e-e67c111e3ea6.jpg",
+                    "Url": "\/profile\/jpingram\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 619229,
+                    "Name": "nadime23",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/619229\/3dedfd0c-f49d-4876-b796-72351880354b.jpg",
+                    "Url": "\/profile\/nadime23\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 555848,
+                    "Name": "liya.igirl",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/555848\/0a6c48ec-90ae-45f7-9ae7-8d6a77ff38f6.jpg",
+                    "Url": "\/profile\/liya.igirl\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1970,
+            "Posts": "12",
+            "Comments": "2",
+            "Followers": 66,
+            "PageViewsSplit": {
+                "Overview": 4196,
+                "Markets": 313,
+                "Analysis": 270,
+                "Charts": 253,
+                "Trades": 144,
+                "Orderbook": 9,
+                "Forum": 157,
+                "Influence": 95
+            },
+            "PageViews": 5437
+        },
+        "Twitter": {
+            "statuses": 1578,
+            "favourites": "752",
+            "following": "4723",
+            "account_creation": "1489831277",
+            "followers": 7860,
+            "name": "Solaris Coin",
+            "link": "https:\/\/twitter.com\/SolarisCoin",
+            "lists": 58,
+            "Points": 8151
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1506189432",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1506193055",
+                    "closed_total_issues": "0",
+                    "size": "5229",
+                    "stars": 0,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "last_update": "1506189650",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/solariscoin\/solariscoin",
+                    "closed_issues": "0",
+                    "language": "C++",
+                    "subscribers": 0,
+                    "open_issues": "0",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 2
+        }
+    }
+}

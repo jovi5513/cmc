@@ -1,0 +1,239 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "TELL",
+            "CoinName": "Tellurion",
+            "Type": "Webpagecoinp",
+            "Points": 873
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 179077,
+                    "Name": "PAquarium",
+                    "FullName": "PAquarium (PQT)",
+                    "ImageUrl": "\/media\/1383741\/pqt.png",
+                    "Url": "\/coins\/pqt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20991,
+                    "Name": "Francs",
+                    "FullName": "Francs (FRN)",
+                    "ImageUrl": "\/media\/350992\/frn.png",
+                    "Url": "\/coins\/frn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30182,
+                    "Name": "Aircoin",
+                    "FullName": "Aircoin (AIR*)",
+                    "ImageUrl": "\/media\/351740\/air.png",
+                    "Url": "\/coins\/airstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 481737,
+                    "Name": "BMChain",
+                    "FullName": "BMChain (BMT)",
+                    "ImageUrl": "\/media\/16746638\/bmt.png",
+                    "Url": "\/coins\/bmt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25916,
+                    "Name": "Lutetium Coin",
+                    "FullName": "Lutetium Coin (LC)",
+                    "ImageUrl": "\/media\/351398\/lc.png",
+                    "Url": "\/coins\/lc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 347247,
+                    "Name": "UpToken",
+                    "FullName": "UpToken (UP)",
+                    "ImageUrl": "\/media\/12318374\/up.png",
+                    "Url": "\/coins\/up\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4349,
+                    "Name": "Quatloo",
+                    "FullName": "Quatloo (QTL)",
+                    "ImageUrl": "\/media\/19879\/qtl.png",
+                    "Url": "\/coins\/qtl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 330003,
+                    "Name": "Multibot",
+                    "FullName": "Multibot (MBT)",
+                    "ImageUrl": "\/media\/12318238\/mbt.png",
+                    "Url": "\/coins\/mbt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 348131,
+                    "Name": "Render Token",
+                    "FullName": "Render Token (RNDR)",
+                    "ImageUrl": "\/media\/12318381\/rndr.png",
+                    "Url": "\/coins\/rndr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24305,
+                    "Name": "Voyacoin",
+                    "FullName": "Voyacoin (VOYA)",
+                    "ImageUrl": "\/media\/351304\/voya.png",
+                    "Url": "\/coins\/voya\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 212631,
+                    "Name": "drtom1515",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/212631\/f37dfaf6-6340-410f-8ccd-04552a13044e.jpg",
+                    "Url": "\/profile\/drtom1515\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 219240,
+                    "Name": "master-trader",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/219240\/96c5aea5-518c-4dad-a3bf-eb7bd14aff7c.jpg",
+                    "Url": "\/profile\/master-trader\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 287942,
+                    "Name": "denisnicolescu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/287942\/84de94a0-d231-466c-9704-d89bcbc7db66.jpg",
+                    "Url": "\/profile\/denisnicolescu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 399735,
+                    "Name": "zwljt855",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/399735\/2c9d5c29-0202-4c4b-9889-90694445cfe4.jpg",
+                    "Url": "\/profile\/zwljt855\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 520625,
+                    "Name": "ankit.prince13",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/520625\/d20ce803-b076-4c0e-bb73-1abbe60b6ceb.jpg",
+                    "Url": "\/profile\/ankit.prince13\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 520280,
+                    "Name": "JohnLambent",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/520280\/672fec8f-6bc6-4856-9340-82ebe356a3e5.jpg",
+                    "Url": "\/profile\/JohnLambent\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 164605,
+                    "Name": "radix",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/164605\/1c71d558-f3dc-43c7-85bf-f643718b1e06.jpg",
+                    "Url": "\/profile\/radix\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 172423,
+                    "Name": "marckdemolay",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/172423\/eca77925-9d85-41fd-a18b-9cd30a5485c0.jpg",
+                    "Url": "\/profile\/marckdemolay\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 134885,
+                    "Name": "svaishay1251995",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/134885\/6a6c3e99-8de7-44c0-9ddc-ebe5c212d6aa.jpg",
+                    "Url": "\/profile\/svaishay1251995\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 575,
+            "Followers": 23,
+            "PageViewsSplit": {
+                "Overview": 2161,
+                "Markets": 292,
+                "Analysis": 144,
+                "Charts": 324,
+                "Trades": 108,
+                "Orderbook": 5,
+                "Forum": 40,
+                "Influence": 65
+            },
+            "PageViews": 3139
+        },
+        "Twitter": {
+            "statuses": 25,
+            "favourites": "11",
+            "following": "166",
+            "account_creation": "1472496671",
+            "followers": 239,
+            "name": "TelluriON",
+            "link": "https:\/\/twitter.com\/telluriondev",
+            "lists": 10,
+            "Points": 289
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1472921804",
+                    "open_total_issues": "1",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1472922222",
+                    "closed_total_issues": "0",
+                    "size": "2331",
+                    "stars": 1,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1514271995",
+                    "open_pull_issues": "0",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/telluriondev\/tellurion",
+                    "closed_issues": "0",
+                    "subscribers": 2,
+                    "open_issues": "1",
+                    "language": "C++",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 9
+        }
+    }
+}

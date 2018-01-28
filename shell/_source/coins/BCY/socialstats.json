@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BCY",
+            "CoinName": "BitCrystals",
+            "Type": "Webpagecoinp",
+            "Points": 9975
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4570,
+                    "Name": "Nautilus Coin",
+                    "FullName": "Nautilus Coin (NAUT)",
+                    "ImageUrl": "\/media\/19822\/naut.png",
+                    "Url": "\/coins\/naut\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340776,
+                    "Name": "Caviar",
+                    "FullName": "Caviar (CAV)",
+                    "ImageUrl": "\/media\/12318328\/cav.png",
+                    "Url": "\/coins\/cav\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20908,
+                    "Name": "ZeitCoin",
+                    "FullName": "ZeitCoin (ZEIT)",
+                    "ImageUrl": "\/media\/350984\/zeit.png",
+                    "Url": "\/coins\/zeit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 18670,
+                    "Name": "HOdlcoin",
+                    "FullName": "HOdlcoin (HODL)",
+                    "ImageUrl": "\/media\/350840\/hodl.png",
+                    "Url": "\/coins\/hodl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 303943,
+                    "Name": "AB-Chain",
+                    "FullName": "AB-Chain (ABC)",
+                    "ImageUrl": "\/media\/12318006\/bac.png",
+                    "Url": "\/coins\/abc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186331,
+                    "Name": "Presearch",
+                    "FullName": "Presearch (PRE*)",
+                    "ImageUrl": "\/media\/1383801\/pst.png",
+                    "Url": "\/coins\/prestar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 327500,
+                    "Name": "PayPie",
+                    "FullName": "PayPie (PPP)",
+                    "ImageUrl": "\/media\/12318216\/ppp.png",
+                    "Url": "\/coins\/ppp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32694,
+                    "Name": "Darcrus",
+                    "FullName": "Darcrus (DAR)",
+                    "ImageUrl": "\/media\/351930\/dar.png",
+                    "Url": "\/coins\/dar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340966,
+                    "Name": "Everus",
+                    "FullName": "Everus (EVR)",
+                    "ImageUrl": "\/media\/12318332\/evr.png",
+                    "Url": "\/coins\/evr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4333,
+                    "Name": "Aurora Coin",
+                    "FullName": "Aurora Coin (AUR)",
+                    "ImageUrl": "\/media\/19608\/aur.png",
+                    "Url": "\/coins\/aur\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 674962,
+                    "Name": "thomas_hart",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674962\/c833006c-2ac6-46ac-b2fb-0af14308a4ae.jpg",
+                    "Url": "\/profile\/thomas_hart\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 32607,
+                    "Name": "vlad.lialine",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/32607\/cd213bb2-f2e6-4572-9dbf-5649244a1683.jpg",
+                    "Url": "\/profile\/vlad.lialine\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 50113,
+                    "Name": "suryakdas1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/50113\/42097843-2fb1-4df5-b986-9bfed3558af8.jpg",
+                    "Url": "\/profile\/suryakdas1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 530681,
+                    "Name": "a.zakharov.cd",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/530681\/376b85f5-de82-400e-a13b-aafc424ff2c9.jpg",
+                    "Url": "\/profile\/a.zakharov.cd\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 557491,
+                    "Name": "kirzhava",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/557491\/8e96d10b-60a6-4611-af4e-02f13c74edb5.jpg",
+                    "Url": "\/profile\/kirzhava\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 498454,
+                    "Name": "wouldzey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/498454\/852716b4-deb6-4e71-87eb-dc51a425d00e.png",
+                    "Url": "\/profile\/wouldzey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 462889,
+                    "Name": "peterkertesz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/462889\/c6431a17-2533-425e-917f-49e9c2ca34ec.jpg",
+                    "Url": "\/profile\/peterkertesz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 361382,
+                    "Name": "cryptos13",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/361382\/565faba6-89e8-43cb-82b6-673821b0908c.png",
+                    "Url": "\/profile\/cryptos13\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 333546,
+                    "Name": "robpascu1976",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/333546\/3cb6ab4d-9912-4752-b309-0c0bc626feb2.jpg",
+                    "Url": "\/profile\/robpascu1976\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 354701,
+                    "Name": "tranduckientq",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/354701\/999d9bdb-f63f-43a8-8e8b-cadda07cb2cc.jpg",
+                    "Url": "\/profile\/tranduckientq\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 228856,
+                    "Name": "markplaysdrums",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/228856\/35c80ccc-e8b3-4078-a07b-cea6ed58593c.jpg",
+                    "Url": "\/profile\/markplaysdrums\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 2035,
+            "Followers": 75,
+            "Posts": "6",
+            "Comments": "1",
+            "PageViewsSplit": {
+                "Overview": 5326,
+                "Markets": 397,
+                "Analysis": 176,
+                "Charts": 1325,
+                "Trades": 151,
+                "Orderbook": 49,
+                "Forum": 140,
+                "Influence": 93
+            },
+            "PageViews": 7657
+        },
+        "Twitter": {
+            "following": "1039",
+            "account_creation": "1410539679",
+            "name": "Spells of Genesis",
+            "lists": 266,
+            "statuses": 2951,
+            "favourites": "1475",
+            "followers": 5696,
+            "link": "https:\/\/twitter.com\/spellsofgenesis",
+            "Points": 7028
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 886,
+            "link": "https:\/\/www.facebook.com\/spellsofgenesis\/",
+            "is_closed": "false",
+            "talking_about": "13",
+            "name": "Spells of Genesis",
+            "Points": 886
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1441205451",
+                    "open_total_issues": "1",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "12616",
+                    "closed_total_issues": "0",
+                    "stars": 1,
+                    "last_update": "1457339990",
+                    "forks": 2,
+                    "url": "https:\/\/github.com\/everdreamsoft\/bitcrystalsbox",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1453709800",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "JavaScript",
+                    "subscribers": 7,
+                    "open_issues": "1"
+                }
+            ],
+            "Points": 26
+        }
+    }
+}

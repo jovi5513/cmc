@@ -1,0 +1,204 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "WGO",
+            "CoinName": "WavesGO",
+            "Type": "Webpagecoinp",
+            "Points": 570
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 255293,
+                    "Name": "Travel Coin",
+                    "FullName": "Travel Coin (TRV)",
+                    "ImageUrl": "\/media\/9350789\/trv.png",
+                    "Url": "\/coins\/trv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20823,
+                    "Name": "RevolverCoin",
+                    "FullName": "RevolverCoin (XRE)",
+                    "ImageUrl": "\/media\/350975\/xre.jpg",
+                    "Url": "\/coins\/xre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21981,
+                    "Name": "Stakers",
+                    "FullName": "Stakers (STA*)",
+                    "ImageUrl": "\/media\/351063\/sta.png",
+                    "Url": "\/coins\/stastar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28882,
+                    "Name": "Wexcoin",
+                    "FullName": "Wexcoin (WEX)",
+                    "ImageUrl": "\/media\/351564\/wex.jpg",
+                    "Url": "\/coins\/wex\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 232556,
+                    "Name": "IwToken",
+                    "FullName": "IwToken (IWT)",
+                    "ImageUrl": "\/media\/1384048\/iwt.png",
+                    "Url": "\/coins\/iwt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43818,
+                    "Name": "MarxCoin",
+                    "FullName": "MarxCoin (MARX)",
+                    "ImageUrl": "\/media\/1382578\/marx.png",
+                    "Url": "\/coins\/marx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4441,
+                    "Name": "Emerald",
+                    "FullName": "Emerald (EMD)",
+                    "ImageUrl": "\/media\/20278\/emd.png",
+                    "Url": "\/coins\/emd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38959,
+                    "Name": "Astral",
+                    "FullName": "Astral (AST*)",
+                    "ImageUrl": "\/media\/1382170\/ast.png",
+                    "Url": "\/coins\/aststar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 375396,
+                    "Name": "Project Zephyr",
+                    "FullName": "Project Zephyr (ZEPH)",
+                    "ImageUrl": "\/media\/14913542\/zeph.png",
+                    "Url": "\/coins\/zeph\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4448,
+                    "Name": "FIBRE",
+                    "FullName": "FIBRE (FIBRE)",
+                    "ImageUrl": "\/media\/20030\/fibre.png",
+                    "Url": "\/coins\/fibre\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 270481,
+                    "Name": "arvindevops",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/270481\/5eda5c7f-968b-4dde-aa87-5d035b585927.jpg",
+                    "Url": "\/profile\/arvindevops\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 200471,
+                    "Name": "akuwenlewis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/200471\/1e09abb5-4e64-4553-8d06-c3964db1ff48.jpg",
+                    "Url": "\/profile\/akuwenlewis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 582551,
+                    "Name": "keystone",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/582551\/89341eb3-8d76-4b7d-bba0-47d7d568d3c4.jpg",
+                    "Url": "\/profile\/keystone\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 328608,
+                    "Name": "illg78",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/328608\/4952d035-0f1c-4b7e-b793-05040f8298b6.jpg",
+                    "Url": "\/profile\/illg78\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 298483,
+                    "Name": "outterlec",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/298483\/81523f28-6778-4111-bca0-4fa5e2fca218.jpg",
+                    "Url": "\/profile\/outterlec\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 58634,
+                    "Name": "tysoncooper99",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/58634\/ec11a6b3-2cf0-4c1f-b04b-827912f42934.jpg",
+                    "Url": "\/profile\/tysoncooper99\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 20566,
+                    "Name": "512jay",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/20566\/aecfd9d7-0665-4e22-b212-f192b7351c28.jpg",
+                    "Url": "\/profile\/512jay\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 362647,
+                    "Name": "pnmihai1703",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/362647\/13a9d156-065b-4e07-8025-14fb64c4df32.jpg",
+                    "Url": "\/profile\/pnmihai1703\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 17698,
+                    "Name": "waxmigs2902",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/17698\/2364312f-6b36-4741-9a29-eee53c1e9d33.jpg",
+                    "Url": "\/profile\/waxmigs2902\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 345044,
+                    "Name": "blankartist",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/345044\/eabf81d5-510f-41fa-958b-de34c6345f8d.jpg",
+                    "Url": "\/profile\/blankartist\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 570,
+            "Posts": "3",
+            "Followers": 19,
+            "Comments": "2",
+            "PageViewsSplit": {
+                "Overview": 1745,
+                "Markets": 180,
+                "Analysis": 64,
+                "Charts": 59,
+                "Trades": 68,
+                "Orderbook": 1,
+                "Forum": 41,
+                "Influence": 14
+            },
+            "PageViews": 2172
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

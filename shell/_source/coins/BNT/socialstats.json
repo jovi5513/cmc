@@ -1,0 +1,250 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BNT",
+            "CoinName": "Bancor Network Token",
+            "Type": "Webpagecoinp",
+            "Points": 18677
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 202849,
+                    "Name": "KickCoin",
+                    "FullName": "KickCoin (KICK)",
+                    "ImageUrl": "\/media\/1383929\/kick.png",
+                    "Url": "\/coins\/kick\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185689,
+                    "Name": "BitClave",
+                    "FullName": "BitClave (CAT*)",
+                    "ImageUrl": "\/media\/20780714\/cat.png",
+                    "Url": "\/coins\/cat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30022,
+                    "Name": "ZCoin",
+                    "FullName": "ZCoin (XZC)",
+                    "ImageUrl": "\/media\/1382780\/xzc1.png",
+                    "Url": "\/coins\/xzc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 116180,
+                    "Name": "ZenCash",
+                    "FullName": "ZenCash (ZEN)",
+                    "ImageUrl": "\/media\/1383502\/zen.png",
+                    "Url": "\/coins\/zen\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 208914,
+                    "Name": "Monetha",
+                    "FullName": "Monetha (MTH)",
+                    "ImageUrl": "\/media\/1383976\/mth.png",
+                    "Url": "\/coins\/mth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29348,
+                    "Name": "Peerplays",
+                    "FullName": "Peerplays (PPY)",
+                    "ImageUrl": "\/media\/351630\/peerplays.png",
+                    "Url": "\/coins\/ppy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 12194,
+                    "Name": "Expanse",
+                    "FullName": "Expanse (EXP)",
+                    "ImageUrl": "\/media\/20707\/exp.png",
+                    "Url": "\/coins\/exp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 299397,
+                    "Name": "Waltonchain",
+                    "FullName": "Waltonchain (WTC)",
+                    "ImageUrl": "\/media\/12317959\/wtc.png",
+                    "Url": "\/coins\/wtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 335059,
+                    "Name": "Request Network",
+                    "FullName": "Request Network (REQ)",
+                    "ImageUrl": "\/media\/12318260\/req.png",
+                    "Url": "\/coins\/req\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340940,
+                    "Name": "WaBi",
+                    "FullName": "WaBi (WABI)",
+                    "ImageUrl": "\/media\/12318331\/wabi.png",
+                    "Url": "\/coins\/wabi\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 209959,
+                    "Name": "anton.northern",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/209959\/149d67a0-08a1-4170-af09-e3014fa0ec15.jpg",
+                    "Url": "\/profile\/anton.northern\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 546872,
+                    "Name": "andremoree",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/546872\/c3a8c077-8d10-4e55-8843-4a07bddd37a4.jpg",
+                    "Url": "\/profile\/andremoree\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 435837,
+                    "Name": "wealthyheart",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/435837\/58bcbf6e-f544-4f58-a44f-9a12043a2a55.jpg",
+                    "Url": "\/profile\/wealthyheart\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 659392,
+                    "Name": "ilyazyagmur",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/659392\/5359c042-c369-490e-ad0b-ded710f2106a.jpg",
+                    "Url": "\/profile\/ilyazyagmur\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 669534,
+                    "Name": "f1nderlaunch",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/669534\/8dafe897-d93a-4b91-a408-398bdb408c89.jpg",
+                    "Url": "\/profile\/f1nderlaunch\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 408955,
+                    "Name": "rstravelshop",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/408955\/3df37db6-84c2-4aa7-a595-554b70412ee5.jpg",
+                    "Url": "\/profile\/rstravelshop\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 645651,
+                    "Name": "UTASANKIN",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/645651\/e1266eba-0e7b-45d3-86ea-61c57bd5ce89.png",
+                    "Url": "\/profile\/UTASANKIN\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 382031,
+                    "Name": "arnoudgernaat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/382031\/7027b2a8-a088-49fe-a3a4-9e6155a50c66.jpg",
+                    "Url": "\/profile\/arnoudgernaat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 384097,
+                    "Name": "darizzle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/384097\/9a3ba837-3d5c-48ec-8fc6-b013d1523518.jpg",
+                    "Url": "\/profile\/darizzle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 642019,
+                    "Name": "abheeshekdubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/642019\/71d5939b-7424-482b-ac6d-1fa2ace4badd.jpg",
+                    "Url": "\/profile\/abheeshekdubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 658322,
+                    "Name": "chrisbrooks19",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/658322\/eca735c4-de4d-4fe2-83b2-5b434bea5319.jpg",
+                    "Url": "\/profile\/chrisbrooks19\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 13615,
+            "Followers": 501,
+            "Posts": "28",
+            "Comments": "39",
+            "PageViewsSplit": {
+                "Overview": 37872,
+                "Markets": 2891,
+                "Analysis": 975,
+                "Charts": 3895,
+                "Trades": 877,
+                "Orderbook": 34,
+                "Forum": 1961,
+                "Influence": 273
+            },
+            "PageViews": 48778
+        },
+        "Twitter": {
+            "following": "153",
+            "account_creation": "1503907541",
+            "name": "Rita Urbach",
+            "lists": 10,
+            "statuses": 26,
+            "favourites": "271",
+            "followers": 237,
+            "link": "https:\/\/twitter.com\/bancornetwork",
+            "Points": 287
+        },
+        "Reddit": {
+            "posts_per_hour": "0.25",
+            "comments_per_hour": "0.87",
+            "posts_per_day": "6.10",
+            "comments_per_day": 20.84,
+            "name": "Bancor",
+            "link": "https:\/\/www.reddit.com\/r\/Bancor\/",
+            "active_users": 98,
+            "community_creation": "1483033106",
+            "subscribers": 3718,
+            "Points": 4053
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1487180332",
+                    "open_total_issues": "3",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "2492",
+                    "closed_total_issues": "185",
+                    "stars": 331,
+                    "last_update": "1515879271",
+                    "forks": 105,
+                    "url": "https:\/\/github.com\/bancorprotocol\/contracts",
+                    "closed_issues": "11",
+                    "closed_pull_issues": "174",
+                    "fork": "false",
+                    "last_push": "1515158698",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "JavaScript",
+                    "subscribers": 59,
+                    "open_issues": "3"
+                }
+            ],
+            "Points": 718
+        }
+    }
+}

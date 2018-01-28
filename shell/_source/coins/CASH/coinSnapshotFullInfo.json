@@ -1,0 +1,65 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "CashCoin (CASH) - Live streaming prices and market cap",
+            "PageDescription": "Live CashCoin prices from all markets and CASH coin market Capitalization. Stay up to date with the latest CashCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20016\/cash.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "298"
+        },
+        "General": {
+            "Id": "4409",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "CashCoin (CASH)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "CASH",
+            "Url": "\/coins\/cash\/",
+            "BaseAngularUrl": "\/coins\/cash\/",
+            "Name": "CashCoin",
+            "ImageUrl": "\/media\/20016\/cash.png",
+            "Description": "<p>In CASH there are two types of minting, proof-of-work (PoW) and proof-of-stake (PoS). The PoW minting rate is regulated by Moore&#39;s Law, which dictates that our ability in PoW grows exponentially. The PoS minting introduces a maximum 10% annual inflation. CASH transaction (tx) fees are destroyed to counter inflation. So overall the CASH minting design is still a very low inflation comparable to Bitcoin. Unlike Bitcoin and many other alternative coins CASH does not have a fixed coin supply cap. There is a 47,433,600 coin maximum value in the source code, but that is only used for consistency checking and is not meant to be part of the minting design.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "47433600",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "02\/01\/2014",
+            "Twitter": "",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515969812,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 2062388,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 1380045243,
+            "TotalCoinsMined": 47675905.250849,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptsy~CASH~BTC",
+            "2~EtherDelta~CASH~ETH"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~CASH~BTC~4~0.00000106~1452815176~100~0.000106~110944468~0~0~0.00000106~0.00000106~0.00000106~Cryptsy~78ce9",
+            "5~CCCAGG~CASH~ETH~4~0.000085~1515969313~1000~0.085~1515969313000~0~0~47487.40171252521~3.6527876183881696~0.000085~0.000085~0.000085~0.000079~0.000149~0.000072~EtherDelta~7ffe9"
+        ]
+    },
+    "Type": 100
+}

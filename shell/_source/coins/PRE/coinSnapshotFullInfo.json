@@ -1,0 +1,75 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Premium (PRE) - Live streaming prices and market cap",
+            "PageDescription": "Live Premium prices from all markets and PRE coin market Capitalization. Stay up to date with the latest Premium price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351711\/pre.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "30024",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Premium (PRE)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "PRE",
+            "Url": "\/coins\/pre\/",
+            "BaseAngularUrl": "\/coins\/pre\/",
+            "Name": "Premium",
+            "ImageUrl": "\/media\/351711\/pre.png",
+            "Description": "<p><span>Premium is a lite version of Bitcoin using scrypt as a Proof of Work algorithm similar to Litecoin, except the total supply is considerably lower \u2013 only 20 million coins.\u00a0Premium is coin designed to offer cryptocurrency an entrance into the premium and bespoke products industry in the United Kingdom.<\/span><\/p><p>\u00a0<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "20000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "22\/05\/2015",
+            "Twitter": "@PremiumCoinDev",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~BitTrex~PRE~BTC",
+            "2~Yobit~PRE~USD",
+            "2~Yobit~PRE~RUR",
+            "2~Yobit~PRE~BTC",
+            "2~HitBTC~PRE~BTC",
+            "2~Yobit~PRE~ETH",
+            "2~Yobit~PRE~DOGE",
+            "2~Yobit~PRE~WAVES"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~PRE~BTC~4~0.000001~1515950725~10~0.000009999999999999999~151834522~1134617.58836865~1.1403819682077663~1306137.58836865~1.3119019682077668~0.000001~0.000001~0.000001~0.000001~0.000001~0.000001~HitBTC~7ffe9",
+            "5~CCCAGG~PRE~USD~4~0.06~1515702378~89.43341607~5.3660049642~200000000~0~0~0~0~0.06~0.06~0.06~0.06~0.06~0.06~Yobit~7ffe9",
+            "5~CCCAGG~PRE~RUR~4~3.5~1515868507~2~7~200000001~0~0~2~7~3.5~3.5~3.5~3.5~3.5~3.5~Yobit~7ffe9",
+            "5~CCCAGG~PRE~ETH~4~0.00001226~1515616513~69~0.00084594~183763412~0~0~0~0~0.00001226~0.00001226~0.00001226~0.00001226~0.00001226~0.00001226~Yobit~7ffe9",
+            "5~CCCAGG~PRE~DOGE~4~4.1~1515808437~22.38584931~91.781982171~200000008~0~0~0~0~4.1~4.1~4.1~4.1~4.1~4.1~Yobit~7ffe9",
+            "5~CCCAGG~PRE~WAVES~4~0.006~1515545025~11.1457766~0.0668746596~183210567~0~0~0~0~0.006~0.006~0.006~0.006~0.006~0.006~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

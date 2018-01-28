@@ -1,0 +1,81 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Gapcoin (GAP) - Live streaming prices and market cap",
+            "PageDescription": "Live Gapcoin prices from all markets and GAP coin market Capitalization. Stay up to date with the latest Gapcoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350943\/gap.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20659",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Gapcoin (GAP)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "GAP",
+            "Url": "\/coins\/gap\/",
+            "BaseAngularUrl": "\/coins\/gap\/",
+            "Name": "Gapcoin",
+            "ImageUrl": "\/media\/350943\/gap.png",
+            "Description": "<p>Gapcoin uses it&#39;s custom PoW algorithm: Prime Gaps. Difficulty is adjusted every block, and there is also an halving every 420000 Blocks (about 2 years).<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "250000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "13\/04\/2016",
+            "Twitter": "@Gapcoin",
+            "AffiliateUrl": "http:\/\/gapcoin.org",
+            "Website": "<a href='http:\/\/gapcoin.org' target='_blank'>Gapcoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515980738,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 705634,
+            "BlockTime": 150,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 12305978.605842,
+            "PreviousTotalCoinsMined": 12305919.439475,
+            "BlockReward": 11.838199140504
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~GAP~DOT",
+            "2~Novaexchange~GAP~ETH",
+            "2~Cryptopia~GAP~FTC",
+            "2~Novaexchange~GAP~BTC",
+            "2~Cryptopia~GAP~BTC",
+            "2~Cryptopia~GAP~UNO",
+            "2~Cryptopia~GAP~DOGE",
+            "2~Novaexchange~GAP~ESP2",
+            "2~Cryptopia~GAP~LTC",
+            "2~Poloniex~GAP~BTC",
+            "2~Cryptopia~GAP~XMR"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~GAP~DOT~4~0.23411122~1486696004~1429.39514582~334.637441~1486696004~0~0~0~0~0.23411122~0.23411122~0.23411122~0.23411122~0.23411122~0.23411122~Cryptopia~7ffe9",
+            "5~CCCAGG~GAP~ETH~4~0.00000272~1502210128~1350.03814903~0.0036721037653616~1502210128000~0~0~0~0~0.00000272~0.00000272~0.00000272~0.00000272~0.00000272~0.00000272~Novaexchange~7ffe9",
+            "5~CCCAGG~GAP~FTC~4~0.00001741~1485582060~11656.07126262~0.202932~1485582060~0~0~0~0~0.00001741~0.00001741~0.00001741~0.00001741~0.00001741~0.00001741~Cryptopia~7ffe9",
+            "5~CCCAGG~GAP~BTC~2~0.00000614~1515978252~200~0.001228~1515978252~3692.25902905~0.02267048~33904.43184925~0.19800214~0.0000061~0.00000615~0.0000061~0.00000553~0.00000615~0.00000551~Cryptopia~7ffe9",
+            "5~CCCAGG~GAP~UNO~4~0.00003922~1497627727~1027.88087383~0.04031349~1497627727~0~0~0~0~0.00003922~0.00003922~0.00003922~0.00003922~0.00003922~0.00003922~Cryptopia~7ffe9",
+            "5~CCCAGG~GAP~DOGE~4~5.97537343~1515182946~298.75965303~1785.20049267~1515182946~0~0~0~0~5.98~5.98~5.97537343~5.97537343~5.97537343~5.97537343~Cryptopia~7ffe9",
+            "5~CCCAGG~GAP~ESP2~4~3.00000043~1502643006~0.07~0.2100000301~1502643006000~0~0~0~0~3.00000043~3.00000043~3.00000043~3.00000043~3.00000043~3.00000043~Novaexchange~7ffe9",
+            "5~CCCAGG~GAP~LTC~4~0.00033913~1515190722~2.3288269~0.00078978~1515190722~0~0~0~0~0.0003391~0.00033913~0.0003391~0.00033913~0.00033913~0.00033913~Cryptopia~7ffe9",
+            "5~CCCAGG~GAP~XMR~4~0.00000744~1486694896~7235.23154614~0.05383~1486694896~0~0~0~0~0.00000744~0.00000744~0.00000744~0.00000744~0.00000744~0.00000744~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

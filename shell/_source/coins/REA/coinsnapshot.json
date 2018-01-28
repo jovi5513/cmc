@@ -1,0 +1,31 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "REA",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.000165",
+            "LASTUPDATE": "1515998131",
+            "LASTVOLUME": "0.001",
+            "LASTVOLUMETO": "1.65e-7",
+            "LASTTRADEID": "60082484",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "1445.29474084",
+            "VOLUME24HOURTO": "0.115232318797025",
+            "OPENDAY": "0.000165",
+            "HIGHDAY": "0.000165",
+            "LOWDAY": "0.000165",
+            "OPEN24HOUR": "0.00005",
+            "HIGH24HOUR": "0.000165",
+            "LOW24HOUR": "0.00005",
+            "LASTMARKET": "Gatecoin"
+        },
+        "Exchanges": []
+    },
+    "Type": 100
+}

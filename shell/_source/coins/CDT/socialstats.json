@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CDT",
+            "CoinName": "CoinDash",
+            "Type": "Webpagecoinp",
+            "Points": 26326
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 22325,
+                    "Name": "MonetaryUnit",
+                    "FullName": "MonetaryUnit (MUE)",
+                    "ImageUrl": "\/media\/351084\/mue.png",
+                    "Url": "\/coins\/mue\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 170958,
+                    "Name": "Quantum",
+                    "FullName": "Quantum (QAU)",
+                    "ImageUrl": "\/media\/1383669\/qau.png",
+                    "Url": "\/coins\/qau\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 304184,
+                    "Name": "Blackmoon Crypto",
+                    "FullName": "Blackmoon Crypto (BMC)",
+                    "ImageUrl": "\/media\/12318008\/bmc.png",
+                    "Url": "\/coins\/bmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 318154,
+                    "Name": "XP",
+                    "FullName": "XP (XP)",
+                    "ImageUrl": "\/media\/12318134\/xp.png",
+                    "Url": "\/coins\/xp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 71077,
+                    "Name": "TokenCard  ",
+                    "FullName": "TokenCard   (TKN)",
+                    "ImageUrl": "\/media\/1383157\/tkn.png",
+                    "Url": "\/coins\/tkn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5299,
+                    "Name": "Positron",
+                    "FullName": "Positron (TRON)",
+                    "ImageUrl": "\/media\/20459\/tron.png",
+                    "Url": "\/coins\/tron\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 136190,
+                    "Name": "Mysterium",
+                    "FullName": "Mysterium (MYST)",
+                    "ImageUrl": "\/media\/1383561\/myst.png",
+                    "Url": "\/coins\/myst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 166594,
+                    "Name": "Numerai",
+                    "FullName": "Numerai (NMR)",
+                    "ImageUrl": "\/media\/1383655\/nmr.png",
+                    "Url": "\/coins\/nmr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 360299,
+                    "Name": "SelfKey",
+                    "FullName": "SelfKey (KEY*)",
+                    "ImageUrl": "\/media\/14761912\/key.png",
+                    "Url": "\/coins\/key\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 66270,
+                    "Name": "Token as a Service",
+                    "FullName": "Token as a Service (TAAS)",
+                    "ImageUrl": "\/media\/1383085\/taas.png",
+                    "Url": "\/coins\/taas\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 499305,
+                    "Name": "tamilvendhan.k",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/499305\/4cfebc51-e410-4a02-a8d2-51289cd1bcf9.jpg",
+                    "Url": "\/profile\/tamilvendhan.k\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 573310,
+                    "Name": "perrotta.brian",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/573310\/c6068e4f-ee5a-4b15-974c-a198d66e4af8.jpg",
+                    "Url": "\/profile\/perrotta.brian\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 673484,
+                    "Name": "istiaqratul",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673484\/0c447305-57f4-458f-a87d-e0f2fecbc620.jpg",
+                    "Url": "\/profile\/istiaqratul\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 547060,
+                    "Name": "da-wheeler",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/547060\/c0c91315-847e-40aa-a5d9-4d8c1adbf01b.jpg",
+                    "Url": "\/profile\/da-wheeler\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 665581,
+                    "Name": "nmazetier",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/665581\/74a43527-cd85-4ee8-a80f-c1b3cb36d88a.jpg",
+                    "Url": "\/profile\/nmazetier\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 553626,
+                    "Name": "ada2000org",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/553626\/23f62e43-d791-415e-9c84-f032e10dd0f7.jpg",
+                    "Url": "\/profile\/ada2000org\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 447221,
+                    "Name": "espann",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/447221\/d2cb060a-4371-452b-8ae6-f2b75d2caa08.jpg",
+                    "Url": "\/profile\/espann\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 651476,
+                    "Name": "pwsmolak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/651476\/b1db1d33-e8b2-4442-8eee-27cedfe6cb77.jpg",
+                    "Url": "\/profile\/pwsmolak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 654072,
+                    "Name": "ugrs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/654072\/185422a1-99bb-43f7-a4b6-2d1d131ab226.jpg",
+                    "Url": "\/profile\/ugrs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 341367,
+                    "Name": "jhnoj816",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/341367\/e2964a17-a8e6-4702-bca3-9fbde5165a83.jpg",
+                    "Url": "\/profile\/jhnoj816\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 522951,
+                    "Name": "pg.fradet",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/522951\/9a00128e-19f2-403d-be49-8f607903ed2b.jpg",
+                    "Url": "\/profile\/pg.fradet\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 3980,
+            "Posts": "18",
+            "Comments": "3",
+            "Followers": 140,
+            "PageViewsSplit": {
+                "Overview": 15070,
+                "Markets": 1266,
+                "Analysis": 502,
+                "Charts": 2016,
+                "Trades": 373,
+                "Orderbook": 9,
+                "Forum": 741,
+                "Influence": 120
+            },
+            "PageViews": 20097
+        },
+        "Twitter": {
+            "statuses": 486,
+            "favourites": "211",
+            "following": "86",
+            "account_creation": "1481837901",
+            "followers": 16627,
+            "name": "CoinDash.io",
+            "link": "https:\/\/twitter.com\/coindashio",
+            "lists": 260,
+            "Points": 17927
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "111",
+            "name": "CoinDash",
+            "likes": 4417,
+            "link": "https:\/\/www.facebook.com\/coindash.io\/",
+            "Points": 4417
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

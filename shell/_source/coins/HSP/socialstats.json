@@ -1,0 +1,176 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "HSP",
+            "CoinName": "Horse Power",
+            "Type": "Webpagecoinp",
+            "Points": 529
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 37190,
+                    "Name": "MIScoin",
+                    "FullName": "MIScoin (MIS)",
+                    "ImageUrl": "\/media\/1381981\/mis.png",
+                    "Url": "\/coins\/mis\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 661719,
+                    "Name": "Force Coin",
+                    "FullName": "Force Coin (FOR)",
+                    "ImageUrl": "\/media\/20780764\/for.png",
+                    "Url": "\/coins\/for\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5021,
+                    "Name": "SapienceCoin",
+                    "FullName": "SapienceCoin (XAI)",
+                    "ImageUrl": "\/media\/20071\/xai.png",
+                    "Url": "\/coins\/xai\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35816,
+                    "Name": "PoolStamp",
+                    "FullName": "PoolStamp (XSP)",
+                    "ImageUrl": "\/media\/352293\/xsp.png",
+                    "Url": "\/coins\/xsp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21370,
+                    "Name": "FlyCoin",
+                    "FullName": "FlyCoin (FLY)",
+                    "ImageUrl": "\/media\/351013\/fly.png",
+                    "Url": "\/coins\/fly\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28700,
+                    "Name": "Lazarus",
+                    "FullName": "Lazarus (LAZ)",
+                    "ImageUrl": "\/media\/351552\/laz.png",
+                    "Url": "\/coins\/laz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4607,
+                    "Name": "SoleCoin",
+                    "FullName": "SoleCoin (SOLE)",
+                    "ImageUrl": "\/media\/20431\/sole.png",
+                    "Url": "\/coins\/sole\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 39710,
+                    "Name": "ReturnCoin",
+                    "FullName": "ReturnCoin (RNC)",
+                    "ImageUrl": "\/media\/1382240\/rnc.png",
+                    "Url": "\/coins\/rnc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33127,
+                    "Name": "PenCoin",
+                    "FullName": "PenCoin (PEN)",
+                    "ImageUrl": "\/media\/20384\/pen.png",
+                    "Url": "\/coins\/pen\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8832,
+                    "Name": "Ghoul Coin",
+                    "FullName": "Ghoul Coin (GHOUL)",
+                    "ImageUrl": "\/media\/20701\/ghoul.png",
+                    "Url": "\/coins\/ghoul\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 338647,
+                    "Name": "dekorproskurov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/338647\/42201650-1d5c-4468-a8e6-6a8fedcbfda1.jpg",
+                    "Url": "\/profile\/dekorproskurov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 164775,
+                    "Name": "mickeynons4u",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/164775\/6e33e6f8-5b03-460b-ba0f-156b59deb5ad.jpg",
+                    "Url": "\/profile\/mickeynons4u\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Points": 50,
+            "PageViewsSplit": {
+                "Overview": 423,
+                "Markets": 32,
+                "Analysis": 22,
+                "Charts": 21,
+                "Trades": 16,
+                "Orderbook": 1,
+                "Forum": 7,
+                "Influence": 6
+            },
+            "PageViews": 528
+        },
+        "Twitter": {
+            "favourites": "5",
+            "lists": 6,
+            "statuses": 32,
+            "following": "569",
+            "account_creation": "1442635938",
+            "name": "HorsePowerCoin",
+            "followers": 446,
+            "link": "https:\/\/twitter.com\/HorsePowerCoin",
+            "Points": 476
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1442764353",
+                    "url": "https:\/\/github.com\/HorsePowerCoin\/HorsePowerCoin",
+                    "forks": 0,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "size": "3724",
+                    "created_at": "1442763886",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1443289032",
+                    "stars": 0
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CHC",
+            "CoinName": "ChainCoin",
+            "Type": "Webpagecoinp",
+            "Points": 7729
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 33914,
+                    "Name": "Time",
+                    "FullName": "Time (TIME)",
+                    "ImageUrl": "\/media\/352105\/time.png",
+                    "Url": "\/coins\/time\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 335127,
+                    "Name": "Aeron",
+                    "FullName": "Aeron (ARN)",
+                    "ImageUrl": "\/media\/12318261\/arn.png",
+                    "Url": "\/coins\/arn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 307219,
+                    "Name": "Ripio",
+                    "FullName": "Ripio (RCN)",
+                    "ImageUrl": "\/media\/12318046\/rnc.png",
+                    "Url": "\/coins\/rcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5374,
+                    "Name": "PinkCoin",
+                    "FullName": "PinkCoin (PINK)",
+                    "ImageUrl": "\/media\/350588\/pinkcoin-logo.png",
+                    "Url": "\/coins\/pink\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369132,
+                    "Name": "SimpleToken",
+                    "FullName": "SimpleToken (OST)",
+                    "ImageUrl": "\/media\/14913437\/st.png",
+                    "Url": "\/coins\/ost\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 370973,
+                    "Name": "INS Ecosystem",
+                    "FullName": "INS Ecosystem (INS)",
+                    "ImageUrl": "\/media\/14913458\/ins.png",
+                    "Url": "\/coins\/ins\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7636,
+                    "Name": "MonetaVerde",
+                    "FullName": "MonetaVerde (MCN)",
+                    "ImageUrl": "\/media\/20346\/mcn.png",
+                    "Url": "\/coins\/mcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338541,
+                    "Name": "Worldwide Asset eXchange",
+                    "FullName": "Worldwide Asset eXchange (WAX)",
+                    "ImageUrl": "\/media\/12318290\/wax.png",
+                    "Url": "\/coins\/wax\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 393742,
+                    "Name": "Scorum",
+                    "FullName": "Scorum (SCR)",
+                    "ImageUrl": "\/media\/14913681\/scr.png",
+                    "Url": "\/coins\/scr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 292748,
+                    "Name": "Etherparty",
+                    "FullName": "Etherparty (FUEL)",
+                    "ImageUrl": "\/media\/11999072\/fuel.png",
+                    "Url": "\/coins\/fuel\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 124275,
+                    "Name": "65A7FF3B",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/124275\/bde1878d-af7f-4288-8698-920f86ed4322.jpg",
+                    "Url": "\/profile\/65A7FF3B\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 379238,
+                    "Name": "kjdowdle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/379238\/af331a97-ebb2-4ef9-a6c6-cd63d2a19e0d.jpg",
+                    "Url": "\/profile\/kjdowdle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 463736,
+                    "Name": "todd.barrera.ak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/463736\/f473817c-5b3d-48fc-bab9-7e7d7fdc1a55.jpg",
+                    "Url": "\/profile\/todd.barrera.ak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 295494,
+                    "Name": "ferditaylan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/295494\/a39521b8-9e8f-4ca4-8f2c-02ec497e4b87.jpg",
+                    "Url": "\/profile\/ferditaylan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 627742,
+                    "Name": "ninjasteppa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/627742\/bfeb13ef-c16b-401b-8f72-f0d728b477eb.jpg",
+                    "Url": "\/profile\/ninjasteppa\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 182570,
+                    "Name": "segura.alberto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/182570\/f74f7ee4-0d18-4c30-a122-807040ad77f3.jpg",
+                    "Url": "\/profile\/segura.alberto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 596642,
+                    "Name": "mustafasedat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596642\/f2e25127-d9b1-4bf3-9d06-552d399705ba.jpg",
+                    "Url": "\/profile\/mustafasedat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 286289,
+                    "Name": "riyahd",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/286289\/aa57f176-c020-438d-ab05-c5f77fc9e4ff.png",
+                    "Url": "\/profile\/riyahd\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 556569,
+                    "Name": "polonskyrafael",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/556569\/8b22a887-f332-4f07-bfcb-c34c57ebcff9.jpg",
+                    "Url": "\/profile\/polonskyrafael\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 560295,
+                    "Name": "brian52lb",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/560295\/a28d8b8e-6648-40eb-aa64-59a2fdae9da1.jpg",
+                    "Url": "\/profile\/brian52lb\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 7450,
+            "Posts": "45",
+            "Comments": "35",
+            "Followers": 239,
+            "PageViewsSplit": {
+                "Overview": 27868,
+                "Markets": 1078,
+                "Analysis": 934,
+                "Charts": 5390,
+                "Trades": 1149,
+                "Orderbook": 38,
+                "Forum": 1736,
+                "Influence": 263
+            },
+            "PageViews": 38456
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1390079596",
+                    "open_total_issues": "8",
+                    "fork": "true",
+                    "parent": {
+                        "Name": "zetacoin",
+                        "Url": "https:\/\/github.com\/zetacoin\/zetacoin",
+                        "InternalId": -1
+                    },
+                    "last_push": "1513503887",
+                    "closed_total_issues": "96",
+                    "size": "99633",
+                    "stars": 61,
+                    "source": {
+                        "Name": "bitcoin",
+                        "Url": "https:\/\/github.com\/bitcoin\/bitcoin",
+                        "InternalId": -1
+                    },
+                    "last_update": "1515870036",
+                    "open_pull_issues": "0",
+                    "forks": 40,
+                    "url": "https:\/\/github.com\/chaincoin\/chaincoin",
+                    "closed_issues": "28",
+                    "open_issues": "8",
+                    "subscribers": 45,
+                    "language": "C++",
+                    "closed_pull_issues": "68"
+                }
+            ],
+            "Points": 276
+        }
+    }
+}

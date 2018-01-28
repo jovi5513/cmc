@@ -1,0 +1,66 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "SRN",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "2",
+            "PRICE": "0.000151",
+            "LASTUPDATE": "1516093598",
+            "LASTVOLUME": "2.06926483",
+            "LASTVOLUMETO": "0.00031245898932999997",
+            "LASTTRADEID": "62798169",
+            "VOLUMEDAY": "404544.02088977944",
+            "VOLUMEDAYTO": "60.80594304944491",
+            "VOLUME24HOUR": "1264521.3263764498",
+            "VOLUME24HOURTO": "182.73712846452065",
+            "OPENDAY": "0.0001425",
+            "HIGHDAY": "0.0001611",
+            "LOWDAY": "0.00014",
+            "OPEN24HOUR": "0.0001318",
+            "HIGH24HOUR": "0.0001611",
+            "LOW24HOUR": "0.0001308",
+            "LASTMARKET": "Liqui"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Liqui",
+                "FROMSYMBOL": "SRN",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.000151",
+                "LASTUPDATE": "1516093598",
+                "LASTVOLUME": "2.06926483",
+                "LASTVOLUMETO": "0.00031245898932999997",
+                "LASTTRADEID": "62798169",
+                "VOLUME24HOUR": "1264521.3263764498",
+                "VOLUME24HOURTO": "182.73712846452065",
+                "OPEN24HOUR": "0.00013181",
+                "HIGH24HOUR": "0.00016109",
+                "LOW24HOUR": "0.00013077"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Tidex",
+                "FROMSYMBOL": "SRN",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00017",
+                "LASTUPDATE": "1516005204",
+                "LASTVOLUME": "1",
+                "LASTVOLUMETO": "0.00017",
+                "LASTTRADEID": "11848393",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00017",
+                "HIGH24HOUR": "0.00017",
+                "LOW24HOUR": "0.00017"
+            }
+        ]
+    },
+    "Type": 100
+}

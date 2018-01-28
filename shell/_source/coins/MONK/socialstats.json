@@ -1,0 +1,140 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MONK",
+            "CoinName": "Monkey Project",
+            "Type": "Webpagecoinp",
+            "Points": 1204
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 7634,
+                    "Name": "Graviton",
+                    "FullName": "Graviton (GRAV)",
+                    "ImageUrl": "\/media\/20659\/grav.png",
+                    "Url": "\/coins\/grav\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28125,
+                    "Name": "ArkDAO",
+                    "FullName": "ArkDAO (BOTS)",
+                    "ImageUrl": "\/media\/351499\/bot.png",
+                    "Url": "\/coins\/bots\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34483,
+                    "Name": "TrickyCoin",
+                    "FullName": "TrickyCoin (TRICK)",
+                    "ImageUrl": "\/media\/352127\/trick.png",
+                    "Url": "\/coins\/trick\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3643,
+                    "Name": "DarkToken",
+                    "FullName": "DarkToken (DT)",
+                    "ImageUrl": "\/media\/20031\/dt.png",
+                    "Url": "\/coins\/dt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4578,
+                    "Name": "NoirShares",
+                    "FullName": "NoirShares (NRS)",
+                    "ImageUrl": "\/media\/19834\/nrs.png",
+                    "Url": "\/coins\/nrs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 398126,
+                    "Name": "RiptideCoin",
+                    "FullName": "RiptideCoin (RIPT)",
+                    "ImageUrl": "\/media\/15887409\/ript.png",
+                    "Url": "\/coins\/ript\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4613,
+                    "Name": "SSVCoin",
+                    "FullName": "SSVCoin (SSV)",
+                    "ImageUrl": "\/media\/20060\/ssv.png",
+                    "Url": "\/coins\/ssv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7562,
+                    "Name": "Versa Token",
+                    "FullName": "Versa Token (VERSA)",
+                    "ImageUrl": "\/media\/20629\/versa.png",
+                    "Url": "\/coins\/versa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22207,
+                    "Name": "Clockcoin",
+                    "FullName": "Clockcoin (CKC)",
+                    "ImageUrl": "\/media\/351068\/ckc.png",
+                    "Url": "\/coins\/ckc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28221,
+                    "Name": "Goonies",
+                    "FullName": "Goonies (GOON)",
+                    "ImageUrl": "\/media\/351512\/goon.png",
+                    "Url": "\/coins\/goon\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 520959,
+                    "Name": "mcrypto86",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/520959\/c63055f1-4c3d-4e9e-be94-d737fcc22b59.jpg",
+                    "Url": "\/profile\/mcrypto86\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 25,
+            "Followers": 1,
+            "PageViewsSplit": {
+                "Overview": 20,
+                "Markets": 1,
+                "Analysis": 0,
+                "Charts": 7,
+                "Trades": 1,
+                "Orderbook": 0,
+                "Forum": 2,
+                "Influence": 2
+            },
+            "PageViews": 33
+        },
+        "Twitter": {
+            "following": "15",
+            "account_creation": "1509470131",
+            "favourites": "121",
+            "followers": 1084,
+            "statuses": 90,
+            "name": "MONKEY",
+            "link": "https:\/\/twitter.com\/MONKEYPROJECT_",
+            "lists": 19,
+            "Points": 1179
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

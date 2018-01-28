@@ -1,0 +1,154 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "HAT",
+            "CoinName": "Hawala.Today",
+            "Type": "Webpagecoinp",
+            "Points": 5876
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 421896,
+                    "Name": "Goldea",
+                    "FullName": "Goldea (GEA)",
+                    "ImageUrl": "\/media\/16746475\/gea.png",
+                    "Url": "\/coins\/gea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369179,
+                    "Name": "ugChain",
+                    "FullName": "ugChain (UGT)",
+                    "ImageUrl": "\/media\/14913439\/ugt.png",
+                    "Url": "\/coins\/ugt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7559,
+                    "Name": "IncaKoin",
+                    "FullName": "IncaKoin (NKA)",
+                    "ImageUrl": "\/media\/20367\/nka.png",
+                    "Url": "\/coins\/nka\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4577,
+                    "Name": "NobleCoin",
+                    "FullName": "NobleCoin (NOBL)",
+                    "ImageUrl": "\/media\/19833\/nobl.png",
+                    "Url": "\/coins\/nobl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4558,
+                    "Name": "MaxCoin",
+                    "FullName": "MaxCoin (MAX)",
+                    "ImageUrl": "\/media\/19786\/max.png",
+                    "Url": "\/coins\/max\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4627,
+                    "Name": "TittieCoin",
+                    "FullName": "TittieCoin (TTC)",
+                    "ImageUrl": "\/media\/20064\/ttc.png",
+                    "Url": "\/coins\/ttc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 374211,
+                    "Name": "Innova",
+                    "FullName": "Innova (INN)",
+                    "ImageUrl": "\/media\/14913536\/inn.png",
+                    "Url": "\/coins\/inn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35818,
+                    "Name": "CryptoCarbon",
+                    "FullName": "CryptoCarbon (CCRB)",
+                    "ImageUrl": "\/media\/352294\/ccrb.png",
+                    "Url": "\/coins\/ccrb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 50754,
+                    "Name": "Pascal Lite",
+                    "FullName": "Pascal Lite (PASL)",
+                    "ImageUrl": "\/media\/1382741\/pasl.png",
+                    "Url": "\/coins\/pasl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30544,
+                    "Name": "LanaCoin",
+                    "FullName": "LanaCoin (LANA)",
+                    "ImageUrl": "\/media\/351792\/lana.png",
+                    "Url": "\/coins\/lana\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 68243,
+                    "Name": "DarkerTV",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/68243\/fc77fcef-9d98-44e7-ae78-558f1b363e7a.jpg",
+                    "Url": "\/profile\/DarkerTV\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 25,
+            "Followers": 1,
+            "PageViewsSplit": {
+                "Overview": 4,
+                "Markets": 2,
+                "Analysis": 0,
+                "Charts": 1,
+                "Trades": 0,
+                "Orderbook": 0,
+                "Forum": 0,
+                "Influence": 0
+            },
+            "PageViews": 7
+        },
+        "Twitter": {
+            "favourites": "157",
+            "statuses": 249,
+            "following": "155",
+            "account_creation": "1507750906",
+            "followers": 4542,
+            "name": "Hawala.Today",
+            "link": "https:\/\/twitter.com\/hawalatoday",
+            "lists": 41,
+            "Points": 4747
+        },
+        "Reddit": {
+            "posts_per_hour": "0.19",
+            "link": "https:\/\/www.reddit.com\/r\/HawalaToday\/",
+            "comments_per_hour": "0.82",
+            "posts_per_day": "4.46",
+            "active_users": 12,
+            "community_creation": "1512171131",
+            "name": "HawalaToday",
+            "subscribers": 680,
+            "comments_per_day": 19.59,
+            "Points": 755
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "28",
+            "name": "Hawala.Today",
+            "likes": 349,
+            "link": "https:\/\/www.facebook.com\/hawalatoday\/",
+            "Points": 349
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

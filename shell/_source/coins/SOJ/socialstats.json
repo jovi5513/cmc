@@ -1,0 +1,169 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SOJ",
+            "CoinName": "Sojourn Coin",
+            "Type": "Webpagecoinp",
+            "Points": 792
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 625458,
+                    "Name": "Footy Cash",
+                    "FullName": "Footy Cash (XFT)",
+                    "ImageUrl": "\/media\/20780662\/xft.png",
+                    "Url": "\/coins\/xft\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4628,
+                    "Name": "Umbrella",
+                    "FullName": "Umbrella (ULTC)",
+                    "ImageUrl": "\/media\/20063\/ultc.png",
+                    "Url": "\/coins\/ultc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5365,
+                    "Name": "OmniCron",
+                    "FullName": "OmniCron (OMC)",
+                    "ImageUrl": "\/media\/1381967\/omc.png",
+                    "Url": "\/coins\/omc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5297,
+                    "Name": "SolarFarm",
+                    "FullName": "SolarFarm (CELL)",
+                    "ImageUrl": "\/media\/20227\/cell.png",
+                    "Url": "\/coins\/cell\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4533,
+                    "Name": "Halcyon",
+                    "FullName": "Halcyon (HAL)",
+                    "ImageUrl": "\/media\/20036\/hal.png",
+                    "Url": "\/coins\/hal\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28136,
+                    "Name": "Zeta2Coin",
+                    "FullName": "Zeta2Coin (ZET2)",
+                    "ImageUrl": "\/media\/351502\/zet2.png",
+                    "Url": "\/coins\/zet2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22212,
+                    "Name": "VIP Tokens",
+                    "FullName": "VIP Tokens (VIP)",
+                    "ImageUrl": "\/media\/351069\/vip.png",
+                    "Url": "\/coins\/vip\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6096,
+                    "Name": "World Trade Funds",
+                    "FullName": "World Trade Funds (XWT)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/xwt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35027,
+                    "Name": "SeedShares",
+                    "FullName": "SeedShares (SEEDS)",
+                    "ImageUrl": "\/media\/352190\/seeds.png",
+                    "Url": "\/coins\/seeds\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 78190,
+                    "Name": "RiceCoin",
+                    "FullName": "RiceCoin (RICE)",
+                    "ImageUrl": "\/media\/1383245\/rice.png",
+                    "Url": "\/coins\/rice\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 237094,
+                    "Name": "daniv2010",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/237094\/ba88b110-e23f-45e5-9504-9059500743d1.jpg",
+                    "Url": "\/profile\/daniv2010\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 231334,
+                    "Name": "apexlunari",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/231334\/e0753632-e5c4-4eb8-9c2e-fd2be6410ee3.jpg",
+                    "Url": "\/profile\/apexlunari\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 61805,
+                    "Name": "djotasimiao",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/61805\/c86db89a-7773-44ef-9cee-762bf070fb62.jpg",
+                    "Url": "\/profile\/djotasimiao\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 188077,
+                    "Name": "bose.debasish",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/188077\/de69d024-648b-4679-87a3-e0be10830e11.jpg",
+                    "Url": "\/profile\/bose.debasish\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 245448,
+                    "Name": "musab2u",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/245448\/b916ba8b-2737-40a7-9f1a-cd90edc41a68.jpg",
+                    "Url": "\/profile\/musab2u\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 175,
+            "Posts": "2",
+            "Followers": 5,
+            "PageViewsSplit": {
+                "Overview": 720,
+                "Markets": 58,
+                "Analysis": 42,
+                "Charts": 33,
+                "Trades": 30,
+                "Orderbook": 2,
+                "Forum": 18,
+                "Influence": 16
+            },
+            "PageViews": 919
+        },
+        "Twitter": {
+            "following": "8",
+            "account_creation": "1500483633",
+            "statuses": 23,
+            "favourites": "2",
+            "followers": 547,
+            "name": "sojourn coin",
+            "link": "https:\/\/twitter.com\/john_sojourn",
+            "lists": 14,
+            "Points": 617
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

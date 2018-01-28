@@ -1,0 +1,76 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "TrezarCoin (TZC) - Live streaming prices and market cap",
+            "PageDescription": "Live TrezarCoin prices from all markets and TZC coin market Capitalization. Stay up to date with the latest TrezarCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/12318285\/tzc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "338180",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "TrezarCoin (TZC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "TZC",
+            "Url": "\/coins\/tzc\/",
+            "BaseAngularUrl": "\/coins\/tzc\/",
+            "Name": "TrezarCoin",
+            "ImageUrl": "\/media\/12318285\/tzc.png",
+            "Description": "<p><span>TrezorCoin is a\u00a0proof of work cryptocurrency supporting multi-algo\u00a0mining through PoS and PoW. It uses NeoScrypt PoW, Sha256d PoS and BLAKE2s for Blockhashing and has implemented 0% PoS by Ghostlander.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "400000000",
+            "Algorithm": "NeoScrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "01\/09\/2017",
+            "Twitter": "@TrezarCoin",
+            "AffiliateUrl": "https:\/\/trezarcoin.com\/",
+            "Website": "<a href='https:\/\/trezarcoin.com\/' target='_blank'>TrezarCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970899,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 86886100,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~TZC~LTC",
+            "2~Cryptopia~TZC~BTC",
+            "2~Novaexchange~TZC~LTC",
+            "2~Novaexchange~TZC~DOGE",
+            "2~Novaexchange~TZC~ETH",
+            "2~Novaexchange~TZC~MOON",
+            "2~Novaexchange~TZC~ESP2",
+            "2~Cryptopia~TZC~DOGE",
+            "2~Novaexchange~TZC~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~TZC~LTC~4~0.000803~1515197197~47.04797048~0.03777952~1515197197~0~0~0~0~0.000803~0.000803~0.000803~0.000803~0.000803~0.000803~Cryptopia~7ffe9",
+            "5~CCCAGG~TZC~BTC~2~0.0000195~1515979460~82.67563303~0.00161217~1515979460.001~73130.35815505999~1.4363883999999998~814474.9862672098~20.89587758~0.00001935~0.00002096~0.000017~0.00002744~0.0000349~0.000015~Cryptopia~7ffe9",
+            "5~CCCAGG~TZC~DOGE~4~15.18030002~1515195174~65~986.7195013~1515195174~0~0~0~0~15.18~15.18030002~15.18~15.18030002~15.18030002~15.18030002~Cryptopia~7ffe9",
+            "5~CCCAGG~TZC~ETH~4~0.0399~1506738279~1.24761855~0.049779980145~1506738279000~0~0~0~0~0.0399~0.0399~0.0399~0.0399~0.0399~0.0399~Novaexchange~7ffe9",
+            "5~CCCAGG~TZC~MOON~4~79~1506801760~2~158~1506801760000~0~0~0~0~79~79~79~79~79~79~Novaexchange~7ffe9",
+            "5~CCCAGG~TZC~ESP2~4~0.00015003~1507924881~1~0.00015003~1507924881000~0~0~0~0~0.00015003~0.00015003~0.00015003~0.00015003~0.00015003~0.00015003~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

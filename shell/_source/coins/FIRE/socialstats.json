@@ -1,0 +1,190 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "FIRE",
+            "CoinName": "FireCoin",
+            "Type": "Webpagecoinp",
+            "Points": 2585
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 30119,
+                    "Name": "Californium",
+                    "FullName": "Californium (CF)",
+                    "ImageUrl": "\/media\/351730\/cf.png",
+                    "Url": "\/coins\/cf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 112363,
+                    "Name": "HamsterCoin",
+                    "FullName": "HamsterCoin (HAMS)",
+                    "ImageUrl": "\/media\/1383381\/hams.png",
+                    "Url": "\/coins\/hams\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4560,
+                    "Name": "MediterraneanCoin",
+                    "FullName": "MediterraneanCoin (MED)",
+                    "ImageUrl": "\/media\/20046\/med.png",
+                    "Url": "\/coins\/med\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41125,
+                    "Name": "BitBoss",
+                    "FullName": "BitBoss (BOSS)",
+                    "ImageUrl": "\/media\/1382289\/boss.png",
+                    "Url": "\/coins\/boss\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6101,
+                    "Name": "CryptoFocus",
+                    "FullName": "CryptoFocus (FCS)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/fcs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 201896,
+                    "Name": "Arena",
+                    "FullName": "Arena (ARENA)",
+                    "ImageUrl": "\/media\/12318225\/arena.png",
+                    "Url": "\/coins\/arena\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44955,
+                    "Name": "JaneCoin",
+                    "FullName": "JaneCoin (JANE)",
+                    "ImageUrl": "\/media\/1382640\/jane.png",
+                    "Url": "\/coins\/jane\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4554,
+                    "Name": "LitecoinDark",
+                    "FullName": "LitecoinDark (LTCD)",
+                    "ImageUrl": "\/media\/20043\/ltcd.png",
+                    "Url": "\/coins\/ltcd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34334,
+                    "Name": "iWallet",
+                    "FullName": "iWallet (IW)",
+                    "ImageUrl": "\/media\/352121\/iw.png",
+                    "Url": "\/coins\/iw\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5382,
+                    "Name": "SlimCoin",
+                    "FullName": "SlimCoin (SLM)",
+                    "ImageUrl": "\/media\/20426\/slm.png",
+                    "Url": "\/coins\/slm\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 520870,
+                    "Name": "skoca60",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/520870\/c1ef64cd-7b0d-4949-b531-88889b5dbadc.jpg",
+                    "Url": "\/profile\/skoca60\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 428703,
+                    "Name": "super.levani87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/428703\/8f7e1215-faee-485a-a6b7-d0a4530929ed.jpg",
+                    "Url": "\/profile\/super.levani87\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 165376,
+                    "Name": "GoldFarmer",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/165376\/82e86f23-421e-42c8-a0b3-0d30e91dda90.png",
+                    "Url": "\/profile\/GoldFarmer\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 41470,
+                    "Name": "felix.cervin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/41470\/95d57d83-4d57-49b9-961e-5e28afe5671f.jpg",
+                    "Url": "\/profile\/felix.cervin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 611,
+                "Markets": 30,
+                "Analysis": 39,
+                "Charts": 25,
+                "Trades": 22,
+                "Orderbook": 0,
+                "Forum": 18,
+                "Influence": 14
+            },
+            "PageViews": 759
+        },
+        "Twitter": {
+            "favourites": "37",
+            "lists": 34,
+            "statuses": 223,
+            "following": "863",
+            "account_creation": "1403930761",
+            "name": "FIRE",
+            "followers": 2295,
+            "link": "https:\/\/twitter.com\/FirecoinX15",
+            "Points": 2465
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1511649401",
+                    "url": "https:\/\/github.com\/techcoincommunity\/firecoin",
+                    "forks": 3,
+                    "closed_total_issues": "4",
+                    "closed_pull_issues": "4",
+                    "subscribers": 4,
+                    "open_issues": "0",
+                    "size": "4113",
+                    "created_at": "1424619889",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "C",
+                    "open_total_issues": "0",
+                    "last_push": "1467131556",
+                    "stars": 2
+                }
+            ],
+            "Points": 20
+        }
+    }
+}

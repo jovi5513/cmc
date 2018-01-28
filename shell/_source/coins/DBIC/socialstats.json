@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "DBIC",
+            "CoinName": "DubaiCoin",
+            "Type": "Webpagecoinp",
+            "Points": 7551
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 61138,
+                    "Name": "Mercury",
+                    "FullName": "Mercury (MER)",
+                    "ImageUrl": "\/media\/14913628\/mer.png",
+                    "Url": "\/coins\/mer\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 237407,
+                    "Name": "Hedge Token",
+                    "FullName": "Hedge Token (HDG)",
+                    "ImageUrl": "\/media\/9350726\/hdg.png",
+                    "Url": "\/coins\/hdg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 543502,
+                    "Name": "Bread token",
+                    "FullName": "Bread token (BRD)",
+                    "ImageUrl": "\/media\/20780589\/brd.png",
+                    "Url": "\/coins\/brd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 198408,
+                    "Name": "Mothership",
+                    "FullName": "Mothership (MSP)",
+                    "ImageUrl": "\/media\/1383881\/c9fobrlr_400x400.jpg",
+                    "Url": "\/coins\/msp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4564,
+                    "Name": "MinCoin",
+                    "FullName": "MinCoin (MNC)",
+                    "ImageUrl": "\/media\/19805\/mincoin.png",
+                    "Url": "\/coins\/mnc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 389849,
+                    "Name": "MinexCoin",
+                    "FullName": "MinexCoin (MNX)",
+                    "ImageUrl": "\/media\/14913648\/mnx.png",
+                    "Url": "\/coins\/mnx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 405291,
+                    "Name": "Lamden Tau",
+                    "FullName": "Lamden Tau (TAU)",
+                    "ImageUrl": "\/media\/16404857\/lamden.png",
+                    "Url": "\/coins\/tau\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 229060,
+                    "Name": "Fuck Token",
+                    "FullName": "Fuck Token (FUCK)",
+                    "ImageUrl": "\/media\/1384043\/fuck.png",
+                    "Url": "\/coins\/fuck\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188523,
+                    "Name": "DCORP",
+                    "FullName": "DCORP (DRP)",
+                    "ImageUrl": "\/media\/1383822\/drp.png",
+                    "Url": "\/coins\/drp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20270,
+                    "Name": "TrumpCoin",
+                    "FullName": "TrumpCoin (TRUMP)",
+                    "ImageUrl": "\/media\/350905\/trump.png",
+                    "Url": "\/coins\/trump\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 72289,
+                    "Name": "alexsosn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/72289\/8891f894-82ab-40e8-9a21-25ea139ec73e.jpg",
+                    "Url": "\/profile\/alexsosn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 537830,
+                    "Name": "clark25000",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/537830\/fb7002e3-6d87-45c2-9129-c23833868b45.jpg",
+                    "Url": "\/profile\/clark25000\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 572384,
+                    "Name": "edc19715",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/572384\/5f3b0666-46f7-4605-b472-fa6854d1fab7.jpg",
+                    "Url": "\/profile\/edc19715\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 346374,
+                    "Name": "robby.appeldoorn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/346374\/d7766d66-8978-473d-8fb9-b2faaac7591b.jpg",
+                    "Url": "\/profile\/robby.appeldoorn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 571758,
+                    "Name": "lekskeks",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/571758\/27df3a98-e85d-4ef5-a730-64dd12f4e23a.jpg",
+                    "Url": "\/profile\/lekskeks\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 657282,
+                    "Name": "linda.pennington",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/657282\/55844ec4-5628-47c1-96f9-a18bcbd33ff4.jpg",
+                    "Url": "\/profile\/linda.pennington\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 636505,
+                    "Name": "smalqasem",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/636505\/63cc154d-a210-4f31-9b59-a69fcc185bc6.jpg",
+                    "Url": "\/profile\/smalqasem\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 502689,
+                    "Name": "hagi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/502689\/6ac858f2-64b4-4706-addf-6143c411bd70.png",
+                    "Url": "\/profile\/hagi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 563444,
+                    "Name": "295B9744",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/563444\/0473b131-e72b-48f0-b365-37b63c2c722b.jpg",
+                    "Url": "\/profile\/295B9744\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 467368,
+                    "Name": "Srabon6114",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/467368\/5d16026a-d917-4562-8eb9-222909cc1525.jpg",
+                    "Url": "\/profile\/Srabon6114\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 317102,
+                    "Name": "mansoorasiddiqui",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/317102\/7c688eb6-192b-46b7-a687-b33ebd69bc42.jpg",
+                    "Url": "\/profile\/mansoorasiddiqui\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 3370,
+            "Followers": 130,
+            "Posts": "4",
+            "Comments": "2",
+            "PageViewsSplit": {
+                "Overview": 11239,
+                "Markets": 814,
+                "Analysis": 395,
+                "Charts": 735,
+                "Trades": 397,
+                "Orderbook": 9,
+                "Forum": 284,
+                "Influence": 117
+            },
+            "PageViews": 13990
+        },
+        "Twitter": {
+            "following": "33",
+            "account_creation": "1455920991",
+            "name": "DubaiCoin [DBIX]",
+            "lists": 43,
+            "statuses": 246,
+            "favourites": "1",
+            "followers": 904,
+            "link": "https:\/\/twitter.com\/DubaiCoin_org",
+            "Points": 1119
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 3032,
+            "link": "https:\/\/www.facebook.com\/DubaiCoin\/",
+            "is_closed": "false",
+            "talking_about": "55",
+            "name": "DubaiCoin",
+            "Points": 3032
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1456170629",
+                    "open_total_issues": "1",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "4482",
+                    "closed_total_issues": "0",
+                    "stars": 7,
+                    "last_update": "1515144234",
+                    "forks": 8,
+                    "url": "https:\/\/github.com\/DubaiCoinDev\/DubaiCoin",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1475049342",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 2,
+                    "open_issues": "1"
+                }
+            ],
+            "Points": 29
+        }
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "IGNIS",
+            "CoinName": "Ignis",
+            "Type": "Webpagecoinp",
+            "Points": 16035
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 40811,
+                    "Name": "Pascal Coin",
+                    "FullName": "Pascal Coin (PASC)",
+                    "ImageUrl": "\/media\/1382247\/pasc.png",
+                    "Url": "\/coins\/pasc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5309,
+                    "Name": "GridCoin",
+                    "FullName": "GridCoin (GRC)",
+                    "ImageUrl": "\/media\/20307\/grc.png",
+                    "Url": "\/coins\/grc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 431235,
+                    "Name": "Aion",
+                    "FullName": "Aion (AION)",
+                    "ImageUrl": "\/media\/16746538\/aion.png",
+                    "Url": "\/coins\/aion\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 383953,
+                    "Name": "Envion",
+                    "FullName": "Envion (EVN)",
+                    "ImageUrl": "\/media\/14913587\/env.png",
+                    "Url": "\/coins\/evn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4580,
+                    "Name": "NameCoin",
+                    "FullName": "NameCoin (NMC)",
+                    "ImageUrl": "\/media\/19830\/nmc.png",
+                    "Url": "\/coins\/nmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 190978,
+                    "Name": "Aeternity",
+                    "FullName": "Aeternity (AE)",
+                    "ImageUrl": "\/media\/1383836\/ae.png",
+                    "Url": "\/coins\/ae\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179164,
+                    "Name": "Metal",
+                    "FullName": "Metal (MTL)",
+                    "ImageUrl": "\/media\/1383743\/mtl.png",
+                    "Url": "\/coins\/mtl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 53950,
+                    "Name": "Musicoin",
+                    "FullName": "Musicoin (MUSIC)",
+                    "ImageUrl": "\/media\/1382783\/music.png",
+                    "Url": "\/coins\/music\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5296,
+                    "Name": "MonaCoin",
+                    "FullName": "MonaCoin (MONA)",
+                    "ImageUrl": "\/media\/19801\/mona.png",
+                    "Url": "\/coins\/mona\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30736,
+                    "Name": "Byteball",
+                    "FullName": "Byteball (GBYTE)",
+                    "ImageUrl": "\/media\/351835\/bytes.png",
+                    "Url": "\/coins\/gbyte\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 153595,
+                    "Name": "shaycraft78",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/153595\/5b908727-f2c3-4e78-a92d-e03f19b0eee6.jpg",
+                    "Url": "\/profile\/shaycraft78\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 467161,
+                    "Name": "caandeweg",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/467161\/956918b4-ea77-4839-9efd-95e225222a29.jpg",
+                    "Url": "\/profile\/caandeweg\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 649824,
+                    "Name": "rienestaal",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/649824\/20d6cdf4-405f-459a-a80b-1741e538f3ea.jpg",
+                    "Url": "\/profile\/rienestaal\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 351853,
+                    "Name": "spirec",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/351853\/56a2ad45-8ef3-46ee-8dc4-021f8a6dba5e.jpg",
+                    "Url": "\/profile\/spirec\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 667122,
+                    "Name": "wilsonsmith",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/667122\/75a363ad-e1ca-4577-8835-e196afda617f.jpg",
+                    "Url": "\/profile\/wilsonsmith\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 187597,
+                    "Name": "fla84",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/187597\/e4d30bea-b90c-4d1d-a980-dd6f25cd84de.jpg",
+                    "Url": "\/profile\/fla84\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 408676,
+                    "Name": "endragraha",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/408676\/b9d47411-e16a-43f3-a859-8f7147e16fcf.jpg",
+                    "Url": "\/profile\/endragraha\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 85728,
+                    "Name": "grigoriodesmo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/85728\/f109bd9b-bc3e-4e33-8397-c99b63252361.jpg",
+                    "Url": "\/profile\/grigoriodesmo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 660701,
+                    "Name": "ekamawadah42",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/660701\/9042afda-440d-4b45-bf72-6c3583ce6a5f.jpg",
+                    "Url": "\/profile\/ekamawadah42\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 72406,
+                    "Name": "marq_kez27",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/72406\/2f0beac2-5aa1-4bb2-9eee-d8bfec2a99c3.jpg",
+                    "Url": "\/profile\/marq_kez27\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 456607,
+                    "Name": "pau_coll",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/456607\/fedef175-8734-4361-9bbc-e67ed6446555.jpg",
+                    "Url": "\/profile\/pau_coll\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 16025,
+            "Posts": "173",
+            "Followers": 314,
+            "Comments": "385",
+            "PageViewsSplit": {
+                "Overview": 76973,
+                "Markets": 5778,
+                "Analysis": 3447,
+                "Charts": 3683,
+                "Trades": 2318,
+                "Orderbook": 5,
+                "Forum": 12689,
+                "Influence": 346
+            },
+            "PageViews": 105239
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

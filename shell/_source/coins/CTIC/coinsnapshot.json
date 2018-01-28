@@ -1,0 +1,66 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "CTIC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "2.3e-7",
+            "LASTUPDATE": "1516084978",
+            "LASTVOLUME": "850.91651966",
+            "LASTVOLUMETO": "0.00019571079952179998",
+            "LASTTRADEID": "200000020",
+            "VOLUMEDAY": "9165.890918680001",
+            "VOLUMEDAYTO": "0.0018587056793258",
+            "VOLUME24HOUR": "17480.8653177",
+            "VOLUME24HOURTO": "0.0037587060392263",
+            "OPENDAY": "2.3e-7",
+            "HIGHDAY": "2.3e-7",
+            "LOWDAY": "2e-7",
+            "OPEN24HOUR": "2.2e-7",
+            "HIGH24HOUR": "2.3e-7",
+            "LOW24HOUR": "2e-7",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "CTIC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "2.3e-7",
+                "LASTUPDATE": "1516084978",
+                "LASTVOLUME": "850.91651966",
+                "LASTVOLUMETO": "0.00019571079952179998",
+                "LASTTRADEID": "200000020",
+                "VOLUME24HOUR": "17480.8653177",
+                "VOLUME24HOURTO": "0.0037587060392263",
+                "OPEN24HOUR": "2.2e-7",
+                "HIGH24HOUR": "2.3e-7",
+                "LOW24HOUR": "2e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Novaexchange",
+                "FROMSYMBOL": "CTIC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "1e-8",
+                "LASTUPDATE": "1506749275",
+                "LASTVOLUME": "20000",
+                "LASTVOLUMETO": "0.0002",
+                "LASTTRADEID": "1506749275003",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "1e-8",
+                "HIGH24HOUR": "1e-8",
+                "LOW24HOUR": "1e-8"
+            }
+        ]
+    },
+    "Type": 100
+}

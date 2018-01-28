@@ -1,0 +1,89 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BitSend (BSD) - Live streaming prices and market cap",
+            "PageDescription": "Live BitSend prices from all markets and BSD coin market Capitalization. Stay up to date with the latest BitSend price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351086\/bsd.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "22329",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "BitSend (BSD)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BSD",
+            "Url": "\/coins\/bsd\/",
+            "BaseAngularUrl": "\/coins\/bsd\/",
+            "Name": "BitSend",
+            "ImageUrl": "\/media\/351086\/bsd.png",
+            "Description": "<p>BitSend is Pow\/PoS hybrid cryptocurrency with a 100 years mining period. Users can earn rewards by running a masternode or mining with computational power. BitSend uses the X11 hashing algorithm, which allows features like Darksend and InstantX.\u00a0Darksend allows users to send BSD anonymously and InstantX reduces confirmation period.<\/p>",
+            "Features": "",
+            "Technology": "<p>Darksend<\/p><p>InstantX<\/p>",
+            "TotalCoinSupply": "139000000",
+            "Algorithm": "X11",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "07\/06\/2014",
+            "Twitter": "@Bit_send",
+            "AffiliateUrl": "https:\/\/www.bitsend.info\/",
+            "Website": "<a href='https:\/\/www.bitsend.info\/' target='_blank'>BitSend<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515949744,
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": 422601,
+            "BlockTime": 360,
+            "NetHashesPerSecond": 2708133538.7402,
+            "TotalCoinsMined": 17846375,
+            "PreviousTotalCoinsMined": 17846250,
+            "BlockReward": 25
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~BSD~LTC",
+            "2~BitTrex~BSD~BTC",
+            "2~Novaexchange~BSD~KIC",
+            "2~Cryptopia~BSD~POP",
+            "2~Cryptopia~BSD~UNO",
+            "2~Cryptopia~BSD~ETH",
+            "2~Cryptopia~BSD~USDT",
+            "2~Cryptopia~BSD~BTC",
+            "2~Cryptopia~BSD~DOT",
+            "2~Cryptopia~BSD~LTC",
+            "2~Novaexchange~BSD~ETH",
+            "2~Cryptopia~BSD~FTC",
+            "2~Cryptopia~BSD~DOGE",
+            "2~LiveCoin~BSD~BTC",
+            "2~Cryptopia~BSD~XMR",
+            "2~Novaexchange~BSD~BTC",
+            "2~Novaexchange~BSD~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BSD~LTC~4~0.0065~1515192422~5.37386765~0.03493014~1515192422~0~0~0~0~0.0065~0.0065~0.0065~0.0065~0.0065~0.0065~Cryptopia~7ffe9",
+            "5~CCCAGG~BSD~BTC~1~0.0001182~1515950860~9.82366217~0.00116115~7906061~251474.37956668012~29.993549480000052~390752.77374312014~46.97684259000001~0.0001217~0.0001236~0.0001159~0.0001204~0.0001299~0.0001158~BitTrex~7ffe9",
+            "5~CCCAGG~BSD~KIC~4~5~1497603391~0.001~0.005~1497603391000~0~0~0~0~5~5~5~5~5~5~Novaexchange~7ffe9",
+            "5~CCCAGG~BSD~POP~4~140.8~1456238713~0.0999~14.06592~1456238713~0~0~0~0~140.8~140.8~140.8~140.8~140.8~140.8~Cryptopia~7ffe9",
+            "5~CCCAGG~BSD~UNO~4~0.00651083~1497929114~1.98129752~0.01289989~1497929114~0~0~0~0~0.00651083~0.00651083~0.00651083~0.00651083~0.00651083~0.00651083~Cryptopia~7ffe9",
+            "5~CCCAGG~BSD~ETH~4~0.000049~1504699642~2~0.000098~1504699642001~0~0~0~0~0.000049~0.000049~0.000049~0.000049~0.000049~0.000049~Novaexchange~7ffe9",
+            "5~CCCAGG~BSD~USDT~4~1.53~1515944350~2.22386212~3.40250907~1515944350~929.22653252~1553.95606121~1406.5537879499998~2394.69318155~1.77~1.8~1.53~1.75~1.87~1.53~Cryptopia~7ffe9",
+            "5~CCCAGG~BSD~DOT~4~13.00000003~1488807919~3.30877222~43.014039~1488807919~0~0~0~0~13.00000003~13.00000003~13.00000003~13.00000003~13.00000003~13.00000003~Cryptopia~7ffe9",
+            "5~CCCAGG~BSD~FTC~4~1.59999999~1488771941~5.54067472~8.865079~1488771941~0~0~0~0~1.59999999~1.59999999~1.59999999~1.59999999~1.59999999~1.59999999~Cryptopia~7ffe9",
+            "5~CCCAGG~BSD~DOGE~4~130.39139382~1515184165~6.000024~782.35149231~1515184165~0~0~0~0~130.39~130.39139382~130.39~130.39139382~130.39139382~130.39139382~Cryptopia~7ffe9",
+            "5~CCCAGG~BSD~XMR~4~0.00319999~1488806832~3.11877222~0.00998~1488806832~0~0~0~0~0.00319999~0.00319999~0.00319999~0.00319999~0.00319999~0.00319999~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,82 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Revain (R) - Live streaming prices and market cap",
+            "PageDescription": "Live Revain prices from all markets and R coin market Capitalization. Stay up to date with the latest Revain price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/12318360\/r.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "345420",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Revain (R)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "R",
+            "Url": "\/coins\/r\/",
+            "BaseAngularUrl": "\/coins\/r\/",
+            "Name": "Revain",
+            "ImageUrl": "\/media\/12318360\/r.png",
+            "Description": "<p>Revain is a platform that will leverage the Ethereum blockchain to implement a review mechanism that doesn&#39;t require a third-party to be involved.\u00a0In order to avoid\u00a0the third-party involvement\u00a0while keeping track of the review&#39;s quality, the\u00a0Revain\u00a0review mechanism will be composed of two phases. In the first phase there is a filtering layer which is applied by a machine using AI (RAF &amp; Tone Analyzer utilities), and then a second layer\u00a0is applied by the company to either decide if the review is accepted or not. This mechanism also\u00a0allows saving part of a review in an RSS smart contract (Review snapshots storage) making\u00a0reviews immutable.<\/p><p>The Revain platform, differently from other blockchains will have two tokens, the R token, and the RVN token. The R token will be used to gather funds during the ICO and to exchange it for other cryptocurrencies. On the other hand, the RVN token will be used exclusively inside Revain platform, to reward users\/companies for quality reviews and to penalize those who write unconstructive reviews. A fixed value of 0,0001 Bitcoin <span>is\u00a0attributed\u00a0<\/span>to the RVN token, enabling RVN tokens to be converted for the R tokens w<span>ithin the platform<\/span>. The conversion is calculated by dividing the actual price of the R token (in BTC)\u00a0for 0,0001 Bitcoin and then multiplying that value by the number of RVN tokens\u00a0that a certain user\u00a0possess.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "1000000000",
+            "Algorithm": "",
+            "ProofType": "",
+            "StartDate": "04\/08\/2017",
+            "Twitter": "@Revain_org",
+            "AffiliateUrl": "http:\/\/revain.org\/",
+            "Website": "<a href='http:\/\/revain.org\/' target='_blank'>Revain<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970299,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 1000000000,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~EtherDelta~R~ETH",
+            "2~CCEX~R~USD",
+            "2~Cryptopia~R~DOGE",
+            "2~Kucoin~R~ETH",
+            "2~Yobit~R~BTC",
+            "2~CCEX~R~DOGE",
+            "2~Kucoin~R~BTC",
+            "2~Cryptopia~R~LTC",
+            "2~Yobit~R~RUR",
+            "2~Yobit~R~DOGE",
+            "2~CCEX~R~BTC",
+            "2~CCEX~R~LTC",
+            "2~Yobit~R~USD",
+            "2~Yobit~R~ETH",
+            "2~Cryptopia~R~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~R~ETH~4~0.000768~1515976073~9.541236~0.007327669248~1515976073000~1566.765085~1.185576692805~5896.144792~4.441894771714~0.000714~0.000779~0.000714~0.000759~0.000888~0.000671~Kucoin~7ffe9",
+            "5~CCCAGG~R~USD~4~1.44~1515638041~7.01388888~10.099999987199999~183904591~0~0~0~0~1.44~1.44~1.44~1.44~1.44~1.44~Yobit~7ffe9",
+            "5~CCCAGG~R~DOGE~2~55~1515971343~0.62336073~34.284840168700825~200000001~0~0~0.62336073~34.284840168700825~55~55~55~55~55~55~Yobit~7ffe9",
+            "5~CCCAGG~R~BTC~2~0.00007382~1515977540~10~0.0007488~1515977540000~7006.55525395~0.51901760559787~815740.0216323802~61.85692425466905~0.00007398~0.00007399~0.00007381~0.00007883~0.00007883~0.00006927~Kucoin~7ffe9",
+            "5~CCCAGG~R~LTC~4~0.00769587~1515184320~20~0.1539174~1515184320~0~0~0~0~0.007696~0.007696~0.00769587~0.00769587~0.00769587~0.00769587~Cryptopia~7ffe9",
+            "5~CCCAGG~R~RUR~4~61~1515894075~60~3660~200000027~0~0~0~0~61~61~61~61~61~61~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

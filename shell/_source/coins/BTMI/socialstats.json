@@ -1,0 +1,154 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BTMI",
+            "CoinName": "BitMiles",
+            "Type": "Webpagecoinp",
+            "Points": 442
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 7581,
+                    "Name": "Milllionaire Coin",
+                    "FullName": "Milllionaire Coin (MIL)",
+                    "ImageUrl": "\/media\/20354\/mil.png",
+                    "Url": "\/coins\/mil\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4413,
+                    "Name": "CinderCoin",
+                    "FullName": "CinderCoin (CIN)",
+                    "ImageUrl": "\/media\/20698\/cinder.png",
+                    "Url": "\/coins\/cin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 329507,
+                    "Name": "LakeBanker",
+                    "FullName": "LakeBanker (BAC*)",
+                    "ImageUrl": "\/media\/12318229\/bac.png",
+                    "Url": "\/coins\/bacstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4576,
+                    "Name": "NoirBits",
+                    "FullName": "NoirBits (NRB)",
+                    "ImageUrl": "\/media\/19839\/nrb.png",
+                    "Url": "\/coins\/nrb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 447315,
+                    "Name": "Neuro",
+                    "FullName": "Neuro (NRO)",
+                    "ImageUrl": "\/media\/16746592\/nro.png",
+                    "Url": "\/coins\/nro\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645830,
+                    "Name": "GoaCoin",
+                    "FullName": "GoaCoin (GOA)",
+                    "ImageUrl": "\/media\/20780697\/goa.png",
+                    "Url": "\/coins\/goa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4569,
+                    "Name": "NanoToken",
+                    "FullName": "NanoToken (NAN)",
+                    "ImageUrl": "\/media\/19821\/nan.png",
+                    "Url": "\/coins\/nan\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21222,
+                    "Name": "MediumProject",
+                    "FullName": "MediumProject (MPRO)",
+                    "ImageUrl": "\/media\/350999\/mpro.jpg",
+                    "Url": "\/coins\/mpro\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6107,
+                    "Name": "MultiWallet Coin",
+                    "FullName": "MultiWallet Coin (MWC)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/mwc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 52008,
+                    "Name": "ChatCoin",
+                    "FullName": "ChatCoin (CHAT)",
+                    "ImageUrl": "\/media\/1382762\/chat.png",
+                    "Url": "\/coins\/chat\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 553959,
+                    "Name": "alhajibonjo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/553959\/4e131c65-25d9-4357-927e-3bf56e6e5718.jpg",
+                    "Url": "\/profile\/alhajibonjo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 191,
+                "Markets": 22,
+                "Analysis": 190,
+                "Charts": 23,
+                "Trades": 20,
+                "Orderbook": 0,
+                "Forum": 26,
+                "Influence": 32
+            },
+            "PageViews": 504
+        },
+        "Twitter": {
+            "followers": 297,
+            "following": "204",
+            "lists": 14,
+            "favourites": "7",
+            "statuses": 138,
+            "account_creation": "1418453186",
+            "name": "Bitmiles",
+            "link": "https:\/\/twitter.com\/bitmilesco",
+            "Points": 367
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

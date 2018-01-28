@@ -1,0 +1,240 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SH",
+            "CoinName": "Shilling",
+            "Type": "Webpagecoinp",
+            "Points": 2678
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 62640,
+                    "Name": "wBTC",
+                    "FullName": "wBTC (WBTC)",
+                    "ImageUrl": "\/media\/1383045\/wbtc.png",
+                    "Url": "\/coins\/wbtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4449,
+                    "Name": "FlutterCoin",
+                    "FullName": "FlutterCoin (FLT)",
+                    "ImageUrl": "\/media\/19709\/flt.png",
+                    "Url": "\/coins\/flt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21775,
+                    "Name": "StarCoin",
+                    "FullName": "StarCoin (STAR*)",
+                    "ImageUrl": "\/media\/351043\/star.jpg",
+                    "Url": "\/coins\/starstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 61047,
+                    "Name": "ECOcoin",
+                    "FullName": "ECOcoin (ECO)",
+                    "ImageUrl": "\/media\/1382993\/eco.png",
+                    "Url": "\/coins\/eco\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8694,
+                    "Name": "SmileyCoin",
+                    "FullName": "SmileyCoin (SMLY)",
+                    "ImageUrl": "\/media\/20429\/smly.png",
+                    "Url": "\/coins\/smly\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4331,
+                    "Name": "ArchCoin",
+                    "FullName": "ArchCoin (ARCH)",
+                    "ImageUrl": "\/media\/20085\/arch.png",
+                    "Url": "\/coins\/arch\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5304,
+                    "Name": "CraveCoin",
+                    "FullName": "CraveCoin (CRAVE)",
+                    "ImageUrl": "\/media\/20242\/crave.png",
+                    "Url": "\/coins\/crave\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 542719,
+                    "Name": "CrowdCoinage",
+                    "FullName": "CrowdCoinage (CCOS)",
+                    "ImageUrl": "\/media\/16746767\/ccos.png",
+                    "Url": "\/coins\/ccos\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188787,
+                    "Name": "NeverDie",
+                    "FullName": "NeverDie (NDC)",
+                    "ImageUrl": "\/media\/1383827\/ndc.png",
+                    "Url": "\/coins\/ndc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 625381,
+                    "Name": "CompuCoin",
+                    "FullName": "CompuCoin (CPN)",
+                    "ImageUrl": "\/media\/20780661\/cpn.png",
+                    "Url": "\/coins\/cpn\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 646806,
+                    "Name": "ianhodg1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/646806\/d9e8a28d-f907-48f3-ae57-dfb1c458e738.jpg",
+                    "Url": "\/profile\/ianhodg1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 438166,
+                    "Name": "nanasutv",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/438166\/246c1172-2360-43eb-9110-45911467df21.jpg",
+                    "Url": "\/profile\/nanasutv\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 461472,
+                    "Name": "zakymarenniu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/461472\/f611f42c-1a64-4d9a-9e01-a68359ac53a6.jpg",
+                    "Url": "\/profile\/zakymarenniu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 421729,
+                    "Name": "rossjustinm",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/421729\/aeead635-1990-482a-81ed-eda7d9fb3f21.jpg",
+                    "Url": "\/profile\/rossjustinm\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 368856,
+                    "Name": "diego.giero",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/368856\/260b8b3a-49f7-44d3-b453-1677c0da2adf.jpg",
+                    "Url": "\/profile\/diego.giero\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 319412,
+                    "Name": "eng_moh0",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/319412\/912f0da5-7030-429b-9f82-0ba4c029e926.jpg",
+                    "Url": "\/profile\/eng_moh0\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 217076,
+                    "Name": "phonofemme2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/217076\/9188fa44-bcc0-4f27-b49d-089402a89571.jpg",
+                    "Url": "\/profile\/phonofemme2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 291921,
+                    "Name": "hoostine10",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/291921\/c29fca92-ffaa-47fc-81bf-f5bf37111950.jpg",
+                    "Url": "\/profile\/hoostine10\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 177300,
+                    "Name": "leodebock.ldb",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/177300\/b9c6e272-629c-4bb1-bcdf-a490c9745fda.jpg",
+                    "Url": "\/profile\/leodebock.ldb\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 17,
+            "Posts": "3",
+            "Points": 500,
+            "PageViewsSplit": {
+                "Overview": 916,
+                "Markets": 93,
+                "Analysis": 39,
+                "Charts": 41,
+                "Trades": 28,
+                "Orderbook": 0,
+                "Forum": 38,
+                "Influence": 79
+            },
+            "PageViews": 1234
+        },
+        "Twitter": {
+            "favourites": "71",
+            "lists": 22,
+            "statuses": 198,
+            "following": "4639",
+            "account_creation": "1470076534",
+            "name": "Digital Shilling",
+            "followers": 2045,
+            "link": "https:\/\/twitter.com\/DigitalShilling",
+            "Points": 2155
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1504784488",
+                    "url": "https:\/\/github.com\/yavwa\/Shilling",
+                    "forks": 4,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 4,
+                    "open_issues": "2",
+                    "size": "11035",
+                    "created_at": "1468567110",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "C++",
+                    "open_total_issues": "2",
+                    "last_push": "1505482516",
+                    "stars": 3
+                }
+            ],
+            "Points": 23
+        }
+    }
+}

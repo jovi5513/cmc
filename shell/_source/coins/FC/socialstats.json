@@ -1,0 +1,170 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "FC",
+            "CoinName": "Facecoin",
+            "Type": "Webpagecoinp",
+            "Points": 883
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 660947,
+                    "Name": "Bodhi",
+                    "FullName": "Bodhi (BOT)",
+                    "ImageUrl": "\/media\/20780753\/bot.png",
+                    "Url": "\/coins\/bot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30117,
+                    "Name": "LeaCoin",
+                    "FullName": "LeaCoin (LEA)",
+                    "ImageUrl": "\/media\/351729\/lea.png",
+                    "Url": "\/coins\/lea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182396,
+                    "Name": "ImperialCoin",
+                    "FullName": "ImperialCoin (IPC)",
+                    "ImageUrl": "\/media\/1383776\/ipc.png",
+                    "Url": "\/coins\/ipc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7599,
+                    "Name": "Arbit Coin",
+                    "FullName": "Arbit Coin (ARB)",
+                    "ImageUrl": "\/media\/20645\/arb.png",
+                    "Url": "\/coins\/arb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22169,
+                    "Name": "Revenu",
+                    "FullName": "Revenu (REV)",
+                    "ImageUrl": "\/media\/351061\/rev.png",
+                    "Url": "\/coins\/rev\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6341,
+                    "Name": "BitLux",
+                    "FullName": "BitLux (LUX*)",
+                    "ImageUrl": "\/media\/20557\/lux.png",
+                    "Url": "\/coins\/luxstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 53166,
+                    "Name": "TrollPlay",
+                    "FullName": "TrollPlay (TPAY)",
+                    "ImageUrl": "\/media\/1382770\/tpay.png",
+                    "Url": "\/coins\/tpay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8692,
+                    "Name": "Credits",
+                    "FullName": "Credits (CRE)",
+                    "ImageUrl": "\/media\/20683\/cre.png",
+                    "Url": "\/coins\/cre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 318794,
+                    "Name": "Zenome",
+                    "FullName": "Zenome (ZNA)",
+                    "ImageUrl": "\/media\/12318142\/zna.png",
+                    "Url": "\/coins\/zna\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28219,
+                    "Name": "MustangCoin",
+                    "FullName": "MustangCoin (MST)",
+                    "ImageUrl": "\/media\/351529\/mst1.png",
+                    "Url": "\/coins\/mst\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 211325,
+                    "Name": "1278920F",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/211325\/3e3bfa82-d228-4827-91e7-203e9a6bbf56.jpg",
+                    "Url": "\/profile\/1278920F\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 647942,
+                    "Name": "gr291141",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/647942\/8d1dbb1e-4abd-4b65-bbd6-4d35942c53f6.jpg",
+                    "Url": "\/profile\/gr291141\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 552942,
+                    "Name": "jaimealss",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/552942\/6085bef5-a484-406d-af7f-39a207004048.jpg",
+                    "Url": "\/profile\/jaimealss\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 337690,
+                    "Name": "ardrahys",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/337690\/f66512d8-c15c-4b88-9e14-c909e8bbeb5e.jpg",
+                    "Url": "\/profile\/ardrahys\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 353908,
+                    "Name": "ahmet.mat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/353908\/2b910315-f793-4ab7-8750-3c2f8c4a2cf1.jpg",
+                    "Url": "\/profile\/ahmet.mat\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Posts": "1",
+            "Comments": "1",
+            "Points": 160,
+            "PageViewsSplit": {
+                "Overview": 563,
+                "Markets": 65,
+                "Analysis": 32,
+                "Charts": 23,
+                "Trades": 36,
+                "Orderbook": 1,
+                "Forum": 9,
+                "Influence": 27
+            },
+            "PageViews": 756
+        },
+        "Twitter": {
+            "favourites": "0",
+            "lists": 9,
+            "statuses": 29,
+            "following": "16",
+            "account_creation": "1502520908",
+            "name": "FaceCoinTech",
+            "followers": 678,
+            "link": "https:\/\/twitter.com\/FaceCoinTech",
+            "Points": 723
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

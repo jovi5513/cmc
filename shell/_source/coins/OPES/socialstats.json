@@ -1,0 +1,190 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "OPES",
+            "CoinName": "Opes",
+            "Type": "Webpagecoinp",
+            "Points": 544
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 6411,
+                    "Name": "TamaGucci",
+                    "FullName": "TamaGucci (TAM)",
+                    "ImageUrl": "\/media\/20565\/tam.png",
+                    "Url": "\/coins\/tam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28650,
+                    "Name": "Samsara Coin",
+                    "FullName": "Samsara Coin (SMSR)",
+                    "ImageUrl": "\/media\/351543\/smsr.png",
+                    "Url": "\/coins\/smsr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 409363,
+                    "Name": "Ludum token",
+                    "FullName": "Ludum token (LDM)",
+                    "ImageUrl": "\/media\/16404870\/ldm.png",
+                    "Url": "\/coins\/ldm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30016,
+                    "Name": "Vaporcoin",
+                    "FullName": "Vaporcoin (VAPOR)",
+                    "ImageUrl": "\/media\/351708\/vapor.png",
+                    "Url": "\/coins\/vapor\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29368,
+                    "Name": "EGOcoin",
+                    "FullName": "EGOcoin (EGO)",
+                    "ImageUrl": "\/media\/351632\/ego.png",
+                    "Url": "\/coins\/ego\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37204,
+                    "Name": "Impulse Coin",
+                    "FullName": "Impulse Coin (IMPS)",
+                    "ImageUrl": "\/media\/1381984\/imps.jpg",
+                    "Url": "\/coins\/imps\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5389,
+                    "Name": "MemoryCoin",
+                    "FullName": "MemoryCoin (MMC)",
+                    "ImageUrl": "\/media\/19795\/mmc.png",
+                    "Url": "\/coins\/mmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21229,
+                    "Name": "Supreme",
+                    "FullName": "Supreme (SPM)",
+                    "ImageUrl": "\/media\/351002\/sup.png",
+                    "Url": "\/coins\/spm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29004,
+                    "Name": "PSIcoin",
+                    "FullName": "PSIcoin (PSI)",
+                    "ImageUrl": "\/media\/351589\/psi.png",
+                    "Url": "\/coins\/psi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4325,
+                    "Name": "AlphaCoin",
+                    "FullName": "AlphaCoin (ALF)",
+                    "ImageUrl": "\/media\/19600\/alf.png",
+                    "Url": "\/coins\/alf\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 325011,
+                    "Name": "mykhan888",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/325011\/e951261b-33ca-446a-a3cb-e96c5a6ab6b7.jpg",
+                    "Url": "\/profile\/mykhan888\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 59798,
+                    "Name": "helpdisman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/59798\/72950aa6-e730-475e-8849-d447efe74ed1.jpg",
+                    "Url": "\/profile\/helpdisman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 79198,
+                    "Name": "kseid",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/79198\/2de618d3-94c0-463e-b2ba-1a25b81eb846.jpg",
+                    "Url": "\/profile\/kseid\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 41314,
+                    "Name": "khavinshankar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/41314\/e403e1e7-ed83-4eea-89b6-8c626e47a12e.jpg",
+                    "Url": "\/profile\/khavinshankar\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 258,
+                "Markets": 29,
+                "Analysis": 6,
+                "Charts": 20,
+                "Trades": 7,
+                "Orderbook": 0,
+                "Forum": 6,
+                "Influence": 7
+            },
+            "PageViews": 333
+        },
+        "Twitter": {
+            "favourites": "1",
+            "lists": 5,
+            "statuses": 38,
+            "following": "1",
+            "account_creation": "1450803811",
+            "name": "Opescoin",
+            "followers": 409,
+            "link": "https:\/\/twitter.com\/Opescoindev",
+            "Points": 434
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1450793727",
+                    "url": "https:\/\/github.com\/OpesCoin\/OPES",
+                    "forks": 2,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 2,
+                    "open_issues": "1",
+                    "size": "2597",
+                    "created_at": "1450792295",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "C++",
+                    "open_total_issues": "1",
+                    "last_push": "1450794866",
+                    "stars": 0
+                }
+            ],
+            "Points": 10
+        }
+    }
+}

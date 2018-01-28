@@ -1,0 +1,87 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BestChain (BEST) - Live streaming prices and market cap",
+            "PageDescription": "Live BestChain prices from all markets and BEST coin market Capitalization. Stay up to date with the latest BestChain price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1382805\/best.jpg",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "56246",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "BestChain (BEST)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BEST",
+            "Url": "\/coins\/best\/",
+            "BaseAngularUrl": "\/coins\/best\/",
+            "Name": "BestChain",
+            "ImageUrl": "\/media\/1382805\/best.jpg",
+            "Description": "<p>BestChain is an hybrid Proof of Work\/Proof of Stake cryptocurrency based on the Scrypt algorithm. It has a 1% PoS reward.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS ",
+            "StartDate": "01\/01\/2017",
+            "Twitter": "@BBlockchain",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515969866,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 341033,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 5323377,
+            "TotalCoinsMined": 20147875.67249,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~BEST~BTC",
+            "2~Cryptopia~BEST~UNO",
+            "2~Novaexchange~BEST~DOGE",
+            "2~Novaexchange~BEST~ESP2",
+            "2~Novaexchange~BEST~LTC",
+            "2~Cryptopia~BEST~DOGE",
+            "2~Cryptopia~BEST~BTC",
+            "2~Novaexchange~BEST~KIC",
+            "2~Cryptopia~BEST~LTC",
+            "2~Yobit~BEST~DOGE",
+            "2~Yobit~BEST~USD",
+            "2~Novaexchange~BEST~ETH",
+            "2~Yobit~BEST~RUR",
+            "2~Yobit~BEST~ETH",
+            "2~Yobit~BEST~BTC",
+            "2~Yobit~BEST~WAVES"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BEST~BTC~4~0.00000165~1515979794~463.27345309~0.0007644~1515979794.004~59639.585456099994~0.0964667837293096~1283782.0001477501~2.1101455990934848~0.0000022~0.0000022~0.00000158~0.00000212~0.00000263~0.0000012~Cryptopia~7ffe9",
+            "5~CCCAGG~BEST~UNO~4~0.000012~1497086895~14.8349162~0.00017802~1497086895~0~0~0~0~0.000012~0.000012~0.000012~0.000012~0.000012~0.000012~Cryptopia~7ffe9",
+            "5~CCCAGG~BEST~DOGE~4~1.58~1515914034~38.64387794~61.057327145200006~200000025~0~0~358.5~577.18912415~1.58~1.58~1.58~2.69~2.69~1.58~Yobit~7ffe9",
+            "5~CCCAGG~BEST~ESP2~4~2.00000001~1502710565~3.22477215~6.449544332247721~1502710565000~0~0~0~0~2.00000001~2.00000001~2.00000001~2.00000001~2.00000001~2.00000001~Novaexchange~7ffe9",
+            "5~CCCAGG~BEST~LTC~4~0.00010999~1515197192~18809.75125973~2.06888454~1515197192~0~0~0~0~0.00011~0.00011~0.00010999~0.00010999~0.00010999~0.00010999~Cryptopia~7ffe9",
+            "5~CCCAGG~BEST~KIC~4~2~1497797295~11.65059897~23.30119794~1497797295000~0~0~0~0~2~2~2~2~2~2~Novaexchange~7ffe9",
+            "5~CCCAGG~BEST~USD~4~0.0149~1515978502~269.61400681~4.017248701469~200000153~269.61400681~4.017248701469~6862.14468115~54.83894742416104~0.0149~0.0149~0.0149~0.01111~0.01778~0.005~Yobit~7ffe9",
+            "5~CCCAGG~BEST~ETH~4~0.00000531~1515932043~198.99583333~0.0010566678749823~200000090~0~0~10536.80163249~0.0964971394884087~0.00000531~0.00000531~0.00000531~0.00001019~0.0000102~0.00000531~Yobit~7ffe9",
+            "5~CCCAGG~BEST~RUR~4~0.3~1515961426~21.79778205~6.539336794778205~200000104~0~0~3874.0758167899994~2836.1617541488026~0.3~0.3~0.3~0.81~0.82~0.3~Yobit~7ffe9",
+            "5~CCCAGG~BEST~WAVES~4~0.00489976~1515779088~50~0.244988~200000000~0~0~0~0~0.00003006~0.00489976~0.00003006~0.00489976~0.00489976~0.00489976~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,70 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "ProsperCoin (PRC) - Live streaming prices and market cap",
+            "PageDescription": "Live ProsperCoin prices from all markets and PRC coin market Capitalization. Stay up to date with the latest ProsperCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20393\/prc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "3638",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "ProsperCoin (PRC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "PRC",
+            "Url": "\/coins\/prc\/",
+            "BaseAngularUrl": "\/coins\/prc\/",
+            "Name": "ProsperCoin",
+            "ImageUrl": "\/media\/20393\/prc.png",
+            "Description": "<p>ProsperCoin is a PoW cryptocurrency with\u00a0a modified Scrypt algorithm. Created to bring to bring prosperity to its users, PRC can be sent to anyone for a small fee\u00a0and almost instantly.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "21000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "29\/01\/2014",
+            "Twitter": "@prospercoin",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515948138,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 120,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 16988600,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Poloniex~PRC~BTC",
+            "2~CCEX~PRC~USD",
+            "2~CCEX~PRC~DOGE",
+            "2~CCEX~PRC~BTC",
+            "2~CCEX~PRC~LTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~PRC~BTC~4~5e-7~1515136799~2732.92~0.00136646~26274~0~0~0~0~5e-7~5e-7~5e-7~5e-7~5e-7~5e-7~CCEX~7ffe9",
+            "5~CCCAGG~PRC~USD~4~0.01~1514388962~531.09444249~5.3109444249~1896497~0~0~0~0~0.01~0.01~0.01~0.01~0.01~0.01~CCEX~7ffe9",
+            "5~CCCAGG~PRC~DOGE~4~0.8~1514981986~1.9976~1.5980800000000002~2161795~0~0~0~0~0.8~0.8~0.8~0.8~0.8~0.8~CCEX~7ffe9",
+            "5~CCCAGG~PRC~LTC~4~0.0000241~1513957289~114.23520238~0.002753068377358~1817399~0~0~0~0~0.0000241~0.0000241~0.0000241~0.0000241~0.0000241~0.0000241~CCEX~7ffe9"
+        ]
+    },
+    "Type": 100
+}

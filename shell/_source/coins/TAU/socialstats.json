@@ -1,0 +1,311 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "TAU",
+            "CoinName": "Lamden Tau",
+            "Type": "Webpagecoinp",
+            "Points": 13202
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5316,
+                    "Name": "RubyCoin",
+                    "FullName": "RubyCoin (RBY)",
+                    "ImageUrl": "\/media\/351279\/rby.png",
+                    "Url": "\/coins\/rby\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 543502,
+                    "Name": "Bread token",
+                    "FullName": "Bread token (BRD)",
+                    "ImageUrl": "\/media\/20780589\/brd.png",
+                    "Url": "\/coins\/brd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4564,
+                    "Name": "MinCoin",
+                    "FullName": "MinCoin (MNC)",
+                    "ImageUrl": "\/media\/19805\/mincoin.png",
+                    "Url": "\/coins\/mnc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 198408,
+                    "Name": "Mothership",
+                    "FullName": "Mothership (MSP)",
+                    "ImageUrl": "\/media\/1383881\/c9fobrlr_400x400.jpg",
+                    "Url": "\/coins\/msp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 237407,
+                    "Name": "Hedge Token",
+                    "FullName": "Hedge Token (HDG)",
+                    "ImageUrl": "\/media\/9350726\/hdg.png",
+                    "Url": "\/coins\/hdg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188523,
+                    "Name": "DCORP",
+                    "FullName": "DCORP (DRP)",
+                    "ImageUrl": "\/media\/1383822\/drp.png",
+                    "Url": "\/coins\/drp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20198,
+                    "Name": "DubaiCoin",
+                    "FullName": "DubaiCoin (DBIC)",
+                    "ImageUrl": "\/media\/350891\/dbic.png",
+                    "Url": "\/coins\/dbic\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 389849,
+                    "Name": "MinexCoin",
+                    "FullName": "MinexCoin (MNX)",
+                    "ImageUrl": "\/media\/14913648\/mnx.png",
+                    "Url": "\/coins\/mnx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 229060,
+                    "Name": "Fuck Token",
+                    "FullName": "Fuck Token (FUCK)",
+                    "ImageUrl": "\/media\/1384043\/fuck.png",
+                    "Url": "\/coins\/fuck\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20270,
+                    "Name": "TrumpCoin",
+                    "FullName": "TrumpCoin (TRUMP)",
+                    "ImageUrl": "\/media\/350905\/trump.png",
+                    "Url": "\/coins\/trump\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 294348,
+                    "Name": "gentoozoid",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/294348\/664a6bf6-648d-4686-8849-06929214602f.jpg",
+                    "Url": "\/profile\/gentoozoid\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 298483,
+                    "Name": "outterlec",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/298483\/81523f28-6778-4111-bca0-4fa5e2fca218.jpg",
+                    "Url": "\/profile\/outterlec\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 78094,
+                    "Name": "45858403",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/78094\/124c52db-f562-4e97-8239-002fb1415658.jpg",
+                    "Url": "\/profile\/45858403\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 522262,
+                    "Name": "frank.freyer",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/522262\/ccacc106-30b1-4d7f-a002-2d885ffb2f7a.jpg",
+                    "Url": "\/profile\/frank.freyer\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 485348,
+                    "Name": "slashkaev",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/485348\/bc8ee401-5be1-4ba1-9db0-a22c407cbe83.jpg",
+                    "Url": "\/profile\/slashkaev\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 457221,
+                    "Name": "elf13elf",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/457221\/42fd9ca4-764d-4c4f-97bd-8fc0f19b790e.jpg",
+                    "Url": "\/profile\/elf13elf\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 437127,
+                    "Name": "Zurak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/437127\/195d7817-fe3b-4006-812f-8f8670ac29b7.jpg",
+                    "Url": "\/profile\/Zurak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 193002,
+                    "Name": "Jsaint",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/193002\/e71577d2-a806-48c3-9999-2c645716899c.jpg",
+                    "Url": "\/profile\/Jsaint\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 354420,
+                    "Name": "kmoore112",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/354420\/9243066b-44ec-49bb-95d7-a90f472f9ae1.jpg",
+                    "Url": "\/profile\/kmoore112\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 134991,
+                    "Name": "AntMan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/134991\/512e24ed-8aad-4772-bbb6-9c715df3dd46.jpg",
+                    "Url": "\/profile\/AntMan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 171344,
+                    "Name": "Totize",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/171344\/8c29dc13-9b14-438f-a8b7-353fd94c9d98.jpg",
+                    "Url": "\/profile\/Totize\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1385,
+            "Followers": 51,
+            "Posts": "4",
+            "Comments": "1",
+            "PageViewsSplit": {
+                "Overview": 3590,
+                "Markets": 165,
+                "Analysis": 154,
+                "Charts": 44,
+                "Trades": 30,
+                "Orderbook": 0,
+                "Forum": 97,
+                "Influence": 59
+            },
+            "PageViews": 4139
+        },
+        "Twitter": {
+            "following": "221",
+            "account_creation": "1504987270",
+            "name": "Lamden",
+            "lists": 58,
+            "statuses": 215,
+            "favourites": "139",
+            "followers": 6993,
+            "link": "https:\/\/twitter.com\/LamdenTau",
+            "Points": 7283
+        },
+        "Reddit": {
+            "posts_per_hour": "0.09",
+            "comments_per_hour": "1.40",
+            "posts_per_day": "2.16",
+            "comments_per_day": 33.57,
+            "name": "lamden",
+            "link": "https:\/\/www.reddit.com\/r\/lamden\/",
+            "active_users": 40,
+            "community_creation": "1507177831",
+            "subscribers": 1285,
+            "Points": 1472
+        },
+        "Facebook": {
+            "likes": 3030,
+            "link": "https:\/\/www.facebook.com\/LamdenTau\/",
+            "is_closed": "false",
+            "talking_about": "272",
+            "name": "Lamden",
+            "Points": 3030
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1509225746",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "234",
+                    "closed_total_issues": "0",
+                    "stars": 0,
+                    "last_update": "1509240372",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/Lamden\/sale_contracts",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1511205774",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "HTML",
+                    "subscribers": 1,
+                    "open_issues": "0"
+                },
+                {
+                    "created_at": "1503273284",
+                    "open_total_issues": "9",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "332",
+                    "closed_total_issues": "0",
+                    "stars": 4,
+                    "last_update": "1515902052",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/Lamden\/flora",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1509465932",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "Python",
+                    "subscribers": 6,
+                    "open_issues": "0"
+                },
+                {
+                    "created_at": "1511243060",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "17",
+                    "closed_total_issues": "13",
+                    "stars": 2,
+                    "last_update": "1515967945",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/Lamden\/ez-zk",
+                    "closed_issues": "2",
+                    "closed_pull_issues": "11",
+                    "fork": "false",
+                    "last_push": "1511243504",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "Jupyter Notebook",
+                    "subscribers": 1,
+                    "open_issues": "9"
+                }
+            ],
+            "Points": 32
+        }
+    }
+}

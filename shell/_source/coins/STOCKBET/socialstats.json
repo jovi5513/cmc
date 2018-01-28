@@ -1,0 +1,166 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "STOCKBET",
+            "CoinName": "StockBet",
+            "Type": "Webpagecoinp",
+            "Points": 452
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 586638,
+                    "Name": "BitAsean",
+                    "FullName": "BitAsean (BAS)",
+                    "ImageUrl": "\/media\/20780613\/bas.png",
+                    "Url": "\/coins\/bas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24887,
+                    "Name": "RustCoin",
+                    "FullName": "RustCoin (RUST)",
+                    "ImageUrl": "\/media\/351365\/rust.png",
+                    "Url": "\/coins\/rust\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28027,
+                    "Name": "Sense",
+                    "FullName": "Sense (SNS)",
+                    "ImageUrl": "\/media\/351494\/sns.png",
+                    "Url": "\/coins\/sns\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35228,
+                    "Name": "Procom",
+                    "FullName": "Procom (PCM)",
+                    "ImageUrl": "\/media\/352223\/pcm.png",
+                    "Url": "\/coins\/pcm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60618,
+                    "Name": "ArpaCoin",
+                    "FullName": "ArpaCoin (ARPA)",
+                    "ImageUrl": "\/media\/1382966\/arpa.png",
+                    "Url": "\/coins\/arpa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44007,
+                    "Name": "Impeach",
+                    "FullName": "Impeach (IMPCH)",
+                    "ImageUrl": "\/media\/1382606\/impch.png",
+                    "Url": "\/coins\/impch\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42435,
+                    "Name": "Klingon Empire Darsek",
+                    "FullName": "Klingon Empire Darsek (KED)",
+                    "ImageUrl": "\/media\/1382390\/ked.png",
+                    "Url": "\/coins\/ked\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21706,
+                    "Name": "Cryptokenz",
+                    "FullName": "Cryptokenz (CYT)",
+                    "ImageUrl": "\/media\/351024\/cyt.png",
+                    "Url": "\/coins\/cyt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28317,
+                    "Name": "TodayCoin",
+                    "FullName": "TodayCoin (TODAY)",
+                    "ImageUrl": "\/media\/351521\/today.png",
+                    "Url": "\/coins\/today\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28330,
+                    "Name": "Gold Pressed Latinum",
+                    "FullName": "Gold Pressed Latinum (GPL)",
+                    "ImageUrl": "\/media\/351525\/gpl.png",
+                    "Url": "\/coins\/gpl\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 334907,
+                    "Name": "bickett",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/334907\/37ee795b-f3bc-47e4-b304-74987a136e0b.jpg",
+                    "Url": "\/profile\/bickett\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 343135,
+                    "Name": "mfr1371",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/343135\/87172a28-3455-40f9-a6d4-b866f7746d5a.jpg",
+                    "Url": "\/profile\/mfr1371\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 326270,
+                    "Name": "jhndez26",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/326270\/d7008cce-51a5-4a23-95c5-34604839ecb1.jpg",
+                    "Url": "\/profile\/jhndez26\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 296819,
+                    "Name": "4EED434E",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/296819\/b4ef968d-5ab7-44f4-b8b4-47edba741334.jpg",
+                    "Url": "\/profile\/4EED434E\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 430,
+                "Markets": 0,
+                "Analysis": 2,
+                "Charts": 3,
+                "Trades": 1,
+                "Orderbook": 1,
+                "Forum": 1,
+                "Influence": 4
+            },
+            "PageViews": 442
+        },
+        "Twitter": {
+            "favourites": "53",
+            "lists": 2,
+            "statuses": 391,
+            "following": "35",
+            "account_creation": "1399650329",
+            "name": "StockBet.com",
+            "followers": 309,
+            "link": "https:\/\/twitter.com\/stockbet_com",
+            "Points": 319
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "StockBet.com",
+            "likes": 33,
+            "link": "https:\/\/www.facebook.com\/StockBet\/",
+            "talking_about": "1",
+            "is_closed": "false",
+            "Points": 33
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

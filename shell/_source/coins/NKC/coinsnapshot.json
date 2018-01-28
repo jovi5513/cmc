@@ -1,0 +1,66 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "NKC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000304",
+            "LASTUPDATE": "1516089571",
+            "LASTVOLUME": "180.79626917",
+            "LASTVOLUMETO": "0.0005496206582767999",
+            "LASTTRADEID": "200000454",
+            "VOLUMEDAY": "218.78497012999998",
+            "VOLUMEDAYTO": "0.0006651063091952",
+            "VOLUME24HOUR": "4859.34721708",
+            "VOLUME24HOURTO": "0.013992167510435801",
+            "OPENDAY": "0.00000403",
+            "HIGHDAY": "0.00000403",
+            "LOWDAY": "0.00000304",
+            "OPEN24HOUR": "0.00000332",
+            "HIGH24HOUR": "0.00000408",
+            "LOW24HOUR": "0.00000275",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "NKC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.000003",
+                "LASTUPDATE": "1485626735",
+                "LASTVOLUME": "243.245373",
+                "LASTVOLUMETO": "0.000729736119",
+                "LASTTRADEID": "3611",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.000003",
+                "HIGH24HOUR": "0.000003",
+                "LOW24HOUR": "0.000003"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "NKC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000304",
+                "LASTUPDATE": "1516089571",
+                "LASTVOLUME": "180.79626917",
+                "LASTVOLUMETO": "0.0005496206582767999",
+                "LASTTRADEID": "200000454",
+                "VOLUME24HOUR": "4859.34721708",
+                "VOLUME24HOURTO": "0.013992167510435801",
+                "OPEN24HOUR": "0.00000332",
+                "HIGH24HOUR": "0.00000408",
+                "LOW24HOUR": "0.00000275"
+            }
+        ]
+    },
+    "Type": 100
+}

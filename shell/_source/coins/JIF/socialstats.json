@@ -1,0 +1,174 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "JIF",
+            "CoinName": "JiffyCoin",
+            "Type": "Webpagecoinp",
+            "Points": 175
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 31004,
+                    "Name": "CashOut",
+                    "FullName": "CashOut (CSH)",
+                    "ImageUrl": "\/media\/351877\/csh.png",
+                    "Url": "\/coins\/csh\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34604,
+                    "Name": "Creatio",
+                    "FullName": "Creatio (XCRE)",
+                    "ImageUrl": "\/media\/352156\/xcre.png",
+                    "Url": "\/coins\/xcre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4336,
+                    "Name": "Benjamins",
+                    "FullName": "Benjamins (BEN)",
+                    "ImageUrl": "\/media\/19617\/ben.png",
+                    "Url": "\/coins\/ben\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30019,
+                    "Name": "SydPakCoin",
+                    "FullName": "SydPakCoin (SDP)",
+                    "ImageUrl": "\/media\/351709\/sdp.jpg",
+                    "Url": "\/coins\/sdp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 56654,
+                    "Name": "PlanetCoin",
+                    "FullName": "PlanetCoin (PLANET)",
+                    "ImageUrl": "\/media\/1382851\/planet.png",
+                    "Url": "\/coins\/planet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5025,
+                    "Name": "Xcash",
+                    "FullName": "Xcash (XCASH)",
+                    "ImageUrl": "\/media\/20075\/xcash.png",
+                    "Url": "\/coins\/xcash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7565,
+                    "Name": "Squall Coin",
+                    "FullName": "Squall Coin (SQL)",
+                    "ImageUrl": "\/media\/20441\/sql.png",
+                    "Url": "\/coins\/sql\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 48807,
+                    "Name": "FindCoin",
+                    "FullName": "FindCoin (FIND)",
+                    "ImageUrl": "\/media\/1382713\/find.png",
+                    "Url": "\/coins\/find\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3645,
+                    "Name": "Supcoin",
+                    "FullName": "Supcoin (SUP)",
+                    "ImageUrl": "\/media\/20442\/sup.png",
+                    "Url": "\/coins\/sup\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35232,
+                    "Name": "CoralPay",
+                    "FullName": "CoralPay (CORAL)",
+                    "ImageUrl": "\/media\/352225\/coral.png",
+                    "Url": "\/coins\/coral\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 542454,
+                    "Name": "timi2012.tl",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/542454\/1981905a-485d-4f1b-80dc-ed3b5f5fafa3.jpg",
+                    "Url": "\/profile\/timi2012.tl\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 338647,
+                    "Name": "dekorproskurov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/338647\/42201650-1d5c-4468-a8e6-6a8fedcbfda1.jpg",
+                    "Url": "\/profile\/dekorproskurov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 256455,
+                    "Name": "btcinvester.mab",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/256455\/0de852b5-1639-4845-80dd-d8bf1b9d03dc.jpg",
+                    "Url": "\/profile\/btcinvester.mab\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 215574,
+                    "Name": "rayu9112001",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/215574\/1186f4e3-7cb1-4297-b9d6-35f033a32396.jpg",
+                    "Url": "\/profile\/rayu9112001\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24699,
+                    "Name": "shadowdy11",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24699\/fda5393d-97a7-4b08-866f-9e4763f10822.jpg",
+                    "Url": "\/profile\/shadowdy11\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 175,
+            "Followers": 7,
+            "PageViewsSplit": {
+                "Overview": 422,
+                "Markets": 25,
+                "Analysis": 24,
+                "Charts": 22,
+                "Trades": 18,
+                "Orderbook": 0,
+                "Forum": 15,
+                "Influence": 9
+            },
+            "PageViews": 535
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

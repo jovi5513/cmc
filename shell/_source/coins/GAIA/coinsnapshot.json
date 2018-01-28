@@ -1,0 +1,66 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "GAIA",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000665",
+            "LASTUPDATE": "1516088793",
+            "LASTVOLUME": "2532.60378704",
+            "LASTVOLUMETO": "0.01684182",
+            "LASTTRADEID": "1516088793.002",
+            "VOLUMEDAY": "8948.25157177",
+            "VOLUMEDAYTO": "0.059261970000000004",
+            "VOLUME24HOUR": "29012.772058649996",
+            "VOLUME24HOURTO": "0.19993398",
+            "OPENDAY": "0.00000644",
+            "HIGHDAY": "0.00000701",
+            "LOWDAY": "0.00000644",
+            "OPEN24HOUR": "0.00000643",
+            "HIGH24HOUR": "0.00000757",
+            "LOW24HOUR": "0.00000639",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "GAIA",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000665",
+                "LASTUPDATE": "1516088793",
+                "LASTVOLUME": "2532.60378704",
+                "LASTVOLUMETO": "0.01684182",
+                "LASTTRADEID": "1516088793.002",
+                "VOLUME24HOUR": "29012.772058649996",
+                "VOLUME24HOURTO": "0.19993398",
+                "OPEN24HOUR": "0.00000643",
+                "HIGH24HOUR": "0.00000757",
+                "LOW24HOUR": "0.00000639"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "GAIA",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000124",
+                "LASTUPDATE": "1467160114",
+                "LASTVOLUME": "402.22578629",
+                "LASTVOLUMETO": "0.00049875",
+                "LASTTRADEID": "977181",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000124",
+                "HIGH24HOUR": "0.00000124",
+                "LOW24HOUR": "0.00000124"
+            }
+        ]
+    },
+    "Type": 100
+}

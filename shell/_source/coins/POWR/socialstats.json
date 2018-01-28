@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "POWR",
+            "CoinName": "Power Ledger",
+            "Type": "Webpagecoinp",
+            "Points": 131443
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 338018,
+                    "Name": "HextraCoin",
+                    "FullName": "HextraCoin (HXT)",
+                    "ImageUrl": "\/media\/12318282\/hxt.png",
+                    "Url": "\/coins\/hxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 236131,
+                    "Name": "Vechain",
+                    "FullName": "Vechain (VEN)",
+                    "ImageUrl": "\/media\/12318129\/ven.png",
+                    "Url": "\/coins\/ven\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 13280,
+                    "Name": "Factoids",
+                    "FullName": "Factoids (FCT)",
+                    "ImageUrl": "\/media\/1382863\/fct1.png",
+                    "Url": "\/coins\/fct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 16713,
+                    "Name": "Decred",
+                    "FullName": "Decred (DCR)",
+                    "ImageUrl": "\/media\/1382607\/decred.png",
+                    "Url": "\/coins\/dcr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 178978,
+                    "Name": "FunFair",
+                    "FullName": "FunFair (FUN)",
+                    "ImageUrl": "\/media\/1383738\/fun.png",
+                    "Url": "\/coins\/fun\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35165,
+                    "Name": "BitConnect Coin",
+                    "FullName": "BitConnect Coin (BCCOIN)",
+                    "ImageUrl": "\/media\/9350709\/bccoin1.png",
+                    "Url": "\/coins\/bccoin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 236358,
+                    "Name": "Utrust",
+                    "FullName": "Utrust (UTK)",
+                    "ImageUrl": "\/media\/9350717\/utrust.png",
+                    "Url": "\/coins\/utk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 107672,
+                    "Name": "Basic Attention Token",
+                    "FullName": "Basic Attention Token (BAT)",
+                    "ImageUrl": "\/media\/1383370\/bat.png",
+                    "Url": "\/coins\/bat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 225764,
+                    "Name": "Paragon",
+                    "FullName": "Paragon (PRG)",
+                    "ImageUrl": "\/media\/1384033\/prg.png",
+                    "Url": "\/coins\/prg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5293,
+                    "Name": "MaidSafe Coin",
+                    "FullName": "MaidSafe Coin (MAID)",
+                    "ImageUrl": "\/media\/352247\/maid.png",
+                    "Url": "\/coins\/maid\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 608387,
+                    "Name": "andyarlo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/608387\/1b5791c0-7c4e-477c-a579-7d422810ea49.jpg",
+                    "Url": "\/profile\/andyarlo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 530113,
+                    "Name": "ruben111392",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/530113\/daa62b67-94f5-450e-bccf-c18c66f0da26.jpg",
+                    "Url": "\/profile\/ruben111392\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676792,
+                    "Name": "moonjedi1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676792\/55acc05c-f2f9-45c8-a25e-62a8ac5350f3.jpg",
+                    "Url": "\/profile\/moonjedi1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676497,
+                    "Name": "johnclarity",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676497\/a2840ade-158e-4500-bead-76789771533e.jpg",
+                    "Url": "\/profile\/johnclarity\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 675935,
+                    "Name": "willmhustle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675935\/de60f8ac-eccd-4a33-84a8-50f75680cb1e.jpg",
+                    "Url": "\/profile\/willmhustle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 209959,
+                    "Name": "anton.northern",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/209959\/149d67a0-08a1-4170-af09-e3014fa0ec15.jpg",
+                    "Url": "\/profile\/anton.northern\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 675406,
+                    "Name": "xskendeg",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675406\/bc2f3f27-4fcf-4e57-b738-1c482f1f8907.jpg",
+                    "Url": "\/profile\/xskendeg\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674674,
+                    "Name": "Niekschenk48",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674674\/f610d3da-caa8-4819-8d66-8ca2ce4a741d.jpg",
+                    "Url": "\/profile\/Niekschenk48\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674540,
+                    "Name": "cryptoboi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674540\/861428d8-1296-4cbe-a1c8-ad97deaca070.jpg",
+                    "Url": "\/profile\/cryptoboi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 277343,
+                    "Name": "gek2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/277343\/def69c76-b006-4fea-a370-927917502049.jpg",
+                    "Url": "\/profile\/gek2\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 44990,
+            "Posts": "330",
+            "Comments": "439",
+            "Followers": 1294,
+            "PageViewsSplit": {
+                "Overview": 120793,
+                "Markets": 5667,
+                "Analysis": 2908,
+                "Charts": 25413,
+                "Trades": 4073,
+                "Orderbook": 32,
+                "Forum": 23093,
+                "Influence": 808
+            },
+            "PageViews": 182787
+        },
+        "Twitter": {
+            "statuses": 3250,
+            "favourites": "2234",
+            "following": "3011",
+            "account_creation": "1465210096",
+            "followers": 64806,
+            "name": "Power Ledger",
+            "link": "https:\/\/twitter.com\/PowerLedger_io",
+            "lists": 723,
+            "Points": 68424
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "3642",
+            "name": "Power Ledger",
+            "likes": 18011,
+            "link": "https:\/\/www.facebook.com\/powerledger\/",
+            "Points": 18011
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

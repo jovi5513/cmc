@@ -1,0 +1,168 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "QSLV",
+            "CoinName": "Quicksilver coin",
+            "Type": "Webpagecoinp",
+            "Points": 628
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 105206,
+                    "Name": "DuxCoin",
+                    "FullName": "DuxCoin (DUX)",
+                    "ImageUrl": "\/media\/1383364\/dux.png",
+                    "Url": "\/coins\/dux\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 659724,
+                    "Name": "SagaCoin",
+                    "FullName": "SagaCoin (SAGA)",
+                    "ImageUrl": "\/media\/20780745\/saga.png",
+                    "Url": "\/coins\/saga\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 446051,
+                    "Name": "People",
+                    "FullName": "People (MAN)",
+                    "ImageUrl": "\/media\/16746574\/man.png",
+                    "Url": "\/coins\/man\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 441616,
+                    "Name": "Relex",
+                    "FullName": "Relex (RLX)",
+                    "ImageUrl": "\/media\/16746570\/rlx.png",
+                    "Url": "\/coins\/rlx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5356,
+                    "Name": "Ascension Coin",
+                    "FullName": "Ascension Coin (ASN)",
+                    "ImageUrl": "\/media\/20192\/asn.png",
+                    "Url": "\/coins\/asn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29715,
+                    "Name": "OlympCoin",
+                    "FullName": "OlympCoin (OLYMP)",
+                    "ImageUrl": "\/media\/351683\/olymp.png",
+                    "Url": "\/coins\/olymp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38967,
+                    "Name": "Incrementum",
+                    "FullName": "Incrementum (INC)",
+                    "ImageUrl": "\/media\/1382173\/inc.png",
+                    "Url": "\/coins\/inc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32875,
+                    "Name": "LuckyBlocks (LUCKY)",
+                    "FullName": "LuckyBlocks (LUCKY) (LUCKY)",
+                    "ImageUrl": "\/media\/351946\/lucky.png",
+                    "Url": "\/coins\/lucky\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 39704,
+                    "Name": "ZLiteQubit",
+                    "FullName": "ZLiteQubit (ZLQ)",
+                    "ImageUrl": "\/media\/1382238\/zlq.png",
+                    "Url": "\/coins\/zlq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28657,
+                    "Name": "RingCoin",
+                    "FullName": "RingCoin (RING)",
+                    "ImageUrl": "\/media\/351546\/ring.png",
+                    "Url": "\/coins\/ring\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 225160,
+                    "Name": "suslov-1974",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/225160\/cf379db9-7218-460c-9151-dc34cfac22b4.jpg",
+                    "Url": "\/profile\/suslov-1974\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 43004,
+                    "Name": "th59989",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/43004\/a82b31ac-9d91-4f7c-bd3b-c99db6ffcd91.jpg",
+                    "Url": "\/profile\/th59989\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 316918,
+                    "Name": "ragwell",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/316918\/4e3c5f99-3a87-4292-a275-78fd492259f0.jpg",
+                    "Url": "\/profile\/ragwell\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 17423,
+                    "Name": "Kanopt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/17423\/d9aa0e8f-c15a-435b-b257-0e0674a3a600.png",
+                    "Url": "\/profile\/Kanopt\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "PageViewsSplit": {
+                "Overview": 295,
+                "Markets": 36,
+                "Analysis": 22,
+                "Charts": 23,
+                "Trades": 19,
+                "Orderbook": 0,
+                "Forum": 31,
+                "Influence": 27
+            },
+            "PageViews": 453
+        },
+        "Twitter": {
+            "followers": 433,
+            "following": "186",
+            "lists": 14,
+            "favourites": "109",
+            "statuses": 147,
+            "account_creation": "1414511464",
+            "name": "Quicksilver",
+            "link": "https:\/\/twitter.com\/Quicksilver_Dev",
+            "Points": 503
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "StableCoin (SBC) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "StableCoin is a new type of decentralized currency. SBC has what it calls the optimised block time of 40 seconds - to play the balance between orphaned blocks and transaction confirmation time - i.e. Forking issues.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19900\/sbc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4599",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "StableCoin (SBC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "SBC",
+            "Url": "\/coins\/sbc\/",
+            "BaseAngularUrl": "\/coins\/sbc\/",
+            "Name": "StableCoin",
+            "ImageUrl": "\/media\/19900\/sbc.png",
+            "Description": "<p>StableCoin is a new type of decentralized currency. SBC has what it calls the optimised block time of 40 seconds - to play the balance between orphaned blocks and transaction confirmation time - i.e. Forking issues. Difficulty is retargetted every 90 blocks and the coin reward is set to 25 coins after block 900. They have plans for their own ecommerce site.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "250000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "07\/06\/2013",
+            "Twitter": "",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1455417651,
+            "DifficultyAdjustment": "90 blocks",
+            "BlockRewardReduction": "50%",
+            "BlockNumber": 919194,
+            "BlockTime": 170,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 24215181.725,
+            "PreviousTotalCoinsMined": 24215156.725,
+            "BlockReward": 25
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptsy~SBC~BTC",
+            "2~Coinse~SBC~BTC",
+            "2~Cryptopia~SBC~POP",
+            "2~Cryptopia~SBC~DOGE",
+            "2~Cryptsy~SBC~LTC",
+            "2~Novaexchange~SBC~LTC",
+            "2~Cryptopia~SBC~UNO",
+            "2~Novaexchange~SBC~ESP2",
+            "2~Cryptopia~SBC~DOT",
+            "2~CCEX~SBC~DOGE",
+            "2~CCEX~SBC~BTC",
+            "2~Novaexchange~SBC~BTC",
+            "2~Cryptopia~SBC~FTC",
+            "2~CCEX~SBC~USD",
+            "2~Cryptopia~SBC~BTC",
+            "2~Cryptopia~SBC~LTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~SBC~BTC~1~0.0000261~1515948743~143.12857333~0.00373566~1515948743.001~260263.59334840984~6.281349529999997~281031.36460047995~6.7655204200000005~0.0000245~0.00002636~0.0000225~0.000023~0.00002636~0.0000225~Cryptopia~7ffe9",
+            "5~CCCAGG~SBC~POP~4~44~1458616159~37.28210726~1640.412719~1458616159.002~0~0~0~0~44~44~44~44~44~44~Cryptopia~7ffe9",
+            "5~CCCAGG~SBC~DOGE~4~36.00000003~1515119790~20.57038~740.53368062~1515119790.001~0~0~0~0~36~36.00000003~36~36.00000003~36.00000003~36.00000003~Cryptopia~7ffe9",
+            "5~CCCAGG~SBC~LTC~4~0.0018~1515193396~242.67~0.436806~1515193396~0~0~0~0~0.0018~0.0018~0.0018~0.0018~0.0018~0.0018~Cryptopia~7ffe9",
+            "5~CCCAGG~SBC~UNO~4~0.00000785~1495744428~599.63258197~0.00470712~1495744428.001~0~0~0~0~0.00000785~0.00000785~0.00000785~0.00000785~0.00000785~0.00000785~Cryptopia~7ffe9",
+            "5~CCCAGG~SBC~ESP2~4~9.99999989~1502967620~60~599.9999934~1502967620001~0~0~0~0~9.99999989~9.99999989~9.99999989~9.99999989~9.99999989~9.99999989~Novaexchange~7ffe9",
+            "5~CCCAGG~SBC~DOT~4~0.12~1486642968~11041.06928412~1324.928314~1486642968~0~0~0~0~0.12~0.12~0.12~0.12~0.12~0.12~Cryptopia~7ffe9",
+            "5~CCCAGG~SBC~FTC~4~0.00060301~1485032595~0.5733945~0.000346~1485032595~0~0~0~0~0.00060301~0.00060301~0.00060301~0.00060301~0.00060301~0.00060301~Cryptopia~7ffe9",
+            "5~CCCAGG~SBC~USD~4~0.0000058~1406880480~5987.97655876~0.03473026404080801~204451~0~0~0~0~0.0000058~0.0000058~0.0000058~0.0000058~0.0000058~0.0000058~CCEX~7ffe9"
+        ]
+    },
+    "Type": 100
+}

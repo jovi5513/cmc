@@ -1,0 +1,233 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ZBC",
+            "CoinName": "Zilbercoin",
+            "Type": "Webpagecoinp",
+            "Points": 1211
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 517775,
+                    "Name": "Hacken",
+                    "FullName": "Hacken (HKN)",
+                    "ImageUrl": "\/media\/16746674\/hkn.png",
+                    "Url": "\/coins\/hkn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42694,
+                    "Name": "Eryllium",
+                    "FullName": "Eryllium (ERY)",
+                    "ImageUrl": "\/media\/1382403\/ely2.png",
+                    "Url": "\/coins\/ery\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35681,
+                    "Name": "MoneyCoin",
+                    "FullName": "MoneyCoin (MONEY)",
+                    "ImageUrl": "\/media\/352249\/money.png",
+                    "Url": "\/coins\/money\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28204,
+                    "Name": "BlockPay",
+                    "FullName": "BlockPay (BLOCKPAY)",
+                    "ImageUrl": "\/media\/351508\/blockpay.png",
+                    "Url": "\/coins\/blockpay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 203183,
+                    "Name": "Solar DAO",
+                    "FullName": "Solar DAO (SDAO)",
+                    "ImageUrl": "\/media\/1383933\/sdao.png",
+                    "Url": "\/coins\/sdao\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179018,
+                    "Name": "FunCoin",
+                    "FullName": "FunCoin (FUNC)",
+                    "ImageUrl": "\/media\/1383739\/func.png",
+                    "Url": "\/coins\/func\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 218107,
+                    "Name": "Asch",
+                    "FullName": "Asch (XAS)",
+                    "ImageUrl": "\/media\/1383997\/xas.png",
+                    "Url": "\/coins\/xas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5011,
+                    "Name": "UnitaryStatus Dollar",
+                    "FullName": "UnitaryStatus Dollar (USDE)",
+                    "ImageUrl": "\/media\/20465\/usde.png",
+                    "Url": "\/coins\/usde\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 81445,
+                    "Name": "BitOKX",
+                    "FullName": "BitOKX (BITOK)",
+                    "ImageUrl": "\/media\/1383282\/bitok.jpg",
+                    "Url": "\/coins\/bitok\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4402,
+                    "Name": "BitGem",
+                    "FullName": "BitGem (BTG*)",
+                    "ImageUrl": "\/media\/19634\/btg.png",
+                    "Url": "\/coins\/btgstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 670862,
+                    "Name": "zvit36196464",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670862\/081aae4b-c3ba-4ce3-b4a4-89ff062824d9.jpg",
+                    "Url": "\/profile\/zvit36196464\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670571,
+                    "Name": "tagawa99",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670571\/ccf162e6-c0d9-439a-bfe9-c796f4a307eb.jpg",
+                    "Url": "\/profile\/tagawa99\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670283,
+                    "Name": "timyrka",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670283\/6a958d0c-9a39-496b-99fc-4ebc1b825787.jpg",
+                    "Url": "\/profile\/timyrka\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670110,
+                    "Name": "bizom",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670110\/2d42f3d7-7246-4e99-91ef-6c8a7289869a.png",
+                    "Url": "\/profile\/bizom\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 111047,
+                    "Name": "vitaliu1994",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/111047\/f0366d01-7407-4b9f-a691-fcada01dd375.jpg",
+                    "Url": "\/profile\/vitaliu1994\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 669785,
+                    "Name": "yvy1957",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/669785\/516f7f46-835a-4c17-a647-ff6ef8113bc0.jpg",
+                    "Url": "\/profile\/yvy1957\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 79731,
+                    "Name": "patil.pritam",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/79731\/6823cd56-8b59-4f4c-8b79-08281fe30b56.jpg",
+                    "Url": "\/profile\/patil.pritam\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 569161,
+                    "Name": "popeye7719",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/569161\/1f229a2b-33d6-4326-88f9-ca867ebfc62c.jpg",
+                    "Url": "\/profile\/popeye7719\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 425734,
+                    "Name": "ljudvig1958",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/425734\/f60cda2c-5105-4770-a76a-309e87b72be4.jpg",
+                    "Url": "\/profile\/ljudvig1958\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1205,
+            "Posts": "15",
+            "Comments": "13",
+            "Followers": 28,
+            "PageViewsSplit": {
+                "Overview": 2241,
+                "Markets": 410,
+                "Analysis": 202,
+                "Charts": 290,
+                "Trades": 152,
+                "Orderbook": 4,
+                "Forum": 294,
+                "Influence": 56
+            },
+            "PageViews": 3649
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1485332027",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1505665772",
+                    "closed_total_issues": "0",
+                    "size": "14112",
+                    "stars": 1,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1515480043",
+                    "open_pull_issues": "0",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/Zilbercoin\/SRC",
+                    "closed_issues": "0",
+                    "open_issues": "0",
+                    "subscribers": 1,
+                    "language": "C++",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 6
+        }
+    }
+}

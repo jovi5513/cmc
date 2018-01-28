@@ -1,0 +1,241 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NXS",
+            "CoinName": "Nexus",
+            "Type": "Webpagecoinp",
+            "Points": 30582
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 179164,
+                    "Name": "Metal",
+                    "FullName": "Metal (MTL)",
+                    "ImageUrl": "\/media\/1383743\/mtl.png",
+                    "Url": "\/coins\/mtl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 53950,
+                    "Name": "Musicoin",
+                    "FullName": "Musicoin (MUSIC)",
+                    "ImageUrl": "\/media\/1382783\/music.png",
+                    "Url": "\/coins\/music\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5296,
+                    "Name": "MonaCoin",
+                    "FullName": "MonaCoin (MONA)",
+                    "ImageUrl": "\/media\/19801\/mona.png",
+                    "Url": "\/coins\/mona\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 190978,
+                    "Name": "Aeternity",
+                    "FullName": "Aeternity (AE)",
+                    "ImageUrl": "\/media\/1383836\/ae.png",
+                    "Url": "\/coins\/ae\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30736,
+                    "Name": "Byteball",
+                    "FullName": "Byteball (GBYTE)",
+                    "ImageUrl": "\/media\/351835\/bytes.png",
+                    "Url": "\/coins\/gbyte\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185669,
+                    "Name": "InvestFeed",
+                    "FullName": "InvestFeed (IFT)",
+                    "ImageUrl": "\/media\/12318127\/ift.png",
+                    "Url": "\/coins\/ift\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186309,
+                    "Name": "Tierion",
+                    "FullName": "Tierion (TNT)",
+                    "ImageUrl": "\/media\/1383800\/tnt.png",
+                    "Url": "\/coins\/tnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 171986,
+                    "Name": "Tether",
+                    "FullName": "Tether (USDT)",
+                    "ImageUrl": "\/media\/1383672\/usdt.png",
+                    "Url": "\/coins\/usdt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 18907,
+                    "Name": "Digix DAO",
+                    "FullName": "Digix DAO (DGD)",
+                    "ImageUrl": "\/media\/350851\/dgd.png",
+                    "Url": "\/coins\/dgd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 177863,
+                    "Name": "Santiment",
+                    "FullName": "Santiment (SAN)",
+                    "ImageUrl": "\/media\/1383730\/san.png",
+                    "Url": "\/coins\/san\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 209959,
+                    "Name": "anton.northern",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/209959\/149d67a0-08a1-4170-af09-e3014fa0ec15.jpg",
+                    "Url": "\/profile\/anton.northern\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 439937,
+                    "Name": "sjdranch",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/439937\/b5f8fdc2-f75f-4125-9ee2-3b239d5b0403.jpg",
+                    "Url": "\/profile\/sjdranch\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 544404,
+                    "Name": "biff197",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/544404\/6ed11588-6601-44ac-b35c-80b2fccf210a.jpg",
+                    "Url": "\/profile\/biff197\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 313984,
+                    "Name": "cryptoattracker",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/313984\/a0819fb8-eb1c-48b5-9c72-40534b1ce1a3.jpg",
+                    "Url": "\/profile\/cryptoattracker\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 186687,
+                    "Name": "aeioumo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/186687\/d07a4226-3505-4919-b18b-8b29ff0c27d6.jpg",
+                    "Url": "\/profile\/aeioumo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 628849,
+                    "Name": "skipacruise",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/628849\/c0cbd455-ac79-4c04-aa78-84d9e2eebc79.jpg",
+                    "Url": "\/profile\/skipacruise\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 566194,
+                    "Name": "dailkrypto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/566194\/3cf22596-eaa8-475a-9aba-7fad48932e74.png",
+                    "Url": "\/profile\/dailkrypto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 549778,
+                    "Name": "mailsecretariaat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/549778\/ca21986b-f02e-48b8-bf50-25742efd6a2b.jpg",
+                    "Url": "\/profile\/mailsecretariaat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 208990,
+                    "Name": "sbralin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/208990\/ac18dc4c-55d4-4d41-87de-85652453bd68.jpg",
+                    "Url": "\/profile\/sbralin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 397373,
+                    "Name": "Jerrett.n",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/397373\/4c3fa2f4-e3f9-4648-a9bc-922bf08733d6.jpg",
+                    "Url": "\/profile\/Jerrett.n\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 647459,
+                    "Name": "dizo2008",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/647459\/3a69a26d-ca1e-4479-9959-ea69d2121a03.jpg",
+                    "Url": "\/profile\/dizo2008\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 13240,
+            "Posts": "61",
+            "Comments": "44",
+            "Followers": 451,
+            "PageViewsSplit": {
+                "Overview": 40069,
+                "Markets": 1417,
+                "Analysis": 1139,
+                "Charts": 5082,
+                "Trades": 985,
+                "Orderbook": 52,
+                "Forum": 2540,
+                "Influence": 474
+            },
+            "PageViews": 51758
+        },
+        "Twitter": {
+            "statuses": 941,
+            "favourites": "709",
+            "following": "53",
+            "account_creation": "1403138839",
+            "followers": 15233,
+            "name": "Nexus",
+            "link": "https:\/\/twitter.com\/NxsEarth",
+            "lists": 416,
+            "Points": 17313
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1416882018",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1513048015",
+                    "closed_total_issues": "0",
+                    "size": "1118",
+                    "stars": 2,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "last_update": "1513048017",
+                    "forks": 5,
+                    "url": "https:\/\/github.com\/Nexusoft\/PrimeSoloMiner",
+                    "closed_issues": "0",
+                    "language": "C++",
+                    "subscribers": 4,
+                    "open_issues": "0",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 24
+        }
+    }
+}

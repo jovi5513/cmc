@@ -1,0 +1,211 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XT",
+            "CoinName": "ExtremeCoin",
+            "Type": "Webpagecoinp",
+            "Points": 205
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 29554,
+                    "Name": "BaseballCardCoin",
+                    "FullName": "BaseballCardCoin (BBCC)",
+                    "ImageUrl": "\/media\/351658\/bbcc.png",
+                    "Url": "\/coins\/bbcc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6112,
+                    "Name": "Singular",
+                    "FullName": "Singular (SIGU)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/sigu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 61066,
+                    "Name": "Dark",
+                    "FullName": "Dark (DARK)",
+                    "ImageUrl": "\/media\/1382995\/dark.png",
+                    "Url": "\/coins\/dark\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4546,
+                    "Name": "KeyCoin",
+                    "FullName": "KeyCoin (KEY)",
+                    "ImageUrl": "\/media\/20331\/key.png",
+                    "Url": "\/coins\/keystar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7484,
+                    "Name": "CryptoCircuits",
+                    "FullName": "CryptoCircuits (CIRC)",
+                    "ImageUrl": "\/media\/20603\/circ.png",
+                    "Url": "\/coins\/circ\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28229,
+                    "Name": "DickCoin",
+                    "FullName": "DickCoin (DCK)",
+                    "ImageUrl": "\/media\/351516\/dck.png",
+                    "Url": "\/coins\/dck\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28703,
+                    "Name": "FonzieCoin",
+                    "FullName": "FonzieCoin (FONZ)",
+                    "ImageUrl": "\/media\/351553\/fonz.png",
+                    "Url": "\/coins\/fonz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24307,
+                    "Name": "EnterCoin (ENTER)",
+                    "FullName": "EnterCoin (ENTER) (ENTER)",
+                    "ImageUrl": "\/media\/351305\/enter.png",
+                    "Url": "\/coins\/enter\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30536,
+                    "Name": "ScryptToken",
+                    "FullName": "ScryptToken (SCT)",
+                    "ImageUrl": "\/media\/351791\/sct.png",
+                    "Url": "\/coins\/sct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7627,
+                    "Name": "DubCoin",
+                    "FullName": "DubCoin (DUB)",
+                    "ImageUrl": "\/media\/19986\/a3c.png",
+                    "Url": "\/coins\/dub\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 225160,
+                    "Name": "suslov-1974",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/225160\/cf379db9-7218-460c-9151-dc34cfac22b4.jpg",
+                    "Url": "\/profile\/suslov-1974\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 289486,
+                    "Name": "warroyo1982",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/289486\/48158198-29cd-41f2-a464-c61f1433c9e5.jpg",
+                    "Url": "\/profile\/warroyo1982\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 243624,
+                    "Name": "tomasobrikis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/243624\/b0919ae3-45f6-4fc9-a997-6a0dd911632a.jpg",
+                    "Url": "\/profile\/tomasobrikis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 249673,
+                    "Name": "delrot2000",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/249673\/2feb71cd-2722-4350-8129-f543e9850504.jpg",
+                    "Url": "\/profile\/delrot2000\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 34108,
+                    "Name": "keltell",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/34108\/b4a771bd-45c4-4ff2-8dc8-7deb4b23a749.jpg",
+                    "Url": "\/profile\/keltell\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 66775,
+                    "Name": "Afaque",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/66775\/1187e746-1ec0-4319-9425-d7e9351f675d.png",
+                    "Url": "\/profile\/Afaque\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 56429,
+                    "Name": "flowski",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/56429\/83dc4cd6-2ccf-4d94-bd73-a43db88b6cba.png",
+                    "Url": "\/profile\/flowski\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 8,
+            "Posts": "0",
+            "Points": 200,
+            "PageViewsSplit": {
+                "Overview": 922,
+                "Markets": 76,
+                "Analysis": 50,
+                "Charts": 33,
+                "Trades": 48,
+                "Orderbook": 2,
+                "Forum": 34,
+                "Influence": 20
+            },
+            "PageViews": 1185
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1469032852",
+                    "url": "https:\/\/github.com\/extremecoin\/extremecoin",
+                    "forks": 1,
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "size": "2040",
+                    "created_at": "1469032836",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1469032849",
+                    "stars": 0
+                }
+            ],
+            "Points": 5
+        }
+    }
+}

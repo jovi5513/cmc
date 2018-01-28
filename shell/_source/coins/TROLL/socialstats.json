@@ -1,0 +1,159 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "TROLL",
+            "CoinName": "Trollcoin",
+            "Type": "Webpagecoinp",
+            "Points": 3074
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 60409,
+                    "Name": "FazzCoin",
+                    "FullName": "FazzCoin (FAZZ)",
+                    "ImageUrl": "\/media\/1382944\/fazz.png",
+                    "Url": "\/coins\/fazz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25822,
+                    "Name": "WarpCoin",
+                    "FullName": "WarpCoin (WARP)",
+                    "ImageUrl": "\/media\/351395\/warp.png",
+                    "Url": "\/coins\/warp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 222125,
+                    "Name": "Prospectors",
+                    "FullName": "Prospectors (PGL)",
+                    "ImageUrl": "\/media\/1384018\/pgl.png",
+                    "Url": "\/coins\/pgl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 379232,
+                    "Name": "Confido",
+                    "FullName": "Confido (CFD)",
+                    "ImageUrl": "\/media\/14913552\/cfd.png",
+                    "Url": "\/coins\/cfd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5351,
+                    "Name": "TruckCoin",
+                    "FullName": "TruckCoin (TRK)",
+                    "ImageUrl": "\/media\/20460\/trk.png",
+                    "Url": "\/coins\/trk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33008,
+                    "Name": "CBD Crystals",
+                    "FullName": "CBD Crystals (CBD)",
+                    "ImageUrl": "\/media\/351990\/cbd.png",
+                    "Url": "\/coins\/cbd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20585,
+                    "Name": "SoulCoin",
+                    "FullName": "SoulCoin (SOUL)",
+                    "ImageUrl": "\/media\/350930\/pxl.png",
+                    "Url": "\/coins\/soul\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21875,
+                    "Name": "GothicCoin",
+                    "FullName": "GothicCoin (GOTX)",
+                    "ImageUrl": "\/media\/351071\/gotx.png",
+                    "Url": "\/coins\/gotx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 368743,
+                    "Name": "KekCoin",
+                    "FullName": "KekCoin (KEK)",
+                    "ImageUrl": "\/media\/14913432\/kek.png",
+                    "Url": "\/coins\/kek\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34225,
+                    "Name": "SpaceCash",
+                    "FullName": "SpaceCash (SCASH)",
+                    "ImageUrl": "\/media\/352117\/scash.png",
+                    "Url": "\/coins\/scash\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "PageViewsSplit": {
+                "Overview": 21,
+                "Markets": 3,
+                "Analysis": 3,
+                "Charts": 3,
+                "Trades": 2,
+                "Orderbook": 0,
+                "Forum": 3,
+                "Influence": 4
+            },
+            "PageViews": 39
+        },
+        "Twitter": {
+            "statuses": 4420,
+            "favourites": "4965",
+            "following": "51",
+            "account_creation": "1392404958",
+            "followers": 2668,
+            "name": "TrollCoin Blockchain [TROLL]",
+            "link": "https:\/\/twitter.com\/trollcoinbase",
+            "lists": 75,
+            "Points": 3047
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1448900080",
+                    "open_total_issues": "1",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "3",
+                    "size": "2117",
+                    "last_push": "1502557051",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "stars": 2,
+                    "open_pull_issues": "0",
+                    "last_update": "1502561933",
+                    "forks": 2,
+                    "url": "https:\/\/github.com\/TrollCoin2\/TrollCoin-2.0",
+                    "closed_issues": "0",
+                    "open_issues": "1",
+                    "language": "C++",
+                    "subscribers": 7,
+                    "closed_pull_issues": "3"
+                }
+            ],
+            "Points": 27
+        }
+    }
+}

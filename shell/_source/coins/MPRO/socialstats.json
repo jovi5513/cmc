@@ -1,0 +1,183 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MPRO",
+            "CoinName": "MediumProject",
+            "Type": "Webpagecoinp",
+            "Points": 108
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4576,
+                    "Name": "NoirBits",
+                    "FullName": "NoirBits (NRB)",
+                    "ImageUrl": "\/media\/19839\/nrb.png",
+                    "Url": "\/coins\/nrb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 447315,
+                    "Name": "Neuro",
+                    "FullName": "Neuro (NRO)",
+                    "ImageUrl": "\/media\/16746592\/nro.png",
+                    "Url": "\/coins\/nro\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5404,
+                    "Name": "BitMiles",
+                    "FullName": "BitMiles (BTMI)",
+                    "ImageUrl": "\/media\/20213\/btmi.png",
+                    "Url": "\/coins\/btmi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645830,
+                    "Name": "GoaCoin",
+                    "FullName": "GoaCoin (GOA)",
+                    "ImageUrl": "\/media\/20780697\/goa.png",
+                    "Url": "\/coins\/goa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4569,
+                    "Name": "NanoToken",
+                    "FullName": "NanoToken (NAN)",
+                    "ImageUrl": "\/media\/19821\/nan.png",
+                    "Url": "\/coins\/nan\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6107,
+                    "Name": "MultiWallet Coin",
+                    "FullName": "MultiWallet Coin (MWC)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/mwc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 52008,
+                    "Name": "ChatCoin",
+                    "FullName": "ChatCoin (CHAT)",
+                    "ImageUrl": "\/media\/1382762\/chat.png",
+                    "Url": "\/coins\/chat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 73132,
+                    "Name": "ParallelCoin",
+                    "FullName": "ParallelCoin (DUO)",
+                    "ImageUrl": "\/media\/1383196\/duo.png",
+                    "Url": "\/coins\/duo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 436162,
+                    "Name": "RAFL",
+                    "FullName": "RAFL (RFL)",
+                    "ImageUrl": "\/media\/16746549\/rfl.png",
+                    "Url": "\/coins\/rfl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29556,
+                    "Name": "EmiratesGoldCoin",
+                    "FullName": "EmiratesGoldCoin (EMIGR)",
+                    "ImageUrl": "\/media\/351659\/emirg.png",
+                    "Url": "\/coins\/emigr\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 553959,
+                    "Name": "alhajibonjo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/553959\/4e131c65-25d9-4357-927e-3bf56e6e5718.jpg",
+                    "Url": "\/profile\/alhajibonjo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 59798,
+                    "Name": "helpdisman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/59798\/72950aa6-e730-475e-8849-d447efe74ed1.jpg",
+                    "Url": "\/profile\/helpdisman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 101794,
+                    "Name": "julien.morel.fr",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/101794\/059db120-209d-4bf9-8bc6-4e6a88dbae10.jpg",
+                    "Url": "\/profile\/julien.morel.fr\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 58431,
+                    "Name": "mavi-ad-gb",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/58431\/d22ea21c-47a0-42bd-a35d-a967481157ae.jpg",
+                    "Url": "\/profile\/mavi-ad-gb\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 1179,
+                "Markets": 68,
+                "Analysis": 49,
+                "Charts": 56,
+                "Trades": 58,
+                "Orderbook": 0,
+                "Forum": 33,
+                "Influence": 13
+            },
+            "PageViews": 1456
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "Go",
+                    "forks": 1,
+                    "open_total_issues": "0",
+                    "subscribers": 2,
+                    "size": "12763",
+                    "url": "https:\/\/github.com\/uthercoin\/go-uther",
+                    "last_update": "1458611054",
+                    "last_push": "1464666000",
+                    "created_at": "1458609571",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 8
+        }
+    }
+}

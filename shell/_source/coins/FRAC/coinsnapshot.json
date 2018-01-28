@@ -1,0 +1,66 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "FRAC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00002399",
+            "LASTUPDATE": "1437249354",
+            "LASTVOLUME": "4.38488561",
+            "LASTVOLUMETO": "0.00010519",
+            "LASTTRADEID": "3833",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.00002399",
+            "HIGHDAY": "0.00002399",
+            "LOWDAY": "0.00002399",
+            "OPEN24HOUR": "0.00002399",
+            "HIGH24HOUR": "0.00002399",
+            "LOW24HOUR": "0.00002399",
+            "LASTMARKET": "Poloniex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Poloniex",
+                "FROMSYMBOL": "FRAC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00002399",
+                "LASTUPDATE": "1437249354",
+                "LASTVOLUME": "4.38488561",
+                "LASTVOLUMETO": "0.00010519",
+                "LASTTRADEID": "3833",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00002399",
+                "HIGH24HOUR": "0.00002399",
+                "LOW24HOUR": "0.00002399"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "FRAC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00001454",
+                "LASTUPDATE": "1452798403",
+                "LASTVOLUME": "0.11",
+                "LASTVOLUMETO": "0.0000016",
+                "LASTTRADEID": "110938186",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00001454",
+                "HIGH24HOUR": "0.00001454",
+                "LOW24HOUR": "0.00001454"
+            }
+        ]
+    },
+    "Type": 100
+}

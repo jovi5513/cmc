@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "VOX",
+            "CoinName": "Voxels",
+            "Type": "Webpagecoinp",
+            "Points": 26700
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 338335,
+                    "Name": "Enigma",
+                    "FullName": "Enigma (ENG)",
+                    "ImageUrl": "\/media\/12318287\/eng.png",
+                    "Url": "\/coins\/eng\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 364348,
+                    "Name": "Bitcoin SegWit2X",
+                    "FullName": "Bitcoin SegWit2X (BT2)",
+                    "ImageUrl": "\/media\/19633\/btc.png",
+                    "Url": "\/coins\/bt2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 27996,
+                    "Name": "Trigger",
+                    "FullName": "Trigger (TRIG)",
+                    "ImageUrl": "\/media\/351489\/trg.png",
+                    "Url": "\/coins\/trig\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37040,
+                    "Name": "TrustCoin",
+                    "FullName": "TrustCoin (TRST)",
+                    "ImageUrl": "\/media\/1381975\/trst.png",
+                    "Url": "\/coins\/trst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 175618,
+                    "Name": "ATB coin",
+                    "FullName": "ATB coin (ATB)",
+                    "ImageUrl": "\/media\/1383689\/atb.png",
+                    "Url": "\/coins\/atb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 225277,
+                    "Name": "Centra",
+                    "FullName": "Centra (CTR)",
+                    "ImageUrl": "\/media\/1384029\/ctr.png",
+                    "Url": "\/coins\/ctr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28328,
+                    "Name": "FirstBlood",
+                    "FullName": "FirstBlood (1ST)",
+                    "ImageUrl": "\/media\/351524\/1st.png",
+                    "Url": "\/coins\/1st\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 309621,
+                    "Name": "ChainLink",
+                    "FullName": "ChainLink (LINK)",
+                    "ImageUrl": "\/media\/12318078\/link.png",
+                    "Url": "\/coins\/link\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186335,
+                    "Name": "COSS",
+                    "FullName": "COSS (COSS)",
+                    "ImageUrl": "\/media\/1383802\/coss.png",
+                    "Url": "\/coins\/coss\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 402714,
+                    "Name": "Quoine Liquid",
+                    "FullName": "Quoine Liquid (QASH)",
+                    "ImageUrl": "\/media\/15887431\/qash.png",
+                    "Url": "\/coins\/qash\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 665980,
+                    "Name": "kam.cc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/665980\/063e3938-b02a-4368-8fe4-c33a83cb7f7c.jpg",
+                    "Url": "\/profile\/kam.cc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 655354,
+                    "Name": "Gully",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/655354\/2dcd4a95-1569-4548-a6ab-1c538773edc0.jpg",
+                    "Url": "\/profile\/Gully\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 637774,
+                    "Name": "54732F8C",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/637774\/06753148-74f9-4fe4-b0ca-8fdca1eeab29.jpg",
+                    "Url": "\/profile\/54732F8C\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 668084,
+                    "Name": "marius.herrmann",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/668084\/1e943f79-34fb-4adf-983d-2b88a20ffbe5.jpg",
+                    "Url": "\/profile\/marius.herrmann\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 382648,
+                    "Name": "augustacotton",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/382648\/34002ab0-6ead-427d-aa58-885cfe0f3292.jpg",
+                    "Url": "\/profile\/augustacotton\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 656576,
+                    "Name": "internetportale",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/656576\/2a5f790b-eaf3-4c27-9de3-614ad1555b9b.jpg",
+                    "Url": "\/profile\/internetportale\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 416960,
+                    "Name": "BorkBork",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/416960\/d2ddbad0-f66c-47c8-a215-4b474d31fb24.png",
+                    "Url": "\/profile\/BorkBork\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 640101,
+                    "Name": "lissiexoxobear",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/640101\/0611bdff-a950-4410-8a50-863ffbe09af0.jpg",
+                    "Url": "\/profile\/lissiexoxobear\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 346199,
+                    "Name": "nesar9710",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/346199\/0046fc4e-b784-47b0-9fef-9598b0305c97.jpg",
+                    "Url": "\/profile\/nesar9710\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 330626,
+                    "Name": "alanavila08",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/330626\/8a502ad5-ff10-47ce-998b-eb2ee1958b8a.jpg",
+                    "Url": "\/profile\/alanavila08\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 609032,
+                    "Name": "ptmaki",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/609032\/c02a42c8-0545-43f6-a2b0-af39ee673626.jpg",
+                    "Url": "\/profile\/ptmaki\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 10455,
+            "Followers": 362,
+            "Posts": "45",
+            "Comments": "28",
+            "PageViewsSplit": {
+                "Overview": 25599,
+                "Markets": 1067,
+                "Analysis": 791,
+                "Charts": 3246,
+                "Trades": 1036,
+                "Orderbook": 74,
+                "Forum": 1997,
+                "Influence": 291
+            },
+            "PageViews": 34101
+        },
+        "Twitter": {
+            "following": "1325",
+            "account_creation": "1328838143",
+            "name": "Voxelus",
+            "lists": 259,
+            "statuses": 642,
+            "favourites": "269",
+            "followers": 13659,
+            "link": "https:\/\/twitter.com\/Voxelus",
+            "Points": 14954
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 1200,
+            "link": "https:\/\/www.facebook.com\/Voxelus\/",
+            "is_closed": "false",
+            "talking_about": "38",
+            "name": "Voxelus",
+            "Points": 1200
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1428787496",
+                    "open_total_issues": "7",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "1123",
+                    "closed_total_issues": "4",
+                    "stars": 26,
+                    "last_update": "1496872552",
+                    "forks": 4,
+                    "url": "https:\/\/github.com\/voxel\/voxel-engine-stackgl",
+                    "closed_issues": "4",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1459638187",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "2",
+                    "language": "JavaScript",
+                    "subscribers": 18,
+                    "open_issues": "5"
+                }
+            ],
+            "Points": 88
+        }
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GOOD",
+            "CoinName": "GoodCoin",
+            "Type": "Webpagecoinp",
+            "Points": 232
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5398,
+                    "Name": "Camcoin",
+                    "FullName": "Camcoin (CAM)",
+                    "ImageUrl": "\/media\/20220\/cam.png",
+                    "Url": "\/coins\/cam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21359,
+                    "Name": "CludCoin",
+                    "FullName": "CludCoin (CLUD)",
+                    "ImageUrl": "\/media\/351027\/clud.png",
+                    "Url": "\/coins\/clud\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43247,
+                    "Name": "Babes and Nerds",
+                    "FullName": "Babes and Nerds (BAN)",
+                    "ImageUrl": "\/media\/1382466\/ban.png",
+                    "Url": "\/coins\/ban\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645766,
+                    "Name": "Galactrum",
+                    "FullName": "Galactrum (ORE)",
+                    "ImageUrl": "\/media\/20780695\/ore.png",
+                    "Url": "\/coins\/ore\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3744,
+                    "Name": "2015 coin",
+                    "FullName": "2015 coin (2015)",
+                    "ImageUrl": "\/media\/20180\/2015.png",
+                    "Url": "\/coins\/2015\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5034,
+                    "Name": "YAcCoin",
+                    "FullName": "YAcCoin (YAC)",
+                    "ImageUrl": "\/media\/19976\/yac.png",
+                    "Url": "\/coins\/yac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34847,
+                    "Name": "Old Dogs New Tricks",
+                    "FullName": "Old Dogs New Tricks (ODNT)",
+                    "ImageUrl": "\/media\/352186\/odnt.png",
+                    "Url": "\/coins\/odnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5334,
+                    "Name": "NakomotoDark",
+                    "FullName": "NakomotoDark (NKT)",
+                    "ImageUrl": "\/media\/20371\/nkt.png",
+                    "Url": "\/coins\/nkt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37190,
+                    "Name": "MIScoin",
+                    "FullName": "MIScoin (MIS)",
+                    "ImageUrl": "\/media\/1381981\/mis.png",
+                    "Url": "\/coins\/mis\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 661719,
+                    "Name": "Force Coin",
+                    "FullName": "Force Coin (FOR)",
+                    "ImageUrl": "\/media\/20780764\/for.png",
+                    "Url": "\/coins\/for\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 560053,
+                    "Name": "odiracollins",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/560053\/3a0830af-c38a-4d27-bfa9-0970eefbf163.jpg",
+                    "Url": "\/profile\/odiracollins\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 113668,
+                    "Name": "davidsoninvestor",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/113668\/e74a34d9-829c-47e7-8c7c-9105b0a1003f.jpg",
+                    "Url": "\/profile\/davidsoninvestor\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 200,
+                "Markets": 9,
+                "Analysis": 6,
+                "Charts": 6,
+                "Trades": 2,
+                "Orderbook": 0,
+                "Forum": 2,
+                "Influence": 3
+            },
+            "PageViews": 228
+        },
+        "Twitter": {
+            "lists": 4,
+            "favourites": "2",
+            "statuses": 244,
+            "following": "46",
+            "account_creation": "1390433756",
+            "name": "Seefude",
+            "followers": 117,
+            "link": "https:\/\/twitter.com\/GOODCoinNews",
+            "Points": 137
+        },
+        "Reddit": {
+            "subscribers": 17,
+            "posts_per_hour": "0.00",
+            "community_creation": "1398276726",
+            "comments_per_hour": "0.00",
+            "comments_per_day": 0.02,
+            "name": "GOODCoinGC",
+            "link": "https:\/\/www.reddit.com\/r\/goodcoingc\/",
+            "posts_per_day": "0.01",
+            "active_users": 1,
+            "Points": 20
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

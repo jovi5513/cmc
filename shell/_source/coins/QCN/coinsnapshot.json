@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": "CryptoNight",
+        "ProofType": "PoW",
+        "BlockNumber": 943681,
+        "NetHashesPerSecond": 213772.825,
+        "TotalCoinsMined": 6668956.9273848,
+        "BlockReward": 5.616089230734,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "QCN",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.000005",
+            "LASTUPDATE": "1516089056",
+            "LASTVOLUME": "3",
+            "LASTVOLUMETO": "0.000015000000000000002",
+            "LASTTRADEID": "154392904",
+            "VOLUMEDAY": "8459.64",
+            "VOLUMEDAYTO": "0.04842561000000002",
+            "VOLUME24HOUR": "122984.00999999998",
+            "VOLUME24HOURTO": "0.7003174700000002",
+            "OPENDAY": "0.000005",
+            "HIGHDAY": "0.000006",
+            "LOWDAY": "0.000004",
+            "OPEN24HOUR": "0.000006",
+            "HIGH24HOUR": "0.000007",
+            "LOW24HOUR": "0.000004",
+            "LASTMARKET": "HitBTC"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "HitBTC",
+                "FROMSYMBOL": "QCN",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.000005",
+                "LASTUPDATE": "1516089056",
+                "LASTVOLUME": "3",
+                "LASTVOLUMETO": "0.000015000000000000002",
+                "LASTTRADEID": "154392904",
+                "VOLUME24HOUR": "122984.00999999998",
+                "VOLUME24HOURTO": "0.7003174700000002",
+                "OPEN24HOUR": "0.000006",
+                "HIGH24HOUR": "0.000007",
+                "LOW24HOUR": "0.000004"
+            }
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,218 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PRIX",
+            "CoinName": "Privatix",
+            "Type": "Webpagecoinp",
+            "Points": 14091
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4616,
+                    "Name": "BitSwift",
+                    "FullName": "BitSwift (SWIFT)",
+                    "ImageUrl": "\/media\/20446\/swift.png",
+                    "Url": "\/coins\/swift\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 368770,
+                    "Name": "AidCoin",
+                    "FullName": "AidCoin (AID)",
+                    "ImageUrl": "\/media\/14913433\/aidcoin.png",
+                    "Url": "\/coins\/aid\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 638634,
+                    "Name": "Bloom Token",
+                    "FullName": "Bloom Token (BLT)",
+                    "ImageUrl": "\/media\/20780668\/blt.png",
+                    "Url": "\/coins\/blt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 639943,
+                    "Name": "SportyFi",
+                    "FullName": "SportyFi (SPF)",
+                    "ImageUrl": "\/media\/20780669\/spf.png",
+                    "Url": "\/coins\/spf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 205980,
+                    "Name": "Qvolta",
+                    "FullName": "Qvolta (QVT)",
+                    "ImageUrl": "\/media\/1383954\/qvt.png",
+                    "Url": "\/coins\/qvt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3646,
+                    "Name": "PetroDollar",
+                    "FullName": "PetroDollar (XPD)",
+                    "ImageUrl": "\/media\/20162\/xpd.png",
+                    "Url": "\/coins\/xpd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185953,
+                    "Name": "Indorse",
+                    "FullName": "Indorse (IND)",
+                    "ImageUrl": "\/media\/1383794\/ind.png",
+                    "Url": "\/coins\/ind\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7650,
+                    "Name": "Quazar Coin",
+                    "FullName": "Quazar Coin (QCN)",
+                    "ImageUrl": "\/media\/19877\/qcn.png",
+                    "Url": "\/coins\/qcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 346775,
+                    "Name": "Bonpay",
+                    "FullName": "Bonpay (BON*)",
+                    "ImageUrl": "\/media\/12318368\/bon.png",
+                    "Url": "\/coins\/bon\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20822,
+                    "Name": "Krypton",
+                    "FullName": "Krypton (KR)",
+                    "ImageUrl": "\/media\/350974\/kr.png",
+                    "Url": "\/coins\/kr\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 636386,
+                    "Name": "steve.zhc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/636386\/97cda852-3bae-42dc-904f-b7e8ffa230be.jpg",
+                    "Url": "\/profile\/steve.zhc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 654616,
+                    "Name": "keypax",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/654616\/80392454-303e-447c-a59d-2f4e5808f0d1.jpg",
+                    "Url": "\/profile\/keypax\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 32780,
+                    "Name": "mrucker2007",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/32780\/bbb512d6-f6a4-4cc9-b277-202627df7262.jpg",
+                    "Url": "\/profile\/mrucker2007\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 582551,
+                    "Name": "keystone",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/582551\/89341eb3-8d76-4b7d-bba0-47d7d568d3c4.jpg",
+                    "Url": "\/profile\/keystone\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 418176,
+                    "Name": "james.b.ackland",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/418176\/83467bef-3c12-4c6b-971a-7a77145835fc.jpg",
+                    "Url": "\/profile\/james.b.ackland\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 221260,
+                    "Name": "culdav",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/221260\/08d10181-cf6f-44fa-a14d-92526fe045fd.jpg",
+                    "Url": "\/profile\/culdav\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 580700,
+                    "Name": "timofan.mihai",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/580700\/50472eb3-0ce9-4fe4-a82b-0d8daad25dfa.jpg",
+                    "Url": "\/profile\/timofan.mihai\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 558512,
+                    "Name": "misteram",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/558512\/9469a352-ba49-4092-abad-bc6706dcb698.jpg",
+                    "Url": "\/profile\/misteram\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 120547,
+                    "Name": "Guldenup123",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/120547\/1c41bb9d-e3ae-4831-adcf-4c1b6cd1f941.jpg",
+                    "Url": "\/profile\/Guldenup123\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 553449,
+                    "Name": "emc2807",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/553449\/042b6d74-bcab-4b85-8288-7f27124101ee.jpg",
+                    "Url": "\/profile\/emc2807\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 2225,
+            "Posts": "9",
+            "Comments": "5",
+            "Followers": 78,
+            "PageViewsSplit": {
+                "Overview": 3492,
+                "Markets": 295,
+                "Analysis": 123,
+                "Charts": 82,
+                "Trades": 131,
+                "Orderbook": 8,
+                "Forum": 265,
+                "Influence": 70
+            },
+            "PageViews": 4466
+        },
+        "Twitter": {
+            "favourites": "59",
+            "statuses": 126,
+            "following": "81",
+            "account_creation": "1452871177",
+            "followers": 2778,
+            "name": "\ud83d\ude80 Privatix",
+            "link": "https:\/\/twitter.com\/Privatix1",
+            "lists": 38,
+            "Points": 2968
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/user\/privatix\/",
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "50",
+            "name": "Privatix",
+            "likes": 8898,
+            "link": "https:\/\/www.facebook.com\/Privatix.ltd\/",
+            "Points": 8898
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

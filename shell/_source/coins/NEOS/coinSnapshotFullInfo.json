@@ -1,0 +1,71 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "NeosCoin (NEOS) - Live streaming prices and market cap",
+            "PageDescription": "Live NeosCoin prices from all markets and NEOS coin market Capitalization. Stay up to date with the latest NeosCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1382788\/neos1.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "5370",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "NeosCoin (NEOS)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "NEOS",
+            "Url": "\/coins\/neos\/",
+            "BaseAngularUrl": "\/coins\/neos\/",
+            "Name": "NeosCoin",
+            "ImageUrl": "\/media\/1382788\/neos1.png",
+            "Description": "<p>NeosCoin is a Proof of Stake cryptocurrency featuring a network of masternodes that provide instant a private transactions. Neos v3.0 will provide a decentralized and immutable hosting service and social network, where participants\u00a0are rewarded for their activity. Creating, sharing and liking (and more) content is automatically rewarded with a portion of the block reward (based on a point system).<\/p><p>Neos v3.0 will offer access to the cryptocurrency without the need for exchanges or faucets. Within the network, there are also premium services that create a use case for the coin. Most of the coins spent on the premium services are bunt while a smaller part is sent to a development fund, making NeosCoin a deflationary currency.\u00a0<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "21000000",
+            "Algorithm": "SHA256",
+            "ProofType": "PoS",
+            "StartDate": "24\/08\/2014",
+            "Twitter": "@NeosCoin",
+            "AffiliateUrl": "http:\/\/www.neoscoin.com\/",
+            "Website": "<a href='http:\/\/www.neoscoin.com\/' target='_blank'>NeosCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515949060,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 782729,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 3653990.5547,
+            "PreviousTotalCoinsMined": 3653973.4547,
+            "BlockReward": 0.89999999998904
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Poloniex~NEOS~BTC",
+            "2~Bleutrade~NEOS~BTC",
+            "2~Bleutrade~NEOS~DOGE",
+            "2~Cryptsy~NEOS~BTC",
+            "2~Bleutrade~NEOS~ETH",
+            "2~Coinse~NEOS~BTC",
+            "2~BitTrex~NEOS~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~NEOS~BTC~4~0.001043~1515949545~1.39548237~0.00145159~18756108~70595.03349720009~76.75511638822749~114310.00071244997~125.0475256641714~0.001148~0.001151~0.00102~0.001064~0.001151~0.0009994~BitTrex~7ffe9",
+            "5~CCCAGG~NEOS~DOGE~4~1433.68~1515914309~0.09803027~140.5442161253383~1515914309001~1.6396601899999999~2453.705920167649~2.09803027~3150.5442364453384~1505~1505~1433.68~1810~1810~1433.68~Bleutrade~7ffe9",
+            "5~CCCAGG~NEOS~ETH~4~0.007505~1515880922~0.01~0.0000750491~1515880922001~0.01~0.0000750491~0.01~0.0000750491~0.007505~0.007505~0.007505~0.01888~0.01888~0.007505~Bleutrade~7ffe9"
+        ]
+    },
+    "Type": 100
+}

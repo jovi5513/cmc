@@ -1,0 +1,183 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "TRA",
+            "CoinName": "Tetra",
+            "Type": "Webpagecoinp",
+            "Points": 110
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20205,
+                    "Name": "Spots",
+                    "FullName": "Spots (SPOTS)",
+                    "ImageUrl": "\/media\/350893\/spots.png",
+                    "Url": "\/coins\/spots\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645766,
+                    "Name": "Galactrum",
+                    "FullName": "Galactrum (ORE)",
+                    "ImageUrl": "\/media\/20780695\/ore.png",
+                    "Url": "\/coins\/ore\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 74894,
+                    "Name": "GrowthCoin",
+                    "FullName": "GrowthCoin (GRW)",
+                    "ImageUrl": "\/media\/1383234\/grw.png",
+                    "Url": "\/coins\/grw\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43253,
+                    "Name": "NiceCoin",
+                    "FullName": "NiceCoin (NICE)",
+                    "ImageUrl": "\/media\/1382467\/nice.png",
+                    "Url": "\/coins\/nice\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5388,
+                    "Name": "Gridmaster",
+                    "FullName": "Gridmaster (GMC)",
+                    "ImageUrl": "\/media\/20299\/gmc.png",
+                    "Url": "\/coins\/gmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38035,
+                    "Name": "HeelCoin",
+                    "FullName": "HeelCoin (HEEL)",
+                    "ImageUrl": "\/media\/1382051\/heel.png",
+                    "Url": "\/coins\/heel\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45609,
+                    "Name": "TrashBurn",
+                    "FullName": "TrashBurn (TBCX)",
+                    "ImageUrl": "\/media\/1382658\/tbcx.png",
+                    "Url": "\/coins\/tbcx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28770,
+                    "Name": "Save and Gain",
+                    "FullName": "Save and Gain (SANDG)",
+                    "ImageUrl": "\/media\/351556\/sandt.png",
+                    "Url": "\/coins\/sandg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4544,
+                    "Name": "JudgeCoin",
+                    "FullName": "JudgeCoin (JUDGE)",
+                    "ImageUrl": "\/media\/20038\/judge.png",
+                    "Url": "\/coins\/judge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5330,
+                    "Name": "AeroMe",
+                    "FullName": "AeroMe (AM)",
+                    "ImageUrl": "\/media\/20191\/am.png",
+                    "Url": "\/coins\/am\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 195884,
+                    "Name": "goldleo17",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/195884\/a413bff8-80b7-48b0-8130-de47f155f9f0.jpg",
+                    "Url": "\/profile\/goldleo17\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 207628,
+                    "Name": "cathymailyy",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/207628\/78a366c0-411f-4374-aaca-046b4817e777.jpg",
+                    "Url": "\/profile\/cathymailyy\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 325,
+                "Markets": 25,
+                "Analysis": 21,
+                "Charts": 24,
+                "Trades": 21,
+                "Orderbook": 0,
+                "Forum": 16,
+                "Influence": 4
+            },
+            "PageViews": 436
+        },
+        "Twitter": {
+            "followers": 32,
+            "following": "6",
+            "lists": 0,
+            "favourites": "1",
+            "statuses": 5,
+            "account_creation": "1465198338",
+            "name": "Tetra Currency",
+            "link": "https:\/\/twitter.com\/tetracurrency",
+            "Points": 32
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "3637",
+                    "url": "https:\/\/github.com\/TetraProject\/Tetra",
+                    "last_update": "1465196617",
+                    "last_push": "1465231735",
+                    "created_at": "1465196601",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

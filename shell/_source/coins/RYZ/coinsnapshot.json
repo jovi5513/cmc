@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 0,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 0,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "RYZ",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000252",
+            "LASTUPDATE": "1516089467",
+            "LASTVOLUME": "4020.72874",
+            "LASTVOLUMETO": "0.0101322364248",
+            "LASTTRADEID": "11888878",
+            "VOLUMEDAY": "23317.77102448",
+            "VOLUMEDAYTO": "0.0696773963355978",
+            "VOLUME24HOUR": "90451.61855005",
+            "VOLUME24HOURTO": "0.25671250838376614",
+            "OPENDAY": "0.00000318",
+            "HIGHDAY": "0.00000322",
+            "LOWDAY": "0.00000252",
+            "OPEN24HOUR": "0.00000258",
+            "HIGH24HOUR": "0.00000378",
+            "LOW24HOUR": "0.00000227",
+            "LASTMARKET": "Tidex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Tidex",
+                "FROMSYMBOL": "RYZ",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00000252",
+                "LASTUPDATE": "1516089467",
+                "LASTVOLUME": "4020.72874",
+                "LASTVOLUMETO": "0.0101322364248",
+                "LASTTRADEID": "11888878",
+                "VOLUME24HOUR": "90451.61855005",
+                "VOLUME24HOURTO": "0.25671250838376614",
+                "OPEN24HOUR": "0.00000258",
+                "HIGH24HOUR": "0.00000378",
+                "LOW24HOUR": "0.00000227"
+            }
+        ]
+    },
+    "Type": 100
+}

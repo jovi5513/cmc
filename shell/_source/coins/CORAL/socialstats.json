@@ -1,0 +1,204 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CORAL",
+            "CoinName": "CoralPay",
+            "Type": "Webpagecoinp",
+            "Points": 307
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 30177,
+                    "Name": "JiffyCoin",
+                    "FullName": "JiffyCoin (JIF)",
+                    "ImageUrl": "\/media\/351738\/jif.png",
+                    "Url": "\/coins\/jif\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5025,
+                    "Name": "Xcash",
+                    "FullName": "Xcash (XCASH)",
+                    "ImageUrl": "\/media\/20075\/xcash.png",
+                    "Url": "\/coins\/xcash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7565,
+                    "Name": "Squall Coin",
+                    "FullName": "Squall Coin (SQL)",
+                    "ImageUrl": "\/media\/20441\/sql.png",
+                    "Url": "\/coins\/sql\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 48807,
+                    "Name": "FindCoin",
+                    "FullName": "FindCoin (FIND)",
+                    "ImageUrl": "\/media\/1382713\/find.png",
+                    "Url": "\/coins\/find\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3645,
+                    "Name": "Supcoin",
+                    "FullName": "Supcoin (SUP)",
+                    "ImageUrl": "\/media\/20442\/sup.png",
+                    "Url": "\/coins\/sup\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33945,
+                    "Name": "Coin to the Future",
+                    "FullName": "Coin to the Future (BTTF)",
+                    "ImageUrl": "\/media\/352111\/bttf.png",
+                    "Url": "\/coins\/bttf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 77306,
+                    "Name": "Prizm",
+                    "FullName": "Prizm (PZM)",
+                    "ImageUrl": "\/media\/1383242\/pzm.jpg",
+                    "Url": "\/coins\/pzm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4566,
+                    "Name": "MurrayCoin",
+                    "FullName": "MurrayCoin (MRY)",
+                    "ImageUrl": "\/media\/19807\/mry.jpg",
+                    "Url": "\/coins\/mry\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33268,
+                    "Name": "FameCoin",
+                    "FullName": "FameCoin (FAME)",
+                    "ImageUrl": "\/media\/352006\/fame.png",
+                    "Url": "\/coins\/fame\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34213,
+                    "Name": "DollarOnline",
+                    "FullName": "DollarOnline (DLR)",
+                    "ImageUrl": "\/media\/352114\/dollarcoin.png",
+                    "Url": "\/coins\/dlr\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 467486,
+                    "Name": "jamal2am",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/467486\/e99e612b-e98d-40f7-a1f4-cbe3d2a4f8da.jpg",
+                    "Url": "\/profile\/jamal2am\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 487093,
+                    "Name": "gutta.gpr",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/487093\/9ebc881b-7405-4bf3-894e-a382cdcd64ab.jpg",
+                    "Url": "\/profile\/gutta.gpr\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 541642,
+                    "Name": "catherine3rd",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/541642\/a87f43e1-96b6-4bfe-8011-e1dc3dcf40cd.jpg",
+                    "Url": "\/profile\/catherine3rd\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 562796,
+                    "Name": "alex_wagner1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/562796\/bddbd3ff-d784-4ab3-9ad4-168425b0e336.jpg",
+                    "Url": "\/profile\/alex_wagner1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 524365,
+                    "Name": "D81C3400",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/524365\/1a3aa59a-3da3-427e-b850-49c57bd6c626.jpg",
+                    "Url": "\/profile\/D81C3400\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 6,
+            "Points": 150,
+            "PageViewsSplit": {
+                "Overview": 654,
+                "Markets": 47,
+                "Analysis": 21,
+                "Charts": 38,
+                "Trades": 43,
+                "Orderbook": 3,
+                "Forum": 26,
+                "Influence": 13
+            },
+            "PageViews": 845
+        },
+        "Twitter": {
+            "favourites": "1",
+            "lists": 9,
+            "statuses": 18,
+            "following": "37",
+            "account_creation": "1480103583",
+            "name": "coralpay",
+            "followers": 109,
+            "link": "https:\/\/twitter.com\/CoralPay_Crypto",
+            "Points": 154
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1481018650",
+                    "url": "https:\/\/github.com\/coralpay\/coral",
+                    "forks": 0,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "size": "2991",
+                    "created_at": "1480022598",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "C",
+                    "open_total_issues": "0",
+                    "last_push": "1481044749",
+                    "stars": 0
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

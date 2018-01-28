@@ -1,0 +1,167 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "RLX",
+            "CoinName": "Relex",
+            "Type": "Webpagecoinp",
+            "Points": 458
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 659724,
+                    "Name": "SagaCoin",
+                    "FullName": "SagaCoin (SAGA)",
+                    "ImageUrl": "\/media\/20780745\/saga.png",
+                    "Url": "\/coins\/saga\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5311,
+                    "Name": "KryptCoin",
+                    "FullName": "KryptCoin (KTK)",
+                    "ImageUrl": "\/media\/19771\/ktk.png",
+                    "Url": "\/coins\/ktk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 105206,
+                    "Name": "DuxCoin",
+                    "FullName": "DuxCoin (DUX)",
+                    "ImageUrl": "\/media\/1383364\/dux.png",
+                    "Url": "\/coins\/dux\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60424,
+                    "Name": "BlazerCoin",
+                    "FullName": "BlazerCoin (BLAZR)",
+                    "ImageUrl": "\/media\/1382946\/blazr.png",
+                    "Url": "\/coins\/blazr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 446051,
+                    "Name": "People",
+                    "FullName": "People (MAN)",
+                    "ImageUrl": "\/media\/16746574\/man.png",
+                    "Url": "\/coins\/man\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29715,
+                    "Name": "OlympCoin",
+                    "FullName": "OlympCoin (OLYMP)",
+                    "ImageUrl": "\/media\/351683\/olymp.png",
+                    "Url": "\/coins\/olymp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5356,
+                    "Name": "Ascension Coin",
+                    "FullName": "Ascension Coin (ASN)",
+                    "ImageUrl": "\/media\/20192\/asn.png",
+                    "Url": "\/coins\/asn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6095,
+                    "Name": "Quicksilver coin",
+                    "FullName": "Quicksilver coin (QSLV)",
+                    "ImageUrl": "\/media\/20404\/qslv.png",
+                    "Url": "\/coins\/qslv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32875,
+                    "Name": "LuckyBlocks (LUCKY)",
+                    "FullName": "LuckyBlocks (LUCKY) (LUCKY)",
+                    "ImageUrl": "\/media\/351946\/lucky.png",
+                    "Url": "\/coins\/lucky\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38967,
+                    "Name": "Incrementum",
+                    "FullName": "Incrementum (INC)",
+                    "ImageUrl": "\/media\/1382173\/inc.png",
+                    "Url": "\/coins\/inc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 674512,
+                    "Name": "tashiba0149",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674512\/59a7d332-8bdd-4c71-80f6-1bc148814e62.jpg",
+                    "Url": "\/profile\/tashiba0149\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 498326,
+                    "Name": "kellysamuel376",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/498326\/d070fb64-33a2-48a8-8d2d-7f54cab64f39.jpg",
+                    "Url": "\/profile\/kellysamuel376\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 80800,
+                    "Name": "nurikabe",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/80800\/20ab1a3a-26e7-4d51-a0ee-3497c8755440.jpg",
+                    "Url": "\/profile\/nurikabe\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 309374,
+                    "Name": "ozzyb",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/309374\/e90e0504-ae04-465a-89fb-d902fa4a6c33.jpg",
+                    "Url": "\/profile\/ozzyb\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 150,
+            "Posts": "2",
+            "PageViewsSplit": {
+                "Overview": 329,
+                "Markets": 26,
+                "Analysis": 47,
+                "Charts": 28,
+                "Trades": 20,
+                "Orderbook": 0,
+                "Forum": 7,
+                "Influence": 16
+            },
+            "PageViews": 473
+        },
+        "Twitter": {
+            "favourites": "64",
+            "lists": 5,
+            "statuses": 116,
+            "following": "640",
+            "account_creation": "1501411816",
+            "name": "Relex (RLX)",
+            "followers": 147,
+            "link": "https:\/\/twitter.com\/RelexTalk",
+            "Points": 172
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "Relex",
+            "likes": 136,
+            "link": "https:\/\/www.facebook.com\/RelexTalk\/",
+            "talking_about": "10",
+            "is_closed": "false",
+            "Points": 136
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

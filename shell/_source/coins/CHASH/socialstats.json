@@ -1,0 +1,183 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CHASH",
+            "CoinName": "CleverHash",
+            "Type": "Webpagecoinp",
+            "Points": 542
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4628,
+                    "Name": "Umbrella",
+                    "FullName": "Umbrella (ULTC)",
+                    "ImageUrl": "\/media\/20063\/ultc.png",
+                    "Url": "\/coins\/ultc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28136,
+                    "Name": "Zeta2Coin",
+                    "FullName": "Zeta2Coin (ZET2)",
+                    "ImageUrl": "\/media\/351502\/zet2.png",
+                    "Url": "\/coins\/zet2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4533,
+                    "Name": "Halcyon",
+                    "FullName": "Halcyon (HAL)",
+                    "ImageUrl": "\/media\/20036\/hal.png",
+                    "Url": "\/coins\/hal\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4604,
+                    "Name": "SilkCoin",
+                    "FullName": "SilkCoin (SILK)",
+                    "ImageUrl": "\/media\/20057\/silk.png",
+                    "Url": "\/coins\/silk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6096,
+                    "Name": "World Trade Funds",
+                    "FullName": "World Trade Funds (XWT)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/xwt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 385933,
+                    "Name": "PlatinumBAR",
+                    "FullName": "PlatinumBAR (XPTX)",
+                    "ImageUrl": "\/media\/14913633\/xptx.png",
+                    "Url": "\/coins\/xptx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8683,
+                    "Name": "BitSeeds",
+                    "FullName": "BitSeeds (XSEED)",
+                    "ImageUrl": "\/media\/20163\/xseed.png",
+                    "Url": "\/coins\/xseed\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30521,
+                    "Name": "GanjaCoin V2",
+                    "FullName": "GanjaCoin V2 (GNJ)",
+                    "ImageUrl": "\/media\/351789\/gnj.png",
+                    "Url": "\/coins\/gnj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22180,
+                    "Name": "ExitCoin",
+                    "FullName": "ExitCoin (EXIT)",
+                    "ImageUrl": "\/media\/351065\/exit.png",
+                    "Url": "\/coins\/exit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 59966,
+                    "Name": "StarCredits",
+                    "FullName": "StarCredits (SRC*)",
+                    "ImageUrl": "\/media\/1382936\/src1.png",
+                    "Url": "\/coins\/srcstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 623620,
+                    "Name": "najeebtbtc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/623620\/a2038399-703a-4906-a004-e8c2e1580f37.jpg",
+                    "Url": "\/profile\/najeebtbtc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 429897,
+                    "Name": "nipresaphe",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/429897\/d0a875af-d0e1-4dd2-91a2-5334ba04130d.jpg",
+                    "Url": "\/profile\/nipresaphe\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 305958,
+                    "Name": "Karmia",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/305958\/946d510f-58c9-4dbc-b337-49dbaa90a608.jpg",
+                    "Url": "\/profile\/Karmia\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 161137,
+                    "Name": "silverleiten",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/161137\/1ea13407-682e-4662-993a-6308e55b8c83.jpg",
+                    "Url": "\/profile\/silverleiten\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 59798,
+                    "Name": "helpdisman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/59798\/72950aa6-e730-475e-8849-d447efe74ed1.jpg",
+                    "Url": "\/profile\/helpdisman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 22388,
+                    "Name": "dionpatrick1997",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/22388\/7bb6b804-178e-4e11-893e-25f8672541c1.jpg",
+                    "Url": "\/profile\/dionpatrick1997\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 7,
+            "Points": 175,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 937,
+                "Markets": 10,
+                "Analysis": 22,
+                "Charts": 22,
+                "Trades": 8,
+                "Orderbook": 0,
+                "Forum": 48,
+                "Influence": 8
+            },
+            "PageViews": 1055
+        },
+        "Twitter": {
+            "favourites": "50",
+            "lists": 7,
+            "name": "cleverhash",
+            "statuses": 91,
+            "followers": 332,
+            "following": "71",
+            "account_creation": "1394507454",
+            "link": "https:\/\/twitter.com\/cleverhash",
+            "Points": 367
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

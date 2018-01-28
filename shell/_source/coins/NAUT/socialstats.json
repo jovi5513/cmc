@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NAUT",
+            "CoinName": "Nautilus Coin",
+            "Type": "Webpagecoinp",
+            "Points": 8512
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 331603,
+                    "Name": "ALISmedia",
+                    "FullName": "ALISmedia (ALIS)",
+                    "ImageUrl": "\/media\/12318247\/alis.png",
+                    "Url": "\/coins\/alis\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 360063,
+                    "Name": "Dynamic Trading Rights",
+                    "FullName": "Dynamic Trading Rights (DTR)",
+                    "ImageUrl": "\/media\/14761903\/dtr.png",
+                    "Url": "\/coins\/dtr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 381189,
+                    "Name": "LIFE",
+                    "FullName": "LIFE (LIFE)",
+                    "ImageUrl": "\/media\/14913568\/life.png",
+                    "Url": "\/coins\/life\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 79864,
+                    "Name": "Redcoin",
+                    "FullName": "Redcoin (RED)",
+                    "ImageUrl": "\/media\/1383265\/red.png",
+                    "Url": "\/coins\/red\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28893,
+                    "Name": "BuzzCoin",
+                    "FullName": "BuzzCoin (BUZZ)",
+                    "ImageUrl": "\/media\/15887419\/buzz.png",
+                    "Url": "\/coins\/buzz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340776,
+                    "Name": "Caviar",
+                    "FullName": "Caviar (CAV)",
+                    "ImageUrl": "\/media\/12318328\/cav.png",
+                    "Url": "\/coins\/cav\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20908,
+                    "Name": "ZeitCoin",
+                    "FullName": "ZeitCoin (ZEIT)",
+                    "ImageUrl": "\/media\/350984\/zeit.png",
+                    "Url": "\/coins\/zeit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 18670,
+                    "Name": "HOdlcoin",
+                    "FullName": "HOdlcoin (HODL)",
+                    "ImageUrl": "\/media\/350840\/hodl.png",
+                    "Url": "\/coins\/hodl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 303943,
+                    "Name": "AB-Chain",
+                    "FullName": "AB-Chain (ABC)",
+                    "ImageUrl": "\/media\/12318006\/bac.png",
+                    "Url": "\/coins\/abc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20315,
+                    "Name": "BitCrystals",
+                    "FullName": "BitCrystals (BCY)",
+                    "ImageUrl": "\/media\/350903\/bcy.png",
+                    "Url": "\/coins\/bcy\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 615057,
+                    "Name": "thelastottoman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/615057\/ba6728b4-a7ba-4567-b0f6-e0fb1fbd5e66.jpg",
+                    "Url": "\/profile\/thelastottoman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 594438,
+                    "Name": "rizi.prince",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/594438\/f2e3c48c-8474-496c-8672-d6f4ac677c84.jpg",
+                    "Url": "\/profile\/rizi.prince\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 468245,
+                    "Name": "etherealxz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/468245\/4cd34a39-79e7-41e9-a0d9-b82b082ca463.jpg",
+                    "Url": "\/profile\/etherealxz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 417826,
+                    "Name": "kilgor",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/417826\/e14f741a-7314-4e7d-ac5d-31c7e1dc1260.jpg",
+                    "Url": "\/profile\/kilgor\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 417741,
+                    "Name": "otymlm",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/417741\/841a189a-1f43-4e96-a07d-f3a1409c18bd.jpg",
+                    "Url": "\/profile\/otymlm\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 108809,
+                    "Name": "gt9ggt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/108809\/637b39a3-5c35-4312-87a4-a43c8c49f66d.jpg",
+                    "Url": "\/profile\/gt9ggt\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 34036,
+                    "Name": "jaksa.cosic",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/34036\/7443decb-d943-40c2-9dce-78a1196228fa.jpg",
+                    "Url": "\/profile\/jaksa.cosic\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 101887,
+                    "Name": "thai.edenreal",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/101887\/c0ca4ef3-8475-4fe6-8565-804fcef9a603.jpg",
+                    "Url": "\/profile\/thai.edenreal\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 217076,
+                    "Name": "phonofemme2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/217076\/9188fa44-bcc0-4f27-b49d-089402a89571.jpg",
+                    "Url": "\/profile\/phonofemme2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 307724,
+                    "Name": "alphamagna",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/307724\/0f58b70a-5b59-4c8d-b3df-c0f5d522d7f4.jpg",
+                    "Url": "\/profile\/alphamagna\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 299554,
+                    "Name": "aryehlebent",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/299554\/b1b79b0f-93bd-4373-ace5-10406c1d331f.jpg",
+                    "Url": "\/profile\/aryehlebent\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 2095,
+            "Followers": 65,
+            "Posts": "14",
+            "Comments": "12",
+            "PageViewsSplit": {
+                "Overview": 6659,
+                "Markets": 533,
+                "Analysis": 253,
+                "Charts": 1183,
+                "Trades": 302,
+                "Orderbook": 51,
+                "Forum": 372,
+                "Influence": 216
+            },
+            "PageViews": 9569
+        },
+        "Twitter": {
+            "following": "36",
+            "account_creation": "1398550494",
+            "name": "Nautiluscoin",
+            "lists": 120,
+            "statuses": 394,
+            "favourites": "30",
+            "followers": 5420,
+            "link": "https:\/\/twitter.com\/Nautiluscoin",
+            "Points": 6020
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "comments_per_hour": "0.00",
+            "posts_per_day": "0.07",
+            "comments_per_day": 0.08,
+            "name": "nautiluscoin",
+            "link": "https:\/\/www.reddit.com\/r\/nautiluscoin\/",
+            "active_users": 7,
+            "community_creation": "1399060175",
+            "subscribers": 217,
+            "Points": 238
+        },
+        "Facebook": {
+            "likes": 117,
+            "link": "https:\/\/www.facebook.com\/Nautiluscoin-301698040006670\/",
+            "is_closed": "false",
+            "talking_about": "0",
+            "name": "Nautiluscoin",
+            "Points": 117
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1397130563",
+                    "open_total_issues": "2",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "10222",
+                    "closed_total_issues": "9",
+                    "stars": 7,
+                    "last_update": "1500476957",
+                    "forks": 4,
+                    "url": "https:\/\/github.com\/nautiluscoin\/nautiluscoin",
+                    "closed_issues": "1",
+                    "closed_pull_issues": "8",
+                    "fork": "false",
+                    "last_push": "1460068679",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "TypeScript",
+                    "subscribers": 9,
+                    "open_issues": "2"
+                }
+            ],
+            "Points": 42
+        }
+    }
+}

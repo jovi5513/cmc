@@ -1,0 +1,89 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Francs (FRN) - Live streaming prices and market cap",
+            "PageDescription": "Live Francs prices from all markets and FRN coin market Capitalization. Stay up to date with the latest Francs price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350992\/frn.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20991",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Francs (FRN)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "FRN",
+            "Url": "\/coins\/frn\/",
+            "BaseAngularUrl": "\/coins\/frn\/",
+            "Name": "Francs",
+            "ImageUrl": "\/media\/350992\/frn.png",
+            "Description": "<div>Francs is a cryptocurrency designed to create interest and adoption of crypto within the French community. FRN can be sent to anyone, instantly and with low fees.<\/div><div><p>\u00a0<\/p><\/div><div><\/div>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "20000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "21\/01\/2016",
+            "Twitter": "@francnoir",
+            "AffiliateUrl": "http:\/\/www.francs.paris\/",
+            "Website": "<a href='http:\/\/www.francs.paris\/' target='_blank'>Francs<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515969995,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 207739,
+            "BlockTime": 240,
+            "NetHashesPerSecond": 8844074157,
+            "TotalCoinsMined": 5086839.805138,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~FRN~USD",
+            "2~Cryptopia~FRN~DOT",
+            "2~Cryptopia~FRN~DOGE",
+            "2~Yobit~FRN~BTC",
+            "2~Yobit~FRN~DOGE",
+            "2~Cryptopia~FRN~LTC",
+            "2~CCEX~FRN~DOGE",
+            "2~Yobit~FRN~USD",
+            "2~Yobit~FRN~ETH",
+            "2~Novaexchange~FRN~ETH",
+            "2~Cryptopia~FRN~XMR",
+            "2~Yobit~FRN~WAVES",
+            "2~Cryptopia~FRN~BTC",
+            "2~CCEX~FRN~BTC",
+            "2~Yobit~FRN~RUR",
+            "2~Novaexchange~FRN~LTC",
+            "2~Novaexchange~FRN~BTC",
+            "2~Cryptopia~FRN~UNO"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~FRN~USD~4~0.18888788~1515675875~8.37400042~1.5817471864529096~184177810~0~0~0~0~0.1889~0.1889~0.18888788~0.18888788~0.18888788~0.18888788~Yobit~7ffe9",
+            "5~CCCAGG~FRN~DOT~4~3.00000022~1488756752~0.0087408~0.026222~1488756752~0~0~0~0~3.00000022~3.00000022~3.00000022~3.00000022~3.00000022~3.00000022~Cryptopia~7ffe9",
+            "5~CCCAGG~FRN~DOGE~4~11~1515678642~9.93997204~109.33969244000001~184200552~0~0~0~0~11~11~11~11~11~11~Yobit~7ffe9",
+            "5~CCCAGG~FRN~BTC~4~0.00000821~1515975000~120.82372785~0.000998~1515975000~274.9597657~0.00227116~96708.87830282~0.8488375147713932~0.00000768~0.00000826~0.00000768~0.00000931~0.00001305~0.00000625~Cryptopia~7ffe9",
+            "5~CCCAGG~FRN~LTC~4~0.00057864~1515172086~20~0.0115728~1515172086~0~0~0~0~0.0005786~0.00057864~0.0005786~0.00057864~0.00057864~0.00057864~Cryptopia~7ffe9",
+            "5~CCCAGG~FRN~ETH~4~0.00019999~1515662669~267.44598963~0.05348652346610369~184069369~0~0~0~0~0.0002~0.0002~0.00019999~0.00019999~0.00019999~0.00019999~Yobit~7ffe9",
+            "5~CCCAGG~FRN~XMR~4~0.00010012~1483659567~9.98~0.000999~1483659567~0~0~0~0~0.00010012~0.00010012~0.00010012~0.00010012~0.00010012~0.00010012~Cryptopia~7ffe9",
+            "5~CCCAGG~FRN~WAVES~4~0.011497~1515604419~51.43424964~0.59133956811108~183659158~0~0~0~0~0.0115~0.0115~0.011497~0.011497~0.011497~0.011497~Yobit~7ffe9",
+            "5~CCCAGG~FRN~RUR~4~11~1515681531~17~187~184223869~0~0~0~0~11~11~11~11~11~11~Yobit~7ffe9",
+            "5~CCCAGG~FRN~UNO~4~0.0001~1497117736~400~0.04~1497117736~0~0~0~0~0.0001~0.0001~0.0001~0.0001~0.0001~0.0001~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

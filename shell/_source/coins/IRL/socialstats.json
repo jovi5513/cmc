@@ -1,0 +1,160 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "IRL",
+            "CoinName": "IrishCoin",
+            "Type": "Webpagecoinp",
+            "Points": 2993
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 645936,
+                    "Name": "GunCoin",
+                    "FullName": "GunCoin (GUN)",
+                    "ImageUrl": "\/media\/20780703\/gun.png",
+                    "Url": "\/coins\/gun\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28776,
+                    "Name": "DollarCoin",
+                    "FullName": "DollarCoin (DLC)",
+                    "ImageUrl": "\/media\/351559\/dlc.png",
+                    "Url": "\/coins\/dlc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 674918,
+                    "Name": "Ink",
+                    "FullName": "Ink (INK)",
+                    "ImageUrl": "\/media\/20780781\/ink.png",
+                    "Url": "\/coins\/ink\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20644,
+                    "Name": "SunShotCoin",
+                    "FullName": "SunShotCoin (SSTC)",
+                    "ImageUrl": "\/media\/350937\/ssc.png",
+                    "Url": "\/coins\/sstc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 372608,
+                    "Name": "Rupaya",
+                    "FullName": "Rupaya (RUPX)",
+                    "ImageUrl": "\/media\/14913484\/rupx.png",
+                    "Url": "\/coins\/rupx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32548,
+                    "Name": "RoyalCoin 2.0",
+                    "FullName": "RoyalCoin 2.0 (RYCN)",
+                    "ImageUrl": "\/media\/351756\/royal.png",
+                    "Url": "\/coins\/rycn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 59973,
+                    "Name": "The Vegan Initiative",
+                    "FullName": "The Vegan Initiative (XVE)",
+                    "ImageUrl": "\/media\/1382937\/xve.png",
+                    "Url": "\/coins\/xve\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 382450,
+                    "Name": "Credo",
+                    "FullName": "Credo (CREDO)",
+                    "ImageUrl": "\/media\/14913573\/credo-1.png",
+                    "Url": "\/coins\/credo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33869,
+                    "Name": "BosonCoin",
+                    "FullName": "BosonCoin (BOSON)",
+                    "ImageUrl": "\/media\/352083\/boson.png",
+                    "Url": "\/coins\/boson\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5333,
+                    "Name": "JackPotCoin",
+                    "FullName": "JackPotCoin (JPC)",
+                    "ImageUrl": "\/media\/19759\/jpc.png",
+                    "Url": "\/coins\/jpc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 522518,
+                    "Name": "alex.rusko",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/522518\/4b55a035-ba52-42cc-9436-cb21d3b0e4d5.jpg",
+                    "Url": "\/profile\/alex.rusko\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 176539,
+                    "Name": "dubearnes.jean",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/176539\/32db35ac-3e97-461d-8155-112e4d9cc455.jpg",
+                    "Url": "\/profile\/dubearnes.jean\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 668619,
+                    "Name": "pv07821",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/668619\/a20f47cd-4996-4de3-a600-9f178fdef47f.jpg",
+                    "Url": "\/profile\/pv07821\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 100,
+            "Posts": "1",
+            "Followers": 3,
+            "PageViewsSplit": {
+                "Overview": 98,
+                "Markets": 5,
+                "Analysis": 7,
+                "Charts": 51,
+                "Trades": 2,
+                "Orderbook": 0,
+                "Forum": 13,
+                "Influence": 1
+            },
+            "PageViews": 177
+        },
+        "Twitter": {
+            "statuses": 917,
+            "favourites": "703",
+            "following": "1462",
+            "account_creation": "1392225253",
+            "followers": 1528,
+            "name": "IrishCoin",
+            "link": "https:\/\/twitter.com\/IrishCoin",
+            "lists": 91,
+            "Points": 1983
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "68",
+            "name": "Irish Coin",
+            "likes": 910,
+            "link": "https:\/\/www.facebook.com\/IrishCoin\/",
+            "Points": 910
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "XAI",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.0000059",
+            "LASTUPDATE": "1471366739",
+            "LASTVOLUME": "1000",
+            "LASTVOLUMETO": "0.0059",
+            "LASTTRADEID": "1950538",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.0000059",
+            "HIGHDAY": "0.0000059",
+            "LOWDAY": "0.0000059",
+            "OPEN24HOUR": "0.0000059",
+            "HIGH24HOUR": "0.0000059",
+            "LOW24HOUR": "0.0000059",
+            "LASTMARKET": "BitTrex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "XAI",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.000038",
+                "LASTUPDATE": "1452741941",
+                "LASTVOLUME": "41.08313071",
+                "LASTVOLUMETO": "0.00156116",
+                "LASTTRADEID": "110919221",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.000038",
+                "HIGH24HOUR": "0.000038",
+                "LOW24HOUR": "0.000038"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "XAI",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.0000059",
+                "LASTUPDATE": "1471366739",
+                "LASTVOLUME": "1000",
+                "LASTVOLUMETO": "0.0059",
+                "LASTTRADEID": "1950538",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.0000059",
+                "HIGH24HOUR": "0.0000059",
+                "LOW24HOUR": "0.0000059"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Poloniex",
+                "FROMSYMBOL": "XAI",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00001575",
+                "LASTUPDATE": "1455048991",
+                "LASTVOLUME": "34.789",
+                "LASTVOLUMETO": "0.00054792",
+                "LASTTRADEID": "4944",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00001575",
+                "HIGH24HOUR": "0.00001575",
+                "LOW24HOUR": "0.00001575"
+            }
+        ]
+    },
+    "Type": 100
+}

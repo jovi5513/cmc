@@ -1,0 +1,226 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "HVN",
+            "CoinName": "Hive",
+            "Type": "Webpagecoinp",
+            "Points": 16874
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4524,
+                    "Name": "FeatherCoin",
+                    "FullName": "FeatherCoin (FTC)",
+                    "ImageUrl": "\/media\/19718\/ftc.png",
+                    "Url": "\/coins\/ftc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186875,
+                    "Name": "Storm",
+                    "FullName": "Storm (STORM)",
+                    "ImageUrl": "\/media\/1383803\/storm.jpg",
+                    "Url": "\/coins\/storm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33460,
+                    "Name": "Hush",
+                    "FullName": "Hush (HUSH)",
+                    "ImageUrl": "\/media\/1383138\/thehush_300x300.png",
+                    "Url": "\/coins\/hush\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 192400,
+                    "Name": "DMarket",
+                    "FullName": "DMarket (DMT)",
+                    "ImageUrl": "\/media\/1383841\/dmarket.png",
+                    "Url": "\/coins\/dmt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38307,
+                    "Name": "Shift",
+                    "FullName": "Shift (SHIFT)",
+                    "ImageUrl": "\/media\/1382125\/shift.png",
+                    "Url": "\/coins\/shift\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341279,
+                    "Name": "Moeda",
+                    "FullName": "Moeda (MDA)",
+                    "ImageUrl": "\/media\/12318340\/mda.png",
+                    "Url": "\/coins\/mda\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 321177,
+                    "Name": "Elixir",
+                    "FullName": "Elixir (ELIX)",
+                    "ImageUrl": "\/media\/12318172\/elix.png",
+                    "Url": "\/coins\/elix\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 198983,
+                    "Name": "Bitcore",
+                    "FullName": "Bitcore (BTX)",
+                    "ImageUrl": "\/media\/1383895\/btx.png",
+                    "Url": "\/coins\/btx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341059,
+                    "Name": "Monaize",
+                    "FullName": "Monaize (MNZ)",
+                    "ImageUrl": "\/media\/12318336\/mnz.png",
+                    "Url": "\/coins\/mnz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 372369,
+                    "Name": "Raiden Network",
+                    "FullName": "Raiden Network (RDN*)",
+                    "ImageUrl": "\/media\/14913482\/rdn.png",
+                    "Url": "\/coins\/rdnstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 677473,
+                    "Name": "2CDCF0C1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677473\/a3af6fa7-fac6-4940-9f2e-832db62c4ddf.jpg",
+                    "Url": "\/profile\/2CDCF0C1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674643,
+                    "Name": "jooston",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674643\/e6670cf6-b52c-4981-b3f2-d4092150ed54.jpg",
+                    "Url": "\/profile\/jooston\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 602699,
+                    "Name": "paulp_73",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/602699\/8521e587-9568-42e8-9424-2d956fd67434.jpg",
+                    "Url": "\/profile\/paulp_73\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 607121,
+                    "Name": "jure.vranicar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/607121\/ead3ffe9-96c9-4619-b622-c4dd0e9e55eb.jpg",
+                    "Url": "\/profile\/jure.vranicar\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 163917,
+                    "Name": "vykhoryev",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/163917\/84b57538-508b-4bb5-974d-f6bd788c0469.jpg",
+                    "Url": "\/profile\/vykhoryev\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 651067,
+                    "Name": "laurencewolf",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/651067\/be453526-4d60-44d4-8016-3357a83d73eb.jpg",
+                    "Url": "\/profile\/laurencewolf\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 472090,
+                    "Name": "pheng0617",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/472090\/6828fa3d-9241-4c92-be14-3a30f2fa2f5b.jpg",
+                    "Url": "\/profile\/pheng0617\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 198545,
+                    "Name": "park.zon.orion",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/198545\/6b378963-32d0-4dbe-a8c2-3b143ddc317d.jpg",
+                    "Url": "\/profile\/park.zon.orion\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 176215,
+                    "Name": "Block-Badger",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/176215\/98843f41-4069-44ed-99c8-a7ee24f546d0.jpg",
+                    "Url": "\/profile\/Block-Badger\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 399735,
+                    "Name": "zwljt855",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/399735\/2c9d5c29-0202-4c4b-9889-90694445cfe4.jpg",
+                    "Url": "\/profile\/zwljt855\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 7075,
+            "Posts": "69",
+            "Comments": "70",
+            "Followers": 186,
+            "PageViewsSplit": {
+                "Overview": 31012,
+                "Markets": 2987,
+                "Analysis": 922,
+                "Charts": 2165,
+                "Trades": 1148,
+                "Orderbook": 26,
+                "Forum": 1957,
+                "Influence": 209
+            },
+            "PageViews": 40426
+        },
+        "Twitter": {
+            "favourites": "77",
+            "statuses": 393,
+            "following": "252",
+            "account_creation": "1494509691",
+            "followers": 6485,
+            "name": "Hive Project",
+            "link": "https:\/\/twitter.com\/hiveproject_net",
+            "lists": 114,
+            "Points": 7055
+        },
+        "Reddit": {
+            "posts_per_hour": "0.03",
+            "link": "https:\/\/www.reddit.com\/r\/HiveProject_net\/",
+            "comments_per_hour": "0.85",
+            "posts_per_day": "0.79",
+            "active_users": 27,
+            "community_creation": "1496836922",
+            "subscribers": 851,
+            "name": "HiveProject_net",
+            "comments_per_day": 20.39,
+            "Points": 972
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "1626",
+            "name": "Hive Project",
+            "likes": 1768,
+            "link": "https:\/\/www.facebook.com\/HiveProject.net\/",
+            "Points": 1768
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "SUP",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000913",
+            "LASTUPDATE": "1429696941",
+            "LASTVOLUME": "98.41853591",
+            "LASTVOLUMETO": "0.00089856",
+            "LASTTRADEID": "50562",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.00000913",
+            "HIGHDAY": "0.00000913",
+            "LOWDAY": "0.00000913",
+            "OPEN24HOUR": "0.00000913",
+            "HIGH24HOUR": "0.00000913",
+            "LOW24HOUR": "0.00000913",
+            "LASTMARKET": "BitTrex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "SUP",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000913",
+                "LASTUPDATE": "1429696941",
+                "LASTVOLUME": "98.41853591",
+                "LASTVOLUMETO": "0.00089856",
+                "LASTTRADEID": "50562",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000913",
+                "HIGH24HOUR": "0.00000913",
+                "LOW24HOUR": "0.00000913"
+            }
+        ]
+    },
+    "Type": 100
+}

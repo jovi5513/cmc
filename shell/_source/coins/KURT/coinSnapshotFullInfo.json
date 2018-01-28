@@ -1,0 +1,87 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Kurrent (KURT) - Live streaming prices and market cap",
+            "PageDescription": "Live Kurrent prices from all markets and KURT coin market Capitalization. Stay up to date with the latest Kurrent price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/352155\/kurt.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "34602",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Kurrent (KURT)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "KURT",
+            "Url": "\/coins\/kurt\/",
+            "BaseAngularUrl": "\/coins\/kurt\/",
+            "Name": "Kurrent",
+            "ImageUrl": "\/media\/352155\/kurt.png",
+            "Description": "<p>Kurrent is a Proof of Work cryptocurrency that uses zero knowledge proofs to provide anonymous transactions. It&#39;s the first zk cryptocurrency to add random bonus blocks in order to create a fun mining enviroment. Kurrent uses the X11 algorithm.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "228000000",
+            "Algorithm": "X11",
+            "ProofType": "PoW",
+            "StartDate": "06\/12\/2016",
+            "Twitter": "@Kurrent_Project",
+            "AffiliateUrl": "http:\/\/kurrentproject.com\/",
+            "Website": "<a href='http:\/\/kurrentproject.com\/' target='_blank'>Kurrent<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926578,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 61364813,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~KURT~BTC",
+            "2~Cryptopia~KURT~DOGE",
+            "2~Cryptopia~KURT~LTC",
+            "2~Cryptopia~KURT~BTC",
+            "2~Yobit~KURT~WAVES",
+            "2~Novaexchange~KURT~BTC",
+            "2~Cryptopia~KURT~UNO",
+            "2~Cryptopia~KURT~XMR",
+            "2~Cryptopia~KURT~DOT",
+            "2~Cryptopia~KURT~FTC",
+            "2~Yobit~KURT~RUR",
+            "2~Yobit~KURT~ETH",
+            "2~Yobit~KURT~USD",
+            "2~Yobit~KURT~DOGE",
+            "2~Novaexchange~KURT~ETH"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~KURT~BTC~2~0.00000453~1515949494~10000~0.0453~1515949494.005~233566.82685061~1.1578175579927135~285669.23608933005~1.4025570779927137~0.00000487~0.00000549~0.00000247~0.00000472~0.00000549~0.00000425~Cryptopia~7ffe9",
+            "5~CCCAGG~KURT~DOGE~4~1.00000104~1515734253~66.01273051~66.01279916323972~200000002~0~0~0~0~1~1.00000104~1~1.00000104~1.00000104~1.00000104~Yobit~7ffe9",
+            "5~CCCAGG~KURT~LTC~4~0.00025399~1515196444~52.28878468~0.01328083~1515196444~0~0~0~0~0.00025399~0.00025399~0.00025399~0.00025399~0.00025399~0.00025399~Cryptopia~7ffe9",
+            "5~CCCAGG~KURT~WAVES~4~0.0000301~1513245481~50~0.001505~169391658~0~0~0~0~0.0000301~0.0000301~0.0000301~0.0000301~0.0000301~0.0000301~Yobit~7ffe9",
+            "5~CCCAGG~KURT~UNO~4~0.0008~1497991986~0.04642494~0.00003714~1497991986~0~0~0~0~0.0008~0.0008~0.0008~0.0008~0.0008~0.0008~Cryptopia~7ffe9",
+            "5~CCCAGG~KURT~XMR~4~0.000042~1485131125~10~0.00042~1485131125~0~0~0~0~0.000042~0.000042~0.000042~0.000042~0.000042~0.000042~Cryptopia~7ffe9",
+            "5~CCCAGG~KURT~DOT~4~4.5~1487741590~226.83288254~1020.747971~1487741590~0~0~0~0~4.5~4.5~4.5~4.5~4.5~4.5~Cryptopia~7ffe9",
+            "5~CCCAGG~KURT~FTC~4~0.01200001~1484457344~500~6.000005~1484457344.001~0~0~0~0~0.01200001~0.01200001~0.01200001~0.01200001~0.01200001~0.01200001~Cryptopia~7ffe9",
+            "5~CCCAGG~KURT~RUR~2~0.9001~1515927173~16.65815242~14.994002826660475~200000002~21.56599418~32.171448937582056~21.56599418~32.17144893758208~0.820001~3.5~0.820001~0.82~3.5~0.82~Yobit~7ffe9",
+            "5~CCCAGG~KURT~ETH~4~0.00000607~1515709828~17.73739635~0.00010766599584450001~200000000~0~0~0~0~0.00000607~0.00000607~0.00000607~0.00000607~0.00000607~0.00000607~Yobit~7ffe9",
+            "5~CCCAGG~KURT~USD~4~0.011~1515927099~16.65815242~0.1832416755982904~200000004~184.3358546~3.7832416750123006~184.3358546~3.7832416750123006~0.09~0.09~0.011~0.08999~0.08999~0.011~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

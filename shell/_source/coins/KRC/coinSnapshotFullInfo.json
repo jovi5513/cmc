@@ -1,0 +1,72 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "KRCoin (KRC) - Live streaming prices and market cap",
+            "PageDescription": "Live KRCoin prices from all markets and KRC coin market Capitalization. Stay up to date with the latest KRCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351755\/krc.png",
+            "OgImageWidth": "800",
+            "OgImageHeight": "800"
+        },
+        "General": {
+            "Id": "30379",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "KRCoin (KRC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "KRC",
+            "Url": "\/coins\/krc\/",
+            "BaseAngularUrl": "\/coins\/krc\/",
+            "Name": "KRCoin",
+            "ImageUrl": "\/media\/351755\/krc.png",
+            "Description": "<p>KRCoin is a Proof of Work cryptocurrency.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "",
+            "Algorithm": "X11",
+            "ProofType": "PoW",
+            "StartDate": "30\/06\/2016",
+            "Twitter": "",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~KRC~LTC",
+            "2~Cryptopia~KRC~DOGE",
+            "2~CCEX~KRC~DOGE",
+            "2~Cryptopia~KRC~LTC",
+            "2~Cryptopia~KRC~BTC",
+            "2~CCEX~KRC~USD",
+            "2~CCEX~KRC~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~KRC~LTC~4~3e-8~1505927006~761400.50861061~0.022842015258318298~1681733~0~0~0~0~3e-8~3e-8~3e-8~3e-8~3e-8~3e-8~CCEX~7ffe9",
+            "5~CCCAGG~KRC~DOGE~4~0.00020034~1505922537~72811.086~14.58697296924~1966576~0~0~0~0~0.00020034~0.00020034~0.00020034~0.00020034~0.00020034~0.00020034~CCEX~7ffe9",
+            "5~CCCAGG~KRC~BTC~4~1e-8~1505910760~47506~0.00047506~3162~0~0~0~0~1e-8~1e-8~1e-8~1e-8~1e-8~1e-8~CCEX~7ffe9",
+            "5~CCCAGG~KRC~USD~4~6.7e-7~1505918955~199.6~0.000133732~1701096~0~0~0~0~6.7e-7~6.7e-7~6.7e-7~6.7e-7~6.7e-7~6.7e-7~CCEX~7ffe9"
+        ]
+    },
+    "Type": 100
+}

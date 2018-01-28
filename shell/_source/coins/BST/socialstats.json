@@ -1,0 +1,183 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BST",
+            "CoinName": "BitStone",
+            "Type": "Webpagecoinp",
+            "Points": 889
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 30123,
+                    "Name": "CoffeeCoin",
+                    "FullName": "CoffeeCoin (CFC)",
+                    "ImageUrl": "\/media\/351732\/cfc.png",
+                    "Url": "\/coins\/cfc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7635,
+                    "Name": "Bob Coin",
+                    "FullName": "Bob Coin (BOB)",
+                    "ImageUrl": "\/media\/20207\/bob.png",
+                    "Url": "\/coins\/bob\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 314331,
+                    "Name": "Algo.Land",
+                    "FullName": "Algo.Land (PLM)",
+                    "ImageUrl": "\/media\/12318124\/plm.jpg",
+                    "Url": "\/coins\/plm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 646897,
+                    "Name": "DFSCoin",
+                    "FullName": "DFSCoin (DFS)",
+                    "ImageUrl": "\/media\/20780715\/dfs.png",
+                    "Url": "\/coins\/dfs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41590,
+                    "Name": "CryptoPennies",
+                    "FullName": "CryptoPennies (CRPS)",
+                    "ImageUrl": "\/media\/1382338\/crps.png",
+                    "Url": "\/coins\/crps\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 661398,
+                    "Name": "PumaPay",
+                    "FullName": "PumaPay (PMA)",
+                    "ImageUrl": "\/media\/20780758\/pma.png",
+                    "Url": "\/coins\/pma\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29713,
+                    "Name": "Invictus",
+                    "FullName": "Invictus (INV)",
+                    "ImageUrl": "\/media\/351682\/inv.png",
+                    "Url": "\/coins\/inv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28083,
+                    "Name": "CarterCoin",
+                    "FullName": "CarterCoin (CTC)",
+                    "ImageUrl": "\/media\/351496\/ctc.png",
+                    "Url": "\/coins\/ctc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28654,
+                    "Name": "Armory Coin",
+                    "FullName": "Armory Coin (ARM)",
+                    "ImageUrl": "\/media\/351545\/arm.png",
+                    "Url": "\/coins\/arm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29008,
+                    "Name": "Opair",
+                    "FullName": "Opair (XPO)",
+                    "ImageUrl": "\/media\/351590\/xpo.png",
+                    "Url": "\/coins\/xpo\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 415201,
+                    "Name": "serkanzurnaci57",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/415201\/42cac5c7-2680-4f5f-b86e-f6d6b281f6a0.jpg",
+                    "Url": "\/profile\/serkanzurnaci57\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 164801,
+                    "Name": "grine1988",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/164801\/1f103ee9-b4b2-439a-b551-464a4e9a04e2.jpg",
+                    "Url": "\/profile\/grine1988\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 71880,
+                    "Name": "officialchipiz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/71880\/d3bf7422-34bf-4d37-a627-1f7be4dd1f90.jpg",
+                    "Url": "\/profile\/officialchipiz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 48519,
+                    "Name": "wajidpk350",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/48519\/bc21d498-9a77-42b6-b556-77188ea765e4.jpg",
+                    "Url": "\/profile\/wajidpk350\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 19945,
+                    "Name": "heyrmanmaarten",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/19945\/7048b72a-7af8-4128-b7c6-ad91227a58c0.jpg",
+                    "Url": "\/profile\/heyrmanmaarten\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 15775,
+                    "Name": "weatherwars",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/15775\/4eb59a88-a335-495d-a01c-017064f439e5.jpg",
+                    "Url": "\/profile\/weatherwars\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 225,
+            "Posts": "2",
+            "Followers": 7,
+            "PageViewsSplit": {
+                "Overview": 568,
+                "Markets": 57,
+                "Analysis": 45,
+                "Charts": 32,
+                "Trades": 28,
+                "Orderbook": 0,
+                "Forum": 45,
+                "Influence": 18
+            },
+            "PageViews": 793
+        },
+        "Twitter": {
+            "following": "402",
+            "account_creation": "1430840493",
+            "favourites": "562",
+            "statuses": 683,
+            "followers": 449,
+            "name": "BitStone Developers",
+            "link": "https:\/\/twitter.com\/BitStone_Devs",
+            "lists": 43,
+            "Points": 664
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

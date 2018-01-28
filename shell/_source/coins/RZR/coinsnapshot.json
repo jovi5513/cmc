@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "RZR",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000789",
+            "LASTUPDATE": "1441284803",
+            "LASTVOLUME": "153.25237842",
+            "LASTVOLUMETO": "0.00120916",
+            "LASTTRADEID": "1353764",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.00000789",
+            "HIGHDAY": "0.00000789",
+            "LOWDAY": "0.00000789",
+            "OPEN24HOUR": "0.00000789",
+            "HIGH24HOUR": "0.00000789",
+            "LOW24HOUR": "0.00000789",
+            "LASTMARKET": "BitTrex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "RZR",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000789",
+                "LASTUPDATE": "1441284803",
+                "LASTVOLUME": "153.25237842",
+                "LASTVOLUMETO": "0.00120916",
+                "LASTTRADEID": "1353764",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000789",
+                "HIGH24HOUR": "0.00000789",
+                "LOW24HOUR": "0.00000789"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Coinse",
+                "FROMSYMBOL": "RZR",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00001016",
+                "LASTUPDATE": "1429012189",
+                "LASTVOLUME": "0.031472",
+                "LASTVOLUMETO": "3.2e-7",
+                "LASTTRADEID": "1429012189101",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00001016",
+                "HIGH24HOUR": "0.00001016",
+                "LOW24HOUR": "0.00001016"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "RZR",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00000453",
+                "LASTUPDATE": "1452708034",
+                "LASTVOLUME": "503.31971658",
+                "LASTVOLUMETO": "0.00228004",
+                "LASTTRADEID": "110906036",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000453",
+                "HIGH24HOUR": "0.00000453",
+                "LOW24HOUR": "0.00000453"
+            }
+        ]
+    },
+    "Type": 100
+}

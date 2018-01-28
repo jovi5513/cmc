@@ -1,0 +1,67 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Clockcoin (CKC) - Live streaming prices and market cap",
+            "PageDescription": "Live Clockcoin prices from all markets and CKC coin market Capitalization. Stay up to date with the latest Clockcoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351068\/ckc.png",
+            "OgImageWidth": "256",
+            "OgImageHeight": "256"
+        },
+        "General": {
+            "Id": "22207",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Clockcoin (CKC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "CKC",
+            "Url": "\/coins\/ckc\/",
+            "BaseAngularUrl": "\/coins\/ckc\/",
+            "Name": "Clockcoin",
+            "ImageUrl": "\/media\/351068\/ckc.png",
+            "Description": "<p><span>Clockcoin is a Scrypt PoW\/PoS cryptocurrency that allows fast and anonymous transactions worldwide. CKC was desiged to be a payment system, where the ammount of CKC is proportional to the time spent on the serivce you want to pay or are being paid for.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "525000000",
+            "Algorithm": "SHA256",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "05\/01\/2016",
+            "Twitter": "@clockcoin",
+            "AffiliateUrl": "http:\/\/myclint.us\/",
+            "Website": "<a href='http:\/\/myclint.us\/' target='_blank'>Clockcoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1430378527,
+            "DifficultyAdjustment": "DGW",
+            "BlockRewardReduction": "50%",
+            "BlockNumber": 274282,
+            "BlockTime": 1430375535,
+            "NetHashesPerSecond": 1013480586,
+            "TotalCoinsMined": 16662820,
+            "PreviousTotalCoinsMined": 16662810,
+            "BlockReward": 10
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~BitTrex~CKC~BTC",
+            "2~Cryptsy~CKC~XRP",
+            "2~Cryptsy~CKC~BTC",
+            "2~BTER~CKC~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~CKC~BTC~4~0.00000189~1483583092~266.117~0.00050296113~13848755~0~0~0~0~0.00000189~0.00000189~0.00000189~0.00000189~0.00000189~0.00000189~BTER~7ffe9",
+            "5~CCCAGG~CKC~XRP~4~0.03238925~1452807945~38.27199219~1.23960112~110942342~0~0~0.03238925~0.03238925~0.03238925~Cryptsy~78ce9"
+        ]
+    },
+    "Type": 100
+}

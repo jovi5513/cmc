@@ -1,0 +1,146 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PYC",
+            "CoinName": "PayCoin",
+            "Type": "Webpagecoinp",
+            "Points": 75
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 29711,
+                    "Name": "Craftcoin",
+                    "FullName": "Craftcoin (CRAFT)",
+                    "ImageUrl": "\/media\/351681\/craft.png",
+                    "Url": "\/coins\/craft\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32688,
+                    "Name": "NetBit",
+                    "FullName": "NetBit (NBIT)",
+                    "ImageUrl": "\/media\/351928\/nbit.png",
+                    "Url": "\/coins\/nbit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20980,
+                    "Name": "Nebuchadnezzar",
+                    "FullName": "Nebuchadnezzar (NEBU)",
+                    "ImageUrl": "\/media\/350990\/nebu.png",
+                    "Url": "\/coins\/nebu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5290,
+                    "Name": "BigCoin",
+                    "FullName": "BigCoin (HUGE)",
+                    "ImageUrl": "\/media\/20318\/huge.png",
+                    "Url": "\/coins\/huge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5359,
+                    "Name": "FriendshipCoin",
+                    "FullName": "FriendshipCoin (FSC2)",
+                    "ImageUrl": "\/media\/19717\/fsc.png",
+                    "Url": "\/coins\/fsc2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33004,
+                    "Name": "Midnight ",
+                    "FullName": "Midnight  (MDT)",
+                    "ImageUrl": "\/media\/351989\/mdt.png",
+                    "Url": "\/coins\/mdt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32785,
+                    "Name": "Zcrypt",
+                    "FullName": "Zcrypt (ZXT)",
+                    "ImageUrl": "\/media\/351936\/zxt.png",
+                    "Url": "\/coins\/zxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 13074,
+                    "Name": "CleverCoin",
+                    "FullName": "CleverCoin (CLV)",
+                    "ImageUrl": "\/media\/20727\/clv.png",
+                    "Url": "\/coins\/clv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4530,
+                    "Name": "GlyphCoin",
+                    "FullName": "GlyphCoin (GLYPH)",
+                    "ImageUrl": "\/media\/19725\/glyph.png",
+                    "Url": "\/coins\/glyph\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 68088,
+                    "Name": "IvugeoEvolutionCoin",
+                    "FullName": "IvugeoEvolutionCoin (IEC)",
+                    "ImageUrl": "\/media\/1383144\/wsx.png",
+                    "Url": "\/coins\/iec\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 74395,
+                    "Name": "dayveed24",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/74395\/a9902f5d-4388-47be-b009-cbb040f5baf8.jpg",
+                    "Url": "\/profile\/dayveed24\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 15784,
+                    "Name": "Tawix15",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/15784\/0d9d0ba8-8dfd-4d8b-b711-2123f20b9cb6.jpg",
+                    "Url": "\/profile\/Tawix15\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 377,
+                "Markets": 18,
+                "Analysis": 19,
+                "Charts": 32,
+                "Trades": 48,
+                "Orderbook": 0,
+                "Forum": 32,
+                "Influence": 15
+            },
+            "PageViews": 541
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

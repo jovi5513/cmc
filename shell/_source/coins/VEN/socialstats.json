@@ -1,0 +1,226 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "VEN",
+            "CoinName": "Vechain",
+            "Type": "Webpagecoinp",
+            "Points": 117506
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 112392,
+                    "Name": "QTUM",
+                    "FullName": "QTUM (QTUM)",
+                    "ImageUrl": "\/media\/1383382\/qtum.png",
+                    "Url": "\/coins\/qtum\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42433,
+                    "Name": "Private Instant Verified Transaction",
+                    "FullName": "Private Instant Verified Transaction (PIVX)",
+                    "ImageUrl": "\/media\/1382389\/pivx.png",
+                    "Url": "\/coins\/pivx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5039,
+                    "Name": "Bitshares",
+                    "FullName": "Bitshares (BTS)",
+                    "ImageUrl": "\/media\/20705\/bts.png",
+                    "Url": "\/coins\/bts\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 139467,
+                    "Name": "Civic",
+                    "FullName": "Civic (CVC)",
+                    "ImageUrl": "\/media\/1383611\/cvc.png",
+                    "Url": "\/coins\/cvc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338018,
+                    "Name": "HextraCoin",
+                    "FullName": "HextraCoin (HXT)",
+                    "ImageUrl": "\/media\/12318282\/hxt.png",
+                    "Url": "\/coins\/hxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 13280,
+                    "Name": "Factoids",
+                    "FullName": "Factoids (FCT)",
+                    "ImageUrl": "\/media\/1382863\/fct1.png",
+                    "Url": "\/coins\/fct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 16713,
+                    "Name": "Decred",
+                    "FullName": "Decred (DCR)",
+                    "ImageUrl": "\/media\/1382607\/decred.png",
+                    "Url": "\/coins\/dcr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 178978,
+                    "Name": "FunFair",
+                    "FullName": "FunFair (FUN)",
+                    "ImageUrl": "\/media\/1383738\/fun.png",
+                    "Url": "\/coins\/fun\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 339617,
+                    "Name": "Power Ledger",
+                    "FullName": "Power Ledger (POWR)",
+                    "ImageUrl": "\/media\/12318301\/powr.png",
+                    "Url": "\/coins\/powr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35165,
+                    "Name": "BitConnect Coin",
+                    "FullName": "BitConnect Coin (BCCOIN)",
+                    "ImageUrl": "\/media\/9350709\/bccoin1.png",
+                    "Url": "\/coins\/bccoin\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 162207,
+                    "Name": "ryan.dolder",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/162207\/a5c4e031-9f96-4893-a85d-0ce4d4c7e17f.jpg",
+                    "Url": "\/profile\/ryan.dolder\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 223456,
+                    "Name": "ladykellz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/223456\/dc767129-263b-4899-9928-528f706e8b8f.jpg",
+                    "Url": "\/profile\/ladykellz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 308884,
+                    "Name": "dougreid",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/308884\/f0522c38-01ca-4af5-80c5-fe0219e1cbd2.jpg",
+                    "Url": "\/profile\/dougreid\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 563120,
+                    "Name": "johnycage",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/563120\/6cd9fee1-83a2-4e75-8f15-789576f33a73.jpg",
+                    "Url": "\/profile\/johnycage\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676943,
+                    "Name": "nickkaplan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676943\/e4e3fa66-2730-47f2-a0ee-f780f722a6b3.jpg",
+                    "Url": "\/profile\/nickkaplan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 368393,
+                    "Name": "Pacman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/368393\/c4a1ebf0-fa78-41c6-9e2c-f16a94b7717c.jpg",
+                    "Url": "\/profile\/Pacman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 612743,
+                    "Name": "81CEA130",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/612743\/efca5d03-0f10-4eb5-a9f9-cf4fbc9196d8.jpg",
+                    "Url": "\/profile\/81CEA130\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 649506,
+                    "Name": "stephmccarthy5",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/649506\/cd4cbc06-e7a6-4ae4-97df-737a3810d66e.jpg",
+                    "Url": "\/profile\/stephmccarthy5\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 642026,
+                    "Name": "dschastl",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/642026\/6315578b-59d5-49ab-bb0a-6df378d631c5.jpg",
+                    "Url": "\/profile\/dschastl\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677020,
+                    "Name": "kosmonowt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677020\/7d1c80d1-43d7-4fe6-a6cf-82877787321f.jpg",
+                    "Url": "\/profile\/kosmonowt\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676882,
+                    "Name": "ca-10-",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676882\/c342c706-e9a3-4943-8328-f8a0988657e5.jpg",
+                    "Url": "\/profile\/ca-10-\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 15955,
+            "Posts": "36",
+            "Comments": "28",
+            "Followers": 591,
+            "PageViewsSplit": {
+                "Overview": 49515,
+                "Markets": 3098,
+                "Analysis": 1495,
+                "Charts": 6836,
+                "Trades": 1929,
+                "Orderbook": 10,
+                "Forum": 4186,
+                "Influence": 389
+            },
+            "PageViews": 67458
+        },
+        "Twitter": {
+            "favourites": "8",
+            "statuses": 140,
+            "following": "32",
+            "account_creation": "1505456408",
+            "followers": 58773,
+            "name": "VeChain Foundation",
+            "link": "https:\/\/twitter.com\/vechainofficial",
+            "lists": 390,
+            "Points": 60723
+        },
+        "Reddit": {
+            "posts_per_hour": "1.52",
+            "link": "https:\/\/www.reddit.com\/r\/Vechain\/",
+            "comments_per_hour": "115.90",
+            "posts_per_day": "36.53",
+            "active_users": 3229,
+            "community_creation": "1506540898",
+            "subscribers": 23886,
+            "name": "Vechain",
+            "comments_per_day": 2781.71,
+            "Points": 39136
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "564",
+            "name": "Vechain",
+            "likes": 1686,
+            "link": "https:\/\/www.facebook.com\/vechain\/",
+            "Points": 1686
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

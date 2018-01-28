@@ -1,0 +1,66 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "LGBTQ",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "2.4e-7",
+            "LASTUPDATE": "1516011538",
+            "LASTVOLUME": "500",
+            "LASTVOLUMETO": "0.00011999999999999999",
+            "LASTTRADEID": "200000022",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "500",
+            "VOLUME24HOURTO": "0.00012",
+            "OPENDAY": "2.4e-7",
+            "HIGHDAY": "2.4e-7",
+            "LOWDAY": "2.4e-7",
+            "OPEN24HOUR": "2.4e-7",
+            "HIGH24HOUR": "2.4e-7",
+            "LOW24HOUR": "2.4e-7",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "LGBTQ",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "2.4e-7",
+                "LASTUPDATE": "1516011538",
+                "LASTVOLUME": "500",
+                "LASTVOLUMETO": "0.00011999999999999999",
+                "LASTTRADEID": "200000022",
+                "VOLUME24HOUR": "500",
+                "VOLUME24HOURTO": "0.00012",
+                "OPEN24HOUR": "2.4e-7",
+                "HIGH24HOUR": "2.4e-7",
+                "LOW24HOUR": "2.4e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "LGBTQ",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00000262",
+                "LASTUPDATE": "1452807704",
+                "LASTVOLUME": "1350.08122215",
+                "LASTVOLUMETO": "0.00353721",
+                "LASTTRADEID": "110942260",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000262",
+                "HIGH24HOUR": "0.00000262",
+                "LOW24HOUR": "0.00000262"
+            }
+        ]
+    },
+    "Type": 100
+}

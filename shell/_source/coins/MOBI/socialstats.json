@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MOBI",
+            "CoinName": "Mobius",
+            "Type": "Webpagecoinp",
+            "Points": 9271
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5371,
+                    "Name": "HyperCoin",
+                    "FullName": "HyperCoin (HYPER)",
+                    "ImageUrl": "\/media\/19744\/hyper.png",
+                    "Url": "\/coins\/hyper\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 362627,
+                    "Name": "Avesta",
+                    "FullName": "Avesta (AVE)",
+                    "ImageUrl": "\/media\/14761937\/ave.png",
+                    "Url": "\/coins\/ave\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20591,
+                    "Name": "Ionomy",
+                    "FullName": "Ionomy (ION)",
+                    "ImageUrl": "\/media\/350933\/ion.jpg",
+                    "Url": "\/coins\/ion\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 516982,
+                    "Name": "Super Bitcoin",
+                    "FullName": "Super Bitcoin (SBTC)",
+                    "ImageUrl": "\/media\/16746666\/sbtc.png",
+                    "Url": "\/coins\/sbtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 249821,
+                    "Name": "AdCoin",
+                    "FullName": "AdCoin (ACC)",
+                    "ImageUrl": "\/media\/9350776\/acc.jpg",
+                    "Url": "\/coins\/acc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5313,
+                    "Name": "FairCoin",
+                    "FullName": "FairCoin (FAIR)",
+                    "ImageUrl": "\/media\/20287\/fair.png",
+                    "Url": "\/coins\/fair\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 319130,
+                    "Name": "ClearPoll",
+                    "FullName": "ClearPoll (POLL)",
+                    "ImageUrl": "\/media\/12318144\/poll.png",
+                    "Url": "\/coins\/poll\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35124,
+                    "Name": "Tokes",
+                    "FullName": "Tokes (TKS)",
+                    "ImageUrl": "\/media\/352207\/tks.jpg",
+                    "Url": "\/coins\/tks\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4527,
+                    "Name": "GlobalCoin",
+                    "FullName": "GlobalCoin (GLC)",
+                    "ImageUrl": "\/media\/19724\/glc.png",
+                    "Url": "\/coins\/glc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 177831,
+                    "Name": "DAO.casino",
+                    "FullName": "DAO.casino (BET*)",
+                    "ImageUrl": "\/media\/1383729\/bet.png",
+                    "Url": "\/coins\/betstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 466409,
+                    "Name": "RobinNguyen",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/466409\/4052ca60-30d3-4c4f-9565-81b98431ae11.jpg",
+                    "Url": "\/profile\/RobinNguyen\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670063,
+                    "Name": "chris.dejosselin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670063\/3333d8ce-54da-4e52-b68f-d0187650702f.jpg",
+                    "Url": "\/profile\/chris.dejosselin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 583596,
+                    "Name": "cdkrzy",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/583596\/b7e5479b-aa68-4f29-80fc-4862ca46b7b2.jpg",
+                    "Url": "\/profile\/cdkrzy\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 377643,
+                    "Name": "tarmo888",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/377643\/84e464c3-1444-433d-be66-754c381d6a9a.jpg",
+                    "Url": "\/profile\/tarmo888\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 619042,
+                    "Name": "sql.alp",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/619042\/1ed6b065-5bde-429e-a822-55b27a0ed483.jpg",
+                    "Url": "\/profile\/sql.alp\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 270697,
+                    "Name": "sensai2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/270697\/64ac0923-c0b0-42dc-84d8-544d82f0fef6.jpg",
+                    "Url": "\/profile\/sensai2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 261209,
+                    "Name": "saliamonte",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/261209\/4265e0a4-a534-4a0b-99c6-d99b571d023f.jpg",
+                    "Url": "\/profile\/saliamonte\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 629439,
+                    "Name": "julesjjones",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/629439\/2cfee0d9-e404-4a25-ae75-39699e8aee6c.jpg",
+                    "Url": "\/profile\/julesjjones\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 60029,
+                    "Name": "Drabs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/60029\/adcc1c30-9ee3-4442-b348-f5c0cf159002.jpg",
+                    "Url": "\/profile\/Drabs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 549199,
+                    "Name": "jamiciapayne",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/549199\/f58392a6-1ebc-4cbe-be2a-d7003a794a03.jpg",
+                    "Url": "\/profile\/jamiciapayne\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 645168,
+                    "Name": "spinz923",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/645168\/24f16086-5701-4b43-b662-b84e4128c6d2.jpg",
+                    "Url": "\/profile\/spinz923\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1730,
+            "Posts": "3",
+            "Comments": "3",
+            "Followers": 65,
+            "PageViewsSplit": {
+                "Overview": 9090,
+                "Markets": 163,
+                "Analysis": 337,
+                "Charts": 102,
+                "Trades": 33,
+                "Orderbook": 11,
+                "Forum": 182,
+                "Influence": 117
+            },
+            "PageViews": 10035
+        },
+        "Twitter": {
+            "favourites": "622",
+            "statuses": 276,
+            "following": "42",
+            "account_creation": "1498788376",
+            "followers": 5933,
+            "name": "Mobius",
+            "link": "https:\/\/twitter.com\/mobius_network",
+            "lists": 85,
+            "Points": 6358
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "481",
+            "name": "Mobius",
+            "likes": 1182,
+            "link": "https:\/\/www.facebook.com\/mobiusnet\/",
+            "Points": 1182
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

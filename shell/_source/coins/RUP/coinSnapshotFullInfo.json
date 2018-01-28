@@ -1,0 +1,87 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Rupee (RUP) - Live Rupee price and market cap",
+            "PageDescription": "Live Rupee prices from all markets and RUP coin market Capitalization. Stay up to date with the latest Rupee price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell Rupee.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/12318363\/rup.jpg",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "345801",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Rupee (RUP)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "RUP",
+            "Url": "\/coins\/rup\/",
+            "BaseAngularUrl": "\/coins\/rup\/",
+            "Name": "Rupee",
+            "ImageUrl": "\/media\/12318363\/rup.jpg",
+            "Description": "<p>Rupee is a blockchain based cryptocurrency that uses peer-to-peer network to enable digital exchanges instantly. Rupee uses an altered version of the Scrypt Proof of Work mining algorithm, initially created for an online backup service\u00a0named Tarsnap. The Scrypt algorithm is a \u2018password-based key derivation function\u2019, meaning that it infers a key from a password. Rupee chose to use Scrypt mining because it\u2019s more suitable for a general purpose processor, as opposed to ASICs mining hardware.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "84000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "04\/05\/2017",
+            "Twitter": "@CryptoRupeeRUP",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515969936,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 37698,
+            "BlockTime": 150,
+            "NetHashesPerSecond": 109234603567,
+            "TotalCoinsMined": 22884850,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~RUP~ESP2",
+            "2~Yobit~RUP~RUR",
+            "2~Novaexchange~RUP~BTC",
+            "2~Cryptopia~RUP~LTC",
+            "2~Novaexchange~RUP~DOGE",
+            "2~Cryptopia~RUP~BTC",
+            "2~Cryptopia~RUP~DOGE",
+            "2~Yobit~RUP~USD",
+            "2~Novaexchange~RUP~KIC",
+            "2~Novaexchange~RUP~LTC",
+            "2~Novaexchange~RUP~ETH",
+            "2~Yobit~RUP~ETH",
+            "2~Yobit~RUP~WAVES",
+            "2~Novaexchange~RUP~MOON",
+            "2~Yobit~RUP~BTC",
+            "2~Yobit~RUP~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~RUP~ESP2~4~1990.09999975~1502967452~0.00571429~11.37200852757143~1502967452000~0~0~0~0~1990.09999975~1990.09999975~1990.09999975~1990.09999975~1990.09999975~1990.09999975~Novaexchange~7ffe9",
+            "5~CCCAGG~RUP~RUR~4~55.01000002~1515615551~2.40146415~132.10454293952927~183755871~0~0~0~0~55.01~55.01000002~55.01~55.01000002~55.01000002~55.01000002~Yobit~7ffe9",
+            "5~CCCAGG~RUP~BTC~2~0.00004622~1515977790~2251.67133315~0.07430515399395~200000230~6185.230300109999~0.21374810610643663~220474.84285868~11.024279496147972~0.00004719~0.00004805~0.00003289~0.00005057~0.00005291~0.00004309~Yobit~7ffe9",
+            "5~CCCAGG~RUP~LTC~4~0.0014~1515196707~7.22452681~0.01011434~1515196707~0~0~0~0~0.0014~0.0014~0.0014~0.0014~0.0014~0.0014~Cryptopia~7ffe9",
+            "5~CCCAGG~RUP~DOGE~4~75~1515567688~385.82621901~28936.96642575~183366129~0~0~0~0~75~75~75~75~75~75~Yobit~7ffe9",
+            "5~CCCAGG~RUP~USD~4~0.787~1515965196~0.5~0.3935~200000007~0~0~0.62833545~0.49449999915~0.787~0.787~0.787~0.787~0.787~0.787~Yobit~7ffe9",
+            "5~CCCAGG~RUP~KIC~4~2.24999997~1505785020~0.22222222~0.4999999883333334~1505785020000~0~0~0~0~2.24999997~2.24999997~2.24999997~2.24999997~2.24999997~2.24999997~Novaexchange~7ffe9",
+            "5~CCCAGG~RUP~ETH~4~0.0007101~1515928810~60~0.0426054~184349643~0~0~60~0.0426054~0.0007101~0.0007101~0.0007101~0.0007101~0.0007101~0.0007101~Yobit~7ffe9",
+            "5~CCCAGG~RUP~WAVES~4~0.02704467~1515348467~21.91735361~0.5927475956557586~181625228~0~0~0~0~0.02704~0.02704467~0.02704~0.02704467~0.02704467~0.02704467~Yobit~7ffe9",
+            "5~CCCAGG~RUP~MOON~4~700~1501404908~0.14285714~99.99999799999999~1501404908000~0~0~0~0~700~700~700~700~700~700~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

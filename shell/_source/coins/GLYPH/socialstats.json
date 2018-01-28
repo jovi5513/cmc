@@ -1,0 +1,146 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GLYPH",
+            "CoinName": "GlyphCoin",
+            "Type": "Webpagecoinp",
+            "Points": 75
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5359,
+                    "Name": "FriendshipCoin",
+                    "FullName": "FriendshipCoin (FSC2)",
+                    "ImageUrl": "\/media\/19717\/fsc.png",
+                    "Url": "\/coins\/fsc2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4591,
+                    "Name": "PayCoin",
+                    "FullName": "PayCoin (PYC)",
+                    "ImageUrl": "\/media\/19878\/pyc.png",
+                    "Url": "\/coins\/pyc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33004,
+                    "Name": "Midnight ",
+                    "FullName": "Midnight  (MDT)",
+                    "ImageUrl": "\/media\/351989\/mdt.png",
+                    "Url": "\/coins\/mdt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32785,
+                    "Name": "Zcrypt",
+                    "FullName": "Zcrypt (ZXT)",
+                    "ImageUrl": "\/media\/351936\/zxt.png",
+                    "Url": "\/coins\/zxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 13074,
+                    "Name": "CleverCoin",
+                    "FullName": "CleverCoin (CLV)",
+                    "ImageUrl": "\/media\/20727\/clv.png",
+                    "Url": "\/coins\/clv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 68088,
+                    "Name": "IvugeoEvolutionCoin",
+                    "FullName": "IvugeoEvolutionCoin (IEC)",
+                    "ImageUrl": "\/media\/1383144\/wsx.png",
+                    "Url": "\/coins\/iec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 79849,
+                    "Name": "Degas Coin",
+                    "FullName": "Degas Coin (DEA)",
+                    "ImageUrl": "\/media\/1383264\/dea.png",
+                    "Url": "\/coins\/dea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 620037,
+                    "Name": "Bytether\u200a",
+                    "FullName": "Bytether\u200a (BTH)",
+                    "ImageUrl": "\/media\/20780656\/bth.png",
+                    "Url": "\/coins\/bth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4543,
+                    "Name": "JunkCoin",
+                    "FullName": "JunkCoin (JKC)",
+                    "ImageUrl": "\/media\/19757\/jkc.png",
+                    "Url": "\/coins\/jkc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7580,
+                    "Name": "Charity Coin",
+                    "FullName": "Charity Coin (CHA)",
+                    "ImageUrl": "\/media\/19986\/a3c.png",
+                    "Url": "\/coins\/cha\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 429897,
+                    "Name": "nipresaphe",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/429897\/d0a875af-d0e1-4dd2-91a2-5334ba04130d.jpg",
+                    "Url": "\/profile\/nipresaphe\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 323081,
+                    "Name": "slammminsammmy79",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/323081\/32a158f1-24c7-48ad-922c-c10d24a7250b.jpg",
+                    "Url": "\/profile\/slammminsammmy79\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 250,
+                "Markets": 10,
+                "Analysis": 49,
+                "Charts": 26,
+                "Trades": 27,
+                "Orderbook": 0,
+                "Forum": 36,
+                "Influence": 8
+            },
+            "PageViews": 406
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

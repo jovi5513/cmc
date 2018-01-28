@@ -1,0 +1,227 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SNK",
+            "CoinName": "Sosnovkino",
+            "Type": "Webpagecoinp",
+            "Points": 3150
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4441,
+                    "Name": "Emerald",
+                    "FullName": "Emerald (EMD)",
+                    "ImageUrl": "\/media\/20278\/emd.png",
+                    "Url": "\/coins\/emd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38959,
+                    "Name": "Astral",
+                    "FullName": "Astral (AST*)",
+                    "ImageUrl": "\/media\/1382170\/ast.png",
+                    "Url": "\/coins\/aststar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 375396,
+                    "Name": "Project Zephyr",
+                    "FullName": "Project Zephyr (ZEPH)",
+                    "ImageUrl": "\/media\/14913542\/zeph.png",
+                    "Url": "\/coins\/zeph\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4448,
+                    "Name": "FIBRE",
+                    "FullName": "FIBRE (FIBRE)",
+                    "ImageUrl": "\/media\/20030\/fibre.png",
+                    "Url": "\/coins\/fibre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 53174,
+                    "Name": "Netko",
+                    "FullName": "Netko (NETKO)",
+                    "ImageUrl": "\/media\/1382771\/netko.png",
+                    "Url": "\/coins\/netko\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6117,
+                    "Name": "Crypto",
+                    "FullName": "Crypto (CTO)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/cto\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 382536,
+                    "Name": "Masari",
+                    "FullName": "Masari (MSR)",
+                    "ImageUrl": "\/media\/14913574\/msr.png",
+                    "Url": "\/coins\/msr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42843,
+                    "Name": "BitzCoin",
+                    "FullName": "BitzCoin (BTZ)",
+                    "ImageUrl": "\/media\/1382433\/btz.png",
+                    "Url": "\/coins\/btz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29374,
+                    "Name": "RCoin",
+                    "FullName": "RCoin (RCN*)",
+                    "ImageUrl": "\/media\/351634\/rcn.png",
+                    "Url": "\/coins\/rcnstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4399,
+                    "Name": "BitBar",
+                    "FullName": "BitBar (BTB)",
+                    "ImageUrl": "\/media\/20083\/bitb.png",
+                    "Url": "\/coins\/btb\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 305303,
+                    "Name": "Ramunas.maci",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/305303\/1433f9f3-4327-445a-b976-09acfc9edd2d.jpg",
+                    "Url": "\/profile\/Ramunas.maci\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 311452,
+                    "Name": "crisletada",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/311452\/4013d2c3-3ef1-4dbb-ac38-5a608d6ef11f.jpg",
+                    "Url": "\/profile\/crisletada\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 226032,
+                    "Name": "mnsor",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/226032\/8084f42f-e71a-4b02-adc0-d271e5181e9b.png",
+                    "Url": "\/profile\/mnsor\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 125759,
+                    "Name": "dselling",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/125759\/be9a234d-aac2-418e-8c7e-a750bc77ccce.jpg",
+                    "Url": "\/profile\/dselling\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 215153,
+                    "Name": "gebelz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/215153\/a9455de4-88d2-425f-ac41-636089e05e7c.jpg",
+                    "Url": "\/profile\/gebelz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 199535,
+                    "Name": "suiody",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/199535\/759f5c35-8804-4ab6-b4c3-70837df61fcb.jpg",
+                    "Url": "\/profile\/suiody\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 203926,
+                    "Name": "vadim.matykin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/203926\/dca7f8b5-aee9-41cc-8d2b-db94779603ee.jpg",
+                    "Url": "\/profile\/vadim.matykin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 202064,
+                    "Name": "oks.suslova",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/202064\/3ac5d324-72be-40f7-8393-9d6eb3ff373f.jpg",
+                    "Url": "\/profile\/oks.suslova\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 201666,
+                    "Name": "solgav",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/201666\/db4a98f2-aed7-4afb-8801-584550ac343f.jpg",
+                    "Url": "\/profile\/solgav\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 9,
+            "Posts": "1",
+            "Comments": "2",
+            "Points": 270,
+            "PageViewsSplit": {
+                "Overview": 739,
+                "Markets": 24,
+                "Analysis": 10,
+                "Charts": 3,
+                "Trades": 11,
+                "Orderbook": 1,
+                "Forum": 19,
+                "Influence": 18
+            },
+            "PageViews": 825
+        },
+        "Twitter": {
+            "favourites": "2",
+            "lists": 7,
+            "statuses": 59,
+            "following": "419",
+            "account_creation": "1496735277",
+            "name": "Sosnovkino ICO",
+            "followers": 2840,
+            "link": "https:\/\/twitter.com\/Sosnovkino_ico",
+            "Points": 2875
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/sosnovkinoico\/code",
+                    "forks": 0,
+                    "last_update": "1504829129",
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "size": "19",
+                    "created_at": "1500279947",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "null",
+                    "open_total_issues": "0",
+                    "last_push": "1500996739",
+                    "stars": 2
+                }
+            ],
+            "Points": 5
+        }
+    }
+}

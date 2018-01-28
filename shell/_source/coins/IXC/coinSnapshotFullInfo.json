@@ -1,0 +1,89 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "IXcoin (IXC) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "Ixcoin (IXC) is a fork of Bitcoin with twice the inflation rate of 96 Ixcoins per block and the same 21 million total limit. Ixcoin is intended to closely mirror code updates to Bitcoin to allow for easy interoperability with Bitcoin-related third party services and APIs.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19761\/ixc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4541",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "IXcoin (IXC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "IXC",
+            "Url": "\/coins\/ixc\/",
+            "BaseAngularUrl": "\/coins\/ixc\/",
+            "Name": "IXcoin",
+            "ImageUrl": "\/media\/19761\/ixc.png",
+            "Description": "<p>Ixcoin (IXC) is a fork of Bitcoin with twice the inflation rate of 96 Ixcoins per block and the same 21 million total limit. Ixcoin is intended to closely mirror code updates to Bitcoin to allow for easy interoperability with Bitcoin-related third party services and APIs. IXCoin can be merge mined with bitcoin.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "21000000",
+            "Algorithm": "SHA256",
+            "ProofType": "PoW",
+            "StartDate": "10\/08\/2011",
+            "Twitter": "@Ixcoin",
+            "AffiliateUrl": "https:\/\/www.ixcoin.co\/",
+            "Website": "<a href='https:\/\/www.ixcoin.co\/' target='_blank'>IXcoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515980214,
+            "DifficultyAdjustment": "2016 blocks",
+            "BlockRewardReduction": "50%",
+            "BlockNumber": 422662,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 2.4665093211404e+15,
+            "TotalCoinsMined": 20999087.999,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~IXC~USD",
+            "2~Cryptopia~IXC~UNO",
+            "2~Cryptopia~IXC~XMR",
+            "2~Cryptopia~IXC~LTC",
+            "2~Cryptopia~IXC~DOGE",
+            "2~Yobit~IXC~BTC",
+            "2~Cryptopia~IXC~FTC",
+            "2~Yobit~IXC~DOGE",
+            "2~Cryptsy~IXC~BTC",
+            "2~Cryptsy~IXC~XRP",
+            "2~Yobit~IXC~RUR",
+            "2~Cryptopia~IXC~DOT",
+            "2~Yobit~IXC~WAVES",
+            "2~Cexio~IXC~BTC",
+            "2~Cryptopia~IXC~BTC",
+            "2~Yobit~IXC~ETH"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~IXC~USD~4~0.4~1515534567~0.01489782~0.005959128000000001~183139655~0~0~0~0~0.4~0.4~0.4~0.4~0.4~0.4~Yobit~7ffe9",
+            "5~CCCAGG~IXC~UNO~4~0.00166~1498084495~10~0.0166~1498084495~0~0~0~0~0.00166~0.00166~0.00166~0.00166~0.00166~0.00166~Cryptopia~7ffe9",
+            "5~CCCAGG~IXC~XMR~4~0.00000503~1488610231~6~0.00003~1488610231~0~0~0~0~0.00000503~0.00000503~0.00000503~0.00000503~0.00000503~0.00000503~Cryptopia~7ffe9",
+            "5~CCCAGG~IXC~LTC~4~0.00085551~1515196926~141.59785136~0.12113838~1515196926.002~0~0~0~0~0.0008555~0.00085551~0.0008555~0.00085551~0.00085551~0.00085551~Cryptopia~7ffe9",
+            "5~CCCAGG~IXC~DOGE~4~20.00000003~1515400419~2.23353384~44.670676867006016~182069748~0~0~0~0~20~20.00000003~20~20.00000003~20.00000003~20.00000003~Yobit~7ffe9",
+            "5~CCCAGG~IXC~BTC~1~0.00003412~1515979946~69.1673998~0.00235999~1515979946~1233.65912063~0.04213215~72779.71818092~2.8489051908373115~0.00003899~0.00003899~0.00003241~0.00004148~0.00004502~0.00003109~Cryptopia~7ffe9",
+            "5~CCCAGG~IXC~FTC~4~1.18899999~1485193183~5.74013056~6.825015~1485193183.003~0~0~0~0~1.18899999~1.18899999~1.18899999~1.18899999~1.18899999~1.18899999~Cryptopia~7ffe9",
+            "5~CCCAGG~IXC~XRP~4~7.00273239~1452817667~0.02658308~0.1861542~110945060~0~0~7.00273239~7.00273239~7.00273239~Cryptsy~78ce9",
+            "5~CCCAGG~IXC~RUR~4~10.00000101~1515686170~1~10.00000101~184264762~0~0~0~0~10~10.00000101~10~10.00000101~10.00000101~10.00000101~Yobit~7ffe9",
+            "5~CCCAGG~IXC~DOT~4~2~1488584930~1~2~1488584930~0~0~0~0~2~2~2~2~2~2~Cryptopia~7ffe9",
+            "5~CCCAGG~IXC~WAVES~4~1.9~1513727834~0.001~0.0019~171880027~0~0~0~0~1.9~1.9~1.9~1.9~1.9~1.9~Yobit~7ffe9",
+            "5~CCCAGG~IXC~ETH~4~0.01~1512490583~0.25928938~0.0025928938~165725150~0~0~0~0~0.01~0.01~0.01~0.01~0.01~0.01~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

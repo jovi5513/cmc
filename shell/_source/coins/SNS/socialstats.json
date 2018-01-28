@@ -1,0 +1,155 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SNS",
+            "CoinName": "Sense",
+            "Type": "Webpagecoinp",
+            "Points": 471
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4415,
+                    "Name": "CheckCoin",
+                    "FullName": "CheckCoin (CXC)",
+                    "ImageUrl": "\/media\/20246\/cxc.png",
+                    "Url": "\/coins\/cxc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21773,
+                    "Name": "XanaxCoin",
+                    "FullName": "XanaxCoin (XNX)",
+                    "ImageUrl": "\/media\/351033\/xnx.jpg",
+                    "Url": "\/coins\/xnx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4422,
+                    "Name": "Community Coin",
+                    "FullName": "Community Coin (COMM)",
+                    "ImageUrl": "\/media\/19661\/comm.png",
+                    "Url": "\/coins\/comm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44803,
+                    "Name": "EveryonesCoin",
+                    "FullName": "EveryonesCoin (EOC)",
+                    "ImageUrl": "\/media\/1382628\/eoc.png",
+                    "Url": "\/coins\/eoc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 586638,
+                    "Name": "BitAsean",
+                    "FullName": "BitAsean (BAS)",
+                    "ImageUrl": "\/media\/20780613\/bas.png",
+                    "Url": "\/coins\/bas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24887,
+                    "Name": "RustCoin",
+                    "FullName": "RustCoin (RUST)",
+                    "ImageUrl": "\/media\/351365\/rust.png",
+                    "Url": "\/coins\/rust\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 313988,
+                    "Name": "StockBet",
+                    "FullName": "StockBet (STOCKBET)",
+                    "ImageUrl": "\/media\/12318119\/stockbet.png",
+                    "Url": "\/coins\/stockbet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60618,
+                    "Name": "ArpaCoin",
+                    "FullName": "ArpaCoin (ARPA)",
+                    "ImageUrl": "\/media\/1382966\/arpa.png",
+                    "Url": "\/coins\/arpa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35228,
+                    "Name": "Procom",
+                    "FullName": "Procom (PCM)",
+                    "ImageUrl": "\/media\/352223\/pcm.png",
+                    "Url": "\/coins\/pcm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42435,
+                    "Name": "Klingon Empire Darsek",
+                    "FullName": "Klingon Empire Darsek (KED)",
+                    "ImageUrl": "\/media\/1382390\/ked.png",
+                    "Url": "\/coins\/ked\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 569953,
+                    "Name": "authenticfilms",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/569953\/26922f74-76fd-44b5-bdc6-731bde3edd10.jpg",
+                    "Url": "\/profile\/authenticfilms\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 524365,
+                    "Name": "D81C3400",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/524365\/1a3aa59a-3da3-427e-b850-49c57bd6c626.jpg",
+                    "Url": "\/profile\/D81C3400\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 17423,
+                    "Name": "Kanopt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/17423\/d9aa0e8f-c15a-435b-b257-0e0674a3a600.png",
+                    "Url": "\/profile\/Kanopt\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 100,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 140,
+                "Markets": 5,
+                "Analysis": 13,
+                "Charts": 8,
+                "Trades": 10,
+                "Orderbook": 0,
+                "Forum": 11,
+                "Influence": 10
+            },
+            "PageViews": 197
+        },
+        "Twitter": {
+            "followers": 346,
+            "following": "24",
+            "lists": 5,
+            "favourites": "5",
+            "statuses": 42,
+            "account_creation": "1462885811",
+            "name": "Sensus",
+            "link": "https:\/\/twitter.com\/sensusmobile",
+            "Points": 371
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

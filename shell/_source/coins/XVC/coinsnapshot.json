@@ -1,0 +1,72 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": "Whirlpool",
+        "ProofType": "PoS",
+        "BlockNumber": 882243,
+        "NetHashesPerSecond": 376097857668,
+        "TotalCoinsMined": 15379688.900162,
+        "BlockReward": 0.39147769229916,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "XVC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "1",
+            "PRICE": "0.00007663",
+            "LASTUPDATE": "1516090597",
+            "LASTVOLUME": "147.48762172",
+            "LASTVOLUMETO": "0.01003358",
+            "LASTTRADEID": "1017769",
+            "VOLUMEDAY": "144177.94127105008",
+            "VOLUMEDAYTO": "12.047262619999987",
+            "VOLUME24HOUR": "628724.1628112997",
+            "VOLUME24HOURTO": "53.935498749999994",
+            "OPENDAY": "0.00008885",
+            "HIGHDAY": "0.00009481",
+            "LOWDAY": "0.0000717",
+            "OPEN24HOUR": "0.00009015",
+            "HIGH24HOUR": "0.00009584",
+            "LOW24HOUR": "0.00007561",
+            "LASTMARKET": "Poloniex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "XVC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00010206",
+                "LASTUPDATE": "1516090575",
+                "LASTVOLUME": "84.61657657",
+                "LASTVOLUMETO": "0.00863596",
+                "LASTTRADEID": "12391574",
+                "VOLUME24HOUR": "159700.51457921",
+                "VOLUME24HOURTO": "17.70689471",
+                "OPEN24HOUR": "0.000117",
+                "HIGH24HOUR": "0.00011898",
+                "LOW24HOUR": "0.00010104"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Poloniex",
+                "FROMSYMBOL": "XVC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00006803",
+                "LASTUPDATE": "1516090597",
+                "LASTVOLUME": "147.48762172",
+                "LASTVOLUMETO": "0.01003358",
+                "LASTTRADEID": "1017769",
+                "VOLUME24HOUR": "469811.5170589797",
+                "VOLUME24HOURTO": "36.316070329999995",
+                "OPEN24HOUR": "0.00008106",
+                "HIGH24HOUR": "0.00008801",
+                "LOW24HOUR": "0.000067"
+            }
+        ]
+    },
+    "Type": 100
+}

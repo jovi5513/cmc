@@ -1,0 +1,182 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SAGA",
+            "CoinName": "SagaCoin",
+            "Type": "Webpagecoinp",
+            "Points": 949
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 6455,
+                    "Name": "Cerium",
+                    "FullName": "Cerium (XCE)",
+                    "ImageUrl": "\/media\/20573\/xce.png",
+                    "Url": "\/coins\/xce\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44952,
+                    "Name": "Solarflarecoin",
+                    "FullName": "Solarflarecoin (SFC)",
+                    "ImageUrl": "\/media\/1382639\/sfc.png",
+                    "Url": "\/coins\/sfc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188652,
+                    "Name": "BeachCoin",
+                    "FullName": "BeachCoin (SAND)",
+                    "ImageUrl": "\/media\/1383825\/beach.png",
+                    "Url": "\/coins\/sand\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4531,
+                    "Name": "GameLeagueCoin",
+                    "FullName": "GameLeagueCoin (GML)",
+                    "ImageUrl": "\/media\/19726\/gml.png",
+                    "Url": "\/coins\/gml\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5311,
+                    "Name": "KryptCoin",
+                    "FullName": "KryptCoin (KTK)",
+                    "ImageUrl": "\/media\/19771\/ktk.png",
+                    "Url": "\/coins\/ktk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 105206,
+                    "Name": "DuxCoin",
+                    "FullName": "DuxCoin (DUX)",
+                    "ImageUrl": "\/media\/1383364\/dux.png",
+                    "Url": "\/coins\/dux\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60424,
+                    "Name": "BlazerCoin",
+                    "FullName": "BlazerCoin (BLAZR)",
+                    "ImageUrl": "\/media\/1382946\/blazr.png",
+                    "Url": "\/coins\/blazr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 446051,
+                    "Name": "People",
+                    "FullName": "People (MAN)",
+                    "ImageUrl": "\/media\/16746574\/man.png",
+                    "Url": "\/coins\/man\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6095,
+                    "Name": "Quicksilver coin",
+                    "FullName": "Quicksilver coin (QSLV)",
+                    "ImageUrl": "\/media\/20404\/qslv.png",
+                    "Url": "\/coins\/qslv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 441616,
+                    "Name": "Relex",
+                    "FullName": "Relex (RLX)",
+                    "ImageUrl": "\/media\/16746570\/rlx.png",
+                    "Url": "\/coins\/rlx\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 410207,
+                    "Name": "fb.pxy993",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/410207\/d6e8eca4-b86b-4632-9860-bf28a1819f31.jpg",
+                    "Url": "\/profile\/fb.pxy993\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634040,
+                    "Name": "MProf",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634040\/47566bb9-586c-46cc-8ad9-ef7697d0e92a.jpg",
+                    "Url": "\/profile\/MProf\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 50,
+            "Followers": 2,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 99,
+                "Markets": 12,
+                "Analysis": 7,
+                "Charts": 10,
+                "Trades": 11,
+                "Orderbook": 0,
+                "Forum": 7,
+                "Influence": 10
+            },
+            "PageViews": 156
+        },
+        "Twitter": {
+            "following": "3",
+            "account_creation": "1511684901",
+            "name": "Saga Coin",
+            "lists": 14,
+            "favourites": "1",
+            "statuses": 11,
+            "followers": 658,
+            "link": "https:\/\/twitter.com\/Saga_Coin",
+            "Points": 728
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 123,
+            "link": "https:\/\/www.facebook.com\/Saga-Coin-1551093451615718\/",
+            "is_closed": "false",
+            "talking_about": "25",
+            "name": "Saga Coin",
+            "Points": 123
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1512201589",
+                    "open_total_issues": "3",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "2514",
+                    "closed_total_issues": "3",
+                    "stars": 10,
+                    "last_update": "1515117281",
+                    "forks": 7,
+                    "url": "https:\/\/github.com\/sagacrypto\/SagaCoin",
+                    "closed_issues": "1",
+                    "closed_pull_issues": "2",
+                    "fork": "false",
+                    "last_push": "1514940696",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "subscribers": 8,
+                    "language": "C++",
+                    "open_issues": "3"
+                }
+            ],
+            "Points": 48
+        }
+    }
+}

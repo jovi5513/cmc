@@ -1,0 +1,188 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CLINT",
+            "CoinName": "Clinton",
+            "Type": "Webpagecoinp",
+            "Points": 285
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 59966,
+                    "Name": "StarCredits",
+                    "FullName": "StarCredits (SRC*)",
+                    "ImageUrl": "\/media\/1382936\/src1.png",
+                    "Url": "\/coins\/srcstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22180,
+                    "Name": "ExitCoin",
+                    "FullName": "ExitCoin (EXIT)",
+                    "ImageUrl": "\/media\/351065\/exit.png",
+                    "Url": "\/coins\/exit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4342,
+                    "Name": "BoostCoin",
+                    "FullName": "BoostCoin (BOST)",
+                    "ImageUrl": "\/media\/19626\/bost.png",
+                    "Url": "\/coins\/bost\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5363,
+                    "Name": "MaryJane Coin",
+                    "FullName": "MaryJane Coin (MARYJ)",
+                    "ImageUrl": "\/media\/20343\/maryj.png",
+                    "Url": "\/coins\/maryj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5354,
+                    "Name": "CypherPunkCoin",
+                    "FullName": "CypherPunkCoin (CYP)",
+                    "ImageUrl": "\/media\/20248\/cyp.png",
+                    "Url": "\/coins\/cyp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6115,
+                    "Name": "SupplyShock",
+                    "FullName": "SupplyShock (M1)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/m1\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 221605,
+                    "Name": "Memessenger",
+                    "FullName": "Memessenger (MET)",
+                    "ImageUrl": "\/media\/1384013\/met1.png",
+                    "Url": "\/coins\/met\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 71873,
+                    "Name": "WarCoin",
+                    "FullName": "WarCoin (WRC*)",
+                    "ImageUrl": "\/media\/1383162\/wrc.png",
+                    "Url": "\/coins\/wrcstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29554,
+                    "Name": "BaseballCardCoin",
+                    "FullName": "BaseballCardCoin (BBCC)",
+                    "ImageUrl": "\/media\/351658\/bbcc.png",
+                    "Url": "\/coins\/bbcc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6112,
+                    "Name": "Singular",
+                    "FullName": "Singular (SIGU)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/sigu\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 456951,
+                    "Name": "sjohann04",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/456951\/b527dcbe-8913-44c5-a229-cd120327e5db.jpg",
+                    "Url": "\/profile\/sjohann04\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 227158,
+                    "Name": "shadi.x.dark",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/227158\/a07289e8-356f-4ab1-9633-712688f4067e.jpg",
+                    "Url": "\/profile\/shadi.x.dark\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Posts": "4",
+            "Points": 200,
+            "Followers": 4,
+            "PageViewsSplit": {
+                "Overview": 625,
+                "Markets": 27,
+                "Analysis": 37,
+                "Charts": 33,
+                "Trades": 23,
+                "Orderbook": 0,
+                "Forum": 22,
+                "Influence": 15
+            },
+            "PageViews": 782
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 79,
+            "is_closed": "false",
+            "talking_about": "0",
+            "name": "CLINT",
+            "link": "https:\/\/www.facebook.com\/CLINT-1252818338080654\/",
+            "Points": 79
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 2,
+                    "size": "4511",
+                    "url": "https:\/\/github.com\/abougadibou\/clinton-source",
+                    "last_update": "1460914738",
+                    "last_push": "1460914734",
+                    "created_at": "1460913895",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 6
+        }
+    }
+}

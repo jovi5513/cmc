@@ -1,0 +1,155 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CHILD",
+            "CoinName": "ChildCoin",
+            "Type": "Webpagecoinp",
+            "Points": 296
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 33526,
+                    "Name": "FistBump",
+                    "FullName": "FistBump (FIST)",
+                    "ImageUrl": "\/media\/352056\/fist.png",
+                    "Url": "\/coins\/fist\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38360,
+                    "Name": "DraculaCoin",
+                    "FullName": "DraculaCoin (DRA)",
+                    "ImageUrl": "\/media\/1382095\/dra.png",
+                    "Url": "\/coins\/dra\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29198,
+                    "Name": "Unfed Coin",
+                    "FullName": "Unfed Coin (UNF)",
+                    "ImageUrl": "\/media\/351626\/unf.png",
+                    "Url": "\/coins\/unf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645913,
+                    "Name": "PhilsCurrency",
+                    "FullName": "PhilsCurrency (PHILS)",
+                    "ImageUrl": "\/media\/20780702\/phils.png",
+                    "Url": "\/coins\/phils\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 453581,
+                    "Name": "BitCoal",
+                    "FullName": "BitCoal (COAL)",
+                    "ImageUrl": "\/media\/16746586\/coal.png",
+                    "Url": "\/coins\/coal\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4326,
+                    "Name": "Aegis",
+                    "FullName": "Aegis (AGS)",
+                    "ImageUrl": "\/media\/19595\/ags.png",
+                    "Url": "\/coins\/ags\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7480,
+                    "Name": "Droidz",
+                    "FullName": "Droidz (DRZ)",
+                    "ImageUrl": "\/media\/20259\/drz.png",
+                    "Url": "\/coins\/drz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5320,
+                    "Name": "Sonic Screw Driver Coin",
+                    "FullName": "Sonic Screw Driver Coin (SSD)",
+                    "ImageUrl": "\/media\/20443\/ssd.png",
+                    "Url": "\/coins\/ssd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22264,
+                    "Name": "InceptionCoin",
+                    "FullName": "InceptionCoin (INCP)",
+                    "ImageUrl": "\/media\/351078\/incp.png",
+                    "Url": "\/coins\/incp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33010,
+                    "Name": "PosEx",
+                    "FullName": "PosEx (PEX)",
+                    "ImageUrl": "\/media\/351992\/pex.png",
+                    "Url": "\/coins\/pex\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 16185,
+                    "Name": "Carre\u00f1o",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16185\/1cd02798-cc97-47df-a6a3-20de2a016431.png",
+                    "Url": "\/profile\/Carre\u00f1o\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 12283,
+                    "Name": "ninestakfa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/12283\/aab813a7-a7d4-4d9b-90b0-a9f6b05072c2.jpg",
+                    "Url": "\/profile\/ninestakfa\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 211,
+                "Markets": 11,
+                "Analysis": 27,
+                "Charts": 10,
+                "Trades": 8,
+                "Orderbook": 0,
+                "Forum": 27,
+                "Influence": 19
+            },
+            "PageViews": 313
+        },
+        "Twitter": {
+            "followers": 166,
+            "following": "229",
+            "lists": 11,
+            "favourites": "845",
+            "statuses": 924,
+            "account_creation": "1335283064",
+            "name": "X-Laboratories",
+            "link": "https:\/\/twitter.com\/XLaboratories",
+            "Points": 221
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

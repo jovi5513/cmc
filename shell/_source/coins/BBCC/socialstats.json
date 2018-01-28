@@ -1,0 +1,169 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BBCC",
+            "CoinName": "BaseballCardCoin",
+            "Type": "Webpagecoinp",
+            "Points": 195
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5354,
+                    "Name": "CypherPunkCoin",
+                    "FullName": "CypherPunkCoin (CYP)",
+                    "ImageUrl": "\/media\/20248\/cyp.png",
+                    "Url": "\/coins\/cyp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22191,
+                    "Name": "Clinton",
+                    "FullName": "Clinton (CLINT)",
+                    "ImageUrl": "\/media\/351067\/clint.png",
+                    "Url": "\/coins\/clint\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6115,
+                    "Name": "SupplyShock",
+                    "FullName": "SupplyShock (M1)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/m1\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 221605,
+                    "Name": "Memessenger",
+                    "FullName": "Memessenger (MET)",
+                    "ImageUrl": "\/media\/1384013\/met1.png",
+                    "Url": "\/coins\/met\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 71873,
+                    "Name": "WarCoin",
+                    "FullName": "WarCoin (WRC*)",
+                    "ImageUrl": "\/media\/1383162\/wrc.png",
+                    "Url": "\/coins\/wrcstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6112,
+                    "Name": "Singular",
+                    "FullName": "Singular (SIGU)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/sigu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 61066,
+                    "Name": "Dark",
+                    "FullName": "Dark (DARK)",
+                    "ImageUrl": "\/media\/1382995\/dark.png",
+                    "Url": "\/coins\/dark\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4546,
+                    "Name": "KeyCoin",
+                    "FullName": "KeyCoin (KEY)",
+                    "ImageUrl": "\/media\/20331\/key.png",
+                    "Url": "\/coins\/keystar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7484,
+                    "Name": "CryptoCircuits",
+                    "FullName": "CryptoCircuits (CIRC)",
+                    "ImageUrl": "\/media\/20603\/circ.png",
+                    "Url": "\/coins\/circ\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24885,
+                    "Name": "ExtremeCoin",
+                    "FullName": "ExtremeCoin (XT)",
+                    "ImageUrl": "\/media\/351364\/xt.png",
+                    "Url": "\/coins\/xt\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 559228,
+                    "Name": "2AA21E4D",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/559228\/c127ca34-bbec-4e64-ac85-6dea754795fa.jpg",
+                    "Url": "\/profile\/2AA21E4D\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 234939,
+                    "Name": "bendanglin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/234939\/151ef408-96d3-4741-8f69-3ef26f0f3ec4.jpg",
+                    "Url": "\/profile\/bendanglin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 190642,
+                    "Name": "ariqdariusdanial",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/190642\/77119418-72f8-4914-af15-111f19ca581d.jpg",
+                    "Url": "\/profile\/ariqdariusdanial\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 37286,
+                    "Name": "sokol89.spb",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/37286\/aeb69a3f-5ec7-4193-ab52-bd3c4cd07a3d.jpg",
+                    "Url": "\/profile\/sokol89.spb\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 175,
+            "Posts": "2",
+            "PageViewsSplit": {
+                "Overview": 3941,
+                "Markets": 70,
+                "Analysis": 39,
+                "Charts": 61,
+                "Trades": 37,
+                "Orderbook": 1,
+                "Forum": 29,
+                "Influence": 15
+            },
+            "PageViews": 4193
+        },
+        "Twitter": {
+            "lists": 1,
+            "favourites": "0",
+            "name": "BaseballCardCoin",
+            "statuses": 8,
+            "followers": 15,
+            "following": "61",
+            "link": "https:\/\/twitter.com\/BBCCTeam",
+            "account_creation": "1445897841",
+            "Points": 20
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

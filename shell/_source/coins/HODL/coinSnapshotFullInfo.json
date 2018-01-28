@@ -1,0 +1,78 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "HOdlcoin (HODL) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "Live HOdlcoin prices from all markets and HODL coin market capitalization. Stay up to date with the latest HOdlcoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell HODL.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350840\/hodl.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "18670",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "HOdlcoin (HODL)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "HODL",
+            "Url": "\/coins\/hodl\/",
+            "BaseAngularUrl": "\/coins\/hodl\/",
+            "Name": "HOdlcoin",
+            "ImageUrl": "\/media\/350840\/hodl.png",
+            "Description": "<p>HOdlcoin is just like Bitcoin, but it pays interest on every balance. This is to recognize the importance of HODLers and properly reward HODLing.<\/p><p>Very high interest rates (4000%+ APR) are paid in the first few months to attract early adopters to the project.<\/p><p><strong>Proof of Work<\/strong><\/p><p><span>1GB AES Pattern Search POW. Pattern Search involves filling up RAM with pseudo-random data, and then conducting a search for the start location of an AES encrypted data pattern in that data. Pattern Search is an evolution of the ProtoShares Momentum PoW, first used in MemoryCoin and later modified for use in CryptoNight(Monero,Bytecoin), Ethash(Ethereum). \u00a0CPU\/GPU friendly.<\/span><\/p><p><strong>Pools<\/strong><\/p><ul><li><a href=\"https:\/\/hodl.suprnova.cc\/\" target=\"_blank\" class=\"ul\">https:\/\/hodl.suprnova.cc\/<\/a><\/li><li><a href=\"https:\/\/hodl.maxminers.net\/\" target=\"_blank\" class=\"ul\">https:\/\/hodl.maxminers.net\/<\/a><\/li><li><a href=\"https:\/\/hodl.blockquarry.com\/\" target=\"_blank\" class=\"ul\">https:\/\/hodl.blockquarry.com\/<\/a><\/li><\/ul><p><strong>Paper Wallet<\/strong><\/p><ul><li><a href=\"http:\/\/hodlpaperwallets.tk\/\" target=\"_blank\" class=\"ul\">http:\/\/hodlpaperwallets.tk\/<\/a><\/li><\/ul><p><strong>Block Explorers<\/strong><\/p><ul><li><a href=\"http:\/\/hodl.presstab.pw\/\" target=\"_blank\" class=\"ul\">http:\/\/hodl.presstab.pw<\/a><\/li><li><a href=\"http:\/\/www.tekyexplorer.xyz\/hodl\/\" target=\"_blank\" class=\"ul\">http:\/\/www.tekyexplorer.xyz\/hodl\/<\/a><\/li><li><a href=\"http:\/\/coinofview.com\/coin\/HOdlcoin.html\" target=\"_blank\" class=\"ul\">http:\/\/coinofview.com\/coin\/HOdlcoin.html<\/a><\/li><\/ul>",
+            "Features": "<p><strong>Q: What is the official animal of HOdlcoin?<\/strong><\/p><p><span>The squirrel is the official animal of HOdlcoin. The squirrel is the animal kingdom&#39;s natural HOdler.<\/span><\/p><p><strong>Q: What is the official song of HOdlcoin?<\/strong><\/p><p>\"HODL California\" is the official song of HOdlcoin. You can check-out any time you like, but you can never leave.<\/p><p><strong>Q: How do I correctly capitalize HOdlcoin?<\/strong><\/p><p><span>HOdlcoin. <\/span><\/p><p><strong>Q: How do I correctly say HODL?<\/strong><\/p><p><span>HODL. It rhymes with Yodel. Yodeling is also the official musical style of HOdlcoin.<\/span><\/p><p><strong>Q: What is the smallest unit of HODL?<\/strong><\/p><p><span>The nut. There are 100,000,000 nuts in one HODL.<\/span><\/p><p><strong>Q: Why do you HODL?<\/strong><\/p><p><span>Because we suck at trading and we know we suck at trading\u00a0<\/span><span>if you can pit pat piffy wing wong wang make a milino bucks no problem bro then you don&#39;t need to hodl<\/span><\/p>",
+            "Technology": "<p><strong>Specifications<\/strong>:<\/p><ul><li><span>Subsidy: 50 HODL subsidy per block<\/span><\/li><li><span>Interest Supply: Between 150,000,000 and 500,000,000 HODL will be paid in interest to HODLers<\/span><\/li><li><span><span>Fair launch: No Premine\/Instamine\/Ninja\/100 initial 1 HODL blocks <\/span><\/span><\/li><li><span><span>Port: 1989<\/span><\/span><\/li><li><span><span>RPC Port: 11989<\/span><\/span><\/li><li><span><span>Testnet Port: 8989<\/span><\/span><\/li><li><span><span>Proof of Work: 1GB AES Pattern Search POW<\/span><\/span><\/li><li><span><span>Codebase: Bitcoin 0.11.2<\/span><\/span><\/li><\/ul><p><strong>Interest<\/strong><\/p><p><span>*NEW* Current Interest Rates and Page - <\/span><a href=\"http:\/\/hodlcoin.github.io\/\" target=\"_blank\" class=\"ul\">http:\/\/hodlcoin.github.io\/<\/a><\/p><p><strong>1. The Standard Interest Rate<\/strong><\/p><p><span>Interest is paid on regular balances (outputs), on every block, for a period of up to 30 days (561x30 blocks). The rate is \u00a00.0000002384185791015625% (1\/2^22). It&#39;s compounded every block, so the rate is\u00a0<\/span><span>approximately 5% APR. However, remember there is a maximum of 30 days, so to get that APR, you&#39;d need to log in each month and shuffle the HODL to a new address.<\/span><\/p><p><strong>2. Bonus Interest Rates<\/strong><\/p><p><span>To encourage early adoption, astronomical rates of interest are paid in the early months. The max rate is 0.0000152587890625 (1\/2^16). Compounded, the rate is 2174%. It&#39;s reduced every block by a multiplier - calculated like this =((409530-X)\/409530)^4 (X is the block where the balance is recorded as an output).<\/span><\/p><p><span>To calculate your bonus rate, you can use this formula.<\/span><\/p><p><span>Principal + (Standard Interest + (Bonus Interest * Bonus Multiplier)<\/span><\/p><p><span>Bonus rates<\/span><\/p><ul><li><span>Day \u00a00 ~ 2174%<\/span><\/li><li><span>Day 30 ~ 1881%<\/span><\/li><li><span>Day 60 ~ 1543%<\/span><\/li><li><span>Day 90 ~ 1317%<\/span><\/li><li><span>.<\/span><\/li><li><span>.<\/span><\/li><li><span>Day 660 ~ 0.230% APR<\/span><\/li><li><span>Day 690 ~ 0.029% APR<\/span><\/li><li><span>Day 730 ~ no bonus<\/span><\/li><\/ul><p><strong>3. Term Deposit Bonus<\/strong><\/p><p><span>If you lock an amount of HODL as a term deposit, you can also get a bonus on the interest. The longer the deposit, the bigger bonus. The bonus is just a multiplier of the interest, so if you locked up 100 HODL for 1 year, you&#39;d expect a return of 5 HODL. The term deposit bonus for 1 year is about 100% - so at the end of the term you&#39;d have 110 HODL (Capital 100 + Interest 5 + Term Deposit Bonus 5). See the chart for the multipliers, or use this formula - =(1-((409530-X)\/409530)^6)*100 \u00a0(X is the number of blocks to lock for, min 2 days, max 1 year)<\/span><\/p><p><span>So to calculate your full bonus return on a term deposit . . . it&#39;s<\/span><br \/><span>Principal + ((Standard Interest + (Bonus Interest * Bonus Multiplier))*Term Deposit Multiplier)<\/span><br \/><span><\/span><\/p><p><span>Term deposit Rates<\/span><\/p><ul><li><span>1 week term deposit ~ 5.6% bonus on interest<\/span><\/li><li><span>1 month term deposit ~ 22% bonus on interest<\/span><\/li><li><span>3 month term deposit ~ 55% bonus on interest<\/span><\/li><li><span>6 month term deposit ~ 82% bonus on interest<\/span><\/li><li><span>1 year term deposit ~ 98% bonus on interest<\/span><\/li><\/ul><p><span>n.b. When a Term Deposit matures, it stops earning interest - you must move it to start earning interest again.<\/span><\/p><p><span>n.b. Bonus rates are paid on regular balances too<\/span><\/p><p><span>n.b. The bonus rate is locked at the time of the transaction, the rate you can achieve reduces over time due to the multiplier, but once you&#39;re earning that bonus rate, it doesn&#39;t reduce.<\/span><\/p>",
+            "TotalCoinSupply": "81962100",
+            "Algorithm": "1GB AES Pattern Search",
+            "ProofType": "PoW",
+            "StartDate": "07\/01\/2016",
+            "Twitter": "@hodlcoin",
+            "AffiliateUrl": "http:\/\/www.hodlcoin.com\/",
+            "Website": "<a href='http:\/\/www.hodlcoin.com\/' target='_blank'>HOdlcoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1491411328,
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "Halving every 4 years",
+            "BlockNumber": 229076,
+            "BlockTime": 154,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 11448949,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 50
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~HODL~BTC",
+            "2~Yobit~HODL~RUR",
+            "2~CCEX~HODL~LTC",
+            "2~CCEX~HODL~DOGE",
+            "2~Yobit~HODL~ETH",
+            "2~CCEX~HODL~USD",
+            "2~Yobit~HODL~USD",
+            "2~Yobit~HODL~DOGE",
+            "2~CCEX~HODL~BTC",
+            "2~Yobit~HODL~WAVES"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~HODL~BTC~1~0.00000108~1515949255~411.75888962~0.0004446996007896~200000100~88201.82917399003~0.0911173266040713~262710.57093248~0.2676868387240306~0.00000103~0.00000108~0.00000103~9.6e-7~0.00000108~9.6e-7~Yobit~7ffe9",
+            "5~CCCAGG~HODL~RUR~4~0.76~1515947428~15.84550536~12.042584390510108~200000031~1900.91401998~1444.6947120537654~1900.9140199800001~1444.6947120537657~1.89~1.89~0.76~0.76~0.76~0.76~Yobit~7ffe9",
+            "5~CCCAGG~HODL~LTC~4~55~1459997707~0.00081818~0.044999899999999995~1459997707001~0~0~0~0~55~55~55~55~55~55~CCEX~7ffe9",
+            "5~CCCAGG~HODL~DOGE~4~2.49~1515937722~10~24.900000000000002~200000002~10~24.900000000000002~10~24.900000000000002~2.49~2.49~2.49~2.49~2.49~2.49~Yobit~7ffe9",
+            "5~CCCAGG~HODL~ETH~4~0.00001011~1515867969~500~0.005055~200000004~0~0~500~0.005055~0.00001011~0.00001011~0.00001011~0.00000654~0.00001011~0.00000654~Yobit~7ffe9",
+            "5~CCCAGG~HODL~USD~4~0.0243~1515940964~10~0.243~200000048~3675.17147906~88.51948741664316~24834.223403199998~595.699552600483~0.024~0.0243~0.024~0.01~0.0243~0.01~Yobit~7ffe9",
+            "5~CCCAGG~HODL~WAVES~4~0.00999~1514149787~8.000008~0.07992007992~174456139~0~0~0~0~0.00999~0.00999~0.00999~0.00999~0.00999~0.00999~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

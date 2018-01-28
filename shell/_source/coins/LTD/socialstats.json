@@ -1,0 +1,233 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "LTD",
+            "CoinName": "Limited Coin",
+            "Type": "Webpagecoinp",
+            "Points": 2987
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 199065,
+                    "Name": "GCoin",
+                    "FullName": "GCoin (GCN)",
+                    "ImageUrl": "\/media\/1383899\/gcn.png",
+                    "Url": "\/coins\/gcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35823,
+                    "Name": "Incent",
+                    "FullName": "Incent (INCNT)",
+                    "ImageUrl": "\/media\/352296\/incnt.png",
+                    "Url": "\/coins\/incnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 393656,
+                    "Name": "Viuly",
+                    "FullName": "Viuly (VIU)",
+                    "ImageUrl": "\/media\/14913680\/viu.png",
+                    "Url": "\/coins\/viu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8695,
+                    "Name": "Rimbit",
+                    "FullName": "Rimbit (RBT)",
+                    "ImageUrl": "\/media\/20407\/rbt.png",
+                    "Url": "\/coins\/rbt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 199107,
+                    "Name": "Cosmos",
+                    "FullName": "Cosmos (ATOM*)",
+                    "ImageUrl": "\/media\/1383901\/cosmos.jpg",
+                    "Url": "\/coins\/atomstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179990,
+                    "Name": "Rialto.AI",
+                    "FullName": "Rialto.AI (XRL)",
+                    "ImageUrl": "\/media\/1383754\/xrl.png",
+                    "Url": "\/coins\/xrl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 638634,
+                    "Name": "Bloom Token",
+                    "FullName": "Bloom Token (BLT)",
+                    "ImageUrl": "\/media\/20780668\/blt.png",
+                    "Url": "\/coins\/blt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 15869,
+                    "Name": " ClubCoin",
+                    "FullName": " ClubCoin (CLUB)",
+                    "ImageUrl": "\/media\/350609\/club.png",
+                    "Url": "\/coins\/club\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 84247,
+                    "Name": "MilkCoin",
+                    "FullName": "MilkCoin (MUU)",
+                    "ImageUrl": "\/media\/1383325\/muu.png",
+                    "Url": "\/coins\/muu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4411,
+                    "Name": "CryptoBullion",
+                    "FullName": "CryptoBullion (CBX)",
+                    "ImageUrl": "\/media\/20697\/cbx.png",
+                    "Url": "\/coins\/cbx\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 644440,
+                    "Name": "kayspb",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/644440\/0cbb18eb-dedf-4686-96ff-e00d64326ebe.jpg",
+                    "Url": "\/profile\/kayspb\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 638677,
+                    "Name": "freeonline2016",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/638677\/d06fbe29-92d5-4f5b-9d57-ad3ad6287fe4.jpg",
+                    "Url": "\/profile\/freeonline2016\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 409730,
+                    "Name": "Sirinelazig",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/409730\/1c1dad1f-ec73-4421-b6c2-cc8a951dee32.jpg",
+                    "Url": "\/profile\/Sirinelazig\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 623541,
+                    "Name": "orion015",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/623541\/49ec23f5-30fb-4192-905a-0cf4b966e683.jpg",
+                    "Url": "\/profile\/orion015\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 477890,
+                    "Name": "tobenson4luv",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/477890\/0e1f4f6d-c6f7-4fcf-8cfe-76f133b34968.jpg",
+                    "Url": "\/profile\/tobenson4luv\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 615057,
+                    "Name": "thelastottoman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/615057\/ba6728b4-a7ba-4567-b0f6-e0fb1fbd5e66.jpg",
+                    "Url": "\/profile\/thelastottoman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 483754,
+                    "Name": "yilmaz.alik",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/483754\/9fb00114-8ed0-490f-9226-b2e7cc6bd352.jpg",
+                    "Url": "\/profile\/yilmaz.alik\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 556799,
+                    "Name": "sami45417",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/556799\/ba2af694-e681-4ec4-a334-3b818f690d63.jpg",
+                    "Url": "\/profile\/sami45417\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 464450,
+                    "Name": "e-job",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/464450\/6f769f2c-fea9-423c-9aff-d79aafbe4730.jpg",
+                    "Url": "\/profile\/e-job\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 466313,
+                    "Name": "vanyagde",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/466313\/eac65442-25f1-4445-8cbc-308b1ff21491.jpg",
+                    "Url": "\/profile\/vanyagde\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 2980,
+            "Posts": "18",
+            "Comments": "3",
+            "Followers": 100,
+            "PageViewsSplit": {
+                "Overview": 25107,
+                "Markets": 1075,
+                "Analysis": 630,
+                "Charts": 815,
+                "Trades": 941,
+                "Orderbook": 30,
+                "Forum": 787,
+                "Influence": 198
+            },
+            "PageViews": 29583
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1441627903",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1442001557",
+                    "closed_total_issues": "0",
+                    "size": "46992",
+                    "stars": 0,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1441628249",
+                    "open_pull_issues": "0",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/LimitedCoin\/LimitedCoin",
+                    "closed_issues": "0",
+                    "open_issues": "0",
+                    "subscribers": 1,
+                    "language": "C++",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 5
+        }
+    }
+}

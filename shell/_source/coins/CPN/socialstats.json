@@ -1,0 +1,175 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CPN",
+            "CoinName": "CompuCoin",
+            "Type": "Webpagecoinp",
+            "Points": 6526
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 21775,
+                    "Name": "StarCoin",
+                    "FullName": "StarCoin (STAR*)",
+                    "ImageUrl": "\/media\/351043\/star.jpg",
+                    "Url": "\/coins\/starstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8694,
+                    "Name": "SmileyCoin",
+                    "FullName": "SmileyCoin (SMLY)",
+                    "ImageUrl": "\/media\/20429\/smly.png",
+                    "Url": "\/coins\/smly\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 61047,
+                    "Name": "ECOcoin",
+                    "FullName": "ECOcoin (ECO)",
+                    "ImageUrl": "\/media\/1382993\/eco.png",
+                    "Url": "\/coins\/eco\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28890,
+                    "Name": "Shilling",
+                    "FullName": "Shilling (SH)",
+                    "ImageUrl": "\/media\/351567\/sh.png",
+                    "Url": "\/coins\/sh\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28764,
+                    "Name": "BitCurrency",
+                    "FullName": "BitCurrency (BTCR)",
+                    "ImageUrl": "\/media\/351554\/btr.png",
+                    "Url": "\/coins\/btcr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4331,
+                    "Name": "ArchCoin",
+                    "FullName": "ArchCoin (ARCH)",
+                    "ImageUrl": "\/media\/20085\/arch.png",
+                    "Url": "\/coins\/arch\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5304,
+                    "Name": "CraveCoin",
+                    "FullName": "CraveCoin (CRAVE)",
+                    "ImageUrl": "\/media\/20242\/crave.png",
+                    "Url": "\/coins\/crave\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 57750,
+                    "Name": "TajCoin",
+                    "FullName": "TajCoin (TAJ)",
+                    "ImageUrl": "\/media\/1382867\/taj.png",
+                    "Url": "\/coins\/taj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188787,
+                    "Name": "NeverDie",
+                    "FullName": "NeverDie (NDC)",
+                    "ImageUrl": "\/media\/1383827\/ndc.png",
+                    "Url": "\/coins\/ndc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 49610,
+                    "Name": "TattooCoin",
+                    "FullName": "TattooCoin (TSE)",
+                    "ImageUrl": "\/media\/1382790\/tato1.png",
+                    "Url": "\/coins\/tse\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "Points": 0,
+            "Followers": 0,
+            "PageViewsSplit": {
+                "Overview": 68,
+                "Markets": 5,
+                "Analysis": 3,
+                "Charts": 12,
+                "Trades": 10,
+                "Orderbook": 0,
+                "Forum": 4,
+                "Influence": 3
+            },
+            "PageViews": 105
+        },
+        "Twitter": {
+            "following": "3914",
+            "account_creation": "1395884477",
+            "name": "CompuCoin",
+            "lists": 56,
+            "statuses": 867,
+            "favourites": "375",
+            "followers": 5853,
+            "link": "https:\/\/twitter.com\/compucoin",
+            "Points": 6133
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "comments_per_hour": "0.00",
+            "posts_per_day": "0.08",
+            "name": "compucoin",
+            "comments_per_day": 0.01,
+            "link": "https:\/\/www.reddit.com\/r\/compucoin\/",
+            "active_users": 20,
+            "community_creation": "1401968733",
+            "subscribers": 17,
+            "Points": 77
+        },
+        "Facebook": {
+            "likes": 305,
+            "link": "https:\/\/www.facebook.com\/compucoin.cpn\/",
+            "is_closed": "false",
+            "talking_about": "3",
+            "name": "CompuCoin",
+            "Points": 305
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1400523063",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "2028",
+                    "closed_total_issues": "0",
+                    "stars": 1,
+                    "last_update": "1400828553",
+                    "forks": 2,
+                    "url": "https:\/\/github.com\/compucoin\/compucoin",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1400523678",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "subscribers": 2,
+                    "language": "TypeScript",
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 11
+        }
+    }
+}

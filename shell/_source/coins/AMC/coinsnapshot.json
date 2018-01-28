@@ -1,0 +1,66 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "AMC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "4.5e-7",
+            "LASTUPDATE": "1414310339",
+            "LASTVOLUME": "0.08",
+            "LASTVOLUMETO": "4e-8",
+            "LASTTRADEID": "1414310339050",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "4.5e-7",
+            "HIGHDAY": "4.5e-7",
+            "LOWDAY": "4.5e-7",
+            "OPEN24HOUR": "4.5e-7",
+            "HIGH24HOUR": "4.5e-7",
+            "LOW24HOUR": "4.5e-7",
+            "LASTMARKET": "Coinse"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "AMC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "2.4e-7",
+                "LASTUPDATE": "1452827457",
+                "LASTVOLUME": "1000",
+                "LASTVOLUMETO": "0.00024",
+                "LASTTRADEID": "110947139",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "2.4e-7",
+                "HIGH24HOUR": "2.4e-7",
+                "LOW24HOUR": "2.4e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Coinse",
+                "FROMSYMBOL": "AMC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "4.5e-7",
+                "LASTUPDATE": "1414310339",
+                "LASTVOLUME": "0.08",
+                "LASTVOLUMETO": "4e-8",
+                "LASTTRADEID": "1414310339050",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "4.5e-7",
+                "HIGH24HOUR": "4.5e-7",
+                "LOW24HOUR": "4.5e-7"
+            }
+        ]
+    },
+    "Type": 100
+}

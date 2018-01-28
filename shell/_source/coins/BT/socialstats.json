@@ -1,0 +1,139 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BT",
+            "CoinName": "BuildTeam",
+            "Type": "Webpagecoinp",
+            "Points": 50
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 29455,
+                    "Name": "Tianhe",
+                    "FullName": "Tianhe (TIA)",
+                    "ImageUrl": "\/media\/351636\/tia.png",
+                    "Url": "\/coins\/tia\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4588,
+                    "Name": "PseudoCash",
+                    "FullName": "PseudoCash (PSEUD)",
+                    "ImageUrl": "\/media\/20052\/pseud.png",
+                    "Url": "\/coins\/pseud\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4575,
+                    "Name": "Nimbus Coin",
+                    "FullName": "Nimbus Coin (NMB)",
+                    "ImageUrl": "\/media\/20049\/nmb.png",
+                    "Url": "\/coins\/nmb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28131,
+                    "Name": "FuturePoints",
+                    "FullName": "FuturePoints (FTP)",
+                    "ImageUrl": "\/media\/351501\/ftp.png",
+                    "Url": "\/coins\/ftp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 196572,
+                    "Name": "Anacrypt",
+                    "FullName": "Anacrypt (ANCP)",
+                    "ImageUrl": "\/media\/1383863\/ancp.png",
+                    "Url": "\/coins\/ancp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517603,
+                    "Name": "CHIPS",
+                    "FullName": "CHIPS (CHIPS*)",
+                    "ImageUrl": "\/media\/16746673\/chips.png",
+                    "Url": "\/coins\/chips\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 402805,
+                    "Name": "KingN Coin",
+                    "FullName": "KingN Coin (KNC**)",
+                    "ImageUrl": "\/media\/16404850\/knc.png",
+                    "Url": "\/coins\/kncstarstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 373880,
+                    "Name": "Huncoin",
+                    "FullName": "Huncoin (HNC*)",
+                    "ImageUrl": "\/media\/14913529\/hnc.png",
+                    "Url": "\/coins\/hncstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 625173,
+                    "Name": "TokugawaCoin",
+                    "FullName": "TokugawaCoin (TOK)",
+                    "ImageUrl": "\/media\/20780659\/tok.png",
+                    "Url": "\/coins\/tok\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4550,
+                    "Name": "Lucky7Coin",
+                    "FullName": "Lucky7Coin (LK7)",
+                    "ImageUrl": "\/media\/19776\/lk7.png",
+                    "Url": "\/coins\/lk7\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 524365,
+                    "Name": "D81C3400",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/524365\/1a3aa59a-3da3-427e-b850-49c57bd6c626.jpg",
+                    "Url": "\/profile\/D81C3400\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 27897,
+                    "Name": "amilton7217",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/27897\/16e254d2-1428-41da-9ff2-110882ff33d5.jpg",
+                    "Url": "\/profile\/amilton7217\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Points": 50,
+            "PageViewsSplit": {
+                "Overview": 78,
+                "Markets": 1,
+                "Analysis": 4,
+                "Charts": 5,
+                "Trades": 3,
+                "Orderbook": 0,
+                "Forum": 3,
+                "Influence": 2
+            },
+            "PageViews": 96
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BitCurrency (BTCR)  - Live streaming prices and market cap",
+            "PageDescription": "Live BitCurrency prices from all markets and BTCR coin market Capitalization. Stay up to date with the latest BitCurrency price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351554\/btr.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "28764",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "BitCurrency (BTCR)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BTCR",
+            "Url": "\/coins\/btcr\/",
+            "BaseAngularUrl": "\/coins\/btcr\/",
+            "Name": "BitCurrency",
+            "ImageUrl": "\/media\/351554\/btr.png",
+            "Description": "<p>BitCurrency is a Proof of Stake cryptocurrency. It has a 64 second block time and uses Scrypt as its hashing algorithm.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoS",
+            "StartDate": "21\/11\/2014",
+            "Twitter": "@BitcurrencyTeam",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926592,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 64,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 169598616,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~BTCR~ETH",
+            "2~Yobit~BTCR~ETH",
+            "2~Novaexchange~BTCR~BTC",
+            "2~Yobit~BTCR~BTC",
+            "2~Novaexchange~BTCR~LTC",
+            "2~Novaexchange~BTCR~DOGE",
+            "2~EtherDelta~BTCR~ETH",
+            "2~Yobit~BTCR~RUR",
+            "2~Yobit~BTCR~USD",
+            "2~Yobit~BTCR~WAVES",
+            "2~Novaexchange~BTCR~ESP2",
+            "2~Yobit~BTCR~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BTCR~ETH~4~0.00001714~1515950039~810.31539316~0.013888805838762399~200000044~25938.547992159998~0.3734372390400224~29938.71666685~0.40663863903994935~0.0000083~0.00001715~0.0000083~0.00000134~0.00001715~0.00000134~Yobit~7ffe9",
+            "5~CCCAGG~BTCR~BTC~1~0.00000119~1515951115~754.48179271~0.0008978333333249~200000410~436461.89804316015~0.3904351683667648~486137.60434659~0.42376953239304155~7e-7~0.00000119~5.4e-7~6.7e-7~0.00000119~5.3e-7~Yobit~7ffe9",
+            "5~CCCAGG~BTCR~LTC~4~0.00001612~1501367345~50.26174~0.0008102192488000002~1501367345000~0~0~0~0~0.00001612~0.00001612~0.00001612~0.00001612~0.00001612~0.00001612~Novaexchange~7ffe9",
+            "5~CCCAGG~BTCR~DOGE~1~3.8~1515951041~1000~3800~200000071~26853.47417889~31187.6534253437~32620.88605967~35695.90835297671~0.79~3.8~0.79~0.79~3.8~0.75~Yobit~7ffe9",
+            "5~CCCAGG~BTCR~RUR~4~1.02~1515950580~300~305.999997~200002313~107947.7652930325~77941.37644064969~115819.63727800998~81577.1223354369~0.459~1.2~0.459~0.459~1.2~0.45~Yobit~7ffe9",
+            "5~CCCAGG~BTCR~USD~4~0.02~1515950090~850.03700929~17.000731685429905~200000473~168492.52666405003~2379.817043615398~184274.04600171006~2549.4291840433434~0.01~0.02~0.01~0.011~0.02~0.008~Yobit~7ffe9",
+            "5~CCCAGG~BTCR~WAVES~4~0.00037227~1515432576~72.77444186~0.0270917414712222~182372018~0~0~0~0~0.0003723~0.0003723~0.00037227~0.00037227~0.00037227~0.00037227~Yobit~7ffe9",
+            "5~CCCAGG~BTCR~ESP2~4~9.99999895~1504334923~9.33091851~93.30917530253556~1504334923000~0~0~0~0~9.99999895~9.99999895~9.99999895~9.99999895~9.99999895~9.99999895~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

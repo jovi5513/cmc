@@ -1,0 +1,175 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "WAY",
+            "CoinName": "WayCoin",
+            "Type": "Webpagecoinp",
+            "Points": 78
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4544,
+                    "Name": "JudgeCoin",
+                    "FullName": "JudgeCoin (JUDGE)",
+                    "ImageUrl": "\/media\/20038\/judge.png",
+                    "Url": "\/coins\/judge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5330,
+                    "Name": "AeroMe",
+                    "FullName": "AeroMe (AM)",
+                    "ImageUrl": "\/media\/20191\/am.png",
+                    "Url": "\/coins\/am\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 23435,
+                    "Name": "Specie",
+                    "FullName": "Specie (SPX)",
+                    "ImageUrl": "\/media\/351212\/spx.png",
+                    "Url": "\/coins\/spx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35811,
+                    "Name": "HazMatCoin",
+                    "FullName": "HazMatCoin (HZT)",
+                    "ImageUrl": "\/media\/352291\/hzt.png",
+                    "Url": "\/coins\/hzt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5380,
+                    "Name": "ROS Coin",
+                    "FullName": "ROS Coin (ROS)",
+                    "ImageUrl": "\/media\/19710\/frac.png",
+                    "Url": "\/coins\/ros\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30421,
+                    "Name": "Tennet",
+                    "FullName": "Tennet (TENNET)",
+                    "ImageUrl": "\/media\/351760\/tennet.png",
+                    "Url": "\/coins\/tennet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43046,
+                    "Name": "Ratio",
+                    "FullName": "Ratio (RATIO)",
+                    "ImageUrl": "\/media\/1382442\/ratio.png",
+                    "Url": "\/coins\/ratio\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 247259,
+                    "Name": "FrazCoin",
+                    "FullName": "FrazCoin (FRAZ)",
+                    "ImageUrl": "\/media\/9350764\/fraz.png",
+                    "Url": "\/coins\/fraz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42103,
+                    "Name": "GravityBit",
+                    "FullName": "GravityBit (GBIT)",
+                    "ImageUrl": "\/media\/1382382\/gbit.jpg",
+                    "Url": "\/coins\/gbit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29718,
+                    "Name": "DelightPay",
+                    "FullName": "DelightPay (DPAY)",
+                    "ImageUrl": "\/media\/351684\/dpay.png",
+                    "Url": "\/coins\/dpay\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 339,
+                "Markets": 12,
+                "Analysis": 24,
+                "Charts": 16,
+                "Trades": 17,
+                "Orderbook": 0,
+                "Forum": 18,
+                "Influence": 14
+            },
+            "PageViews": 440
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1472150739",
+                    "url": "https:\/\/github.com\/wayguide\/waycoin",
+                    "forks": 0,
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "size": "2457",
+                    "created_at": "1472126981",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C",
+                    "open_total_issues": "0",
+                    "last_push": "1472127211",
+                    "stars": 0
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

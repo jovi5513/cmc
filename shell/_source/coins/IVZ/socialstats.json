@@ -1,0 +1,160 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "IVZ",
+            "CoinName": "InvisibleCoin",
+            "Type": "Webpagecoinp",
+            "Points": 125
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 44749,
+                    "Name": "ErrorCoin",
+                    "FullName": "ErrorCoin (ERR)",
+                    "ImageUrl": "\/media\/1382624\/err.png",
+                    "Url": "\/coins\/err\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7624,
+                    "Name": "SpinCoin",
+                    "FullName": "SpinCoin (SPC)",
+                    "ImageUrl": "\/media\/20655\/spc.png",
+                    "Url": "\/coins\/spc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35947,
+                    "Name": "NewInvestCoin",
+                    "FullName": "NewInvestCoin (NIC)",
+                    "ImageUrl": "\/media\/352309\/nic.png",
+                    "Url": "\/coins\/nic\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 58125,
+                    "Name": "CryptoJournal",
+                    "FullName": "CryptoJournal (CJC)",
+                    "ImageUrl": "\/media\/1382887\/cjc.png",
+                    "Url": "\/coins\/cjc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30179,
+                    "Name": "CrabCoin",
+                    "FullName": "CrabCoin (CRAB)",
+                    "ImageUrl": "\/media\/351739\/crab.png",
+                    "Url": "\/coins\/crab\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35813,
+                    "Name": "CryptoSpots",
+                    "FullName": "CryptoSpots (CS)",
+                    "ImageUrl": "\/media\/352292\/cs.png",
+                    "Url": "\/coins\/cs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20826,
+                    "Name": "DragonSphere",
+                    "FullName": "DragonSphere (XDB)",
+                    "ImageUrl": "\/media\/350977\/xdb.png",
+                    "Url": "\/coins\/xdb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38277,
+                    "Name": "GAKHcoin",
+                    "FullName": "GAKHcoin (GAKH)",
+                    "ImageUrl": "\/media\/1382090\/gakh.png",
+                    "Url": "\/coins\/gakh\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6116,
+                    "Name": "DarkBit",
+                    "FullName": "DarkBit (DB)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/db\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33393,
+                    "Name": "MegaFlash",
+                    "FullName": "MegaFlash (MEGA)",
+                    "ImageUrl": "\/media\/352020\/mega.png",
+                    "Url": "\/coins\/mega\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 348198,
+                    "Name": "moongoon1080",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/348198\/9d926532-2db6-4a7d-a7af-46fe7ad77e95.jpg",
+                    "Url": "\/profile\/moongoon1080\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 160944,
+                    "Name": "mug333n",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/160944\/ca70210c-8f4b-4f47-9849-b38894651d14.jpg",
+                    "Url": "\/profile\/mug333n\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 208503,
+                    "Name": "lamow77788",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/208503\/c1c7aa0d-0dac-4f67-8d78-31f128cce558.jpg",
+                    "Url": "\/profile\/lamow77788\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 23269,
+                    "Name": "activeletters",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/23269\/95341801-4423-470b-a6c7-5804457f7ca8.jpg",
+                    "Url": "\/profile\/activeletters\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "PageViewsSplit": {
+                "Overview": 486,
+                "Markets": 69,
+                "Analysis": 30,
+                "Charts": 39,
+                "Trades": 35,
+                "Orderbook": 1,
+                "Forum": 23,
+                "Influence": 16
+            },
+            "PageViews": 699
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

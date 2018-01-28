@@ -1,0 +1,211 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MED",
+            "CoinName": "MediterraneanCoin",
+            "Type": "Webpagecoinp",
+            "Points": 935
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 32691,
+                    "Name": "WineCoin",
+                    "FullName": "WineCoin (WINE)",
+                    "ImageUrl": "\/media\/351929\/wine.png",
+                    "Url": "\/coins\/wine\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 348256,
+                    "Name": "Eddie coin",
+                    "FullName": "Eddie coin (EDDIE)",
+                    "ImageUrl": "\/media\/12318382\/eddie.png",
+                    "Url": "\/coins\/eddie\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 112363,
+                    "Name": "HamsterCoin",
+                    "FullName": "HamsterCoin (HAMS)",
+                    "ImageUrl": "\/media\/1383381\/hams.png",
+                    "Url": "\/coins\/hams\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4620,
+                    "Name": "TakCoin",
+                    "FullName": "TakCoin (TAK)",
+                    "ImageUrl": "\/media\/19928\/tak.png",
+                    "Url": "\/coins\/tak\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41125,
+                    "Name": "BitBoss",
+                    "FullName": "BitBoss (BOSS)",
+                    "ImageUrl": "\/media\/1382289\/boss.png",
+                    "Url": "\/coins\/boss\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6101,
+                    "Name": "CryptoFocus",
+                    "FullName": "CryptoFocus (FCS)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/fcs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29196,
+                    "Name": "FireCoin",
+                    "FullName": "FireCoin (FIRE)",
+                    "ImageUrl": "\/media\/351625\/fire.png",
+                    "Url": "\/coins\/fire\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 201896,
+                    "Name": "Arena",
+                    "FullName": "Arena (ARENA)",
+                    "ImageUrl": "\/media\/12318225\/arena.png",
+                    "Url": "\/coins\/arena\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44955,
+                    "Name": "JaneCoin",
+                    "FullName": "JaneCoin (JANE)",
+                    "ImageUrl": "\/media\/1382640\/jane.png",
+                    "Url": "\/coins\/jane\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4554,
+                    "Name": "LitecoinDark",
+                    "FullName": "LitecoinDark (LTCD)",
+                    "ImageUrl": "\/media\/20043\/ltcd.png",
+                    "Url": "\/coins\/ltcd\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 662439,
+                    "Name": "kevin100209",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/662439\/7e6af72c-7892-4f43-9a96-5fc680e510ef.jpg",
+                    "Url": "\/profile\/kevin100209\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 461471,
+                    "Name": "espressokid2020",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/461471\/fd292418-70f8-4b84-9c49-fbffa7b48031.png",
+                    "Url": "\/profile\/espressokid2020\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 384568,
+                    "Name": "AF8B1067",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/384568\/8cb38fae-ef8a-44dd-a892-cc692f89fcbd.jpg",
+                    "Url": "\/profile\/AF8B1067\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 347273,
+                    "Name": "Mark.Davis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/347273\/f5e693a2-a7f5-4db2-951f-81bd2192ee19.jpg",
+                    "Url": "\/profile\/Mark.Davis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 137746,
+                    "Name": "AlexCoin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/137746\/d52552ea-98cc-48ca-b5d4-ee9e04344eb7.jpg",
+                    "Url": "\/profile\/AlexCoin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 126007,
+                    "Name": "daniearns",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/126007\/61076f44-38de-46c3-b54f-af7e4707defe.jpg",
+                    "Url": "\/profile\/daniearns\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 135542,
+                    "Name": "lmlerou",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/135542\/e0ce3ef8-474f-4050-98f0-533a1a7b7df4.jpg",
+                    "Url": "\/profile\/lmlerou\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 123540,
+                    "Name": "t.tate128",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/123540\/5eb6123b-6331-4b32-8d73-306cb3fb06fd.jpg",
+                    "Url": "\/profile\/t.tate128\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 101511,
+                    "Name": "crosbynw",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/101511\/b5ad591c-b4bb-450f-aba6-92a9581d1f6d.jpg",
+                    "Url": "\/profile\/crosbynw\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 34297,
+                    "Name": "vvenkovich",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/34297\/fa4cb126-80c5-4922-bc5b-74e2109260bf.jpg",
+                    "Url": "\/profile\/vvenkovich\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 17698,
+                    "Name": "waxmigs2902",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/17698\/2364312f-6b36-4741-9a29-eee53c1e9d33.jpg",
+                    "Url": "\/profile\/waxmigs2902\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 11,
+            "Points": 300,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 1921,
+                "Markets": 124,
+                "Analysis": 50,
+                "Charts": 77,
+                "Trades": 45,
+                "Orderbook": 1,
+                "Forum": 35,
+                "Influence": 30
+            },
+            "PageViews": 2283
+        },
+        "Twitter": {
+            "favourites": "9",
+            "lists": 12,
+            "name": "MediterraneanCoin",
+            "statuses": 381,
+            "followers": 575,
+            "following": "195",
+            "account_creation": "1391678368",
+            "link": "https:\/\/twitter.com\/MEDDevTeam",
+            "Points": 635
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

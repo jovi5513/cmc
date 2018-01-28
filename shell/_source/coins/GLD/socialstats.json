@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GLD",
+            "CoinName": "GoldCoin",
+            "Type": "Webpagecoinp",
+            "Points": 12191
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 341059,
+                    "Name": "Monaize",
+                    "FullName": "Monaize (MNZ)",
+                    "ImageUrl": "\/media\/12318336\/mnz.png",
+                    "Url": "\/coins\/mnz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 372369,
+                    "Name": "Raiden Network",
+                    "FullName": "Raiden Network (RDN*)",
+                    "ImageUrl": "\/media\/14913482\/rdn.png",
+                    "Url": "\/coins\/rdnstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 235213,
+                    "Name": "ATLANT",
+                    "FullName": "ATLANT (ATL)",
+                    "ImageUrl": "\/media\/9350703\/atlant.png",
+                    "Url": "\/coins\/atl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 372654,
+                    "Name": "Infinity Economics",
+                    "FullName": "Infinity Economics (XIN*)",
+                    "ImageUrl": "\/media\/14913486\/xin.png",
+                    "Url": "\/coins\/xin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5385,
+                    "Name": "FantomCoin ",
+                    "FullName": "FantomCoin  (FCN)",
+                    "ImageUrl": "\/media\/20282\/fcn.png",
+                    "Url": "\/coins\/fcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 339632,
+                    "Name": "Crypto20",
+                    "FullName": "Crypto20 (C20)",
+                    "ImageUrl": "\/media\/12318302\/c20.png",
+                    "Url": "\/coins\/c20\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 311853,
+                    "Name": "Snovio",
+                    "FullName": "Snovio (SNOV)",
+                    "ImageUrl": "\/media\/12318100\/snov.png",
+                    "Url": "\/coins\/snov\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5349,
+                    "Name": "SolarCoin",
+                    "FullName": "SolarCoin (SLR)",
+                    "ImageUrl": "\/media\/20699\/slr.png",
+                    "Url": "\/coins\/slr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 131154,
+                    "Name": "MCAP",
+                    "FullName": "MCAP (MCAP)",
+                    "ImageUrl": "\/media\/1383559\/mcap.png",
+                    "Url": "\/coins\/mcap\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369251,
+                    "Name": "HEROcoin",
+                    "FullName": "HEROcoin (PLAY)",
+                    "ImageUrl": "\/media\/14913441\/play.png",
+                    "Url": "\/coins\/play\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 501127,
+                    "Name": "jhanerfernandez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/501127\/b0fcacd6-c220-4205-83a3-21ad77193d33.jpg",
+                    "Url": "\/profile\/jhanerfernandez\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 618789,
+                    "Name": "cuttini",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/618789\/cdd66d52-3403-49df-be04-92cccc6332bf.jpg",
+                    "Url": "\/profile\/cuttini\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 79831,
+                    "Name": "virex",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/79831\/b0701177-f8f7-4c51-9dbb-0021bd3a0c08.png",
+                    "Url": "\/profile\/virex\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 445116,
+                    "Name": "davidlevine",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/445116\/7d36bd55-b0ca-4c8b-b09a-60b1ca16d093.jpg",
+                    "Url": "\/profile\/davidlevine\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 482457,
+                    "Name": "kklaus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/482457\/8f49c649-d517-46ec-8af8-7ae2b39be7c7.jpg",
+                    "Url": "\/profile\/kklaus\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 418077,
+                    "Name": "shah_rizam",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/418077\/8ae71946-1f06-4032-a9f4-7503999d525b.jpg",
+                    "Url": "\/profile\/shah_rizam\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 596642,
+                    "Name": "mustafasedat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596642\/f2e25127-d9b1-4bf3-9d06-552d399705ba.jpg",
+                    "Url": "\/profile\/mustafasedat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 631195,
+                    "Name": "alphaweltall10",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/631195\/ed84a47e-6296-44e4-bbbd-08ea907ad398.jpg",
+                    "Url": "\/profile\/alphaweltall10\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 589715,
+                    "Name": "trantai.1982",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/589715\/df16a3ba-3a03-4638-8f8a-20a8b4c57b36.jpg",
+                    "Url": "\/profile\/trantai.1982\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 528591,
+                    "Name": "renebuur",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/528591\/fe2d89c1-662f-424d-8170-439289e18762.jpg",
+                    "Url": "\/profile\/renebuur\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 7710,
+            "Followers": 174,
+            "Posts": "114",
+            "Comments": "51",
+            "PageViewsSplit": {
+                "Overview": 13140,
+                "Markets": 756,
+                "Analysis": 432,
+                "Charts": 1113,
+                "Trades": 437,
+                "Orderbook": 17,
+                "Forum": 1252,
+                "Influence": 355
+            },
+            "PageViews": 17502
+        },
+        "Twitter": {
+            "following": "279",
+            "account_creation": "1211948507",
+            "name": "GoldCoin",
+            "lists": 118,
+            "statuses": 2335,
+            "favourites": "2226",
+            "followers": 2672,
+            "link": "https:\/\/twitter.com\/goldcoin",
+            "Points": 3264
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "comments_per_hour": "0.14",
+            "posts_per_day": "0.12",
+            "comments_per_day": 3.24,
+            "name": "goldcoin",
+            "link": "https:\/\/www.reddit.com\/r\/goldcoin\/",
+            "active_users": 42,
+            "community_creation": "1369423350",
+            "subscribers": 259,
+            "Points": 391
+        },
+        "Facebook": {
+            "likes": 720,
+            "link": "https:\/\/www.facebook.com\/gldtalk",
+            "is_closed": "false",
+            "talking_about": "6",
+            "name": "GLDTalk",
+            "Points": 720
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1372261564",
+                    "open_total_issues": "3",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "303153",
+                    "closed_total_issues": "13",
+                    "stars": 13,
+                    "last_update": "1500941087",
+                    "forks": 19,
+                    "url": "https:\/\/github.com\/goldcoin\/goldcoin",
+                    "closed_issues": "5",
+                    "closed_pull_issues": "8",
+                    "fork": "false",
+                    "last_push": "1515220656",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "HTML",
+                    "subscribers": 18,
+                    "open_issues": "3"
+                }
+            ],
+            "Points": 105
+        }
+    }
+}

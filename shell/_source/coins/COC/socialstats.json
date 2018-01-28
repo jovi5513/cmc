@@ -1,0 +1,191 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "COC",
+            "CoinName": "Community Coin",
+            "Type": "Webpagecoinp",
+            "Points": 520
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5350,
+                    "Name": "Social Media Coin",
+                    "FullName": "Social Media Coin (SMAC)",
+                    "ImageUrl": "\/media\/20427\/smac.png",
+                    "Url": "\/coins\/smac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 40839,
+                    "Name": "TwisterCoin",
+                    "FullName": "TwisterCoin (TWIST)",
+                    "ImageUrl": "\/media\/1382250\/twist1.png",
+                    "Url": "\/coins\/twist\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7634,
+                    "Name": "Graviton",
+                    "FullName": "Graviton (GRAV)",
+                    "ImageUrl": "\/media\/20659\/grav.png",
+                    "Url": "\/coins\/grav\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28125,
+                    "Name": "ArkDAO",
+                    "FullName": "ArkDAO (BOTS)",
+                    "ImageUrl": "\/media\/351499\/bot.png",
+                    "Url": "\/coins\/bots\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34483,
+                    "Name": "TrickyCoin",
+                    "FullName": "TrickyCoin (TRICK)",
+                    "ImageUrl": "\/media\/352127\/trick.png",
+                    "Url": "\/coins\/trick\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4578,
+                    "Name": "NoirShares",
+                    "FullName": "NoirShares (NRS)",
+                    "ImageUrl": "\/media\/19834\/nrs.png",
+                    "Url": "\/coins\/nrs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3643,
+                    "Name": "DarkToken",
+                    "FullName": "DarkToken (DT)",
+                    "ImageUrl": "\/media\/20031\/dt.png",
+                    "Url": "\/coins\/dt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 398126,
+                    "Name": "RiptideCoin",
+                    "FullName": "RiptideCoin (RIPT)",
+                    "ImageUrl": "\/media\/15887409\/ript.png",
+                    "Url": "\/coins\/ript\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4613,
+                    "Name": "SSVCoin",
+                    "FullName": "SSVCoin (SSV)",
+                    "ImageUrl": "\/media\/20060\/ssv.png",
+                    "Url": "\/coins\/ssv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7562,
+                    "Name": "Versa Token",
+                    "FullName": "Versa Token (VERSA)",
+                    "ImageUrl": "\/media\/20629\/versa.png",
+                    "Url": "\/coins\/versa\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 345705,
+                    "Name": "MarryyJannee12",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/345705\/9ef95270-f295-4060-9ac0-24acc4424b8e.png",
+                    "Url": "\/profile\/MarryyJannee12\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 319661,
+                    "Name": "getdtms",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/319661\/5c374fea-92ed-4ce1-bf05-183e718c46eb.jpg",
+                    "Url": "\/profile\/getdtms\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 205230,
+                    "Name": "hamdi93morgane",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/205230\/8539be4b-7c5e-4c29-bd7b-9787064ca846.jpg",
+                    "Url": "\/profile\/hamdi93morgane\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 164801,
+                    "Name": "grine1988",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/164801\/1f103ee9-b4b2-439a-b551-464a4e9a04e2.jpg",
+                    "Url": "\/profile\/grine1988\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 505,
+                "Markets": 51,
+                "Analysis": 45,
+                "Charts": 26,
+                "Trades": 20,
+                "Orderbook": 1,
+                "Forum": 21,
+                "Influence": 14
+            },
+            "PageViews": 683
+        },
+        "Twitter": {
+            "followers": 392,
+            "following": "15",
+            "lists": 5,
+            "favourites": "5",
+            "statuses": 13,
+            "account_creation": "1468016939",
+            "name": "community coin",
+            "link": "https:\/\/twitter.com\/communitycoin_",
+            "Points": 417
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "29991",
+                    "url": "https:\/\/github.com\/coolindark\/communitycoin",
+                    "last_update": "1467996075",
+                    "last_push": "1467996069",
+                    "created_at": "1467995670",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

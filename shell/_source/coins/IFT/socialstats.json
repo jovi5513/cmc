@@ -1,0 +1,218 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "IFT",
+            "CoinName": "InvestFeed",
+            "Type": "Webpagecoinp",
+            "Points": 116397
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 179164,
+                    "Name": "Metal",
+                    "FullName": "Metal (MTL)",
+                    "ImageUrl": "\/media\/1383743\/mtl.png",
+                    "Url": "\/coins\/mtl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 53950,
+                    "Name": "Musicoin",
+                    "FullName": "Musicoin (MUSIC)",
+                    "ImageUrl": "\/media\/1382783\/music.png",
+                    "Url": "\/coins\/music\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5296,
+                    "Name": "MonaCoin",
+                    "FullName": "MonaCoin (MONA)",
+                    "ImageUrl": "\/media\/19801\/mona.png",
+                    "Url": "\/coins\/mona\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30736,
+                    "Name": "Byteball",
+                    "FullName": "Byteball (GBYTE)",
+                    "ImageUrl": "\/media\/351835\/bytes.png",
+                    "Url": "\/coins\/gbyte\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6103,
+                    "Name": "Nexus",
+                    "FullName": "Nexus (NXS)",
+                    "ImageUrl": "\/media\/1382387\/nexus.jpg",
+                    "Url": "\/coins\/nxs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 18907,
+                    "Name": "Digix DAO",
+                    "FullName": "Digix DAO (DGD)",
+                    "ImageUrl": "\/media\/350851\/dgd.png",
+                    "Url": "\/coins\/dgd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 171986,
+                    "Name": "Tether",
+                    "FullName": "Tether (USDT)",
+                    "ImageUrl": "\/media\/1383672\/usdt.png",
+                    "Url": "\/coins\/usdt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186309,
+                    "Name": "Tierion",
+                    "FullName": "Tierion (TNT)",
+                    "ImageUrl": "\/media\/1383800\/tnt.png",
+                    "Url": "\/coins\/tnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 177863,
+                    "Name": "Santiment",
+                    "FullName": "Santiment (SAN)",
+                    "ImageUrl": "\/media\/1383730\/san.png",
+                    "Url": "\/coins\/san\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 194883,
+                    "Name": "Everex",
+                    "FullName": "Everex (EVX)",
+                    "ImageUrl": "\/media\/1383850\/evx.png",
+                    "Url": "\/coins\/evx\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 360075,
+                    "Name": "tomas.krause",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/360075\/d6aa5446-c149-4601-8c90-0f1b67ae35c1.jpg",
+                    "Url": "\/profile\/tomas.krause\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 662141,
+                    "Name": "KingMDiaz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/662141\/aa5cb9fc-3004-4a39-9b6b-2f1132bc530b.jpg",
+                    "Url": "\/profile\/KingMDiaz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 472461,
+                    "Name": "ialialjbory",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/472461\/a2482643-0361-44ed-a272-b5218c9d7e82.jpg",
+                    "Url": "\/profile\/ialialjbory\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 472090,
+                    "Name": "pheng0617",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/472090\/6828fa3d-9241-4c92-be14-3a30f2fa2f5b.jpg",
+                    "Url": "\/profile\/pheng0617\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 163917,
+                    "Name": "vykhoryev",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/163917\/84b57538-508b-4bb5-974d-f6bd788c0469.jpg",
+                    "Url": "\/profile\/vykhoryev\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 447221,
+                    "Name": "espann",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/447221\/d2cb060a-4371-452b-8ae6-f2b75d2caa08.jpg",
+                    "Url": "\/profile\/espann\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 599006,
+                    "Name": "lizartzaii",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/599006\/eb5ac2e1-a5fc-4886-93ba-5824a9126869.jpg",
+                    "Url": "\/profile\/lizartzaii\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 425860,
+                    "Name": "rychowdhury89",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/425860\/a71b5b6d-b149-42b3-bbf3-869e7e87dbb8.jpg",
+                    "Url": "\/profile\/rychowdhury89\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 206353,
+                    "Name": "alphalink11",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/206353\/89add627-b877-4088-b606-228d151399bc.jpg",
+                    "Url": "\/profile\/alphalink11\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 3860,
+            "Posts": "16",
+            "Comments": "1",
+            "Followers": 138,
+            "PageViewsSplit": {
+                "Overview": 9479,
+                "Markets": 993,
+                "Analysis": 310,
+                "Charts": 526,
+                "Trades": 319,
+                "Orderbook": 10,
+                "Forum": 350,
+                "Influence": 104
+            },
+            "PageViews": 12091
+        },
+        "Twitter": {
+            "statuses": 876,
+            "favourites": "2970",
+            "following": "22043",
+            "account_creation": "1363988677",
+            "followers": 98098,
+            "name": "investFeed",
+            "link": "https:\/\/twitter.com\/investfeed",
+            "lists": 806,
+            "Points": 102128
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/https:\/\/www.reddit.com\/r\/InvestFeed\/\/",
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "84",
+            "name": "investFeed",
+            "likes": 10408,
+            "link": "https:\/\/www.facebook.com\/investfeed\/",
+            "Points": 10408
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

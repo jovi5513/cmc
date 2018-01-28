@@ -1,0 +1,226 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "WCT",
+            "CoinName": "Waves Community Token",
+            "Type": "Webpagecoinp",
+            "Points": 180792
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 66193,
+                    "Name": "Gnosis",
+                    "FullName": "Gnosis (GNO)",
+                    "ImageUrl": "\/media\/1383083\/gnosis-logo.png",
+                    "Url": "\/coins\/gno\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 187347,
+                    "Name": "Storj",
+                    "FullName": "Storj (STORJ)",
+                    "ImageUrl": "\/media\/20422\/sjcx.png",
+                    "Url": "\/coins\/storj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 166548,
+                    "Name": "Monaco",
+                    "FullName": "Monaco (MCO)",
+                    "ImageUrl": "\/media\/1383653\/mco.jpg",
+                    "Url": "\/coins\/mco\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5288,
+                    "Name": "StorjCoin",
+                    "FullName": "StorjCoin (SJCX)",
+                    "ImageUrl": "\/media\/20422\/sjcx.png",
+                    "Url": "\/coins\/sjcx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 23432,
+                    "Name": "LBRY Credits",
+                    "FullName": "LBRY Credits (LBC)",
+                    "ImageUrl": "\/media\/351211\/lbc.png",
+                    "Url": "\/coins\/lbc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 26132,
+                    "Name": "Komodo",
+                    "FullName": "Komodo (KMD)",
+                    "ImageUrl": "\/media\/351408\/kmd.png",
+                    "Url": "\/coins\/kmd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 172091,
+                    "Name": "RaiBlocks",
+                    "FullName": "RaiBlocks (XRB)",
+                    "ImageUrl": "\/media\/1383674\/xrb.png",
+                    "Url": "\/coins\/xrb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 2349,
+                    "Name": "PeerCoin",
+                    "FullName": "PeerCoin (PPC)",
+                    "ImageUrl": "\/media\/19864\/peercoin-logo.png",
+                    "Url": "\/coins\/ppc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 314580,
+                    "Name": "Salt Lending",
+                    "FullName": "Salt Lending (SALT)",
+                    "ImageUrl": "\/media\/9350744\/salt.jpg",
+                    "Url": "\/coins\/salt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44003,
+                    "Name": "PacCoin",
+                    "FullName": "PacCoin (PAC)",
+                    "ImageUrl": "\/media\/20780670\/pac.png",
+                    "Url": "\/coins\/pac\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 304980,
+                    "Name": "walhalax",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/304980\/7b5d3436-8b15-419c-b052-e18d19faaa3b.jpg",
+                    "Url": "\/profile\/walhalax\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 596642,
+                    "Name": "mustafasedat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596642\/f2e25127-d9b1-4bf3-9d06-552d399705ba.jpg",
+                    "Url": "\/profile\/mustafasedat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 158465,
+                    "Name": "runejessen1988",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/158465\/e867494c-6c46-4145-a0a5-bb2490443315.jpg",
+                    "Url": "\/profile\/runejessen1988\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 488627,
+                    "Name": "BDA28B45",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/488627\/563147ea-8370-4347-a5d5-60c72ecc3d65.jpg",
+                    "Url": "\/profile\/BDA28B45\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 578101,
+                    "Name": "focevil",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/578101\/d7d982ad-7848-4dc9-b016-f8b0a030d569.jpg",
+                    "Url": "\/profile\/focevil\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 536874,
+                    "Name": "nederob",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/536874\/5e144430-247d-4264-b92d-0b18187b8fb3.jpg",
+                    "Url": "\/profile\/nederob\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 482457,
+                    "Name": "kklaus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/482457\/8f49c649-d517-46ec-8af8-7ae2b39be7c7.jpg",
+                    "Url": "\/profile\/kklaus\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 362900,
+                    "Name": "tavigor7",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/362900\/78727200-3fc8-47fb-acdf-dd36d4ffb181.jpg",
+                    "Url": "\/profile\/tavigor7\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 388959,
+                    "Name": "drkn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/388959\/3e8d4845-e18e-4f98-84db-1f803b53e86e.jpg",
+                    "Url": "\/profile\/drkn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 529302,
+                    "Name": "cihangirmy",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/529302\/53e1347f-5dea-4b54-bcd6-a4fd1740e3c6.jpg",
+                    "Url": "\/profile\/cihangirmy\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 67873,
+                    "Name": "klymacks",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/67873\/5f5a8101-7cc2-4ca1-aa8c-7782472922e1.png",
+                    "Url": "\/profile\/klymacks\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 182,
+            "Posts": "1",
+            "Comments": "1",
+            "Points": 4585,
+            "PageViewsSplit": {
+                "Overview": 4530,
+                "Markets": 204,
+                "Analysis": 114,
+                "Charts": 269,
+                "Trades": 128,
+                "Orderbook": 1,
+                "Forum": 139,
+                "Influence": 36
+            },
+            "PageViews": 5421
+        },
+        "Twitter": {
+            "lists": 1509,
+            "favourites": "2302",
+            "statuses": 1913,
+            "following": "1",
+            "account_creation": "1457519893",
+            "name": "wavesplatform",
+            "followers": 92165,
+            "link": "https:\/\/twitter.com\/wavesplatform",
+            "Points": 99711
+        },
+        "Reddit": {
+            "subscribers": 7376,
+            "posts_per_hour": "0.51",
+            "community_creation": "1457522430",
+            "comments_per_hour": "2.42",
+            "comments_per_day": 58.06,
+            "name": "Wavesplatform",
+            "link": "https:\/\/www.reddit.com\/r\/Wavesplatform\/",
+            "posts_per_day": "12.24",
+            "active_users": 2423,
+            "Points": 14761
+        },
+        "Facebook": {
+            "name": "Waves Platform",
+            "likes": 61735,
+            "link": "https:\/\/www.facebook.com\/wavesplatform\/",
+            "talking_about": "1386",
+            "is_closed": "false",
+            "Points": 61735
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

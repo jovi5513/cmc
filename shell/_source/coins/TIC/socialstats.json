@@ -1,0 +1,139 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "TIC",
+            "CoinName": "TrueInvestmentCoin",
+            "Type": "Webpagecoinp",
+            "Points": 50
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5378,
+                    "Name": "BOOM Coin",
+                    "FullName": "BOOM Coin (BOOM)",
+                    "ImageUrl": "\/media\/20208\/boom.png",
+                    "Url": "\/coins\/boom\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 16717,
+                    "Name": "Nas2Coin",
+                    "FullName": "Nas2Coin (NAS2)",
+                    "ImageUrl": "\/media\/350776\/nas2.png",
+                    "Url": "\/coins\/nas2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30121,
+                    "Name": "CrankCoin",
+                    "FullName": "CrankCoin (CRNK)",
+                    "ImageUrl": "\/media\/351731\/crnk.png",
+                    "Url": "\/coins\/crnk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28087,
+                    "Name": "TotCoin",
+                    "FullName": "TotCoin (TOT)",
+                    "ImageUrl": "\/media\/351497\/tot.png",
+                    "Url": "\/coins\/tot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28665,
+                    "Name": "ERBCoin",
+                    "FullName": "ERBCoin (ERB)",
+                    "ImageUrl": "\/media\/351550\/erb.png",
+                    "Url": "\/coins\/erb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188677,
+                    "Name": "Bogcoin",
+                    "FullName": "Bogcoin (BOG)",
+                    "ImageUrl": "\/media\/1383826\/bog.png",
+                    "Url": "\/coins\/bog\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28128,
+                    "Name": "MedicCoin",
+                    "FullName": "MedicCoin (MDC)",
+                    "ImageUrl": "\/media\/351500\/mdc.png",
+                    "Url": "\/coins\/mdc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7590,
+                    "Name": "PharmaCoin",
+                    "FullName": "PharmaCoin (XPH)",
+                    "ImageUrl": "\/media\/20641\/xph.png",
+                    "Url": "\/coins\/xph\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5022,
+                    "Name": "SocialXbotCoin",
+                    "FullName": "SocialXbotCoin (XBOT)",
+                    "ImageUrl": "\/media\/20073\/xbot.png",
+                    "Url": "\/coins\/xbot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35407,
+                    "Name": "BAM",
+                    "FullName": "BAM (BamitCoin)",
+                    "ImageUrl": "\/media\/352236\/bam.png",
+                    "Url": "\/coins\/bam\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 37098,
+                    "Name": "5FFA9FC3",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/37098\/b078fe1e-deb0-42d3-8fd7-e86b97e5cf45.jpg",
+                    "Url": "\/profile\/5FFA9FC3\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 46807,
+                    "Name": "jeje1st",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/46807\/47984980-2e64-41b7-8fe9-f0344e624fc2.jpg",
+                    "Url": "\/profile\/jeje1st\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Points": 50,
+            "PageViewsSplit": {
+                "Overview": 461,
+                "Markets": 46,
+                "Analysis": 22,
+                "Charts": 48,
+                "Trades": 20,
+                "Orderbook": 2,
+                "Forum": 7,
+                "Influence": 5
+            },
+            "PageViews": 611
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

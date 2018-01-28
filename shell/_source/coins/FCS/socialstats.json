@@ -1,0 +1,154 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "FCS",
+            "CoinName": "CryptoFocus",
+            "Type": "Webpagecoinp",
+            "Points": 3099
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 15274,
+                    "Name": "Prime-X1",
+                    "FullName": "Prime-X1 (PXI)",
+                    "ImageUrl": "\/media\/350559\/pxi.png",
+                    "Url": "\/coins\/pxi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30119,
+                    "Name": "Californium",
+                    "FullName": "Californium (CF)",
+                    "ImageUrl": "\/media\/351730\/cf.png",
+                    "Url": "\/coins\/cf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 112363,
+                    "Name": "HamsterCoin",
+                    "FullName": "HamsterCoin (HAMS)",
+                    "ImageUrl": "\/media\/1383381\/hams.png",
+                    "Url": "\/coins\/hams\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4560,
+                    "Name": "MediterraneanCoin",
+                    "FullName": "MediterraneanCoin (MED)",
+                    "ImageUrl": "\/media\/20046\/med.png",
+                    "Url": "\/coins\/med\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41125,
+                    "Name": "BitBoss",
+                    "FullName": "BitBoss (BOSS)",
+                    "ImageUrl": "\/media\/1382289\/boss.png",
+                    "Url": "\/coins\/boss\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29196,
+                    "Name": "FireCoin",
+                    "FullName": "FireCoin (FIRE)",
+                    "ImageUrl": "\/media\/351625\/fire.png",
+                    "Url": "\/coins\/fire\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 201896,
+                    "Name": "Arena",
+                    "FullName": "Arena (ARENA)",
+                    "ImageUrl": "\/media\/12318225\/arena.png",
+                    "Url": "\/coins\/arena\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44955,
+                    "Name": "JaneCoin",
+                    "FullName": "JaneCoin (JANE)",
+                    "ImageUrl": "\/media\/1382640\/jane.png",
+                    "Url": "\/coins\/jane\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4554,
+                    "Name": "LitecoinDark",
+                    "FullName": "LitecoinDark (LTCD)",
+                    "ImageUrl": "\/media\/20043\/ltcd.png",
+                    "Url": "\/coins\/ltcd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34334,
+                    "Name": "iWallet",
+                    "FullName": "iWallet (IW)",
+                    "ImageUrl": "\/media\/352121\/iw.png",
+                    "Url": "\/coins\/iw\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 46474,
+                    "Name": "MR173",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/46474\/7a5d721a-9732-4fb9-b649-171426e6336c.jpg",
+                    "Url": "\/profile\/MR173\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 97,
+                "Markets": 8,
+                "Analysis": 11,
+                "Charts": 14,
+                "Trades": 13,
+                "Orderbook": 0,
+                "Forum": 18,
+                "Influence": 36
+            },
+            "PageViews": 197
+        },
+        "Twitter": {
+            "favourites": "3",
+            "lists": 24,
+            "name": "Crypto Focus",
+            "statuses": 459,
+            "followers": 2904,
+            "following": "1662",
+            "account_creation": "1430518812",
+            "link": "https:\/\/twitter.com\/cryptofocus",
+            "Points": 3024
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "LKY",
+            "CoinName": "LuckyCoin",
+            "Type": "Webpagecoinp",
+            "Points": 156
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 45821,
+                    "Name": "EagleCoin",
+                    "FullName": "EagleCoin (EA)",
+                    "ImageUrl": "\/media\/1382685\/ea.png",
+                    "Url": "\/coins\/ea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5336,
+                    "Name": "GhostCoin",
+                    "FullName": "GhostCoin (GHC)",
+                    "ImageUrl": "\/media\/19721\/ghc.png",
+                    "Url": "\/coins\/ghc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21219,
+                    "Name": "Uther",
+                    "FullName": "Uther (UTH)",
+                    "ImageUrl": "\/media\/350998\/uth.png",
+                    "Url": "\/coins\/uth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20205,
+                    "Name": "Spots",
+                    "FullName": "Spots (SPOTS)",
+                    "ImageUrl": "\/media\/350893\/spots.png",
+                    "Url": "\/coins\/spots\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28885,
+                    "Name": "Lathaan",
+                    "FullName": "Lathaan (LTH)",
+                    "ImageUrl": "\/media\/351565\/lth.png",
+                    "Url": "\/coins\/lth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5388,
+                    "Name": "Gridmaster",
+                    "FullName": "Gridmaster (GMC)",
+                    "ImageUrl": "\/media\/20299\/gmc.png",
+                    "Url": "\/coins\/gmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645766,
+                    "Name": "Galactrum",
+                    "FullName": "Galactrum (ORE)",
+                    "ImageUrl": "\/media\/20780695\/ore.png",
+                    "Url": "\/coins\/ore\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43253,
+                    "Name": "NiceCoin",
+                    "FullName": "NiceCoin (NICE)",
+                    "ImageUrl": "\/media\/1382467\/nice.png",
+                    "Url": "\/coins\/nice\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4544,
+                    "Name": "JudgeCoin",
+                    "FullName": "JudgeCoin (JUDGE)",
+                    "ImageUrl": "\/media\/20038\/judge.png",
+                    "Url": "\/coins\/judge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29926,
+                    "Name": "Tetra",
+                    "FullName": "Tetra (TRA)",
+                    "ImageUrl": "\/media\/351700\/tra.png",
+                    "Url": "\/coins\/tra\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 171515,
+                    "Name": "mooncoin32767",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/171515\/393b007a-a93f-4ef0-ac20-c59d1be50542.jpg",
+                    "Url": "\/profile\/mooncoin32767\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 78294,
+                    "Name": "alwaysprofitting",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/78294\/8beeaf06-db5c-4af3-935f-59a4c9776f2a.jpg",
+                    "Url": "\/profile\/alwaysprofitting\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 13210,
+                    "Name": "thebigpui",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/13210\/5ca7988c-af0c-4f89-98d7-9bc63a108c89.jpg",
+                    "Url": "\/profile\/thebigpui\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 234,
+                "Markets": 15,
+                "Analysis": 16,
+                "Charts": 25,
+                "Trades": 25,
+                "Orderbook": 0,
+                "Forum": 32,
+                "Influence": 16
+            },
+            "PageViews": 363
+        },
+        "Twitter": {
+            "followers": 71,
+            "following": "50",
+            "lists": 2,
+            "favourites": "0",
+            "statuses": 13,
+            "account_creation": "1370880027",
+            "name": "Luckycoin Foundation",
+            "link": "https:\/\/twitter.com\/LKYFoundation",
+            "Points": 81
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

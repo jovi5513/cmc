@@ -1,0 +1,190 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ERR",
+            "CoinName": "ErrorCoin",
+            "Type": "Webpagecoinp",
+            "Points": 128
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 22177,
+                    "Name": "Obscurebay",
+                    "FullName": "Obscurebay (OBS)",
+                    "ImageUrl": "\/media\/351064\/obs.png",
+                    "Url": "\/coins\/obs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 667444,
+                    "Name": "TheGCCcoin",
+                    "FullName": "TheGCCcoin (GCC*)",
+                    "ImageUrl": "\/media\/20780778\/gcc.png",
+                    "Url": "\/coins\/gccstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24405,
+                    "Name": "BitMoon",
+                    "FullName": "BitMoon (BM)",
+                    "ImageUrl": "\/media\/351311\/bm.png",
+                    "Url": "\/coins\/bm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35226,
+                    "Name": "ShortyCoin",
+                    "FullName": "ShortyCoin (SHORTY)",
+                    "ImageUrl": "\/media\/352222\/shorty.png",
+                    "Url": "\/coins\/shorty\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43257,
+                    "Name": "SmurfCoin",
+                    "FullName": "SmurfCoin (SMF)",
+                    "ImageUrl": "\/media\/1382468\/xmf.png",
+                    "Url": "\/coins\/smf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7624,
+                    "Name": "SpinCoin",
+                    "FullName": "SpinCoin (SPC)",
+                    "ImageUrl": "\/media\/20655\/spc.png",
+                    "Url": "\/coins\/spc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35947,
+                    "Name": "NewInvestCoin",
+                    "FullName": "NewInvestCoin (NIC)",
+                    "ImageUrl": "\/media\/352309\/nic.png",
+                    "Url": "\/coins\/nic\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 58125,
+                    "Name": "CryptoJournal",
+                    "FullName": "CryptoJournal (CJC)",
+                    "ImageUrl": "\/media\/1382887\/cjc.png",
+                    "Url": "\/coins\/cjc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30179,
+                    "Name": "CrabCoin",
+                    "FullName": "CrabCoin (CRAB)",
+                    "ImageUrl": "\/media\/351739\/crab.png",
+                    "Url": "\/coins\/crab\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20679,
+                    "Name": "InvisibleCoin",
+                    "FullName": "InvisibleCoin (IVZ)",
+                    "ImageUrl": "\/media\/350944\/ivz.png",
+                    "Url": "\/coins\/ivz\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 533245,
+                    "Name": "peasantj219",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/533245\/07900e53-fcb3-433e-bda1-997f593fbf40.jpg",
+                    "Url": "\/profile\/peasantj219\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 275171,
+                    "Name": "mmay27",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/275171\/f4ff25d2-5a69-4cd7-8a44-e3aadd26daa2.jpg",
+                    "Url": "\/profile\/mmay27\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 63006,
+                    "Name": "rashidaharrisa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/63006\/883e1717-833f-4be7-b270-95df06bb9f12.jpg",
+                    "Url": "\/profile\/rashidaharrisa\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 364,
+                "Markets": 22,
+                "Analysis": 27,
+                "Charts": 21,
+                "Trades": 10,
+                "Orderbook": 1,
+                "Forum": 11,
+                "Influence": 7
+            },
+            "PageViews": 463
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "18212",
+                    "url": "https:\/\/github.com\/error-dev\/ErrorCoin",
+                    "last_update": "1436067731",
+                    "last_push": "1436067728",
+                    "created_at": "1436066278",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

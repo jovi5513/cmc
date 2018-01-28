@@ -1,0 +1,226 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PHR*",
+            "CoinName": "Phore",
+            "Type": "Webpagecoinp",
+            "Points": 10637
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20908,
+                    "Name": "ZeitCoin",
+                    "FullName": "ZeitCoin (ZEIT)",
+                    "ImageUrl": "\/media\/350984\/zeit.png",
+                    "Url": "\/coins\/zeit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20315,
+                    "Name": "BitCrystals",
+                    "FullName": "BitCrystals (BCY)",
+                    "ImageUrl": "\/media\/350903\/bcy.png",
+                    "Url": "\/coins\/bcy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 303943,
+                    "Name": "AB-Chain",
+                    "FullName": "AB-Chain (ABC)",
+                    "ImageUrl": "\/media\/12318006\/bac.png",
+                    "Url": "\/coins\/abc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 327500,
+                    "Name": "PayPie",
+                    "FullName": "PayPie (PPP)",
+                    "ImageUrl": "\/media\/12318216\/ppp.png",
+                    "Url": "\/coins\/ppp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 18670,
+                    "Name": "HOdlcoin",
+                    "FullName": "HOdlcoin (HODL)",
+                    "ImageUrl": "\/media\/350840\/hodl.png",
+                    "Url": "\/coins\/hodl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340966,
+                    "Name": "Everus",
+                    "FullName": "Everus (EVR)",
+                    "ImageUrl": "\/media\/12318332\/evr.png",
+                    "Url": "\/coins\/evr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186331,
+                    "Name": "Presearch",
+                    "FullName": "Presearch (PRE*)",
+                    "ImageUrl": "\/media\/1383801\/pst.png",
+                    "Url": "\/coins\/prestar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32694,
+                    "Name": "Darcrus",
+                    "FullName": "Darcrus (DAR)",
+                    "ImageUrl": "\/media\/351930\/dar.png",
+                    "Url": "\/coins\/dar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4333,
+                    "Name": "Aurora Coin",
+                    "FullName": "Aurora Coin (AUR)",
+                    "ImageUrl": "\/media\/19608\/aur.png",
+                    "Url": "\/coins\/aur\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 310867,
+                    "Name": "Hydrominer",
+                    "FullName": "Hydrominer (H2O)",
+                    "ImageUrl": "\/media\/12318092\/h2o.png",
+                    "Url": "\/coins\/h2o\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 374931,
+                    "Name": "amdrgoncalves",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/374931\/41a5986f-b614-4276-a8fa-5e5fa1cc792f.jpg",
+                    "Url": "\/profile\/amdrgoncalves\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 550951,
+                    "Name": "blakeclarity",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/550951\/67141d2f-bf88-44ca-bbef-0a33671f7920.jpg",
+                    "Url": "\/profile\/blakeclarity\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 444717,
+                    "Name": "kjs054111",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/444717\/91bad166-a9b5-4495-8438-4f3c8cd8ccd0.jpg",
+                    "Url": "\/profile\/kjs054111\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 239996,
+                    "Name": "xuquang222",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/239996\/4dd6c458-4e04-42fe-9e2a-66e338cd4bdf.jpg",
+                    "Url": "\/profile\/xuquang222\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 418672,
+                    "Name": "osaka-style",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/418672\/417d4437-5dc9-4da9-ba9f-2f56a3f7b109.png",
+                    "Url": "\/profile\/osaka-style\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 297813,
+                    "Name": "DzejAr",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/297813\/ca934c38-7e8d-480c-bc55-9bf0d2a44365.jpg",
+                    "Url": "\/profile\/DzejAr\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 619229,
+                    "Name": "nadime23",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/619229\/3dedfd0c-f49d-4876-b796-72351880354b.jpg",
+                    "Url": "\/profile\/nadime23\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 364235,
+                    "Name": "max.bitcoiny",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/364235\/b23204e6-ce15-4d03-88e8-f93d36677a9a.jpg",
+                    "Url": "\/profile\/max.bitcoiny\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 565403,
+                    "Name": "adil.taha",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/565403\/1eb29c3b-12d6-4c50-b5e1-8b69e282efc2.jpg",
+                    "Url": "\/profile\/adil.taha\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 165870,
+                    "Name": "arch.federica",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/165870\/1e66d386-3868-453e-b6cb-69df743bad11.jpg",
+                    "Url": "\/profile\/arch.federica\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 42370,
+                    "Name": "RafaRCGB",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/42370\/3a61bd79-9275-4a96-9858-99a7df9e0506.png",
+                    "Url": "\/profile\/RafaRCGB\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1200,
+            "Posts": "23",
+            "Comments": "10",
+            "Followers": 21,
+            "PageViewsSplit": {
+                "Overview": 1017,
+                "Markets": 66,
+                "Analysis": 18,
+                "Charts": 11,
+                "Trades": 10,
+                "Orderbook": 0,
+                "Forum": 119,
+                "Influence": 25
+            },
+            "PageViews": 1266
+        },
+        "Twitter": {
+            "statuses": 485,
+            "favourites": "545",
+            "following": "197",
+            "account_creation": "1401412547",
+            "followers": 7905,
+            "name": "Phore",
+            "link": "https:\/\/twitter.com\/PhoreCrypto",
+            "lists": 79,
+            "Points": 8300
+        },
+        "Reddit": {
+            "posts_per_hour": "0.10",
+            "link": "https:\/\/www.reddit.com\/r\/PhoreProject\/",
+            "comments_per_hour": "0.32",
+            "posts_per_day": "2.37",
+            "active_users": 37,
+            "community_creation": "1509991173",
+            "subscribers": 826,
+            "name": "PhoreProject",
+            "comments_per_day": 7.76,
+            "Points": 952
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "53",
+            "name": "Phore",
+            "likes": 185,
+            "link": "https:\/\/www.facebook.com\/PhoreCrypto\/",
+            "Points": 185
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "GCoin (GCN) - Live streaming prices and market cap",
+            "PageDescription": "Live GCoin prices from all markets and GCN coin market Capitalization. Stay up to date with the latest GCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1383899\/gcn.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "199065",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "GCoin (GCN)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "GCN",
+            "Url": "\/coins\/gcn\/",
+            "BaseAngularUrl": "\/coins\/gcn\/",
+            "Name": "GCoin",
+            "ImageUrl": "\/media\/1383899\/gcn.png",
+            "Description": "<p>GCoin is a Scrypt PoW cryptocurrency with a 200 billion supply.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "200000000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "25\/06\/2014",
+            "Twitter": "",
+            "AffiliateUrl": "http:\/\/www.gcoin.cf\/",
+            "Website": "<a href='http:\/\/www.gcoin.cf\/' target='_blank'>GCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970871,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 120,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 149916035000,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~GCN~ETH",
+            "2~Cryptopia~GCN~DOGE",
+            "2~Novaexchange~GCN~KIC",
+            "2~Novaexchange~GCN~MOON",
+            "2~Cryptopia~GCN~XMR",
+            "2~Cryptopia~GCN~FTC",
+            "2~Cryptopia~GCN~POP",
+            "2~Novaexchange~GCN~LTC",
+            "2~Novaexchange~GCN~ETH",
+            "2~Cryptopia~GCN~LTC",
+            "2~Novaexchange~GCN~BTC",
+            "2~Cryptopia~GCN~DOT",
+            "2~Cryptopia~GCN~UNO",
+            "2~Novaexchange~GCN~DOGE",
+            "2~Novaexchange~GCN~PIGGY"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~GCN~ETH~4~1e-8~1502197610~10000~0.0001~1502197610000~0~0~0~0~1e-8~1e-8~1e-8~1e-8~1e-8~1e-8~Novaexchange~7ffe9",
+            "5~CCCAGG~GCN~DOGE~4~0.00900001~1515195689~9575.78430601~86.18215451~1515195689.001~0~0~0~0~0.009~0.00900001~0.009~0.00900001~0.00900001~0.00900001~Cryptopia~7ffe9",
+            "5~CCCAGG~GCN~KIC~4~0.09899997~1498707208~1.10899003~0.1097899797002991~1498707208000~0~0~0~0~0.09899997~0.09899997~0.09899997~0.09899997~0.09899997~0.09899997~Novaexchange~7ffe9",
+            "5~CCCAGG~GCN~MOON~4~0.14979998~1501402317~2042.1061566~305.9074614165569~1501402317000~0~0~0~0~0.14979998~0.14979998~0.14979998~0.14979998~0.14979998~0.14979998~Novaexchange~7ffe9",
+            "5~CCCAGG~GCN~XMR~4~2e-8~1488945229~4000000~0.08~1488945229~0~0~0~0~2e-8~2e-8~2e-8~2e-8~2e-8~2e-8~Cryptopia~7ffe9",
+            "5~CCCAGG~GCN~FTC~4~0.00006007~1488765124~192763.88476485~11.579327~1488765124.001~0~0~0~0~0.00006007~0.00006007~0.00006007~0.00006007~0.00006007~0.00006007~Cryptopia~7ffe9",
+            "5~CCCAGG~GCN~POP~4~0.02999996~1459185024~2.331393~0.069942~1459185024~0~0~0~0~0.02999996~0.02999996~0.02999996~0.02999996~0.02999996~0.02999996~Cryptopia~7ffe9",
+            "5~CCCAGG~GCN~LTC~4~4.5e-7~1515197184~800000~0.36~1515197184~0~0~0~0~4.5e-7~4.5e-7~4.5e-7~4.5e-7~4.5e-7~4.5e-7~Cryptopia~7ffe9",
+            "5~CCCAGG~GCN~BTC~4~1e-8~1509865249~100000~0.001~1509865249001~0~0~0~0~1e-8~1e-8~1e-8~1e-8~1e-8~1e-8~Novaexchange~7ffe9",
+            "5~CCCAGG~GCN~DOT~4~0.00085002~1488920640~987031.88487387~838.996843~1488920640~0~0~0~0~0.00085002~0.00085002~0.00085002~0.00085002~0.00085002~0.00085002~Cryptopia~7ffe9",
+            "5~CCCAGG~GCN~UNO~4~1.1e-7~1498081741~117255.18184108~0.01289807~1498081741~0~0~0~0~1.1e-7~1.1e-7~1.1e-7~1.1e-7~1.1e-7~1.1e-7~Cryptopia~7ffe9",
+            "5~CCCAGG~GCN~PIGGY~4~0.59~1502746837~1242.59951219~733.1337121921~1502746837000~0~0~0~0~0.59~0.59~0.59~0.59~0.59~0.59~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,166 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "LDM",
+            "CoinName": "Ludum token",
+            "Type": "Webpagecoinp",
+            "Points": 637
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 44799,
+                    "Name": "NukeCoin",
+                    "FullName": "NukeCoin (NUKE)",
+                    "ImageUrl": "\/media\/1382626\/nuke.png",
+                    "Url": "\/coins\/nuke\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34754,
+                    "Name": "Metal Music v3",
+                    "FullName": "Metal Music v3 (MTLM3)",
+                    "ImageUrl": "\/media\/352183\/mtmc3.png",
+                    "Url": "\/coins\/mtlm3\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29193,
+                    "Name": "PantherCoin",
+                    "FullName": "PantherCoin (PINKX)",
+                    "ImageUrl": "\/media\/351624\/pinkx.png",
+                    "Url": "\/coins\/pinkx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28650,
+                    "Name": "Samsara Coin",
+                    "FullName": "Samsara Coin (SMSR)",
+                    "ImageUrl": "\/media\/351543\/smsr.png",
+                    "Url": "\/coins\/smsr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30016,
+                    "Name": "Vaporcoin",
+                    "FullName": "Vaporcoin (VAPOR)",
+                    "ImageUrl": "\/media\/351708\/vapor.png",
+                    "Url": "\/coins\/vapor\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42850,
+                    "Name": "Opes",
+                    "FullName": "Opes (OPES)",
+                    "ImageUrl": "\/media\/1382434\/opes.png",
+                    "Url": "\/coins\/opes\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6411,
+                    "Name": "TamaGucci",
+                    "FullName": "TamaGucci (TAM)",
+                    "ImageUrl": "\/media\/20565\/tam.png",
+                    "Url": "\/coins\/tam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37204,
+                    "Name": "Impulse Coin",
+                    "FullName": "Impulse Coin (IMPS)",
+                    "ImageUrl": "\/media\/1381984\/imps.jpg",
+                    "Url": "\/coins\/imps\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29368,
+                    "Name": "EGOcoin",
+                    "FullName": "EGOcoin (EGO)",
+                    "ImageUrl": "\/media\/351632\/ego.png",
+                    "Url": "\/coins\/ego\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29004,
+                    "Name": "PSIcoin",
+                    "FullName": "PSIcoin (PSI)",
+                    "ImageUrl": "\/media\/351589\/psi.png",
+                    "Url": "\/coins\/psi\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 541763,
+                    "Name": "evgen_bogdanov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/541763\/59032a37-7ab4-4973-94f8-de232966fb97.jpg",
+                    "Url": "\/profile\/evgen_bogdanov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 503657,
+                    "Name": "msabina1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/503657\/0f952a84-614d-43e0-bdb1-328f39382ab8.jpg",
+                    "Url": "\/profile\/msabina1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 36392,
+                    "Name": "ArtemSvetlyshny",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/36392\/f5aac849-5065-4d73-bb8a-96482947efc4.jpg",
+                    "Url": "\/profile\/ArtemSvetlyshny\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 244,
+                "Markets": 18,
+                "Analysis": 11,
+                "Charts": 14,
+                "Trades": 7,
+                "Orderbook": 0,
+                "Forum": 8,
+                "Influence": 4
+            },
+            "PageViews": 306
+        },
+        "Twitter": {
+            "favourites": "4",
+            "lists": 5,
+            "statuses": 106,
+            "following": "4",
+            "account_creation": "1498483835",
+            "name": "Alienter",
+            "followers": 351,
+            "link": "https:\/\/twitter.com\/Alienter2",
+            "Points": 376
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "The Privateer Island",
+            "likes": 161,
+            "link": "https:\/\/www.facebook.com\/ThePrivateerIsland\/",
+            "talking_about": "5",
+            "is_closed": "false",
+            "Points": 161
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

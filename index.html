@@ -1,0 +1,64 @@
+---
+layout: home
+title: Coin Money Cap
+---
+
+
+
+<div class="row">
+
+<div class="col-md-12 portlets">
+  <div class="panel">
+
+
+    <div class="panel-content">
+      <table class="table table-hover table-dynamic filter-select">
+        <thead>
+          <tr>
+            <th>N.</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>7d</th>
+            <th>30d</th>
+            <th>90d</th>
+            <th>Market Cap</th>
+            <th>Volume (24h)</th>
+            <th>Circ. Supply</th>
+            <th>7d Price</th>
+          </tr>
+        </thead>
+        <tfoot>
+          <tr>
+            <th>N.</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>7d</th>
+            <th>30d</th>
+            <th>90d</th>
+            <th>Market Cap</th>
+            <th>Volume (24h)</th>
+            <th>Circ. Supply</th>
+            <th>7d Price</th>
+          </tr>
+        </tfoot>
+        <tbody>
+        
+        <tr>
+            <td><.html echo $key + 1;?></td>
+            <td><.html echo $_ticker['name'];?></td>
+            <td><.html echo $_ticker['price_usd'];?></td>
+            <td class="bg-green">10%</td>
+            <td class="bg-red">-10%</td>
+            <td class="bg-green">100%</td>
+            <td><.html echo $_ticker['market_cap_usd'];?></td>
+            <td><.html echo $_ticker['24h_volume_usd'];?></td>
+            <td><.html echo $_ticker['available_supply'];?></td>
+            <td><img src="https://files.coinmarketcap.com/generated/sparklines/1.png" align="charts"></td>
+          </tr>
+      
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+</div>

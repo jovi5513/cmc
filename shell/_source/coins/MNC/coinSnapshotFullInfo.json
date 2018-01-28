@@ -1,0 +1,70 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "MinCoin (MNC) - Live streaming prices and market cap",
+            "PageDescription": "Live MinCoin prices from all markets and MNC coin market Capitalization. Stay up to date with the latest MinCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19805\/mincoin.png",
+            "OgImageWidth": "250",
+            "OgImageHeight": "250"
+        },
+        "General": {
+            "Id": "4564",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "MinCoin (MNC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "MNC",
+            "Url": "\/coins\/mnc\/",
+            "BaseAngularUrl": "\/coins\/mnc\/",
+            "Name": "MinCoin",
+            "ImageUrl": "\/media\/19805\/mincoin.png",
+            "Description": "<p>MinCoin is a peer-to-peer cryptocurrency using scrypt as a proof-of-work algorithm. Mincoin stands for &#39;minimalist&#39; coin, and it bills itself as the &#39;one-minute coin&#39; thanks to its one-minute block time. The developers behind the coin are active and progressive.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "10000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "03\/04\/2013",
+            "Twitter": "@MinCoinus",
+            "AffiliateUrl": "http:\/\/www.mincoin.us\/",
+            "Website": "<a href='http:\/\/www.mincoin.us\/' target='_blank'>MinCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~MNC~ETH",
+            "2~Novaexchange~MNC~BTC",
+            "2~Novaexchange~MNC~LTC",
+            "2~Cryptsy~MNC~XRP",
+            "2~Cryptsy~MNC~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~MNC~ETH~4~0.00004142~1502087465~11.10735053~0.00046006645895259996~1502087465001~0~0~0~0~0.00004142~0.00004142~0.00004142~0.00004142~0.00004142~0.00004142~Novaexchange~7ffe9",
+            "5~CCCAGG~MNC~BTC~4~6e-8~1510329836~68469.66666667~0.0041081800000002~1510329836001~0~0~0~0~6e-8~6e-8~6e-8~6e-8~6e-8~6e-8~Novaexchange~7ffe9",
+            "5~CCCAGG~MNC~LTC~4~0.00019~1499526736~345.85241497~0.0657119588443~1499526736000~0~0~0~0~0.00019~0.00019~0.00019~0.00019~0.00019~0.00019~Novaexchange~7ffe9",
+            "5~CCCAGG~MNC~XRP~4~0.39083867~1430605357~0.66783584~0.26101607~92007421~0~0~0.39083867~0.39083867~0.39083867~Cryptsy~78ce9"
+        ]
+    },
+    "Type": 100
+}

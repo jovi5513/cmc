@@ -1,0 +1,184 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BTCL",
+            "CoinName": "BTC Lite",
+            "Type": "Webpagecoinp",
+            "Points": 6648
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20718,
+                    "Name": "VapersCoin",
+                    "FullName": "VapersCoin (VPRC)",
+                    "ImageUrl": "\/media\/350951\/vpc.png",
+                    "Url": "\/coins\/vprc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4428,
+                    "Name": "CasinoCoin",
+                    "FullName": "CasinoCoin (CSC)",
+                    "ImageUrl": "\/media\/19667\/csc.png",
+                    "Url": "\/coins\/csc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5312,
+                    "Name": "Horizon",
+                    "FullName": "Horizon (HZ)",
+                    "ImageUrl": "\/media\/20320\/hz.png",
+                    "Url": "\/coins\/hz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35955,
+                    "Name": "Cannabis Industry Coin",
+                    "FullName": "Cannabis Industry Coin (XCI)",
+                    "ImageUrl": "\/media\/352312\/xci.png",
+                    "Url": "\/coins\/xci\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20444,
+                    "Name": "PostCoin",
+                    "FullName": "PostCoin (POST)",
+                    "ImageUrl": "\/media\/350917\/post.png",
+                    "Url": "\/coins\/post\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 240439,
+                    "Name": "AltoCar",
+                    "FullName": "AltoCar (ALTOCAR)",
+                    "ImageUrl": "\/media\/9350746\/altc.png",
+                    "Url": "\/coins\/altocar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4323,
+                    "Name": "ACoin",
+                    "FullName": "ACoin (ACOIN)",
+                    "ImageUrl": "\/media\/20079\/acoin.png",
+                    "Url": "\/coins\/acoin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 463101,
+                    "Name": "Monero Gold",
+                    "FullName": "Monero Gold (XMRG)",
+                    "ImageUrl": "\/media\/16746651\/xmrg.png",
+                    "Url": "\/coins\/xmrg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 666891,
+                    "Name": "Jetcoin",
+                    "FullName": "Jetcoin (JET)",
+                    "ImageUrl": "\/media\/20780772\/jet.png",
+                    "Url": "\/coins\/jet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22268,
+                    "Name": "SharkCoin",
+                    "FullName": "SharkCoin (SAK)",
+                    "ImageUrl": "\/media\/351079\/sak.png",
+                    "Url": "\/coins\/sak\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 642026,
+                    "Name": "dschastl",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/642026\/6315578b-59d5-49ab-bb0a-6df378d631c5.jpg",
+                    "Url": "\/profile\/dschastl\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 121650,
+                    "Name": "cryptodude",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/121650\/a82f434f-7411-4bc9-bd28-24483f69afb7.jpg",
+                    "Url": "\/profile\/cryptodude\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 313682,
+                    "Name": "darwinsn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/313682\/fa4b7f1d-80c0-49b0-9891-f280e8830588.jpg",
+                    "Url": "\/profile\/darwinsn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 569435,
+                    "Name": "gabinos",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/569435\/ceb1ee11-06bb-44db-82b7-d8ab4c0f68c6.jpg",
+                    "Url": "\/profile\/gabinos\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 433298,
+                    "Name": "graceg",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/433298\/3e805ecf-cbb9-488c-a508-cf31b0db1203.jpg",
+                    "Url": "\/profile\/graceg\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 363268,
+                    "Name": "kailupe",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/363268\/a6bd118c-8363-4475-aaa4-42b93f0dff1b.jpg",
+                    "Url": "\/profile\/kailupe\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 466130,
+                    "Name": "EBB736C9",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/466130\/be8e12a2-6229-46a4-9ce1-2685b4ea2bc1.jpg",
+                    "Url": "\/profile\/EBB736C9\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 200,
+            "Posts": "1",
+            "Followers": 7,
+            "PageViewsSplit": {
+                "Overview": 893,
+                "Markets": 12,
+                "Analysis": 5,
+                "Charts": 6,
+                "Trades": 3,
+                "Orderbook": 0,
+                "Forum": 4,
+                "Influence": 1
+            },
+            "PageViews": 924
+        },
+        "Twitter": {
+            "following": "0",
+            "account_creation": "1510988447",
+            "statuses": 46,
+            "favourites": "3",
+            "followers": 6433,
+            "name": "BTC Lite (BTCL)",
+            "link": "https:\/\/twitter.com\/BTCliteofficial",
+            "lists": 3,
+            "Points": 6448
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/BTClite\/\/",
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "MonacoCoin (MCC) - Live streaming prices and market cap",
+            "PageDescription": "Live MonacoCoin prices from all markets and MCC coin market Capitalization. Stay up to date with the latest MonacoCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1384017\/mcc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "222133",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "MonacoCoin (MCC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "XMCC",
+            "Url": "\/coins\/xmcc\/",
+            "BaseAngularUrl": "\/coins\/xmcc\/",
+            "Name": "MonacoCoin",
+            "ImageUrl": "\/media\/1384017\/mcc.png",
+            "Description": "<p>MonacoCoin is a\u00a0PoW\/PoS cryptocurrency based on the<span>\u00a0X11 algorithm aiming\u00a0to integrate cryptographic money secure in an environment of real use.\u00a0MonacoCoin aims to federate a large number of Monegasque businesses and provide them with smartphone and credit card applications for end users, as well as payment terminals dedicated to Monegasque merchants. XMCC also provides a second layer network of masternodes that process instant and anonymous transactions.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "9507271",
+            "Algorithm": "X11",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "12\/08\/2017",
+            "Twitter": "@MonacoCoin",
+            "AffiliateUrl": "http:\/\/www.monacocoin.net\/",
+            "Website": "<a href='http:\/\/www.monacocoin.net\/' target='_blank'>MonacoCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970087,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 128111,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 58035745408445,
+            "TotalCoinsMined": 9895165.9583998,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~XMCC~BTC",
+            "2~Cryptopia~XMCC~DOGE",
+            "2~Novaexchange~XMCC~BTC",
+            "2~Novaexchange~XMCC~ETH",
+            "2~Novaexchange~XMCC~DOGE",
+            "2~Novaexchange~XMCC~LTC",
+            "2~Novaexchange~XMCC~MOON",
+            "2~Novaexchange~XMCC~ESP2",
+            "2~Cryptopia~XMCC~LTC",
+            "2~Novaexchange~XMCC~KIC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~XMCC~BTC~1~0.0007845~1515978671~39.92602077~0.03132356~1515978671.003~2228.92278906~1.66733338~28114.08442107~19.308377750000005~0.0007368~0.0007845~0.0007161~0.0006111~0.0007845~0.00061~Cryptopia~7ffe9",
+            "5~CCCAGG~XMCC~DOGE~4~425~1515108519~2.25749848~959.436854~1515108519~0~0~0~0~425~425~425~425~425~425~Cryptopia~7ffe9",
+            "5~CCCAGG~XMCC~ETH~4~0.0008~1503202723~0.30299947~0.000242399576~1503202723000~0~0~0~0~0.0008~0.0008~0.0008~0.0008~0.0008~0.0008~Novaexchange~7ffe9",
+            "5~CCCAGG~XMCC~LTC~4~0.0339989~1515194309~22.14556842~0.75292497~1515194309~0~0~0~0~0.034~0.034~0.0339989~0.0339989~0.0339989~0.0339989~Cryptopia~7ffe9",
+            "5~CCCAGG~XMCC~MOON~4~2000~1504557937~1~2000~1504557937000~0~0~0~0~2000~2000~2000~2000~2000~2000~Novaexchange~7ffe9",
+            "5~CCCAGG~XMCC~ESP2~4~649.34237002~1507979633~0.49899961~324.0215893964557~1507979633001~0~0~0~0~649.34237002~649.34237002~649.34237002~649.34237002~649.34237002~649.34237002~Novaexchange~7ffe9",
+            "5~CCCAGG~XMCC~KIC~4~478~1505784720~0.00104602~0.49999755999999995~1505784720000~0~0~0~0~478~478~478~478~478~478~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

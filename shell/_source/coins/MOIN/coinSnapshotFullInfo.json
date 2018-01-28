@@ -1,0 +1,93 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "MoinCoin (MOIN) - Live streaming prices and market cap",
+            "PageDescription": "Live MoinCoin prices from all markets and MOIN coin market Capitalization. Stay up to date with the latest MoinCoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350959\/moin.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20744",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "MoinCoin (MOIN)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "MOIN",
+            "Url": "\/coins\/moin\/",
+            "BaseAngularUrl": "\/coins\/moin\/",
+            "Name": "MoinCoin",
+            "ImageUrl": "\/media\/350959\/moin.png",
+            "Description": "<p>MoinCoin uses the Sha256d algorithm to provide secure and fast payments. MOIN is a PoW\/PoS hybrid.<\/p>",
+            "Features": "",
+            "Technology": "<p>0-19:<span> 0 MOIN<\/span><br \/>20-999:<span> 79 MOIN<\/span><br \/>1000-17999:<span> 59 MOIN<\/span><br \/>18000-19999:<span> 89 MOIN<\/span><\/p><p><span>18000-19999: POS<\/span><\/p>",
+            "TotalCoinSupply": "184000000",
+            "Algorithm": "",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "25\/05\/2015",
+            "Twitter": "@AeonCoin",
+            "AffiliateUrl": "http:\/\/coin.org\/",
+            "Website": "<a href='http:\/\/coin.org\/' target='_blank'>MoinCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515980621,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 970165,
+            "BlockTime": 30,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 10933280.775724,
+            "PreviousTotalCoinsMined": 10933264.047093,
+            "BlockReward": 1.715754121542
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~MOIN~RUR",
+            "2~CCEX~MOIN~LTC",
+            "2~Novaexchange~MOIN~DOGE",
+            "2~Yobit~MOIN~ETH",
+            "2~Cryptopia~MOIN~BTC",
+            "2~Yobit~MOIN~BTC",
+            "2~LiveCoin~MOIN~BTC",
+            "2~Yobit~MOIN~DOGE",
+            "2~Cryptopia~MOIN~DOGE",
+            "2~Yobit~MOIN~USD",
+            "2~Cryptopia~MOIN~LTC",
+            "2~CCEX~MOIN~BTC",
+            "2~Novaexchange~MOIN~BTC",
+            "2~Cryptopia~MOIN~DOT",
+            "2~Yobit~MOIN~WAVES",
+            "2~Cryptopia~MOIN~UNO",
+            "2~Cryptopia~MOIN~XMR",
+            "2~CCEX~MOIN~ETH",
+            "2~CCEX~MOIN~DOGE",
+            "2~Cryptopia~MOIN~FTC",
+            "2~CCEX~MOIN~USD"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~MOIN~RUR~4~13.60000003~1515647818~0.28505375~3.8767310085516127~183963664~0~0~0~0~13.6~13.60000003~13.6~13.60000003~13.60000003~13.60000003~Yobit~7ffe9",
+            "5~CCCAGG~MOIN~LTC~4~0.001309~1515195409~100.56034581~0.13163349~1515195409~0~0~0~0~0.001309~0.001309~0.001309~0.001309~0.001309~0.001309~Cryptopia~7ffe9",
+            "5~CCCAGG~MOIN~DOGE~4~28.27~1515193988~200.24223392~5660.84795292~1515193988~0~0~0~0~28.27~28.27~28.27~28.27~28.27~28.27~Cryptopia~7ffe9",
+            "5~CCCAGG~MOIN~ETH~4~0.00085502~1515509273~0.573086~0.0004899999917199999~182938366~0~0~0~0~0.00085502~0.00085502~0.00085502~0.00085502~0.00085502~0.00085502~Yobit~7ffe9",
+            "5~CCCAGG~MOIN~BTC~4~0.000063~1515979940~71.41955861~0.00450015~1515979940~341.26832521000006~0.02149715~86170.19343766~5.199963318488915~0.00006258~0.00006357~0.00006258~0.00006999~0.00007014~0.00005537~Cryptopia~7ffe9",
+            "5~CCCAGG~MOIN~USD~4~8.88~1515478729~0.01182432~0.1049999616~182731550~0~0~0~0~8.88~8.88~8.88~8.88~8.88~8.88~Yobit~7ffe9",
+            "5~CCCAGG~MOIN~DOT~4~13.00000845~1486694401~2751.18239303~35765.394357~1486694401~0~0~0~0~13.00000845~13.00000845~13.00000845~13.00000845~13.00000845~13.00000845~Cryptopia~7ffe9",
+            "5~CCCAGG~MOIN~WAVES~4~0.7452252~1514470024~0.15466072~0.11525706599414401~176087269~0~0~0~0~0.7452~0.7452252~0.7452~0.7452252~0.7452252~0.7452252~Yobit~7ffe9",
+            "5~CCCAGG~MOIN~UNO~4~0.00100007~1497437484~1.1363~0.00113638~1497437484~0~0~0~0~0.00100007~0.00100007~0.00100007~0.00100007~0.00100007~0.00100007~Cryptopia~7ffe9",
+            "5~CCCAGG~MOIN~XMR~4~0.00010844~1486694879~5677.22573454~0.615638~1486694879~0~0~0~0~0.00010844~0.00010844~0.00010844~0.00010844~0.00010844~0.00010844~Cryptopia~7ffe9",
+            "5~CCCAGG~MOIN~FTC~4~0.10000001~1479829385~0.75993331~0.075993~1479829385~0~0~0~0~0.10000001~0.10000001~0.10000001~0.10000001~0.10000001~0.10000001~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

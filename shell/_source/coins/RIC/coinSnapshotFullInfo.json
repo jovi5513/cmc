@@ -1,0 +1,65 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Riecoin (RIC) - Live streaming prices and market cap",
+            "PageDescription": "Live Riecoin prices from all markets and RIC coin market Capitalization. Stay up to date with the latest Riecoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19888\/ric.jpg",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4352",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Riecoin (RIC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "RIC",
+            "Url": "\/coins\/ric\/",
+            "BaseAngularUrl": "\/coins\/ric\/",
+            "Name": "Riecoin",
+            "ImageUrl": "\/media\/19888\/ric.jpg",
+            "Description": "<p>Riecoin is in homage to Bernhard Riemann who studied the distribution of prime numbers. RieCoin is a POW altcoin with a blocktime of 2.5 mins and difficulty retagetting every 288 blocks or 12 hours. There is a hard cap of 84 million RIC.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "84000000",
+            "Algorithm": "Groestl",
+            "ProofType": "PoW",
+            "StartDate": "26\/06\/2014",
+            "Twitter": "@riecoin",
+            "AffiliateUrl": "http:\/\/riecoin.org\/",
+            "Website": "<a href='http:\/\/riecoin.org\/' target='_blank'>Riecoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515948288,
+            "DifficultyAdjustment": "288 blocks",
+            "BlockRewardReduction": "50%",
+            "BlockNumber": 814196,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 22201145394,
+            "TotalCoinsMined": 40666624.999835,
+            "PreviousTotalCoinsMined": 40666124.999835,
+            "BlockReward": 49.999999993614
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Poloniex~RIC~BTC",
+            "2~BTC38~RIC~CNY"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~RIC~BTC~1~0.00003432~1515948299~58.27505827~0.00199999~793507~246665.40042499988~8.71116140999999~364722.3777880499~13.15025577~0.00003754~0.00003923~0.00003373~0.00003682~0.00003923~0.00003373~Poloniex~7ffe9",
+            "5~CCCAGG~RIC~CNY~4~0.288~1505966286~1690.389442~486.83215929599993~849554~0~0~0~0~0.288~0.288~0.288~0.288~0.288~0.288~BTC38~7ffe9"
+        ]
+    },
+    "Type": 100
+}

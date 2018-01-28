@@ -1,0 +1,240 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "TZC",
+            "CoinName": "TrezarCoin",
+            "Type": "Webpagecoinp",
+            "Points": 3474
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 234508,
+                    "Name": "Hello Gold",
+                    "FullName": "Hello Gold (HGT)",
+                    "ImageUrl": "\/media\/9350692\/hgt.jpg",
+                    "Url": "\/coins\/hgt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 661777,
+                    "Name": "Sugar Exchange",
+                    "FullName": "Sugar Exchange (SGR)",
+                    "ImageUrl": "\/media\/20780766\/sgr.png",
+                    "Url": "\/coins\/sgr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 50754,
+                    "Name": "Pascal Lite",
+                    "FullName": "Pascal Lite (PASL)",
+                    "ImageUrl": "\/media\/1382741\/pasl.png",
+                    "Url": "\/coins\/pasl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 61902,
+                    "Name": "Atmos",
+                    "FullName": "Atmos (ATMS)",
+                    "ImageUrl": "\/media\/1383003\/atms.png",
+                    "Url": "\/coins\/atms\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 222200,
+                    "Name": "Authoreon",
+                    "FullName": "Authoreon (AUTH)",
+                    "ImageUrl": "\/media\/1384019\/auth.png",
+                    "Url": "\/coins\/auth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517775,
+                    "Name": "Hacken",
+                    "FullName": "Hacken (HKN)",
+                    "ImageUrl": "\/media\/16746674\/hkn.png",
+                    "Url": "\/coins\/hkn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42694,
+                    "Name": "Eryllium",
+                    "FullName": "Eryllium (ERY)",
+                    "ImageUrl": "\/media\/1382403\/ely2.png",
+                    "Url": "\/coins\/ery\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35681,
+                    "Name": "MoneyCoin",
+                    "FullName": "MoneyCoin (MONEY)",
+                    "ImageUrl": "\/media\/352249\/money.png",
+                    "Url": "\/coins\/money\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28204,
+                    "Name": "BlockPay",
+                    "FullName": "BlockPay (BLOCKPAY)",
+                    "ImageUrl": "\/media\/351508\/blockpay.png",
+                    "Url": "\/coins\/blockpay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 203183,
+                    "Name": "Solar DAO",
+                    "FullName": "Solar DAO (SDAO)",
+                    "ImageUrl": "\/media\/1383933\/sdao.png",
+                    "Url": "\/coins\/sdao\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 677684,
+                    "Name": "sithlordtrader",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677684\/161f1c2b-7418-4ec3-a6a6-435734263560.jpg",
+                    "Url": "\/profile\/sithlordtrader\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 468447,
+                    "Name": "davidbeekhuizen4",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/468447\/5f823654-67de-4d5c-b2ff-6e18e3113922.jpg",
+                    "Url": "\/profile\/davidbeekhuizen4\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 156480,
+                    "Name": "etheking",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/156480\/99ffc221-adf9-4feb-bca7-16577fbea8a0.png",
+                    "Url": "\/profile\/etheking\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 627986,
+                    "Name": "yosti",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/627986\/f6a7b05d-477d-4c2c-8e24-e221f652c89b.jpg",
+                    "Url": "\/profile\/yosti\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 69777,
+                    "Name": "lumpenproleter2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/69777\/6a3a2891-78b5-4964-aae5-bfb43f824306.png",
+                    "Url": "\/profile\/lumpenproleter2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 601188,
+                    "Name": "shahrin.aktar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/601188\/d09d463c-5d81-4572-807e-ccc6fc5ddae1.jpg",
+                    "Url": "\/profile\/shahrin.aktar\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 668611,
+                    "Name": "cryptolv7",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/668611\/c75a3460-e425-45e6-afd4-7e2c03b762a1.jpg",
+                    "Url": "\/profile\/cryptolv7\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 622311,
+                    "Name": "kajouelgato",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/622311\/783a5510-314f-4d81-a4c6-00d66e2c0e15.jpg",
+                    "Url": "\/profile\/kajouelgato\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 472090,
+                    "Name": "pheng0617",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/472090\/6828fa3d-9241-4c92-be14-3a30f2fa2f5b.jpg",
+                    "Url": "\/profile\/pheng0617\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 427135,
+                    "Name": "MrRobot42",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/427135\/56843e20-b063-4b16-9386-87d85ef17eb9.jpg",
+                    "Url": "\/profile\/MrRobot42\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 201112,
+                    "Name": "ericandfaith",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/201112\/81a85fc3-6e68-41b1-a398-4a249a826be2.jpg",
+                    "Url": "\/profile\/ericandfaith\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 900,
+            "Posts": "1",
+            "Followers": 35,
+            "PageViewsSplit": {
+                "Overview": 2696,
+                "Markets": 192,
+                "Analysis": 198,
+                "Charts": 181,
+                "Trades": 130,
+                "Orderbook": 0,
+                "Forum": 51,
+                "Influence": 77
+            },
+            "PageViews": 3525
+        },
+        "Twitter": {
+            "statuses": 251,
+            "favourites": "278",
+            "following": "46",
+            "account_creation": "1502397431",
+            "followers": 2378,
+            "name": "TrezarCoin",
+            "link": "https:\/\/twitter.com\/TrezarCoin",
+            "lists": 26,
+            "Points": 2508
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1503577354",
+                    "open_total_issues": "7",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1507922807",
+                    "closed_total_issues": "2",
+                    "size": "7567",
+                    "stars": 19,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1515947186",
+                    "open_pull_issues": "0",
+                    "forks": 7,
+                    "url": "https:\/\/github.com\/TrezarCoin\/TrezarCoin",
+                    "closed_issues": "2",
+                    "subscribers": 11,
+                    "open_issues": "7",
+                    "language": "C++",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 66
+        }
+    }
+}

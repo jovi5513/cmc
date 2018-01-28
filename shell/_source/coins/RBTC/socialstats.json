@@ -1,0 +1,135 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "RBTC",
+            "CoinName": "Bitcoin Revolution",
+            "Type": "Webpagecoinp",
+            "Points": 8332
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4323,
+                    "Name": "ACoin",
+                    "FullName": "ACoin (ACOIN)",
+                    "ImageUrl": "\/media\/20079\/acoin.png",
+                    "Url": "\/coins\/acoin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 463101,
+                    "Name": "Monero Gold",
+                    "FullName": "Monero Gold (XMRG)",
+                    "ImageUrl": "\/media\/16746651\/xmrg.png",
+                    "Url": "\/coins\/xmrg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 666891,
+                    "Name": "Jetcoin",
+                    "FullName": "Jetcoin (JET)",
+                    "ImageUrl": "\/media\/20780772\/jet.png",
+                    "Url": "\/coins\/jet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22268,
+                    "Name": "SharkCoin",
+                    "FullName": "SharkCoin (SAK)",
+                    "ImageUrl": "\/media\/351079\/sak.png",
+                    "Url": "\/coins\/sak\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 314355,
+                    "Name": "FoodCoin",
+                    "FullName": "FoodCoin (FDC)",
+                    "ImageUrl": "\/media\/12318125\/fdc.jpg",
+                    "Url": "\/coins\/fdc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 252359,
+                    "Name": "Z2 Coin",
+                    "FullName": "Z2 Coin (Z2)",
+                    "ImageUrl": "\/media\/9350780\/z2.png",
+                    "Url": "\/coins\/z2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5344,
+                    "Name": "BitCrystal",
+                    "FullName": "BitCrystal (BTCRY)",
+                    "ImageUrl": "\/media\/20210\/btcry.png",
+                    "Url": "\/coins\/btcry\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 336705,
+                    "Name": "Chronologic",
+                    "FullName": "Chronologic (DAY)",
+                    "ImageUrl": "\/media\/12318271\/day.png",
+                    "Url": "\/coins\/day\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42344,
+                    "Name": "Ride My Car",
+                    "FullName": "Ride My Car (RIDE)",
+                    "ImageUrl": "\/media\/1382388\/ride.png",
+                    "Url": "\/coins\/ride\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 176336,
+                    "Name": "Harbour DAO",
+                    "FullName": "Harbour DAO (HRB)",
+                    "ImageUrl": "\/media\/1383695\/hrb.png",
+                    "Url": "\/coins\/hrb\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "PageViewsSplit": {
+                "Overview": 47,
+                "Markets": 1,
+                "Analysis": 3,
+                "Charts": 4,
+                "Trades": 4,
+                "Orderbook": 0,
+                "Forum": 7,
+                "Influence": 4
+            },
+            "PageViews": 70
+        },
+        "Twitter": {
+            "favourites": "186",
+            "lists": 1,
+            "statuses": 94,
+            "following": "29",
+            "account_creation": "1509810547",
+            "name": "Bitcoin Revolution",
+            "followers": 3414,
+            "link": "https:\/\/twitter.com\/BITCOIN_RBTC",
+            "Points": 3419
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "Bitcoinrevolution\/RBTC",
+            "likes": 4913,
+            "link": "https:\/\/www.facebook.com\/BlTCOlNREVOLUTlON\/",
+            "talking_about": "8",
+            "is_closed": "false",
+            "Points": 4913
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

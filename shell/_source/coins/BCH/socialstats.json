@@ -1,0 +1,204 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BCH",
+            "CoinName": "Bitcoin Cash \/ BCC",
+            "Type": "Webpagecoinp",
+            "Points": 646334
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 1182,
+                    "Name": "Bitcoin",
+                    "FullName": "Bitcoin (BTC)",
+                    "ImageUrl": "\/media\/19633\/btc.png",
+                    "Url": "\/coins\/btc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7605,
+                    "Name": "Ethereum",
+                    "FullName": "Ethereum (ETH)",
+                    "ImageUrl": "\/media\/20646\/eth_logo.png",
+                    "Url": "\/coins\/eth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5031,
+                    "Name": "Ripple",
+                    "FullName": "Ripple (XRP)",
+                    "ImageUrl": "\/media\/19972\/ripple.png",
+                    "Url": "\/coins\/xrp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3808,
+                    "Name": "Litecoin",
+                    "FullName": "Litecoin (LTC)",
+                    "ImageUrl": "\/media\/19782\/litecoin-logo.png",
+                    "Url": "\/coins\/ltc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 127356,
+                    "Name": "IOTA",
+                    "FullName": "IOTA (IOT)",
+                    "ImageUrl": "\/media\/1383540\/iota_logo.png",
+                    "Url": "\/coins\/iot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4614,
+                    "Name": "Stellar",
+                    "FullName": "Stellar (XLM)",
+                    "ImageUrl": "\/media\/20696\/str.png",
+                    "Url": "\/coins\/xlm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5038,
+                    "Name": "Monero",
+                    "FullName": "Monero (XMR)",
+                    "ImageUrl": "\/media\/19969\/xmr.png",
+                    "Url": "\/coins\/xmr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 27368,
+                    "Name": "NEO",
+                    "FullName": "NEO (NEO)",
+                    "ImageUrl": "\/media\/1383858\/neo.jpg",
+                    "Url": "\/coins\/neo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4433,
+                    "Name": "Verge",
+                    "FullName": "Verge (XVG)",
+                    "ImageUrl": "\/media\/12318032\/xvg.png",
+                    "Url": "\/coins\/xvg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24854,
+                    "Name": "ZCash",
+                    "FullName": "ZCash (ZEC)",
+                    "ImageUrl": "\/media\/351360\/zec.png",
+                    "Url": "\/coins\/zec\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 673770,
+                    "Name": "emirmaria629",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673770\/edd1e8f5-458a-437a-a743-8de403011df9.jpg",
+                    "Url": "\/profile\/emirmaria629\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677986,
+                    "Name": "josemvbrites",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677986\/c4b1b790-b28d-4550-9930-112d1c17e226.jpg",
+                    "Url": "\/profile\/josemvbrites\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677544,
+                    "Name": "2E17B0CB",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677544\/5b4c9fee-4f04-4e98-8b03-a236d890bcb1.jpg",
+                    "Url": "\/profile\/2E17B0CB\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677195,
+                    "Name": "ized",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677195\/1a06fa4f-40cd-404d-875b-15ba95307198.png",
+                    "Url": "\/profile\/ized\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677789,
+                    "Name": "glenwoodj",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677789\/1808441c-6445-4c61-ab2a-7af896dc666c.jpg",
+                    "Url": "\/profile\/glenwoodj\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 460150,
+                    "Name": "david.d.fontaine",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/460150\/a47e9342-aa54-40ad-ad90-6db121e21474.jpg",
+                    "Url": "\/profile\/david.d.fontaine\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 417041,
+                    "Name": "politkin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/417041\/a381f5d5-6884-47d3-8715-b47d3d918c1c.jpg",
+                    "Url": "\/profile\/politkin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 600735,
+                    "Name": "Riskee",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/600735\/74bb031b-1ce5-4a7c-b0b8-e900214c7512.jpg",
+                    "Url": "\/profile\/Riskee\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 602949,
+                    "Name": "Richie_",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/602949\/986ee26a-2c1f-459d-ba47-1db3398a9a8d.jpg",
+                    "Url": "\/profile\/Richie_\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 57907,
+                    "Name": "xtreme",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/57907\/d55db348-9eba-4737-a1f6-07e81198e02d.jpg",
+                    "Url": "\/profile\/xtreme\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677637,
+                    "Name": "drewsdesign",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677637\/317aeb3b-6bc6-4549-b6f5-90e604a3cb34.jpg",
+                    "Url": "\/profile\/drewsdesign\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 12875,
+            "Points": 645965,
+            "Posts": "7196",
+            "Comments": "14419",
+            "PageViewsSplit": {
+                "Overview": 2226509,
+                "Markets": 184745,
+                "Analysis": 74778,
+                "Charts": 540746,
+                "Trades": 101187,
+                "Orderbook": 9123,
+                "Forum": 558853,
+                "Influence": 4001
+            },
+            "PageViews": 3699942
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

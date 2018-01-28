@@ -1,0 +1,190 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "EOC",
+            "CoinName": "EveryonesCoin",
+            "Type": "Webpagecoinp",
+            "Points": 386
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 37195,
+                    "Name": "ConquestCoin",
+                    "FullName": "ConquestCoin (CQST)",
+                    "ImageUrl": "\/media\/1381983\/cqst.png",
+                    "Url": "\/coins\/cqst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5393,
+                    "Name": "OctoCoin",
+                    "FullName": "OctoCoin (OCTO)",
+                    "ImageUrl": "\/media\/19983\/888.png",
+                    "Url": "\/coins\/octo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4415,
+                    "Name": "CheckCoin",
+                    "FullName": "CheckCoin (CXC)",
+                    "ImageUrl": "\/media\/20246\/cxc.png",
+                    "Url": "\/coins\/cxc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21773,
+                    "Name": "XanaxCoin",
+                    "FullName": "XanaxCoin (XNX)",
+                    "ImageUrl": "\/media\/351033\/xnx.jpg",
+                    "Url": "\/coins\/xnx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4422,
+                    "Name": "Community Coin",
+                    "FullName": "Community Coin (COMM)",
+                    "ImageUrl": "\/media\/19661\/comm.png",
+                    "Url": "\/coins\/comm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 586638,
+                    "Name": "BitAsean",
+                    "FullName": "BitAsean (BAS)",
+                    "ImageUrl": "\/media\/20780613\/bas.png",
+                    "Url": "\/coins\/bas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28027,
+                    "Name": "Sense",
+                    "FullName": "Sense (SNS)",
+                    "ImageUrl": "\/media\/351494\/sns.png",
+                    "Url": "\/coins\/sns\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24887,
+                    "Name": "RustCoin",
+                    "FullName": "RustCoin (RUST)",
+                    "ImageUrl": "\/media\/351365\/rust.png",
+                    "Url": "\/coins\/rust\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 313988,
+                    "Name": "StockBet",
+                    "FullName": "StockBet (STOCKBET)",
+                    "ImageUrl": "\/media\/12318119\/stockbet.png",
+                    "Url": "\/coins\/stockbet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60618,
+                    "Name": "ArpaCoin",
+                    "FullName": "ArpaCoin (ARPA)",
+                    "ImageUrl": "\/media\/1382966\/arpa.png",
+                    "Url": "\/coins\/arpa\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 653145,
+                    "Name": "ilnar.fattakhov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/653145\/9384aab5-a678-4f4e-8307-7378313910f5.jpg",
+                    "Url": "\/profile\/ilnar.fattakhov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 433435,
+                    "Name": "patrickenikej",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/433435\/91f9903e-e96d-44bf-816b-2058bdb5c4e6.jpg",
+                    "Url": "\/profile\/patrickenikej\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 707,
+                "Markets": 37,
+                "Analysis": 38,
+                "Charts": 72,
+                "Trades": 24,
+                "Orderbook": 2,
+                "Forum": 8,
+                "Influence": 10
+            },
+            "PageViews": 898
+        },
+        "Twitter": {
+            "followers": 262,
+            "following": "176",
+            "lists": 4,
+            "favourites": "76",
+            "statuses": 159,
+            "account_creation": "1432095803",
+            "name": "Everyone'sCoin Dev",
+            "link": "https:\/\/twitter.com\/EiniaOraDev",
+            "Points": 282
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 1,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "3108",
+                    "url": "https:\/\/github.com\/EiniaOraDev\/EiniaOraNewSourceCode",
+                    "last_update": "1469389454",
+                    "last_push": "1438317172",
+                    "created_at": "1433477383",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 4
+        }
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ELLA",
+            "CoinName": "Ellaism",
+            "Type": "Webpagecoinp",
+            "Points": 4232
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 234707,
+                    "Name": "CPROP",
+                    "FullName": "CPROP (MLS)",
+                    "ImageUrl": "\/media\/9350696\/mls.png",
+                    "Url": "\/coins\/mls\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 531426,
+                    "Name": "MobileGo",
+                    "FullName": "MobileGo (EMGO)",
+                    "ImageUrl": "\/media\/16746703\/emgo.png",
+                    "Url": "\/coins\/emgo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34223,
+                    "Name": "FirstCoin",
+                    "FullName": "FirstCoin (FIRST)",
+                    "ImageUrl": "\/media\/352116\/first.png",
+                    "Url": "\/coins\/first\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 74912,
+                    "Name": "Apx",
+                    "FullName": "Apx (APX)",
+                    "ImageUrl": "\/media\/1383235\/apx.png",
+                    "Url": "\/coins\/apx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340816,
+                    "Name": "Clout",
+                    "FullName": "Clout (CLOUT)",
+                    "ImageUrl": "\/media\/12318329\/clout.png",
+                    "Url": "\/coins\/clout\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 214738,
+                    "Name": "Oceanlab",
+                    "FullName": "Oceanlab (OCL)",
+                    "ImageUrl": "\/media\/1383989\/ocl.png",
+                    "Url": "\/coins\/ocl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 222436,
+                    "Name": "Cash Poker Pro",
+                    "FullName": "Cash Poker Pro (CASH*)",
+                    "ImageUrl": "\/media\/1384020\/cpp.png",
+                    "Url": "\/coins\/cashstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5362,
+                    "Name": "BlakeCoin",
+                    "FullName": "BlakeCoin (BLC)",
+                    "ImageUrl": "\/media\/19623\/blc.png",
+                    "Url": "\/coins\/blc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20446,
+                    "Name": "Influxcoin",
+                    "FullName": "Influxcoin (INFX)",
+                    "ImageUrl": "\/media\/350919\/infx.png",
+                    "Url": "\/coins\/infx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28880,
+                    "Name": "Swiscoin",
+                    "FullName": "Swiscoin (SCN)",
+                    "ImageUrl": "\/media\/351563\/scn.png",
+                    "Url": "\/coins\/scn\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 664684,
+                    "Name": "e.zhevak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/664684\/47b2bfdd-36df-4fe4-bb02-d5a014b9decb.jpg",
+                    "Url": "\/profile\/e.zhevak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 663918,
+                    "Name": "pantya7-sp",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/663918\/7d665e3a-64df-46a9-b289-dce03f5fa877.jpg",
+                    "Url": "\/profile\/pantya7-sp\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 660017,
+                    "Name": "dailykrypto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/660017\/f41eca8c-a98d-4c20-9828-fbcbdcc04bba.jpg",
+                    "Url": "\/profile\/dailykrypto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 662825,
+                    "Name": "rodrigo.lopes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/662825\/2058ede6-e006-474d-9edc-1f36c5bac3cb.jpg",
+                    "Url": "\/profile\/rodrigo.lopes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 654202,
+                    "Name": "lunarlyte",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/654202\/85d2f8e8-e039-4b48-9dc3-2592cd981789.jpg",
+                    "Url": "\/profile\/lunarlyte\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 185472,
+                    "Name": "elrave",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/185472\/89966ea1-d08e-43ad-bafc-129551096fb0.jpg",
+                    "Url": "\/profile\/elrave\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 274995,
+                    "Name": "ice.durant7",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/274995\/a65b18bf-26ea-4aa5-a173-c3f3eb53daef.jpg",
+                    "Url": "\/profile\/ice.durant7\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 637605,
+                    "Name": "sevolods",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/637605\/c6d3411c-cd57-4e3d-9784-5595093154b0.jpg",
+                    "Url": "\/profile\/sevolods\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 486639,
+                    "Name": "giordanodesign",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/486639\/99506846-defb-427e-967f-d39a077c97c5.jpg",
+                    "Url": "\/profile\/giordanodesign\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 122301,
+                    "Name": "vodwow",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/122301\/79cf0433-2540-4070-a646-086ce11e66b7.jpg",
+                    "Url": "\/profile\/vodwow\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 633188,
+                    "Name": "borankit",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/633188\/36eb9a20-1f93-4041-b27d-3a77674813bc.jpg",
+                    "Url": "\/profile\/borankit\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1195,
+            "Posts": "10",
+            "Comments": "2",
+            "Followers": 37,
+            "PageViewsSplit": {
+                "Overview": 3025,
+                "Markets": 181,
+                "Analysis": 138,
+                "Charts": 141,
+                "Trades": 141,
+                "Orderbook": 0,
+                "Forum": 140,
+                "Influence": 69
+            },
+            "PageViews": 3835
+        },
+        "Twitter": {
+            "favourites": "335",
+            "statuses": 372,
+            "following": "499",
+            "account_creation": "1507928009",
+            "followers": 2533,
+            "name": "ELLAISM",
+            "link": "https:\/\/twitter.com\/EllaismCoin",
+            "lists": 28,
+            "Points": 2673
+        },
+        "Reddit": {
+            "posts_per_hour": "0.03",
+            "link": "https:\/\/www.reddit.com\/r\/ellaism\/",
+            "comments_per_hour": "0.69",
+            "posts_per_day": "0.65",
+            "active_users": 16,
+            "community_creation": "1509479808",
+            "subscribers": 283,
+            "comments_per_day": 16.59,
+            "name": "ellaism",
+            "Points": 364
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

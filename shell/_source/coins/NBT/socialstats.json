@@ -1,0 +1,225 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NBT",
+            "CoinName": "NuBits",
+            "Type": "Webpagecoinp",
+            "Points": 35171
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 241757,
+                    "Name": "BANKEX",
+                    "FullName": "BANKEX (BKX)",
+                    "ImageUrl": "\/media\/14913571\/bkx.png",
+                    "Url": "\/coins\/bkx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 247322,
+                    "Name": "EasyMine",
+                    "FullName": "EasyMine (EMT)",
+                    "ImageUrl": "\/media\/9350765\/emt.png",
+                    "Url": "\/coins\/emt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 385952,
+                    "Name": "Genesis Vision",
+                    "FullName": "Genesis Vision (GVT)",
+                    "ImageUrl": "\/media\/14913634\/gvt.png",
+                    "Url": "\/coins\/gvt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5305,
+                    "Name": "BlockNet",
+                    "FullName": "BlockNet (BLOCK)",
+                    "ImageUrl": "\/media\/20204\/block.png",
+                    "Url": "\/coins\/block\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 360299,
+                    "Name": "SelfKey",
+                    "FullName": "SelfKey (KEY*)",
+                    "ImageUrl": "\/media\/14761912\/key.png",
+                    "Url": "\/coins\/key\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 350395,
+                    "Name": "Wyrify",
+                    "FullName": "Wyrify (WYR)",
+                    "ImageUrl": "\/media\/12318413\/wyr.png",
+                    "Url": "\/coins\/wyr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 322013,
+                    "Name": "Regalcoin",
+                    "FullName": "Regalcoin (REC)",
+                    "ImageUrl": "\/media\/12318179\/rec.png",
+                    "Url": "\/coins\/rec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 299415,
+                    "Name": "Breakout Stake",
+                    "FullName": "Breakout Stake (BRX)",
+                    "ImageUrl": "\/media\/12317960\/brx.png",
+                    "Url": "\/coins\/brx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338426,
+                    "Name": "Covesting",
+                    "FullName": "Covesting (COV)",
+                    "ImageUrl": "\/media\/12318288\/cov.png",
+                    "Url": "\/coins\/cov\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 409249,
+                    "Name": "Electra",
+                    "FullName": "Electra (ECA)",
+                    "ImageUrl": "\/media\/16404869\/eca.png",
+                    "Url": "\/coins\/eca\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 570244,
+                    "Name": "jounk",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/570244\/5c28eb07-de31-4eb3-a67a-ec090c919ace.jpg",
+                    "Url": "\/profile\/jounk\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 468473,
+                    "Name": "tweaker3",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/468473\/da499223-4e40-47ed-9365-65a819e4d8c1.jpg",
+                    "Url": "\/profile\/tweaker3\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 134691,
+                    "Name": "nhcarreon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/134691\/594695b0-ec99-4410-923e-6768bbd6aa2c.jpg",
+                    "Url": "\/profile\/nhcarreon\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 483526,
+                    "Name": "robin.demey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/483526\/1eb13878-d56d-4bb0-9cec-20344169804a.jpg",
+                    "Url": "\/profile\/robin.demey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 405776,
+                    "Name": "drewm389",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/405776\/ed5ac2e6-4316-4c5a-ba52-805913fc13d0.jpg",
+                    "Url": "\/profile\/drewm389\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 254436,
+                    "Name": "dextro",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/254436\/81a76285-d63c-4c90-a0c6-5e3325b7f6c9.jpg",
+                    "Url": "\/profile\/dextro\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 218257,
+                    "Name": "Altzet",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/218257\/c544e76d-2f95-420f-a455-e942031c80d2.jpg",
+                    "Url": "\/profile\/Altzet\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 334962,
+                    "Name": "quintbuis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/334962\/931297a4-8c89-4985-9eb2-852ebf13ab2c.jpg",
+                    "Url": "\/profile\/quintbuis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 333615,
+                    "Name": "kilwa9283",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/333615\/e2723831-8398-45fe-92dd-516f43f3c6a9.jpg",
+                    "Url": "\/profile\/kilwa9283\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 329739,
+                    "Name": "E1968137",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/329739\/831ab4f0-9b37-4619-8d6a-c2555222f724.jpg",
+                    "Url": "\/profile\/E1968137\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1975,
+            "Posts": "1",
+            "Followers": 78,
+            "PageViewsSplit": {
+                "Overview": 4169,
+                "Markets": 261,
+                "Analysis": 169,
+                "Charts": 1289,
+                "Trades": 174,
+                "Orderbook": 14,
+                "Forum": 136,
+                "Influence": 61
+            },
+            "PageViews": 6273
+        },
+        "Twitter": {
+            "statuses": 1540,
+            "favourites": "1110",
+            "following": "1011",
+            "account_creation": "1395512518",
+            "followers": 30956,
+            "name": "NuBits",
+            "link": "https:\/\/twitter.com\/OfficialNuBits",
+            "lists": 163,
+            "Points": 31772
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "link": "https:\/\/www.reddit.com\/r\/NuBits\/",
+            "comments_per_hour": "0.01",
+            "posts_per_day": "0.11",
+            "active_users": 24,
+            "community_creation": "1393555821",
+            "subscribers": 693,
+            "name": "NuBits",
+            "comments_per_day": 0.14,
+            "Points": 765
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "9",
+            "name": "Nubits",
+            "likes": 659,
+            "link": "https:\/\/www.facebook.com\/OfficialNuBits\/",
+            "Points": 659
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

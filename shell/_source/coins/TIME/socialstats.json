@@ -1,0 +1,226 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "TIME",
+            "CoinName": "Time",
+            "Type": "Webpagecoinp",
+            "Points": 40772
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 127667,
+                    "Name": "Quantum Resistant Ledger",
+                    "FullName": "Quantum Resistant Ledger (QRL)",
+                    "ImageUrl": "\/media\/1383543\/qrl.png",
+                    "Url": "\/coins\/qrl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4345,
+                    "Name": "MyriadCoin",
+                    "FullName": "MyriadCoin (XMY)",
+                    "ImageUrl": "\/media\/19815\/myr.png",
+                    "Url": "\/coins\/xmy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 419209,
+                    "Name": "Sether",
+                    "FullName": "Sether (SETH)",
+                    "ImageUrl": "\/media\/16746447\/seth.png",
+                    "Url": "\/coins\/seth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 321189,
+                    "Name": "eBitcoin",
+                    "FullName": "eBitcoin (EBTC)",
+                    "ImageUrl": "\/media\/12318175\/ebtc.png",
+                    "Url": "\/coins\/ebtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341267,
+                    "Name": "Red Pulse",
+                    "FullName": "Red Pulse (RPX)",
+                    "ImageUrl": "\/media\/12318339\/rpx.png",
+                    "Url": "\/coins\/rpx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 335127,
+                    "Name": "Aeron",
+                    "FullName": "Aeron (ARN)",
+                    "ImageUrl": "\/media\/12318261\/arn.png",
+                    "Url": "\/coins\/arn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 307219,
+                    "Name": "Ripio",
+                    "FullName": "Ripio (RCN)",
+                    "ImageUrl": "\/media\/12318046\/rnc.png",
+                    "Url": "\/coins\/rcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5374,
+                    "Name": "PinkCoin",
+                    "FullName": "PinkCoin (PINK)",
+                    "ImageUrl": "\/media\/350588\/pinkcoin-logo.png",
+                    "Url": "\/coins\/pink\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369132,
+                    "Name": "SimpleToken",
+                    "FullName": "SimpleToken (OST)",
+                    "ImageUrl": "\/media\/14913437\/st.png",
+                    "Url": "\/coins\/ost\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 56249,
+                    "Name": "ChainCoin",
+                    "FullName": "ChainCoin (CHC)",
+                    "ImageUrl": "\/media\/1383907\/chc.png",
+                    "Url": "\/coins\/chc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 523162,
+                    "Name": "je_we_fu_ze",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/523162\/d9b250d2-1451-4fe9-ac4f-5d354ddc3a45.png",
+                    "Url": "\/profile\/je_we_fu_ze\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 377007,
+                    "Name": "max.vilchevsky",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/377007\/d792c795-73aa-4a92-bee0-cf6fbf63e7a2.jpg",
+                    "Url": "\/profile\/max.vilchevsky\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 79831,
+                    "Name": "virex",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/79831\/b0701177-f8f7-4c51-9dbb-0021bd3a0c08.png",
+                    "Url": "\/profile\/virex\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 295494,
+                    "Name": "ferditaylan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/295494\/a39521b8-9e8f-4ca4-8f2c-02ec497e4b87.jpg",
+                    "Url": "\/profile\/ferditaylan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 627435,
+                    "Name": "donrusso",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/627435\/d79169b4-c0b5-4c01-9944-a525bab1b2a3.jpg",
+                    "Url": "\/profile\/donrusso\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 190170,
+                    "Name": "trapeznikovip",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/190170\/56687d6d-e94a-4e03-b2cf-41e789b309eb.jpg",
+                    "Url": "\/profile\/trapeznikovip\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 550980,
+                    "Name": "apolo.vazquez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/550980\/342b27a3-f9a8-46ba-b810-451451868ef3.jpg",
+                    "Url": "\/profile\/apolo.vazquez\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 125318,
+                    "Name": "gototradeit",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/125318\/5bcfbb2c-5437-4877-b1f3-2282442b8192.jpg",
+                    "Url": "\/profile\/gototradeit\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 562899,
+                    "Name": "mehmetturkyurt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/562899\/aefa0d77-06cf-4681-baaf-1b25803dbcac.jpg",
+                    "Url": "\/profile\/mehmetturkyurt\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 503278,
+                    "Name": "johndurkin79",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/503278\/8ffa5d67-a54f-4029-bbac-8b9b2ff31fc7.jpg",
+                    "Url": "\/profile\/johndurkin79\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 3765,
+            "Followers": 115,
+            "Posts": "34",
+            "Comments": "4",
+            "PageViewsSplit": {
+                "Overview": 9474,
+                "Markets": 682,
+                "Analysis": 203,
+                "Charts": 903,
+                "Trades": 326,
+                "Orderbook": 11,
+                "Forum": 402,
+                "Influence": 76
+            },
+            "PageViews": 12077
+        },
+        "Twitter": {
+            "following": "0",
+            "account_creation": "1475518801",
+            "name": "Chronobank.io",
+            "lists": 334,
+            "favourites": "736",
+            "statuses": 756,
+            "followers": 12630,
+            "link": "https:\/\/twitter.com\/ChronobankNews",
+            "Points": 14300
+        },
+        "Reddit": {
+            "posts_per_hour": "0.03",
+            "comments_per_hour": "0.01",
+            "posts_per_day": "0.84",
+            "comments_per_day": 0.31,
+            "name": "ChronoBank",
+            "link": "https:\/\/www.reddit.com\/r\/ChronoBank\/",
+            "active_users": 28,
+            "community_creation": "1475838823",
+            "subscribers": 425,
+            "Points": 509
+        },
+        "Facebook": {
+            "likes": 22197,
+            "link": "https:\/\/www.facebook.com\/ChronoBank.io\/",
+            "is_closed": "false",
+            "talking_about": "238",
+            "name": "ChronoBank",
+            "Points": 22197
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

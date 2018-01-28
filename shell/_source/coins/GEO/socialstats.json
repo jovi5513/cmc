@@ -1,0 +1,212 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GEO",
+            "CoinName": "GeoCoin",
+            "Type": "Webpagecoinp",
+            "Points": 12485
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 41192,
+                    "Name": "Maker",
+                    "FullName": "Maker (MKR)",
+                    "ImageUrl": "\/media\/1382296\/mkr.png",
+                    "Url": "\/coins\/mkr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5387,
+                    "Name": "Curecoin",
+                    "FullName": "Curecoin (CURE)",
+                    "ImageUrl": "\/media\/1383812\/cure.png",
+                    "Url": "\/coins\/cure\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 349487,
+                    "Name": "GATCOIN",
+                    "FullName": "GATCOIN (GAT)",
+                    "ImageUrl": "\/media\/12318390\/gat.png",
+                    "Url": "\/coins\/gat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 388493,
+                    "Name": "Experty",
+                    "FullName": "Experty (EXY)",
+                    "ImageUrl": "\/media\/14913645\/exy.png",
+                    "Url": "\/coins\/exy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20680,
+                    "Name": "VirtaCoin",
+                    "FullName": "VirtaCoin (VTA)",
+                    "ImageUrl": "\/media\/350945\/vta.png",
+                    "Url": "\/coins\/vta\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 89572,
+                    "Name": "Etheroll",
+                    "FullName": "Etheroll (DICE)",
+                    "ImageUrl": "\/media\/1383361\/dice.png",
+                    "Url": "\/coins\/dice\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5307,
+                    "Name": "Giga Hash",
+                    "FullName": "Giga Hash (GHS)",
+                    "ImageUrl": "\/media\/19565\/cexio.png",
+                    "Url": "\/coins\/ghs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 198698,
+                    "Name": "EQUI",
+                    "FullName": "EQUI (EQ)",
+                    "ImageUrl": "\/media\/1383891\/eq.png",
+                    "Url": "\/coins\/eq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341422,
+                    "Name": "Change",
+                    "FullName": "Change (CAG)",
+                    "ImageUrl": "\/media\/12318346\/cag.png",
+                    "Url": "\/coins\/cag\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 439963,
+                    "Name": "CyberMiles",
+                    "FullName": "CyberMiles (CMT*)",
+                    "ImageUrl": "\/media\/16746569\/cmt.png",
+                    "Url": "\/coins\/cmtstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 670524,
+                    "Name": "leontk8",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670524\/2cc92b78-b574-4413-b232-c24e3cda95fe.jpg",
+                    "Url": "\/profile\/leontk8\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 482457,
+                    "Name": "kklaus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/482457\/8f49c649-d517-46ec-8af8-7ae2b39be7c7.jpg",
+                    "Url": "\/profile\/kklaus\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 469838,
+                    "Name": "oktay",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/469838\/ecb059cf-cef9-476b-8089-6be773f8cf46.jpg",
+                    "Url": "\/profile\/oktay\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 544834,
+                    "Name": "gmartenson",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/544834\/4175b8ed-d9de-482e-bcec-60fe247d10f3.jpg",
+                    "Url": "\/profile\/gmartenson\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 228880,
+                    "Name": "bdumitrascu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/228880\/87cc52df-a2f1-454a-a034-3e982ab16ade.jpg",
+                    "Url": "\/profile\/bdumitrascu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 316525,
+                    "Name": "lengochakafe",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/316525\/7b066c49-caec-408c-8b31-b43cafbac192.jpg",
+                    "Url": "\/profile\/lengochakafe\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 491721,
+                    "Name": "ryan.eaton.87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/491721\/65872d0b-7a74-4290-9b3c-c09e52afc492.jpg",
+                    "Url": "\/profile\/ryan.eaton.87\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 467570,
+                    "Name": "rpkraaij",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/467570\/e7d4daeb-43e6-4678-9a34-49b9b94472a6.jpg",
+                    "Url": "\/profile\/rpkraaij\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 297803,
+                    "Name": "mark_ard_sco",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/297803\/07564011-178b-4a56-9eec-91384719ea1e.png",
+                    "Url": "\/profile\/mark_ard_sco\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 112173,
+                    "Name": "serafini.luciano",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/112173\/f61ce66b-9ed3-4cd3-98d0-c72426ed16b9.jpg",
+                    "Url": "\/profile\/serafini.luciano\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 418077,
+                    "Name": "shah_rizam",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/418077\/8ae71946-1f06-4032-a9f4-7503999d525b.jpg",
+                    "Url": "\/profile\/shah_rizam\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 2630,
+            "Posts": "11",
+            "Comments": "3",
+            "Followers": 93,
+            "PageViewsSplit": {
+                "Overview": 8724,
+                "Markets": 468,
+                "Analysis": 250,
+                "Charts": 1159,
+                "Trades": 235,
+                "Orderbook": 13,
+                "Forum": 335,
+                "Influence": 73
+            },
+            "PageViews": 11257
+        },
+        "Twitter": {
+            "following": "586",
+            "account_creation": "1420994441",
+            "statuses": 108,
+            "favourites": "142",
+            "followers": 8909,
+            "name": "GeoCoin",
+            "link": "https:\/\/twitter.com\/geo_coin",
+            "lists": 189,
+            "Points": 9854
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

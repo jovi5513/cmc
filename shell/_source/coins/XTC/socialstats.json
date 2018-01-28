@@ -1,0 +1,168 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XTC",
+            "CoinName": "TileCoin",
+            "Type": "Webpagecoinp",
+            "Points": 429
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4598,
+                    "Name": "Saturn2Coin",
+                    "FullName": "Saturn2Coin (SAT2)",
+                    "ImageUrl": "\/media\/19897\/sat2.png",
+                    "Url": "\/coins\/sat2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5036,
+                    "Name": "ZedCoins",
+                    "FullName": "ZedCoins (ZED)",
+                    "ImageUrl": "\/media\/19981\/zed.png",
+                    "Url": "\/coins\/zed\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 13281,
+                    "Name": "LyraBar",
+                    "FullName": "LyraBar (LYB)",
+                    "ImageUrl": "\/media\/20339\/lyb.png",
+                    "Url": "\/coins\/lyb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340112,
+                    "Name": "CybCSec Coin",
+                    "FullName": "CybCSec Coin (XCS)",
+                    "ImageUrl": "\/media\/12318323\/xcs.png",
+                    "Url": "\/coins\/xcs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5326,
+                    "Name": "MaieutiCoin",
+                    "FullName": "MaieutiCoin (MMXIV)",
+                    "ImageUrl": "\/media\/19798\/mmxiv.png",
+                    "Url": "\/coins\/mmxiv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30367,
+                    "Name": "Eclipse",
+                    "FullName": "Eclipse (EC)",
+                    "ImageUrl": "\/media\/351750\/ec.jpg",
+                    "Url": "\/coins\/ec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42110,
+                    "Name": "BombCoin",
+                    "FullName": "BombCoin (BOMB)",
+                    "ImageUrl": "\/media\/1382384\/bomb.png",
+                    "Url": "\/coins\/bomb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 232607,
+                    "Name": "JustDatingSite",
+                    "FullName": "JustDatingSite (JDC)",
+                    "ImageUrl": "\/media\/1384049\/jdc.png",
+                    "Url": "\/coins\/jdc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5028,
+                    "Name": "LibertyCoin",
+                    "FullName": "LibertyCoin (XLB)",
+                    "ImageUrl": "\/media\/19966\/xlb.png",
+                    "Url": "\/coins\/xlb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 194689,
+                    "Name": "CoinJob",
+                    "FullName": "CoinJob (XCJ)",
+                    "ImageUrl": "\/media\/1383849\/xcj.png",
+                    "Url": "\/coins\/xcj\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 239697,
+                    "Name": "malek_ghaemi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/239697\/c3b54d82-9018-4201-bb1f-054b14352bbb.jpg",
+                    "Url": "\/profile\/malek_ghaemi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 284353,
+                    "Name": "rkendall",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/284353\/b2d598e2-8389-442e-a649-cef9e878f3b6.jpg",
+                    "Url": "\/profile\/rkendall\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 57387,
+                    "Name": "coachtarek24",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/57387\/52eb7718-3caa-4185-aba0-d24be2259f93.jpg",
+                    "Url": "\/profile\/coachtarek24\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 113113,
+                    "Name": "mantheman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/113113\/cd412e1d-5b06-4700-8d16-ebd9c4798ac2.jpg",
+                    "Url": "\/profile\/mantheman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 85026,
+                    "Name": "JumboDogs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/85026\/2363adca-f7cc-4fea-ad46-54d6d474b758.png",
+                    "Url": "\/profile\/JumboDogs\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "PageViewsSplit": {
+                "Overview": 892,
+                "Markets": 87,
+                "Analysis": 60,
+                "Charts": 54,
+                "Trades": 55,
+                "Orderbook": 0,
+                "Forum": 40,
+                "Influence": 13
+            },
+            "PageViews": 1201
+        },
+        "Twitter": {
+            "followers": 249,
+            "following": "54",
+            "lists": 11,
+            "favourites": "0",
+            "statuses": 4,
+            "account_creation": "1412279812",
+            "name": "TileCoin",
+            "link": "https:\/\/twitter.com\/tilecoinx",
+            "Points": 304
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

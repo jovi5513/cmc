@@ -1,0 +1,85 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "SpaceCoin (SPACE) - Live streaming prices and market cap",
+            "PageDescription": "Live SpaceCoin prices from all markets and SPACE coin market Capitalization. Stay up to date with the latest SpaceCoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351095\/space.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "22410",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "SpaceCoin (SPACE)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "SPACE",
+            "Url": "\/coins\/space\/",
+            "BaseAngularUrl": "\/coins\/space\/",
+            "Name": "SpaceCoin",
+            "ImageUrl": "\/media\/351095\/space.png",
+            "Description": "<p><span>SpaceCoin is a Proof of Work and Proof of Stake hybrid cryptocurrency based on the Scrypt hashing algorithm. SPACE can be mined with computational power or with coin holdings.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "31\/08\/2015",
+            "Twitter": "@SpaceCoinLab",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515950768,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 1120826,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 21313294.178363,
+            "PreviousTotalCoinsMined": 21313063.625982,
+            "BlockReward": 1.2190476191895
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~SPACE~BTC",
+            "2~Yobit~SPACE~DOGE",
+            "2~Yobit~SPACE~USD",
+            "2~Novaexchange~SPACE~LTC",
+            "2~Cryptopia~SPACE~DOGE",
+            "2~Cryptopia~SPACE~UNO",
+            "2~Novaexchange~SPACE~ETH",
+            "2~Novaexchange~SPACE~DOGE",
+            "2~Cryptopia~SPACE~DOT",
+            "2~Cryptopia~SPACE~BTC",
+            "2~Cryptopia~SPACE~LTC",
+            "2~Yobit~SPACE~RUR",
+            "2~Yobit~SPACE~WAVES",
+            "2~Novaexchange~SPACE~BTC",
+            "2~Yobit~SPACE~ETH"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~SPACE~BTC~2~0.00000269~1515946360~0.4~8.4e-7~200000078~156976.53787290998~0.46766713148249617~245538.21281273~0.7177783985623122~0.00000344~0.00000351~0.0000018~0.00000277~0.0000032~0.0000024~Yobit~7ffe9",
+            "5~CCCAGG~SPACE~DOGE~4~1.55~1515900815~231.14657853~358.2772036558974~200000009~5264.75627021~8954.43199549044~5264.75627021~8954.43199549044~3.42~4.4~1.55~3.42~4.4~1.55~Yobit~7ffe9",
+            "5~CCCAGG~SPACE~USD~2~0.025~1515946828~100~2.5~200000191~8863.54841591~332.19582884301644~12300.4878203~443.2778491517506~0.032~0.045~0.01~0.04~0.045~0.01~Yobit~7ffe9",
+            "5~CCCAGG~SPACE~LTC~4~0.00032998~1515196022~302.44378205~0.0998004~1515196022~0~0~0~0~0.00033~0.00033~0.00032998~0.00032998~0.00032998~0.00032998~Cryptopia~7ffe9",
+            "5~CCCAGG~SPACE~UNO~4~0.00010101~1496607177~1.61219~0.00016285~1496607177~0~0~0~0~0.00010101~0.00010101~0.00010101~0.00010101~0.00010101~0.00010101~Cryptopia~7ffe9",
+            "5~CCCAGG~SPACE~ETH~4~0.000025~1515630945~67.2535526~0.0016813388150000003~183861183~0~0~0~0~0.000025~0.000025~0.000025~0.000025~0.000025~0.000025~Yobit~7ffe9",
+            "5~CCCAGG~SPACE~DOT~4~0.80000001~1487937846~10.14228973~8.113832~1487937846~0~0~0~0~0.80000001~0.80000001~0.80000001~0.80000001~0.80000001~0.80000001~Cryptopia~7ffe9",
+            "5~CCCAGG~SPACE~RUR~4~1.55~1515931155~11.54551477~17.86089980367523~200000028~1068.2054752200002~1813.5517916507245~1080.08287379~1832.5556297190487~1.6~3.47~1.5~3.5~3.5~1.5~Yobit~7ffe9",
+            "5~CCCAGG~SPACE~WAVES~1~0.0100001~1515849078~19.25429429~0.192544868329429~200000006~0~0~0~0~0.01~0.0100001~0.01~0.0100001~0.0100001~0.0100001~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

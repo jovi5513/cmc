@@ -1,0 +1,160 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BAC*",
+            "CoinName": "LakeBanker",
+            "Type": "Webpagecoinp",
+            "Points": 536
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 7581,
+                    "Name": "Milllionaire Coin",
+                    "FullName": "Milllionaire Coin (MIL)",
+                    "ImageUrl": "\/media\/20354\/mil.png",
+                    "Url": "\/coins\/mil\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 400693,
+                    "Name": "Insta Cash Coin",
+                    "FullName": "Insta Cash Coin (ICC)",
+                    "ImageUrl": "\/media\/15887424\/icc.png",
+                    "Url": "\/coins\/icc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 653274,
+                    "Name": "PolisPay",
+                    "FullName": "PolisPay (POLIS)",
+                    "ImageUrl": "\/media\/20780731\/polis.png",
+                    "Url": "\/coins\/polis\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7592,
+                    "Name": "GridMaster",
+                    "FullName": "GridMaster (GRM)",
+                    "ImageUrl": "\/media\/20642\/grm.png",
+                    "Url": "\/coins\/grm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4413,
+                    "Name": "CinderCoin",
+                    "FullName": "CinderCoin (CIN)",
+                    "ImageUrl": "\/media\/20698\/cinder.png",
+                    "Url": "\/coins\/cin\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645830,
+                    "Name": "GoaCoin",
+                    "FullName": "GoaCoin (GOA)",
+                    "ImageUrl": "\/media\/20780697\/goa.png",
+                    "Url": "\/coins\/goa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6105,
+                    "Name": "Twelve Coin",
+                    "FullName": "Twelve Coin (TWLV)",
+                    "ImageUrl": "\/media\/20472\/viral.png",
+                    "Url": "\/coins\/twlv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4576,
+                    "Name": "NoirBits",
+                    "FullName": "NoirBits (NRB)",
+                    "ImageUrl": "\/media\/19839\/nrb.png",
+                    "Url": "\/coins\/nrb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 477743,
+                    "Name": "XinFin Coin",
+                    "FullName": "XinFin Coin (XDC)",
+                    "ImageUrl": "\/media\/16746634\/xdc.png",
+                    "Url": "\/coins\/xdc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29928,
+                    "Name": "Resumeo Shares",
+                    "FullName": "Resumeo Shares (RMS)",
+                    "ImageUrl": "\/media\/351701\/rms.png",
+                    "Url": "\/coins\/rms\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 329520,
+                    "Name": "shahkhan_87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/329520\/1fc7a918-abe2-41f3-8f4e-4d38530bb47d.jpg",
+                    "Url": "\/profile\/shahkhan_87\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 89380,
+                    "Name": "mr.kolry",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/89380\/2afd3667-0900-404d-a9ed-298f5b884fda.jpg",
+                    "Url": "\/profile\/mr.kolry\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 283675,
+                    "Name": "GPW787",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/283675\/34f380c4-0cb6-4dd9-ae05-c556f66be721.jpg",
+                    "Url": "\/profile\/GPW787\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 196,
+                "Markets": 4,
+                "Analysis": 3,
+                "Charts": 4,
+                "Trades": 3,
+                "Orderbook": 0,
+                "Forum": 5,
+                "Influence": 3
+            },
+            "PageViews": 218
+        },
+        "Twitter": {
+            "lists": 8,
+            "favourites": "197",
+            "statuses": 261,
+            "following": "192",
+            "account_creation": "1458031867",
+            "name": "LakeBanker",
+            "followers": 308,
+            "link": "https:\/\/twitter.com\/LakeBanker",
+            "Points": 348
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/LakeBanker\/\/",
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "LakeBanker",
+            "likes": 113,
+            "link": "https:\/\/www.facebook.com\/LakeBanker\/",
+            "talking_about": "3",
+            "is_closed": "false",
+            "Points": 113
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

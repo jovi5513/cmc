@@ -1,0 +1,70 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "IOCoin (IOC) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "IOCoin has a strong development team backing it. The coin is X11 with proof of work and proof of stake. The proof of stake has an annualised rate of 2%.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20042\/ioc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4540",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "IOCoin (IOC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "IOC",
+            "Url": "\/coins\/ioc\/",
+            "BaseAngularUrl": "\/coins\/ioc\/",
+            "Name": "IOCoin",
+            "ImageUrl": "\/media\/20042\/ioc.png",
+            "Description": "<p>IOCoin has a strong development team backing it. The coin is X11 with proof of work and proof of stake. The proof of stake has an annualised rate of 2%.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "",
+            "Algorithm": "X11",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "15\/06\/2014",
+            "Twitter": "@IO_Coin",
+            "AffiliateUrl": "http:\/\/iocoin.io\/",
+            "Website": "<a href='http:\/\/iocoin.io\/' target='_blank'>IOCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515948625,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "-",
+            "BlockNumber": 1683577,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 16471849.474346,
+            "PreviousTotalCoinsMined": 16471820.974346,
+            "BlockReward": 1.5000000014901
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~BitTrex~IOC~BTC",
+            "2~Cryptsy~IOC~XRP",
+            "2~Bleutrade~IOC~DOGE",
+            "2~Poloniex~IOC~BTC",
+            "2~Bleutrade~IOC~BTC",
+            "2~Cryptsy~IOC~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~IOC~BTC~2~0.0003701~1515948682~5~0.0018507~15287246~77478.54892079993~28.3744453~92038.53422715003~33.557917780000004~0.0003645~0.000378~0.0003484~0.0003524~0.000378~0.0003484~BitTrex~7ffe9",
+            "5~CCCAGG~IOC~XRP~4~0.76735361~1430482065~2.55145918~1.95787141~91911134~0~0~0.76735361~0.76735361~0.76735361~Cryptsy~78ce9",
+            "5~CCCAGG~IOC~DOGE~4~250.4266567~1495491816~2.53510739~634.8584680531629~1495491816001~0~0~0~0~1201~1201.00000003~250.4266567~250.4266567~250.4266567~250.4266567~Bleutrade~7ffe9"
+        ]
+    },
+    "Type": 100
+}

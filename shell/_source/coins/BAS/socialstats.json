@@ -1,0 +1,137 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BAS",
+            "CoinName": "BitAsean",
+            "Type": "Webpagecoinp",
+            "Points": 1119
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 21773,
+                    "Name": "XanaxCoin",
+                    "FullName": "XanaxCoin (XNX)",
+                    "ImageUrl": "\/media\/351033\/xnx.jpg",
+                    "Url": "\/coins\/xnx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37195,
+                    "Name": "ConquestCoin",
+                    "FullName": "ConquestCoin (CQST)",
+                    "ImageUrl": "\/media\/1381983\/cqst.png",
+                    "Url": "\/coins\/cqst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4415,
+                    "Name": "CheckCoin",
+                    "FullName": "CheckCoin (CXC)",
+                    "ImageUrl": "\/media\/20246\/cxc.png",
+                    "Url": "\/coins\/cxc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4422,
+                    "Name": "Community Coin",
+                    "FullName": "Community Coin (COMM)",
+                    "ImageUrl": "\/media\/19661\/comm.png",
+                    "Url": "\/coins\/comm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44803,
+                    "Name": "EveryonesCoin",
+                    "FullName": "EveryonesCoin (EOC)",
+                    "ImageUrl": "\/media\/1382628\/eoc.png",
+                    "Url": "\/coins\/eoc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24887,
+                    "Name": "RustCoin",
+                    "FullName": "RustCoin (RUST)",
+                    "ImageUrl": "\/media\/351365\/rust.png",
+                    "Url": "\/coins\/rust\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28027,
+                    "Name": "Sense",
+                    "FullName": "Sense (SNS)",
+                    "ImageUrl": "\/media\/351494\/sns.png",
+                    "Url": "\/coins\/sns\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35228,
+                    "Name": "Procom",
+                    "FullName": "Procom (PCM)",
+                    "ImageUrl": "\/media\/352223\/pcm.png",
+                    "Url": "\/coins\/pcm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60618,
+                    "Name": "ArpaCoin",
+                    "FullName": "ArpaCoin (ARPA)",
+                    "ImageUrl": "\/media\/1382966\/arpa.png",
+                    "Url": "\/coins\/arpa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 313988,
+                    "Name": "StockBet",
+                    "FullName": "StockBet (STOCKBET)",
+                    "ImageUrl": "\/media\/12318119\/stockbet.png",
+                    "Url": "\/coins\/stockbet\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "Posts": "1",
+            "Points": 25,
+            "PageViewsSplit": {
+                "Overview": 64,
+                "Markets": 7,
+                "Analysis": 3,
+                "Charts": 4,
+                "Trades": 6,
+                "Orderbook": 0,
+                "Forum": 5,
+                "Influence": 2
+            },
+            "PageViews": 91
+        },
+        "Twitter": {
+            "favourites": "7",
+            "lists": 15,
+            "statuses": 41,
+            "following": "16",
+            "account_creation": "1494344601",
+            "name": "BitAsean",
+            "followers": 453,
+            "link": "https:\/\/twitter.com\/BitAseanTeam",
+            "Points": 528
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "BitAsean",
+            "likes": 566,
+            "link": "https:\/\/www.facebook.com\/BitAsean\/",
+            "talking_about": "16",
+            "is_closed": "false",
+            "Points": 566
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

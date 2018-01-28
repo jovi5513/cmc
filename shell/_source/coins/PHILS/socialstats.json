@@ -1,0 +1,181 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PHILS",
+            "CoinName": "PhilsCurrency",
+            "Type": "Webpagecoinp",
+            "Points": 426
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 453581,
+                    "Name": "BitCoal",
+                    "FullName": "BitCoal (COAL)",
+                    "ImageUrl": "\/media\/16746586\/coal.png",
+                    "Url": "\/coins\/coal\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5377,
+                    "Name": "ChildCoin",
+                    "FullName": "ChildCoin (CHILD)",
+                    "ImageUrl": "\/media\/20233\/child.png",
+                    "Url": "\/coins\/child\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4326,
+                    "Name": "Aegis",
+                    "FullName": "Aegis (AGS)",
+                    "ImageUrl": "\/media\/19595\/ags.png",
+                    "Url": "\/coins\/ags\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33010,
+                    "Name": "PosEx",
+                    "FullName": "PosEx (PEX)",
+                    "ImageUrl": "\/media\/351992\/pex.png",
+                    "Url": "\/coins\/pex\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22264,
+                    "Name": "InceptionCoin",
+                    "FullName": "InceptionCoin (INCP)",
+                    "ImageUrl": "\/media\/351078\/incp.png",
+                    "Url": "\/coins\/incp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28174,
+                    "Name": "EneCoin",
+                    "FullName": "EneCoin (ENE)",
+                    "ImageUrl": "\/media\/351506\/ene.png",
+                    "Url": "\/coins\/ene\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 362846,
+                    "Name": "Bitcloud 2.0",
+                    "FullName": "Bitcloud 2.0 (BTDX)",
+                    "ImageUrl": "\/media\/14761939\/btdx.png",
+                    "Url": "\/coins\/btdx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28019,
+                    "Name": "bitCNY",
+                    "FullName": "bitCNY (BITCNY)",
+                    "ImageUrl": "\/media\/351490\/bitcny.png",
+                    "Url": "\/coins\/bitcny\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4334,
+                    "Name": "AXRON",
+                    "FullName": "AXRON (AXR)",
+                    "ImageUrl": "\/media\/20086\/axr.png",
+                    "Url": "\/coins\/axr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 380671,
+                    "Name": "WiserCoin",
+                    "FullName": "WiserCoin (WSC)",
+                    "ImageUrl": "\/media\/14913560\/wsc.png",
+                    "Url": "\/coins\/wsc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 379238,
+                    "Name": "kjdowdle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/379238\/af331a97-ebb2-4ef9-a6c6-cd63d2a19e0d.jpg",
+                    "Url": "\/profile\/kjdowdle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 187467,
+                    "Name": "gromovoj.eduard",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/187467\/54ea0cb4-3894-44b0-b725-68088837e354.jpg",
+                    "Url": "\/profile\/gromovoj.eduard\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 50,
+            "Followers": 2,
+            "PageViewsSplit": {
+                "Overview": 121,
+                "Markets": 21,
+                "Analysis": 5,
+                "Charts": 7,
+                "Trades": 4,
+                "Orderbook": 0,
+                "Forum": 4,
+                "Influence": 5
+            },
+            "PageViews": 167
+        },
+        "Twitter": {
+            "following": "34",
+            "account_creation": "1503097119",
+            "name": "PhilsCurrency",
+            "lists": 3,
+            "favourites": "5",
+            "statuses": 84,
+            "followers": 281,
+            "link": "https:\/\/twitter.com\/PhilsCurrency",
+            "Points": 296
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 65,
+            "link": "https:\/\/www.facebook.com\/PhilsCurrency\/",
+            "is_closed": "false",
+            "talking_about": "5",
+            "name": "PhilsCurrency",
+            "Points": 65
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1503260806",
+                    "open_total_issues": "1",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "4531",
+                    "closed_total_issues": "0",
+                    "stars": 7,
+                    "last_update": "1515792298",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/philscurrency\/philscurrency",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1513460348",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "subscribers": 2,
+                    "language": "C++",
+                    "open_issues": "1"
+                }
+            ],
+            "Points": 15
+        }
+    }
+}

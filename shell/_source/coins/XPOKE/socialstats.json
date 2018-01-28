@@ -1,0 +1,161 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XPOKE",
+            "CoinName": "PokeChain",
+            "Type": "Webpagecoinp",
+            "Points": 28
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 249784,
+                    "Name": "BuildTeam",
+                    "FullName": "BuildTeam (BT)",
+                    "ImageUrl": "\/media\/9350775\/bt.png",
+                    "Url": "\/coins\/bt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517603,
+                    "Name": "CHIPS",
+                    "FullName": "CHIPS (CHIPS*)",
+                    "ImageUrl": "\/media\/16746673\/chips.png",
+                    "Url": "\/coins\/chips\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 402805,
+                    "Name": "KingN Coin",
+                    "FullName": "KingN Coin (KNC**)",
+                    "ImageUrl": "\/media\/16404850\/knc.png",
+                    "Url": "\/coins\/kncstarstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 373880,
+                    "Name": "Huncoin",
+                    "FullName": "Huncoin (HNC*)",
+                    "ImageUrl": "\/media\/14913529\/hnc.png",
+                    "Url": "\/coins\/hncstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4550,
+                    "Name": "Lucky7Coin",
+                    "FullName": "Lucky7Coin (LK7)",
+                    "ImageUrl": "\/media\/19776\/lk7.png",
+                    "Url": "\/coins\/lk7\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30423,
+                    "Name": "PeaceCoin",
+                    "FullName": "PeaceCoin (PEC)",
+                    "ImageUrl": "\/media\/351761\/pec.png",
+                    "Url": "\/coins\/pec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20986,
+                    "Name": "AcesCoin",
+                    "FullName": "AcesCoin (AEC)",
+                    "ImageUrl": "\/media\/350991\/aec.png",
+                    "Url": "\/coins\/aec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20640,
+                    "Name": "OldSafeCoin",
+                    "FullName": "OldSafeCoin (OLDSF)",
+                    "ImageUrl": "\/media\/350936\/oldsf.png",
+                    "Url": "\/coins\/oldsf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 667239,
+                    "Name": "Game",
+                    "FullName": "Game (GTC)",
+                    "ImageUrl": "\/media\/20780776\/gtc.png",
+                    "Url": "\/coins\/gtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29370,
+                    "Name": "BitluckCoin",
+                    "FullName": "BitluckCoin (BTCL*)",
+                    "ImageUrl": "\/media\/351633\/btlc.png",
+                    "Url": "\/coins\/btclstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 25,
+            "Followers": 1,
+            "PageViewsSplit": {
+                "Overview": 261,
+                "Markets": 17,
+                "Analysis": 40,
+                "Charts": 31,
+                "Trades": 31,
+                "Orderbook": 0,
+                "Forum": 23,
+                "Influence": 15
+            },
+            "PageViews": 418
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1469988079",
+                    "open_total_issues": "1",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "3133",
+                    "last_push": "1469989030",
+                    "closed_total_issues": "0",
+                    "stars": 0,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1470333751",
+                    "open_pull_issues": "0",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/PokeCoinPOKE\/pokechain",
+                    "closed_issues": "0",
+                    "subscribers": 1,
+                    "language": "C++",
+                    "open_issues": "1",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

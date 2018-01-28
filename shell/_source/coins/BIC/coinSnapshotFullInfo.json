@@ -1,0 +1,79 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Bikercoins (BIC) - Live streaming prices and market cap",
+            "PageDescription": "Live Bikercoins prices from all markets and BIC coin market Capitalization. Stay up to date with the latest Bikercoins price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1382337\/bic.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "41587",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Bikercoins (BIC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BIC",
+            "Url": "\/coins\/bic\/",
+            "BaseAngularUrl": "\/coins\/bic\/",
+            "Name": "Bikercoins",
+            "ImageUrl": "\/media\/1382337\/bic.png",
+            "Description": "<p>Bikercoin is a digital cryptocurrency that operates on a community-based standard of value using peer-to-peer (P2P) networking as the means of conducting transactions. Rather than having a central authority determine the value of the currency, its worth is determined by the number of products and services people are willing to buy or sell using Bikercoins. Bikercoins have a global value, so they can be used in any country, at any time. Bikercoin is also open-source; its architecture is public, nobody owns or controls Bikercoin and anybody can take part.<\/p><p>Bikercoin uses the cryptonote algorithm and is a PoW coin.\u00a0<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "25000000",
+            "Algorithm": "CryptoNight",
+            "ProofType": "PoW",
+            "StartDate": "07\/06\/2016",
+            "Twitter": "@BikerCoins",
+            "AffiliateUrl": "http:\/\/bikercoin.org\/",
+            "Website": "<a href='http:\/\/bikercoin.org\/' target='_blank'>Bikercoins<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1496347744,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 120,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 9357088,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~BIC~BTC",
+            "2~CCEX~BIC~DOGE",
+            "2~Cryptopia~BIC~DOGE",
+            "2~Cryptopia~BIC~XMR",
+            "2~Cryptopia~BIC~POP",
+            "2~Cryptopia~BIC~LTC",
+            "2~Cryptopia~BIC~DOT",
+            "2~Cryptopia~BIC~UNO",
+            "2~Cryptopia~BIC~FTC",
+            "2~Cryptopia~BIC~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BIC~BTC~4~0.00000108~1495160863~80.06883752~0.00008647~1495160863~0~0~0~0~0.00000108~0.00000108~0.00000108~0.00000108~0.00000108~0.00000108~Cryptopia~7ffe9",
+            "5~CCCAGG~BIC~DOGE~4~1.10000047~1495143473~1.99642228~2.19606545~1495143473~0~0~0~0~1.10000047~1.10000047~1.10000047~1.10000047~1.10000047~1.10000047~Cryptopia~7ffe9",
+            "5~CCCAGG~BIC~XMR~4~0.00014597~1488169024~25.86235431~0.003775~1488169024~0~0~0~0~0.00014597~0.00014597~0.00014597~0.00014597~0.00014597~0.00014597~Cryptopia~7ffe9",
+            "5~CCCAGG~BIC~POP~4~2.00000003~1458483479~0.00005447~0.000109~1458483479~0~0~0~0~2.00000003~2.00000003~2.00000003~2.00000003~2.00000003~2.00000003~Cryptopia~7ffe9",
+            "5~CCCAGG~BIC~LTC~4~0.0000605~1494948986~77.9761472~0.00471756~1494948986.001~0~0~0~0~0.0000605~0.0000605~0.0000605~0.0000605~0.0000605~0.0000605~Cryptopia~7ffe9",
+            "5~CCCAGG~BIC~DOT~4~5.00030353~1489108376~2.5~12.500759~1489108376~0~0~0~0~5.00030353~5.00030353~5.00030353~5.00030353~5.00030353~5.00030353~Cryptopia~7ffe9",
+            "5~CCCAGG~BIC~UNO~4~0.0001~1494994409~246.74157303~0.02467416~1494994409~0~0~0~0~0.0001~0.0001~0.0001~0.0001~0.0001~0.0001~Cryptopia~7ffe9",
+            "5~CCCAGG~BIC~FTC~4~0.10000015~1487470375~0.08080603~0.008081~1487470375~0~0~0~0~0.10000015~0.10000015~0.10000015~0.10000015~0.10000015~0.10000015~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

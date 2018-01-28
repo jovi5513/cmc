@@ -1,0 +1,216 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ACT",
+            "CoinName": "ACT",
+            "Type": "Webpagecoinp",
+            "Points": 8183
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5401,
+                    "Name": "ICASH",
+                    "FullName": "ICASH (ICASH)",
+                    "ImageUrl": "\/media\/20319\/icash.png",
+                    "Url": "\/coins\/icash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 373980,
+                    "Name": "MadCoin",
+                    "FullName": "MadCoin (MDC*)",
+                    "ImageUrl": "\/media\/14913531\/mdc.png",
+                    "Url": "\/coins\/mdcstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 222133,
+                    "Name": "MonacoCoin",
+                    "FullName": "MonacoCoin (XMCC)",
+                    "ImageUrl": "\/media\/1384017\/mcc.png",
+                    "Url": "\/coins\/xmcc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34499,
+                    "Name": "Icobid",
+                    "FullName": "Icobid (ICOB)",
+                    "ImageUrl": "\/media\/352133\/icb.png",
+                    "Url": "\/coins\/icob\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182364,
+                    "Name": "Unify",
+                    "FullName": "Unify (UNIFY)",
+                    "ImageUrl": "\/media\/1383775\/unify.png",
+                    "Url": "\/coins\/unify\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 198703,
+                    "Name": "Wolk",
+                    "FullName": "Wolk (WLK)",
+                    "ImageUrl": "\/media\/1383892\/wolk.png",
+                    "Url": "\/coins\/wlk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 63308,
+                    "Name": "Coinonat",
+                    "FullName": "Coinonat (CXT)",
+                    "ImageUrl": "\/media\/1383080\/cxt.png",
+                    "Url": "\/coins\/cxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 62659,
+                    "Name": "HappyCoin",
+                    "FullName": "HappyCoin (HPC)",
+                    "ImageUrl": "\/media\/1383046\/hpc.png",
+                    "Url": "\/coins\/hpc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35953,
+                    "Name": "Enigma",
+                    "FullName": "Enigma (XNG)",
+                    "ImageUrl": "\/media\/352311\/xng.png",
+                    "Url": "\/coins\/xng\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 398705,
+                    "Name": "GoByte",
+                    "FullName": "GoByte (GBX)",
+                    "ImageUrl": "\/media\/15887411\/gbx.png",
+                    "Url": "\/coins\/gbx\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 152534,
+                    "Name": "sebklay",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/152534\/2d2a19bb-cb34-4f4d-9db6-e1ab92affdee.jpg",
+                    "Url": "\/profile\/sebklay\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 635106,
+                    "Name": "eric78hbt04",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/635106\/d695d556-89d9-45f9-99e0-594935aeeb3a.jpg",
+                    "Url": "\/profile\/eric78hbt04\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 655892,
+                    "Name": "rgnieski",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/655892\/c04d85c1-1b40-4f03-b1b3-9dad7acd3373.jpg",
+                    "Url": "\/profile\/rgnieski\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 447221,
+                    "Name": "espann",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/447221\/d2cb060a-4371-452b-8ae6-f2b75d2caa08.jpg",
+                    "Url": "\/profile\/espann\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 437494,
+                    "Name": "pearcet",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/437494\/b18fdab1-cf48-49d3-87df-a3673548a6ff.jpg",
+                    "Url": "\/profile\/pearcet\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 639420,
+                    "Name": "arunjbhandari",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/639420\/7e5e6e51-2fa4-449e-9569-2c855a5f37ce.jpg",
+                    "Url": "\/profile\/arunjbhandari\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 645751,
+                    "Name": "sferrari2001",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/645751\/98fa1632-c866-430d-b208-3343fcf6c6de.jpg",
+                    "Url": "\/profile\/sferrari2001\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 132302,
+                    "Name": "BuiltCoin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/132302\/ac26ed36-7ea6-4f62-9e50-3e2093f0a872.jpg",
+                    "Url": "\/profile\/BuiltCoin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 121091,
+                    "Name": "zgerqazxc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/121091\/7640bb99-c9c2-4718-8c10-16bd91f89769.jpg",
+                    "Url": "\/profile\/zgerqazxc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 593159,
+                    "Name": "BE20A5E9",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/593159\/32271c39-0a3e-4b27-8634-a8c402af0cc8.jpg",
+                    "Url": "\/profile\/BE20A5E9\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 109777,
+                    "Name": "HAL9001",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/109777\/01cf0a24-8608-4b6e-902b-2ce3b66d6a9b.jpg",
+                    "Url": "\/profile\/HAL9001\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 750,
+            "Posts": "0",
+            "Followers": 30,
+            "PageViewsSplit": {
+                "Overview": 5075,
+                "Markets": 109,
+                "Analysis": 130,
+                "Charts": 51,
+                "Trades": 17,
+                "Orderbook": 2,
+                "Forum": 34,
+                "Influence": 62
+            },
+            "PageViews": 5480
+        },
+        "Twitter": {
+            "statuses": 308,
+            "favourites": "190",
+            "following": "444",
+            "account_creation": "1483989825",
+            "followers": 5149,
+            "name": "ACT",
+            "link": "https:\/\/twitter.com\/daoact_org",
+            "lists": 41,
+            "Points": 5354
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "329",
+            "name": "Daoact",
+            "likes": 2079,
+            "link": "https:\/\/www.facebook.com\/daoact\/",
+            "Points": 2079
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

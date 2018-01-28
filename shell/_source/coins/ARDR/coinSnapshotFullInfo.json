@@ -1,0 +1,68 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Ardor (ARDR) - Live streaming prices and market cap",
+            "PageDescription": "Live Ardor prices from all markets and ARDR coin market Capitalization. Stay up to date with the latest Ardor price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351736\/ardr.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "30173",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Ardor (ARDR)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ARDR",
+            "Url": "\/coins\/ardr\/",
+            "BaseAngularUrl": "\/coins\/ardr\/",
+            "Name": "Ardor",
+            "ImageUrl": "\/media\/351736\/ardr.png",
+            "Description": "<p><span>Ardor is\u00a0a Blockchain-as-a-Service (BaaS) Platform that will allow users to create their own child chains with specific settings for asset issuance. Ardor is the evolution of the NXT blockchain and\u00a0offers many advantages over its predecessor, both in functionality and in scalability.<\/span><\/p><p><span>ARDR, the Main Chain tokens are\u00a0the backbone of the platform, they will be used maintain the blockchain and forge tokens from tx fees, which is the equivalent of Mining in the NXT\u00a0Proof of Stake (PoS) protocol.<\/span><\/p><p><span>The distribution process for Ardor started on the 14th of July and lasted until 12th of October. During this time hourly snapshots of NXT Balances were\u00a0taken and averaged, the balance was then given to holders\u00a0on a 1 to 1 scale. ARDR issued as an asset on the NXT 1.9 Blockchain until the full release of the Ardor Platform in Q3 of 2017.<\/span><\/p><p>A second set of tokens <span>will be given to users according to their NXT holding\u00a0on the day the first block of Ardor is mined, meaning that the balance won\u2019t be measured and averaged over a period of time, but will instead be given on a 0.5 \u2013 1 scale according to the one snapshot taken at the moment of the Genesis Block. These tokens will house the features of the first Ardor child chain.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "1000000000",
+            "Algorithm": "",
+            "ProofType": "PoS",
+            "StartDate": "13\/10\/2016",
+            "Twitter": "@ArdorPlatform",
+            "AffiliateUrl": "https:\/\/www.ardorplatform.org\/",
+            "Website": "<a href='https:\/\/www.ardorplatform.org\/' target='_blank'>Ardor<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515927440,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 998999495,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~BitTrex~ARDR~BTC",
+            "2~BTC38~ARDR~CNY",
+            "2~Poloniex~ARDR~BTC",
+            "2~BTC38~ARDR~BTC",
+            "2~HitBTC~ARDR~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ARDR~BTC~1~0.0001509~1515951603~50~0.00849715~151849635~1504795.987734448~226.17098403700123~2192600.13207342~326.323043515~0.0001526~0.0001602~0.0001345~0.0001524~0.0001614~0.0001307~HitBTC~7ffe9",
+            "5~CCCAGG~ARDR~CNY~4~1.28~1509422195~4785.89442~6125.9448575999995~2159634~0~0~0~0~1.28~1.28~1.28~1.28~1.28~1.28~BTC38~7ffe9"
+        ]
+    },
+    "Type": 100
+}

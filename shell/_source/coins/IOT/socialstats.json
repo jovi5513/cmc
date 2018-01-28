@@ -1,0 +1,221 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "IOT",
+            "CoinName": "IOTA",
+            "Type": "Webpagecoinp",
+            "Points": 1076752
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 1182,
+                    "Name": "Bitcoin",
+                    "FullName": "Bitcoin (BTC)",
+                    "ImageUrl": "\/media\/19633\/btc.png",
+                    "Url": "\/coins\/btc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7605,
+                    "Name": "Ethereum",
+                    "FullName": "Ethereum (ETH)",
+                    "ImageUrl": "\/media\/20646\/eth_logo.png",
+                    "Url": "\/coins\/eth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5031,
+                    "Name": "Ripple",
+                    "FullName": "Ripple (XRP)",
+                    "ImageUrl": "\/media\/19972\/ripple.png",
+                    "Url": "\/coins\/xrp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3808,
+                    "Name": "Litecoin",
+                    "FullName": "Litecoin (LTC)",
+                    "ImageUrl": "\/media\/19782\/litecoin-logo.png",
+                    "Url": "\/coins\/ltc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 202330,
+                    "Name": "Bitcoin Cash \/ BCC",
+                    "FullName": "Bitcoin Cash \/ BCC (BCH)",
+                    "ImageUrl": "\/media\/1383919\/bch.jpg",
+                    "Url": "\/coins\/bch\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4614,
+                    "Name": "Stellar",
+                    "FullName": "Stellar (XLM)",
+                    "ImageUrl": "\/media\/20696\/str.png",
+                    "Url": "\/coins\/xlm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5038,
+                    "Name": "Monero",
+                    "FullName": "Monero (XMR)",
+                    "ImageUrl": "\/media\/19969\/xmr.png",
+                    "Url": "\/coins\/xmr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 27368,
+                    "Name": "NEO",
+                    "FullName": "NEO (NEO)",
+                    "ImageUrl": "\/media\/1383858\/neo.jpg",
+                    "Url": "\/coins\/neo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4433,
+                    "Name": "Verge",
+                    "FullName": "Verge (XVG)",
+                    "ImageUrl": "\/media\/12318032\/xvg.png",
+                    "Url": "\/coins\/xvg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24854,
+                    "Name": "ZCash",
+                    "FullName": "ZCash (ZEC)",
+                    "ImageUrl": "\/media\/351360\/zec.png",
+                    "Url": "\/coins\/zec\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 628486,
+                    "Name": "lubomirv1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/628486\/b49f3855-1c42-4a5c-8e02-8b347ea9a889.jpg",
+                    "Url": "\/profile\/lubomirv1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 483743,
+                    "Name": "sami.ghariani",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/483743\/234b3a9e-ac1a-450b-b563-1e4f8757299a.jpg",
+                    "Url": "\/profile\/sami.ghariani\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677544,
+                    "Name": "2E17B0CB",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677544\/5b4c9fee-4f04-4e98-8b03-a236d890bcb1.jpg",
+                    "Url": "\/profile\/2E17B0CB\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 213315,
+                    "Name": "jerome_f",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/213315\/81bca741-281a-4e82-9b10-7666d1f2cc55.jpg",
+                    "Url": "\/profile\/jerome_f\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 308884,
+                    "Name": "dougreid",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/308884\/f0522c38-01ca-4af5-80c5-fe0219e1cbd2.jpg",
+                    "Url": "\/profile\/dougreid\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677471,
+                    "Name": "170F1C6C",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677471\/0642b0ae-6be2-4182-8f1e-772b0f3c2987.jpg",
+                    "Url": "\/profile\/170F1C6C\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 627339,
+                    "Name": "892CAE9B",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/627339\/ce9c01b3-4fbf-42e3-b9d7-1c8d7d5ec826.jpg",
+                    "Url": "\/profile\/892CAE9B\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 57907,
+                    "Name": "xtreme",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/57907\/d55db348-9eba-4737-a1f6-07e81198e02d.jpg",
+                    "Url": "\/profile\/xtreme\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677694,
+                    "Name": "gac471",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677694\/cc06fa22-16ab-434e-bc9c-1f1b5bf9876e.jpg",
+                    "Url": "\/profile\/gac471\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677630,
+                    "Name": "youkendoit2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677630\/2d7e2c0f-e99c-403e-b068-54684764d9e0.jpg",
+                    "Url": "\/profile\/youkendoit2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677503,
+                    "Name": "Snijder",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677503\/830f91c2-3181-47ef-b8fe-f08b2fd54dad.jpg",
+                    "Url": "\/profile\/Snijder\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 14881,
+            "Posts": "9261",
+            "Comments": "26295",
+            "Points": 866500,
+            "PageViewsSplit": {
+                "Overview": 2002776,
+                "Markets": 52552,
+                "Analysis": 30489,
+                "Charts": 191501,
+                "Trades": 62750,
+                "Orderbook": 629,
+                "Forum": 860454,
+                "Influence": 6631
+            },
+            "PageViews": 3207782
+        },
+        "Twitter": {
+            "favourites": "21",
+            "lists": 1290,
+            "statuses": 553,
+            "following": "0",
+            "account_creation": "1445236475",
+            "name": "IOTA",
+            "followers": 91283,
+            "link": "https:\/\/twitter.com\/iotatoken",
+            "Points": 97733
+        },
+        "Reddit": {
+            "subscribers": 99439,
+            "posts_per_hour": "2.54",
+            "community_creation": "1346895309",
+            "comments_per_hour": "37.28",
+            "comments_per_day": 894.69,
+            "posts_per_day": "60.90",
+            "name": "Iota",
+            "link": "https:\/\/www.reddit.com\/r\/iota\/",
+            "active_users": 3657,
+            "Points": 112199
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "HPB",
+            "CoinName": "High Performance Blockchain",
+            "Type": "Webpagecoinp",
+            "Points": 1431
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 179345,
+                    "Name": "MyBit",
+                    "FullName": "MyBit (MYB)",
+                    "ImageUrl": "\/media\/1383746\/myb.png",
+                    "Url": "\/coins\/myb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 383878,
+                    "Name": "Ethersportcoin",
+                    "FullName": "Ethersportcoin (ESC*)",
+                    "ImageUrl": "\/media\/14913585\/esc.png",
+                    "Url": "\/coins\/esc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 247246,
+                    "Name": "LiteBitcoin",
+                    "FullName": "LiteBitcoin (LBTC)",
+                    "ImageUrl": "\/media\/9350763\/lbtc.png",
+                    "Url": "\/coins\/lbtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 318199,
+                    "Name": "Hshare",
+                    "FullName": "Hshare (HSR)",
+                    "ImageUrl": "\/media\/12318137\/hsr.png",
+                    "Url": "\/coins\/hsr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 243079,
+                    "Name": "Gimli",
+                    "FullName": "Gimli (GIM)",
+                    "ImageUrl": "\/media\/9350754\/gim.png",
+                    "Url": "\/coins\/gim\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 354771,
+                    "Name": "TBIS token",
+                    "FullName": "TBIS token (BAR)",
+                    "ImageUrl": "\/media\/14543951\/bar.png",
+                    "Url": "\/coins\/bar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 370606,
+                    "Name": "Cloud",
+                    "FullName": "Cloud (CLD)",
+                    "ImageUrl": "\/media\/14913452\/cld.png",
+                    "Url": "\/coins\/cld\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 370535,
+                    "Name": "Pure",
+                    "FullName": "Pure (PURE)",
+                    "ImageUrl": "\/media\/14913451\/pure.png",
+                    "Url": "\/coins\/pure\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 409492,
+                    "Name": "Bitcoin Diamond",
+                    "FullName": "Bitcoin Diamond (BCD)",
+                    "ImageUrl": "\/media\/16404872\/bcd.png",
+                    "Url": "\/coins\/bcd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 350476,
+                    "Name": "Vezt",
+                    "FullName": "Vezt (VZT)",
+                    "ImageUrl": "\/media\/12318414\/vzt.png",
+                    "Url": "\/coins\/vzt\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 516899,
+                    "Name": "dc.1966",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/516899\/c6a91bbb-29da-4a3d-8c71-616e14663185.jpg",
+                    "Url": "\/profile\/dc.1966\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 109777,
+                    "Name": "HAL9001",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/109777\/01cf0a24-8608-4b6e-902b-2ce3b66d6a9b.jpg",
+                    "Url": "\/profile\/HAL9001\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 50,
+            "Followers": 2,
+            "PageViewsSplit": {
+                "Overview": 155,
+                "Markets": 7,
+                "Analysis": 0,
+                "Charts": 3,
+                "Trades": 1,
+                "Orderbook": 0,
+                "Forum": 2,
+                "Influence": 2
+            },
+            "PageViews": 170
+        },
+        "Twitter": {
+            "following": "9",
+            "account_creation": "1515401528",
+            "name": "HPB Blockchain",
+            "lists": 10,
+            "statuses": 5,
+            "favourites": "1",
+            "followers": 1269,
+            "link": "https:\/\/twitter.com\/HPB_Global",
+            "Points": 1319
+        },
+        "Reddit": {
+            "name": "undefined",
+            "link": "https:\/\/www.reddit.com\/r\/hpbteam\/",
+            "active_users": 0,
+            "community_creation": "undefined",
+            "subscribers": 0,
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 59,
+            "link": "https:\/\/www.facebook.com\/HPBGlobal\/",
+            "is_closed": "false",
+            "talking_about": "63",
+            "name": "HPB Blockchain",
+            "Points": 59
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1514341602",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "75",
+                    "closed_total_issues": "0",
+                    "stars": 0,
+                    "last_update": "1514341602",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/hpb-project\/go-hpb",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1515759869",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "null",
+                    "subscribers": 1,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

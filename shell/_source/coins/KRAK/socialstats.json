@@ -1,0 +1,233 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "KRAK",
+            "CoinName": "Kraken",
+            "Type": "Webpagecoinp",
+            "Points": 1343
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 19051,
+                    "Name": "EDRCoin",
+                    "FullName": "EDRCoin (EDRC)",
+                    "ImageUrl": "\/media\/350858\/edrc.jpg",
+                    "Url": "\/coins\/edrc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186064,
+                    "Name": "Bowhead Health",
+                    "FullName": "Bowhead Health (AHT*)",
+                    "ImageUrl": "\/media\/1383796\/aht.png",
+                    "Url": "\/coins\/ahtstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 360827,
+                    "Name": "DOVU",
+                    "FullName": "DOVU (DOVU)",
+                    "ImageUrl": "\/media\/14761916\/dovu.png",
+                    "Url": "\/coins\/dovu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 398705,
+                    "Name": "GoByte",
+                    "FullName": "GoByte (GBX)",
+                    "ImageUrl": "\/media\/15887411\/gbx.png",
+                    "Url": "\/coins\/gbx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28208,
+                    "Name": "BitTokens",
+                    "FullName": "BitTokens (BXT)",
+                    "ImageUrl": "\/media\/351509\/bxt.png",
+                    "Url": "\/coins\/bxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 234766,
+                    "Name": "KexCoin",
+                    "FullName": "KexCoin (KEX)",
+                    "ImageUrl": "\/media\/9350699\/kex.png",
+                    "Url": "\/coins\/kex\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 194399,
+                    "Name": "DAS",
+                    "FullName": "DAS (DAS)",
+                    "ImageUrl": "\/media\/14543970\/das.png",
+                    "Url": "\/coins\/das\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33017,
+                    "Name": "InsaneCoin",
+                    "FullName": "InsaneCoin (INSANE)",
+                    "ImageUrl": "\/media\/351993\/insane.png",
+                    "Url": "\/coins\/insane\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 218221,
+                    "Name": "SMNX",
+                    "FullName": "SMNX (SMNX)",
+                    "ImageUrl": "\/media\/1383998\/sx.png",
+                    "Url": "\/coins\/smnx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 213100,
+                    "Name": "Umbrella Coin",
+                    "FullName": "Umbrella Coin (UMC)",
+                    "ImageUrl": "\/media\/1383983\/umb.png",
+                    "Url": "\/coins\/umc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 632466,
+                    "Name": "willesloco",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/632466\/7bce4911-0221-47c3-8574-5159b6cd6379.jpg",
+                    "Url": "\/profile\/willesloco\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 640010,
+                    "Name": "pieter.gillis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/640010\/6ce865f5-cb12-4dea-a921-f529c4c1a541.jpg",
+                    "Url": "\/profile\/pieter.gillis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 627309,
+                    "Name": "kimokimkm",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/627309\/6d6a8581-71d6-44d6-8d6a-fa336566efb9.jpg",
+                    "Url": "\/profile\/kimokimkm\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 600547,
+                    "Name": "mikeysteeluk",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/600547\/bd28bc24-ab31-4535-a003-b9328f383fef.jpg",
+                    "Url": "\/profile\/mikeysteeluk\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 572134,
+                    "Name": "cassandra",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/572134\/96ab80db-d0c8-499a-a715-ff07174c5bc5.jpg",
+                    "Url": "\/profile\/cassandra\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 466986,
+                    "Name": "erhan.arat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/466986\/214c692c-2cd3-4180-8574-6c933413983e.jpg",
+                    "Url": "\/profile\/erhan.arat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 472848,
+                    "Name": "biofsoares",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/472848\/75006c44-d5d8-47a0-a3a1-9bf5ad201a0f.jpg",
+                    "Url": "\/profile\/biofsoares\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 437021,
+                    "Name": "hezmars",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/437021\/8d5aa846-9006-4278-9975-851291bbd5f7.jpg",
+                    "Url": "\/profile\/hezmars\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 244759,
+                    "Name": "prozio",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/244759\/97ea68ae-fab7-43f9-95f0-55c79dfd0eb0.jpg",
+                    "Url": "\/profile\/prozio\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 363150,
+                    "Name": "marchick",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/363150\/dcfcd910-0056-4f35-a357-3cc35cdab840.jpg",
+                    "Url": "\/profile\/marchick\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 461130,
+                    "Name": "STR_XLM_CLAIM",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/461130\/42864007-e3b6-4bee-8457-3324357c7122.png",
+                    "Url": "\/profile\/STR_XLM_CLAIM\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1340,
+            "Posts": "13",
+            "Comments": "9",
+            "Followers": 37,
+            "PageViewsSplit": {
+                "Overview": 8745,
+                "Markets": 109,
+                "Analysis": 105,
+                "Charts": 101,
+                "Trades": 77,
+                "Orderbook": 19,
+                "Forum": 213,
+                "Influence": 25
+            },
+            "PageViews": 9394
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1430575208",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1430576037",
+                    "closed_total_issues": "0",
+                    "size": "2220",
+                    "stars": 0,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1430576038",
+                    "open_pull_issues": "0",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/kkkcoin\/bxhj",
+                    "closed_issues": "0",
+                    "open_issues": "0",
+                    "subscribers": 1,
+                    "language": "C++",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

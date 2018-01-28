@@ -1,0 +1,76 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "YoCoin (YOC) - Live streaming prices and market cap",
+            "PageDescription": "Live YoCoin prices from all markets and YOC coin market Capitalization. Stay up to date with the latest YoCoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350957\/yoc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20691",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "YoCoin (YOC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "YOC",
+            "Url": "\/coins\/yoc\/",
+            "BaseAngularUrl": "\/coins\/yoc\/",
+            "Name": "YoCoin",
+            "ImageUrl": "\/media\/350957\/yoc.png",
+            "Description": "<p><span>YoCoin is a decentralized, peer-to-peer cryptocurrency that enables\u00a0instant, fast and secure payments globally.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "168351300",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "19\/05\/2016",
+            "Twitter": "@yocoin15",
+            "AffiliateUrl": "http:\/\/www.yocoin.org\/",
+            "Website": "<a href='http:\/\/www.yocoin.org\/' target='_blank'>YoCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926582,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 13624,
+            "BlockTime": 90,
+            "NetHashesPerSecond": 1438424511,
+            "TotalCoinsMined": 169362400.037,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~YOC~USD",
+            "2~LiveCoin~YOC~BTC",
+            "2~LiveCoin~YOC~RUR",
+            "2~CCEX~YOC~LTC",
+            "2~CCEX~YOC~DOGE",
+            "2~LiveCoin~YOC~ETH",
+            "2~CCEX~YOC~ETH",
+            "2~LiveCoin~YOC~USD",
+            "2~CCEX~YOC~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~YOC~USD~4~0.0606~1515934874~69.4~4.205640000000001~244632497~207.987~12.644485739999999~207.987~12.644485739999999~0.08392~0.08392~0.05991~0.05991~0.06222~0.05991~LiveCoin~7ffe9",
+            "5~CCCAGG~YOC~BTC~4~0.0000042~1515933526~25.0597~0.00010525073999999998~244607460~57.11208886~0.0002389092015462~0~0~0.00000433~0.00000433~0.00000417~0.0000042~0.0000042~0.0000042~LiveCoin~7ffe9",
+            "5~CCCAGG~YOC~RUR~4~3.924~1515207657~69.752~273.706848~235617491~0~0~0~0~3.92~3.924~3.92~3.924~3.924~3.924~LiveCoin~7ffe9",
+            "5~CCCAGG~YOC~LTC~4~0.00002581~1514728236~5.56~0.00014350359999999997~1832049~0~0~0~0~0.00002581~0.00002581~0.00002581~0.00002581~0.00002581~0.00002581~CCEX~7ffe9",
+            "5~CCCAGG~YOC~DOGE~4~2.34603375~1515132121~956.91764192~2244.961083914735~2167527~0~0~0~0~2.35~2.35~2.34603375~2.34603375~2.34603375~2.34603375~CCEX~7ffe9",
+            "5~CCCAGG~YOC~ETH~4~0.00005121~1515588328~58.2986418~0.002985473446578~240047487~0~0~0~0~0.00005121~0.00005121~0.00005121~0.00005121~0.00005121~0.00005121~LiveCoin~7ffe9"
+        ]
+    },
+    "Type": 100
+}

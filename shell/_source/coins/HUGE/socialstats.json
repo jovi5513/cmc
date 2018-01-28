@@ -1,0 +1,147 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "HUGE",
+            "CoinName": "BigCoin",
+            "Type": "Webpagecoinp",
+            "Points": 303
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 42103,
+                    "Name": "GravityBit",
+                    "FullName": "GravityBit (GBIT)",
+                    "ImageUrl": "\/media\/1382382\/gbit.jpg",
+                    "Url": "\/coins\/gbit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29718,
+                    "Name": "DelightPay",
+                    "FullName": "DelightPay (DPAY)",
+                    "ImageUrl": "\/media\/351684\/dpay.png",
+                    "Url": "\/coins\/dpay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29711,
+                    "Name": "Craftcoin",
+                    "FullName": "Craftcoin (CRAFT)",
+                    "ImageUrl": "\/media\/351681\/craft.png",
+                    "Url": "\/coins\/craft\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32688,
+                    "Name": "NetBit",
+                    "FullName": "NetBit (NBIT)",
+                    "ImageUrl": "\/media\/351928\/nbit.png",
+                    "Url": "\/coins\/nbit\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20980,
+                    "Name": "Nebuchadnezzar",
+                    "FullName": "Nebuchadnezzar (NEBU)",
+                    "ImageUrl": "\/media\/350990\/nebu.png",
+                    "Url": "\/coins\/nebu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5359,
+                    "Name": "FriendshipCoin",
+                    "FullName": "FriendshipCoin (FSC2)",
+                    "ImageUrl": "\/media\/19717\/fsc.png",
+                    "Url": "\/coins\/fsc2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4591,
+                    "Name": "PayCoin",
+                    "FullName": "PayCoin (PYC)",
+                    "ImageUrl": "\/media\/19878\/pyc.png",
+                    "Url": "\/coins\/pyc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33004,
+                    "Name": "Midnight ",
+                    "FullName": "Midnight  (MDT)",
+                    "ImageUrl": "\/media\/351989\/mdt.png",
+                    "Url": "\/coins\/mdt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32785,
+                    "Name": "Zcrypt",
+                    "FullName": "Zcrypt (ZXT)",
+                    "ImageUrl": "\/media\/351936\/zxt.png",
+                    "Url": "\/coins\/zxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 13074,
+                    "Name": "CleverCoin",
+                    "FullName": "CleverCoin (CLV)",
+                    "ImageUrl": "\/media\/20727\/clv.png",
+                    "Url": "\/coins\/clv\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 15587,
+                    "Name": "cepsh35",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/15587\/eea4e8a4-557b-4e72-9d6d-269a9c81be4d.jpg",
+                    "Url": "\/profile\/cepsh35\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Points": 50,
+            "PageViewsSplit": {
+                "Overview": 210,
+                "Markets": 45,
+                "Analysis": 47,
+                "Charts": 57,
+                "Trades": 34,
+                "Orderbook": 0,
+                "Forum": 43,
+                "Influence": 10
+            },
+            "PageViews": 446
+        },
+        "Twitter": {
+            "favourites": "0",
+            "lists": 3,
+            "name": "BIGcoin",
+            "statuses": 32,
+            "followers": 238,
+            "following": "75",
+            "account_creation": "1416985423",
+            "link": "https:\/\/twitter.com\/bigcoin_huge",
+            "Points": 253
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

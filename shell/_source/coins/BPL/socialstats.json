@@ -1,0 +1,160 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BPL",
+            "CoinName": "BlockPool",
+            "Type": "Webpagecoinp",
+            "Points": 2639
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 34225,
+                    "Name": "SpaceCash",
+                    "FullName": "SpaceCash (SCASH)",
+                    "ImageUrl": "\/media\/352117\/scash.png",
+                    "Url": "\/coins\/scash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30029,
+                    "Name": "CaliphCoin",
+                    "FullName": "CaliphCoin (CALC)",
+                    "ImageUrl": "\/media\/351712\/calc.png",
+                    "Url": "\/coins\/calc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20911,
+                    "Name": "Cryptographic Anomaly",
+                    "FullName": "Cryptographic Anomaly (CGA)",
+                    "ImageUrl": "\/media\/350988\/cga.png",
+                    "Url": "\/coins\/cga\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4556,
+                    "Name": "LibrexCoin",
+                    "FullName": "LibrexCoin (LXC)",
+                    "ImageUrl": "\/media\/20045\/lxc.png",
+                    "Url": "\/coins\/lxc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22428,
+                    "Name": "Marvelous",
+                    "FullName": "Marvelous (MARV)",
+                    "ImageUrl": "\/media\/351099\/marv.png",
+                    "Url": "\/coins\/marv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5410,
+                    "Name": "MarsCoin",
+                    "FullName": "MarsCoin (MRS)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/mrs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 175683,
+                    "Name": "ChanCoin",
+                    "FullName": "ChanCoin (4CHN)",
+                    "ImageUrl": "\/media\/1383831\/chan2.png",
+                    "Url": "\/coins\/4chn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30912,
+                    "Name": "2BACCO Coin",
+                    "FullName": "2BACCO Coin (2BACCO)",
+                    "ImageUrl": "\/media\/351869\/2bacco.png",
+                    "Url": "\/coins\/2bacco\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 368743,
+                    "Name": "KekCoin",
+                    "FullName": "KekCoin (KEK)",
+                    "ImageUrl": "\/media\/14913432\/kek.png",
+                    "Url": "\/coins\/kek\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22333,
+                    "Name": "16BitCoin",
+                    "FullName": "16BitCoin (BIT16)",
+                    "ImageUrl": "\/media\/20181\/16bit.png",
+                    "Url": "\/coins\/bit16\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 211325,
+                    "Name": "1278920F",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/211325\/3e3bfa82-d228-4827-91e7-203e9a6bbf56.jpg",
+                    "Url": "\/profile\/1278920F\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 469012,
+                    "Name": "redstick",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/469012\/a8788148-02cf-4399-b8c8-9445b1e8b9d9.jpg",
+                    "Url": "\/profile\/redstick\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 547638,
+                    "Name": "grihan1984",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/547638\/d4399dd8-7b3c-4246-9fd1-c6661c4d9a74.jpg",
+                    "Url": "\/profile\/grihan1984\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Posts": "1",
+            "Points": 100,
+            "PageViewsSplit": {
+                "Overview": 381,
+                "Markets": 29,
+                "Analysis": 17,
+                "Charts": 34,
+                "Trades": 14,
+                "Orderbook": 0,
+                "Forum": 16,
+                "Influence": 11
+            },
+            "PageViews": 502
+        },
+        "Twitter": {
+            "favourites": "141",
+            "lists": 18,
+            "statuses": 431,
+            "following": "179",
+            "account_creation": "1486127326",
+            "name": "BLOCKPOOL",
+            "followers": 1908,
+            "link": "https:\/\/twitter.com\/BLOCKPOOLIO",
+            "Points": 1998
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "BlockPool",
+            "likes": 541,
+            "link": "https:\/\/www.facebook.com\/blockpool.io\/",
+            "talking_about": "24",
+            "is_closed": "false",
+            "Points": 541
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

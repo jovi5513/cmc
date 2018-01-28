@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 0,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 40000000,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "UQC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "2",
+            "PRICE": "0.00015397",
+            "LASTUPDATE": "1516019732",
+            "LASTVOLUME": "12.1429349",
+            "LASTVOLUMETO": "0.0018696476865529999",
+            "LASTTRADEID": "245744980",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.00015397",
+            "HIGHDAY": "0.00015397",
+            "LOWDAY": "0.00015397",
+            "OPEN24HOUR": "0.00015397",
+            "HIGH24HOUR": "0.00015397",
+            "LOW24HOUR": "0.00015397",
+            "LASTMARKET": "LiveCoin"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "LiveCoin",
+                "FROMSYMBOL": "UQC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00015397",
+                "LASTUPDATE": "1516019732",
+                "LASTVOLUME": "12.1429349",
+                "LASTVOLUMETO": "0.0018696476865529999",
+                "LASTTRADEID": "245744980",
+                "VOLUME24HOUR": "1494.5909741599999",
+                "VOLUME24HOURTO": "0.2301026728111414",
+                "OPEN24HOUR": "0.000154",
+                "HIGH24HOUR": "0.00015451",
+                "LOW24HOUR": "0.00015101"
+            }
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,226 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "QSP",
+            "CoinName": "Quantstamp",
+            "Type": "Webpagecoinp",
+            "Points": 87204
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4440,
+                    "Name": "Einsteinium",
+                    "FullName": "Einsteinium (EMC2)",
+                    "ImageUrl": "\/media\/20033\/emc2.png",
+                    "Url": "\/coins\/emc2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 170452,
+                    "Name": "AdEx",
+                    "FullName": "AdEx (ADX)",
+                    "ImageUrl": "\/media\/1383667\/adx1.png",
+                    "Url": "\/coins\/adx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 299774,
+                    "Name": "U.CASH",
+                    "FullName": "U.CASH (UCASH)",
+                    "ImageUrl": "\/media\/12317962\/xuc.png",
+                    "Url": "\/coins\/ucash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4571,
+                    "Name": "NavCoin",
+                    "FullName": "NavCoin (NAV)",
+                    "ImageUrl": "\/media\/351431\/nav.png",
+                    "Url": "\/coins\/nav\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188811,
+                    "Name": "Po.et",
+                    "FullName": "Po.et (POE)",
+                    "ImageUrl": "\/media\/1383828\/poe.png",
+                    "Url": "\/coins\/poe\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4618,
+                    "Name": "SysCoin",
+                    "FullName": "SysCoin (SYS)",
+                    "ImageUrl": "\/media\/20062\/sys.png",
+                    "Url": "\/coins\/sys\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4587,
+                    "Name": "PotCoin",
+                    "FullName": "PotCoin (POT)",
+                    "ImageUrl": "\/media\/19865\/pot.png",
+                    "Url": "\/coins\/pot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 177175,
+                    "Name": "district0x",
+                    "FullName": "district0x (DNT)",
+                    "ImageUrl": "\/media\/1383701\/dnt.png",
+                    "Url": "\/coins\/dnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 138642,
+                    "Name": "AventCoin",
+                    "FullName": "AventCoin (AVT)",
+                    "ImageUrl": "\/media\/1383599\/avt.png",
+                    "Url": "\/coins\/avt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4339,
+                    "Name": "BlackCoin",
+                    "FullName": "BlackCoin (BLK)",
+                    "ImageUrl": "\/media\/351795\/blk.png",
+                    "Url": "\/coins\/blk\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 587131,
+                    "Name": "juanyvos",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/587131\/1f5dce10-6c87-4316-ad85-a1f058cd938f.jpg",
+                    "Url": "\/profile\/juanyvos\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 271519,
+                    "Name": "b.penman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/271519\/81842740-fb67-47e9-9e95-dd5d21747061.jpg",
+                    "Url": "\/profile\/b.penman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674393,
+                    "Name": "smonastirhyn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674393\/a2b4f283-175e-468e-b94e-d46dcc85c5d8.jpg",
+                    "Url": "\/profile\/smonastirhyn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 248068,
+                    "Name": "dkrajcar22",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/248068\/e0eed7e7-5b1b-4611-8321-82fdc8648f73.jpg",
+                    "Url": "\/profile\/dkrajcar22\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670063,
+                    "Name": "chris.dejosselin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670063\/3333d8ce-54da-4e52-b68f-d0187650702f.jpg",
+                    "Url": "\/profile\/chris.dejosselin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 671264,
+                    "Name": "f.kyriacou",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/671264\/0ecfa942-704d-484e-9ac3-7baa0347d2f8.jpg",
+                    "Url": "\/profile\/f.kyriacou\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 659818,
+                    "Name": "e.w.carruthers",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/659818\/43c260b2-b330-4d6c-ae15-da723905c331.jpg",
+                    "Url": "\/profile\/e.w.carruthers\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670622,
+                    "Name": "mian.vs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670622\/3cf24384-088c-4fb9-9ebe-17f0dfafa315.jpg",
+                    "Url": "\/profile\/mian.vs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 203029,
+                    "Name": "BTCmarc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/203029\/3c94b942-6118-41dc-93ef-45e1cfeb9496.jpg",
+                    "Url": "\/profile\/BTCmarc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 71648,
+                    "Name": "jorima",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/71648\/e9cf7e58-712f-4180-8ea4-ec0af242e052.jpg",
+                    "Url": "\/profile\/jorima\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 14035,
+            "Posts": "48",
+            "Comments": "51",
+            "Followers": 493,
+            "PageViewsSplit": {
+                "Overview": 27893,
+                "Markets": 1568,
+                "Analysis": 579,
+                "Charts": 2763,
+                "Trades": 921,
+                "Orderbook": 0,
+                "Forum": 3713,
+                "Influence": 219
+            },
+            "PageViews": 37656
+        },
+        "Twitter": {
+            "favourites": "392",
+            "statuses": 305,
+            "following": "166",
+            "account_creation": "1504855985",
+            "followers": 31763,
+            "name": "Quantstamp",
+            "link": "https:\/\/twitter.com\/Quantstamp",
+            "lists": 361,
+            "Points": 33568
+        },
+        "Reddit": {
+            "posts_per_hour": "0.36",
+            "link": "https:\/\/www.reddit.com\/r\/Quantstamp\/",
+            "comments_per_hour": "2.11",
+            "posts_per_day": "8.75",
+            "active_users": 184,
+            "community_creation": "1507641433",
+            "subscribers": 6074,
+            "name": "Quantstamp",
+            "comments_per_day": 50.6,
+            "Points": 6727
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "298803",
+            "name": "Quantstamp Technologies Inc",
+            "likes": 32871,
+            "link": "https:\/\/www.facebook.com\/quantstamp\/",
+            "Points": 32871
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

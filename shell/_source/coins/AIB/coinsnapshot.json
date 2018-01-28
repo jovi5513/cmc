@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "AIB",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.0000041",
+            "LASTUPDATE": "1516075979",
+            "LASTVOLUME": "141",
+            "LASTVOLUMETO": "0.0005781",
+            "LASTTRADEID": "200000691",
+            "VOLUMEDAY": "11175.4444074",
+            "VOLUMEDAYTO": "0.04639608215450829",
+            "VOLUME24HOUR": "68808.18231277",
+            "VOLUME24HOURTO": "0.3498590660780871",
+            "OPENDAY": "0.00000415",
+            "HIGHDAY": "0.00000461",
+            "LOWDAY": "0.0000041",
+            "OPEN24HOUR": "0.00000519",
+            "HIGH24HOUR": "0.00000618",
+            "LOW24HOUR": "0.0000041",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Novaexchange",
+                "FROMSYMBOL": "AIB",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "2e-7",
+                "LASTUPDATE": "1510404027",
+                "LASTVOLUME": "2500",
+                "LASTVOLUMETO": "0.0005",
+                "LASTTRADEID": "1510404027001",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "2e-7",
+                "HIGH24HOUR": "2e-7",
+                "LOW24HOUR": "2e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "AIB",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.0000041",
+                "LASTUPDATE": "1516075979",
+                "LASTVOLUME": "141",
+                "LASTVOLUMETO": "0.0005781",
+                "LASTTRADEID": "200000691",
+                "VOLUME24HOUR": "68808.18231277",
+                "VOLUME24HOURTO": "0.3498590660780871",
+                "OPEN24HOUR": "0.00000519",
+                "HIGH24HOUR": "0.00000618",
+                "LOW24HOUR": "0.0000041"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "AIB",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000157",
+                "LASTUPDATE": "1515132665",
+                "LASTVOLUME": "1000",
+                "LASTVOLUMETO": "0.00157",
+                "LASTTRADEID": "1267531",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000157",
+                "HIGH24HOUR": "0.00000157",
+                "LOW24HOUR": "0.00000157"
+            }
+        ]
+    },
+    "Type": 100
+}

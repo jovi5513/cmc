@@ -1,0 +1,86 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "RonPaulCoin (RPC) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "RonPaulCoin, or RPC, has a hard-coded cap of only 2.1 million coins that will come into existence. This is significantly lower than Bitcoin, which has 21 million total coins.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19895\/rpc-2.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4594",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "RonPaulCoin (RPC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "RPC",
+            "Url": "\/coins\/rpc\/",
+            "BaseAngularUrl": "\/coins\/rpc\/",
+            "Name": "RonPaulCoin",
+            "ImageUrl": "\/media\/19895\/rpc-2.png",
+            "Description": "<p>RonPaulCoin, or RPC, has a hard-coded cap of only 2.1 million coins that will come into existence. This is significantly lower than Bitcoin, which has 21 million total coins.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "21000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "28\/12\/2013",
+            "Twitter": "@RPCoin",
+            "AffiliateUrl": "http:\/\/www.ronpaulcoin.com\/",
+            "Website": "<a href='http:\/\/www.ronpaulcoin.com\/' target='_blank'>RonPaulCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970153,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 903043,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 39422154685,
+            "TotalCoinsMined": 903042.92169891,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~RPC~BTC",
+            "2~Yobit~RPC~DOGE",
+            "2~Yobit~RPC~ETH",
+            "2~Cryptopia~RPC~DOT",
+            "2~Yobit~RPC~WAVES",
+            "2~Cryptopia~RPC~UNO",
+            "2~Cryptopia~RPC~LTC",
+            "2~Yobit~RPC~RUR",
+            "2~Cryptopia~RPC~FTC",
+            "2~Cryptopia~RPC~DOGE",
+            "2~Cryptopia~RPC~BTC",
+            "2~Yobit~RPC~USD",
+            "2~Cryptopia~RPC~XMR",
+            "2~Cryptsy~RPC~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~RPC~BTC~2~0.00003893~1515981403~9.1850297~0.00035362364345~200000058~136.36930604~0.0055785409084785~10295.492660220003~0.44165106255363573~0.00004185~0.00004395~0.00003893~0.00003939~0.00004084~0.00003765~Yobit~7ffe9",
+            "5~CCCAGG~RPC~DOGE~4~64.9~1515972156~0.42766565~27.755030239955033~200000003~0~0~1.65039576~107.10886933915214~64.9~64.9~64.9~64.9~64.9~64.9~Yobit~7ffe9",
+            "5~CCCAGG~RPC~ETH~4~0.0000069~1514898941~81.1~0.00055959~178204401~0~0~0~0~0.0000069~0.0000069~0.0000069~0.0000069~0.0000069~0.0000069~Yobit~7ffe9",
+            "5~CCCAGG~RPC~DOT~4~80~1487941923~0.00190687~0.15255~1487941923.004~0~0~0~0~80~80~80~80~80~80~Cryptopia~7ffe9",
+            "5~CCCAGG~RPC~WAVES~4~0.21899999~1515552657~2.84183367~0.6223615453116633~183264535~0~0~0~0~0.219~0.219~0.21899999~0.21899999~0.21899999~0.21899999~Yobit~7ffe9",
+            "5~CCCAGG~RPC~UNO~4~0.00090005~1495325246~5.6~0.00504028~1495325246~0~0~0~0~0.00090005~0.00090005~0.00090005~0.00090005~0.00090005~0.00090005~Cryptopia~7ffe9",
+            "5~CCCAGG~RPC~LTC~4~0.0027497~1515095988~5~0.0137485~1515095988~0~0~0~0~0.00275~0.00275~0.0027497~0.0027497~0.0027497~0.0027497~Cryptopia~7ffe9",
+            "5~CCCAGG~RPC~RUR~4~15~1515655381~0.06915916~1.0373874~184012039~0~0~0~0~15~15~15~15~15~15~Yobit~7ffe9",
+            "5~CCCAGG~RPC~FTC~4~2.79999999~1488058310~0.06175885~0.172925~1488058310.001~0~0~0~0~2.79999999~2.79999999~2.79999999~2.79999999~2.79999999~2.79999999~Cryptopia~7ffe9",
+            "5~CCCAGG~RPC~USD~4~0.9933~1515972158~0.42766565~0.42481554925539206~200000099~0~0~5.10025288~5.0662631627267585~0.9933~0.9933~0.9933~0.9933~0.9933~0.9933~Yobit~7ffe9",
+            "5~CCCAGG~RPC~XMR~4~0.010001~1485855089~200~2.0002~1485855089~0~0~0~0~0.010001~0.010001~0.010001~0.010001~0.010001~0.010001~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,92 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Motocoin (MOTO) - Live streaming prices and market cap",
+            "PageDescription": "Live Motocoin prices from all markets and MOTO coin market Capitalization. Stay up to date with the latest Motocoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1382339\/moto.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "41592",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Motocoin (MOTO)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "MOTO",
+            "Url": "\/coins\/moto\/",
+            "BaseAngularUrl": "\/coins\/moto\/",
+            "Name": "Motocoin",
+            "ImageUrl": "\/media\/1382339\/moto.png",
+            "Description": "<p>Motocoin<span> is a cryptocurrency utilizing an innovative <\/span>proof-of-play<span> scheme where coins can only be mined by cognitive workload - playing a 2D motorbike simulation game, which is different from Bitcoin and other crypto-currencies that use a <\/span>proof-of-work<span> scheme where miners must perform difficult computations and then use proof of that work to secure coin transactions and get their reward. Motocoin was historically dominated by bots, but is currently testing a new security model that better enforces balanced play. <\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "40000000",
+            "Algorithm": "",
+            "ProofType": "PoP",
+            "StartDate": "01\/05\/2014",
+            "Twitter": "@Motocoin",
+            "AffiliateUrl": "http:\/\/motocoin.org\/",
+            "Website": "<a href='http:\/\/motocoin.org\/' target='_blank'>Motocoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515952035,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 2071535,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 1,
+            "TotalCoinsMined": 30943885.675513,
+            "PreviousTotalCoinsMined": 30943805.31837,
+            "BlockReward": 5.3571428584733
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~MOTO~DOGE",
+            "2~Cryptopia~MOTO~POP",
+            "2~Cryptopia~MOTO~LTC",
+            "2~Yobit~MOTO~USD",
+            "2~Cryptopia~MOTO~XMR",
+            "2~Cryptopia~MOTO~DOT",
+            "2~Yobit~MOTO~RUR",
+            "2~Cryptopia~MOTO~UNO",
+            "2~CCEX~MOTO~BTC",
+            "2~CCEX~MOTO~ETH",
+            "2~Cryptopia~MOTO~BTC",
+            "2~Yobit~MOTO~BTC",
+            "2~Yobit~MOTO~ETH",
+            "2~CCEX~MOTO~LTC",
+            "2~Cryptopia~MOTO~FTC",
+            "2~Cryptopia~MOTO~DOGE",
+            "2~Yobit~MOTO~WAVES",
+            "2~CCEX~MOTO~USD",
+            "2~CCEX~MOTO~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~MOTO~DOGE~4~4~1515587910~55.5~222~183508361~0~0~0~0~4~4~4~4~4~4~Yobit~7ffe9",
+            "5~CCCAGG~MOTO~POP~4~25.00000001~1453902948~0.00083729~0.020932~1453902948~0~0~0~0~25.00000001~25.00000001~25.00000001~25.00000001~25.00000001~25.00000001~Cryptopia~7ffe9",
+            "5~CCCAGG~MOTO~LTC~4~0.00015304~1515192712~330~0.0505032~1515192712~0~0~0~0~0.000153~0.00015304~0.000153~0.00015304~0.00015304~0.00015304~Cryptopia~7ffe9",
+            "5~CCCAGG~MOTO~USD~4~0.085~1515865800~1.79780789~0.15281367065~200000004~0~0~0~0~0.085~0.085~0.085~0.085~0.085~0.085~Yobit~7ffe9",
+            "5~CCCAGG~MOTO~XMR~4~0.00001~1472426817~1000~0.01~1472426817~0~0~0~0~0.00001~0.00001~0.00001~0.00001~0.00001~0.00001~Cryptopia~7ffe9",
+            "5~CCCAGG~MOTO~DOT~4~2.6~1486007475~0.20585136~0.535214~1486007475~0~0~0~0~2.6~2.6~2.6~2.6~2.6~2.6~Cryptopia~7ffe9",
+            "5~CCCAGG~MOTO~RUR~4~1.55~1515911799~0.6402~0.9923356080000001~200000008~0.6402~0.9923356080000001~2.6402~16.712335608~7.86~7.86~1.55~7.55~7.86~1.55~Yobit~7ffe9",
+            "5~CCCAGG~MOTO~UNO~4~0.00001999~1496882422~0.04426218~8.8e-7~1496882422~0~0~0~0~0.00001999~0.00001999~0.00001999~0.00001999~0.00001999~0.00001999~Cryptopia~7ffe9",
+            "5~CCCAGG~MOTO~BTC~4~0.00000213~1515948115~5622.5577015~0.01197605~1515948115~166845.07672613996~0.36899265628340633~256882.99570891997~0.5782877798415209~0.00000231~0.00000268~0.0000021~0.00000287~0.00000287~0.0000021~Cryptopia~7ffe9",
+            "5~CCCAGG~MOTO~ETH~4~0.00001002~1515455108~30.5980388~0.000306592348776~182566485~0~0~0~0~0.00001002~0.00001002~0.00001002~0.00001002~0.00001002~0.00001002~Yobit~7ffe9",
+            "5~CCCAGG~MOTO~FTC~4~0.12499999~1488942713~91.47478286~11.434347~1488942713.001~0~0~0~0~0.12499999~0.12499999~0.12499999~0.12499999~0.12499999~0.12499999~Cryptopia~7ffe9",
+            "5~CCCAGG~MOTO~WAVES~4~0.487~1512693261~0.00241944~0.00117826728~166755323~0~0~0~0~0.487~0.487~0.487~0.487~0.487~0.487~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

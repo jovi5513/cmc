@@ -1,0 +1,91 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BitBar (BTB) - Live streaming prices and market cap",
+            "PageDescription": "Live BitBar prices from all markets and BTB coin market Capitalization. Stay up to date with the latest BitBar price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20083\/bitb.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "298"
+        },
+        "General": {
+            "Id": "4399",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "BitBar (BTB)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BTB",
+            "Url": "\/coins\/btb\/",
+            "BaseAngularUrl": "\/coins\/btb\/",
+            "Name": "BitBar",
+            "ImageUrl": "\/media\/20083\/bitb.png",
+            "Description": "<p>The BitBar (BTB) crypto coin is a mixture of Novacoin, Fairnova and Rarecoin. It is a unique alternative to bitcoin and it&#39;s first-mover advantages over the glut of currencies that launched during the summer of 2013. It is resistant to Asic miners and dedicated mining hardware, meaning specialist mining equipment built into chips is very costly to manufacture efficiently - but that could soon change.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "500000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "13\/05\/2013",
+            "Twitter": "@spider_BTB",
+            "AffiliateUrl": "http:\/\/bitbar.co\/",
+            "Website": "<a href='http:\/\/bitbar.co\/' target='_blank'>BitBar<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1514501583,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 255473,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 10284944268,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~BTB~POP",
+            "2~Cryptopia~BTB~BTC",
+            "2~Cryptopia~BTB~FTC",
+            "2~Cryptsy~BTB~BTC",
+            "2~Novaexchange~BTB~BTC",
+            "2~Cryptopia~BTB~LTC",
+            "2~BTER~BTB~BTC",
+            "2~LiveCoin~BTB~ETH",
+            "2~BTER~BTB~CNY",
+            "2~Cryptopia~BTB~DOT",
+            "2~Cryptopia~BTB~DOGE",
+            "2~Novaexchange~BTB~ETH",
+            "2~Novaexchange~BTB~DOGE",
+            "2~Cryptopia~BTB~UNO",
+            "2~Novaexchange~BTB~LTC",
+            "2~Cryptsy~BTB~XRP",
+            "2~Cryptopia~BTB~XMR",
+            "2~LiveCoin~BTB~BTC",
+            "2~Cryptopia~BTB~ETH"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BTB~POP~4~5000.00000011~1457905421~0.000002~0.01~1457905421~0~0~0~0~5000.00000011~5000.00000011~5000.00000011~5000.00000011~5000.00000011~5000.00000011~Cryptopia~7ffe9",
+            "5~CCCAGG~BTB~BTC~2~0.00463~1515942721~0.10993133~0.00050898~1515942721.004~26.936702169999993~0.1396537~62.82470801999999~0.33634563000000006~0.005003~0.005799~0.00463~0.0048~0.005799~0.00463~Cryptopia~7ffe9",
+            "5~CCCAGG~BTB~FTC~4~99.99999999~1488439432~0.0770005~7.70005~1488439432~0~0~0~0~99.99999999~99.99999999~99.99999999~99.99999999~99.99999999~99.99999999~Cryptopia~7ffe9",
+            "5~CCCAGG~BTB~LTC~4~0.25869989~1515192727~0.01135428~0.00293735~1515192727.001~0~0~0~0~0.2587~0.2587~0.25869989~0.25869989~0.25869989~0.25869989~Cryptopia~7ffe9",
+            "5~CCCAGG~BTB~ETH~4~0.02150001~1514867440~0.00001693~3.639951693e-7~233380039~0~0~0~0~0.0215~0.02150001~0.0215~0.02150001~0.02150001~0.02150001~LiveCoin~7ffe9",
+            "5~CCCAGG~BTB~CNY~4~14.23~1458965286~0.812~11.554760000000002~12693240~0~0~0~0~14.23~14.23~14.23~14.23~14.23~14.23~BTER~7ffe9",
+            "5~CCCAGG~BTB~DOT~4~2400~1488710030~0.00018327~0.439848~1488710030.001~0~0~0~0~2400~2400~2400~2400~2400~2400~Cryptopia~7ffe9",
+            "5~CCCAGG~BTB~DOGE~4~4043.00000001~1515193668~0.29019952~1173.27665936~1515193668.001~0~0~0~0~4043~4043.00000001~4043~4043.00000001~4043.00000001~4043.00000001~Cryptopia~7ffe9",
+            "5~CCCAGG~BTB~UNO~4~1~1498064037~0.30758272~0.30758272~1498064037.001~0~0~0~0~1~1~1~1~1~1~Cryptopia~7ffe9",
+            "5~CCCAGG~BTB~XRP~4~266.90041171~1452691747~0.00291606~0.77829761~110895082~0~0~266.90041171~266.90041171~266.90041171~Cryptsy~78ce9",
+            "5~CCCAGG~BTB~XMR~4~0.0010013~1486694972~6.59308034~0.006602~1486694972~0~0~0~0~0.0010013~0.0010013~0.0010013~0.0010013~0.0010013~0.0010013~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,79 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "HiCoin (XHI) - Live streaming prices and market cap",
+            "PageDescription": "Live HiCoin prices from all markets and XHI coin market Capitalization. Stay up to date with the latest HiCoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350892\/xhi.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20202",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "HiCoin (XHI)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "XHI",
+            "Url": "\/coins\/xhi\/",
+            "BaseAngularUrl": "\/coins\/xhi\/",
+            "Name": "HiCoin",
+            "ImageUrl": "\/media\/350892\/xhi.png",
+            "Description": "<p>HiCoin provides\u00a0cheap<span>, fast and easy-to-use\u00a0transactions. Micro-payments and face-to-face transactions are also made easy by XHI.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "10008835635",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoS",
+            "StartDate": "25\/12\/2015",
+            "Twitter": "",
+            "AffiliateUrl": "http:\/\/xhicoin.com\/",
+            "Website": "<a href='http:\/\/xhicoin.com\/' target='_blank'>HiCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515948813,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 884389,
+            "BlockTime": 60,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 10000244677.7,
+            "PreviousTotalCoinsMined": 10000244677.7,
+            "BlockReward": 3.814697265625e-6
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~XHI~ETH",
+            "2~Yobit~XHI~USD",
+            "2~Yobit~XHI~ETH",
+            "2~Yobit~XHI~BTC",
+            "2~CCEX~XHI~DOGE",
+            "2~Yobit~XHI~WAVES",
+            "2~CCEX~XHI~LTC",
+            "2~Yobit~XHI~RUR",
+            "2~CCEX~XHI~USD",
+            "2~CCEX~XHI~BTC",
+            "2~Yobit~XHI~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~XHI~ETH~2~0.00000235~1515942814~101.1001001~0.000237585235235~200000004~122.10015152~0.0369874652197208~122.10015152~0.0369874652197208~0.00000231~0.00175~0.00000231~0.00175~0.00175~0.00000235~Yobit~7ffe9",
+            "5~CCCAGG~XHI~USD~1~0.0406~1515944827~25~1.015~200000005~125~1.63571~194.75790853~4.467881086318~0.0406~0.0406~0.006207~0.0453~0.0453~0.006207~Yobit~7ffe9",
+            "5~CCCAGG~XHI~BTC~4~6.5e-7~1515942944~27774.00637323~0.018053104142599502~200000091~350600.00000000006~0.20029520939653717~351100~0.2005752093965372~5.6e-7~6.5e-7~5.3e-7~5.5e-7~6.5e-7~5.3e-7~Yobit~7ffe9",
+            "5~CCCAGG~XHI~DOGE~4~1~1515945280~26.00020808~26.00020755999584~200000025~1039.37876022~588.988407652286~1010.23402062~595.8860892084415~1~1~0.5556~0.5556~1~0.5556~Yobit~7ffe9",
+            "5~CCCAGG~XHI~WAVES~4~0.00000181~1515504468~3201.21061889~0.005794191220190901~182902045~0~0~0~0~0.00000181~0.00000181~0.00000181~0.00000181~0.00000181~0.00000181~Yobit~7ffe9",
+            "5~CCCAGG~XHI~LTC~4~0.0000195~1515073204~443.0461978~0.0086394008571~1837798~0~0~0~0~0.0000195~0.0000195~0.0000195~0.0000195~0.0000195~0.0000195~CCEX~7ffe9",
+            "5~CCCAGG~XHI~RUR~4~1~1515945282~26.0000001~25.999999839999997~200000005~110.36363647000002~110.11640627112804~111.36363647~111.18610323112804~1.07~1.07~0.3201~1.3~1.3~0.3201~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

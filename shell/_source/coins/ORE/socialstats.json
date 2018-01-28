@@ -1,0 +1,161 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ORE",
+            "CoinName": "Galactrum",
+            "Type": "Webpagecoinp",
+            "Points": 404
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 38371,
+                    "Name": "Quebecoin",
+                    "FullName": "Quebecoin (QBC)",
+                    "ImageUrl": "\/media\/19874\/qbc.png",
+                    "Url": "\/coins\/qbc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24866,
+                    "Name": "Frankywillcoin",
+                    "FullName": "Frankywillcoin (FRWC)",
+                    "ImageUrl": "\/media\/351361\/frwc.png",
+                    "Url": "\/coins\/frwc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 659663,
+                    "Name": "ArubaCoin",
+                    "FullName": "ArubaCoin (AUA)",
+                    "ImageUrl": "\/media\/20780743\/aua.png",
+                    "Url": "\/coins\/aua\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42106,
+                    "Name": "TeCoin",
+                    "FullName": "TeCoin (TEC)",
+                    "ImageUrl": "\/media\/1382383\/tecoin.png",
+                    "Url": "\/coins\/tec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28151,
+                    "Name": "CovenCoin",
+                    "FullName": "CovenCoin (COV*)",
+                    "ImageUrl": "\/media\/351503\/cov.png",
+                    "Url": "\/coins\/covstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3744,
+                    "Name": "2015 coin",
+                    "FullName": "2015 coin (2015)",
+                    "ImageUrl": "\/media\/20180\/2015.png",
+                    "Url": "\/coins\/2015\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5398,
+                    "Name": "Camcoin",
+                    "FullName": "Camcoin (CAM)",
+                    "ImageUrl": "\/media\/20220\/cam.png",
+                    "Url": "\/coins\/cam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 253766,
+                    "Name": "GoodCoin",
+                    "FullName": "GoodCoin (GOOD)",
+                    "ImageUrl": "\/media\/9350786\/good.png",
+                    "Url": "\/coins\/good\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21359,
+                    "Name": "CludCoin",
+                    "FullName": "CludCoin (CLUD)",
+                    "ImageUrl": "\/media\/351027\/clud.png",
+                    "Url": "\/coins\/clud\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43247,
+                    "Name": "Babes and Nerds",
+                    "FullName": "Babes and Nerds (BAN)",
+                    "ImageUrl": "\/media\/1382466\/ban.png",
+                    "Url": "\/coins\/ban\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "Points": 50,
+            "Posts": "2",
+            "PageViewsSplit": {
+                "Overview": 131,
+                "Markets": 6,
+                "Analysis": 12,
+                "Charts": 5,
+                "Trades": 7,
+                "Orderbook": 0,
+                "Forum": 8,
+                "Influence": 9
+            },
+            "PageViews": 178
+        },
+        "Twitter": {
+            "statuses": 17,
+            "favourites": "2",
+            "following": "0",
+            "account_creation": "1513119210",
+            "followers": 312,
+            "name": "Galactrum",
+            "link": "https:\/\/twitter.com\/galactrum",
+            "lists": 3,
+            "Points": 327
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1512857817",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "0",
+                    "size": "6457",
+                    "last_push": "1515777988",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "stars": 10,
+                    "open_pull_issues": "0",
+                    "last_update": "1515791854",
+                    "forks": 4,
+                    "url": "https:\/\/github.com\/galactrum\/galactrum",
+                    "closed_issues": "0",
+                    "open_issues": "0",
+                    "language": "C++",
+                    "subscribers": 3,
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 27
+        }
+    }
+}

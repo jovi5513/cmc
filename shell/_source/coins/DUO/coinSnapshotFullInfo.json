@@ -1,0 +1,88 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "ParallelCoin (DUO) - Live streaming prices and market cap",
+            "PageDescription": "Live ParallelCoin prices from all markets and DUO coin market Capitalization. Stay up to date with the latest ParallelCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1383196\/duo.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "73132",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "ParallelCoin (DUO)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "DUO",
+            "Url": "\/coins\/duo\/",
+            "BaseAngularUrl": "\/coins\/duo\/",
+            "Name": "ParallelCoin",
+            "ImageUrl": "\/media\/1383196\/duo.png",
+            "Description": "<p><span>Parallelcoin is an experimental cryptocurrency that enables instant payments to anyone, anywhere in the world. It uses a dual algorithm system based on Scrypt and Sha256d<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "1000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "22\/06\/2015",
+            "Twitter": "",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970059,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 157670,
+            "BlockTime": 300,
+            "NetHashesPerSecond": 1.1856087812253e+14,
+            "TotalCoinsMined": 313930.57454544,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~DUO~ETH",
+            "2~Cryptopia~DUO~DOT",
+            "2~Cryptopia~DUO~BTC",
+            "2~Yobit~DUO~BTC",
+            "2~Cryptopia~DUO~LTC",
+            "2~Cryptopia~DUO~POP",
+            "2~Cryptopia~DUO~DOGE",
+            "2~Yobit~DUO~RUR",
+            "2~Cryptopia~DUO~FTC",
+            "2~Cryptopia~DUO~UNO",
+            "2~Yobit~DUO~WAVES",
+            "2~Cryptopia~DUO~XMR",
+            "2~Cryptopia~DUO~ETH",
+            "2~Yobit~DUO~DOGE",
+            "2~Yobit~DUO~USD"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~DUO~ETH~4~0.00000224~1515676079~111.50571428~0.0002497727999872~184179507~0~0~0~0~0.00000224~0.00000224~0.00000224~0.00000224~0.00000224~0.00000224~Yobit~7ffe9",
+            "5~CCCAGG~DUO~DOT~4~4.00000764~1486694417~87.78609472~351.14505~1486694417~0~0~0~0~4.00000764~4.00000764~4.00000764~4.00000764~4.00000764~4.00000764~Cryptopia~7ffe9",
+            "5~CCCAGG~DUO~BTC~4~0.0002045~1515972424~156.5~0.03199799~1515972424~0~0~2629.41752734~0.5336837798100548~0.0002045~0.0002045~0.0002045~0.0002434~0.0002441~0.0001777~Cryptopia~7ffe9",
+            "5~CCCAGG~DUO~LTC~4~0.0052~1515197105~7.49779477~0.03898853~1515197105~0~0~0~0~0.0052~0.0052~0.0052~0.0052~0.0052~0.0052~Cryptopia~7ffe9",
+            "5~CCCAGG~DUO~POP~4~24999.99999999~1457168563~0.00002846~0.7115~1457168563~0~0~0~0~24999.99999999~24999.99999999~24999.99999999~24999.99999999~24999.99999999~24999.99999999~Cryptopia~7ffe9",
+            "5~CCCAGG~DUO~DOGE~4~161.68345~1515760122~0.77~124.4962565~200000002~0~0~0~0~161.68345~161.68345~161.68345~161.68345~161.68345~161.68345~Yobit~7ffe9",
+            "5~CCCAGG~DUO~RUR~4~20.00000005~1515638146~0.18917214~3.783442809458607~183905219~0~0~0~0~20~20.00000005~20~20.00000005~20.00000005~20.00000005~Yobit~7ffe9",
+            "5~CCCAGG~DUO~FTC~4~9.99999999~1488127799~0.1~1~1488127799~0~0~0~0~9.99999999~9.99999999~9.99999999~9.99999999~9.99999999~9.99999999~Cryptopia~7ffe9",
+            "5~CCCAGG~DUO~UNO~4~0.07899998~1492721666~0.14386977~0.011366~1492721666~0~0~0~0~0.07899998~0.07899998~0.07899998~0.07899998~0.07899998~0.07899998~Cryptopia~7ffe9",
+            "5~CCCAGG~DUO~WAVES~4~0.2573~1515929206~0.00163208~0.00042000145833759995~200000017~0~0~18.37015886~4.592549692678047~0.2573~0.2573~0.2573~0.25~0.2573~0.25~Yobit~7ffe9",
+            "5~CCCAGG~DUO~XMR~4~0.00010175~1486694883~34.72371945~0.003533~1486694883~0~0~0~0~0.00010175~0.00010175~0.00010175~0.00010175~0.00010175~0.00010175~Cryptopia~7ffe9",
+            "5~CCCAGG~DUO~USD~4~5~1515638084~0.18917214~0.9458606999999999~183904868~0~0~0~0~5~5~5~5~5~5~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

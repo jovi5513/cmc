@@ -1,0 +1,250 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "QTUM",
+            "CoinName": "QTUM",
+            "Type": "Webpagecoinp",
+            "Points": 180505
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 45260,
+                    "Name": "TenX",
+                    "FullName": "TenX (PAY)",
+                    "ImageUrl": "\/media\/1383687\/pay.png",
+                    "Url": "\/coins\/pay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 17778,
+                    "Name": "Augur",
+                    "FullName": "Augur (REP)",
+                    "ImageUrl": "\/media\/350815\/augur-logo.png",
+                    "Url": "\/coins\/rep\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 166390,
+                    "Name": "Tezos",
+                    "FullName": "Tezos (XTZ)",
+                    "ImageUrl": "\/media\/1383651\/xbt.png",
+                    "Url": "\/coins\/xtz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20333,
+                    "Name": "Steem",
+                    "FullName": "Steem (STEEM)",
+                    "ImageUrl": "\/media\/350907\/steem.png",
+                    "Url": "\/coins\/steem\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32699,
+                    "Name": "ARK",
+                    "FullName": "ARK (ARK)",
+                    "ImageUrl": "\/media\/351931\/ark.png",
+                    "Url": "\/coins\/ark\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42433,
+                    "Name": "Private Instant Verified Transaction",
+                    "FullName": "Private Instant Verified Transaction (PIVX)",
+                    "ImageUrl": "\/media\/1382389\/pivx.png",
+                    "Url": "\/coins\/pivx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5039,
+                    "Name": "Bitshares",
+                    "FullName": "Bitshares (BTS)",
+                    "ImageUrl": "\/media\/20705\/bts.png",
+                    "Url": "\/coins\/bts\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 139467,
+                    "Name": "Civic",
+                    "FullName": "Civic (CVC)",
+                    "ImageUrl": "\/media\/1383611\/cvc.png",
+                    "Url": "\/coins\/cvc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338018,
+                    "Name": "HextraCoin",
+                    "FullName": "HextraCoin (HXT)",
+                    "ImageUrl": "\/media\/12318282\/hxt.png",
+                    "Url": "\/coins\/hxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 236131,
+                    "Name": "Vechain",
+                    "FullName": "Vechain (VEN)",
+                    "ImageUrl": "\/media\/12318129\/ven.png",
+                    "Url": "\/coins\/ven\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 550951,
+                    "Name": "blakeclarity",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/550951\/67141d2f-bf88-44ca-bbef-0a33671f7920.jpg",
+                    "Url": "\/profile\/blakeclarity\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 229734,
+                    "Name": "aesterhoeve",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/229734\/42eee532-0858-4d2d-a74b-5de683063fe4.jpg",
+                    "Url": "\/profile\/aesterhoeve\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677356,
+                    "Name": "sandr1990",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677356\/03cd0b11-4a02-4ee2-9d1b-e5946f143c8b.jpg",
+                    "Url": "\/profile\/sandr1990\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 533517,
+                    "Name": "aha051008",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/533517\/f4f5cecc-ab85-41dc-a43c-8f520b241cee.jpg",
+                    "Url": "\/profile\/aha051008\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676900,
+                    "Name": "povedaanatoli",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676900\/75e1293f-e83b-4752-ade0-38c29811abc3.jpg",
+                    "Url": "\/profile\/povedaanatoli\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 671019,
+                    "Name": "Crypto2041",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/671019\/531ddf1a-3b0b-424b-8461-1306464c98c2.png",
+                    "Url": "\/profile\/Crypto2041\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676586,
+                    "Name": "launaduns44",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676586\/3376f7be-be36-4de1-ab6d-acadd25edf41.jpg",
+                    "Url": "\/profile\/launaduns44\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 656072,
+                    "Name": "troos",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/656072\/f76b6d93-1e71-429d-9953-f6d2ff6a0f52.jpg",
+                    "Url": "\/profile\/troos\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 102892,
+                    "Name": "6AFF6419",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/102892\/64e686f6-ad05-41eb-85ea-53daed50aed2.jpg",
+                    "Url": "\/profile\/6AFF6419\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 1345,
+            "Posts": "182",
+            "Comments": "199",
+            "Points": 40165,
+            "PageViewsSplit": {
+                "Overview": 129280,
+                "Markets": 5960,
+                "Analysis": 2647,
+                "Charts": 18012,
+                "Trades": 3321,
+                "Orderbook": 53,
+                "Forum": 11480,
+                "Influence": 880
+            },
+            "PageViews": 171633
+        },
+        "Twitter": {
+            "favourites": "63",
+            "statuses": 778,
+            "following": "767",
+            "account_creation": "1473134868",
+            "name": "QtumOfficial",
+            "link": "https:\/\/twitter.com\/QtumOfficial",
+            "lists": 1221,
+            "followers": 114798,
+            "Points": 120903
+        },
+        "Reddit": {
+            "comments_per_hour": "1.96",
+            "comments_per_day": 47.07,
+            "link": "https:\/\/www.reddit.com\/r\/Qtum\/",
+            "posts_per_day": "13.09",
+            "active_users": 2584,
+            "subscribers": 10184,
+            "posts_per_hour": "0.55",
+            "community_creation": "1484626125",
+            "name": "Qtum",
+            "Points": 18030
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1515960300",
+                    "url": "https:\/\/github.com\/qtumproject\/qtum",
+                    "subscribers": 170,
+                    "size": "78776",
+                    "created_at": "1488529031",
+                    "open_pull_issues": "2",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "26",
+                    "stars": 630,
+                    "forks": 125,
+                    "closed_total_issues": "439",
+                    "closed_pull_issues": "327",
+                    "open_issues": "24",
+                    "closed_issues": "112",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1515570777"
+                }
+            ],
+            "Points": 1390
+        }
+    }
+}

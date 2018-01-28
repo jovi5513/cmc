@@ -1,0 +1,73 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Bitcoin Planet (BTPL) - Live streaming prices and market cap",
+            "PageDescription": "Live Bitcoin Planet prices from all markets and BTPL coin market Capitalization. Stay up to date with the latest Bitcoin Planet price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1383774\/btpl.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "182346",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Bitcoin Planet (BTPL)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BTPL",
+            "Url": "\/coins\/btpl\/",
+            "BaseAngularUrl": "\/coins\/btpl\/",
+            "Name": "Bitcoin Planet",
+            "ImageUrl": "\/media\/1383774\/btpl.png",
+            "Description": "<p>Bitcoin Planet is a PoW\/PoS cryptocurrency based on the Skein algorithm. It offers 10% PoS reward APY.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "100000000",
+            "Algorithm": "Skein",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "17\/06\/2017",
+            "Twitter": "@bitcoin_planet_",
+            "AffiliateUrl": "http:\/\/bitcoin-planet.net\/",
+            "Website": "<a href='http:\/\/bitcoin-planet.net\/' target='_blank'>Bitcoin Planet<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515978067,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 120,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 5925580,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~BTPL~ETH",
+            "2~Novaexchange~BTPL~MOON",
+            "2~Novaexchange~BTPL~LTC",
+            "2~Novaexchange~BTPL~KIC",
+            "2~Novaexchange~BTPL~BTC",
+            "2~Novaexchange~BTPL~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BTPL~ETH~4~0.00029987~1502036347~0.24550927~0.0000736208647949~1502036347001~0~0~0~0~0.00029987~0.00029987~0.00029987~0.00029987~0.00029987~0.00029987~Novaexchange~7ffe9",
+            "5~CCCAGG~BTPL~MOON~4~100.00000002~1501654430~29.24422848~2924.422848584885~1501654430000~0~0~0~0~100.00000002~100.00000002~100.00000002~100.00000002~100.00000002~100.00000002~Novaexchange~7ffe9",
+            "5~CCCAGG~BTPL~LTC~4~0.0025~1502489266~24.52235256~0.061305881400000005~1502489266001~0~0~0~0~0.0025~0.0025~0.0025~0.0025~0.0025~0.0025~Novaexchange~7ffe9",
+            "5~CCCAGG~BTPL~KIC~4~143~1505785038~0.0034965~0.4999995~1505785038000~0~0~0~0~143~143~143~143~143~143~Novaexchange~7ffe9",
+            "5~CCCAGG~BTPL~BTC~4~0.0000011~1510552626~119.99998961~0.000131999988571~1510552626001~0~0~2981.60547588~0.0031467340322768006~0.0000011~0.0000011~0.0000011~0.00000101~0.0000011~0.00000101~Novaexchange~7ffe9",
+            "5~CCCAGG~BTPL~DOGE~4~0.10000098~1510362745~0.78168639~0.07816940505266219~1510362745001~0~0~0~0~0.1~0.10000098~0.1~0.10000098~0.10000098~0.10000098~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

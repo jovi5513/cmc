@@ -1,0 +1,191 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MST",
+            "CoinName": "MustangCoin",
+            "Type": "Webpagecoinp",
+            "Points": 233
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 307112,
+                    "Name": "Facecoin",
+                    "FullName": "Facecoin (FC)",
+                    "ImageUrl": "\/media\/12318045\/fc.png",
+                    "Url": "\/coins\/fc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6341,
+                    "Name": "BitLux",
+                    "FullName": "BitLux (LUX*)",
+                    "ImageUrl": "\/media\/20557\/lux.png",
+                    "Url": "\/coins\/luxstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 53166,
+                    "Name": "TrollPlay",
+                    "FullName": "TrollPlay (TPAY)",
+                    "ImageUrl": "\/media\/1382770\/tpay.png",
+                    "Url": "\/coins\/tpay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8692,
+                    "Name": "Credits",
+                    "FullName": "Credits (CRE)",
+                    "ImageUrl": "\/media\/20683\/cre.png",
+                    "Url": "\/coins\/cre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 318794,
+                    "Name": "Zenome",
+                    "FullName": "Zenome (ZNA)",
+                    "ImageUrl": "\/media\/12318142\/zna.png",
+                    "Url": "\/coins\/zna\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 597029,
+                    "Name": "Copico",
+                    "FullName": "Copico (XCPO)",
+                    "ImageUrl": "\/media\/20780625\/xcpo.png",
+                    "Url": "\/coins\/xcpo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6112,
+                    "Name": "Singular",
+                    "FullName": "Singular (SIGU)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/sigu\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6110,
+                    "Name": "Megastake",
+                    "FullName": "Megastake (XMS)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/xms\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5016,
+                    "Name": "VootCoin",
+                    "FullName": "VootCoin (VOOT)",
+                    "ImageUrl": "\/media\/19946\/voot.png",
+                    "Url": "\/coins\/voot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21227,
+                    "Name": "404Coin",
+                    "FullName": "404Coin (404)",
+                    "ImageUrl": "\/media\/351001\/404.png",
+                    "Url": "\/coins\/404\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 376545,
+                    "Name": "tamtech400.1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/376545\/f562ad14-ea73-47e2-b8a0-1aff648b5c02.jpg",
+                    "Url": "\/profile\/tamtech400.1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 28397,
+                    "Name": "mustangcoin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/28397\/b773c169-4772-48f6-924b-274e552d7e2f.jpg",
+                    "Url": "\/profile\/mustangcoin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Posts": "3",
+            "Comments": "2",
+            "Points": 220,
+            "PageViewsSplit": {
+                "Overview": 644,
+                "Markets": 108,
+                "Analysis": 31,
+                "Charts": 58,
+                "Trades": 34,
+                "Orderbook": 1,
+                "Forum": 22,
+                "Influence": 17
+            },
+            "PageViews": 915
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "forks": 5,
+                    "url": "https:\/\/github.com\/mustangcoin\/mst",
+                    "last_update": "1485716803",
+                    "closed_total_issues": "16",
+                    "closed_pull_issues": "16",
+                    "subscribers": 1,
+                    "open_issues": "1",
+                    "size": "13480",
+                    "created_at": "1473126400",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "1",
+                    "last_push": "1494210973",
+                    "stars": 0
+                }
+            ],
+            "Points": 13
+        }
+    }
+}

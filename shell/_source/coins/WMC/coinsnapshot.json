@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "WMC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000199",
+            "LASTUPDATE": "1516080744",
+            "LASTVOLUME": "65.42957321",
+            "LASTVOLUMETO": "0.0001302048506879",
+            "LASTTRADEID": "200000016",
+            "VOLUMEDAY": "130.85914642",
+            "VOLUMEDAYTO": "0.00023947223794860002",
+            "VOLUME24HOUR": "871.4091464199998",
+            "VOLUME24HOURTO": "0.0016017886443734",
+            "OPENDAY": "0.00000166",
+            "HIGHDAY": "0.00000199",
+            "LOWDAY": "0.00000166",
+            "OPEN24HOUR": "0.000002",
+            "HIGH24HOUR": "0.000002",
+            "LOW24HOUR": "0.00000166",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "WMC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000199",
+                "LASTUPDATE": "1516080744",
+                "LASTVOLUME": "65.42957321",
+                "LASTVOLUMETO": "0.0001302048506879",
+                "LASTTRADEID": "200000016",
+                "VOLUME24HOUR": "871.4091464199998",
+                "VOLUME24HOURTO": "0.0016017886443734",
+                "OPEN24HOUR": "0.000002",
+                "HIGH24HOUR": "0.000002",
+                "LOW24HOUR": "0.00000166"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "WMC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "5.2e-7",
+                "LASTUPDATE": "1476514292",
+                "LASTVOLUME": "6647",
+                "LASTVOLUMETO": "0.00345644",
+                "LASTTRADEID": "424",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "5.2e-7",
+                "HIGH24HOUR": "5.2e-7",
+                "LOW24HOUR": "5.2e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Novaexchange",
+                "FROMSYMBOL": "WMC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00002998",
+                "LASTUPDATE": "1506627216",
+                "LASTVOLUME": "3.33555704",
+                "LASTVOLUMETO": "0.0001000000000592",
+                "LASTTRADEID": "1506627216001",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00002998",
+                "HIGH24HOUR": "0.00002998",
+                "LOW24HOUR": "0.00002998"
+            }
+        ]
+    },
+    "Type": 100
+}

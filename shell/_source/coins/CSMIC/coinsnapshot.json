@@ -1,0 +1,49 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "CSMIC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000377",
+            "LASTUPDATE": "1515887066",
+            "LASTVOLUME": "87.36354603",
+            "LASTVOLUMETO": "0.0003293605685331",
+            "LASTTRADEID": "200000006",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.00000377",
+            "HIGHDAY": "0.00000377",
+            "LOWDAY": "0.00000377",
+            "OPEN24HOUR": "0.00000377",
+            "HIGH24HOUR": "0.00000377",
+            "LOW24HOUR": "0.00000377",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "CSMIC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000377",
+                "LASTUPDATE": "1515887066",
+                "LASTVOLUME": "87.36354603",
+                "LASTVOLUMETO": "0.0003293605685331",
+                "LASTTRADEID": "200000006",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000377",
+                "HIGH24HOUR": "0.00000377",
+                "LOW24HOUR": "0.00000377"
+            }
+        ]
+    },
+    "Type": 100
+}

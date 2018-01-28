@@ -1,0 +1,130 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "RT2",
+            "CoinName": "RotoCoin",
+            "Type": "Webpagecoinp",
+            "Points": 545
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4435,
+                    "Name": "DarkShibe",
+                    "FullName": "DarkShibe (DSB)",
+                    "ImageUrl": "\/media\/20034\/dsb.png",
+                    "Url": "\/coins\/dsb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 607521,
+                    "Name": "Numus",
+                    "FullName": "Numus (NMS)",
+                    "ImageUrl": "\/media\/20780637\/nms.png",
+                    "Url": "\/coins\/nms\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 229307,
+                    "Name": "Veredictum",
+                    "FullName": "Veredictum (VNT)",
+                    "ImageUrl": "\/media\/1384044\/vnt.jpg",
+                    "Url": "\/coins\/vnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5281,
+                    "Name": "Elektron",
+                    "FullName": "Elektron (EKN)",
+                    "ImageUrl": "\/media\/20270\/ekn.png",
+                    "Url": "\/coins\/ekn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4418,
+                    "Name": "CopperLark",
+                    "FullName": "CopperLark (CLR)",
+                    "ImageUrl": "\/media\/19657\/clr.png",
+                    "Url": "\/coins\/clr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4602,
+                    "Name": "ShadeCoin",
+                    "FullName": "ShadeCoin (SHADE)",
+                    "ImageUrl": "\/media\/20056\/shade.png",
+                    "Url": "\/coins\/shade\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5381,
+                    "Name": "Unattanium",
+                    "FullName": "Unattanium (UNAT)",
+                    "ImageUrl": "\/media\/20456\/unat.png",
+                    "Url": "\/coins\/unat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28081,
+                    "Name": "Fusion",
+                    "FullName": "Fusion (FSN)",
+                    "ImageUrl": "\/media\/351495\/fsn.png",
+                    "Url": "\/coins\/fsn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5378,
+                    "Name": "BOOM Coin",
+                    "FullName": "BOOM Coin (BOOM)",
+                    "ImageUrl": "\/media\/20208\/boom.png",
+                    "Url": "\/coins\/boom\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 16717,
+                    "Name": "Nas2Coin",
+                    "FullName": "Nas2Coin (NAS2)",
+                    "ImageUrl": "\/media\/350776\/nas2.png",
+                    "Url": "\/coins\/nas2\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [],
+            "PageViewsSplit": {
+                "Overview": 99,
+                "Markets": 29,
+                "Analysis": 18,
+                "Charts": 17,
+                "Trades": 9,
+                "Orderbook": 0,
+                "Forum": 23,
+                "Influence": 28
+            },
+            "PageViews": 223
+        },
+        "Twitter": {
+            "followers": 480,
+            "following": "320",
+            "lists": 13,
+            "favourites": "123",
+            "statuses": 398,
+            "account_creation": "1393974117",
+            "name": "The RotoCoin Project",
+            "link": "https:\/\/twitter.com\/Rotocoin",
+            "Points": 545
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

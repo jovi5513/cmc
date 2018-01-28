@@ -1,0 +1,75 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Aptcoin (APT) - Live streaming prices and market cap",
+            "PageDescription": "Live Aptcoin prices from all markets and APT coin market Capitalization. Stay up to date with the latest Aptcoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1382945\/apt.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "60419",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Aptcoin (APT)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "APT",
+            "Url": "\/coins\/apt\/",
+            "BaseAngularUrl": "\/coins\/apt\/",
+            "Name": "Aptcoin",
+            "ImageUrl": "\/media\/1382945\/apt.png",
+            "Description": "<p><span>Aptcoin is a Proof of Work cryptocurrency that takes the changing N-factor in the Scrypt algorithm a step further by\u00a0having the N-factor change every block. The N-factor is effectively randomized and can jump between N-factors of 6-13. Unlike a released mining schedule that is completely transparent and changes within years of time Aptcoin dynamically changes N-factor and cannot be predicted. <\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "42000000",
+            "Algorithm": "Scrypt-n",
+            "ProofType": "PoW",
+            "StartDate": "18\/08\/2015",
+            "Twitter": "@aptcoin",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~APT~RUR",
+            "2~Yobit~APT~WAVES",
+            "2~Yobit~APT~USD",
+            "2~Yobit~APT~BTC",
+            "2~Novaexchange~APT~ETH",
+            "2~Novaexchange~APT~BTC",
+            "2~Yobit~APT~ETH",
+            "2~Yobit~APT~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~APT~RUR~4~2~1515977739~16.20014122~32.40028244~200000008~25~49.691828371772615~25.60605652~50.691828356999984~1.65~2~1.65~1.65~2~1.65~Yobit~7ffe9",
+            "5~CCCAGG~APT~WAVES~4~0.001~1515508034~5.17759332~0.00517759332~182929151~0~0~0~0~0.000985~0.001~0.000985~0.001~0.001~0.001~Yobit~7ffe9",
+            "5~CCCAGG~APT~USD~4~0.04298642~1513533828~16.93655891~0.7280420346600021~170765632~0~0~0~0~0.04299~0.04299~0.04298642~0.04298642~0.04298642~0.04298642~Yobit~7ffe9",
+            "5~CCCAGG~APT~BTC~4~7.3e-7~1515966612~2050~0.0014965~200000071~0~0~81056.26382350999~0.057116775640863995~7.3e-7~7.3e-7~7.3e-7~6.8e-7~7.3e-7~6.8e-7~Yobit~7ffe9",
+            "5~CCCAGG~APT~ETH~4~1.4e-7~1511300914~480.21735733~0.00006723043002620001~161121042~0~0~0~0~1.4e-7~1.4e-7~1.4e-7~1.4e-7~1.4e-7~1.4e-7~Yobit~7ffe9",
+            "5~CCCAGG~APT~DOGE~4~0.50000001~1515294673~500~250.00000500000002~181142284~0~0~0~0~0.5~0.50000001~0.5~0.50000001~0.50000001~0.50000001~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

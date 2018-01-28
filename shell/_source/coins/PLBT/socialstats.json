@@ -1,0 +1,212 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PLBT",
+            "CoinName": "Polybius",
+            "Type": "Webpagecoinp",
+            "Points": 18305
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4400,
+                    "Name": "BitcoinDark",
+                    "FullName": "BitcoinDark (BTCD)",
+                    "ImageUrl": "\/media\/19630\/btcd_1.png",
+                    "Url": "\/coins\/btcd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 176280,
+                    "Name": "Rivetz",
+                    "FullName": "Rivetz (RVT)",
+                    "ImageUrl": "\/media\/1383694\/rvt.png",
+                    "Url": "\/coins\/rvt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 320596,
+                    "Name": "Webcoin",
+                    "FullName": "Webcoin (WEB)",
+                    "ImageUrl": "\/media\/12318169\/web.png",
+                    "Url": "\/coins\/web\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179926,
+                    "Name": "SunContract",
+                    "FullName": "SunContract (SNC)",
+                    "ImageUrl": "\/media\/1383748\/snc.png",
+                    "Url": "\/coins\/snc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 363992,
+                    "Name": "ZABERcoin",
+                    "FullName": "ZABERcoin (ZAB)",
+                    "ImageUrl": "\/media\/14761946\/zab.png",
+                    "Url": "\/coins\/zab\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 196591,
+                    "Name": "Reality Clash",
+                    "FullName": "Reality Clash (RCC)",
+                    "ImageUrl": "\/media\/1383864\/rcc.png",
+                    "Url": "\/coins\/rcc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 384605,
+                    "Name": "Bankera",
+                    "FullName": "Bankera (BNK)",
+                    "ImageUrl": "\/media\/14913602\/bnk.png",
+                    "Url": "\/coins\/bnk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20236,
+                    "Name": "PowerCoin",
+                    "FullName": "PowerCoin (PWR)",
+                    "ImageUrl": "\/media\/350899\/pwr.png",
+                    "Url": "\/coins\/pwr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 337863,
+                    "Name": "Gameflip",
+                    "FullName": "Gameflip (FLP)",
+                    "ImageUrl": "\/media\/12318280\/flip.png",
+                    "Url": "\/coins\/flp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 234811,
+                    "Name": "Cobinhood",
+                    "FullName": "Cobinhood (COB)",
+                    "ImageUrl": "\/media\/9350700\/cobin.png",
+                    "Url": "\/coins\/cob\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 515904,
+                    "Name": "LocoGringo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/515904\/d47f6e57-edcd-43d1-9060-571638a2e20b.jpg",
+                    "Url": "\/profile\/LocoGringo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 604469,
+                    "Name": "max.pejs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/604469\/de1d8b36-4873-4517-9035-ffdd42bbefa6.jpg",
+                    "Url": "\/profile\/max.pejs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 153192,
+                    "Name": "fredcoin14",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/153192\/61fb1e4d-3804-4715-b6c9-121786d113ad.jpg",
+                    "Url": "\/profile\/fredcoin14\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 46834,
+                    "Name": "nitinpahwa101",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/46834\/9cbd69dd-a718-4484-93ad-4f683255fe05.jpg",
+                    "Url": "\/profile\/nitinpahwa101\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 651476,
+                    "Name": "pwsmolak",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/651476\/b1db1d33-e8b2-4442-8eee-27cedfe6cb77.jpg",
+                    "Url": "\/profile\/pwsmolak\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 319260,
+                    "Name": "marley83520",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/319260\/26b241fd-87a4-4c98-8e7a-a35b9c31c30b.jpg",
+                    "Url": "\/profile\/marley83520\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 628757,
+                    "Name": "dcontessa100",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/628757\/eeecdfbe-71cb-41ea-90fa-7ad9330cac8f.jpg",
+                    "Url": "\/profile\/dcontessa100\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 430970,
+                    "Name": "djberisstain",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/430970\/917e284f-e415-4782-8a67-869777b95ba6.jpg",
+                    "Url": "\/profile\/djberisstain\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 17641,
+                    "Name": "FAE9946",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/17641\/4a2f7611-af96-40b8-a9fd-a40d90056ce9.jpg",
+                    "Url": "\/profile\/FAE9946\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 114718,
+                    "Name": "Dims",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/114718\/4063877f-ed2b-4b7d-8d73-73790cebe1c3.png",
+                    "Url": "\/profile\/Dims\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 322728,
+                    "Name": "murashandme",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/322728\/9e64234e-4a23-47f6-9c63-e56031600f4b.png",
+                    "Url": "\/profile\/murashandme\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 8765,
+            "Posts": "47",
+            "Comments": "59",
+            "Followers": 280,
+            "PageViewsSplit": {
+                "Overview": 22229,
+                "Markets": 2804,
+                "Analysis": 673,
+                "Charts": 1264,
+                "Trades": 696,
+                "Orderbook": 14,
+                "Forum": 1533,
+                "Influence": 219
+            },
+            "PageViews": 29432
+        },
+        "Twitter": {
+            "following": "2",
+            "account_creation": "1481096874",
+            "statuses": 112,
+            "favourites": "24",
+            "followers": 8958,
+            "name": "Polybius",
+            "link": "https:\/\/twitter.com\/PolybiusBank",
+            "lists": 116,
+            "Points": 9538
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NIO",
+            "CoinName": "Autonio",
+            "Type": "Webpagecoinp",
+            "Points": 6477
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 25830,
+                    "Name": "PizzaCoin",
+                    "FullName": "PizzaCoin (PIZZA)",
+                    "ImageUrl": "\/media\/351397\/pizza.png",
+                    "Url": "\/coins\/pizza\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 100944,
+                    "Name": "Subscriptio",
+                    "FullName": "Subscriptio (SUB*)",
+                    "ImageUrl": "\/media\/1383362\/sub.png",
+                    "Url": "\/coins\/substar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338140,
+                    "Name": "Prosense.tv",
+                    "FullName": "Prosense.tv (VRP*)",
+                    "ImageUrl": "\/media\/12318284\/vrt.png",
+                    "Url": "\/coins\/vrp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 389808,
+                    "Name": "Interstellar Holdings",
+                    "FullName": "Interstellar Holdings (HOLD)",
+                    "ImageUrl": "\/media\/14913647\/hold.png",
+                    "Url": "\/coins\/hold\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 418694,
+                    "Name": "Uquid Coin",
+                    "FullName": "Uquid Coin (UQC)",
+                    "ImageUrl": "\/media\/16746443\/uqc.png",
+                    "Url": "\/coins\/uqc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43604,
+                    "Name": "RoundCoin",
+                    "FullName": "RoundCoin (ROUND)",
+                    "ImageUrl": "\/media\/1382508\/round.png",
+                    "Url": "\/coins\/round\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4615,
+                    "Name": "SuperCoin",
+                    "FullName": "SuperCoin (SUPER)",
+                    "ImageUrl": "\/media\/20061\/super.png",
+                    "Url": "\/coins\/super\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 301216,
+                    "Name": "Wish Finance",
+                    "FullName": "Wish Finance (WSH)",
+                    "ImageUrl": "\/media\/12317980\/wish.png",
+                    "Url": "\/coins\/wsh\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3642,
+                    "Name": "KoboCoin",
+                    "FullName": "KoboCoin (KOBO)",
+                    "ImageUrl": "\/media\/20329\/kobo.png",
+                    "Url": "\/coins\/kobo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 304833,
+                    "Name": "Paycentos",
+                    "FullName": "Paycentos (PYN)",
+                    "ImageUrl": "\/media\/12318033\/pyn.png",
+                    "Url": "\/coins\/pyn\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 663567,
+                    "Name": "janb.l33t",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/663567\/8b9986eb-5630-4429-aa3b-2adb98112307.jpg",
+                    "Url": "\/profile\/janb.l33t\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 536065,
+                    "Name": "ryan97006",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/536065\/2d835fac-385b-4b0a-87cd-260f6fa9ca82.jpg",
+                    "Url": "\/profile\/ryan97006\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 217159,
+                    "Name": "325D073B",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/217159\/2b8544d0-8103-4cf4-94fa-f9f46673b0a7.jpg",
+                    "Url": "\/profile\/325D073B\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 661854,
+                    "Name": "lukaskleso",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/661854\/e9ca73f3-b28a-4d6a-8ad3-93023fbd9978.jpg",
+                    "Url": "\/profile\/lukaskleso\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 131856,
+                    "Name": "ah3dvis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/131856\/c80a2c80-d03e-4ae6-b7c2-0ee5b89fd732.png",
+                    "Url": "\/profile\/ah3dvis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 227812,
+                    "Name": "0DSA0",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/227812\/ab8a4435-c2e6-4037-aea0-25606913f33e.jpg",
+                    "Url": "\/profile\/0DSA0\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 566321,
+                    "Name": "Orkun",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/566321\/f49011dd-0ea3-4904-8bec-30481c29e01a.jpg",
+                    "Url": "\/profile\/Orkun\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 510284,
+                    "Name": "rcash3915",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/510284\/f783444c-23a4-4fb5-ae1f-dbeb4681c91b.jpg",
+                    "Url": "\/profile\/rcash3915\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 255035,
+                    "Name": "omerozcetin10",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/255035\/912d4731-70a5-4728-b51e-f05026d8ff3f.jpg",
+                    "Url": "\/profile\/omerozcetin10\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 524365,
+                    "Name": "D81C3400",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/524365\/1a3aa59a-3da3-427e-b850-49c57bd6c626.jpg",
+                    "Url": "\/profile\/D81C3400\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 325,
+            "Posts": "1",
+            "Followers": 12,
+            "PageViewsSplit": {
+                "Overview": 425,
+                "Markets": 48,
+                "Analysis": 23,
+                "Charts": 42,
+                "Trades": 22,
+                "Orderbook": 0,
+                "Forum": 20,
+                "Influence": 23
+            },
+            "PageViews": 603
+        },
+        "Twitter": {
+            "favourites": "418",
+            "statuses": 669,
+            "following": "209",
+            "account_creation": "1503274818",
+            "followers": 5876,
+            "name": "Autonio",
+            "link": "https:\/\/twitter.com\/AI_Autonio",
+            "lists": 28,
+            "Points": 6016
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "34",
+            "name": "Autonio",
+            "likes": 136,
+            "link": "https:\/\/www.facebook.com\/AIAutonio\/",
+            "Points": 136
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

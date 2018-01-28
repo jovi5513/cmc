@@ -1,0 +1,88 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "LeaCoin (LEA) - Live streaming prices and market cap",
+            "PageDescription": "Live LeaCoin prices from all markets and LEA coin market Capitalization. Stay up to date with the latest LeaCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351729\/lea.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "30117",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "LeaCoin (LEA)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "LEA",
+            "Url": "\/coins\/lea\/",
+            "BaseAngularUrl": "\/coins\/lea\/",
+            "Name": "LeaCoin",
+            "ImageUrl": "\/media\/351729\/lea.png",
+            "Description": "<p>LeaCoin is a SHA256 Proof of Work cryptocurrency. It has a maximum volume of 2 billion coins and a avg. block time of 30 seconds.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "2000000000",
+            "Algorithm": "SHA256",
+            "ProofType": "PoW",
+            "StartDate": "30\/03\/2015",
+            "Twitter": "",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515951245,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 1569754,
+            "BlockTime": 30,
+            "NetHashesPerSecond": 1.7362702299456e+14,
+            "TotalCoinsMined": 323715291.36945,
+            "PreviousTotalCoinsMined": 323710279.60474,
+            "BlockReward": 211.76470588937
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Yobit~LEA~USD",
+            "2~Yobit~LEA~RUR",
+            "2~Cryptopia~LEA~LTC",
+            "2~Cryptopia~LEA~XMR",
+            "2~Yobit~LEA~ETH",
+            "2~Cryptopia~LEA~BTC",
+            "2~Cryptopia~LEA~DOT",
+            "2~Cryptopia~LEA~UNO",
+            "2~Yobit~LEA~BTC",
+            "2~Cryptopia~LEA~POP",
+            "2~Cryptopia~LEA~ETH",
+            "2~Yobit~LEA~WAVES",
+            "2~Cryptopia~LEA~DOGE",
+            "2~Cryptopia~LEA~FTC",
+            "2~Yobit~LEA~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~LEA~USD~4~0.0015~1515935733~90~0.1349991~200000015~157.2670346~0.23589897922965403~157.2670346~0.23589897922965403~0.0015~0.0015~0.00149999~0.0015~0.0015~0.0015~Yobit~7ffe9",
+            "5~CCCAGG~LEA~RUR~4~0.0755~1515949172~26~1.9629999999999999~200000023~1896.57222262~136.523297066257~1896.57222262~136.523297066257~0.03315~0.07556~0.033~0.03315~0.07556~0.033~Yobit~7ffe9",
+            "5~CCCAGG~LEA~LTC~4~0.0000038~1515195088~4966.20686677~0.01887159~1515195088~0~0~0~0~0.0000038~0.0000038~0.0000038~0.0000038~0.0000038~0.0000038~Cryptopia~7ffe9",
+            "5~CCCAGG~LEA~XMR~4~5.2e-7~1485422392~38.57692308~0.00002~1485422392~0~0~0~0~5.2e-7~5.2e-7~5.2e-7~5.2e-7~5.2e-7~5.2e-7~Cryptopia~7ffe9",
+            "5~CCCAGG~LEA~ETH~4~0.000001~1515690544~5757.96958911~0.005757969589109999~184305714~0~0~0~0~0.000001~0.000001~0.000001~0.000001~0.000001~0.000001~Yobit~7ffe9",
+            "5~CCCAGG~LEA~BTC~4~6e-8~1515950762~5200~0.000312~200000181~406413.57621408~0.024519814572844797~1139104.6416349602~0.077504922061488~6e-8~7e-8~6e-8~7e-8~8e-8~6e-8~Yobit~7ffe9",
+            "5~CCCAGG~LEA~DOT~4~0.015~1488220192~3.81126305~0.057169~1488220192~0~0~0~0~0.015~0.015~0.015~0.015~0.015~0.015~Cryptopia~7ffe9",
+            "5~CCCAGG~LEA~UNO~4~0.0000031~1497983119~403640.864646~1.25128668~1497983119.001~0~0~0~0~0.0000031~0.0000031~0.0000031~0.0000031~0.0000031~0.0000031~Cryptopia~7ffe9",
+            "5~CCCAGG~LEA~POP~4~0.66000002~1459223301~21277.87471713~14043.397739~1459223301~0~0~0~0~0.66000002~0.66000002~0.66000002~0.66000002~0.66000002~0.66000002~Cryptopia~7ffe9",
+            "5~CCCAGG~LEA~WAVES~4~0.0001~1515695290~4~0.0004~184344056~0~0~0~0~0.0001~0.0001~0.0001~0.0001~0.0001~0.0001~Yobit~7ffe9",
+            "5~CCCAGG~LEA~DOGE~4~0.157~1515901861~300~47.09994~200000022~11503.415866020001~707.2707953351586~40101.74612678~3902.106331707625~0.157~0.157~0.05~0.107~0.157~0.05~Yobit~7ffe9",
+            "5~CCCAGG~LEA~FTC~4~0.02999999~1488076549~961.82118102~28.854626~1488076549~0~0~0~0~0.02999999~0.02999999~0.02999999~0.02999999~0.02999999~0.02999999~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

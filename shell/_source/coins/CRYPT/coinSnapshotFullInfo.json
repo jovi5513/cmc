@@ -1,0 +1,75 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "CryptCoin (CRYPT) - Live streaming prices and market cap",
+            "PageDescription": "Live CryptCoin prices from all markets and CRYPT coin market Capitalization. Stay up to date with the latest CryptCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19664\/crypt.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4427",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "CryptCoin (CRYPT)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "CRYPT",
+            "Url": "\/coins\/crypt\/",
+            "BaseAngularUrl": "\/coins\/crypt\/",
+            "Name": "CryptCoin",
+            "ImageUrl": "\/media\/19664\/crypt.png",
+            "Description": "<p>CryptCoin (CRYPT) is an X11 altcoin - a third generation of crypto currency. There is a hard cap limit set to the POW and POS at 18 million. The POW reward halves at elongating intervals from a start of 500 CRY and the POS rate is 2.75%.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "18000000",
+            "Algorithm": "X11",
+            "ProofType": "PoW",
+            "StartDate": "06\/06\/2014",
+            "Twitter": "",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515926774,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "-",
+            "BlockNumber": 1085896,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 6069942.8348905,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~CRYPT~UNO",
+            "2~Cryptsy~CRYPT~LTC",
+            "2~Coinse~CRYPT~BTC",
+            "2~Cryptsy~CRYPT~BTC",
+            "2~BitTrex~CRYPT~BTC",
+            "2~Cryptopia~CRYPT~LTC",
+            "2~Cryptsy~CRYPT~XRP",
+            "2~Cryptopia~CRYPT~BTC",
+            "2~Cryptopia~CRYPT~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~CRYPT~UNO~4~0.028~1497876616~6.05402628~0.16951274~1497876616~0~0~0~0~0.028~0.028~0.028~0.028~0.028~0.028~Cryptopia~7ffe9",
+            "5~CCCAGG~CRYPT~LTC~4~0.00369066~1514409739~0.00031298~0.00000116~1514409739~0~0~0~0~0.003691~0.003691~0.00369066~0.00369066~0.00369066~0.00369066~Cryptopia~7ffe9",
+            "5~CCCAGG~CRYPT~BTC~4~0.0000318~1514391836~20~0.000636~1514391836~0~0~0~0~0.0000318~0.0000318~0.0000318~0.0000318~0.0000318~0.0000318~Cryptopia~7ffe9",
+            "5~CCCAGG~CRYPT~XRP~4~0.48019962~1430736851~0.47168028~0.22650069~92113689~0~0~0.48019962~0.48019962~0.48019962~Cryptsy~78ce9",
+            "5~CCCAGG~CRYPT~DOGE~4~42.31736201~1514390323~120.89414778~5115.9214165~1514390323~0~0~0~0~42.32~42.32~42.31736201~42.31736201~42.31736201~42.31736201~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

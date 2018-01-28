@@ -1,0 +1,183 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ASN",
+            "CoinName": "Ascension Coin",
+            "Type": "Webpagecoinp",
+            "Points": 196
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 60424,
+                    "Name": "BlazerCoin",
+                    "FullName": "BlazerCoin (BLAZR)",
+                    "ImageUrl": "\/media\/1382946\/blazr.png",
+                    "Url": "\/coins\/blazr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 446051,
+                    "Name": "People",
+                    "FullName": "People (MAN)",
+                    "ImageUrl": "\/media\/16746574\/man.png",
+                    "Url": "\/coins\/man\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 659724,
+                    "Name": "SagaCoin",
+                    "FullName": "SagaCoin (SAGA)",
+                    "ImageUrl": "\/media\/20780745\/saga.png",
+                    "Url": "\/coins\/saga\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 105206,
+                    "Name": "DuxCoin",
+                    "FullName": "DuxCoin (DUX)",
+                    "ImageUrl": "\/media\/1383364\/dux.png",
+                    "Url": "\/coins\/dux\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6095,
+                    "Name": "Quicksilver coin",
+                    "FullName": "Quicksilver coin (QSLV)",
+                    "ImageUrl": "\/media\/20404\/qslv.png",
+                    "Url": "\/coins\/qslv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 441616,
+                    "Name": "Relex",
+                    "FullName": "Relex (RLX)",
+                    "ImageUrl": "\/media\/16746570\/rlx.png",
+                    "Url": "\/coins\/rlx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29715,
+                    "Name": "OlympCoin",
+                    "FullName": "OlympCoin (OLYMP)",
+                    "ImageUrl": "\/media\/351683\/olymp.png",
+                    "Url": "\/coins\/olymp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38967,
+                    "Name": "Incrementum",
+                    "FullName": "Incrementum (INC)",
+                    "ImageUrl": "\/media\/1382173\/inc.png",
+                    "Url": "\/coins\/inc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 39704,
+                    "Name": "ZLiteQubit",
+                    "FullName": "ZLiteQubit (ZLQ)",
+                    "ImageUrl": "\/media\/1382238\/zlq.png",
+                    "Url": "\/coins\/zlq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28657,
+                    "Name": "RingCoin",
+                    "FullName": "RingCoin (RING)",
+                    "ImageUrl": "\/media\/351546\/ring.png",
+                    "Url": "\/coins\/ring\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 302026,
+                    "Name": "gregorecris",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/302026\/7470d3fa-b26e-4555-b149-ebf8bde4316a.jpg",
+                    "Url": "\/profile\/gregorecris\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 224577,
+                    "Name": "20111998",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/224577\/258727d2-7751-4b00-b4ed-ec6e47d7664c.jpg",
+                    "Url": "\/profile\/20111998\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 59577,
+                    "Name": "jernej.merkac",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/59577\/ddb14082-3a50-413e-b3a4-3b25031be149.jpg",
+                    "Url": "\/profile\/jernej.merkac\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 32116,
+                    "Name": "jesterjangle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/32116\/029dfa09-00fe-4260-aef1-c1efa4f03af8.jpg",
+                    "Url": "\/profile\/jesterjangle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 7,
+            "Points": 175,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 548,
+                "Markets": 42,
+                "Analysis": 69,
+                "Charts": 36,
+                "Trades": 47,
+                "Orderbook": 2,
+                "Forum": 42,
+                "Influence": 51
+            },
+            "PageViews": 837
+        },
+        "Twitter": {
+            "favourites": "0",
+            "lists": 2,
+            "name": "Ascension Dev",
+            "statuses": 3,
+            "followers": 11,
+            "following": "1",
+            "account_creation": "1428519377",
+            "link": "https:\/\/twitter.com\/Dev_Ascension",
+            "Points": 21
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

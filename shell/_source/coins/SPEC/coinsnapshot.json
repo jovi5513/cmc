@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "SPEC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "2e-8",
+            "LASTUPDATE": "1516076659",
+            "LASTVOLUME": "32655.83662676",
+            "LASTVOLUMETO": "0.0006531167325352",
+            "LASTTRADEID": "200001158",
+            "VOLUMEDAY": "38711.65",
+            "VOLUMEDAYTO": "0.0007742329999999999",
+            "VOLUME24HOUR": "729482.16218178",
+            "VOLUME24HOURTO": "0.014282098879937397",
+            "OPENDAY": "2e-8",
+            "HIGHDAY": "2e-8",
+            "LOWDAY": "2e-8",
+            "OPEN24HOUR": "2e-8",
+            "HIGH24HOUR": "2e-8",
+            "LOW24HOUR": "1e-8",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "SPEC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "2e-8",
+                "LASTUPDATE": "1516076659",
+                "LASTVOLUME": "32655.83662676",
+                "LASTVOLUMETO": "0.0006531167325352",
+                "LASTTRADEID": "200001158",
+                "VOLUME24HOUR": "729482.16218178",
+                "VOLUME24HOURTO": "0.014282098879937397",
+                "OPEN24HOUR": "2e-8",
+                "HIGH24HOUR": "2e-8",
+                "LOW24HOUR": "1e-8"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "SPEC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "3e-8",
+                "LASTUPDATE": "1452727232",
+                "LASTVOLUME": "125",
+                "LASTVOLUMETO": "0.00000375",
+                "LASTTRADEID": "110913763",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "3e-8",
+                "HIGH24HOUR": "3e-8",
+                "LOW24HOUR": "3e-8"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "SPEC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "2.8e-7",
+                "LASTUPDATE": "1445461866",
+                "LASTVOLUME": "93294.210654",
+                "LASTVOLUMETO": "0.02612237898312",
+                "LASTTRADEID": "1445461866014",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "2.8e-7",
+                "HIGH24HOUR": "2.8e-7",
+                "LOW24HOUR": "2.8e-7"
+            }
+        ]
+    },
+    "Type": 100
+}

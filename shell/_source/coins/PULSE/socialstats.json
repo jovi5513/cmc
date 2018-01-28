@@ -1,0 +1,240 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PULSE",
+            "CoinName": "Pulse",
+            "Type": "Webpagecoinp",
+            "Points": 1367
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 30386,
+                    "Name": "RoyalCoin",
+                    "FullName": "RoyalCoin (ROYAL)",
+                    "ImageUrl": "\/media\/351756\/royal.png",
+                    "Url": "\/coins\/royal\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 215570,
+                    "Name": "Benjacoin",
+                    "FullName": "Benjacoin (BNC)",
+                    "ImageUrl": "\/media\/1383991\/bnc.png",
+                    "Url": "\/coins\/bnc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4409,
+                    "Name": "CashCoin",
+                    "FullName": "CashCoin (CASH)",
+                    "ImageUrl": "\/media\/20016\/cash.png",
+                    "Url": "\/coins\/cash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30024,
+                    "Name": "Premium",
+                    "FullName": "Premium (PRE)",
+                    "ImageUrl": "\/media\/351711\/pre.png",
+                    "Url": "\/coins\/pre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 348068,
+                    "Name": "WomenCoin",
+                    "FullName": "WomenCoin (WOMEN)",
+                    "ImageUrl": "\/media\/12318379\/women.png",
+                    "Url": "\/coins\/women\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 165555,
+                    "Name": "Ergo",
+                    "FullName": "Ergo (EFYT)",
+                    "ImageUrl": "\/media\/1383646\/efyt.png",
+                    "Url": "\/coins\/efyt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5396,
+                    "Name": "Coin.2",
+                    "FullName": "Coin.2 (C2)",
+                    "ImageUrl": "\/media\/19640\/c2.png",
+                    "Url": "\/coins\/c2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20218,
+                    "Name": "RedCrowCoin",
+                    "FullName": "RedCrowCoin (RCX)",
+                    "ImageUrl": "\/media\/350902\/rcx.png",
+                    "Url": "\/coins\/rcx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28778,
+                    "Name": "Sentaro",
+                    "FullName": "Sentaro (SEN)",
+                    "ImageUrl": "\/media\/351560\/sen.png",
+                    "Url": "\/coins\/sen\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 586482,
+                    "Name": "CrowdCoin",
+                    "FullName": "CrowdCoin (CRC*)",
+                    "ImageUrl": "\/media\/20780611\/crc.png",
+                    "Url": "\/coins\/crcstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 600517,
+                    "Name": "robx1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/600517\/6c9f2d9d-1819-465b-a697-bc28dc00ab44.jpg",
+                    "Url": "\/profile\/robx1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 599976,
+                    "Name": "paolocompare71",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/599976\/d1d01826-9fa4-42d8-97ce-2abd8d8e013d.jpg",
+                    "Url": "\/profile\/paolocompare71\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 564435,
+                    "Name": "assgulugulu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/564435\/12b68662-157a-4ddb-89dd-a6cd125c247e.jpg",
+                    "Url": "\/profile\/assgulugulu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 528532,
+                    "Name": "aboudi.khan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/528532\/aa38c1e2-bf2b-4843-8f51-0a92b4838000.jpg",
+                    "Url": "\/profile\/aboudi.khan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 487093,
+                    "Name": "gutta.gpr",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/487093\/9ebc881b-7405-4bf3-894e-a382cdcd64ab.jpg",
+                    "Url": "\/profile\/gutta.gpr\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 486754,
+                    "Name": "FreshboneThug",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/486754\/4ae260e1-a95c-4631-bd21-e46cd29e4da5.png",
+                    "Url": "\/profile\/FreshboneThug\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 332473,
+                    "Name": "absolute112world",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/332473\/03bfd646-64ae-40d7-99de-1c07ec324ffb.jpg",
+                    "Url": "\/profile\/absolute112world\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 316918,
+                    "Name": "ragwell",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/316918\/4e3c5f99-3a87-4292-a275-78fd492259f0.jpg",
+                    "Url": "\/profile\/ragwell\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 181764,
+                    "Name": "crypto.leb.2017",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/181764\/2015fa0a-da82-4682-95b6-3640736551dd.jpg",
+                    "Url": "\/profile\/crypto.leb.2017\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 14,
+            "Posts": "2",
+            "Points": 400,
+            "PageViewsSplit": {
+                "Overview": 1294,
+                "Markets": 94,
+                "Analysis": 37,
+                "Charts": 86,
+                "Trades": 56,
+                "Orderbook": 1,
+                "Forum": 26,
+                "Influence": 16
+            },
+            "PageViews": 1610
+        },
+        "Twitter": {
+            "favourites": "53",
+            "lists": 19,
+            "statuses": 243,
+            "following": "8",
+            "account_creation": "1457376031",
+            "name": "PULSE",
+            "followers": 860,
+            "link": "https:\/\/twitter.com\/PulseCrypto",
+            "Points": 955
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1480657398",
+                    "url": "https:\/\/github.com\/elcrypto\/Pulse",
+                    "forks": 3,
+                    "closed_total_issues": "4",
+                    "closed_pull_issues": "4",
+                    "subscribers": 2,
+                    "open_issues": "1",
+                    "size": "14555",
+                    "created_at": "1457764710",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "C++",
+                    "open_total_issues": "1",
+                    "last_push": "1480657396",
+                    "stars": 0
+                }
+            ],
+            "Points": 12
+        }
+    }
+}

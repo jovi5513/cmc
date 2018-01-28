@@ -1,0 +1,70 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BitcoinZ (BTCZ) - Live streaming prices and market cap",
+            "PageDescription": "Live BitcoinZ prices from all markets and BTCZ coin market Capitalization. Stay up to date with the latest BitcoinZ price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/12318408\/btcz.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "327184",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "BitcoinZ (BTCZ)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BTCZ",
+            "Url": "\/coins\/btcz\/",
+            "BaseAngularUrl": "\/coins\/btcz\/",
+            "Name": "BitcoinZ",
+            "ImageUrl": "\/media\/12318408\/btcz.png",
+            "Description": "<p>BitcoinZ is a proof of work cryptocurrency based on the Equihash algorithm. It also leverages zk-snarks to bring anonymous transactions.<\/p><p>\u00a0<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "21000000000",
+            "Algorithm": "Equihash",
+            "ProofType": "PoW",
+            "StartDate": "10\/09\/2017",
+            "Twitter": "@BTCZCommunity",
+            "AffiliateUrl": "https:\/\/www.bitcoinz.global\/",
+            "Website": "<a href='https:\/\/www.bitcoinz.global\/' target='_blank'>BitcoinZ<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970652,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 72755,
+            "BlockTime": 150,
+            "NetHashesPerSecond": 6162991,
+            "TotalCoinsMined": 909850113.4311,
+            "PreviousTotalCoinsMined": 909750113.42817,
+            "BlockReward": 12500.001288956
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "<a href='https:\/\/bitcoinz.site\/wp-content\/uploads\/2017\/10\/Community_Paper_Finalv1.0.0_20171007.pdf' target='_blank'>Read Whitepaper<\/a>",
+            "WhitePaperLink": "https:\/\/bitcoinz.site\/wp-content\/uploads\/2017\/10\/Community_Paper_Finalv1.0.0_20171007.pdf"
+        },
+        "Subs": [
+            "2~CCEX~BTCZ~LTC",
+            "2~CCEX~BTCZ~USD",
+            "2~CCEX~BTCZ~DOGE",
+            "2~CCEX~BTCZ~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BTCZ~LTC~4~0.00001165~1515075000~5000~0.05825~1837860~0~0~0~0~0.00001165~0.00001165~0.00001165~0.00001165~0.00001165~0.00001165~CCEX~7ffe9",
+            "5~CCCAGG~BTCZ~USD~4~0.01~1515141328~101.99538001~1.0199538001000001~1910742~0~0~0~0~0.01~0.01~0.01~0.01~0.01~0.01~CCEX~7ffe9",
+            "5~CCCAGG~BTCZ~DOGE~4~0.9525865~1515130731~883.56414134~841.6712729245759~2167489~0~0~0~0~0.9526~0.9526~0.9525865~0.9525865~0.9525865~0.9525865~CCEX~7ffe9",
+            "5~CCCAGG~BTCZ~BTC~4~5.6e-7~1515140454~111860.0442786~0.06264162479601601~12692~0~0~0~0~5.6e-7~5.6e-7~5.6e-7~5.6e-7~5.6e-7~5.6e-7~CCEX~7ffe9"
+        ]
+    },
+    "Type": 100
+}

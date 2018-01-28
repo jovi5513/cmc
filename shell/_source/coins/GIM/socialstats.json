@@ -1,0 +1,251 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GIM",
+            "CoinName": "Gimli",
+            "Type": "Webpagecoinp",
+            "Points": 17312
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 536213,
+                    "Name": "BitcoinX",
+                    "FullName": "BitcoinX (BCX*)",
+                    "ImageUrl": "\/media\/16746738\/bcx.png",
+                    "Url": "\/coins\/bcxstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179345,
+                    "Name": "MyBit",
+                    "FullName": "MyBit (MYB)",
+                    "ImageUrl": "\/media\/1383746\/myb.png",
+                    "Url": "\/coins\/myb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 383878,
+                    "Name": "Ethersportcoin",
+                    "FullName": "Ethersportcoin (ESC*)",
+                    "ImageUrl": "\/media\/14913585\/esc.png",
+                    "Url": "\/coins\/esc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 247246,
+                    "Name": "LiteBitcoin",
+                    "FullName": "LiteBitcoin (LBTC)",
+                    "ImageUrl": "\/media\/9350763\/lbtc.png",
+                    "Url": "\/coins\/lbtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 318199,
+                    "Name": "Hshare",
+                    "FullName": "Hshare (HSR)",
+                    "ImageUrl": "\/media\/12318137\/hsr.png",
+                    "Url": "\/coins\/hsr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 675053,
+                    "Name": "High Performance Blockchain",
+                    "FullName": "High Performance Blockchain (HPB)",
+                    "ImageUrl": "\/media\/20780783\/hpb.png",
+                    "Url": "\/coins\/hpb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 354771,
+                    "Name": "TBIS token",
+                    "FullName": "TBIS token (BAR)",
+                    "ImageUrl": "\/media\/14543951\/bar.png",
+                    "Url": "\/coins\/bar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 370606,
+                    "Name": "Cloud",
+                    "FullName": "Cloud (CLD)",
+                    "ImageUrl": "\/media\/14913452\/cld.png",
+                    "Url": "\/coins\/cld\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 370535,
+                    "Name": "Pure",
+                    "FullName": "Pure (PURE)",
+                    "ImageUrl": "\/media\/14913451\/pure.png",
+                    "Url": "\/coins\/pure\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 409492,
+                    "Name": "Bitcoin Diamond",
+                    "FullName": "Bitcoin Diamond (BCD)",
+                    "ImageUrl": "\/media\/16404872\/bcd.png",
+                    "Url": "\/coins\/bcd\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 449404,
+                    "Name": "zakharchenkorv",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/449404\/0f4f6309-5e95-4709-9875-8f40c319788f.jpg",
+                    "Url": "\/profile\/zakharchenkorv\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 472754,
+                    "Name": "vanridesbikes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/472754\/c6626294-766d-4d32-974a-7bcf2f0d6404.jpg",
+                    "Url": "\/profile\/vanridesbikes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 595645,
+                    "Name": "rickjelley",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/595645\/fc9c36ba-d285-47c1-a252-763cc1ae4b5c.jpg",
+                    "Url": "\/profile\/rickjelley\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 480616,
+                    "Name": "shabir",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/480616\/67d7f8f1-6e08-4ba4-a4e1-e41b4dccf3cd.jpg",
+                    "Url": "\/profile\/shabir\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 297860,
+                    "Name": "Slaturbanowi4",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/297860\/c8b031fe-94fc-43c6-aa2f-3266e56a79cc.jpg",
+                    "Url": "\/profile\/Slaturbanowi4\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 424297,
+                    "Name": "bal4bitcoin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/424297\/d34b5455-575e-41d2-954a-d6b4312ef4b4.png",
+                    "Url": "\/profile\/bal4bitcoin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 236484,
+                    "Name": "matthew.norman86",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/236484\/9eeb7bd2-0a66-402c-88c6-0cb88589fafd.jpg",
+                    "Url": "\/profile\/matthew.norman86\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 15588,
+                    "Name": "denis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/15588\/a597a99c-27f2-4431-bcb6-a6e8a937b861.jpg",
+                    "Url": "\/profile\/denis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 261340,
+                    "Name": "nenad",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/261340\/e30fef58-9793-4427-bd7d-9c8ea6d2a7de.jpg",
+                    "Url": "\/profile\/nenad\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 337690,
+                    "Name": "ardrahys",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/337690\/f66512d8-c15c-4b88-9e14-c909e8bbeb5e.jpg",
+                    "Url": "\/profile\/ardrahys\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 334521,
+                    "Name": "jerry45",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/334521\/7b5f36e1-f92d-48f6-9124-5ecae46fa195.jpg",
+                    "Url": "\/profile\/jerry45\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1670,
+            "Followers": 58,
+            "Posts": "8",
+            "Comments": "2",
+            "PageViewsSplit": {
+                "Overview": 3362,
+                "Markets": 211,
+                "Analysis": 89,
+                "Charts": 121,
+                "Trades": 231,
+                "Orderbook": 9,
+                "Forum": 88,
+                "Influence": 74
+            },
+            "PageViews": 4185
+        },
+        "Twitter": {
+            "following": "465",
+            "account_creation": "1498662452",
+            "name": "The Gimli Project",
+            "lists": 33,
+            "statuses": 471,
+            "favourites": "858",
+            "followers": 1924,
+            "link": "https:\/\/twitter.com\/thegimliproject",
+            "Points": 2089
+        },
+        "Reddit": {
+            "name": "undefined",
+            "link": "https:\/\/www.reddit.com\/r\/thegimliproject\/",
+            "active_users": 0,
+            "community_creation": "undefined",
+            "subscribers": 0,
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 13513,
+            "link": "https:\/\/www.facebook.com\/thegimliproject\/",
+            "is_closed": "false",
+            "talking_about": "17",
+            "name": "The Gimli Project",
+            "Points": 13513
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1497198138",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "175",
+                    "closed_total_issues": "2",
+                    "stars": 9,
+                    "last_update": "1514552846",
+                    "forks": 8,
+                    "url": "https:\/\/github.com\/thegimliproject\/GimliToken",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "2",
+                    "fork": "false",
+                    "last_push": "1505730331",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "Python",
+                    "subscribers": 5,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 40
+        }
+    }
+}

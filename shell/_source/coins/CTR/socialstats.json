@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CTR",
+            "CoinName": "Centra",
+            "Type": "Webpagecoinp",
+            "Points": 47695
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5292,
+                    "Name": "CounterParty",
+                    "FullName": "CounterParty (XCP)",
+                    "ImageUrl": "\/media\/19960\/xcp.png",
+                    "Url": "\/coins\/xcp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 364348,
+                    "Name": "Bitcoin SegWit2X",
+                    "FullName": "Bitcoin SegWit2X (BT2)",
+                    "ImageUrl": "\/media\/19633\/btc.png",
+                    "Url": "\/coins\/bt2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 18180,
+                    "Name": "Voxels",
+                    "FullName": "Voxels (VOX)",
+                    "ImageUrl": "\/media\/350824\/vox.png",
+                    "Url": "\/coins\/vox\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 27996,
+                    "Name": "Trigger",
+                    "FullName": "Trigger (TRIG)",
+                    "ImageUrl": "\/media\/351489\/trg.png",
+                    "Url": "\/coins\/trig\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37040,
+                    "Name": "TrustCoin",
+                    "FullName": "TrustCoin (TRST)",
+                    "ImageUrl": "\/media\/1381975\/trst.png",
+                    "Url": "\/coins\/trst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 175618,
+                    "Name": "ATB coin",
+                    "FullName": "ATB coin (ATB)",
+                    "ImageUrl": "\/media\/1383689\/atb.png",
+                    "Url": "\/coins\/atb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186335,
+                    "Name": "COSS",
+                    "FullName": "COSS (COSS)",
+                    "ImageUrl": "\/media\/1383802\/coss.png",
+                    "Url": "\/coins\/coss\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28328,
+                    "Name": "FirstBlood",
+                    "FullName": "FirstBlood (1ST)",
+                    "ImageUrl": "\/media\/351524\/1st.png",
+                    "Url": "\/coins\/1st\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 309621,
+                    "Name": "ChainLink",
+                    "FullName": "ChainLink (LINK)",
+                    "ImageUrl": "\/media\/12318078\/link.png",
+                    "Url": "\/coins\/link\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 306304,
+                    "Name": "Cappasity",
+                    "FullName": "Cappasity (CAPP)",
+                    "ImageUrl": "\/media\/15887416\/capp.png",
+                    "Url": "\/coins\/capp\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 677485,
+                    "Name": "pressureboy7th",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677485\/9024d444-100b-4504-8baa-ca0bd3f0691f.jpg",
+                    "Url": "\/profile\/pressureboy7th\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 631054,
+                    "Name": "tsyntylevych",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/631054\/4d3b0c95-34cc-43f7-a8a9-2c46d243c2e0.jpg",
+                    "Url": "\/profile\/tsyntylevych\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 596642,
+                    "Name": "mustafasedat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596642\/f2e25127-d9b1-4bf3-9d06-552d399705ba.jpg",
+                    "Url": "\/profile\/mustafasedat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 363475,
+                    "Name": "ana050464",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/363475\/dc449f36-8da4-49e5-8d11-d0f6e488e05d.jpg",
+                    "Url": "\/profile\/ana050464\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 668227,
+                    "Name": "azeemsurve",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/668227\/315f9cce-0d89-41f2-a61e-15ce4e4e8f79.jpg",
+                    "Url": "\/profile\/azeemsurve\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 211700,
+                    "Name": "lyons_bernadette",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/211700\/fdd8013a-bcae-4925-b903-1c3765860775.jpg",
+                    "Url": "\/profile\/lyons_bernadette\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 596825,
+                    "Name": "djehaan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596825\/baf3fdbe-e8bb-4eb0-b6b0-5f6255cb76d8.jpg",
+                    "Url": "\/profile\/djehaan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 141384,
+                    "Name": "martijnkarels11",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/141384\/2dc065a8-7ae2-4694-a237-121b90db22e4.jpg",
+                    "Url": "\/profile\/martijnkarels11\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 548660,
+                    "Name": "cata4ro",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/548660\/53738c41-8800-4463-9eca-273a299d8b3f.jpg",
+                    "Url": "\/profile\/cata4ro\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 539785,
+                    "Name": "zulkeflihashim2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/539785\/07f9807d-4061-451e-8c5d-2dd9f2ef55cc.jpg",
+                    "Url": "\/profile\/zulkeflihashim2\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 8350,
+            "Followers": 275,
+            "Posts": "43",
+            "Comments": "40",
+            "PageViewsSplit": {
+                "Overview": 21162,
+                "Markets": 1906,
+                "Analysis": 673,
+                "Charts": 2393,
+                "Trades": 927,
+                "Orderbook": 18,
+                "Forum": 2056,
+                "Influence": 220
+            },
+            "PageViews": 29355
+        },
+        "Twitter": {
+            "following": "326",
+            "account_creation": "1499820314",
+            "name": "Centra",
+            "lists": 224,
+            "statuses": 692,
+            "favourites": "938",
+            "followers": 22081,
+            "link": "https:\/\/twitter.com\/centra_card",
+            "Points": 23201
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 16125,
+            "link": "https:\/\/www.facebook.com\/CentraCard\/",
+            "is_closed": "false",
+            "talking_about": "2605",
+            "name": "Centra Tech",
+            "Points": 16125
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1499921965",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "17",
+                    "closed_total_issues": "0",
+                    "stars": 9,
+                    "last_update": "1514036941",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/CentraTech\/smart-contract",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1500164875",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "null",
+                    "subscribers": 2,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 17
+        }
+    }
+}

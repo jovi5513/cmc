@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BTE",
+            "CoinName": "ByteCoin",
+            "Type": "Webpagecoinp",
+            "Points": 28176
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 136190,
+                    "Name": "Mysterium",
+                    "FullName": "Mysterium (MYST)",
+                    "ImageUrl": "\/media\/1383561\/myst.png",
+                    "Url": "\/coins\/myst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 166594,
+                    "Name": "Numerai",
+                    "FullName": "Numerai (NMR)",
+                    "ImageUrl": "\/media\/1383655\/nmr.png",
+                    "Url": "\/coins\/nmr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 360299,
+                    "Name": "SelfKey",
+                    "FullName": "SelfKey (KEY*)",
+                    "ImageUrl": "\/media\/14761912\/key.png",
+                    "Url": "\/coins\/key\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 66270,
+                    "Name": "Token as a Service",
+                    "FullName": "Token as a Service (TAAS)",
+                    "ImageUrl": "\/media\/1383085\/taas.png",
+                    "Url": "\/coins\/taas\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185695,
+                    "Name": "Propy",
+                    "FullName": "Propy (PRO)",
+                    "ImageUrl": "\/media\/1383792\/pro.png",
+                    "Url": "\/coins\/pro\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5338,
+                    "Name": "ArtByte",
+                    "FullName": "ArtByte (ABY)",
+                    "ImageUrl": "\/media\/1383379\/aby.png",
+                    "Url": "\/coins\/aby\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 241757,
+                    "Name": "BANKEX",
+                    "FullName": "BANKEX (BKX)",
+                    "ImageUrl": "\/media\/14913571\/bkx.png",
+                    "Url": "\/coins\/bkx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 385952,
+                    "Name": "Genesis Vision",
+                    "FullName": "Genesis Vision (GVT)",
+                    "ImageUrl": "\/media\/14913634\/gvt.png",
+                    "Url": "\/coins\/gvt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 247322,
+                    "Name": "EasyMine",
+                    "FullName": "EasyMine (EMT)",
+                    "ImageUrl": "\/media\/9350765\/emt.png",
+                    "Url": "\/coins\/emt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5305,
+                    "Name": "BlockNet",
+                    "FullName": "BlockNet (BLOCK)",
+                    "ImageUrl": "\/media\/20204\/block.png",
+                    "Url": "\/coins\/block\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 669632,
+                    "Name": "jgl9640",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/669632\/82d2e5b5-7ddc-477a-8991-43ee96e34e33.jpg",
+                    "Url": "\/profile\/jgl9640\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 32607,
+                    "Name": "vlad.lialine",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/32607\/cd213bb2-f2e6-4572-9dbf-5649244a1683.jpg",
+                    "Url": "\/profile\/vlad.lialine\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 218658,
+                    "Name": "relu.serdaru",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/218658\/e7562c78-b004-4f42-a6ca-e8c052b9a8fb.jpg",
+                    "Url": "\/profile\/relu.serdaru\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 650118,
+                    "Name": "Dvermeulen",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/650118\/d1a499b7-7cb5-4f50-a7d6-2ddfa894fe81.jpg",
+                    "Url": "\/profile\/Dvermeulen\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 598855,
+                    "Name": "n.m.keranova",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/598855\/d8d5100b-666c-4aab-a154-54b5ced72aea.jpg",
+                    "Url": "\/profile\/n.m.keranova\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 588125,
+                    "Name": "snjpra85",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/588125\/862881dc-048e-46bb-97eb-a335c5acc4eb.jpg",
+                    "Url": "\/profile\/snjpra85\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 644440,
+                    "Name": "kayspb",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/644440\/0cbb18eb-dedf-4686-96ff-e00d64326ebe.jpg",
+                    "Url": "\/profile\/kayspb\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 79863,
+                    "Name": "crankgirl",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/79863\/e11b0355-be78-4955-9baa-bb001f848745.jpg",
+                    "Url": "\/profile\/crankgirl\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 535101,
+                    "Name": "maddieho1292",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/535101\/ff1156f0-6602-4565-a75c-33c32d2bc628.jpg",
+                    "Url": "\/profile\/maddieho1292\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 631195,
+                    "Name": "alphaweltall10",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/631195\/ed84a47e-6296-44e4-bbbd-08ea907ad398.jpg",
+                    "Url": "\/profile\/alphaweltall10\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 450739,
+                    "Name": "lilronron92",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/450739\/3de1e9a6-95ed-4db4-a072-e653ffc4c1e4.jpg",
+                    "Url": "\/profile\/lilronron92\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 3545,
+            "Posts": "17",
+            "Comments": "7",
+            "Followers": 122,
+            "PageViewsSplit": {
+                "Overview": 15735,
+                "Markets": 450,
+                "Analysis": 236,
+                "Charts": 436,
+                "Trades": 270,
+                "Orderbook": 10,
+                "Forum": 586,
+                "Influence": 140
+            },
+            "PageViews": 17863
+        },
+        "Twitter": {
+            "statuses": 1696,
+            "favourites": "283",
+            "following": "747",
+            "account_creation": "1400584891",
+            "followers": 21380,
+            "name": "Bytecoin BCN",
+            "link": "https:\/\/twitter.com\/Bytecoin_BCN",
+            "lists": 402,
+            "Points": 23391
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "10",
+            "name": "Bytecoin",
+            "likes": 1239,
+            "link": "https:\/\/www.facebook.com\/bytecoin.cryptocoin\/",
+            "Points": 1239
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

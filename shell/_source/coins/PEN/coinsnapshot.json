@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "PEN",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.0000139",
+            "LASTUPDATE": "1516079817",
+            "LASTVOLUME": "0.84052279",
+            "LASTVOLUMETO": "0.000011683266781000001",
+            "LASTTRADEID": "200000319",
+            "VOLUMEDAY": "98.91499137999999",
+            "VOLUMEDAYTO": "0.001259821296082",
+            "VOLUME24HOUR": "1233.76593426",
+            "VOLUME24HOURTO": "0.0120531230263605",
+            "OPENDAY": "0.00001382",
+            "HIGHDAY": "0.0000139",
+            "LOWDAY": "0.000012",
+            "OPEN24HOUR": "0.00000531",
+            "HIGH24HOUR": "0.00001399",
+            "LOW24HOUR": "0.00000517",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "PEN",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.0000051",
+                "LASTUPDATE": "1434122660",
+                "LASTVOLUME": "4990",
+                "LASTVOLUMETO": "0.025449000000000003",
+                "LASTTRADEID": "1434122660019",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.0000051",
+                "HIGH24HOUR": "0.0000051",
+                "LOW24HOUR": "0.0000051"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "PEN",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.0000139",
+                "LASTUPDATE": "1516079817",
+                "LASTVOLUME": "0.84052279",
+                "LASTVOLUMETO": "0.000011683266781000001",
+                "LASTTRADEID": "200000319",
+                "VOLUME24HOUR": "1233.76593426",
+                "VOLUME24HOURTO": "0.0120531230263605",
+                "OPEN24HOUR": "0.00000531",
+                "HIGH24HOUR": "0.00001399",
+                "LOW24HOUR": "0.00000517"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "PEN",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.0000011",
+                "LASTUPDATE": "1429655980",
+                "LASTVOLUME": "453.78489123",
+                "LASTVOLUMETO": "0.00049916",
+                "LASTTRADEID": "86970",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.0000011",
+                "HIGH24HOUR": "0.0000011",
+                "LOW24HOUR": "0.0000011"
+            }
+        ]
+    },
+    "Type": 100
+}

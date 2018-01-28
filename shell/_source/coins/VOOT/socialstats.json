@@ -1,0 +1,168 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "VOOT",
+            "CoinName": "VootCoin",
+            "Type": "Webpagecoinp",
+            "Points": 1148
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28219,
+                    "Name": "MustangCoin",
+                    "FullName": "MustangCoin (MST)",
+                    "ImageUrl": "\/media\/351529\/mst1.png",
+                    "Url": "\/coins\/mst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 381323,
+                    "Name": "Russian Mining Coin",
+                    "FullName": "Russian Mining Coin (RMC)",
+                    "ImageUrl": "\/media\/14913570\/rmc.png",
+                    "Url": "\/coins\/rmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 597029,
+                    "Name": "Copico",
+                    "FullName": "Copico (XCPO)",
+                    "ImageUrl": "\/media\/20780625\/xcpo.png",
+                    "Url": "\/coins\/xcpo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28227,
+                    "Name": "ZoneCoin",
+                    "FullName": "ZoneCoin (ZNE)",
+                    "ImageUrl": "\/media\/351515\/zne.jpg",
+                    "Url": "\/coins\/zne\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21227,
+                    "Name": "404Coin",
+                    "FullName": "404Coin (404)",
+                    "ImageUrl": "\/media\/351001\/404.png",
+                    "Url": "\/coins\/404\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5397,
+                    "Name": "GlowShares",
+                    "FullName": "GlowShares (GSX)",
+                    "ImageUrl": "\/media\/20314\/gsxjpeg.png",
+                    "Url": "\/coins\/gsx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4337,
+                    "Name": "BetaCoin",
+                    "FullName": "BetaCoin (BET)",
+                    "ImageUrl": "\/media\/19621\/bet.png",
+                    "Url": "\/coins\/bet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 331207,
+                    "Name": "Javvy",
+                    "FullName": "Javvy (JVY)",
+                    "ImageUrl": "\/media\/12318244\/jvy.png",
+                    "Url": "\/coins\/jvy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22240,
+                    "Name": "NXEcoin",
+                    "FullName": "NXEcoin (NXE)",
+                    "ImageUrl": "\/media\/351070\/nxe.png",
+                    "Url": "\/coins\/nxe\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20387,
+                    "Name": "International Diamond Coin",
+                    "FullName": "International Diamond Coin (XID*)",
+                    "ImageUrl": "\/media\/350916\/xid.png",
+                    "Url": "\/coins\/xidstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 554684,
+                    "Name": "musicalstudio",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/554684\/0d0bcdb2-80ee-47a0-8071-74b4263d4ed6.jpg",
+                    "Url": "\/profile\/musicalstudio\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 225160,
+                    "Name": "suslov-1974",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/225160\/cf379db9-7218-460c-9151-dc34cfac22b4.jpg",
+                    "Url": "\/profile\/suslov-1974\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 181764,
+                    "Name": "crypto.leb.2017",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/181764\/2015fa0a-da82-4682-95b6-3640736551dd.jpg",
+                    "Url": "\/profile\/crypto.leb.2017\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 46970,
+                    "Name": "ttgb",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/46970\/038529a2-7f6c-4251-85aa-47404a841aa8.jpg",
+                    "Url": "\/profile\/ttgb\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "PageViewsSplit": {
+                "Overview": 244,
+                "Markets": 43,
+                "Analysis": 24,
+                "Charts": 20,
+                "Trades": 71,
+                "Orderbook": 0,
+                "Forum": 30,
+                "Influence": 20
+            },
+            "PageViews": 452
+        },
+        "Twitter": {
+            "followers": 932,
+            "following": "25",
+            "lists": 18,
+            "favourites": "878",
+            "statuses": 1221,
+            "account_creation": "1401473692",
+            "name": "Vootcoin ",
+            "link": "https:\/\/twitter.com\/vootcoin",
+            "Points": 1023
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

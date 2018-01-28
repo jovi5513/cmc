@@ -1,0 +1,140 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "STEX",
+            "CoinName": "STEX",
+            "Type": "Webpagecoinp",
+            "Points": 5139
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 6117,
+                    "Name": "Crypto",
+                    "FullName": "Crypto (CTO)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/cto\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 382536,
+                    "Name": "Masari",
+                    "FullName": "Masari (MSR)",
+                    "ImageUrl": "\/media\/14913574\/msr.png",
+                    "Url": "\/coins\/msr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42843,
+                    "Name": "BitzCoin",
+                    "FullName": "BitzCoin (BTZ)",
+                    "ImageUrl": "\/media\/1382433\/btz.png",
+                    "Url": "\/coins\/btz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29374,
+                    "Name": "RCoin",
+                    "FullName": "RCoin (RCN*)",
+                    "ImageUrl": "\/media\/351634\/rcn.png",
+                    "Url": "\/coins\/rcnstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4399,
+                    "Name": "BitBar",
+                    "FullName": "BitBar (BTB)",
+                    "ImageUrl": "\/media\/20083\/bitb.png",
+                    "Url": "\/coins\/btb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4553,
+                    "Name": "Litebar ",
+                    "FullName": "Litebar  (LTB)",
+                    "ImageUrl": "\/media\/20336\/ltb.png",
+                    "Url": "\/coins\/ltb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8767,
+                    "Name": "StarCoin",
+                    "FullName": "StarCoin (STR*)",
+                    "ImageUrl": "\/media\/19920\/str.png",
+                    "Url": "\/coins\/strstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5335,
+                    "Name": "JoinCoin",
+                    "FullName": "JoinCoin (J)",
+                    "ImageUrl": "\/media\/20350\/j.png",
+                    "Url": "\/coins\/j\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5399,
+                    "Name": "Ribbit Rewards",
+                    "FullName": "Ribbit Rewards (RBR)",
+                    "ImageUrl": "\/media\/20408\/rbr.png",
+                    "Url": "\/coins\/rbr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45615,
+                    "Name": "TechShares",
+                    "FullName": "TechShares (THS)",
+                    "ImageUrl": "\/media\/1382660\/ths.png",
+                    "Url": "\/coins\/ths\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 60924,
+                    "Name": "self1sch",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/60924\/8bfd32ae-0593-4cce-bc93-c53c65b2835b.png",
+                    "Url": "\/profile\/self1sch\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 25,
+            "Followers": 1,
+            "PageViewsSplit": {
+                "Overview": 173,
+                "Markets": 6,
+                "Analysis": 3,
+                "Charts": 5,
+                "Trades": 1,
+                "Orderbook": 0,
+                "Forum": 4,
+                "Influence": 5
+            },
+            "PageViews": 197
+        },
+        "Twitter": {
+            "following": "732",
+            "account_creation": "1486967778",
+            "statuses": 415,
+            "favourites": "79",
+            "followers": 4829,
+            "name": "Stocks.Exchange",
+            "link": "https:\/\/twitter.com\/StocksExchangeR",
+            "lists": 57,
+            "Points": 5114
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Enigma (ENG) - Live streaming prices and market cap",
+            "PageDescription": "Live Enigma prices from all markets and ENG coin market Capitalization. Stay up to date with the latest Enigma price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/12318287\/eng.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "338335",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Enigma (ENG)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ENG",
+            "Url": "\/coins\/eng\/",
+            "BaseAngularUrl": "\/coins\/eng\/",
+            "Name": "Enigma",
+            "ImageUrl": "\/media\/12318287\/eng.png",
+            "Description": "<p>Enigma is a decentralized data marketplace, that guarantees the privacy of their users&#39; shared data cryptographically.\u00a0<span>Enigma\u2019s computational model is based on an optimized version of secure multi-party computation, backed by a verifiable secret-sharing scheme. For storage, Enigma uses a\u00a0<\/span>modified<span><span>\u00a0<\/span>distributed<span>\u00a0<\/span><\/span>hashtable<span><span>\u00a0<\/span>for holding secret-shared data. An external blockchain is utilized as the controller of the network. It manages access control, identities and serves as a tamper-proof log of events. Security deposits are required and fees are charged in order to incentivize operation, correctness and fairness in the system. ENG is an Ethereum-based ERC 20 token that serves as currency on Enigma&#39;s network.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "150000000",
+            "Algorithm": "",
+            "ProofType": "",
+            "StartDate": "28\/07\/2017",
+            "Twitter": "@EnigmaMPC",
+            "AffiliateUrl": "https:\/\/enigma.co\/",
+            "Website": "<a href='https:\/\/enigma.co\/' target='_blank'>Enigma<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970820,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 150000000,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Tidex~ENG~BTC",
+            "2~OKEX~ENG~USDT",
+            "2~OKEX~ENG~ETH",
+            "2~Tidex~ENG~ETH",
+            "2~OKEX~ENG~BTC",
+            "2~BitTrex~ENG~ETH",
+            "2~Binance~ENG~ETH",
+            "2~EtherDelta~ENG~ETH",
+            "2~Liqui~ENG~USDT",
+            "2~BitTrex~ENG~BTC",
+            "2~Liqui~ENG~BTC",
+            "2~Liqui~ENG~ETH",
+            "2~Binance~ENG~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ENG~BTC~2~0.0004454~1515980264~138~0.06173844~857536~102935.10459618003~46.114425174980276~1554346.67693962~673.9208643361993~0.0004502~0.0004547~0.000443~0.00045~0.0004558~0.0004119~Binance~7ffe9",
+            "5~CCCAGG~ENG~USDT~4~5.82~1515980049~0.02299693~0.133729447643~127072~0.05299693~0.30818244764299996~1852.9773539700002~10983.94014946484~6.11~6.11~5.82~6.53~8.65~4.5~OKEX~7ffe9",
+            "5~CCCAGG~ENG~ETH~4~0.00448~1515980214~26~0.11640719999999999~342276~15865.167057620003~71.04213892375071~465635.06207077997~2056.2832352868836~0.004504~0.004558~0.004394~0.004631~0.004698~0.00413~Binance~7ffe9"
+        ]
+    },
+    "Type": 100
+}

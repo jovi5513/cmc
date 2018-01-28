@@ -1,0 +1,88 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "SwingCoin (SWING) - Live streaming prices and market cap",
+            "PageDescription": "Live SwingCoin prices from all markets and SWING coin market Capitalization. Stay up to date with the latest SwingCoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350987\/swing.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20920",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "SwingCoin (SWING)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "SWING",
+            "Url": "\/coins\/swing\/",
+            "BaseAngularUrl": "\/coins\/swing\/",
+            "Name": "SwingCoin",
+            "ImageUrl": "\/media\/350987\/swing.png",
+            "Description": "<p>SwingCoin is a cryptocurrency that allows instant payments to anyone in the world. SwingCoin is a Pow\/PoS hybrid with strategic block rewards.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "40000000",
+            "Algorithm": "SHA256",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "28\/08\/2015",
+            "Twitter": "",
+            "AffiliateUrl": "http:\/\/tryswing.com\/",
+            "Website": "<a href='http:\/\/tryswing.com\/' target='_blank'>SwingCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515950139,
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": 681441,
+            "BlockTime": 172,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 2900804.9186955,
+            "PreviousTotalCoinsMined": 2900783.0186955,
+            "BlockReward": 4.3599999998696
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~BitTrex~SWING~BTC",
+            "2~Cryptopia~SWING~POP",
+            "2~Yobit~SWING~BTC",
+            "2~Yobit~SWING~ETH",
+            "2~Yobit~SWING~USD",
+            "2~Yobit~SWING~RUR",
+            "2~Yobit~SWING~DOGE",
+            "2~Yobit~SWING~WAVES",
+            "2~Cryptopia~SWING~FTC",
+            "2~Cryptopia~SWING~BTC",
+            "2~Cryptopia~SWING~XMR",
+            "2~Cryptopia~SWING~DOT",
+            "2~Cryptopia~SWING~LTC",
+            "2~Cryptopia~SWING~UNO",
+            "2~Cryptopia~SWING~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~SWING~BTC~4~0.00002243~1515950246~33.2951874~0.00074714~1515950246~4822.906943839998~0.10087077456812518~6794.086607130001~0.14448944456812518~0.0000225~0.00002269~0.00001348~0.00002207~0.00002268~0.00002099~Cryptopia~7ffe9",
+            "5~CCCAGG~SWING~POP~4~1500~1458673880~3~4500~1458673880~0~0~0~0~1500~1500~1500~1500~1500~1500~Cryptopia~7ffe9",
+            "5~CCCAGG~SWING~ETH~4~0.00010001~1513542347~1.39986001~0.0001399999996001~170825144~0~0~0~0~0.0001~0.00010001~0.0001~0.00010001~0.00010001~0.00010001~Yobit~7ffe9",
+            "5~CCCAGG~SWING~USD~4~0.821~1515703835~5.10873751~4.19427349571~200000001~0~0~0~0~0.821~0.821~0.821~0.821~0.821~0.821~Yobit~7ffe9",
+            "5~CCCAGG~SWING~RUR~4~10.4~1515937261~0.02011574~0.2092040981136426~200000016~0.08131576~0.8456855295020425~0.09491642~0.9871325295086425~10.4~10.4~10.4~10.4~10.4~10.4~Yobit~7ffe9",
+            "5~CCCAGG~SWING~DOGE~4~9.49999015~1515379399~8.16408163~77.55869506879594~181907022~0~0~0~0~9.5~9.5~9.49999015~9.49999015~9.49999015~9.49999015~Yobit~7ffe9",
+            "5~CCCAGG~SWING~WAVES~4~0.00400013~1515214464~0.2021~0.000808426273~180442028~0~0~0~0~0.004~0.00400013~0.004~0.00400013~0.00400013~0.00400013~Yobit~7ffe9",
+            "5~CCCAGG~SWING~FTC~4~45~1488818101~4.7e-7~0.000021~1488818101~0~0~0~0~45~45~45~45~45~45~Cryptopia~7ffe9",
+            "5~CCCAGG~SWING~XMR~4~0.003~1487807375~0.0101~0.00003~1487807375~0~0~0~0~0.003~0.003~0.003~0.003~0.003~0.003~Cryptopia~7ffe9",
+            "5~CCCAGG~SWING~DOT~4~120.00000055~1487646131~0.12338062~14.805674~1487646131~0~0~0~0~120.00000055~120.00000055~120.00000055~120.00000055~120.00000055~120.00000055~Cryptopia~7ffe9",
+            "5~CCCAGG~SWING~LTC~4~0.0005003~1514974251~37.33944824~0.01868093~1514974251.002~0~0~0~0~0.0005003~0.0005003~0.0005003~0.0005003~0.0005003~0.0005003~Cryptopia~7ffe9",
+            "5~CCCAGG~SWING~UNO~4~0.01000001~1492892055~2.46822953~0.024682~1492892055.001~0~0~0~0~0.01000001~0.01000001~0.01000001~0.01000001~0.01000001~0.01000001~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

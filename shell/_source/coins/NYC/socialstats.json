@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NYC",
+            "CoinName": "NewYorkCoin",
+            "Type": "Webpagecoinp",
+            "Points": 9915
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 384605,
+                    "Name": "Bankera",
+                    "FullName": "Bankera (BNK)",
+                    "ImageUrl": "\/media\/14913602\/bnk.png",
+                    "Url": "\/coins\/bnk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20236,
+                    "Name": "PowerCoin",
+                    "FullName": "PowerCoin (PWR)",
+                    "ImageUrl": "\/media\/350899\/pwr.png",
+                    "Url": "\/coins\/pwr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 337863,
+                    "Name": "Gameflip",
+                    "FullName": "Gameflip (FLP)",
+                    "ImageUrl": "\/media\/12318280\/flip.png",
+                    "Url": "\/coins\/flp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 234811,
+                    "Name": "Cobinhood",
+                    "FullName": "Cobinhood (COB)",
+                    "ImageUrl": "\/media\/9350700\/cobin.png",
+                    "Url": "\/coins\/cob\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645879,
+                    "Name": "Fuloos Coin",
+                    "FullName": "Fuloos Coin (FLS)",
+                    "ImageUrl": "\/media\/20780701\/fuloos.png",
+                    "Url": "\/coins\/fls\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 196541,
+                    "Name": "Linda",
+                    "FullName": "Linda (LINDA)",
+                    "ImageUrl": "\/media\/1383860\/linda.png",
+                    "Url": "\/coins\/linda\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5300,
+                    "Name": "BitBay",
+                    "FullName": "BitBay (BAY)",
+                    "ImageUrl": "\/media\/1383137\/bay1.png",
+                    "Url": "\/coins\/bay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5017,
+                    "Name": "VeriCoin",
+                    "FullName": "VeriCoin (VRC)",
+                    "ImageUrl": "\/media\/20068\/vrc.png",
+                    "Url": "\/coins\/vrc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4524,
+                    "Name": "FeatherCoin",
+                    "FullName": "FeatherCoin (FTC)",
+                    "ImageUrl": "\/media\/19718\/ftc.png",
+                    "Url": "\/coins\/ftc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 186875,
+                    "Name": "Storm",
+                    "FullName": "Storm (STORM)",
+                    "ImageUrl": "\/media\/1383803\/storm.jpg",
+                    "Url": "\/coins\/storm\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 34269,
+                    "Name": "ghakkar1",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/34269\/4d87f823-fcdc-433e-9783-cdac980d234d.jpg",
+                    "Url": "\/profile\/ghakkar1\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676643,
+                    "Name": "vodi_vic",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676643\/ca7f1395-78c9-44e7-94a5-b50e20f9fa7f.jpg",
+                    "Url": "\/profile\/vodi_vic\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 612847,
+                    "Name": "nelubasalau",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/612847\/f126b78c-7bb3-4ff8-bfb8-841651ebca7f.jpg",
+                    "Url": "\/profile\/nelubasalau\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 118903,
+                    "Name": "riproar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/118903\/5cf3c549-54ed-43c9-b583-12314161c14a.jpg",
+                    "Url": "\/profile\/riproar\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674036,
+                    "Name": "yyyjs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674036\/02155960-e50c-4235-9c9a-95af7c656fad.jpg",
+                    "Url": "\/profile\/yyyjs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 289389,
+                    "Name": "geb_shoes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/289389\/28b085a3-0559-4f90-93a7-f25ceea929bf.jpg",
+                    "Url": "\/profile\/geb_shoes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 673682,
+                    "Name": "cryptocarlax",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673682\/3034b13c-72db-4eb7-9b61-02bf8770cd4d.jpg",
+                    "Url": "\/profile\/cryptocarlax\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 399111,
+                    "Name": "hauy15",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/399111\/bcd18dd5-78d5-4f73-bdb4-e565658a6b90.jpg",
+                    "Url": "\/profile\/hauy15\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 410169,
+                    "Name": "dean234",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/410169\/77dd9cb6-6b5a-440a-96ac-a4b0d66875c2.jpg",
+                    "Url": "\/profile\/dean234\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 672124,
+                    "Name": "csantana810",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/672124\/d113253c-4db3-4acb-91f8-60d7e6a90300.jpg",
+                    "Url": "\/profile\/csantana810\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 527662,
+                    "Name": "mhyde_16",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/527662\/43747bac-ead3-4f90-9e50-be5bd604796e.jpg",
+                    "Url": "\/profile\/mhyde_16\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 9550,
+            "Posts": "105",
+            "Comments": "130",
+            "Followers": 225,
+            "PageViewsSplit": {
+                "Overview": 24336,
+                "Markets": 1052,
+                "Analysis": 522,
+                "Charts": 1595,
+                "Trades": 1801,
+                "Orderbook": 7,
+                "Forum": 3255,
+                "Influence": 219
+            },
+            "PageViews": 32787
+        },
+        "Twitter": {
+            "favourites": "0",
+            "statuses": 1,
+            "following": "7",
+            "account_creation": "1393974779",
+            "followers": 185,
+            "name": "NewYorkCoin",
+            "link": "https:\/\/twitter.com\/NewYorkCoin",
+            "lists": 10,
+            "Points": 235
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "34",
+            "name": "NewYorkCoin",
+            "likes": 127,
+            "link": "https:\/\/www.facebook.com\/NewYorkCoin-586472044777456\/",
+            "Points": 127
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

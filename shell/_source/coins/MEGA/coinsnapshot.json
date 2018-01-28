@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 0,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 300000,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "MEGA",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.01",
+            "LASTUPDATE": "1483841628",
+            "LASTVOLUME": "0.5",
+            "LASTVOLUMETO": "0.005",
+            "LASTTRADEID": "30077",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.01",
+            "HIGHDAY": "0.01",
+            "LOWDAY": "0.01",
+            "OPEN24HOUR": "0.01",
+            "HIGH24HOUR": "0.01",
+            "LOW24HOUR": "0.01",
+            "LASTMARKET": "BitTrex"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "MEGA",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.01",
+                "LASTUPDATE": "1483841628",
+                "LASTVOLUME": "0.5",
+                "LASTVOLUMETO": "0.005",
+                "LASTTRADEID": "30077",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.01",
+                "HIGH24HOUR": "0.01",
+                "LOW24HOUR": "0.01"
+            }
+        ]
+    },
+    "Type": 100
+}

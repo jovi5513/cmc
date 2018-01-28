@@ -1,0 +1,233 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SWEET",
+            "CoinName": "SweetStake",
+            "Type": "Webpagecoinp",
+            "Points": 673
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4446,
+                    "Name": "Fuel2Coin",
+                    "FullName": "Fuel2Coin (FC2)",
+                    "ImageUrl": "\/media\/19719\/fuel.png",
+                    "Url": "\/coins\/fc2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 208001,
+                    "Name": "Monkey",
+                    "FullName": "Monkey (MNY)",
+                    "ImageUrl": "\/media\/1383973\/mny.png",
+                    "Url": "\/coins\/mny\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37210,
+                    "Name": "InCoin",
+                    "FullName": "InCoin (IN)",
+                    "ImageUrl": "\/media\/1381987\/in.png",
+                    "Url": "\/coins\/in\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34849,
+                    "Name": "Eurocoin",
+                    "FullName": "Eurocoin (EUC)",
+                    "ImageUrl": "\/media\/1382471\/euc.png",
+                    "Url": "\/coins\/euc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 453647,
+                    "Name": "DaxxCoin",
+                    "FullName": "DaxxCoin (DAXX)",
+                    "ImageUrl": "\/media\/16746587\/daxx.png",
+                    "Url": "\/coins\/daxx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 187431,
+                    "Name": "Scorecoin",
+                    "FullName": "Scorecoin (SCORE)",
+                    "ImageUrl": "\/media\/1383813\/score.png",
+                    "Url": "\/coins\/score\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5328,
+                    "Name": "Sativa Coin",
+                    "FullName": "Sativa Coin (STV)",
+                    "ImageUrl": "\/media\/20444\/stv.png",
+                    "Url": "\/coins\/stv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7626,
+                    "Name": "Bitz Coin",
+                    "FullName": "Bitz Coin (BITZ)",
+                    "ImageUrl": "\/media\/20654\/bitz.png",
+                    "Url": "\/coins\/bitz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 26113,
+                    "Name": "Cryptodex",
+                    "FullName": "Cryptodex (CDX)",
+                    "ImageUrl": "\/media\/351404\/cdx.png",
+                    "Url": "\/coins\/cdx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6099,
+                    "Name": "SkullBuzz",
+                    "FullName": "SkullBuzz (SKB)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/skb\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 623125,
+                    "Name": "shaunaz23",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/623125\/5a2aee38-40b9-4b86-927f-42c3f6b67785.jpg",
+                    "Url": "\/profile\/shaunaz23\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 641015,
+                    "Name": "ebaggio1974",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/641015\/91a4d7d6-0551-4ff2-bc64-3849360739a5.jpg",
+                    "Url": "\/profile\/ebaggio1974\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 477981,
+                    "Name": "gzanaa67",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/477981\/4ff6ddc9-38e8-448f-963b-bdd6ec19950f.jpg",
+                    "Url": "\/profile\/gzanaa67\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 641481,
+                    "Name": "ahmtozmn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/641481\/dfbd8df2-1236-42d7-83f0-c9d9c7d466ac.jpg",
+                    "Url": "\/profile\/ahmtozmn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 637668,
+                    "Name": "otczeus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/637668\/735d3ad9-d366-4c7d-aa4d-37bd2f7a71ce.jpg",
+                    "Url": "\/profile\/otczeus\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 640603,
+                    "Name": "mpalmdoo7",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/640603\/88e4fe03-1d84-445f-b066-0dcfeb78066d.jpg",
+                    "Url": "\/profile\/mpalmdoo7\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 389424,
+                    "Name": "kcjuggernaught",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/389424\/6e3531ee-c16d-4c87-88f2-9d57984d3203.jpg",
+                    "Url": "\/profile\/kcjuggernaught\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 391929,
+                    "Name": "Bari",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/391929\/465f3073-c79a-49b5-8e77-7d6f7b9d4d88.jpg",
+                    "Url": "\/profile\/Bari\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 519131,
+                    "Name": "lisastarr79",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/519131\/b033519f-d0be-4b71-b2b0-990fa7bf4323.jpg",
+                    "Url": "\/profile\/lisastarr79\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 461323,
+                    "Name": "cia.naill",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/461323\/db535678-0210-4572-8396-b54101d9bb94.jpg",
+                    "Url": "\/profile\/cia.naill\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 637980,
+                    "Name": "snasaa1803",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/637980\/d3032619-b9fd-415f-b817-30eb0fb1b661.jpg",
+                    "Url": "\/profile\/snasaa1803\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 24,
+            "Points": 670,
+            "Posts": "2",
+            "Comments": "2",
+            "PageViewsSplit": {
+                "Overview": 3515,
+                "Markets": 221,
+                "Analysis": 135,
+                "Charts": 181,
+                "Trades": 132,
+                "Orderbook": 2,
+                "Forum": 52,
+                "Influence": 41
+            },
+            "PageViews": 4279
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "3060",
+                    "url": "https:\/\/github.com\/SweetStake\/SweetStake",
+                    "last_update": "1443118045",
+                    "last_push": "1443118041",
+                    "created_at": "1442937323",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

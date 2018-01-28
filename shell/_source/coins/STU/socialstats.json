@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "STU",
+            "CoinName": "BitJob",
+            "Type": "Webpagecoinp",
+            "Points": 21163
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5370,
+                    "Name": "NeosCoin",
+                    "FullName": "NeosCoin (NEOS)",
+                    "ImageUrl": "\/media\/1382788\/neos1.png",
+                    "Url": "\/coins\/neos\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 466492,
+                    "Name": "Universa",
+                    "FullName": "Universa (UTN)",
+                    "ImageUrl": "\/media\/16746611\/utn.png",
+                    "Url": "\/coins\/utn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 67096,
+                    "Name": "Guppy",
+                    "FullName": "Guppy (GUP)",
+                    "ImageUrl": "\/media\/1383107\/gup.png",
+                    "Url": "\/coins\/gup\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 327184,
+                    "Name": "BitcoinZ",
+                    "FullName": "BitcoinZ (BTCZ)",
+                    "ImageUrl": "\/media\/12318408\/btcz.png",
+                    "Url": "\/coins\/btcz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5348,
+                    "Name": "Folding Coin",
+                    "FullName": "Folding Coin (FLDC)",
+                    "ImageUrl": "\/media\/20284\/fldc.png",
+                    "Url": "\/coins\/fldc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 380641,
+                    "Name": "SirinLabs",
+                    "FullName": "SirinLabs (SRN)",
+                    "ImageUrl": "\/media\/14913556\/srn.png",
+                    "Url": "\/coins\/srn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 355117,
+                    "Name": "Ethereum Cash",
+                    "FullName": "Ethereum Cash (ECASH)",
+                    "ImageUrl": "\/media\/14543971\/ecash.png",
+                    "Url": "\/coins\/ecash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 55650,
+                    "Name": "MobileGo",
+                    "FullName": "MobileGo (MGO)",
+                    "ImageUrl": "\/media\/1382798\/mgo.png",
+                    "Url": "\/coins\/mgo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188858,
+                    "Name": "AdToken",
+                    "FullName": "AdToken (ADT)",
+                    "ImageUrl": "\/media\/1383829\/adt.png",
+                    "Url": "\/coins\/adt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 446372,
+                    "Name": "Achain",
+                    "FullName": "Achain (ACT*)",
+                    "ImageUrl": "\/media\/16746576\/act.png",
+                    "Url": "\/coins\/actstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 673210,
+                    "Name": "knike.nwab",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673210\/6a03ebb2-15cf-4006-a196-b43ad664c08f.jpg",
+                    "Url": "\/profile\/knike.nwab\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 600528,
+                    "Name": "carlweston",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/600528\/8793003b-5113-43ac-8251-e8f7f33df8b7.jpg",
+                    "Url": "\/profile\/carlweston\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 640409,
+                    "Name": "sokolenko78",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/640409\/937da298-ba00-49d3-871e-a9ba2caf3884.jpg",
+                    "Url": "\/profile\/sokolenko78\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 662801,
+                    "Name": "xmankanou",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/662801\/3932983a-207b-4143-87db-2128ace04766.jpg",
+                    "Url": "\/profile\/xmankanou\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 361502,
+                    "Name": "serbw2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/361502\/24ace842-dc04-4d22-8229-e400fd6da035.jpg",
+                    "Url": "\/profile\/serbw2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 453927,
+                    "Name": "daveforce84",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/453927\/3ddca2b5-3de1-4628-80a0-be71908fe15c.jpg",
+                    "Url": "\/profile\/daveforce84\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 589456,
+                    "Name": "mm198283",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/589456\/dae641c1-4135-4356-bfb1-6a7f50a750f1.jpg",
+                    "Url": "\/profile\/mm198283\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 315817,
+                    "Name": "dealvestee",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/315817\/1a8dbf68-c4ae-4aec-8ddb-5e52f6a8ffb1.png",
+                    "Url": "\/profile\/dealvestee\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24150,
+                    "Name": "ionuts4",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24150\/c962e161-0122-48f3-a480-e8a62f2fbfce.jpg",
+                    "Url": "\/profile\/ionuts4\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 5355,
+            "Followers": 205,
+            "Posts": "8",
+            "Comments": "3",
+            "PageViewsSplit": {
+                "Overview": 11867,
+                "Markets": 698,
+                "Analysis": 256,
+                "Charts": 412,
+                "Trades": 517,
+                "Orderbook": 25,
+                "Forum": 237,
+                "Influence": 113
+            },
+            "PageViews": 14125
+        },
+        "Twitter": {
+            "following": "1501",
+            "account_creation": "1490713156",
+            "name": "bitJob MarketPlace",
+            "lists": 68,
+            "statuses": 798,
+            "favourites": "65",
+            "followers": 6736,
+            "link": "https:\/\/twitter.com\/BitJob_Team",
+            "Points": 7076
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 8716,
+            "link": "https:\/\/www.facebook.com\/bitJobmarket\/",
+            "is_closed": "false",
+            "talking_about": "58",
+            "name": "bitJob MarketPlace",
+            "Points": 8716
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1495060847",
+                    "open_total_issues": "1",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "3",
+                    "closed_total_issues": "0",
+                    "stars": 5,
+                    "last_update": "1507868815",
+                    "forks": 2,
+                    "url": "https:\/\/github.com\/bitjobteam\/stu_token",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1495068645",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "null",
+                    "subscribers": 2,
+                    "open_issues": "1"
+                }
+            ],
+            "Points": 15
+        }
+    }
+}

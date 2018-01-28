@@ -1,0 +1,182 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "LQD",
+            "CoinName": "Liquid",
+            "Type": "Webpagecoinp",
+            "Points": 566
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 38962,
+                    "Name": "GiftNet",
+                    "FullName": "GiftNet (GIFT)",
+                    "ImageUrl": "\/media\/1382171\/gift.png",
+                    "Url": "\/coins\/gift\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28767,
+                    "Name": "FaucetCoin",
+                    "FullName": "FaucetCoin (DROP)",
+                    "ImageUrl": "\/media\/351555\/drop.png",
+                    "Url": "\/coins\/drop\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 221349,
+                    "Name": "Macroverse",
+                    "FullName": "Macroverse (MRV)",
+                    "ImageUrl": "\/media\/1384009\/mrv.png",
+                    "Url": "\/coins\/mrv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6454,
+                    "Name": "Wood Coin",
+                    "FullName": "Wood Coin (LOG)",
+                    "ImageUrl": "\/media\/20335\/log.png",
+                    "Url": "\/coins\/log\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517193,
+                    "Name": "Kalkulus",
+                    "FullName": "Kalkulus (KLK)",
+                    "ImageUrl": "\/media\/16746667\/klk.png",
+                    "Url": "\/coins\/klk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33875,
+                    "Name": "BeardDollars",
+                    "FullName": "BeardDollars (BRDD)",
+                    "ImageUrl": "\/media\/352086\/brdd.png",
+                    "Url": "\/coins\/brdd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4628,
+                    "Name": "Umbrella",
+                    "FullName": "Umbrella (ULTC)",
+                    "ImageUrl": "\/media\/20063\/ultc.png",
+                    "Url": "\/coins\/ultc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4533,
+                    "Name": "Halcyon",
+                    "FullName": "Halcyon (HAL)",
+                    "ImageUrl": "\/media\/20036\/hal.png",
+                    "Url": "\/coins\/hal\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28136,
+                    "Name": "Zeta2Coin",
+                    "FullName": "Zeta2Coin (ZET2)",
+                    "ImageUrl": "\/media\/351502\/zet2.png",
+                    "Url": "\/coins\/zet2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4604,
+                    "Name": "SilkCoin",
+                    "FullName": "SilkCoin (SILK)",
+                    "ImageUrl": "\/media\/20057\/silk.png",
+                    "Url": "\/coins\/silk\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 29049,
+                    "Name": "druidnorth",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/29049\/e9bbfa1a-ee0a-4850-bd40-fb4f9f86d41f.jpg",
+                    "Url": "\/profile\/druidnorth\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 621961,
+                    "Name": "advokat07121990",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/621961\/35009e47-be0f-4d31-8040-1f13e65abbc7.jpg",
+                    "Url": "\/profile\/advokat07121990\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 31512,
+                    "Name": "Echomaestro",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/31512\/b7fc9a36-25b7-4df0-b5cd-c42c5354c415.png",
+                    "Url": "\/profile\/Echomaestro\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 525029,
+                    "Name": "franco3x",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/525029\/042fc2ea-9c13-468e-bc50-1bf04896f2ec.jpg",
+                    "Url": "\/profile\/franco3x\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 328608,
+                    "Name": "illg78",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/328608\/4952d035-0f1c-4b7e-b793-05040f8298b6.jpg",
+                    "Url": "\/profile\/illg78\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 15803,
+                    "Name": "eka808",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/15803\/3ec76592-587f-437d-aabc-a0eadd07e533.jpg",
+                    "Url": "\/profile\/eka808\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 17423,
+                    "Name": "Kanopt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/17423\/d9aa0e8f-c15a-435b-b257-0e0674a3a600.png",
+                    "Url": "\/profile\/Kanopt\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 7,
+            "Points": 175,
+            "PageViewsSplit": {
+                "Overview": 487,
+                "Markets": 28,
+                "Analysis": 28,
+                "Charts": 17,
+                "Trades": 23,
+                "Orderbook": 0,
+                "Forum": 23,
+                "Influence": 16
+            },
+            "PageViews": 622
+        },
+        "Twitter": {
+            "lists": 23,
+            "favourites": "60",
+            "name": "LiquidTech",
+            "statuses": 182,
+            "followers": 276,
+            "following": "13",
+            "link": "https:\/\/twitter.com\/tech_liquid",
+            "account_creation": "1467045708",
+            "Points": 391
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

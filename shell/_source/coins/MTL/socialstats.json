@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "MTL",
+            "CoinName": "Metal",
+            "Type": "Webpagecoinp",
+            "Points": 43932
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 431235,
+                    "Name": "Aion",
+                    "FullName": "Aion (AION)",
+                    "ImageUrl": "\/media\/16746538\/aion.png",
+                    "Url": "\/coins\/aion\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 383953,
+                    "Name": "Envion",
+                    "FullName": "Envion (EVN)",
+                    "ImageUrl": "\/media\/14913587\/env.png",
+                    "Url": "\/coins\/evn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4580,
+                    "Name": "NameCoin",
+                    "FullName": "NameCoin (NMC)",
+                    "ImageUrl": "\/media\/19830\/nmc.png",
+                    "Url": "\/coins\/nmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 231674,
+                    "Name": "Ignis",
+                    "FullName": "Ignis (IGNIS)",
+                    "ImageUrl": "\/media\/1384046\/ignis.png",
+                    "Url": "\/coins\/ignis\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 190978,
+                    "Name": "Aeternity",
+                    "FullName": "Aeternity (AE)",
+                    "ImageUrl": "\/media\/1383836\/ae.png",
+                    "Url": "\/coins\/ae\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 53950,
+                    "Name": "Musicoin",
+                    "FullName": "Musicoin (MUSIC)",
+                    "ImageUrl": "\/media\/1382783\/music.png",
+                    "Url": "\/coins\/music\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5296,
+                    "Name": "MonaCoin",
+                    "FullName": "MonaCoin (MONA)",
+                    "ImageUrl": "\/media\/19801\/mona.png",
+                    "Url": "\/coins\/mona\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30736,
+                    "Name": "Byteball",
+                    "FullName": "Byteball (GBYTE)",
+                    "ImageUrl": "\/media\/351835\/bytes.png",
+                    "Url": "\/coins\/gbyte\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6103,
+                    "Name": "Nexus",
+                    "FullName": "Nexus (NXS)",
+                    "ImageUrl": "\/media\/1382387\/nexus.jpg",
+                    "Url": "\/coins\/nxs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185669,
+                    "Name": "InvestFeed",
+                    "FullName": "InvestFeed (IFT)",
+                    "ImageUrl": "\/media\/12318127\/ift.png",
+                    "Url": "\/coins\/ift\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 444337,
+                    "Name": "baselini",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/444337\/5f4b96ca-8cfa-44ae-8a2e-7752ae27c658.jpg",
+                    "Url": "\/profile\/baselini\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 428231,
+                    "Name": "pyannis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/428231\/cba9c740-81ab-4cb0-9028-68af5593cc21.jpg",
+                    "Url": "\/profile\/pyannis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 671264,
+                    "Name": "f.kyriacou",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/671264\/0ecfa942-704d-484e-9ac3-7baa0347d2f8.jpg",
+                    "Url": "\/profile\/f.kyriacou\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 379238,
+                    "Name": "kjdowdle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/379238\/af331a97-ebb2-4ef9-a6c6-cd63d2a19e0d.jpg",
+                    "Url": "\/profile\/kjdowdle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 633394,
+                    "Name": "smould",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/633394\/55f1a7b2-727c-49f6-9de3-9762da0961ca.jpg",
+                    "Url": "\/profile\/smould\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 663567,
+                    "Name": "janb.l33t",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/663567\/8b9986eb-5630-4429-aa3b-2adb98112307.jpg",
+                    "Url": "\/profile\/janb.l33t\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 594600,
+                    "Name": "ogroup2513",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/594600\/0096e4a5-9bbd-48e6-8b83-09b0f67cc128.jpg",
+                    "Url": "\/profile\/ogroup2513\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 652237,
+                    "Name": "chaykovskiy.dm",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/652237\/8fbe49f3-92c3-4e08-aa16-0d51f6f33855.jpg",
+                    "Url": "\/profile\/chaykovskiy.dm\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 390133,
+                    "Name": "zeklass",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/390133\/d916802b-a2ab-4c88-bc82-661b169a1573.jpg",
+                    "Url": "\/profile\/zeklass\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 538950,
+                    "Name": "emeniteworld",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/538950\/2db0fb21-780e-4e6c-9641-d3962448ccdd.jpg",
+                    "Url": "\/profile\/emeniteworld\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 186687,
+                    "Name": "aeioumo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/186687\/d07a4226-3505-4919-b18b-8b29ff0c27d6.jpg",
+                    "Url": "\/profile\/aeioumo\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 12730,
+            "Posts": "60",
+            "Comments": "83",
+            "Followers": 416,
+            "PageViewsSplit": {
+                "Overview": 38122,
+                "Markets": 1442,
+                "Analysis": 807,
+                "Charts": 8532,
+                "Trades": 1226,
+                "Orderbook": 25,
+                "Forum": 2779,
+                "Influence": 302
+            },
+            "PageViews": 53235
+        },
+        "Twitter": {
+            "favourites": "31920",
+            "statuses": 855,
+            "following": "4656",
+            "account_creation": "1427499238",
+            "followers": 26888,
+            "name": "Metal",
+            "link": "https:\/\/twitter.com\/metalpaysme",
+            "lists": 504,
+            "Points": 29408
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "57",
+            "name": "Metal",
+            "likes": 1789,
+            "link": "https:\/\/www.facebook.com\/metalpaysme\/",
+            "Points": 1789
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

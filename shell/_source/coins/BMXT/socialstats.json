@@ -1,0 +1,178 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BMXT",
+            "CoinName": "Bitmxittz",
+            "Type": "Webpagecoinp",
+            "Points": 139
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 362846,
+                    "Name": "Bitcloud 2.0",
+                    "FullName": "Bitcloud 2.0 (BTDX)",
+                    "ImageUrl": "\/media\/14761939\/btdx.png",
+                    "Url": "\/coins\/btdx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28019,
+                    "Name": "bitCNY",
+                    "FullName": "bitCNY (BITCNY)",
+                    "ImageUrl": "\/media\/351490\/bitcny.png",
+                    "Url": "\/coins\/bitcny\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4334,
+                    "Name": "AXRON",
+                    "FullName": "AXRON (AXR)",
+                    "ImageUrl": "\/media\/20086\/axr.png",
+                    "Url": "\/coins\/axr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 380671,
+                    "Name": "WiserCoin",
+                    "FullName": "WiserCoin (WSC)",
+                    "ImageUrl": "\/media\/14913560\/wsc.png",
+                    "Url": "\/coins\/wsc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20580,
+                    "Name": "Phalanx",
+                    "FullName": "Phalanx (PXL)",
+                    "ImageUrl": "\/media\/350930\/pxl.png",
+                    "Url": "\/coins\/pxl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517389,
+                    "Name": "AC3",
+                    "FullName": "AC3 (AC3)",
+                    "ImageUrl": "\/media\/16746668\/ac3.png",
+                    "Url": "\/coins\/ac3\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 638297,
+                    "Name": "QubitCoin",
+                    "FullName": "QubitCoin (Q2C)",
+                    "ImageUrl": "\/media\/19872\/q2c.jpg",
+                    "Url": "\/coins\/q2c\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45821,
+                    "Name": "EagleCoin",
+                    "FullName": "EagleCoin (EA)",
+                    "ImageUrl": "\/media\/1382685\/ea.png",
+                    "Url": "\/coins\/ea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21219,
+                    "Name": "Uther",
+                    "FullName": "Uther (UTH)",
+                    "ImageUrl": "\/media\/350998\/uth.png",
+                    "Url": "\/coins\/uth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5336,
+                    "Name": "GhostCoin",
+                    "FullName": "GhostCoin (GHC)",
+                    "ImageUrl": "\/media\/19721\/ghc.png",
+                    "Url": "\/coins\/ghc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 67745,
+                    "Name": "kellacinabil007",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/67745\/f0841733-9040-4a82-9a02-88697d0d258b.jpg",
+                    "Url": "\/profile\/kellacinabil007\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 303538,
+                    "Name": "kitecoinx",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/303538\/8b3e7693-59e0-4b66-991e-a7fcb06160fa.jpg",
+                    "Url": "\/profile\/kitecoinx\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Posts": "1",
+            "Comments": "1",
+            "Points": 85,
+            "PageViewsSplit": {
+                "Overview": 187,
+                "Markets": 12,
+                "Analysis": 9,
+                "Charts": 3,
+                "Trades": 5,
+                "Orderbook": 0,
+                "Forum": 8,
+                "Influence": 7
+            },
+            "PageViews": 231
+        },
+        "Twitter": {
+            "favourites": "0",
+            "lists": 3,
+            "statuses": 32,
+            "following": "0",
+            "account_creation": "1493477520",
+            "name": "bitmxittz",
+            "followers": 38,
+            "link": "https:\/\/twitter.com\/Bitmxittz",
+            "Points": 53
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1513956721",
+                    "url": "https:\/\/github.com\/bitmxittz\/Bitmxittz",
+                    "forks": 0,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 0,
+                    "open_issues": "0",
+                    "size": "27782",
+                    "created_at": "1493476518",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1508768606",
+                    "stars": 1
+                }
+            ],
+            "Points": 1
+        }
+    }
+}

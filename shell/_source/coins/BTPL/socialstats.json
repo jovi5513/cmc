@@ -1,0 +1,167 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BTPL",
+            "CoinName": "Bitcoin Planet",
+            "Type": "Webpagecoinp",
+            "Points": 2901
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28342,
+                    "Name": "Pioneershares",
+                    "FullName": "Pioneershares (PIO)",
+                    "ImageUrl": "\/media\/351528\/pio.png",
+                    "Url": "\/coins\/pio\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 336556,
+                    "Name": "Rockchain",
+                    "FullName": "Rockchain (ROK)",
+                    "ImageUrl": "\/media\/12318268\/rok.png",
+                    "Url": "\/coins\/rok\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41989,
+                    "Name": "GoldenBird",
+                    "FullName": "GoldenBird (XGB)",
+                    "ImageUrl": "\/media\/1382372\/xgb.png",
+                    "Url": "\/coins\/xgb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33645,
+                    "Name": "Digital Rupees",
+                    "FullName": "Digital Rupees (DRS)",
+                    "ImageUrl": "\/media\/352072\/drs.png",
+                    "Url": "\/coins\/drs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 412267,
+                    "Name": "Commodity Ad Network",
+                    "FullName": "Commodity Ad Network (CDX*)",
+                    "ImageUrl": "\/media\/16746425\/cdx.png",
+                    "Url": "\/coins\/cdxstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 357404,
+                    "Name": "ODMCoin",
+                    "FullName": "ODMCoin (ODMC)",
+                    "ImageUrl": "\/media\/14761889\/odmcoin.png",
+                    "Url": "\/coins\/odmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29462,
+                    "Name": "Octocoin",
+                    "FullName": "Octocoin (888)",
+                    "ImageUrl": "\/media\/351639\/888.png",
+                    "Url": "\/coins\/888\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32691,
+                    "Name": "WineCoin",
+                    "FullName": "WineCoin (WINE)",
+                    "ImageUrl": "\/media\/351929\/wine.png",
+                    "Url": "\/coins\/wine\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338156,
+                    "Name": "NetM",
+                    "FullName": "NetM (NTM)",
+                    "ImageUrl": "\/media\/12318286\/ntm.png",
+                    "Url": "\/coins\/ntm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 15888,
+                    "Name": "MindCoin",
+                    "FullName": "MindCoin (MND)",
+                    "ImageUrl": "\/media\/350616\/mnd.png",
+                    "Url": "\/coins\/mnd\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 239766,
+                    "Name": "mrsniper1205",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/239766\/d5526a24-0ddd-4628-8708-8f5149b7debd.jpg",
+                    "Url": "\/profile\/mrsniper1205\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 130265,
+                    "Name": "skujay85",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/130265\/2d8e92d3-0dbe-4518-b37a-44448f802ddc.jpg",
+                    "Url": "\/profile\/skujay85\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 62800,
+                    "Name": "sarita.patel97",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/62800\/1d466466-7ace-4674-b901-396e0076d0df.jpg",
+                    "Url": "\/profile\/sarita.patel97\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Posts": "1",
+            "Points": 125,
+            "PageViewsSplit": {
+                "Overview": 674,
+                "Markets": 41,
+                "Analysis": 44,
+                "Charts": 31,
+                "Trades": 16,
+                "Orderbook": 0,
+                "Forum": 7,
+                "Influence": 12
+            },
+            "PageViews": 825
+        },
+        "Twitter": {
+            "lists": 20,
+            "favourites": "4",
+            "statuses": 61,
+            "following": "97",
+            "account_creation": "1497703178",
+            "name": "Bitcoin Planet",
+            "followers": 1675,
+            "link": "https:\/\/twitter.com\/bitcoin_planet_",
+            "Points": 1775
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "Bitcoin Planet",
+            "likes": 1001,
+            "link": "https:\/\/www.facebook.com\/Bitcoin-Planet-307450173039709\/",
+            "talking_about": "6",
+            "is_closed": "false",
+            "Points": 1001
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XSI",
+            "CoinName": "Stability Shares",
+            "Type": "Webpagecoinp",
+            "Points": 25
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20640,
+                    "Name": "OldSafeCoin",
+                    "FullName": "OldSafeCoin (OLDSF)",
+                    "ImageUrl": "\/media\/350936\/oldsf.png",
+                    "Url": "\/coins\/oldsf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 248243,
+                    "Name": "Scrypto",
+                    "FullName": "Scrypto (SRT)",
+                    "ImageUrl": "\/media\/9350771\/srt.png",
+                    "Url": "\/coins\/srt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 667239,
+                    "Name": "Game",
+                    "FullName": "Game (GTC)",
+                    "ImageUrl": "\/media\/20780776\/gtc.png",
+                    "Url": "\/coins\/gtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29370,
+                    "Name": "BitluckCoin",
+                    "FullName": "BitluckCoin (BTCL*)",
+                    "ImageUrl": "\/media\/351633\/btlc.png",
+                    "Url": "\/coins\/btclstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 625173,
+                    "Name": "TokugawaCoin",
+                    "FullName": "TokugawaCoin (TOK)",
+                    "ImageUrl": "\/media\/20780659\/tok.png",
+                    "Url": "\/coins\/tok\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 486886,
+                    "Name": "PeepCoin",
+                    "FullName": "PeepCoin (PCN)",
+                    "ImageUrl": "\/media\/16746648\/pcn.png",
+                    "Url": "\/coins\/pcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41116,
+                    "Name": "MrsaCoin",
+                    "FullName": "MrsaCoin (MRSA)",
+                    "ImageUrl": "\/media\/1382287\/msra.png",
+                    "Url": "\/coins\/mrsa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4548,
+                    "Name": "CoinWorksCoin",
+                    "FullName": "CoinWorksCoin (LAB*)",
+                    "ImageUrl": "\/media\/20040\/lab.png",
+                    "Url": "\/coins\/labstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6097,
+                    "Name": "DeOxyRibose",
+                    "FullName": "DeOxyRibose (XNA)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/xna\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30920,
+                    "Name": "DarkKnightCoin",
+                    "FullName": "DarkKnightCoin (DKC)",
+                    "ImageUrl": "\/media\/351870\/dkc.png",
+                    "Url": "\/coins\/dkc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 1,
+            "Points": 25,
+            "PageViewsSplit": {
+                "Overview": 325,
+                "Markets": 19,
+                "Analysis": 39,
+                "Charts": 23,
+                "Trades": 13,
+                "Orderbook": 0,
+                "Forum": 49,
+                "Influence": 7
+            },
+            "PageViews": 475
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

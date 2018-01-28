@@ -1,0 +1,77 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Biocoin (BIO) - Live streaming prices and market cap",
+            "PageDescription": "Live Biocoin prices from all markets and BIO coin market Capitalization. Stay up to date with the latest Biocoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/16746639\/bio.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "484355",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Biocoin (BIO)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BIO",
+            "Url": "\/coins\/bio\/",
+            "BaseAngularUrl": "\/coins\/bio\/",
+            "Name": "Biocoin",
+            "ImageUrl": "\/media\/16746639\/bio.png",
+            "Description": "<p>Biocoin is an ERC20 token based on the Ethereum blockchain.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "10000000000",
+            "Algorithm": "",
+            "ProofType": "",
+            "StartDate": "12\/09\/2017",
+            "Twitter": "@biocoinproject",
+            "AffiliateUrl": "https:\/\/biocoin.bio\/en",
+            "Website": "<a href='https:\/\/biocoin.bio\/en' target='_blank'>Biocoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~LiveCoin~BIO~BTC",
+            "2~LiveCoin~BIO~USD",
+            "2~Yobit~BIO~BTC",
+            "2~Yobit~BIO~ETH",
+            "2~LiveCoin~BIO~RUR",
+            "2~Yobit~BIO~USD",
+            "2~Yobit~BIO~RUR",
+            "2~Yobit~BIO~WAVES",
+            "2~Yobit~BIO~DOGE",
+            "2~LiveCoin~BIO~ETH"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BIO~BTC~2~0.00000166~1515977583~347.40785451~0.0005766970384866~200000873~347.40785451~0.0005766970384866~353102.41881499~0.9651232702581014~0.00000181~0.00000181~0.00000166~0.00000185~0.0000106~0.00000136~Yobit~7ffe9",
+            "5~CCCAGG~BIO~USD~2~0.0274~1515980514~80~2.192~200000188~227.00092247~6.234525367925~156946.37896619004~4070.8158409481366~0.0275~0.0275~0.0274~0.0234~0.0275~0.0227~Yobit~7ffe9",
+            "5~CCCAGG~BIO~ETH~1~0.0000175~1515979528~10~0.00017499999999999997~200000029~10~0.00017499999999999997~31985.11168235001~0.6188768093282483~0.00001655~0.0000175~0.00001655~0.00001923~0.00002029~0.00001023~Yobit~7ffe9",
+            "5~CCCAGG~BIO~RUR~4~1.5~1515981354~92.53913446~138.99377995892~200000900~5932.577262850001~9245.847954821093~440077.62816429~648129.7297380473~1.53~1.57~1.5~1.42~1.57~1.26~Yobit~7ffe9",
+            "5~CCCAGG~BIO~WAVES~1~0.002296~1515971701~27.4590753~0.06304603688879999~200000026~0~0~2557.2597169499995~7.4986186556955685~0.002296~0.002296~0.002296~0.0024~0.008108~0.0018~Yobit~7ffe9",
+            "5~CCCAGG~BIO~DOGE~2~2.29~1515964888~104.71230618~240.136731762594~200000040~0~0~9237.807738259999~21264.03475158986~2.29~2.29~2.29~2.27~2.33~2.27~Yobit~7ffe9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "PRE",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.000001",
+            "LASTUPDATE": "1516091102",
+            "LASTVOLUME": "10",
+            "LASTVOLUMETO": "0.000009999999999999999",
+            "LASTTRADEID": "154443136",
+            "VOLUMEDAY": "162082.08129195002",
+            "VOLUMEDAYTO": "0.1622437814370915",
+            "VOLUME24HOUR": "560423.44129195",
+            "VOLUME24HOURTO": "0.5607231942383779",
+            "OPENDAY": "0.000001",
+            "HIGHDAY": "0.000001",
+            "LOWDAY": "0.000001",
+            "OPEN24HOUR": "0.000001",
+            "HIGH24HOUR": "0.000001",
+            "LOW24HOUR": "0.000001",
+            "LASTMARKET": "HitBTC"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "PRE",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000187",
+                "LASTUPDATE": "1435441943",
+                "LASTVOLUME": "1017.79894211",
+                "LASTVOLUMETO": "0.00190328",
+                "LASTTRADEID": "24863",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000187",
+                "HIGH24HOUR": "0.00000187",
+                "LOW24HOUR": "0.00000187"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "PRE",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000297",
+                "LASTUPDATE": "1516086308",
+                "LASTVOLUME": "82.08129195",
+                "LASTVOLUMETO": "0.00024378143709149997",
+                "LASTTRADEID": "200000025",
+                "VOLUME24HOUR": "193.44129195",
+                "VOLUME24HOURTO": "0.0004931942383779",
+                "OPEN24HOUR": "0.00000278",
+                "HIGH24HOUR": "0.00000297",
+                "LOW24HOUR": "0.00000179"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "HitBTC",
+                "FROMSYMBOL": "PRE",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.000001",
+                "LASTUPDATE": "1516091102",
+                "LASTVOLUME": "10",
+                "LASTVOLUMETO": "0.000009999999999999999",
+                "LASTTRADEID": "154443136",
+                "VOLUME24HOUR": "562130",
+                "VOLUME24HOURTO": "0.56213",
+                "OPEN24HOUR": "0.000001",
+                "HIGH24HOUR": "0.000001",
+                "LOW24HOUR": "0.000001"
+            }
+        ]
+    },
+    "Type": 100
+}

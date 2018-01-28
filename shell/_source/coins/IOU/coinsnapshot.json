@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 0,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 0,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "IOU",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "2.6e-7",
+            "LASTUPDATE": "1504248579",
+            "LASTVOLUME": "300",
+            "LASTVOLUMETO": "0.000078",
+            "LASTTRADEID": "1504248579",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "2.6e-7",
+            "HIGHDAY": "2.6e-7",
+            "LOWDAY": "2.6e-7",
+            "OPEN24HOUR": "2.6e-7",
+            "HIGH24HOUR": "2.6e-7",
+            "LOW24HOUR": "2.6e-7",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "IOU",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "2.6e-7",
+                "LASTUPDATE": "1504248579",
+                "LASTVOLUME": "300",
+                "LASTVOLUMETO": "0.000078",
+                "LASTTRADEID": "1504248579",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "2.6e-7",
+                "HIGH24HOUR": "2.6e-7",
+                "LOW24HOUR": "2.6e-7"
+            }
+        ]
+    },
+    "Type": 100
+}

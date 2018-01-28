@@ -1,0 +1,153 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "WSC",
+            "CoinName": "WiserCoin",
+            "Type": "Webpagecoinp",
+            "Points": 244
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 645913,
+                    "Name": "PhilsCurrency",
+                    "FullName": "PhilsCurrency (PHILS)",
+                    "ImageUrl": "\/media\/20780702\/phils.png",
+                    "Url": "\/coins\/phils\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28174,
+                    "Name": "EneCoin",
+                    "FullName": "EneCoin (ENE)",
+                    "ImageUrl": "\/media\/351506\/ene.png",
+                    "Url": "\/coins\/ene\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 362846,
+                    "Name": "Bitcloud 2.0",
+                    "FullName": "Bitcloud 2.0 (BTDX)",
+                    "ImageUrl": "\/media\/14761939\/btdx.png",
+                    "Url": "\/coins\/btdx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28019,
+                    "Name": "bitCNY",
+                    "FullName": "bitCNY (BITCNY)",
+                    "ImageUrl": "\/media\/351490\/bitcny.png",
+                    "Url": "\/coins\/bitcny\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4334,
+                    "Name": "AXRON",
+                    "FullName": "AXRON (AXR)",
+                    "ImageUrl": "\/media\/20086\/axr.png",
+                    "Url": "\/coins\/axr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20580,
+                    "Name": "Phalanx",
+                    "FullName": "Phalanx (PXL)",
+                    "ImageUrl": "\/media\/350930\/pxl.png",
+                    "Url": "\/coins\/pxl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 213113,
+                    "Name": "Bitmxittz",
+                    "FullName": "Bitmxittz (BMXT)",
+                    "ImageUrl": "\/media\/1383984\/bmxt.png",
+                    "Url": "\/coins\/bmxt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 517389,
+                    "Name": "AC3",
+                    "FullName": "AC3 (AC3)",
+                    "ImageUrl": "\/media\/16746668\/ac3.png",
+                    "Url": "\/coins\/ac3\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 638297,
+                    "Name": "QubitCoin",
+                    "FullName": "QubitCoin (Q2C)",
+                    "ImageUrl": "\/media\/19872\/q2c.jpg",
+                    "Url": "\/coins\/q2c\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45821,
+                    "Name": "EagleCoin",
+                    "FullName": "EagleCoin (EA)",
+                    "ImageUrl": "\/media\/1382685\/ea.png",
+                    "Url": "\/coins\/ea\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 379761,
+                    "Name": "Farahdila91",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/379761\/3a302d96-4cad-4891-8a89-97dfbc6ac51b.png",
+                    "Url": "\/profile\/Farahdila91\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 188301,
+                    "Name": "deepblue10",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/188301\/f9f4680e-8972-40dd-8c33-4f32e9dea54c.png",
+                    "Url": "\/profile\/deepblue10\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Posts": "1",
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 91,
+                "Markets": 3,
+                "Analysis": 15,
+                "Charts": 5,
+                "Trades": 4,
+                "Orderbook": 0,
+                "Forum": 7,
+                "Influence": 9
+            },
+            "PageViews": 134
+        },
+        "Twitter": {
+            "favourites": "2",
+            "lists": 3,
+            "statuses": 11,
+            "following": "9",
+            "account_creation": "1503908836",
+            "name": "wisercoin",
+            "followers": 133,
+            "link": "https:\/\/twitter.com\/wisercoin",
+            "Points": 148
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "WiserCoin",
+            "likes": 21,
+            "link": "https:\/\/www.facebook.com\/WiserCoin-1596640220381146\/",
+            "talking_about": "162",
+            "is_closed": "false",
+            "Points": 21
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

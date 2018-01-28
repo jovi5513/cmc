@@ -1,0 +1,188 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "RIPT",
+            "CoinName": "RiptideCoin",
+            "Type": "Webpagecoinp",
+            "Points": 819
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 28125,
+                    "Name": "ArkDAO",
+                    "FullName": "ArkDAO (BOTS)",
+                    "ImageUrl": "\/media\/351499\/bot.png",
+                    "Url": "\/coins\/bots\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34483,
+                    "Name": "TrickyCoin",
+                    "FullName": "TrickyCoin (TRICK)",
+                    "ImageUrl": "\/media\/352127\/trick.png",
+                    "Url": "\/coins\/trick\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4578,
+                    "Name": "NoirShares",
+                    "FullName": "NoirShares (NRS)",
+                    "ImageUrl": "\/media\/19834\/nrs.png",
+                    "Url": "\/coins\/nrs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 675134,
+                    "Name": "Monkey Project",
+                    "FullName": "Monkey Project (MONK)",
+                    "ImageUrl": "\/media\/20780785\/monk.png",
+                    "Url": "\/coins\/monk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3643,
+                    "Name": "DarkToken",
+                    "FullName": "DarkToken (DT)",
+                    "ImageUrl": "\/media\/20031\/dt.png",
+                    "Url": "\/coins\/dt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4613,
+                    "Name": "SSVCoin",
+                    "FullName": "SSVCoin (SSV)",
+                    "ImageUrl": "\/media\/20060\/ssv.png",
+                    "Url": "\/coins\/ssv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7562,
+                    "Name": "Versa Token",
+                    "FullName": "Versa Token (VERSA)",
+                    "ImageUrl": "\/media\/20629\/versa.png",
+                    "Url": "\/coins\/versa\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28221,
+                    "Name": "Goonies",
+                    "FullName": "Goonies (GOON)",
+                    "ImageUrl": "\/media\/351512\/goon.png",
+                    "Url": "\/coins\/goon\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22207,
+                    "Name": "Clockcoin",
+                    "FullName": "Clockcoin (CKC)",
+                    "ImageUrl": "\/media\/351068\/ckc.png",
+                    "Url": "\/coins\/ckc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4424,
+                    "Name": "CrackCoin",
+                    "FullName": "CrackCoin (CRACK)",
+                    "ImageUrl": "\/media\/20023\/crack.png",
+                    "Url": "\/coins\/crack\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 379761,
+                    "Name": "Farahdila91",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/379761\/3a302d96-4cad-4891-8a89-97dfbc6ac51b.png",
+                    "Url": "\/profile\/Farahdila91\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 403064,
+                    "Name": "michellanckman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/403064\/8ad99611-4fe2-4680-9bba-173f0ac97ef4.jpg",
+                    "Url": "\/profile\/michellanckman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 395062,
+                    "Name": "thebitcoinwiki",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/395062\/8a81eb5e-a57c-4239-961f-147f6bf9ecb9.jpg",
+                    "Url": "\/profile\/thebitcoinwiki\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 3,
+            "Points": 75,
+            "PageViewsSplit": {
+                "Overview": 147,
+                "Markets": 7,
+                "Analysis": 7,
+                "Charts": 10,
+                "Trades": 6,
+                "Orderbook": 0,
+                "Forum": 6,
+                "Influence": 7
+            },
+            "PageViews": 190
+        },
+        "Twitter": {
+            "favourites": "491",
+            "statuses": 497,
+            "following": "2145",
+            "account_creation": "1377556511",
+            "name": "Riptide Coin James",
+            "link": "https:\/\/twitter.com\/RiptideCoin",
+            "lists": 1,
+            "followers": 414,
+            "Points": 419
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 323,
+            "name": "Riptide Project",
+            "link": "https:\/\/www.facebook.com\/RiptideCoin\/",
+            "talking_about": "1",
+            "is_closed": "false",
+            "Points": 323
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/riptidecoin\/riptide-coin",
+                    "last_update": "1504148485",
+                    "subscribers": 0,
+                    "size": "5",
+                    "created_at": "1504148485",
+                    "open_pull_issues": "0",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "null",
+                    "open_total_issues": "0",
+                    "stars": 0,
+                    "forks": 1,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1504951450"
+                }
+            ],
+            "Points": 2
+        }
+    }
+}

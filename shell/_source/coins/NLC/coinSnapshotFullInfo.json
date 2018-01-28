@@ -1,0 +1,71 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "NoLimitCoin (NLC) - Live streaming prices and market cap",
+            "PageDescription": "Live NoLimitCoin prices from all markets and NLC coin market Capitalization. Stay up to date with the latest NoLimitCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351591\/nlc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "29010",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "NoLimitCoin (NLC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "NLC",
+            "Url": "\/coins\/nlc\/",
+            "BaseAngularUrl": "\/coins\/nlc\/",
+            "Name": "NoLimitCoin",
+            "ImageUrl": "\/media\/351591\/nlc.png",
+            "Description": "<p><span>NoLimitCoin is a Proof of Work\/Proof of Stake hybrid created to be the currency used in the upcoming Fantasy Football game, No Limits Fantasy Sports. NLC uses SHA256D as an algorithm and has a 2 minute block time.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "",
+            "Algorithm": "SHA256D",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "19\/08\/2016",
+            "Twitter": "",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1480158534,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 120,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 204731813,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~NLC~BTC",
+            "2~CCEX~NLC~DOGE",
+            "2~CCEX~NLC~LTC",
+            "2~CCEX~NLC~ETH",
+            "2~CCEX~NLC~USD"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~NLC~BTC~4~1e-8~1485884339~10000~0.0001~9578~0~0~0~0~1e-8~1e-8~1e-8~1e-8~1e-8~1e-8~CCEX~7ffe9",
+            "5~CCCAGG~NLC~DOGE~4~0.00300004~1484812869~288234.21312829~864.7141687533951~1703293~0~0~0~0~0.00300004~0.00300004~0.00300004~0.00300004~0.00300004~0.00300004~CCEX~7ffe9",
+            "5~CCCAGG~NLC~LTC~4~8e-8~1481236044~5107.86123602~0.00040862889888160003~1530501~0~0~0~0~8e-8~8e-8~8e-8~8e-8~8e-8~8e-8~CCEX~7ffe9",
+            "5~CCCAGG~NLC~ETH~4~6e-8~1481865188~1752.17085784~0.0001051302514704~70642~0~0~0~0~6e-8~6e-8~6e-8~6e-8~6e-8~6e-8~CCEX~7ffe9",
+            "5~CCCAGG~NLC~USD~4~1.3e-7~1485018977~109780~0.0142714~1370992~0~0~0~0~1.3e-7~1.3e-7~1.3e-7~1.3e-7~1.3e-7~1.3e-7~CCEX~7ffe9"
+        ]
+    },
+    "Type": 100
+}

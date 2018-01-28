@@ -1,0 +1,202 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "LTCD",
+            "CoinName": "LitecoinDark",
+            "Type": "Webpagecoinp",
+            "Points": 375
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4560,
+                    "Name": "MediterraneanCoin",
+                    "FullName": "MediterraneanCoin (MED)",
+                    "ImageUrl": "\/media\/20046\/med.png",
+                    "Url": "\/coins\/med\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6101,
+                    "Name": "CryptoFocus",
+                    "FullName": "CryptoFocus (FCS)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/fcs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29196,
+                    "Name": "FireCoin",
+                    "FullName": "FireCoin (FIRE)",
+                    "ImageUrl": "\/media\/351625\/fire.png",
+                    "Url": "\/coins\/fire\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 201896,
+                    "Name": "Arena",
+                    "FullName": "Arena (ARENA)",
+                    "ImageUrl": "\/media\/12318225\/arena.png",
+                    "Url": "\/coins\/arena\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44955,
+                    "Name": "JaneCoin",
+                    "FullName": "JaneCoin (JANE)",
+                    "ImageUrl": "\/media\/1382640\/jane.png",
+                    "Url": "\/coins\/jane\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34334,
+                    "Name": "iWallet",
+                    "FullName": "iWallet (IW)",
+                    "ImageUrl": "\/media\/352121\/iw.png",
+                    "Url": "\/coins\/iw\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5382,
+                    "Name": "SlimCoin",
+                    "FullName": "SlimCoin (SLM)",
+                    "ImageUrl": "\/media\/20426\/slm.png",
+                    "Url": "\/coins\/slm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 34493,
+                    "Name": "PLNCoin",
+                    "FullName": "PLNCoin (PLNC)",
+                    "ImageUrl": "\/media\/352131\/plnc.png",
+                    "Url": "\/coins\/plnc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4609,
+                    "Name": "Spots",
+                    "FullName": "Spots (SPT)",
+                    "ImageUrl": "\/media\/19917\/spt.png",
+                    "Url": "\/coins\/spt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38026,
+                    "Name": "Avatar Coin",
+                    "FullName": "Avatar Coin (AV)",
+                    "ImageUrl": "\/media\/1382048\/av.png",
+                    "Url": "\/coins\/av\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 668674,
+                    "Name": "danielheffron",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/668674\/5d5b0cc5-c406-4264-bcf8-3d971a1e0024.jpg",
+                    "Url": "\/profile\/danielheffron\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 124658,
+                    "Name": "MAHDIAGER",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/124658\/60590893-fea1-4054-bebc-ad243030163a.jpg",
+                    "Url": "\/profile\/MAHDIAGER\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 365095,
+                    "Name": "jabafi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/365095\/fa0d75f6-ce22-405c-9c8b-7866b122bf57.jpg",
+                    "Url": "\/profile\/jabafi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 103556,
+                    "Name": "cryptocunt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/103556\/955d45cb-d53c-44cb-b1cc-cf1b2b991be4.png",
+                    "Url": "\/profile\/cryptocunt\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 386589,
+                    "Name": "tozazi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/386589\/b07f018b-2d81-4ed2-963d-caa1759c8747.jpg",
+                    "Url": "\/profile\/tozazi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 77728,
+                    "Name": "dionyssus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/77728\/30153f17-b2d3-4a4f-b34d-b31e1d6f8a1a.jpg",
+                    "Url": "\/profile\/dionyssus\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 313985,
+                    "Name": "3E777E87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/313985\/a874f5aa-bf4d-49a4-a213-be79152fee45.png",
+                    "Url": "\/profile\/3E777E87\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 303836,
+                    "Name": "ziko26",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/303836\/ffd35fed-8e0c-4ba4-8b60-63731a29f4e2.jpg",
+                    "Url": "\/profile\/ziko26\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 302026,
+                    "Name": "gregorecris",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/302026\/7470d3fa-b26e-4555-b149-ebf8bde4316a.jpg",
+                    "Url": "\/profile\/gregorecris\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 247377,
+                    "Name": "vince_park18",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/247377\/a8d31086-347b-4b6e-81f9-c914497f6606.jpg",
+                    "Url": "\/profile\/vince_park18\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 375,
+            "Followers": 15,
+            "PageViewsSplit": {
+                "Overview": 1094,
+                "Markets": 50,
+                "Analysis": 61,
+                "Charts": 31,
+                "Trades": 30,
+                "Orderbook": 0,
+                "Forum": 23,
+                "Influence": 16
+            },
+            "PageViews": 1305
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

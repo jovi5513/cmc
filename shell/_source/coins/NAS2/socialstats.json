@@ -1,0 +1,139 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "NAS2",
+            "CoinName": "Nas2Coin",
+            "Type": "Webpagecoinp",
+            "Points": 50
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4595,
+                    "Name": "RotoCoin",
+                    "FullName": "RotoCoin (RT2)",
+                    "ImageUrl": "\/media\/19896\/rt2.png",
+                    "Url": "\/coins\/rt2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5381,
+                    "Name": "Unattanium",
+                    "FullName": "Unattanium (UNAT)",
+                    "ImageUrl": "\/media\/20456\/unat.png",
+                    "Url": "\/coins\/unat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4602,
+                    "Name": "ShadeCoin",
+                    "FullName": "ShadeCoin (SHADE)",
+                    "ImageUrl": "\/media\/20056\/shade.png",
+                    "Url": "\/coins\/shade\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28081,
+                    "Name": "Fusion",
+                    "FullName": "Fusion (FSN)",
+                    "ImageUrl": "\/media\/351495\/fsn.png",
+                    "Url": "\/coins\/fsn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5378,
+                    "Name": "BOOM Coin",
+                    "FullName": "BOOM Coin (BOOM)",
+                    "ImageUrl": "\/media\/20208\/boom.png",
+                    "Url": "\/coins\/boom\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30121,
+                    "Name": "CrankCoin",
+                    "FullName": "CrankCoin (CRNK)",
+                    "ImageUrl": "\/media\/351731\/crnk.png",
+                    "Url": "\/coins\/crnk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28087,
+                    "Name": "TotCoin",
+                    "FullName": "TotCoin (TOT)",
+                    "ImageUrl": "\/media\/351497\/tot.png",
+                    "Url": "\/coins\/tot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28665,
+                    "Name": "ERBCoin",
+                    "FullName": "ERBCoin (ERB)",
+                    "ImageUrl": "\/media\/351550\/erb.png",
+                    "Url": "\/coins\/erb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44752,
+                    "Name": "TrueInvestmentCoin",
+                    "FullName": "TrueInvestmentCoin (TIC)",
+                    "ImageUrl": "\/media\/1382625\/tic.png",
+                    "Url": "\/coins\/tic\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188677,
+                    "Name": "Bogcoin",
+                    "FullName": "Bogcoin (BOG)",
+                    "ImageUrl": "\/media\/1383826\/bog.png",
+                    "Url": "\/coins\/bog\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 22814,
+                    "Name": "ololoshe4ka",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/22814\/7dfd4ffc-74ce-47e3-b848-a71fd8b49802.jpg",
+                    "Url": "\/profile\/ololoshe4ka\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 18360,
+                    "Name": "kuvichka",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/18360\/81972aa7-d8d3-4faf-abb0-acf5fcdb9f23.jpg",
+                    "Url": "\/profile\/kuvichka\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Points": 50,
+            "PageViewsSplit": {
+                "Overview": 446,
+                "Markets": 39,
+                "Analysis": 104,
+                "Charts": 31,
+                "Trades": 50,
+                "Orderbook": 0,
+                "Forum": 75,
+                "Influence": 117
+            },
+            "PageViews": 862
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

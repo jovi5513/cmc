@@ -1,0 +1,89 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "FlutterCoin (FLT) - Live streaming prices and market cap",
+            "PageDescription": "Live FlutterCoin prices from all markets and FLT coin market Capitalization. Stay up to date with the latest FlutterCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19709\/flt.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4449",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "FlutterCoin (FLT)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "FLT",
+            "Url": "\/coins\/flt\/",
+            "BaseAngularUrl": "\/coins\/flt\/",
+            "Name": "FlutterCoin",
+            "ImageUrl": "\/media\/19709\/flt.png",
+            "Description": "<p>Flutter coin introduces another design element through its proof of transaction. It has a block reward that stabilises at 20 after a block height of 332838 so there is no hardcoded cap in place.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "0",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoS\/PoW\/PoT",
+            "StartDate": "03\/03\/2014",
+            "Twitter": "@fluttercoin",
+            "AffiliateUrl": "http:\/\/fluttercoin.us\/",
+            "Website": "<a href='http:\/\/fluttercoin.us\/' target='_blank'>FlutterCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515948200,
+            "DifficultyAdjustment": "1 block",
+            "BlockRewardReduction": "50%",
+            "BlockNumber": 1366077,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 436728825.48245,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~FLT~UNO",
+            "2~Cryptopia~FLT~BTC",
+            "2~Novaexchange~FLT~BTC",
+            "2~Novaexchange~FLT~ESP2",
+            "2~Novaexchange~FLT~KIC",
+            "2~Novaexchange~FLT~ETH",
+            "2~Cryptopia~FLT~DOGE",
+            "2~Cryptsy~FLT~BTC",
+            "2~Cryptopia~FLT~LTC",
+            "2~Cryptopia~FLT~DOT",
+            "2~Cryptopia~FLT~XMR",
+            "2~BTER~FLT~BTC",
+            "2~Poloniex~FLT~BTC",
+            "2~Cryptopia~FLT~FTC",
+            "2~Cryptsy~FLT~XRP",
+            "2~Novaexchange~FLT~DOGE",
+            "2~Novaexchange~FLT~LTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~FLT~UNO~4~0.00002098~1497771639~2~0.00004196~1497771639~0~0~0~0~0.00002098~0.00002098~0.00002098~0.00002098~0.00002098~0.00002098~Cryptopia~7ffe9",
+            "5~CCCAGG~FLT~BTC~2~0.000001~1515948079~46913.71497135~0.04691371~1515948079.004~563663.44760407~0.5824295599999999~1312644.9488498203~1.342476~0.00000102~0.00000111~0.000001~0.00000102~0.00000111~0.000001~Cryptopia~7ffe9",
+            "5~CCCAGG~FLT~ESP2~4~8945.97328833~1499000299~0.0003~2.6837919864989996~1499000299001~0~0~0~0~8945.97328833~8945.97328833~8945.97328833~8945.97328833~8945.97328833~8945.97328833~Novaexchange~7ffe9",
+            "5~CCCAGG~FLT~KIC~4~9999~1505784559~0.00005~0.49995~1505784559000~0~0~0~0~9999~9999~9999~9999~9999~9999~Novaexchange~7ffe9",
+            "5~CCCAGG~FLT~ETH~4~0.00000732~1507375534~128.58939239~0.0009412743522948001~1507375534000~0~0~0~0~0.00000732~0.00000732~0.00000732~0.00000732~0.00000732~0.00000732~Novaexchange~7ffe9",
+            "5~CCCAGG~FLT~DOGE~4~3~1515192623~3506.87514654~10520.62543962~1515192623.001~0~0~0~0~3~3~3~3~3~3~Cryptopia~7ffe9",
+            "5~CCCAGG~FLT~LTC~4~0.000085~1515195518~1269.47740249~0.10790558~1515195518~0~0~0~0~0.000085~0.000085~0.000085~0.000085~0.000085~0.000085~Cryptopia~7ffe9",
+            "5~CCCAGG~FLT~DOT~4~0.03700011~1487938370~223.697284~8.276824~1487938370~0~0~0~0~0.03700011~0.03700011~0.03700011~0.03700011~0.03700011~0.03700011~Cryptopia~7ffe9",
+            "5~CCCAGG~FLT~XMR~4~0.00000105~1487535221~40.699452~0.000043~1487535221~0~0~0~0~0.00000105~0.00000105~0.00000105~0.00000105~0.00000105~0.00000105~Cryptopia~7ffe9",
+            "5~CCCAGG~FLT~FTC~4~0.00650002~1487677770~20.19392~0.131261~1487677770~0~0~0~0~0.00650002~0.00650002~0.00650002~0.00650002~0.00650002~0.00650002~Cryptopia~7ffe9",
+            "5~CCCAGG~FLT~XRP~4~0.02899999~1430706393~456.09768~13.22682816~92088799~0~0~0.02899999~0.02899999~0.02899999~Cryptsy~78ce9"
+        ]
+    },
+    "Type": 100
+}

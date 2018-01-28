@@ -1,0 +1,50 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 2062388,
+        "NetHashesPerSecond": 1380045243,
+        "TotalCoinsMined": 47675905.250849,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "CASH",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000106",
+            "LASTUPDATE": "1452815176",
+            "LASTVOLUME": "100",
+            "LASTVOLUMETO": "0.000106",
+            "LASTTRADEID": "110944468",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPEN24HOUR": "0.00000106",
+            "HIGH24HOUR": "0.00000106",
+            "LOW24HOUR": "0.00000106",
+            "LASTMARKET": "Cryptsy"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "CASH",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000106",
+                "LASTUPDATE": "1452815176",
+                "LASTVOLUME": "100",
+                "LASTVOLUMETO": "0.000106",
+                "LASTTRADEID": "110944468",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000106",
+                "HIGH24HOUR": "0.00000106",
+                "LOW24HOUR": "0.00000106"
+            }
+        ]
+    },
+    "Type": 100
+}

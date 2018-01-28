@@ -1,0 +1,182 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ARB",
+            "CoinName": "Arbit Coin",
+            "Type": "Webpagecoinp",
+            "Points": 627
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4538,
+                    "Name": "IceBergCoin",
+                    "FullName": "IceBergCoin (ICB)",
+                    "ImageUrl": "\/media\/19747\/icb.png",
+                    "Url": "\/coins\/icb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 12192,
+                    "Name": "Diggits",
+                    "FullName": "Diggits (DIGS)",
+                    "ImageUrl": "\/media\/20706\/digs.png",
+                    "Url": "\/coins\/digs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 586567,
+                    "Name": "PhantomX",
+                    "FullName": "PhantomX (PNX)",
+                    "ImageUrl": "\/media\/20780612\/pnx.png",
+                    "Url": "\/coins\/pnx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22169,
+                    "Name": "Revenu",
+                    "FullName": "Revenu (REV)",
+                    "ImageUrl": "\/media\/351061\/rev.png",
+                    "Url": "\/coins\/rev\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30117,
+                    "Name": "LeaCoin",
+                    "FullName": "LeaCoin (LEA)",
+                    "ImageUrl": "\/media\/351729\/lea.png",
+                    "Url": "\/coins\/lea\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6098,
+                    "Name": "RadonPay",
+                    "FullName": "RadonPay (RDN)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/rdn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 53166,
+                    "Name": "TrollPlay",
+                    "FullName": "TrollPlay (TPAY)",
+                    "ImageUrl": "\/media\/1382770\/tpay.png",
+                    "Url": "\/coins\/tpay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6341,
+                    "Name": "BitLux",
+                    "FullName": "BitLux (LUX*)",
+                    "ImageUrl": "\/media\/20557\/lux.png",
+                    "Url": "\/coins\/luxstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8692,
+                    "Name": "Credits",
+                    "FullName": "Credits (CRE)",
+                    "ImageUrl": "\/media\/20683\/cre.png",
+                    "Url": "\/coins\/cre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 318794,
+                    "Name": "Zenome",
+                    "FullName": "Zenome (ZNA)",
+                    "ImageUrl": "\/media\/12318142\/zna.png",
+                    "Url": "\/coins\/zna\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 554684,
+                    "Name": "musicalstudio",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/554684\/0d0bcdb2-80ee-47a0-8071-74b4263d4ed6.jpg",
+                    "Url": "\/profile\/musicalstudio\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 313985,
+                    "Name": "3E777E87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/313985\/a874f5aa-bf4d-49a4-a213-be79152fee45.png",
+                    "Url": "\/profile\/3E777E87\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 303836,
+                    "Name": "ziko26",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/303836\/ffd35fed-8e0c-4ba4-8b60-63731a29f4e2.jpg",
+                    "Url": "\/profile\/ziko26\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 69062,
+                    "Name": "diosaputra232",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/69062\/15758ec3-8607-41ec-8e2d-d7d2678b165b.jpg",
+                    "Url": "\/profile\/diosaputra232\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 19017,
+                    "Name": "pierroteric",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/19017\/a7d2d209-9936-40a4-8103-c539bc542de2.jpg",
+                    "Url": "\/profile\/pierroteric\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16508,
+                    "Name": "bent.svaren",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16508\/5c387d4a-bcd4-4efd-9fa9-e138de875212.jpg",
+                    "Url": "\/profile\/bent.svaren\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 175,
+            "Followers": 7,
+            "PageViewsSplit": {
+                "Overview": 1338,
+                "Markets": 248,
+                "Analysis": 175,
+                "Charts": 78,
+                "Trades": 162,
+                "Orderbook": 4,
+                "Forum": 53,
+                "Influence": 24
+            },
+            "PageViews": 2082
+        },
+        "Twitter": {
+            "following": "670",
+            "account_creation": "1431113687",
+            "statuses": 21,
+            "favourites": "3",
+            "followers": 407,
+            "name": "ARbit",
+            "link": "https:\/\/twitter.com\/get_ARbit",
+            "lists": 9,
+            "Points": 452
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

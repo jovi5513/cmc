@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "CF",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.000006",
+            "LASTUPDATE": "1516088278",
+            "LASTVOLUME": "160.654",
+            "LASTVOLUMETO": "0.000963924",
+            "LASTTRADEID": "200000160",
+            "VOLUMEDAY": "853.87275744",
+            "VOLUMEDAYTO": "0.0050725229397422",
+            "VOLUME24HOUR": "5454.53381612",
+            "VOLUME24HOURTO": "0.032100264677283497",
+            "OPENDAY": "0.000006",
+            "HIGHDAY": "0.000006",
+            "LOWDAY": "0.00000574",
+            "OPEN24HOUR": "0.00000541",
+            "HIGH24HOUR": "0.000006",
+            "LOW24HOUR": "0.00000541",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "CF",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "4.9e-7",
+                "LASTUPDATE": "1448451846",
+                "LASTVOLUME": "3010",
+                "LASTVOLUMETO": "0.0014749",
+                "LASTTRADEID": "209843",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "4.9e-7",
+                "HIGH24HOUR": "4.9e-7",
+                "LOW24HOUR": "4.9e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "CF",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.000006",
+                "LASTUPDATE": "1516088278",
+                "LASTVOLUME": "160.654",
+                "LASTVOLUMETO": "0.000963924",
+                "LASTTRADEID": "200000160",
+                "VOLUME24HOUR": "5454.53381612",
+                "VOLUME24HOURTO": "0.032100264677283497",
+                "OPEN24HOUR": "0.00000541",
+                "HIGH24HOUR": "0.000006",
+                "LOW24HOUR": "0.00000541"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Novaexchange",
+                "FROMSYMBOL": "CF",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000696",
+                "LASTUPDATE": "1509938980",
+                "LASTVOLUME": "117.34626437",
+                "LASTVOLUMETO": "0.0008167300000152001",
+                "LASTTRADEID": "1509938980001",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000696",
+                "HIGH24HOUR": "0.00000696",
+                "LOW24HOUR": "0.00000696"
+            }
+        ]
+    },
+    "Type": 100
+}

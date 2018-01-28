@@ -1,0 +1,216 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BBT*",
+            "CoinName": "BrickBlock",
+            "Type": "Webpagecoinp",
+            "Points": 33808
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5303,
+                    "Name": "Vcash",
+                    "FullName": "Vcash (XVC)",
+                    "ImageUrl": "\/media\/350813\/xvc.png",
+                    "Url": "\/coins\/xvc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42598,
+                    "Name": "Spectre",
+                    "FullName": "Spectre (XSPEC)",
+                    "ImageUrl": "\/media\/1382395\/xspec.png",
+                    "Url": "\/coins\/xspec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 311829,
+                    "Name": "DomRaider",
+                    "FullName": "DomRaider (DRT)",
+                    "ImageUrl": "\/media\/12318099\/drt.png",
+                    "Url": "\/coins\/drt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 409128,
+                    "Name": "Farad",
+                    "FullName": "Farad (FRD)",
+                    "ImageUrl": "\/media\/16404865\/frd.png",
+                    "Url": "\/coins\/frd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 299811,
+                    "Name": "WRTcoin",
+                    "FullName": "WRTcoin (WRT)",
+                    "ImageUrl": "\/media\/12317963\/wrt.png",
+                    "Url": "\/coins\/wrt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4540,
+                    "Name": "IOCoin",
+                    "FullName": "IOCoin (IOC)",
+                    "ImageUrl": "\/media\/20042\/ioc.png",
+                    "Url": "\/coins\/ioc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21382,
+                    "Name": "Carboncoin",
+                    "FullName": "Carboncoin (CARBON)",
+                    "ImageUrl": "\/media\/351017\/carbon.png",
+                    "Url": "\/coins\/carbon\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 310812,
+                    "Name": "Sumokoin",
+                    "FullName": "Sumokoin (SUMO)",
+                    "ImageUrl": "\/media\/12318088\/sumo.png",
+                    "Url": "\/coins\/sumo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5339,
+                    "Name": "LiteDoge",
+                    "FullName": "LiteDoge (LDOGE)",
+                    "ImageUrl": "\/media\/20332\/ldoge.png",
+                    "Url": "\/coins\/ldoge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179947,
+                    "Name": "Starbase",
+                    "FullName": "Starbase (STAR)",
+                    "ImageUrl": "\/media\/1383750\/star1.png",
+                    "Url": "\/coins\/star\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 552296,
+                    "Name": "witmq2013",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/552296\/780ed73c-b080-4ecc-a0f6-b10d766f3718.jpg",
+                    "Url": "\/profile\/witmq2013\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 399735,
+                    "Name": "zwljt855",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/399735\/2c9d5c29-0202-4c4b-9889-90694445cfe4.jpg",
+                    "Url": "\/profile\/zwljt855\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 125318,
+                    "Name": "gototradeit",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/125318\/5bcfbb2c-5437-4877-b1f3-2282442b8192.jpg",
+                    "Url": "\/profile\/gototradeit\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 596126,
+                    "Name": "manthatcan_2000",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596126\/9ff5ae7b-2c4c-4ffc-8587-03fcc3ddc538.png",
+                    "Url": "\/profile\/manthatcan_2000\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 434417,
+                    "Name": "vanvlees",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/434417\/5ccb1bbc-a823-45f8-8083-de327a7bdf55.jpg",
+                    "Url": "\/profile\/vanvlees\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 366955,
+                    "Name": "DFD7884D",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/366955\/72df5293-60cc-41e0-be0b-1f2b5132c1a0.jpg",
+                    "Url": "\/profile\/DFD7884D\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 209358,
+                    "Name": "Bitcoinme",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/209358\/8b9593b5-a00e-4e18-97e2-1a4633aa8b78.png",
+                    "Url": "\/profile\/Bitcoinme\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 418077,
+                    "Name": "shah_rizam",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/418077\/8ae71946-1f06-4032-a9f4-7503999d525b.jpg",
+                    "Url": "\/profile\/shah_rizam\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 508495,
+                    "Name": "forestgamp0095",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/508495\/243543e7-5a03-42ad-9e4d-656773e27557.jpg",
+                    "Url": "\/profile\/forestgamp0095\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 502402,
+                    "Name": "elodimuor",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/502402\/f3f866eb-254a-4539-aa75-469a93a4d0d5.png",
+                    "Url": "\/profile\/elodimuor\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 2650,
+            "Posts": "2",
+            "Followers": 104,
+            "PageViewsSplit": {
+                "Overview": 3813,
+                "Markets": 212,
+                "Analysis": 133,
+                "Charts": 78,
+                "Trades": 49,
+                "Orderbook": 7,
+                "Forum": 63,
+                "Influence": 75
+            },
+            "PageViews": 4430
+        },
+        "Twitter": {
+            "statuses": 264,
+            "favourites": "744",
+            "following": "279",
+            "account_creation": "1492813774",
+            "followers": 3157,
+            "name": "Brickblock.io",
+            "link": "https:\/\/twitter.com\/brickblock_io",
+            "lists": 51,
+            "Points": 3412
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "66",
+            "name": "Brickblock.io",
+            "likes": 27746,
+            "link": "https:\/\/www.facebook.com\/brickblock.io\/",
+            "Points": 27746
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

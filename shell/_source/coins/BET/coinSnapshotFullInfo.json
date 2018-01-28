@@ -1,0 +1,71 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "BetaCoin (BET) - Live streaming prices and market cap",
+            "PageDescription": "Live BetaCoin prices from all markets and BET coin market Capitalization. Stay up to date with the latest BetaCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19621\/bet.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4337",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "BetaCoin (BET)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "BET",
+            "Url": "\/coins\/bet\/",
+            "BaseAngularUrl": "\/coins\/bet\/",
+            "Name": "BetaCoin",
+            "ImageUrl": "\/media\/19621\/bet.png",
+            "Description": "<p>Betacoin is a decentralized Internet currency that enables instant payments to anyone in the world. It is based on the Bitcoin protocol but differs from Bitcoin in some specifications. Betacoin provides faster transaction confirmations (4 minutes average block generating time). The Betacoin network is scheduled to produce 32 million currency units.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "32000000",
+            "Algorithm": "SHA256",
+            "ProofType": "PoW",
+            "StartDate": "24\/10\/2013",
+            "Twitter": "@Betacoin",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515494033,
+            "DifficultyAdjustment": "6 blocks",
+            "BlockRewardReduction": "50%",
+            "BlockNumber": 0,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptsy~BET~BTC",
+            "2~Coinse~BET~BTC",
+            "2~Novaexchange~BET~ESP2",
+            "2~Coinse~BET~LTC",
+            "2~EtherDelta~BET~ETH",
+            "2~HitBTC~BET~ETH"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~BET~BTC~4~0.0000021~1432958072~68~0.0001428~1432958072102~0~0~0~0~0.0000021~0.0000021~0.0000021~0.0000021~0.0000021~0.0000021~Coinse~7ffe9",
+            "5~CCCAGG~BET~ESP2~4~36.00000001~1502622613~0.10968223~3.9485602810968228~1502622613000~0~0~0~0~36.00000001~36.00000001~36.00000001~36.00000001~36.00000001~36.00000001~Novaexchange~7ffe9",
+            "5~CCCAGG~BET~LTC~4~3.4e-7~1410966982~99~0.00003366~1410966982050~0~0~0~0~3.4e-7~3.4e-7~3.4e-7~3.4e-7~3.4e-7~3.4e-7~Coinse~7ffe9",
+            "5~CCCAGG~BET~ETH~4~0.000135~1515934320~1350.6778985146047~0.18234151629947165~1515934320000~3459.9636128238253~0.4982475963030917~3459.9636128238258~0.4982475963030917~0.0001482~0.000154~0.000135~0.0001482~0.000154~0.000135~EtherDelta~7ffe9"
+        ]
+    },
+    "Type": 100
+}

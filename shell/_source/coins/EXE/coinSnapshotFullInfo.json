@@ -1,0 +1,66 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "ExeCoin (EXE) - Live streaming prices and market cap",
+            "PageDescription": "Live ExeCoin prices from all markets and EXE coin market Capitalization. Stay up to date with the latest ExeCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/19700\/exe.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4443",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Execoin (EXE)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "EXE",
+            "Url": "\/coins\/exe\/",
+            "BaseAngularUrl": "\/coins\/exe\/",
+            "Name": "ExeCoin",
+            "ImageUrl": "\/media\/19700\/exe.png",
+            "Description": "<p>Execoin&#39;s main talking point is its ASIC and Multi-pool mining resistance using its progressive-n algorithm. With the arrival of scrypt mining rigs and the potential monopolisation of Scrypt mining as happened with Bitcoin and SHA-256 coins. Execoin is planning to sidestep this issue. Total coins will be 84 million with a block time of 45 seconds - and a block reward reduction of every 840000 blocks. No premine means this is a serious contender with innovative features - not just another clone.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "21000000 ",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "27\/02\/2014",
+            "Twitter": "",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptsy~EXE~XRP",
+            "2~Cryptsy~EXE~BTC",
+            "2~Poloniex~EXE~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~EXE~XRP~4~0.02877263~1430848288~6.07279371~0.17473025~92209627~0~0~0.02877263~0.02877263~0.02877263~Cryptsy~78ce9",
+            "5~CCCAGG~EXE~BTC~4~0.00000717~1465011494~100~0.000717~149498~0~0~0~0~0.00000717~0.00000717~0.00000717~0.00000717~0.00000717~0.00000717~Poloniex~7ffe9"
+        ]
+    },
+    "Type": 100
+}

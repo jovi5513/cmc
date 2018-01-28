@@ -1,0 +1,154 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GPL",
+            "CoinName": "Gold Pressed Latinum",
+            "Type": "Webpagecoinp",
+            "Points": 125
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 42435,
+                    "Name": "Klingon Empire Darsek",
+                    "FullName": "Klingon Empire Darsek (KED)",
+                    "ImageUrl": "\/media\/1382390\/ked.png",
+                    "Url": "\/coins\/ked\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44007,
+                    "Name": "Impeach",
+                    "FullName": "Impeach (IMPCH)",
+                    "ImageUrl": "\/media\/1382606\/impch.png",
+                    "Url": "\/coins\/impch\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21706,
+                    "Name": "Cryptokenz",
+                    "FullName": "Cryptokenz (CYT)",
+                    "ImageUrl": "\/media\/351024\/cyt.png",
+                    "Url": "\/coins\/cyt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28317,
+                    "Name": "TodayCoin",
+                    "FullName": "TodayCoin (TODAY)",
+                    "ImageUrl": "\/media\/351521\/today.png",
+                    "Url": "\/coins\/today\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 63312,
+                    "Name": "EmporiumCoin",
+                    "FullName": "EmporiumCoin (EMPC)",
+                    "ImageUrl": "\/media\/1383081\/empc.png",
+                    "Url": "\/coins\/empc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22177,
+                    "Name": "Obscurebay",
+                    "FullName": "Obscurebay (OBS)",
+                    "ImageUrl": "\/media\/351064\/obs.png",
+                    "Url": "\/coins\/obs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 667444,
+                    "Name": "TheGCCcoin",
+                    "FullName": "TheGCCcoin (GCC*)",
+                    "ImageUrl": "\/media\/20780778\/gcc.png",
+                    "Url": "\/coins\/gccstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24405,
+                    "Name": "BitMoon",
+                    "FullName": "BitMoon (BM)",
+                    "ImageUrl": "\/media\/351311\/bm.png",
+                    "Url": "\/coins\/bm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35226,
+                    "Name": "ShortyCoin",
+                    "FullName": "ShortyCoin (SHORTY)",
+                    "ImageUrl": "\/media\/352222\/shorty.png",
+                    "Url": "\/coins\/shorty\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43257,
+                    "Name": "SmurfCoin",
+                    "FullName": "SmurfCoin (SMF)",
+                    "ImageUrl": "\/media\/1382468\/xmf.png",
+                    "Url": "\/coins\/smf\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 526107,
+                    "Name": "3F10EE20",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/526107\/67381f2a-01d3-425a-b6d9-a87d245cf657.jpg",
+                    "Url": "\/profile\/3F10EE20\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 467770,
+                    "Name": "aloneheart11345",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/467770\/9ebdb399-2818-49d3-8033-d25f8d748f73.jpg",
+                    "Url": "\/profile\/aloneheart11345\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 45787,
+                    "Name": "love-2009-",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/45787\/ccb32d39-22dd-477c-9402-d660972c57d0.jpg",
+                    "Url": "\/profile\/love-2009-\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 125,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 633,
+                "Markets": 53,
+                "Analysis": 70,
+                "Charts": 54,
+                "Trades": 50,
+                "Orderbook": 1,
+                "Forum": 31,
+                "Influence": 18
+            },
+            "PageViews": 910
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

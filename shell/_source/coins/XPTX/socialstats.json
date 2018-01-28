@@ -1,0 +1,177 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XPTX",
+            "CoinName": "PlatinumBAR",
+            "Type": "Webpagecoinp",
+            "Points": 1809
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 6096,
+                    "Name": "World Trade Funds",
+                    "FullName": "World Trade Funds (XWT)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/xwt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35027,
+                    "Name": "SeedShares",
+                    "FullName": "SeedShares (SEEDS)",
+                    "ImageUrl": "\/media\/352190\/seeds.png",
+                    "Url": "\/coins\/seeds\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 78190,
+                    "Name": "RiceCoin",
+                    "FullName": "RiceCoin (RICE)",
+                    "ImageUrl": "\/media\/1383245\/rice.png",
+                    "Url": "\/coins\/rice\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4604,
+                    "Name": "SilkCoin",
+                    "FullName": "SilkCoin (SILK)",
+                    "ImageUrl": "\/media\/20057\/silk.png",
+                    "Url": "\/coins\/silk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7481,
+                    "Name": "GorillaBucks",
+                    "FullName": "GorillaBucks (BUCKS*)",
+                    "ImageUrl": "\/media\/20602\/bucks.png",
+                    "Url": "\/coins\/bucksstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20600,
+                    "Name": "GrownCoin",
+                    "FullName": "GrownCoin (GROW)",
+                    "ImageUrl": "\/media\/350934\/grow.png",
+                    "Url": "\/coins\/grow\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3648,
+                    "Name": "CleverHash",
+                    "FullName": "CleverHash (CHASH)",
+                    "ImageUrl": "\/media\/20231\/chash.png",
+                    "Url": "\/coins\/chash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8683,
+                    "Name": "BitSeeds",
+                    "FullName": "BitSeeds (XSEED)",
+                    "ImageUrl": "\/media\/20163\/xseed.png",
+                    "Url": "\/coins\/xseed\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30521,
+                    "Name": "GanjaCoin V2",
+                    "FullName": "GanjaCoin V2 (GNJ)",
+                    "ImageUrl": "\/media\/351789\/gnj.png",
+                    "Url": "\/coins\/gnj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22180,
+                    "Name": "ExitCoin",
+                    "FullName": "ExitCoin (EXIT)",
+                    "ImageUrl": "\/media\/351065\/exit.png",
+                    "Url": "\/coins\/exit\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 589034,
+                    "Name": "hanshj6",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/589034\/41010676-4ab7-41fe-b908-538c7a70a424.jpg",
+                    "Url": "\/profile\/hanshj6\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 2,
+            "Posts": "0",
+            "Points": 50,
+            "PageViewsSplit": {
+                "Overview": 237,
+                "Markets": 8,
+                "Analysis": 8,
+                "Charts": 11,
+                "Trades": 8,
+                "Orderbook": 0,
+                "Forum": 7,
+                "Influence": 10
+            },
+            "PageViews": 289
+        },
+        "Twitter": {
+            "favourites": "142",
+            "lists": 20,
+            "statuses": 143,
+            "following": "681",
+            "account_creation": "1461258708",
+            "name": "PlatinumBAR",
+            "followers": 1645,
+            "link": "https:\/\/twitter.com\/platinumbarxptx",
+            "Points": 1745
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1506815799",
+                    "url": "https:\/\/github.com\/xptx\/PlatinumBar",
+                    "forks": 2,
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 3,
+                    "open_issues": "0",
+                    "size": "6650",
+                    "created_at": "1461257580",
+                    "closed_issues": "0",
+                    "open_pull_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "C++",
+                    "open_total_issues": "0",
+                    "last_push": "1462126576",
+                    "stars": 1
+                }
+            ],
+            "Points": 14
+        }
+    }
+}

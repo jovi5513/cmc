@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 192992,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 284345061.18413,
+        "BlockReward": 0.31313997030258,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "KAYI",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "3.2e-7",
+            "LASTUPDATE": "1513922694",
+            "LASTVOLUME": "20159.14726468",
+            "LASTVOLUMETO": "0.00645093",
+            "LASTTRADEID": "1513922694",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "3.2e-7",
+            "HIGHDAY": "3.2e-7",
+            "LOWDAY": "3.2e-7",
+            "OPEN24HOUR": "3.2e-7",
+            "HIGH24HOUR": "3.2e-7",
+            "LOW24HOUR": "3.2e-7",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "KAYI",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "3.2e-7",
+                "LASTUPDATE": "1513922694",
+                "LASTVOLUME": "20159.14726468",
+                "LASTVOLUMETO": "0.00645093",
+                "LASTTRADEID": "1513922694",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "3.2e-7",
+                "HIGH24HOUR": "3.2e-7",
+                "LOW24HOUR": "3.2e-7"
+            }
+        ]
+    },
+    "Type": 100
+}

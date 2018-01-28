@@ -1,0 +1,155 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "DTC",
+            "CoinName": "DayTrader Coin",
+            "Type": "Webpagecoinp",
+            "Points": 145
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4325,
+                    "Name": "AlphaCoin",
+                    "FullName": "AlphaCoin (ALF)",
+                    "ImageUrl": "\/media\/19600\/alf.png",
+                    "Url": "\/coins\/alf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60419,
+                    "Name": "Aptcoin",
+                    "FullName": "Aptcoin (APT)",
+                    "ImageUrl": "\/media\/1382945\/apt.png",
+                    "Url": "\/coins\/apt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21213,
+                    "Name": "Cygnus",
+                    "FullName": "Cygnus (CYG)",
+                    "ImageUrl": "\/media\/350997\/cygnus.png",
+                    "Url": "\/coins\/cyg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8693,
+                    "Name": "Axiom Coin",
+                    "FullName": "Axiom Coin (AXIOM)",
+                    "ImageUrl": "\/media\/20686\/axiom.png",
+                    "Url": "\/coins\/axiom\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37370,
+                    "Name": "PXcoin",
+                    "FullName": "PXcoin (PX)",
+                    "ImageUrl": "\/media\/1381994\/px.png",
+                    "Url": "\/coins\/px\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5350,
+                    "Name": "Social Media Coin",
+                    "FullName": "Social Media Coin (SMAC)",
+                    "ImageUrl": "\/media\/20427\/smac.png",
+                    "Url": "\/coins\/smac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7634,
+                    "Name": "Graviton",
+                    "FullName": "Graviton (GRAV)",
+                    "ImageUrl": "\/media\/20659\/grav.png",
+                    "Url": "\/coins\/grav\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 40839,
+                    "Name": "TwisterCoin",
+                    "FullName": "TwisterCoin (TWIST)",
+                    "ImageUrl": "\/media\/1382250\/twist1.png",
+                    "Url": "\/coins\/twist\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30925,
+                    "Name": "Community Coin",
+                    "FullName": "Community Coin (COC)",
+                    "ImageUrl": "\/media\/351872\/coc.png",
+                    "Url": "\/coins\/coc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28125,
+                    "Name": "ArkDAO",
+                    "FullName": "ArkDAO (BOTS)",
+                    "ImageUrl": "\/media\/351499\/bot.png",
+                    "Url": "\/coins\/bots\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 373479,
+                    "Name": "nguyentoanct668",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/373479\/30a50b42-d2f5-42f6-a0ad-26180a86939e.jpg",
+                    "Url": "\/profile\/nguyentoanct668\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 220300,
+                    "Name": "lina.komysa",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/220300\/9b5b1a3e-48a9-4d50-ae60-faa9ec978104.jpg",
+                    "Url": "\/profile\/lina.komysa\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 10946,
+                    "Name": "valentin.duma31",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/10946\/76c9ef51-87a1-4983-87c6-ee5487050fef.jpg",
+                    "Url": "\/profile\/valentin.duma31\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 4,
+            "Points": 145,
+            "Posts": "1",
+            "Comments": "2",
+            "PageViewsSplit": {
+                "Overview": 695,
+                "Markets": 51,
+                "Analysis": 84,
+                "Charts": 59,
+                "Trades": 59,
+                "Orderbook": 1,
+                "Forum": 40,
+                "Influence": 12
+            },
+            "PageViews": 1001
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

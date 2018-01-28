@@ -1,0 +1,72 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": -1,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 0,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "PXL",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000481",
+            "LASTUPDATE": "1515986559",
+            "LASTVOLUME": "41.91891891",
+            "LASTVOLUMETO": "0.0002016299999571",
+            "LASTTRADEID": "200000003",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.00000481",
+            "HIGHDAY": "0.00000481",
+            "LOWDAY": "0.00000481",
+            "OPEN24HOUR": "0.00000481",
+            "HIGH24HOUR": "0.00000481",
+            "LOW24HOUR": "0.00000481",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "PXL",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "1.9e-7",
+                "LASTUPDATE": "1435854063",
+                "LASTVOLUME": "14977.10028455",
+                "LASTVOLUMETO": "0.0028456490540645003",
+                "LASTTRADEID": "1435854063644",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "1.9e-7",
+                "HIGH24HOUR": "1.9e-7",
+                "LOW24HOUR": "1.9e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "PXL",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000481",
+                "LASTUPDATE": "1515986559",
+                "LASTVOLUME": "41.91891891",
+                "LASTVOLUMETO": "0.0002016299999571",
+                "LASTTRADEID": "200000003",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000481",
+                "HIGH24HOUR": "0.00000481",
+                "LOW24HOUR": "0.00000481"
+            }
+        ]
+    },
+    "Type": 100
+}

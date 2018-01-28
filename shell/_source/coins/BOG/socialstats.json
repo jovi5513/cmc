@@ -1,0 +1,138 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BOG",
+            "CoinName": "Bogcoin",
+            "Type": "Webpagecoinp",
+            "Points": 316
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 30121,
+                    "Name": "CrankCoin",
+                    "FullName": "CrankCoin (CRNK)",
+                    "ImageUrl": "\/media\/351731\/crnk.png",
+                    "Url": "\/coins\/crnk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28087,
+                    "Name": "TotCoin",
+                    "FullName": "TotCoin (TOT)",
+                    "ImageUrl": "\/media\/351497\/tot.png",
+                    "Url": "\/coins\/tot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28665,
+                    "Name": "ERBCoin",
+                    "FullName": "ERBCoin (ERB)",
+                    "ImageUrl": "\/media\/351550\/erb.png",
+                    "Url": "\/coins\/erb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28128,
+                    "Name": "MedicCoin",
+                    "FullName": "MedicCoin (MDC)",
+                    "ImageUrl": "\/media\/351500\/mdc.png",
+                    "Url": "\/coins\/mdc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44752,
+                    "Name": "TrueInvestmentCoin",
+                    "FullName": "TrueInvestmentCoin (TIC)",
+                    "ImageUrl": "\/media\/1382625\/tic.png",
+                    "Url": "\/coins\/tic\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7590,
+                    "Name": "PharmaCoin",
+                    "FullName": "PharmaCoin (XPH)",
+                    "ImageUrl": "\/media\/20641\/xph.png",
+                    "Url": "\/coins\/xph\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35407,
+                    "Name": "BAM",
+                    "FullName": "BAM (BamitCoin)",
+                    "ImageUrl": "\/media\/352236\/bam.png",
+                    "Url": "\/coins\/bam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5022,
+                    "Name": "SocialXbotCoin",
+                    "FullName": "SocialXbotCoin (XBOT)",
+                    "ImageUrl": "\/media\/20073\/xbot.png",
+                    "Url": "\/coins\/xbot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25594,
+                    "Name": "Uniqredit",
+                    "FullName": "Uniqredit (UNIQ)",
+                    "ImageUrl": "\/media\/351387\/uniq.png",
+                    "Url": "\/coins\/uniq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25825,
+                    "Name": "Coinomat",
+                    "FullName": "Coinomat (CNMT)",
+                    "ImageUrl": "\/media\/351396\/cnmt.png",
+                    "Url": "\/coins\/cnmt\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 311069,
+                    "Name": "dungtv.sctdno",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/311069\/01d8d890-cead-4ba4-b4df-ca7822d14151.jpg",
+                    "Url": "\/profile\/dungtv.sctdno\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 1,
+            "Points": 25,
+            "Posts": "0",
+            "PageViewsSplit": {
+                "Overview": 174,
+                "Markets": 6,
+                "Analysis": 12,
+                "Charts": 3,
+                "Trades": 7,
+                "Orderbook": 1,
+                "Forum": 15,
+                "Influence": 10
+            },
+            "PageViews": 228
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "talking_about": "1",
+            "name": "Bogcoin",
+            "likes": 291,
+            "link": "https:\/\/www.facebook.com\/Bogcoin\/",
+            "is_closed": "false",
+            "Points": 291
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

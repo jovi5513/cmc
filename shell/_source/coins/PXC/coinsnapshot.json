@@ -1,0 +1,72 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": "Scrypt",
+        "ProofType": "PoW\/PoS",
+        "BlockNumber": 1617237,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 63433165.122242,
+        "BlockReward": 25.000000002292,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "PXC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000151",
+            "LASTUPDATE": "1516084919",
+            "LASTVOLUME": "1249.88325439",
+            "LASTVOLUMETO": "0.00188732",
+            "LASTTRADEID": "1516084919",
+            "VOLUMEDAY": "37692.88354658001",
+            "VOLUMEDAYTO": "0.058058109999999996",
+            "VOLUME24HOUR": "166775.6948505",
+            "VOLUME24HOURTO": "0.24855415000000003",
+            "OPENDAY": "0.00000155",
+            "HIGHDAY": "0.00000157",
+            "LOWDAY": "0.00000151",
+            "OPEN24HOUR": "0.00000151",
+            "HIGH24HOUR": "0.00000196",
+            "LOW24HOUR": "0.0000013",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "PXC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000151",
+                "LASTUPDATE": "1516084919",
+                "LASTVOLUME": "1249.88325439",
+                "LASTVOLUMETO": "0.00188732",
+                "LASTTRADEID": "1516084919",
+                "VOLUME24HOUR": "166775.6948505",
+                "VOLUME24HOURTO": "0.24855415000000003",
+                "OPEN24HOUR": "0.00000151",
+                "HIGH24HOUR": "0.00000196",
+                "LOW24HOUR": "0.0000013"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "PXC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "3e-7",
+                "LASTUPDATE": "1452828078",
+                "LASTVOLUME": "33.24587004",
+                "LASTVOLUMETO": "0.00000997",
+                "LASTTRADEID": "110947720",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "3e-7",
+                "HIGH24HOUR": "3e-7",
+                "LOW24HOUR": "3e-7"
+            }
+        ]
+    },
+    "Type": 100
+}

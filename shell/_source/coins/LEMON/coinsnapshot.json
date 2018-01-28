@@ -1,0 +1,66 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "LEMON",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "8.9e-7",
+            "LASTUPDATE": "1516083279",
+            "LASTVOLUME": "2226.3959476",
+            "LASTVOLUMETO": "0.00198149",
+            "LASTTRADEID": "1516083279",
+            "VOLUMEDAY": "42080.570347199995",
+            "VOLUMEDAYTO": "0.0370957",
+            "VOLUME24HOUR": "189003.42736082996",
+            "VOLUME24HOURTO": "0.18081432",
+            "OPENDAY": "0.00000101",
+            "HIGHDAY": "0.00000101",
+            "LOWDAY": "8.6e-7",
+            "OPEN24HOUR": "0.0000011",
+            "HIGH24HOUR": "0.00000111",
+            "LOW24HOUR": "8.6e-7",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "LEMON",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "8.9e-7",
+                "LASTUPDATE": "1516083279",
+                "LASTVOLUME": "2226.3959476",
+                "LASTVOLUMETO": "0.00198149",
+                "LASTTRADEID": "1516083279",
+                "VOLUME24HOUR": "189003.42736082996",
+                "VOLUME24HOURTO": "0.18081432",
+                "OPEN24HOUR": "0.0000011",
+                "HIGH24HOUR": "0.00000111",
+                "LOW24HOUR": "8.6e-7"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "LEMON",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "9e-8",
+                "LASTUPDATE": "1476925164",
+                "LASTVOLUME": "6013.13799524",
+                "LASTVOLUMETO": "0.0005411824195716",
+                "LASTTRADEID": "526",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "9e-8",
+                "HIGH24HOUR": "9e-8",
+                "LOW24HOUR": "9e-8"
+            }
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,166 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SPF",
+            "CoinName": "SportyFi",
+            "Type": "Webpagecoinp",
+            "Points": 33950
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 237269,
+                    "Name": "Latium",
+                    "FullName": "Latium (LAT)",
+                    "ImageUrl": "\/media\/9350724\/lat.png",
+                    "Url": "\/coins\/lat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 355019,
+                    "Name": "Pirl",
+                    "FullName": "Pirl (PIRL)",
+                    "ImageUrl": "\/media\/14543968\/pirl.png",
+                    "Url": "\/coins\/pirl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20745,
+                    "Name": "SibCoin",
+                    "FullName": "SibCoin (SIB)",
+                    "ImageUrl": "\/media\/350958\/sib.png",
+                    "Url": "\/coins\/sib\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4616,
+                    "Name": "BitSwift",
+                    "FullName": "BitSwift (SWIFT)",
+                    "ImageUrl": "\/media\/20446\/swift.png",
+                    "Url": "\/coins\/swift\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 638634,
+                    "Name": "Bloom Token",
+                    "FullName": "Bloom Token (BLT)",
+                    "ImageUrl": "\/media\/20780668\/blt.png",
+                    "Url": "\/coins\/blt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 205980,
+                    "Name": "Qvolta",
+                    "FullName": "Qvolta (QVT)",
+                    "ImageUrl": "\/media\/1383954\/qvt.png",
+                    "Url": "\/coins\/qvt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 257772,
+                    "Name": "Privatix",
+                    "FullName": "Privatix (PRIX)",
+                    "ImageUrl": "\/media\/9350797\/prix.png",
+                    "Url": "\/coins\/prix\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3646,
+                    "Name": "PetroDollar",
+                    "FullName": "PetroDollar (XPD)",
+                    "ImageUrl": "\/media\/20162\/xpd.png",
+                    "Url": "\/coins\/xpd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 185953,
+                    "Name": "Indorse",
+                    "FullName": "Indorse (IND)",
+                    "ImageUrl": "\/media\/1383794\/ind.png",
+                    "Url": "\/coins\/ind\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7650,
+                    "Name": "Quazar Coin",
+                    "FullName": "Quazar Coin (QCN)",
+                    "ImageUrl": "\/media\/19877\/qcn.png",
+                    "Url": "\/coins\/qcn\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 607121,
+                    "Name": "jure.vranicar",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/607121\/ead3ffe9-96c9-4619-b622-c4dd0e9e55eb.jpg",
+                    "Url": "\/profile\/jure.vranicar\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 596642,
+                    "Name": "mustafasedat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/596642\/f2e25127-d9b1-4bf3-9d06-552d399705ba.jpg",
+                    "Url": "\/profile\/mustafasedat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 344789,
+                    "Name": "mirrekx",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/344789\/9fdb5d55-0b40-400f-8a8c-d35a14e1ba0d.jpg",
+                    "Url": "\/profile\/mirrekx\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 100,
+            "Followers": 4,
+            "PageViewsSplit": {
+                "Overview": 237,
+                "Markets": 27,
+                "Analysis": 22,
+                "Charts": 13,
+                "Trades": 12,
+                "Orderbook": 0,
+                "Forum": 8,
+                "Influence": 9
+            },
+            "PageViews": 328
+        },
+        "Twitter": {
+            "statuses": 187,
+            "favourites": "40",
+            "following": "67",
+            "account_creation": "1505039699",
+            "followers": 8825,
+            "name": "SportyFi",
+            "link": "https:\/\/twitter.com\/sportyfi_io",
+            "lists": 36,
+            "Points": 9005
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "900",
+            "name": "SportyFi",
+            "likes": 24845,
+            "link": "https:\/\/www.facebook.com\/SportyFi.io\/",
+            "Points": 24845
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

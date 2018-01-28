@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "PUT",
+            "CoinName": "PutinCoin",
+            "Type": "Webpagecoinp",
+            "Points": 179652
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 25921,
+                    "Name": "Iconomi",
+                    "FullName": "Iconomi (ICN)",
+                    "ImageUrl": "\/media\/351400\/icn.png",
+                    "Url": "\/coins\/icn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32544,
+                    "Name": "ZClassic",
+                    "FullName": "ZClassic (ZCL)",
+                    "ImageUrl": "\/media\/351926\/zcl.png",
+                    "Url": "\/coins\/zcl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 283116,
+                    "Name": "Enjin Coin",
+                    "FullName": "Enjin Coin (ENJ)",
+                    "ImageUrl": "\/media\/11417639\/enjt.png",
+                    "Url": "\/coins\/enj\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 78152,
+                    "Name": "Aragon",
+                    "FullName": "Aragon (ANT)",
+                    "ImageUrl": "\/media\/1383244\/ant.png",
+                    "Url": "\/coins\/ant\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 180678,
+                    "Name": "DIMCOIN",
+                    "FullName": "DIMCOIN (DIM)",
+                    "ImageUrl": "\/media\/1383761\/dim.png",
+                    "Url": "\/coins\/dim\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 222085,
+                    "Name": "Neblio",
+                    "FullName": "Neblio (NEBL)",
+                    "ImageUrl": "\/media\/1384016\/nebl.png",
+                    "Url": "\/coins\/nebl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369151,
+                    "Name": "Streamr DATAcoin",
+                    "FullName": "Streamr DATAcoin (DATA)",
+                    "ImageUrl": "\/media\/14913438\/data.png",
+                    "Url": "\/coins\/data\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 348628,
+                    "Name": "Kucoin",
+                    "FullName": "Kucoin (KCS)",
+                    "ImageUrl": "\/media\/12318389\/kcs.png",
+                    "Url": "\/coins\/kcs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 141331,
+                    "Name": "Dent",
+                    "FullName": "Dent (DENT)",
+                    "ImageUrl": "\/media\/1383613\/dent.png",
+                    "Url": "\/coins\/dent\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 141464,
+                    "Name": "Ethos",
+                    "FullName": "Ethos (BQX)",
+                    "ImageUrl": "\/media\/16404851\/ethos.png",
+                    "Url": "\/coins\/ethos\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 671509,
+                    "Name": "suvorova312",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/671509\/b02d9c4a-7bee-49c9-8224-8820d262fc80.jpg",
+                    "Url": "\/profile\/suvorova312\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 274818,
+                    "Name": "ianbruce1510",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/274818\/182b0bc5-a369-427f-8e6e-f66e4486d106.jpg",
+                    "Url": "\/profile\/ianbruce1510\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 603742,
+                    "Name": "55D66150",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/603742\/70886dfc-5349-4566-9f28-ffb92fbfb0e0.jpg",
+                    "Url": "\/profile\/55D66150\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 589330,
+                    "Name": "putinlbn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/589330\/b2e26a93-02fc-4f2a-875a-a083b540f1ea.jpg",
+                    "Url": "\/profile\/putinlbn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 108634,
+                    "Name": "GinsCorp",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/108634\/7260ebe6-a211-4038-9d8a-a5ed557a32ca.jpg",
+                    "Url": "\/profile\/GinsCorp\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 289494,
+                    "Name": "Semen_mailbox",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/289494\/91304cb7-4682-404c-8f72-d36826358f66.png",
+                    "Url": "\/profile\/Semen_mailbox\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 481462,
+                    "Name": "gabau",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/481462\/48745057-dd66-46dc-9258-86be02bc402e.jpg",
+                    "Url": "\/profile\/gabau\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 645651,
+                    "Name": "UTASANKIN",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/645651\/e1266eba-0e7b-45d3-86ea-61c57bd5ce89.png",
+                    "Url": "\/profile\/UTASANKIN\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 643972,
+                    "Name": "levmska",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/643972\/ff17693e-44ff-47ff-9c70-34ca2e4f964b.jpg",
+                    "Url": "\/profile\/levmska\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 508523,
+                    "Name": "wcnllcpr",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/508523\/8f28eddc-b80d-4d46-82bb-9f6709d70b54.jpg",
+                    "Url": "\/profile\/wcnllcpr\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 640388,
+                    "Name": "lucky.voron",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/640388\/33a40004-8a7b-44fa-b1f2-3c4151fc7196.jpg",
+                    "Url": "\/profile\/lucky.voron\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 6115,
+            "Followers": 229,
+            "Posts": "14",
+            "Comments": "4",
+            "PageViewsSplit": {
+                "Overview": 20376,
+                "Markets": 1303,
+                "Analysis": 618,
+                "Charts": 1157,
+                "Trades": 587,
+                "Orderbook": 29,
+                "Forum": 783,
+                "Influence": 199
+            },
+            "PageViews": 25052
+        },
+        "Twitter": {
+            "following": "29",
+            "account_creation": "1486146740",
+            "name": "PutinCoin",
+            "lists": 22,
+            "statuses": 131,
+            "favourites": "2",
+            "followers": 69555,
+            "link": "https:\/\/twitter.com\/PutinCoinPUT",
+            "Points": 69665
+        },
+        "Reddit": {
+            "posts_per_hour": "0.01",
+            "comments_per_hour": "0.00",
+            "posts_per_day": "0.16",
+            "comments_per_day": 0.02,
+            "name": "PutinCoin",
+            "link": "https:\/\/www.reddit.com\/r\/PutinCoin\/",
+            "active_users": 22,
+            "community_creation": "1494909286",
+            "subscribers": 33,
+            "Points": 99
+        },
+        "Facebook": {
+            "likes": 103760,
+            "link": "https:\/\/www.facebook.com\/PutinCoinPUT\/",
+            "is_closed": "false",
+            "talking_about": "81",
+            "name": "PutinCoin",
+            "Points": 103760
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1466824114",
+                    "open_total_issues": "1",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "24946",
+                    "closed_total_issues": "0",
+                    "stars": 2,
+                    "last_update": "1507965523",
+                    "forks": 3,
+                    "url": "https:\/\/github.com\/Putin-Coin\/putincoin",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1466843641",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 1,
+                    "open_issues": "1"
+                }
+            ],
+            "Points": 11
+        }
+    }
+}

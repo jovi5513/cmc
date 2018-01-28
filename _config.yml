@@ -1,0 +1,68 @@
+name: "Crypto Currencies Cap"
+description: 
+email: "truongnq2306@gmail.com"
+url: "https://imsamthomas.github.io/crypto-project"
+# url: "http://mageplaza.local"
+allow_search_engine: false
+google_verify: 
+bing_verify: 
+google_analytics: 
+google_tag_manager_id: "GTM-KXPRNQZ"
+google_plus: 
+facebook: "https://www.facebook.com/crypto-project/" 
+twitter: "https://twitter.com/crypto-project/" 
+# Build Settings
+markdown: "kramdown"
+highlighter: rouge
+encoding: "UTF-8"
+
+# kramdown:
+#   input: GFM
+#   syntax_highlighter: rouge
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
+#   toc_levels: 1..6
+#   use_coderay: false
+  # coderay:
+  #   coderay_line_numbers: nil
+  #   coderay_line_numbers_start: 1
+  #   coderay_tab_width: 4
+  #   coderay_bold_every: 10
+  #   coderay_css: class
+
+# http://jekyllrb.com/docs/permalinks/
+# /:title/ /:title.html
+permalink:   "/:categories/:title/"
+
+# Amount of post to show on home page
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+future: true
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-paginate
+  # - jekyll-related-posts
+  # http://jekyllrb.com/docs/templates/#gist
+  # - jekyll-gist
+  # - jekyll-less
+include: [".htaccess", "LICENSE.txt", "*.woff", "*.ttf", "*.json"]
+exclude: ["_site", lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "vendor", "shell", ".keep", "note.xml", "templates", "private"]
+collections:
+  pages:
+    output: true
+  introductions:
+    output: true
+  currencies:
+    output: true
+
+
+related:
+  max_count: 5
+  min_score: 0.1
+  accuracy: 0.75
+
+total_markets: 78
+

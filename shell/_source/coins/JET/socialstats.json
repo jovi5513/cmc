@@ -1,0 +1,160 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "JET",
+            "CoinName": "Jetcoin",
+            "Type": "Webpagecoinp",
+            "Points": 7609
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 27594,
+                    "Name": "Mass Coin",
+                    "FullName": "Mass Coin (MC)",
+                    "ImageUrl": "\/media\/351428\/mc.png",
+                    "Url": "\/coins\/mc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 67430,
+                    "Name": "MacronCoin",
+                    "FullName": "MacronCoin (MCRN)",
+                    "ImageUrl": "\/media\/1383111\/mcrn.png",
+                    "Url": "\/coins\/mcrn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 542719,
+                    "Name": "CrowdCoinage",
+                    "FullName": "CrowdCoinage (CCOS)",
+                    "ImageUrl": "\/media\/16746767\/ccos.png",
+                    "Url": "\/coins\/ccos\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182325,
+                    "Name": "DigitalPrice",
+                    "FullName": "DigitalPrice (DP)",
+                    "ImageUrl": "\/media\/1383772\/dp.png",
+                    "Url": "\/coins\/dp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369209,
+                    "Name": "Datacoin",
+                    "FullName": "Datacoin (DTC)",
+                    "ImageUrl": "\/media\/14913440\/dtc.png",
+                    "Url": "\/coins\/dtcstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37191,
+                    "Name": "WorldPay",
+                    "FullName": "WorldPay (WOP)",
+                    "ImageUrl": "\/media\/1381982\/wop.png",
+                    "Url": "\/coins\/wop\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20685,
+                    "Name": "SoilCoin",
+                    "FullName": "SoilCoin (SOIL)",
+                    "ImageUrl": "\/media\/350949\/soil.png",
+                    "Url": "\/coins\/soil\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 368694,
+                    "Name": "ATMChain",
+                    "FullName": "ATMChain (ATM)",
+                    "ImageUrl": "\/media\/14913430\/atm.png",
+                    "Url": "\/coins\/atmstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 206512,
+                    "Name": "Wavesnode.net",
+                    "FullName": "Wavesnode.net (WNET)",
+                    "ImageUrl": "\/media\/1383982\/wnet1.png",
+                    "Url": "\/coins\/wnet\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20659,
+                    "Name": "Gapcoin",
+                    "FullName": "Gapcoin (GAP)",
+                    "ImageUrl": "\/media\/350943\/gap.png",
+                    "Url": "\/coins\/gap\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 550107,
+                    "Name": "gojakovicmarko",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/550107\/33e8ef1f-aefc-4bdd-bb94-0fa26fe78b92.jpg",
+                    "Url": "\/profile\/gojakovicmarko\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 628823,
+                    "Name": "eldolly",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/628823\/1716c22d-bb91-469d-b7e9-4b02a0fd0166.jpg",
+                    "Url": "\/profile\/eldolly\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 550895,
+                    "Name": "thesupertrainer",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/550895\/0ba84927-6818-4620-9fe3-45bf5d6cbbdc.jpg",
+                    "Url": "\/profile\/thesupertrainer\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 100,
+            "Posts": "1",
+            "Followers": 3,
+            "PageViewsSplit": {
+                "Overview": 98,
+                "Markets": 4,
+                "Analysis": 10,
+                "Charts": 10,
+                "Trades": 3,
+                "Orderbook": 0,
+                "Forum": 7,
+                "Influence": 1
+            },
+            "PageViews": 133
+        },
+        "Twitter": {
+            "statuses": 382,
+            "favourites": "397",
+            "following": "191",
+            "account_creation": "1403849428",
+            "followers": 4247,
+            "name": "Jetcoin",
+            "link": "https:\/\/twitter.com\/jetcoins",
+            "lists": 38,
+            "Points": 4437
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "190",
+            "name": "Jetcoin",
+            "likes": 3072,
+            "link": "https:\/\/www.facebook.com\/jetcoins\/",
+            "Points": 3072
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ARM",
+            "CoinName": "Armory Coin",
+            "Type": "Webpagecoinp",
+            "Points": 300
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 41590,
+                    "Name": "CryptoPennies",
+                    "FullName": "CryptoPennies (CRPS)",
+                    "ImageUrl": "\/media\/1382338\/crps.png",
+                    "Url": "\/coins\/crps\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 15272,
+                    "Name": "BitStone",
+                    "FullName": "BitStone (BST)",
+                    "ImageUrl": "\/media\/350558\/bst.png",
+                    "Url": "\/coins\/bst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 661398,
+                    "Name": "PumaPay",
+                    "FullName": "PumaPay (PMA)",
+                    "ImageUrl": "\/media\/20780758\/pma.png",
+                    "Url": "\/coins\/pma\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29713,
+                    "Name": "Invictus",
+                    "FullName": "Invictus (INV)",
+                    "ImageUrl": "\/media\/351682\/inv.png",
+                    "Url": "\/coins\/inv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28083,
+                    "Name": "CarterCoin",
+                    "FullName": "CarterCoin (CTC)",
+                    "ImageUrl": "\/media\/351496\/ctc.png",
+                    "Url": "\/coins\/ctc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29008,
+                    "Name": "Opair",
+                    "FullName": "Opair (XPO)",
+                    "ImageUrl": "\/media\/351590\/xpo.png",
+                    "Url": "\/coins\/xpo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7564,
+                    "Name": "Empyrean",
+                    "FullName": "Empyrean (EPY)",
+                    "ImageUrl": "\/media\/20628\/epy.png",
+                    "Url": "\/coins\/epy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29460,
+                    "Name": "UPcoin",
+                    "FullName": "UPcoin (XUP)",
+                    "ImageUrl": "\/media\/351638\/xup.png",
+                    "Url": "\/coins\/xup\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22258,
+                    "Name": "OrlyCoin",
+                    "FullName": "OrlyCoin (ORLY)",
+                    "ImageUrl": "\/media\/351076\/orly.png",
+                    "Url": "\/coins\/orly\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4584,
+                    "Name": "OpenSourceCoin",
+                    "FullName": "OpenSourceCoin (OSC)",
+                    "ImageUrl": "\/media\/19847\/osc.png",
+                    "Url": "\/coins\/osc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 572384,
+                    "Name": "edc19715",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/572384\/5f3b0666-46f7-4605-b472-fa6854d1fab7.jpg",
+                    "Url": "\/profile\/edc19715\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 554684,
+                    "Name": "musicalstudio",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/554684\/0d0bcdb2-80ee-47a0-8071-74b4263d4ed6.jpg",
+                    "Url": "\/profile\/musicalstudio\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 520280,
+                    "Name": "JohnLambent",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/520280\/672fec8f-6bc6-4856-9340-82ebe356a3e5.jpg",
+                    "Url": "\/profile\/JohnLambent\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 437347,
+                    "Name": "lighthealingshop",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/437347\/66772782-cc05-42ac-b00f-49bb140036d3.jpg",
+                    "Url": "\/profile\/lighthealingshop\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 419722,
+                    "Name": "raj-me",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/419722\/f1158ac5-0ddd-447b-a39b-7acb23e32b43.jpg",
+                    "Url": "\/profile\/raj-me\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 382654,
+                    "Name": "designcraft.ind",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/382654\/355004bf-c2ea-45e4-98a6-d5fb99f07796.jpg",
+                    "Url": "\/profile\/designcraft.ind\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 138986,
+                    "Name": "teremoanaoc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/138986\/2b082682-ff35-45af-aee5-787ed1c8c26f.jpg",
+                    "Url": "\/profile\/teremoanaoc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 419006,
+                    "Name": "luke.bredeveldt",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/419006\/d3ab2699-ffa9-46fc-8161-acff6b446f99.jpg",
+                    "Url": "\/profile\/luke.bredeveldt\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 40816,
+                    "Name": "pm987411",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/40816\/bf9fb13c-5ae3-4d9c-b57d-43f36fafd7e0.jpg",
+                    "Url": "\/profile\/pm987411\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 11,
+            "Points": 300,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 1417,
+                "Markets": 100,
+                "Analysis": 99,
+                "Charts": 82,
+                "Trades": 98,
+                "Orderbook": 3,
+                "Forum": 51,
+                "Influence": 32
+            },
+            "PageViews": 1882
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 0,
+                    "size": "1953",
+                    "url": "https:\/\/github.com\/armorycoin\/armorysource",
+                    "last_update": "1474219268",
+                    "last_push": "1474219265",
+                    "created_at": "1474219241",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "NaN",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

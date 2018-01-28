@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "TRIG",
+            "CoinName": "Trigger",
+            "Type": "Webpagecoinp",
+            "Points": 36132
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 296844,
+                    "Name": "Worldcore",
+                    "FullName": "Worldcore (WRC)",
+                    "ImageUrl": "\/media\/11999078\/wrc.png",
+                    "Url": "\/coins\/wrc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42596,
+                    "Name": "Internet of People",
+                    "FullName": "Internet of People (IOP)",
+                    "ImageUrl": "\/media\/12318262\/iop.png",
+                    "Url": "\/coins\/iop\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5292,
+                    "Name": "CounterParty",
+                    "FullName": "CounterParty (XCP)",
+                    "ImageUrl": "\/media\/19960\/xcp.png",
+                    "Url": "\/coins\/xcp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338335,
+                    "Name": "Enigma",
+                    "FullName": "Enigma (ENG)",
+                    "ImageUrl": "\/media\/12318287\/eng.png",
+                    "Url": "\/coins\/eng\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 364348,
+                    "Name": "Bitcoin SegWit2X",
+                    "FullName": "Bitcoin SegWit2X (BT2)",
+                    "ImageUrl": "\/media\/19633\/btc.png",
+                    "Url": "\/coins\/bt2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37040,
+                    "Name": "TrustCoin",
+                    "FullName": "TrustCoin (TRST)",
+                    "ImageUrl": "\/media\/1381975\/trst.png",
+                    "Url": "\/coins\/trst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 175618,
+                    "Name": "ATB coin",
+                    "FullName": "ATB coin (ATB)",
+                    "ImageUrl": "\/media\/1383689\/atb.png",
+                    "Url": "\/coins\/atb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 18180,
+                    "Name": "Voxels",
+                    "FullName": "Voxels (VOX)",
+                    "ImageUrl": "\/media\/350824\/vox.png",
+                    "Url": "\/coins\/vox\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 225277,
+                    "Name": "Centra",
+                    "FullName": "Centra (CTR)",
+                    "ImageUrl": "\/media\/1384029\/ctr.png",
+                    "Url": "\/coins\/ctr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28328,
+                    "Name": "FirstBlood",
+                    "FullName": "FirstBlood (1ST)",
+                    "ImageUrl": "\/media\/351524\/1st.png",
+                    "Url": "\/coins\/1st\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 246741,
+                    "Name": "ruddy.bondel",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/246741\/abff46f8-93ff-4b86-abcf-cd2263e9908a.jpg",
+                    "Url": "\/profile\/ruddy.bondel\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 633030,
+                    "Name": "simeon.ran",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/633030\/65ad71d4-e260-485c-a515-7abc7153df0f.jpg",
+                    "Url": "\/profile\/simeon.ran\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 583940,
+                    "Name": "alberto.esse",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/583940\/20d08fd0-13fa-434e-9ef0-bb05cf38a4db.jpg",
+                    "Url": "\/profile\/alberto.esse\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 654072,
+                    "Name": "ugrs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/654072\/185422a1-99bb-43f7-a4b6-2d1d131ab226.jpg",
+                    "Url": "\/profile\/ugrs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 548660,
+                    "Name": "cata4ro",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/548660\/53738c41-8800-4463-9eca-273a299d8b3f.jpg",
+                    "Url": "\/profile\/cata4ro\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 569851,
+                    "Name": "maxkogler",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/569851\/b04689ca-b735-4e68-ac34-f01cea50204d.jpg",
+                    "Url": "\/profile\/maxkogler\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 308076,
+                    "Name": "Kanegon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/308076\/361be9e5-0116-4fed-89f8-b1e8b90a8ca1.jpg",
+                    "Url": "\/profile\/Kanegon\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 412734,
+                    "Name": "blanka138",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/412734\/b0e339a2-db7c-4b09-8975-0fadfc796399.jpg",
+                    "Url": "\/profile\/blanka138\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 594892,
+                    "Name": "himrtechman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/594892\/520b31f0-db26-49d5-8065-daa6fcaa4c70.jpg",
+                    "Url": "\/profile\/himrtechman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 131285,
+                    "Name": "dbluered4n",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/131285\/0d2e187d-6336-4158-8dc8-3b5ca6a2aba5.jpg",
+                    "Url": "\/profile\/dbluered4n\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 265,
+            "Posts": "73",
+            "Comments": "94",
+            "Points": 9390,
+            "PageViewsSplit": {
+                "Overview": 30754,
+                "Markets": 1316,
+                "Analysis": 910,
+                "Charts": 3820,
+                "Trades": 860,
+                "Orderbook": 36,
+                "Forum": 2675,
+                "Influence": 613
+            },
+            "PageViews": 40984
+        },
+        "Twitter": {
+            "favourites": "6073",
+            "lists": 805,
+            "statuses": 10378,
+            "following": "5207",
+            "account_creation": "1356287383",
+            "name": "Blocksafe Alliance",
+            "followers": 22091,
+            "link": "https:\/\/twitter.com\/blocksafe",
+            "Points": 26126
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "Blocksafe Foundation",
+            "likes": 612,
+            "link": "https:\/\/www.facebook.com\/blocksafefoundation\/",
+            "talking_about": "46",
+            "is_closed": "false",
+            "Points": 612
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

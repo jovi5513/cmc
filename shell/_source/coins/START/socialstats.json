@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "START",
+            "CoinName": "StartCoin",
+            "Type": "Webpagecoinp",
+            "Points": 14167
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5339,
+                    "Name": "LiteDoge",
+                    "FullName": "LiteDoge (LDOGE)",
+                    "ImageUrl": "\/media\/20332\/ldoge.png",
+                    "Url": "\/coins\/ldoge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179947,
+                    "Name": "Starbase",
+                    "FullName": "Starbase (STAR)",
+                    "ImageUrl": "\/media\/1383750\/star1.png",
+                    "Url": "\/coins\/star\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 242873,
+                    "Name": "Oxycoin",
+                    "FullName": "Oxycoin (OXY)",
+                    "ImageUrl": "\/media\/9350753\/oxy.png",
+                    "Url": "\/coins\/oxy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 372029,
+                    "Name": "AIX",
+                    "FullName": "AIX (AXT)",
+                    "ImageUrl": "\/media\/14913467\/axt.png",
+                    "Url": "\/coins\/axt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 374246,
+                    "Name": "Decision Token",
+                    "FullName": "Decision Token (HST)",
+                    "ImageUrl": "\/media\/14913538\/hst.png",
+                    "Url": "\/coins\/hst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4579,
+                    "Name": "NovaCoin",
+                    "FullName": "NovaCoin (NVC)",
+                    "ImageUrl": "\/media\/20713\/nvc.png",
+                    "Url": "\/coins\/nvc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4562,
+                    "Name": "MintCoin",
+                    "FullName": "MintCoin (MINT)",
+                    "ImageUrl": "\/media\/19797\/mint.png",
+                    "Url": "\/coins\/mint\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4523,
+                    "Name": "FastCoin",
+                    "FullName": "FastCoin (FST)",
+                    "ImageUrl": "\/media\/19720\/fst.png",
+                    "Url": "\/coins\/fst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4431,
+                    "Name": "Diamond",
+                    "FullName": "Diamond (DMD)",
+                    "ImageUrl": "\/media\/19680\/dmd.png",
+                    "Url": "\/coins\/dmd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 194567,
+                    "Name": "BlockCAT",
+                    "FullName": "BlockCAT (CAT)",
+                    "ImageUrl": "\/media\/1383848\/bcat1.png",
+                    "Url": "\/coins\/catstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 534131,
+                    "Name": "abhijeetdarla",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/534131\/1871d007-5f11-4a4b-8ba3-71316cc0ac7c.jpg",
+                    "Url": "\/profile\/abhijeetdarla\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 382031,
+                    "Name": "arnoudgernaat",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/382031\/7027b2a8-a088-49fe-a3a4-9e6155a50c66.jpg",
+                    "Url": "\/profile\/arnoudgernaat\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 664423,
+                    "Name": "fozzgud",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/664423\/bd191720-67fa-4faf-bff9-0fb038849259.jpg",
+                    "Url": "\/profile\/fozzgud\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 644589,
+                    "Name": "alex_litza",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/644589\/bc4b4d46-85e0-4601-86c2-b5c971d3fb7c.jpg",
+                    "Url": "\/profile\/alex_litza\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 103852,
+                    "Name": "raoul.s",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/103852\/c64b9688-6ebd-4203-a439-7be69e7492d7.jpg",
+                    "Url": "\/profile\/raoul.s\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 416960,
+                    "Name": "BorkBork",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/416960\/d2ddbad0-f66c-47c8-a215-4b474d31fb24.png",
+                    "Url": "\/profile\/BorkBork\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 573210,
+                    "Name": "edwineliecer",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/573210\/087c7362-6afd-42a3-82a7-5bbcb8a0a72d.jpg",
+                    "Url": "\/profile\/edwineliecer\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 85686,
+                    "Name": "khopcus",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/85686\/fb96aebe-bbbd-46ab-9f13-23b7dafc7ce4.jpg",
+                    "Url": "\/profile\/khopcus\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 525381,
+                    "Name": "mike.cas",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/525381\/5df04e1b-f290-4173-ba3b-f02ad425a4ae.jpg",
+                    "Url": "\/profile\/mike.cas\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 628090,
+                    "Name": "gerrit_dollen",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/628090\/e20fc96f-7024-49b7-9c3c-f4d3d1d7e28f.jpg",
+                    "Url": "\/profile\/gerrit_dollen\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 136,
+            "Posts": "19",
+            "Comments": "6",
+            "Points": 3935,
+            "PageViewsSplit": {
+                "Overview": 12460,
+                "Markets": 802,
+                "Analysis": 438,
+                "Charts": 2245,
+                "Trades": 496,
+                "Orderbook": 13,
+                "Forum": 663,
+                "Influence": 183
+            },
+            "PageViews": 17300
+        },
+        "Twitter": {
+            "favourites": "60",
+            "statuses": 794,
+            "following": "229",
+            "account_creation": "1393844348",
+            "name": "StartCOIN",
+            "link": "https:\/\/twitter.com\/start_coin",
+            "lists": 192,
+            "followers": 7361,
+            "Points": 8321
+        },
+        "Reddit": {
+            "comments_per_hour": "0.00",
+            "comments_per_day": 0.04,
+            "link": "https:\/\/www.reddit.com\/r\/startcoin\/",
+            "posts_per_day": "0.03",
+            "active_users": 5,
+            "subscribers": 136,
+            "posts_per_hour": "0.00",
+            "community_creation": "1402683008",
+            "name": "startcoin",
+            "Points": 151
+        },
+        "Facebook": {
+            "likes": 1655,
+            "name": "Startcoin",
+            "link": "https:\/\/www.facebook.com\/startcoin\/",
+            "talking_about": "18",
+            "is_closed": "false",
+            "Points": 1655
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "last_update": "1515793222",
+                    "url": "https:\/\/github.com\/startcoin-project\/startcoin",
+                    "subscribers": 19,
+                    "size": "19644",
+                    "created_at": "1394214893",
+                    "open_pull_issues": "0",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "3",
+                    "stars": 15,
+                    "forks": 16,
+                    "closed_pull_issues": "6",
+                    "closed_total_issues": "13",
+                    "open_issues": "3",
+                    "closed_issues": "7",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1501887699"
+                }
+            ],
+            "Points": 104
+        }
+    }
+}

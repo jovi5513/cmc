@@ -1,0 +1,85 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "SuperCoin (SUPER) - Overview, Forum, Live Streaming Markets, Charts and Trades",
+            "PageDescription": "SuperCoin (SUPER) is an X11 PoW\/PoS hybrid that has a 90 second block time and a difficulty retargetting each block. The PoS block time is 20 seconds per block with a high first year annual rate of 100%, dropping to 50% in year 2, and a final 1% in year 3.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/20061\/super.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "4615",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "SuperCoin (SUPER)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "SUPER",
+            "Url": "\/coins\/super\/",
+            "BaseAngularUrl": "\/coins\/super\/",
+            "Name": "SuperCoin",
+            "ImageUrl": "\/media\/20061\/super.png",
+            "Description": "<p>SuperCoin (SUPER) is an X11 PoW\/PoS hybrid that has a 90 second block time and a difficulty retargetting each block. The PoS block time is 20 seconds per block with a high first year annual rate of 100%, dropping to 50% in year 2, and a final 1% in year 3. The PoW payout halves the block reward every 45 days from an initial 512 SUPER, to a minimum of 1 coin per block. There are also superblocks every 3 hours of 4x the normal payout, every day of 16x the normal payout, and every five days 128x the normal payout. There was a 5% premine for IPOing the coin.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "150000000",
+            "Algorithm": "X11",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "12\/06\/2014",
+            "Twitter": "@CoinSuper ",
+            "AffiliateUrl": "https:\/\/bitcointalk.org\/index.php?topic=618552.0",
+            "Website": "<a href='https:\/\/bitcointalk.org\/index.php?topic=618552.0' target='_blank'>SuperCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515948138,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 4698131,
+            "BlockTime": 0,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 47869111.774847,
+            "PreviousTotalCoinsMined": 47869110.957861,
+            "BlockReward": 0.045459449291229
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~SUPER~BTC",
+            "2~Yobit~SUPER~ETH",
+            "2~Novaexchange~SUPER~ETH",
+            "2~Yobit~SUPER~WAVES",
+            "2~Yobit~SUPER~DOGE",
+            "2~Novaexchange~SUPER~BTC",
+            "2~Yobit~SUPER~BTC",
+            "2~Cryptsy~SUPER~BTC",
+            "2~Cryptsy~SUPER~LTC",
+            "2~CCEX~SUPER~DOGE",
+            "2~Yobit~SUPER~USD",
+            "2~Yobit~SUPER~RUR",
+            "2~Cryptsy~SUPER~XRP",
+            "2~BitTrex~SUPER~BTC",
+            "2~CCEX~SUPER~LTC",
+            "2~CCEX~SUPER~USD"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~SUPER~BTC~4~0.00000397~1515918654~110~0.0004367~200000021~2925.05007997~0.0095830875821797~3031.02194697~0.0099974375821497~0.00000391~0.00000397~0.00000324~0.00000391~0.00000397~0.00000324~Yobit~7ffe9",
+            "5~CCCAGG~SUPER~ETH~4~0.00045~1514635439~333.33333333~0.1499999999985~176925163~0~0~0~0~0.00045~0.00045~0.00045~0.00045~0.00045~0.00045~Yobit~7ffe9",
+            "5~CCCAGG~SUPER~WAVES~4~0.0019031~1514958575~220.43973777~0.419518864950087~178550827~0~0~0~0~0.001903~0.0019031~0.001903~0.0019031~0.0019031~0.0019031~Yobit~7ffe9",
+            "5~CCCAGG~SUPER~DOGE~4~4.0481068~1515527172~45.473434~184.0813173947512~183083072~0~0~0~0~4.05~4.05~4.0481068~4.0481068~4.0481068~4.0481068~Yobit~7ffe9",
+            "5~CCCAGG~SUPER~LTC~4~0.00099998~1459961942~14.9699994~0.014969700000012~1459961942001~0~0~0~0~0.00099998~0.00099998~0.00099998~0.00099998~0.00099998~0.00099998~CCEX~7ffe9",
+            "5~CCCAGG~SUPER~USD~4~0.027~1515253105~3.94656421~0.10655723367~180776387~0~0~0~0~0.027~0.027~0.027~0.027~0.027~0.027~Yobit~7ffe9",
+            "5~CCCAGG~SUPER~RUR~4~2.21~1515888748~34.32136683~75.88801606988055~200000008~77~170.25479394~77~170.25479394~3.64~3.64~2.21~3.64~3.64~2.21~Yobit~7ffe9",
+            "5~CCCAGG~SUPER~XRP~4~0.09294071~1430778931~2.10085348~0.19525481~92150785~0~0~0.09294071~0.09294071~0.09294071~Cryptsy~78ce9"
+        ]
+    },
+    "Type": 100
+}

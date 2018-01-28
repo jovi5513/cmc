@@ -1,0 +1,189 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SHORTY",
+            "CoinName": "ShortyCoin",
+            "Type": "Webpagecoinp",
+            "Points": 127
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 63312,
+                    "Name": "EmporiumCoin",
+                    "FullName": "EmporiumCoin (EMPC)",
+                    "ImageUrl": "\/media\/1383081\/empc.png",
+                    "Url": "\/coins\/empc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28330,
+                    "Name": "Gold Pressed Latinum",
+                    "FullName": "Gold Pressed Latinum (GPL)",
+                    "ImageUrl": "\/media\/351525\/gpl.png",
+                    "Url": "\/coins\/gpl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22177,
+                    "Name": "Obscurebay",
+                    "FullName": "Obscurebay (OBS)",
+                    "ImageUrl": "\/media\/351064\/obs.png",
+                    "Url": "\/coins\/obs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 667444,
+                    "Name": "TheGCCcoin",
+                    "FullName": "TheGCCcoin (GCC*)",
+                    "ImageUrl": "\/media\/20780778\/gcc.png",
+                    "Url": "\/coins\/gccstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24405,
+                    "Name": "BitMoon",
+                    "FullName": "BitMoon (BM)",
+                    "ImageUrl": "\/media\/351311\/bm.png",
+                    "Url": "\/coins\/bm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43257,
+                    "Name": "SmurfCoin",
+                    "FullName": "SmurfCoin (SMF)",
+                    "ImageUrl": "\/media\/1382468\/xmf.png",
+                    "Url": "\/coins\/smf\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44749,
+                    "Name": "ErrorCoin",
+                    "FullName": "ErrorCoin (ERR)",
+                    "ImageUrl": "\/media\/1382624\/err.png",
+                    "Url": "\/coins\/err\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7624,
+                    "Name": "SpinCoin",
+                    "FullName": "SpinCoin (SPC)",
+                    "ImageUrl": "\/media\/20655\/spc.png",
+                    "Url": "\/coins\/spc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35947,
+                    "Name": "NewInvestCoin",
+                    "FullName": "NewInvestCoin (NIC)",
+                    "ImageUrl": "\/media\/352309\/nic.png",
+                    "Url": "\/coins\/nic\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 58125,
+                    "Name": "CryptoJournal",
+                    "FullName": "CryptoJournal (CJC)",
+                    "ImageUrl": "\/media\/1382887\/cjc.png",
+                    "Url": "\/coins\/cjc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 396984,
+                    "Name": "z9387y",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/396984\/e9f9945d-d279-4391-910b-65ad0a2e98a4.jpg",
+                    "Url": "\/profile\/z9387y\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 361262,
+                    "Name": "tailorsmith",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/361262\/2277d91e-3a77-44ea-a993-36933ab4e116.jpg",
+                    "Url": "\/profile\/tailorsmith\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 221784,
+                    "Name": "imaddnitti",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/221784\/40465baf-fbda-42cd-8764-ef1d406fc4ef.jpg",
+                    "Url": "\/profile\/imaddnitti\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 254521,
+                    "Name": "shortyyorty",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/254521\/4ea2fbc8-c6ce-453a-85b2-7c94efe4ddc6.jpg",
+                    "Url": "\/profile\/shortyyorty\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 166851,
+                    "Name": "DBFC5376",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/166851\/71c7fe8b-5baa-4f7e-b6e0-08e83192c172.jpg",
+                    "Url": "\/profile\/DBFC5376\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "PageViewsSplit": {
+                "Overview": 468,
+                "Markets": 34,
+                "Analysis": 55,
+                "Charts": 23,
+                "Trades": 22,
+                "Orderbook": 0,
+                "Forum": 12,
+                "Influence": 14
+            },
+            "PageViews": 628
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 0,
+                    "language": "C++",
+                    "forks": 1,
+                    "open_total_issues": "0",
+                    "subscribers": 0,
+                    "size": "2569",
+                    "url": "https:\/\/github.com\/shortysho\/shorty",
+                    "last_update": "1480854892",
+                    "last_push": "1480854886",
+                    "created_at": "1480845338",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 2
+        }
+    }
+}

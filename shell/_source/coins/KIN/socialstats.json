@@ -1,0 +1,250 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "KIN",
+            "CoinName": "Kin",
+            "Type": "Webpagecoinp",
+            "Points": 49274
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 172091,
+                    "Name": "RaiBlocks",
+                    "FullName": "RaiBlocks (XRB)",
+                    "ImageUrl": "\/media\/1383674\/xrb.png",
+                    "Url": "\/coins\/xrb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 2349,
+                    "Name": "PeerCoin",
+                    "FullName": "PeerCoin (PPC)",
+                    "ImageUrl": "\/media\/19864\/peercoin-logo.png",
+                    "Url": "\/coins\/ppc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44003,
+                    "Name": "PacCoin",
+                    "FullName": "PacCoin (PAC)",
+                    "ImageUrl": "\/media\/20780670\/pac.png",
+                    "Url": "\/coins\/pac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 314580,
+                    "Name": "Salt Lending",
+                    "FullName": "Salt Lending (SALT)",
+                    "ImageUrl": "\/media\/9350744\/salt.jpg",
+                    "Url": "\/coins\/salt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 75475,
+                    "Name": "MinersReward",
+                    "FullName": "MinersReward (MRT)",
+                    "ImageUrl": "\/media\/350884\/waves_1.png",
+                    "Url": "\/coins\/mrt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 218906,
+                    "Name": "Dentacoin",
+                    "FullName": "Dentacoin (DCN)",
+                    "ImageUrl": "\/media\/1383999\/dcn.png",
+                    "Url": "\/coins\/dcn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 136244,
+                    "Name": "SONM",
+                    "FullName": "SONM (SNM)",
+                    "ImageUrl": "\/media\/1383564\/snm.png",
+                    "Url": "\/coins\/snm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4440,
+                    "Name": "Einsteinium",
+                    "FullName": "Einsteinium (EMC2)",
+                    "ImageUrl": "\/media\/20033\/emc2.png",
+                    "Url": "\/coins\/emc2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 170452,
+                    "Name": "AdEx",
+                    "FullName": "AdEx (ADX)",
+                    "ImageUrl": "\/media\/1383667\/adx1.png",
+                    "Url": "\/coins\/adx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 299774,
+                    "Name": "U.CASH",
+                    "FullName": "U.CASH (UCASH)",
+                    "ImageUrl": "\/media\/12317962\/xuc.png",
+                    "Url": "\/coins\/ucash\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 677639,
+                    "Name": "kilametis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677639\/bc1e3bba-a1a0-4877-8179-30b410ef1ee4.jpg",
+                    "Url": "\/profile\/kilametis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 101985,
+                    "Name": "kennykandola89",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/101985\/5029a190-20e9-48f0-be69-5f6cae4ab982.jpg",
+                    "Url": "\/profile\/kennykandola89\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 86253,
+                    "Name": "resp",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/86253\/fa572a2f-afc1-49c1-be46-f56fcb641eff.jpg",
+                    "Url": "\/profile\/resp\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 317090,
+                    "Name": "unihealercash",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/317090\/574617b4-a545-472d-9cc8-dd445e8dbeff.png",
+                    "Url": "\/profile\/unihealercash\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 668352,
+                    "Name": "carlosagm333",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/668352\/c5d77fcc-8922-4aa8-8ea8-0910a925bc80.jpg",
+                    "Url": "\/profile\/carlosagm333\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 558241,
+                    "Name": "9569770",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/558241\/ff15285b-d2c4-4a30-acb7-d27a322c01ce.jpg",
+                    "Url": "\/profile\/9569770\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 45405,
+                    "Name": "mr.john.shine",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/45405\/f645e44f-83c3-46f7-9d8f-1af6a1f9e797.jpg",
+                    "Url": "\/profile\/mr.john.shine\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 271519,
+                    "Name": "b.penman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/271519\/81842740-fb67-47e9-9e95-dd5d21747061.jpg",
+                    "Url": "\/profile\/b.penman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 640088,
+                    "Name": "carlo444",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/640088\/f703c22e-9a7d-42bd-bf1c-df0276ea2b47.jpg",
+                    "Url": "\/profile\/carlo444\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 674303,
+                    "Name": "penacat9",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/674303\/9a1d4b68-5217-420d-bf22-f2b077ce58cf.jpg",
+                    "Url": "\/profile\/penacat9\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 651101,
+                    "Name": "rocamboli",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/651101\/df8dd774-9a95-4e46-81ef-8435305880ad.jpg",
+                    "Url": "\/profile\/rocamboli\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 21225,
+            "Followers": 553,
+            "Posts": "176",
+            "Comments": "300",
+            "PageViewsSplit": {
+                "Overview": 69086,
+                "Markets": 6303,
+                "Analysis": 3646,
+                "Charts": 4682,
+                "Trades": 6217,
+                "Orderbook": 86,
+                "Forum": 11428,
+                "Influence": 713
+            },
+            "PageViews": 102161
+        },
+        "Twitter": {
+            "following": "85",
+            "account_creation": "1494865078",
+            "name": "Kin Foundation",
+            "lists": 247,
+            "statuses": 339,
+            "favourites": "82",
+            "followers": 17721,
+            "link": "https:\/\/twitter.com\/kin_foundation",
+            "Points": 18956
+        },
+        "Reddit": {
+            "posts_per_hour": "1.29",
+            "comments_per_hour": "16.96",
+            "posts_per_day": "30.96",
+            "comments_per_day": 407.05,
+            "name": "KinFoundation",
+            "link": "https:\/\/www.reddit.com\/r\/KinFoundation\/",
+            "active_users": 310,
+            "community_creation": "1494876154",
+            "subscribers": 7205,
+            "Points": 8949
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1504625138",
+                    "open_total_issues": "2",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "178",
+                    "closed_total_issues": "13",
+                    "stars": 46,
+                    "last_update": "1515690663",
+                    "forks": 14,
+                    "url": "https:\/\/github.com\/kinfoundation\/kin-token",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "13",
+                    "fork": "false",
+                    "last_push": "1509559858",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "JavaScript",
+                    "subscribers": 20,
+                    "open_issues": "2"
+                }
+            ],
+            "Points": 134
+        }
+    }
+}

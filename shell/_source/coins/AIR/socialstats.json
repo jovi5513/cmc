@@ -1,0 +1,242 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "AIR",
+            "CoinName": "AirToken",
+            "Type": "Webpagecoinp",
+            "Points": 9752
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 35678,
+                    "Name": "Nexium",
+                    "FullName": "Nexium (NXC)",
+                    "ImageUrl": "\/media\/352248\/nxc.png",
+                    "Url": "\/coins\/nxc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 345674,
+                    "Name": "CryptoPay",
+                    "FullName": "CryptoPay (CPAY)",
+                    "ImageUrl": "\/media\/12318303\/cpay.png",
+                    "Url": "\/coins\/cpay\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 324012,
+                    "Name": "Earth Token",
+                    "FullName": "Earth Token (EARTH)",
+                    "ImageUrl": "\/media\/12318190\/earth.png",
+                    "Url": "\/coins\/earth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28323,
+                    "Name": "Verium",
+                    "FullName": "Verium (VRM)",
+                    "ImageUrl": "\/media\/351522\/vrm.png",
+                    "Url": "\/coins\/vrm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5032,
+                    "Name": "StealthCoin",
+                    "FullName": "StealthCoin (XST)",
+                    "ImageUrl": "\/media\/20077\/xst.png",
+                    "Url": "\/coins\/xst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 345017,
+                    "Name": "Authorship",
+                    "FullName": "Authorship (ATS)",
+                    "ImageUrl": "\/media\/12318356\/ats.png",
+                    "Url": "\/coins\/ats\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 180013,
+                    "Name": "OpenANX",
+                    "FullName": "OpenANX (OAX)",
+                    "ImageUrl": "\/media\/1383756\/oax.png",
+                    "Url": "\/coins\/oax\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 320412,
+                    "Name": "Global Jobcoin",
+                    "FullName": "Global Jobcoin (GJC)",
+                    "ImageUrl": "\/media\/12318166\/gjc.png",
+                    "Url": "\/coins\/gjc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 71334,
+                    "Name": "ProCurrency",
+                    "FullName": "ProCurrency (PROC)",
+                    "ImageUrl": "\/media\/1383159\/proc.png",
+                    "Url": "\/coins\/proc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37366,
+                    "Name": "PandaCoin",
+                    "FullName": "PandaCoin (PND)",
+                    "ImageUrl": "\/media\/12318184\/pnd.png",
+                    "Url": "\/coins\/pnd\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 587684,
+                    "Name": "dezl_v",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/587684\/350a573d-06c3-4c0d-8bd3-3af7e333b43b.jpg",
+                    "Url": "\/profile\/dezl_v\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 661156,
+                    "Name": "anru1983",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/661156\/879ea30d-65e3-4cab-8795-fe556767a7b0.jpg",
+                    "Url": "\/profile\/anru1983\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 417280,
+                    "Name": "tmftmf",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/417280\/ecdbf053-3ab1-451a-b4ce-1784941f8669.jpg",
+                    "Url": "\/profile\/tmftmf\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 632035,
+                    "Name": "reznikoff161",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/632035\/160d56e6-85b7-4f91-baa5-4d4db7aa62fb.jpg",
+                    "Url": "\/profile\/reznikoff161\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 210234,
+                    "Name": "ifoundation007",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/210234\/073dd09c-e7d5-4655-a2e3-f38a98e8d8d1.jpg",
+                    "Url": "\/profile\/ifoundation007\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 553724,
+                    "Name": "asjenkings",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/553724\/b03ed687-da53-4bc7-8d42-6c23ae5e682f.jpg",
+                    "Url": "\/profile\/asjenkings\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670277,
+                    "Name": "sam.eugeniy",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670277\/929ee37d-5da5-46aa-a532-f0bf2e99b55f.jpg",
+                    "Url": "\/profile\/sam.eugeniy\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 665065,
+                    "Name": "nashxp10",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/665065\/f756d7d5-feae-4656-8b84-e71ea6335d43.jpg",
+                    "Url": "\/profile\/nashxp10\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 534530,
+                    "Name": "tony777",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/534530\/2d6cf944-aa59-44a8-b484-0d25e3d2ea0b.jpg",
+                    "Url": "\/profile\/tony777\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 654555,
+                    "Name": "sumrak12121",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/654555\/cbc4954c-9afa-4bf3-a110-657347691ce2.jpg",
+                    "Url": "\/profile\/sumrak12121\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 535445,
+                    "Name": "fkariuki",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/535445\/1ea94aab-72e1-4d75-b242-b39d30105278.jpg",
+                    "Url": "\/profile\/fkariuki\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 3650,
+            "Followers": 130,
+            "Posts": "14",
+            "Comments": "5",
+            "PageViewsSplit": {
+                "Overview": 8634,
+                "Markets": 590,
+                "Analysis": 140,
+                "Charts": 468,
+                "Trades": 508,
+                "Orderbook": 4,
+                "Forum": 434,
+                "Influence": 66
+            },
+            "PageViews": 10844
+        },
+        "Twitter": {
+            "following": "201",
+            "account_creation": "1501627593",
+            "name": "AirToken (AIR)",
+            "lists": 95,
+            "statuses": 241,
+            "favourites": "127",
+            "followers": 5622,
+            "link": "https:\/\/twitter.com\/airtoken",
+            "Points": 6097
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/AirToken\/\/",
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1499659173",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "11",
+                    "closed_total_issues": "0",
+                    "stars": 1,
+                    "last_update": "1510773570",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/AirFoxOfficial\/AirTokenContract",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1505275359",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "null",
+                    "subscribers": 1,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 4
+        }
+    }
+}

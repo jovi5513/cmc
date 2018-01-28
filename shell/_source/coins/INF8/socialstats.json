@@ -1,0 +1,233 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "INF8",
+            "CoinName": "Infinium-8",
+            "Type": "Webpagecoinp",
+            "Points": 4703
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4579,
+                    "Name": "NovaCoin",
+                    "FullName": "NovaCoin (NVC)",
+                    "ImageUrl": "\/media\/20713\/nvc.png",
+                    "Url": "\/coins\/nvc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4562,
+                    "Name": "MintCoin",
+                    "FullName": "MintCoin (MINT)",
+                    "ImageUrl": "\/media\/19797\/mint.png",
+                    "Url": "\/coins\/mint\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4523,
+                    "Name": "FastCoin",
+                    "FullName": "FastCoin (FST)",
+                    "ImageUrl": "\/media\/19720\/fst.png",
+                    "Url": "\/coins\/fst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 194567,
+                    "Name": "BlockCAT",
+                    "FullName": "BlockCAT (CAT)",
+                    "ImageUrl": "\/media\/1383848\/bcat1.png",
+                    "Url": "\/coins\/catstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4431,
+                    "Name": "Diamond",
+                    "FullName": "Diamond (DMD)",
+                    "ImageUrl": "\/media\/19680\/dmd.png",
+                    "Url": "\/coins\/dmd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 176669,
+                    "Name": "Nimiq Exchange Token",
+                    "FullName": "Nimiq Exchange Token (NET*)",
+                    "ImageUrl": "\/media\/1383697\/net1.png",
+                    "Url": "\/coins\/netstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20691,
+                    "Name": "YoCoin",
+                    "FullName": "YoCoin (YOC)",
+                    "ImageUrl": "\/media\/350957\/yoc.png",
+                    "Url": "\/coins\/yoc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 238733,
+                    "Name": "Ambrosus",
+                    "FullName": "Ambrosus (AMB)",
+                    "ImageUrl": "\/media\/9350739\/amb.png",
+                    "Url": "\/coins\/amb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 72955,
+                    "Name": "Blockchain Capital",
+                    "FullName": "Blockchain Capital (BCAP)",
+                    "ImageUrl": "\/media\/1383948\/bcap1.png",
+                    "Url": "\/coins\/bcap\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5029,
+                    "Name": "PrimeCoin",
+                    "FullName": "PrimeCoin (XPM)",
+                    "ImageUrl": "\/media\/19970\/xpm.png",
+                    "Url": "\/coins\/xpm\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 676118,
+                    "Name": "dl.play",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676118\/2917cdb0-d4b4-4ea1-a005-8f7af360b4cf.jpg",
+                    "Url": "\/profile\/dl.play\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676600,
+                    "Name": "plano.topgeral",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676600\/dd1d55ee-aede-4a75-b72c-ba8866baff51.jpg",
+                    "Url": "\/profile\/plano.topgeral\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 666858,
+                    "Name": "haima55",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/666858\/b4263d5b-6c1c-40fe-9432-19b98556725c.jpg",
+                    "Url": "\/profile\/haima55\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 32924,
+                    "Name": "Acritikey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/32924\/495b3eac-14c7-4994-b0eb-92127a25bf14.png",
+                    "Url": "\/profile\/Acritikey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 436255,
+                    "Name": "kosmastatsis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/436255\/e26549a6-569c-4db5-b752-26ee7974522a.jpg",
+                    "Url": "\/profile\/kosmastatsis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 522581,
+                    "Name": "ferreira20",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/522581\/691823a2-49a6-40b2-a2fd-9cda6a1a8823.jpg",
+                    "Url": "\/profile\/ferreira20\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 650067,
+                    "Name": "agonkarelli",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/650067\/6f71ab99-07be-4821-a41b-d261cece0ad2.jpg",
+                    "Url": "\/profile\/agonkarelli\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 297700,
+                    "Name": "brankokv",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/297700\/2b73c2ed-8999-49f6-ab28-3354095c1228.jpg",
+                    "Url": "\/profile\/brankokv\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 251603,
+                    "Name": "notifications",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/251603\/5152f379-60a5-432c-9a5c-0b4bea3ebd04.jpg",
+                    "Url": "\/profile\/notifications\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 196466,
+                    "Name": "djmaskit93",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/196466\/e9aa272c-2d5e-4094-b12a-df50f2899fa5.jpg",
+                    "Url": "\/profile\/djmaskit93\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 205922,
+                    "Name": "anderson1265",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/205922\/32295ca0-b7ec-4805-b3fe-5b4dc24d4e34.png",
+                    "Url": "\/profile\/anderson1265\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 4680,
+            "Posts": "21",
+            "Comments": "13",
+            "Followers": 161,
+            "PageViewsSplit": {
+                "Overview": 54775,
+                "Markets": 854,
+                "Analysis": 2167,
+                "Charts": 704,
+                "Trades": 279,
+                "Orderbook": 68,
+                "Forum": 1498,
+                "Influence": 801
+            },
+            "PageViews": 61146
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1405679712",
+                    "open_total_issues": "1",
+                    "fork": "true",
+                    "parent": {
+                        "Name": "cryptonote",
+                        "Url": "https:\/\/github.com\/cryptonotefoundation\/cryptonote",
+                        "InternalId": -1
+                    },
+                    "last_push": "1405684205",
+                    "closed_total_issues": "0",
+                    "size": "7417",
+                    "stars": 3,
+                    "source": {
+                        "Name": "bytecoin",
+                        "Url": "https:\/\/github.com\/amjuarez\/bytecoin",
+                        "InternalId": -1
+                    },
+                    "last_update": "1512859997",
+                    "open_pull_issues": "0",
+                    "forks": 4,
+                    "url": "https:\/\/github.com\/converging\/infinium",
+                    "closed_issues": "0",
+                    "open_issues": "1",
+                    "subscribers": 2,
+                    "language": "C++",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 17
+        }
+    }
+}

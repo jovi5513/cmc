@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CARBON",
+            "CoinName": "Carboncoin",
+            "Type": "Webpagecoinp",
+            "Points": 9397
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 42598,
+                    "Name": "Spectre",
+                    "FullName": "Spectre (XSPEC)",
+                    "ImageUrl": "\/media\/1382395\/xspec.png",
+                    "Url": "\/coins\/xspec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 337162,
+                    "Name": "AirSwap",
+                    "FullName": "AirSwap (AST)",
+                    "ImageUrl": "\/media\/12318279\/ast.png",
+                    "Url": "\/coins\/ast\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 198474,
+                    "Name": "BrickBlock",
+                    "FullName": "BrickBlock (BBT*)",
+                    "ImageUrl": "\/media\/1383883\/bbt.png",
+                    "Url": "\/coins\/bbtstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 586088,
+                    "Name": "DeepBrain Chain",
+                    "FullName": "DeepBrain Chain (DBC)",
+                    "ImageUrl": "\/media\/20780608\/dbc.png",
+                    "Url": "\/coins\/dbc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4540,
+                    "Name": "IOCoin",
+                    "FullName": "IOCoin (IOC)",
+                    "ImageUrl": "\/media\/20042\/ioc.png",
+                    "Url": "\/coins\/ioc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 310812,
+                    "Name": "Sumokoin",
+                    "FullName": "Sumokoin (SUMO)",
+                    "ImageUrl": "\/media\/12318088\/sumo.png",
+                    "Url": "\/coins\/sumo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5339,
+                    "Name": "LiteDoge",
+                    "FullName": "LiteDoge (LDOGE)",
+                    "ImageUrl": "\/media\/20332\/ldoge.png",
+                    "Url": "\/coins\/ldoge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 179947,
+                    "Name": "Starbase",
+                    "FullName": "Starbase (STAR)",
+                    "ImageUrl": "\/media\/1383750\/star1.png",
+                    "Url": "\/coins\/star\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 242873,
+                    "Name": "Oxycoin",
+                    "FullName": "Oxycoin (OXY)",
+                    "ImageUrl": "\/media\/9350753\/oxy.png",
+                    "Url": "\/coins\/oxy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 372029,
+                    "Name": "AIX",
+                    "FullName": "AIX (AXT)",
+                    "ImageUrl": "\/media\/14913467\/axt.png",
+                    "Url": "\/coins\/axt\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 330347,
+                    "Name": "i.okwor71",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/330347\/9b50aa34-903e-4fe4-b132-6ad658f8fc6b.jpg",
+                    "Url": "\/profile\/i.okwor71\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 556356,
+                    "Name": "golan3424",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/556356\/7006584b-83a0-4242-9e71-203735693c31.jpg",
+                    "Url": "\/profile\/golan3424\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 410169,
+                    "Name": "dean234",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/410169\/77dd9cb6-6b5a-440a-96ac-a4b0d66875c2.jpg",
+                    "Url": "\/profile\/dean234\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 669514,
+                    "Name": "pjclutterbuck",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/669514\/6f5bb7fc-cfce-456b-97b1-b5a3aaab15db.jpg",
+                    "Url": "\/profile\/pjclutterbuck\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 669040,
+                    "Name": "antoinegilard",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/669040\/2ba006c8-fcfe-46ea-b6db-508d0b3d1241.jpg",
+                    "Url": "\/profile\/antoinegilard\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 381890,
+                    "Name": "JpSilva",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/381890\/ea8c2b5a-6a4b-4fed-a35d-a7be0d977869.png",
+                    "Url": "\/profile\/JpSilva\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 639866,
+                    "Name": "thisisink01",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/639866\/8aa5e16a-02d2-4ca4-a008-95837c16c7c4.jpg",
+                    "Url": "\/profile\/thisisink01\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 457327,
+                    "Name": "itsec.consultant",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/457327\/2441f1c9-622a-4911-8a35-ff2c2debf5e0.jpg",
+                    "Url": "\/profile\/itsec.consultant\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 622141,
+                    "Name": "DavidLopez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/622141\/a3ecdb79-06e4-4705-845a-751928c7c4e0.jpg",
+                    "Url": "\/profile\/DavidLopez\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 45787,
+                    "Name": "love-2009-",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/45787\/ccb32d39-22dd-477c-9402-d660972c57d0.jpg",
+                    "Url": "\/profile\/love-2009-\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 485156,
+                    "Name": "rico.da.rebeira",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/485156\/39b5d111-3202-42e1-bded-c1f1a2c7c594.jpg",
+                    "Url": "\/profile\/rico.da.rebeira\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 5115,
+            "Followers": 135,
+            "Posts": "46",
+            "Comments": "59",
+            "PageViewsSplit": {
+                "Overview": 11153,
+                "Markets": 533,
+                "Analysis": 233,
+                "Charts": 450,
+                "Trades": 451,
+                "Orderbook": 0,
+                "Forum": 1744,
+                "Influence": 72
+            },
+            "PageViews": 14636
+        },
+        "Twitter": {
+            "following": "1753",
+            "account_creation": "1393848313",
+            "name": "Carboncoin",
+            "lists": 69,
+            "statuses": 1186,
+            "favourites": "441",
+            "followers": 3132,
+            "link": "https:\/\/twitter.com\/truecarboncoin",
+            "Points": 3478
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 777,
+            "link": "https:\/\/www.facebook.com\/carboncoin\/",
+            "is_closed": "false",
+            "talking_about": "147",
+            "name": "Carboncoin",
+            "Points": 777
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1404093326",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "12666",
+                    "closed_total_issues": "0",
+                    "stars": 7,
+                    "last_update": "1515786622",
+                    "forks": 2,
+                    "url": "https:\/\/github.com\/carboncointrust\/CarboncoinCore",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1515106733",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 5,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 26
+        }
+    }
+}

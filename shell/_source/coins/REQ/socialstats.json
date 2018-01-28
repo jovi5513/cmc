@@ -1,0 +1,218 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "REQ",
+            "CoinName": "Request Network",
+            "Type": "Webpagecoinp",
+            "Points": 47008
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 30022,
+                    "Name": "ZCoin",
+                    "FullName": "ZCoin (XZC)",
+                    "ImageUrl": "\/media\/1382780\/xzc1.png",
+                    "Url": "\/coins\/xzc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 116180,
+                    "Name": "ZenCash",
+                    "FullName": "ZenCash (ZEN)",
+                    "ImageUrl": "\/media\/1383502\/zen.png",
+                    "Url": "\/coins\/zen\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22327,
+                    "Name": "Bancor Network Token",
+                    "FullName": "Bancor Network Token (BNT)",
+                    "ImageUrl": "\/media\/1383549\/bnt.jpg",
+                    "Url": "\/coins\/bnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 208914,
+                    "Name": "Monetha",
+                    "FullName": "Monetha (MTH)",
+                    "ImageUrl": "\/media\/1383976\/mth.png",
+                    "Url": "\/coins\/mth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 299397,
+                    "Name": "Waltonchain",
+                    "FullName": "Waltonchain (WTC)",
+                    "ImageUrl": "\/media\/12317959\/wtc.png",
+                    "Url": "\/coins\/wtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340940,
+                    "Name": "WaBi",
+                    "FullName": "WaBi (WABI)",
+                    "ImageUrl": "\/media\/12318331\/wabi.png",
+                    "Url": "\/coins\/wabi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29348,
+                    "Name": "Peerplays",
+                    "FullName": "Peerplays (PPY)",
+                    "ImageUrl": "\/media\/351630\/peerplays.png",
+                    "Url": "\/coins\/ppy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 12194,
+                    "Name": "Expanse",
+                    "FullName": "Expanse (EXP)",
+                    "ImageUrl": "\/media\/20707\/exp.png",
+                    "Url": "\/coins\/exp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20730,
+                    "Name": "AeonCoin",
+                    "FullName": "AeonCoin (AEON)",
+                    "ImageUrl": "\/media\/350955\/aeon.png",
+                    "Url": "\/coins\/aeon\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 67447,
+                    "Name": "Lunyr",
+                    "FullName": "Lunyr (LUN)",
+                    "ImageUrl": "\/media\/1383112\/lunyr-logo.png",
+                    "Url": "\/coins\/lun\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 552961,
+                    "Name": "blackmamba",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/552961\/4732b47c-5dde-4161-b926-a1e0e1f25615.png",
+                    "Url": "\/profile\/blackmamba\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676497,
+                    "Name": "johnclarity",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676497\/a2840ade-158e-4500-bead-76789771533e.jpg",
+                    "Url": "\/profile\/johnclarity\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 621892,
+                    "Name": "sucha.chaisiri",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/621892\/23488493-30cd-429a-9e69-5c63a1d5ec17.jpg",
+                    "Url": "\/profile\/sucha.chaisiri\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 638014,
+                    "Name": "Raphs",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/638014\/22facd2b-d058-4e2c-8ab2-8f07f7eb6906.jpg",
+                    "Url": "\/profile\/Raphs\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 673843,
+                    "Name": "uns.younas",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673843\/f908e9e5-a705-42e7-9b84-14d413a88eca.jpg",
+                    "Url": "\/profile\/uns.younas\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 406075,
+                    "Name": "BLAQLSG",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/406075\/dbdf82bb-f010-4b73-baa0-2c49504cfd20.jpg",
+                    "Url": "\/profile\/BLAQLSG\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 330347,
+                    "Name": "i.okwor71",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/330347\/9b50aa34-903e-4fe4-b132-6ad658f8fc6b.jpg",
+                    "Url": "\/profile\/i.okwor71\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 216841,
+                    "Name": "vox079",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/216841\/72495b44-d359-4b52-a4a8-6c662c468006.jpg",
+                    "Url": "\/profile\/vox079\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 615841,
+                    "Name": "mrquintinjones",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/615841\/29a1bbe2-4b00-41ba-8762-c7fffcd33825.jpg",
+                    "Url": "\/profile\/mrquintinjones\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 137067,
+                    "Name": "7096BF6",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/137067\/52b85091-f074-4a39-855f-ce696f56d8a9.jpg",
+                    "Url": "\/profile\/7096BF6\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 14875,
+            "Posts": "27",
+            "Comments": "15",
+            "Followers": 562,
+            "PageViewsSplit": {
+                "Overview": 46303,
+                "Markets": 3219,
+                "Analysis": 1012,
+                "Charts": 4793,
+                "Trades": 1680,
+                "Orderbook": 10,
+                "Forum": 3127,
+                "Influence": 340
+            },
+            "PageViews": 60484
+        },
+        "Twitter": {
+            "statuses": 179,
+            "favourites": "10",
+            "following": "14",
+            "account_creation": "1500632577",
+            "followers": 27222,
+            "name": "Request Network",
+            "link": "https:\/\/twitter.com\/RequestNetwork",
+            "lists": 371,
+            "Points": 29077
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/RequestNetwork\/\/",
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "292",
+            "name": "Request Network",
+            "likes": 3050,
+            "link": "https:\/\/www.facebook.com\/TheRequestNetwork\/",
+            "Points": 3050
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

@@ -1,0 +1,241 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CDN",
+            "CoinName": "Canada eCoin",
+            "Type": "Webpagecoinp",
+            "Points": 2457
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5375,
+                    "Name": "GreenCoin",
+                    "FullName": "GreenCoin (GRE)",
+                    "ImageUrl": "\/media\/1382396\/grn.png",
+                    "Url": "\/coins\/gre\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 294364,
+                    "Name": "TokenStars",
+                    "FullName": "TokenStars (ACE)",
+                    "ImageUrl": "\/media\/11999076\/ace.png",
+                    "Url": "\/coins\/ace\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45832,
+                    "Name": "Persistent Information Exchange",
+                    "FullName": "Persistent Information Exchange (PIE)",
+                    "ImageUrl": "\/media\/1382686\/pie.png",
+                    "Url": "\/coins\/pie\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32777,
+                    "Name": "ZCashDarkCoin",
+                    "FullName": "ZCashDarkCoin (ZECD)",
+                    "ImageUrl": "\/media\/351935\/zecd.png",
+                    "Url": "\/coins\/zecd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8717,
+                    "Name": "Gram Coin",
+                    "FullName": "Gram Coin (GRAM)",
+                    "ImageUrl": "\/media\/20688\/gram.png",
+                    "Url": "\/coins\/gram\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 322963,
+                    "Name": "Bismuth",
+                    "FullName": "Bismuth (BIS)",
+                    "ImageUrl": "\/media\/12318191\/bis.png",
+                    "Url": "\/coins\/bis\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4539,
+                    "Name": "Infinite Coin",
+                    "FullName": "Infinite Coin (IFC)",
+                    "ImageUrl": "\/media\/19754\/ifc.png",
+                    "Url": "\/coins\/ifc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6102,
+                    "Name": "Gambit coin",
+                    "FullName": "Gambit coin (GAM)",
+                    "ImageUrl": "\/media\/20293\/gam.png",
+                    "Url": "\/coins\/gam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5373,
+                    "Name": "MetalCoin",
+                    "FullName": "MetalCoin (METAL)",
+                    "ImageUrl": "\/media\/20359\/metal.png",
+                    "Url": "\/coins\/metal\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 531559,
+                    "Name": "Bitair",
+                    "FullName": "Bitair (BTCA)",
+                    "ImageUrl": "\/media\/16746705\/btca.png",
+                    "Url": "\/coins\/btca\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 421749,
+                    "Name": "hirob4",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/421749\/ddffda3f-7367-4260-aa3d-14ab5d879971.jpg",
+                    "Url": "\/profile\/hirob4\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 434599,
+                    "Name": "hai.ronen",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/434599\/0c3edd43-9523-4b33-b7e4-7e1d813f7ab4.jpg",
+                    "Url": "\/profile\/hai.ronen\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 211649,
+                    "Name": "tremblay96",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/211649\/3f3565d7-fdee-4028-b81c-d3ddf52e3d47.jpg",
+                    "Url": "\/profile\/tremblay96\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 569953,
+                    "Name": "authenticfilms",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/569953\/26922f74-76fd-44b5-bdc6-731bde3edd10.jpg",
+                    "Url": "\/profile\/authenticfilms\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 424142,
+                    "Name": "AB2BE0B3",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/424142\/dce294b8-cefc-4a21-8f24-6be74d0e6840.jpg",
+                    "Url": "\/profile\/AB2BE0B3\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 554529,
+                    "Name": "treveljah",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/554529\/7fedcf38-6427-4889-b29c-71a67d21676c.jpg",
+                    "Url": "\/profile\/treveljah\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 352453,
+                    "Name": "temotavadze",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/352453\/85bae1b8-c4ea-4a24-97e5-671b9ff7a32c.jpg",
+                    "Url": "\/profile\/temotavadze\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 372618,
+                    "Name": "dylan.ni.esq",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/372618\/29b30745-cc37-4770-b553-56adc8be7089.jpg",
+                    "Url": "\/profile\/dylan.ni.esq\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 331332,
+                    "Name": "jordonl",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/331332\/f219c6c4-8c7a-4022-8516-0a69d10df599.jpg",
+                    "Url": "\/profile\/jordonl\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 465945,
+                    "Name": "ebatitto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/465945\/ebd627d6-cb19-4d02-9544-926b6a15c3f8.jpg",
+                    "Url": "\/profile\/ebatitto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 391929,
+                    "Name": "Bari",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/391929\/465f3073-c79a-49b5-8e77-7d6f7b9d4d88.jpg",
+                    "Url": "\/profile\/Bari\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1305,
+            "Posts": "15",
+            "Comments": "3",
+            "Followers": 36,
+            "PageViewsSplit": {
+                "Overview": 3609,
+                "Markets": 161,
+                "Analysis": 96,
+                "Charts": 169,
+                "Trades": 95,
+                "Orderbook": 2,
+                "Forum": 162,
+                "Influence": 39
+            },
+            "PageViews": 4333
+        },
+        "Twitter": {
+            "statuses": 95,
+            "favourites": "61",
+            "following": "1885",
+            "account_creation": "1394039122",
+            "followers": 996,
+            "name": "Canada eCoin (CDN)",
+            "link": "https:\/\/twitter.com\/ThisIsOurCoin",
+            "lists": 27,
+            "Points": 1131
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1396915444",
+                    "open_total_issues": "1",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1396915508",
+                    "closed_total_issues": "0",
+                    "size": "4212",
+                    "stars": 0,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_update": "1397754652",
+                    "open_pull_issues": "0",
+                    "forks": 6,
+                    "url": "https:\/\/github.com\/ThisIsOurCoin\/canadaecoin",
+                    "closed_issues": "0",
+                    "language": "TypeScript",
+                    "subscribers": 3,
+                    "open_issues": "1",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 21
+        }
+    }
+}

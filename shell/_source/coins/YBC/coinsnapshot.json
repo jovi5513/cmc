@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "YBC",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.3009988",
+            "LASTUPDATE": "1515631911",
+            "LASTVOLUME": "0.00016",
+            "LASTVOLUMETO": "0.00004815980800000001",
+            "LASTTRADEID": "183867070",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.301",
+            "HIGHDAY": "0.301",
+            "LOWDAY": "0.3009988",
+            "OPEN24HOUR": "0.3009988",
+            "HIGH24HOUR": "0.3009988",
+            "LOW24HOUR": "0.3009988",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "YBC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00280001",
+                "LASTUPDATE": "1474662447",
+                "LASTVOLUME": "0.29392647",
+                "LASTVOLUMETO": "0.00082299",
+                "LASTTRADEID": "756250",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00280001",
+                "HIGH24HOUR": "0.00280001",
+                "LOW24HOUR": "0.00280001"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptsy",
+                "FROMSYMBOL": "YBC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00150076",
+                "LASTUPDATE": "1452828167",
+                "LASTVOLUME": "0.28593513",
+                "LASTVOLUMETO": "0.00042912",
+                "LASTTRADEID": "110947784",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00150076",
+                "HIGH24HOUR": "0.00150076",
+                "LOW24HOUR": "0.00150076"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "YBC",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.3009988",
+                "LASTUPDATE": "1515631911",
+                "LASTVOLUME": "0.00016",
+                "LASTVOLUMETO": "0.00004815980800000001",
+                "LASTTRADEID": "183867070",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.3009988",
+                "HIGH24HOUR": "0.3009988",
+                "LOW24HOUR": "0.3009988"
+            }
+        ]
+    },
+    "Type": 100
+}

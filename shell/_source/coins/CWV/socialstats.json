@@ -1,0 +1,146 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CWV",
+            "CoinName": "CryptoWave",
+            "Type": "Webpagecoinp",
+            "Points": 1008
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 22207,
+                    "Name": "Clockcoin",
+                    "FullName": "Clockcoin (CKC)",
+                    "ImageUrl": "\/media\/351068\/ckc.png",
+                    "Url": "\/coins\/ckc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4424,
+                    "Name": "CrackCoin",
+                    "FullName": "CrackCoin (CRACK)",
+                    "ImageUrl": "\/media\/20023\/crack.png",
+                    "Url": "\/coins\/crack\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 237448,
+                    "Name": "SqPay",
+                    "FullName": "SqPay (SQP)",
+                    "ImageUrl": "\/media\/9350728\/sqp.png",
+                    "Url": "\/coins\/sqp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 449614,
+                    "Name": "GlobalToken",
+                    "FullName": "GlobalToken (GLT)",
+                    "ImageUrl": "\/media\/16746578\/glt.png",
+                    "Url": "\/coins\/glt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35821,
+                    "Name": "BullshitCoin",
+                    "FullName": "BullshitCoin (BULLS)",
+                    "ImageUrl": "\/media\/352295\/bulls.png",
+                    "Url": "\/coins\/bulls\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21374,
+                    "Name": "High Voltage Coin",
+                    "FullName": "High Voltage Coin (HVCO)",
+                    "ImageUrl": "\/media\/351014\/hvco.png",
+                    "Url": "\/coins\/hvco\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5393,
+                    "Name": "OctoCoin",
+                    "FullName": "OctoCoin (OCTO)",
+                    "ImageUrl": "\/media\/19983\/888.png",
+                    "Url": "\/coins\/octo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21773,
+                    "Name": "XanaxCoin",
+                    "FullName": "XanaxCoin (XNX)",
+                    "ImageUrl": "\/media\/351033\/xnx.jpg",
+                    "Url": "\/coins\/xnx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 37195,
+                    "Name": "ConquestCoin",
+                    "FullName": "ConquestCoin (CQST)",
+                    "ImageUrl": "\/media\/1381983\/cqst.png",
+                    "Url": "\/coins\/cqst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4415,
+                    "Name": "CheckCoin",
+                    "FullName": "CheckCoin (CXC)",
+                    "ImageUrl": "\/media\/20246\/cxc.png",
+                    "Url": "\/coins\/cxc\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 403064,
+                    "Name": "michellanckman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/403064\/8ad99611-4fe2-4680-9bba-173f0ac97ef4.jpg",
+                    "Url": "\/profile\/michellanckman\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 1,
+            "Posts": "1",
+            "Points": 50,
+            "PageViewsSplit": {
+                "Overview": 44,
+                "Markets": 1,
+                "Analysis": 6,
+                "Charts": 4,
+                "Trades": 4,
+                "Orderbook": 0,
+                "Forum": 5,
+                "Influence": 5
+            },
+            "PageViews": 69
+        },
+        "Twitter": {
+            "favourites": "137",
+            "lists": 3,
+            "statuses": 322,
+            "following": "19",
+            "account_creation": "1486309073",
+            "name": "Cryptoways",
+            "followers": 105,
+            "link": "https:\/\/twitter.com\/cryptoways",
+            "Points": 120
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "Cryptoways",
+            "likes": 838,
+            "link": "https:\/\/www.facebook.com\/cryptoways\/",
+            "talking_about": "21",
+            "is_closed": "false",
+            "Points": 838
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

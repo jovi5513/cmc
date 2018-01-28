@@ -1,0 +1,241 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CUBE",
+            "CoinName": "DigiCube",
+            "Type": "Webpagecoinp",
+            "Points": 1491
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 4615,
+                    "Name": "SuperCoin",
+                    "FullName": "SuperCoin (SUPER)",
+                    "ImageUrl": "\/media\/20061\/super.png",
+                    "Url": "\/coins\/super\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 176004,
+                    "Name": "Compcoin",
+                    "FullName": "Compcoin (CMP)",
+                    "ImageUrl": "\/media\/1383692\/compcoin.png",
+                    "Url": "\/coins\/cmp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 409422,
+                    "Name": "LiteCoin Gold",
+                    "FullName": "LiteCoin Gold (LTG)",
+                    "ImageUrl": "\/media\/16404871\/ltg.png",
+                    "Url": "\/coins\/ltg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 348278,
+                    "Name": "Soma",
+                    "FullName": "Soma (SCT*)",
+                    "ImageUrl": "\/media\/12318383\/sct.png",
+                    "Url": "\/coins\/sctstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 388042,
+                    "Name": "Mercury Protocol",
+                    "FullName": "Mercury Protocol (GMT)",
+                    "ImageUrl": "\/media\/14913642\/gmt.png",
+                    "Url": "\/coins\/gmt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25830,
+                    "Name": "PizzaCoin",
+                    "FullName": "PizzaCoin (PIZZA)",
+                    "ImageUrl": "\/media\/351397\/pizza.png",
+                    "Url": "\/coins\/pizza\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 100944,
+                    "Name": "Subscriptio",
+                    "FullName": "Subscriptio (SUB*)",
+                    "ImageUrl": "\/media\/1383362\/sub.png",
+                    "Url": "\/coins\/substar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338140,
+                    "Name": "Prosense.tv",
+                    "FullName": "Prosense.tv (VRP*)",
+                    "ImageUrl": "\/media\/12318284\/vrt.png",
+                    "Url": "\/coins\/vrp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 418694,
+                    "Name": "Uquid Coin",
+                    "FullName": "Uquid Coin (UQC)",
+                    "ImageUrl": "\/media\/16746443\/uqc.png",
+                    "Url": "\/coins\/uqc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43604,
+                    "Name": "RoundCoin",
+                    "FullName": "RoundCoin (ROUND)",
+                    "ImageUrl": "\/media\/1382508\/round.png",
+                    "Url": "\/coins\/round\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 628023,
+                    "Name": "kiddrm07",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/628023\/18fd962e-ef4e-41d9-865a-1cbdd9229a5e.jpg",
+                    "Url": "\/profile\/kiddrm07\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 603264,
+                    "Name": "Soroush",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/603264\/69028243-4f41-450f-b060-ee162cf78c01.jpg",
+                    "Url": "\/profile\/Soroush\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 640010,
+                    "Name": "pieter.gillis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/640010\/6ce865f5-cb12-4dea-a921-f529c4c1a541.jpg",
+                    "Url": "\/profile\/pieter.gillis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 244506,
+                    "Name": "robertgkalman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/244506\/8b1a2334-f8f4-4e1b-9c19-e26d2e058fb6.jpg",
+                    "Url": "\/profile\/robertgkalman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 642277,
+                    "Name": "floreanoo",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/642277\/ea7cf745-c776-448c-8650-317dc6134818.jpg",
+                    "Url": "\/profile\/floreanoo\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 622697,
+                    "Name": "paul.thib64",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/622697\/aaaabcf0-8b34-4074-9db7-2c5463ff6720.jpg",
+                    "Url": "\/profile\/paul.thib64\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 544455,
+                    "Name": "h.kobari",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/544455\/78d3aaec-f49f-4883-9a4e-32398f89c142.jpg",
+                    "Url": "\/profile\/h.kobari\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 481125,
+                    "Name": "geiger_otto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/481125\/6e910b7c-4d08-4dbf-8afe-aca96d00e7bc.jpg",
+                    "Url": "\/profile\/geiger_otto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 108531,
+                    "Name": "NichoRze",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/108531\/65b47be9-32ae-4c82-83c7-5e097f78df2b.jpg",
+                    "Url": "\/profile\/NichoRze\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 333333,
+                    "Name": "stads31",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/333333\/bf87f985-c3e5-4432-9a7a-54b99e523b2c.jpg",
+                    "Url": "\/profile\/stads31\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 272525,
+                    "Name": "A10DA331",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/272525\/f547a72f-05fd-460e-a75c-25e321117ed5.jpg",
+                    "Url": "\/profile\/A10DA331\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 800,
+            "Posts": "6",
+            "Comments": "5",
+            "Followers": 24,
+            "PageViewsSplit": {
+                "Overview": 2704,
+                "Markets": 311,
+                "Analysis": 122,
+                "Charts": 152,
+                "Trades": 182,
+                "Orderbook": 5,
+                "Forum": 123,
+                "Influence": 35
+            },
+            "PageViews": 3634
+        },
+        "Twitter": {
+            "favourites": "202",
+            "statuses": 3854,
+            "following": "8",
+            "account_creation": "1446658693",
+            "followers": 441,
+            "name": "DigiCube",
+            "link": "https:\/\/twitter.com\/PurePoS",
+            "lists": 47,
+            "Points": 679
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1445057201",
+                    "open_total_issues": "0",
+                    "fork": "false",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "last_push": "1466234819",
+                    "closed_total_issues": "0",
+                    "size": "7106",
+                    "stars": 0,
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "last_update": "1515718277",
+                    "forks": 3,
+                    "url": "https:\/\/github.com\/DigiCubeCrypto\/DigiCube",
+                    "closed_issues": "0",
+                    "language": "C++",
+                    "subscribers": 2,
+                    "open_issues": "0",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 12
+        }
+    }
+}

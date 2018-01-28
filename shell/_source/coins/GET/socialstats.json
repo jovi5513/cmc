@@ -1,0 +1,211 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GET",
+            "CoinName": "Guaranteed Entrance Token",
+            "Type": "Webpagecoinp",
+            "Points": 28702
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 198698,
+                    "Name": "EQUI",
+                    "FullName": "EQUI (EQ)",
+                    "ImageUrl": "\/media\/1383891\/eq.png",
+                    "Url": "\/coins\/eq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341422,
+                    "Name": "Change",
+                    "FullName": "Change (CAG)",
+                    "ImageUrl": "\/media\/12318346\/cag.png",
+                    "Url": "\/coins\/cag\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21239,
+                    "Name": "BelaCoin",
+                    "FullName": "BelaCoin (BELA)",
+                    "ImageUrl": "\/media\/351933\/bela.jpg",
+                    "Url": "\/coins\/bela\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8764,
+                    "Name": "ParkByte",
+                    "FullName": "ParkByte (PKB)",
+                    "ImageUrl": "\/media\/20694\/pkb.png",
+                    "Url": "\/coins\/pkb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22329,
+                    "Name": "BitSend",
+                    "FullName": "BitSend (BSD)",
+                    "ImageUrl": "\/media\/351086\/bsd.png",
+                    "Url": "\/coins\/bsd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 313176,
+                    "Name": "DreamTeam Token",
+                    "FullName": "DreamTeam Token (DTT)",
+                    "ImageUrl": "\/media\/12318109\/dtt.png",
+                    "Url": "\/coins\/dtt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5331,
+                    "Name": "Coin Magi",
+                    "FullName": "Coin Magi (XMG)",
+                    "ImageUrl": "\/media\/20154\/xmg.png",
+                    "Url": "\/coins\/xmg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5347,
+                    "Name": "Dirac Coin",
+                    "FullName": "Dirac Coin (XDQ)",
+                    "ImageUrl": "\/media\/19959\/xdq.png",
+                    "Url": "\/coins\/xdq\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 27591,
+                    "Name": "Syndicate",
+                    "FullName": "Syndicate (SYNX)",
+                    "ImageUrl": "\/media\/15887426\/synx.png",
+                    "Url": "\/coins\/synx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 15870,
+                    "Name": "Radium",
+                    "FullName": "Radium (RADS)",
+                    "ImageUrl": "\/media\/350610\/rads.png",
+                    "Url": "\/coins\/rads\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 445119,
+                    "Name": "glennryan12",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/445119\/0483550e-2ab8-44dc-845f-4d66c7fee251.jpg",
+                    "Url": "\/profile\/glennryan12\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 453151,
+                    "Name": "roel.holleman",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/453151\/60b92651-0573-4b46-9e5e-3bfd69d6aedd.jpg",
+                    "Url": "\/profile\/roel.holleman\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 313906,
+                    "Name": "slimiles",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/313906\/2c22c8ef-c874-4a13-9b02-89b6c47f641a.jpg",
+                    "Url": "\/profile\/slimiles\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 65044,
+                    "Name": "cryptofenzz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/65044\/3df5e959-3578-451b-905a-d3ee6cfb28c5.jpg",
+                    "Url": "\/profile\/cryptofenzz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 229734,
+                    "Name": "aesterhoeve",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/229734\/42eee532-0858-4d2d-a74b-5de683063fe4.jpg",
+                    "Url": "\/profile\/aesterhoeve\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 56451,
+                    "Name": "Ethpionage",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/56451\/28147029-f47d-49dc-af3f-a47760055b9b.jpg",
+                    "Url": "\/profile\/Ethpionage\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 135657,
+                    "Name": "-dylan-",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/135657\/2aa89ee6-18c6-498e-821a-5d6f8bb7a66c.jpg",
+                    "Url": "\/profile\/-dylan-\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 371172,
+                    "Name": "bernardocaria",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/371172\/dc83b2bc-dde6-4c26-97e9-937653295a1b.jpg",
+                    "Url": "\/profile\/bernardocaria\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 75343,
+                    "Name": "wolf",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/75343\/bbbe8643-e34a-4a12-a9a8-a10def95cb4f.jpg",
+                    "Url": "\/profile\/wolf\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 275,
+            "Posts": "2",
+            "Followers": 9,
+            "PageViewsSplit": {
+                "Overview": 350,
+                "Markets": 56,
+                "Analysis": 8,
+                "Charts": 13,
+                "Trades": 11,
+                "Orderbook": 0,
+                "Forum": 11,
+                "Influence": 5
+            },
+            "PageViews": 454
+        },
+        "Twitter": {
+            "statuses": 304,
+            "favourites": "277",
+            "following": "427",
+            "account_creation": "1458212008",
+            "followers": 26985,
+            "name": "GUTS",
+            "link": "https:\/\/twitter.com\/GUTStickets",
+            "lists": 40,
+            "Points": 27185
+        },
+        "Reddit": {
+            "posts_per_hour": "0.02",
+            "link": "https:\/\/www.reddit.com\/r\/GETprotocol\/",
+            "comments_per_hour": "0.87",
+            "posts_per_day": "0.47",
+            "active_users": 22,
+            "community_creation": "1502268124",
+            "subscribers": 432,
+            "name": "GETprotocol",
+            "comments_per_day": 20.8,
+            "Points": 539
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "92",
+            "name": "GUTS Tickets",
+            "likes": 703,
+            "link": "https:\/\/www.facebook.com\/gutstickets\/",
+            "Points": 703
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

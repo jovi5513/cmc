@@ -1,0 +1,146 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ACCO",
+            "CoinName": "Accolade",
+            "Type": "Webpagecoinp",
+            "Points": 75
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 339431,
+                    "Name": "Kolion",
+                    "FullName": "Kolion (KOLION)",
+                    "ImageUrl": "\/media\/12318295\/kolion.png",
+                    "Url": "\/coins\/kolion\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4543,
+                    "Name": "JunkCoin",
+                    "FullName": "JunkCoin (JKC)",
+                    "ImageUrl": "\/media\/19757\/jkc.png",
+                    "Url": "\/coins\/jkc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4572,
+                    "Name": "Nybble",
+                    "FullName": "Nybble (NBL)",
+                    "ImageUrl": "\/media\/19825\/nbl.png",
+                    "Url": "\/coins\/nbl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 182463,
+                    "Name": "Ammo Rewards",
+                    "FullName": "Ammo Rewards (AMMO)",
+                    "ImageUrl": "\/media\/1383778\/ammo.png",
+                    "Url": "\/coins\/ammo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30568,
+                    "Name": "AndromedaCoin",
+                    "FullName": "AndromedaCoin (AND)",
+                    "ImageUrl": "\/media\/351797\/and.png",
+                    "Url": "\/coins\/and\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 229307,
+                    "Name": "Veredictum",
+                    "FullName": "Veredictum (VNT)",
+                    "ImageUrl": "\/media\/1384044\/vnt.jpg",
+                    "Url": "\/coins\/vnt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4597,
+                    "Name": "RazorCoin",
+                    "FullName": "RazorCoin (RZR)",
+                    "ImageUrl": "\/media\/20055\/rzr.png",
+                    "Url": "\/coins\/rzr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4435,
+                    "Name": "DarkShibe",
+                    "FullName": "DarkShibe (DSB)",
+                    "ImageUrl": "\/media\/20034\/dsb.png",
+                    "Url": "\/coins\/dsb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 607521,
+                    "Name": "Numus",
+                    "FullName": "Numus (NMS)",
+                    "ImageUrl": "\/media\/20780637\/nms.png",
+                    "Url": "\/coins\/nms\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5281,
+                    "Name": "Elektron",
+                    "FullName": "Elektron (EKN)",
+                    "ImageUrl": "\/media\/20270\/ekn.png",
+                    "Url": "\/coins\/ekn\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 379238,
+                    "Name": "kjdowdle",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/379238\/af331a97-ebb2-4ef9-a6c6-cd63d2a19e0d.jpg",
+                    "Url": "\/profile\/kjdowdle\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 105291,
+                    "Name": "valderrama",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/105291\/8309e5f3-b7ec-4bee-9d3d-ba0708bbc976.jpg",
+                    "Url": "\/profile\/valderrama\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 399735,
+                    "Name": "zwljt855",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/399735\/2c9d5c29-0202-4c4b-9889-90694445cfe4.jpg",
+                    "Url": "\/profile\/zwljt855\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 75,
+            "Followers": 3,
+            "PageViewsSplit": {
+                "Overview": 33,
+                "Markets": 3,
+                "Analysis": 2,
+                "Charts": 5,
+                "Trades": 1,
+                "Orderbook": 0,
+                "Forum": 5,
+                "Influence": 5
+            },
+            "PageViews": 54
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

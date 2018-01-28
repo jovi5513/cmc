@@ -1,0 +1,225 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "FLP",
+            "CoinName": "Gameflip",
+            "Type": "Webpagecoinp",
+            "Points": 82343
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 363992,
+                    "Name": "ZABERcoin",
+                    "FullName": "ZABERcoin (ZAB)",
+                    "ImageUrl": "\/media\/14761946\/zab.png",
+                    "Url": "\/coins\/zab\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20236,
+                    "Name": "PowerCoin",
+                    "FullName": "PowerCoin (PWR)",
+                    "ImageUrl": "\/media\/350899\/pwr.png",
+                    "Url": "\/coins\/pwr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 171884,
+                    "Name": "Polybius",
+                    "FullName": "Polybius (PLBT)",
+                    "ImageUrl": "\/media\/1383671\/polybius.png",
+                    "Url": "\/coins\/plbt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 196591,
+                    "Name": "Reality Clash",
+                    "FullName": "Reality Clash (RCC)",
+                    "ImageUrl": "\/media\/1383864\/rcc.png",
+                    "Url": "\/coins\/rcc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 384605,
+                    "Name": "Bankera",
+                    "FullName": "Bankera (BNK)",
+                    "ImageUrl": "\/media\/14913602\/bnk.png",
+                    "Url": "\/coins\/bnk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 234811,
+                    "Name": "Cobinhood",
+                    "FullName": "Cobinhood (COB)",
+                    "ImageUrl": "\/media\/9350700\/cobin.png",
+                    "Url": "\/coins\/cob\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 247232,
+                    "Name": "NewYorkCoin",
+                    "FullName": "NewYorkCoin (NYC)",
+                    "ImageUrl": "\/media\/9350762\/nyc.png",
+                    "Url": "\/coins\/nyc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645879,
+                    "Name": "Fuloos Coin",
+                    "FullName": "Fuloos Coin (FLS)",
+                    "ImageUrl": "\/media\/20780701\/fuloos.png",
+                    "Url": "\/coins\/fls\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 196541,
+                    "Name": "Linda",
+                    "FullName": "Linda (LINDA)",
+                    "ImageUrl": "\/media\/1383860\/linda.png",
+                    "Url": "\/coins\/linda\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5300,
+                    "Name": "BitBay",
+                    "FullName": "BitBay (BAY)",
+                    "ImageUrl": "\/media\/1383137\/bay1.png",
+                    "Url": "\/coins\/bay\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 618250,
+                    "Name": "roberto.albu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/618250\/10e53f85-3352-4143-8549-38bb7476c62a.jpg",
+                    "Url": "\/profile\/roberto.albu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 39016,
+                    "Name": "majalovicbtc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/39016\/a0ae9f3f-afe2-46fb-8ba1-a48314d280a3.jpg",
+                    "Url": "\/profile\/majalovicbtc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 463385,
+                    "Name": "basilis.katsoris",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/463385\/05eb3066-febd-4e00-8a74-f07b82abea26.jpg",
+                    "Url": "\/profile\/basilis.katsoris\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 659217,
+                    "Name": "E5869C87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/659217\/78708575-fc39-4285-be42-084a10d12676.jpg",
+                    "Url": "\/profile\/E5869C87\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 630906,
+                    "Name": "randomkoinz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/630906\/92e342fa-2108-4537-9082-407be6e95575.jpg",
+                    "Url": "\/profile\/randomkoinz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 242055,
+                    "Name": "474E5831",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/242055\/ee902c28-eabb-4438-8fae-2b05b79abb3d.jpg",
+                    "Url": "\/profile\/474E5831\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 649418,
+                    "Name": "kerem.karacasulu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/649418\/407971c7-2150-40ef-81e3-2adc06d08767.jpg",
+                    "Url": "\/profile\/kerem.karacasulu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 644619,
+                    "Name": "tylertdesigns",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/644619\/5a9eec1f-f14a-4a3d-abbb-4e7cf268d71c.jpg",
+                    "Url": "\/profile\/tylertdesigns\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 521254,
+                    "Name": "mikeduck",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/521254\/15428874-1849-49ad-90d4-e13ebd6118dc.jpg",
+                    "Url": "\/profile\/mikeduck\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 641481,
+                    "Name": "ahmtozmn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/641481\/dfbd8df2-1236-42d7-83f0-c9d9c7d466ac.jpg",
+                    "Url": "\/profile\/ahmtozmn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 640329,
+                    "Name": "jlrtrader",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/640329\/79ef8615-b06f-454d-90a6-557e6f01767b.jpg",
+                    "Url": "\/profile\/jlrtrader\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1575,
+            "Posts": "2",
+            "Followers": 61,
+            "PageViewsSplit": {
+                "Overview": 4074,
+                "Markets": 80,
+                "Analysis": 114,
+                "Charts": 64,
+                "Trades": 27,
+                "Orderbook": 0,
+                "Forum": 99,
+                "Influence": 109
+            },
+            "PageViews": 4567
+        },
+        "Twitter": {
+            "statuses": 2761,
+            "favourites": "2019",
+            "following": "141",
+            "account_creation": "1427935016",
+            "followers": 55280,
+            "name": "Gameflip",
+            "link": "https:\/\/twitter.com\/Gameflip",
+            "lists": 53,
+            "Points": 55547
+        },
+        "Reddit": {
+            "posts_per_hour": "0.03",
+            "link": "https:\/\/www.reddit.com\/r\/Gameflip\/",
+            "comments_per_hour": "0.11",
+            "posts_per_day": "0.64",
+            "active_users": 6,
+            "community_creation": "1460069856",
+            "subscribers": 307,
+            "name": "Gameflip",
+            "comments_per_day": 2.61,
+            "Points": 330
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "1458",
+            "name": "Gameflip",
+            "likes": 24891,
+            "link": "https:\/\/www.facebook.com\/Gameflipapp\/",
+            "Points": 24891
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

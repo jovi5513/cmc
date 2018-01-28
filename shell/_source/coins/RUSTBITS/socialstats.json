@@ -1,0 +1,153 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "RUSTBITS",
+            "CoinName": "Rustbits",
+            "Type": "Webpagecoinp",
+            "Points": 3142
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20304,
+                    "Name": "PrismChain",
+                    "FullName": "PrismChain (PRM)",
+                    "ImageUrl": "\/media\/350906\/prm.png",
+                    "Url": "\/coins\/prm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 62648,
+                    "Name": "Visio",
+                    "FullName": "Visio (VISIO)",
+                    "ImageUrl": "\/media\/1383047\/visio.png",
+                    "Url": "\/coins\/visio\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 56246,
+                    "Name": "BestChain",
+                    "FullName": "BestChain (BEST)",
+                    "ImageUrl": "\/media\/1382805\/best.jpg",
+                    "Url": "\/coins\/best\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4445,
+                    "Name": "Flappy Coin",
+                    "FullName": "Flappy Coin (FLAP)",
+                    "ImageUrl": "\/media\/20032\/flap.png",
+                    "Url": "\/coins\/flap\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 659488,
+                    "Name": "StrongHands",
+                    "FullName": "StrongHands (SHND)",
+                    "ImageUrl": "\/media\/20780741\/shnd.png",
+                    "Url": "\/coins\/shnd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 206001,
+                    "Name": "Autoria",
+                    "FullName": "Autoria (AUT)",
+                    "ImageUrl": "\/media\/1383956\/aut.png",
+                    "Url": "\/coins\/aut\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6339,
+                    "Name": "EdgeCoin",
+                    "FullName": "EdgeCoin (EDGE)",
+                    "ImageUrl": "\/media\/20556\/edge.png",
+                    "Url": "\/coins\/edge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 584861,
+                    "Name": "Crypto-X",
+                    "FullName": "Crypto-X (CWX)",
+                    "ImageUrl": "\/media\/20780607\/cwx.png",
+                    "Url": "\/coins\/cwx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 238622,
+                    "Name": "Ethereum.Link",
+                    "FullName": "Ethereum.Link (LNK)",
+                    "ImageUrl": "\/media\/9350738\/lnk.png",
+                    "Url": "\/coins\/lnk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 77337,
+                    "Name": "Phreak",
+                    "FullName": "Phreak (PHR)",
+                    "ImageUrl": "\/media\/1383243\/phr.jpg",
+                    "Url": "\/coins\/phr\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 462889,
+                    "Name": "peterkertesz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/462889\/c6431a17-2533-425e-917f-49e9c2ca34ec.jpg",
+                    "Url": "\/profile\/peterkertesz\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 50,
+            "Posts": "1",
+            "Followers": 1,
+            "PageViewsSplit": {
+                "Overview": 93,
+                "Markets": 4,
+                "Analysis": 2,
+                "Charts": 2,
+                "Trades": 2,
+                "Orderbook": 0,
+                "Forum": 5,
+                "Influence": 0
+            },
+            "PageViews": 108
+        },
+        "Twitter": {
+            "statuses": 2206,
+            "favourites": "2731",
+            "following": "1173",
+            "account_creation": "1393731872",
+            "followers": 2005,
+            "name": "SpacePirate Games",
+            "link": "https:\/\/twitter.com\/SpacePirate_io",
+            "lists": 94,
+            "Points": 2477
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "link": "https:\/\/www.reddit.com\/r\/SpacePirateGame\/",
+            "posts_per_day": "0.03",
+            "active_users": 25,
+            "community_creation": "1476322450",
+            "subscribers": 9,
+            "name": "SpacePirateGame",
+            "Points": 84
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "11",
+            "name": "SpacePirate Games",
+            "likes": 531,
+            "link": "https:\/\/www.facebook.com\/spacepirate.io\/",
+            "Points": 531
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

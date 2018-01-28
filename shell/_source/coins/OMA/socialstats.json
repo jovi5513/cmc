@@ -1,0 +1,194 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "OMA",
+            "CoinName": "OmegaCoin",
+            "Type": "Webpagecoinp",
+            "Points": 2074
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 23429,
+                    "Name": "ScryptCoin",
+                    "FullName": "ScryptCoin (SCRPT)",
+                    "ImageUrl": "\/media\/351210\/scrpt.png",
+                    "Url": "\/coins\/scrpt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28774,
+                    "Name": "Dark Moon",
+                    "FullName": "Dark Moon (MOOND)",
+                    "ImageUrl": "\/media\/351558\/moond.png",
+                    "Url": "\/coins\/moond\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 364846,
+                    "Name": "Extreme Sportsbook",
+                    "FullName": "Extreme Sportsbook (XSB)",
+                    "ImageUrl": "\/media\/14761953\/xbs.png",
+                    "Url": "\/coins\/xsb\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 374294,
+                    "Name": "Bitdeal",
+                    "FullName": "Bitdeal (BDL)",
+                    "ImageUrl": "\/media\/14913539\/bdl.png",
+                    "Url": "\/coins\/bdl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4585,
+                    "Name": "PhilosophersStone",
+                    "FullName": "PhilosophersStone (PHS)",
+                    "ImageUrl": "\/media\/19857\/phs.png",
+                    "Url": "\/coins\/phs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 357734,
+                    "Name": "Brat",
+                    "FullName": "Brat (BRAT)",
+                    "ImageUrl": "\/media\/14761895\/brat.png",
+                    "Url": "\/coins\/brat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4557,
+                    "Name": "LycanCoin",
+                    "FullName": "LycanCoin (LYC)",
+                    "ImageUrl": "\/media\/19785\/lyc.png",
+                    "Url": "\/coins\/lyc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 339581,
+                    "Name": "eLTC",
+                    "FullName": "eLTC (ELTC2)",
+                    "ImageUrl": "\/media\/12318300\/eltc2.png",
+                    "Url": "\/coins\/eltc2\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33522,
+                    "Name": "BitLuckCoin",
+                    "FullName": "BitLuckCoin (BTLC)",
+                    "ImageUrl": "\/media\/352054\/btlc.png",
+                    "Url": "\/coins\/btlc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6393,
+                    "Name": "Global",
+                    "FullName": "Global (GLOBE)",
+                    "ImageUrl": "\/media\/20564\/globe.png",
+                    "Url": "\/coins\/globe\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 361339,
+                    "Name": "Bytecoinrocket",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/361339\/3f161365-bfeb-40dd-b324-fc8bdc090697.jpg",
+                    "Url": "\/profile\/Bytecoinrocket\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 371860,
+                    "Name": "hommejsh",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/371860\/1dd0d95b-e74a-4a4d-8cc7-6633416fc182.jpg",
+                    "Url": "\/profile\/hommejsh\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 39170,
+                    "Name": "torridbytes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/39170\/b813fa4f-e88d-43e5-9770-f376ccb7d449.jpg",
+                    "Url": "\/profile\/torridbytes\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Points": 125,
+            "PageViewsSplit": {
+                "Overview": 697,
+                "Markets": 49,
+                "Analysis": 30,
+                "Charts": 44,
+                "Trades": 36,
+                "Orderbook": 1,
+                "Forum": 29,
+                "Influence": 25
+            },
+            "PageViews": 911
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "name": "BON",
+            "likes": 1946,
+            "link": "https:\/\/www.facebook.com\/BonPeKaO\/",
+            "talking_about": "0",
+            "is_closed": "false",
+            "Points": 1946
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/omegadevteam\/omegacoin",
+                    "forks": 0,
+                    "last_update": "1422541067",
+                    "closed_total_issues": "0",
+                    "closed_pull_issues": "0",
+                    "subscribers": 1,
+                    "open_issues": "0",
+                    "size": "3844",
+                    "created_at": "1422321866",
+                    "closed_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "language": "C",
+                    "open_total_issues": "0",
+                    "last_push": "1422541067",
+                    "stars": 0
+                }
+            ],
+            "Points": 3
+        }
+    }
+}

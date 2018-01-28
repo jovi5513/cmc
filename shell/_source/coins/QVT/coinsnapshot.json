@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 0,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 21600000,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "QVT",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00007801",
+            "LASTUPDATE": "1516092692",
+            "LASTVOLUME": "85.499284",
+            "LASTVOLUMETO": "0.00666979914484",
+            "LASTTRADEID": "88825",
+            "VOLUMEDAY": "13046.59740089",
+            "VOLUMEDAYTO": "1.0213427309553567",
+            "VOLUME24HOUR": "21075.431092879997",
+            "VOLUME24HOURTO": "1.7197118140640204",
+            "OPENDAY": "0.00008153",
+            "HIGHDAY": "0.00008293",
+            "LOWDAY": "0.00007801",
+            "OPEN24HOUR": "0.00008497",
+            "HIGH24HOUR": "0.00009494",
+            "LOW24HOUR": "0.00007801",
+            "LASTMARKET": "OKEX"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "OKEX",
+                "FROMSYMBOL": "QVT",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00007801",
+                "LASTUPDATE": "1516092692",
+                "LASTVOLUME": "85.499284",
+                "LASTVOLUMETO": "0.00666979914484",
+                "LASTTRADEID": "88825",
+                "VOLUME24HOUR": "21094.893748349998",
+                "VOLUME24HOURTO": "1.7213209864182801",
+                "OPEN24HOUR": "0.00008497",
+                "HIGH24HOUR": "0.00009494",
+                "LOW24HOUR": "0.00007801"
+            }
+        ]
+    },
+    "Type": 100
+}

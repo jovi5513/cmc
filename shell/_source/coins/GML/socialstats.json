@@ -1,0 +1,170 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GML",
+            "CoinName": "GameLeagueCoin",
+            "Type": "Webpagecoinp",
+            "Points": 380
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5402,
+                    "Name": "Node",
+                    "FullName": "Node (NODE)",
+                    "ImageUrl": "\/media\/20373\/node.png",
+                    "Url": "\/coins\/node\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21871,
+                    "Name": "WMCoin",
+                    "FullName": "WMCoin (WMC)",
+                    "ImageUrl": "\/media\/351044\/wmc.png",
+                    "Url": "\/coins\/wmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21017,
+                    "Name": "Number7",
+                    "FullName": "Number7 (N7)",
+                    "ImageUrl": "\/media\/350995\/n7.jpg",
+                    "Url": "\/coins\/n7\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6455,
+                    "Name": "Cerium",
+                    "FullName": "Cerium (XCE)",
+                    "ImageUrl": "\/media\/20573\/xce.png",
+                    "Url": "\/coins\/xce\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 385866,
+                    "Name": "Sakuracoin",
+                    "FullName": "Sakuracoin (SKR)",
+                    "ImageUrl": "\/media\/14913631\/skr.png",
+                    "Url": "\/coins\/skr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 188652,
+                    "Name": "BeachCoin",
+                    "FullName": "BeachCoin (SAND)",
+                    "ImageUrl": "\/media\/1383825\/beach.png",
+                    "Url": "\/coins\/sand\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44952,
+                    "Name": "Solarflarecoin",
+                    "FullName": "Solarflarecoin (SFC)",
+                    "ImageUrl": "\/media\/1382639\/sfc.png",
+                    "Url": "\/coins\/sfc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5311,
+                    "Name": "KryptCoin",
+                    "FullName": "KryptCoin (KTK)",
+                    "ImageUrl": "\/media\/19771\/ktk.png",
+                    "Url": "\/coins\/ktk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 392253,
+                    "Name": "Credits",
+                    "FullName": "Credits (CRDS)",
+                    "ImageUrl": "\/media\/14913675\/crds.png",
+                    "Url": "\/coins\/crds\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 60424,
+                    "Name": "BlazerCoin",
+                    "FullName": "BlazerCoin (BLAZR)",
+                    "ImageUrl": "\/media\/1382946\/blazr.png",
+                    "Url": "\/coins\/blazr\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 620997,
+                    "Name": "alexandruassani",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/620997\/01ab2dab-ab26-4380-a3bd-fcdfe22d5811.jpg",
+                    "Url": "\/profile\/alexandruassani\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 486754,
+                    "Name": "FreshboneThug",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/486754\/4ae260e1-a95c-4631-bd21-e46cd29e4da5.png",
+                    "Url": "\/profile\/FreshboneThug\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 429282,
+                    "Name": "motoalius",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/429282\/c8cdb4df-4e2e-4abf-b93d-cc84f936fc8e.jpg",
+                    "Url": "\/profile\/motoalius\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 429897,
+                    "Name": "nipresaphe",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/429897\/d0a875af-d0e1-4dd2-91a2-5334ba04130d.jpg",
+                    "Url": "\/profile\/nipresaphe\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 299994,
+                    "Name": "radith.oe",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/299994\/e94d7a9f-614e-447a-95af-de300cf78ef9.jpg",
+                    "Url": "\/profile\/radith.oe\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 5,
+            "Comments": "1",
+            "Points": 160,
+            "Posts": "1",
+            "PageViewsSplit": {
+                "Overview": 386,
+                "Markets": 62,
+                "Analysis": 116,
+                "Charts": 32,
+                "Trades": 28,
+                "Orderbook": 3,
+                "Forum": 39,
+                "Influence": 13
+            },
+            "PageViews": 679
+        },
+        "Twitter": {
+            "favourites": "1",
+            "lists": 6,
+            "name": "GameleagueCoin",
+            "statuses": 16,
+            "followers": 190,
+            "following": "7",
+            "account_creation": "1398701108",
+            "link": "https:\/\/twitter.com\/GameLeaguecoin",
+            "Points": 220
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

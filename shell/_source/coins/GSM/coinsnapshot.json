@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "GSM",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000246",
+            "LASTUPDATE": "1516066699",
+            "LASTVOLUME": "13.80860003",
+            "LASTVOLUMETO": "0.0000339691560738",
+            "LASTTRADEID": "200000170",
+            "VOLUMEDAY": "13.80860003",
+            "VOLUMEDAYTO": "0.0000339691560738",
+            "VOLUME24HOUR": "215.65329273",
+            "VOLUME24HOURTO": "0.0005305071001157999",
+            "OPENDAY": "0.00000246",
+            "HIGHDAY": "0.00000246",
+            "LOWDAY": "0.00000246",
+            "OPEN24HOUR": "0.0000025",
+            "HIGH24HOUR": "0.0000025",
+            "LOW24HOUR": "0.00000246",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "GSM",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.0000854",
+                "LASTUPDATE": "1433602984",
+                "LASTVOLUME": "41.04800937",
+                "LASTVOLUMETO": "0.0035055000001980004",
+                "LASTTRADEID": "1433602984022",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.0000854",
+                "HIGH24HOUR": "0.0000854",
+                "LOW24HOUR": "0.0000854"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "GSM",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00000246",
+                "LASTUPDATE": "1516066699",
+                "LASTVOLUME": "13.80860003",
+                "LASTVOLUMETO": "0.0000339691560738",
+                "LASTTRADEID": "200000170",
+                "VOLUME24HOUR": "215.65329273",
+                "VOLUME24HOURTO": "0.0005305071001157999",
+                "OPEN24HOUR": "0.0000025",
+                "HIGH24HOUR": "0.0000025",
+                "LOW24HOUR": "0.00000246"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "GSM",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.000001",
+                "LASTUPDATE": "1445610970",
+                "LASTVOLUME": "984.14269369",
+                "LASTVOLUMETO": "0.00098414",
+                "LASTTRADEID": "427951",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.000001",
+                "HIGH24HOUR": "0.000001",
+                "LOW24HOUR": "0.000001"
+            }
+        ]
+    },
+    "Type": 100
+}

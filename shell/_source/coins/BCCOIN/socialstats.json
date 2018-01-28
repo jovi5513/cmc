@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BCCOIN",
+            "CoinName": "BitConnect Coin",
+            "Type": "Webpagecoinp",
+            "Points": 206470
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 13280,
+                    "Name": "Factoids",
+                    "FullName": "Factoids (FCT)",
+                    "ImageUrl": "\/media\/1382863\/fct1.png",
+                    "Url": "\/coins\/fct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 236131,
+                    "Name": "Vechain",
+                    "FullName": "Vechain (VEN)",
+                    "ImageUrl": "\/media\/12318129\/ven.png",
+                    "Url": "\/coins\/ven\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 16713,
+                    "Name": "Decred",
+                    "FullName": "Decred (DCR)",
+                    "ImageUrl": "\/media\/1382607\/decred.png",
+                    "Url": "\/coins\/dcr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 178978,
+                    "Name": "FunFair",
+                    "FullName": "FunFair (FUN)",
+                    "ImageUrl": "\/media\/1383738\/fun.png",
+                    "Url": "\/coins\/fun\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 339617,
+                    "Name": "Power Ledger",
+                    "FullName": "Power Ledger (POWR)",
+                    "ImageUrl": "\/media\/12318301\/powr.png",
+                    "Url": "\/coins\/powr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 236358,
+                    "Name": "Utrust",
+                    "FullName": "Utrust (UTK)",
+                    "ImageUrl": "\/media\/9350717\/utrust.png",
+                    "Url": "\/coins\/utk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 107672,
+                    "Name": "Basic Attention Token",
+                    "FullName": "Basic Attention Token (BAT)",
+                    "ImageUrl": "\/media\/1383370\/bat.png",
+                    "Url": "\/coins\/bat\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 225764,
+                    "Name": "Paragon",
+                    "FullName": "Paragon (PRG)",
+                    "ImageUrl": "\/media\/1384033\/prg.png",
+                    "Url": "\/coins\/prg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5293,
+                    "Name": "MaidSafe Coin",
+                    "FullName": "MaidSafe Coin (MAID)",
+                    "ImageUrl": "\/media\/352247\/maid.png",
+                    "Url": "\/coins\/maid\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 221463,
+                    "Name": "Substratum Network",
+                    "FullName": "Substratum Network (SUB)",
+                    "ImageUrl": "\/media\/1384011\/sub1.png",
+                    "Url": "\/coins\/sub\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 385090,
+                    "Name": "janstaes01",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/385090\/c38ccd9b-c9de-481c-aac8-ed8c64a9eada.jpg",
+                    "Url": "\/profile\/janstaes01\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 672867,
+                    "Name": "uzun.1965",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/672867\/a1c463a3-ba78-453c-8c7b-b6d7326d316b.jpg",
+                    "Url": "\/profile\/uzun.1965\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 672544,
+                    "Name": "thomaserdei",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/672544\/b90dcbcb-447d-4a00-8c65-11f8cd7c545a.jpg",
+                    "Url": "\/profile\/thomaserdei\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 313713,
+                    "Name": "ramiligs.rl",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/313713\/f8b9899e-b5ec-40c1-92c0-223dd7446585.jpg",
+                    "Url": "\/profile\/ramiligs.rl\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670165,
+                    "Name": "ijolaria",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670165\/d3939857-d5a0-427b-907d-1362b6b471dd.jpg",
+                    "Url": "\/profile\/ijolaria\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 544032,
+                    "Name": "gaziz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/544032\/744a6d97-bb0f-4a38-b108-030a0dd6457c.jpg",
+                    "Url": "\/profile\/gaziz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 668682,
+                    "Name": "belliotmac",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/668682\/272f926c-be44-41d7-957f-c004427aa153.jpg",
+                    "Url": "\/profile\/belliotmac\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 167023,
+                    "Name": "oblumental",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/167023\/ec9f6910-c95a-499f-be47-3c7e1f3c4e32.png",
+                    "Url": "\/profile\/oblumental\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 668227,
+                    "Name": "azeemsurve",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/668227\/315f9cce-0d89-41f2-a61e-15ce4e4e8f79.jpg",
+                    "Url": "\/profile\/azeemsurve\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 298540,
+                    "Name": "universsecurity",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/298540\/ee15429e-2762-4cce-aa7f-08870c329443.png",
+                    "Url": "\/profile\/universsecurity\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 486639,
+                    "Name": "giordanodesign",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/486639\/99506846-defb-427e-967f-d39a077c97c5.jpg",
+                    "Url": "\/profile\/giordanodesign\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 37345,
+            "Followers": 1191,
+            "Posts": "184",
+            "Comments": "297",
+            "PageViewsSplit": {
+                "Overview": 70933,
+                "Markets": 3691,
+                "Analysis": 3042,
+                "Charts": 9123,
+                "Trades": 2000,
+                "Orderbook": 85,
+                "Forum": 7884,
+                "Influence": 934
+            },
+            "PageViews": 97692
+        },
+        "Twitter": {
+            "following": "0",
+            "account_creation": "1458455073",
+            "name": "BitConnect",
+            "lists": 341,
+            "statuses": 805,
+            "favourites": "17",
+            "followers": 37171,
+            "link": "https:\/\/twitter.com\/bitconnect",
+            "Points": 38876
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 129803,
+            "link": "https:\/\/www.facebook.com\/bitconnectcoin\/",
+            "is_closed": "false",
+            "talking_about": "9060",
+            "name": "Bitconnect Coin",
+            "Points": 129803
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1483168016",
+                    "open_total_issues": "40",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "86728",
+                    "closed_total_issues": "5",
+                    "stars": 92,
+                    "last_update": "1515856187",
+                    "forks": 108,
+                    "url": "https:\/\/github.com\/bitconnectcoin\/bitconnectcoin",
+                    "closed_issues": "5",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1505990916",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 43,
+                    "open_issues": "40"
+                }
+            ],
+            "Points": 437
+        }
+    }
+}

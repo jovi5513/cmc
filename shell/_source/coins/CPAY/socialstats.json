@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "CPAY",
+            "CoinName": "CryptoPay",
+            "Type": "Webpagecoinp",
+            "Points": 23836
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 20338,
+                    "Name": "WhiteCoin",
+                    "FullName": "WhiteCoin (XWC)",
+                    "ImageUrl": "\/media\/350911\/xwc_1.png",
+                    "Url": "\/coins\/xwc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 318704,
+                    "Name": "Gladius",
+                    "FullName": "Gladius (GLA)",
+                    "ImageUrl": "\/media\/12318141\/gla.png",
+                    "Url": "\/coins\/gla\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 439180,
+                    "Name": "Neurotoken",
+                    "FullName": "Neurotoken (NTK)",
+                    "ImageUrl": "\/media\/16746560\/ntk.png",
+                    "Url": "\/coins\/ntk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4600,
+                    "Name": "ShadowCash",
+                    "FullName": "ShadowCash (SDC)",
+                    "ImageUrl": "\/media\/20419\/sdc.png",
+                    "Url": "\/coins\/sdc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35678,
+                    "Name": "Nexium",
+                    "FullName": "Nexium (NXC)",
+                    "ImageUrl": "\/media\/352248\/nxc.png",
+                    "Url": "\/coins\/nxc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 324012,
+                    "Name": "Earth Token",
+                    "FullName": "Earth Token (EARTH)",
+                    "ImageUrl": "\/media\/12318190\/earth.png",
+                    "Url": "\/coins\/earth\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28323,
+                    "Name": "Verium",
+                    "FullName": "Verium (VRM)",
+                    "ImageUrl": "\/media\/351522\/vrm.png",
+                    "Url": "\/coins\/vrm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5032,
+                    "Name": "StealthCoin",
+                    "FullName": "StealthCoin (XST)",
+                    "ImageUrl": "\/media\/20077\/xst.png",
+                    "Url": "\/coins\/xst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 338555,
+                    "Name": "AirToken",
+                    "FullName": "AirToken (AIR)",
+                    "ImageUrl": "\/media\/12318291\/air.png",
+                    "Url": "\/coins\/air\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 345017,
+                    "Name": "Authorship",
+                    "FullName": "Authorship (ATS)",
+                    "ImageUrl": "\/media\/12318356\/ats.png",
+                    "Url": "\/coins\/ats\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 569953,
+                    "Name": "authenticfilms",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/569953\/26922f74-76fd-44b5-bdc6-731bde3edd10.jpg",
+                    "Url": "\/profile\/authenticfilms\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 654900,
+                    "Name": "gialong.fic",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/654900\/6707cfbe-6b65-4768-bc33-11a91193d1c6.jpg",
+                    "Url": "\/profile\/gialong.fic\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 171634,
+                    "Name": "kosohomi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/171634\/b74631ef-79a4-4b4e-a10c-0235983cc99a.jpg",
+                    "Url": "\/profile\/kosohomi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 660512,
+                    "Name": "hanji1122",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/660512\/dc19638d-e05a-4a85-a7e1-125699ee1b58.jpg",
+                    "Url": "\/profile\/hanji1122\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 85931,
+                    "Name": "nenetofiles",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/85931\/f0e44bac-f913-4e76-a8b0-a31b31ca2943.jpg",
+                    "Url": "\/profile\/nenetofiles\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 364947,
+                    "Name": "ChuckNip",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/364947\/c38b9853-675b-4a32-b1ff-8217f6580dd5.jpg",
+                    "Url": "\/profile\/ChuckNip\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 128686,
+                    "Name": "sain",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/128686\/2f9275b3-f7a2-468e-a2fb-3c79ace2cd46.jpg",
+                    "Url": "\/profile\/sain\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 380402,
+                    "Name": "jumpingbadger",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/380402\/9280d308-fdba-4536-9963-2e4d5fff05e7.png",
+                    "Url": "\/profile\/jumpingbadger\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 457553,
+                    "Name": "sapkotamadan",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/457553\/41473e06-32b2-41e8-95c6-06d23cddb39b.jpg",
+                    "Url": "\/profile\/sapkotamadan\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 624173,
+                    "Name": "hmostafaali",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/624173\/e1d46ca1-4291-4461-baf2-7626f5019588.jpg",
+                    "Url": "\/profile\/hmostafaali\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 500909,
+                    "Name": "johnjohnston90",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/500909\/51a4c971-2ec6-4a46-b96c-b6d56a4c5422.jpg",
+                    "Url": "\/profile\/johnjohnston90\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 2105,
+            "Posts": "14",
+            "Comments": "13",
+            "Followers": 65,
+            "PageViewsSplit": {
+                "Overview": 7087,
+                "Markets": 288,
+                "Analysis": 309,
+                "Charts": 116,
+                "Trades": 148,
+                "Orderbook": 5,
+                "Forum": 344,
+                "Influence": 110
+            },
+            "PageViews": 8407
+        },
+        "Twitter": {
+            "favourites": "164",
+            "statuses": 841,
+            "following": "1658",
+            "account_creation": "1371393515",
+            "followers": 6651,
+            "name": "Cryptopay",
+            "link": "https:\/\/twitter.com\/cryptopay",
+            "lists": 209,
+            "Points": 7696
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "267",
+            "name": "Cryptopay",
+            "likes": 14035,
+            "link": "https:\/\/www.facebook.com\/cryptopayme\/",
+            "Points": 14035
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

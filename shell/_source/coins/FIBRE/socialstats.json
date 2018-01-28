@@ -1,0 +1,182 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "FIBRE",
+            "CoinName": "FIBRE",
+            "Type": "Webpagecoinp",
+            "Points": 3377
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 43818,
+                    "Name": "MarxCoin",
+                    "FullName": "MarxCoin (MARX)",
+                    "ImageUrl": "\/media\/1382578\/marx.png",
+                    "Url": "\/coins\/marx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4441,
+                    "Name": "Emerald",
+                    "FullName": "Emerald (EMD)",
+                    "ImageUrl": "\/media\/20278\/emd.png",
+                    "Url": "\/coins\/emd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38959,
+                    "Name": "Astral",
+                    "FullName": "Astral (AST*)",
+                    "ImageUrl": "\/media\/1382170\/ast.png",
+                    "Url": "\/coins\/aststar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 375396,
+                    "Name": "Project Zephyr",
+                    "FullName": "Project Zephyr (ZEPH)",
+                    "ImageUrl": "\/media\/14913542\/zeph.png",
+                    "Url": "\/coins\/zeph\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 38964,
+                    "Name": "PureVidz",
+                    "FullName": "PureVidz (VIDZ)",
+                    "ImageUrl": "\/media\/1382172\/vidz.png",
+                    "Url": "\/coins\/vidz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 196612,
+                    "Name": "Sosnovkino",
+                    "FullName": "Sosnovkino (SNK)",
+                    "ImageUrl": "\/media\/1383865\/snk.png",
+                    "Url": "\/coins\/snk\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41592,
+                    "Name": "Motocoin",
+                    "FullName": "Motocoin (MOTO)",
+                    "ImageUrl": "\/media\/1382339\/moto.png",
+                    "Url": "\/coins\/moto\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 6117,
+                    "Name": "Crypto",
+                    "FullName": "Crypto (CTO)",
+                    "ImageUrl": "\/media\/19808\/mrs.png",
+                    "Url": "\/coins\/cto\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 53174,
+                    "Name": "Netko",
+                    "FullName": "Netko (NETKO)",
+                    "ImageUrl": "\/media\/1382771\/netko.png",
+                    "Url": "\/coins\/netko\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 42843,
+                    "Name": "BitzCoin",
+                    "FullName": "BitzCoin (BTZ)",
+                    "ImageUrl": "\/media\/1382433\/btz.png",
+                    "Url": "\/coins\/btz\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 305958,
+                    "Name": "Karmia",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/305958\/946d510f-58c9-4dbc-b337-49dbaa90a608.jpg",
+                    "Url": "\/profile\/Karmia\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 323081,
+                    "Name": "slammminsammmy79",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/323081\/32a158f1-24c7-48ad-922c-c10d24a7250b.jpg",
+                    "Url": "\/profile\/slammminsammmy79\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 126948,
+                    "Name": "chaishepherd",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/126948\/c60654d0-39d1-4f5f-bee0-7eda81825880.jpg",
+                    "Url": "\/profile\/chaishepherd\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 46525,
+                    "Name": "1157zzzzzzz",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/46525\/3bcbd08d-94ec-4fa1-a4bc-d58d4d459a2d.png",
+                    "Url": "\/profile\/1157zzzzzzz\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 15803,
+                    "Name": "eka808",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/15803\/3ec76592-587f-437d-aabc-a0eadd07e533.jpg",
+                    "Url": "\/profile\/eka808\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 16781,
+                    "Name": "vortexvibez",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/16781\/b2ca06a7-92ba-49c6-a57e-5fa9efab3c5a.jpg",
+                    "Url": "\/profile\/vortexvibez\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 175,
+            "Followers": 7,
+            "PageViewsSplit": {
+                "Overview": 900,
+                "Markets": 33,
+                "Analysis": 46,
+                "Charts": 66,
+                "Trades": 49,
+                "Orderbook": 0,
+                "Forum": 23,
+                "Influence": 7
+            },
+            "PageViews": 1124
+        },
+        "Twitter": {
+            "following": "1302",
+            "account_creation": "1407587268",
+            "statuses": 1740,
+            "favourites": "533",
+            "followers": 2501,
+            "name": "Fibre",
+            "link": "https:\/\/twitter.com\/fibrecoin",
+            "lists": 140,
+            "Points": 3202
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

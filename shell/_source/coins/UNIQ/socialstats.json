@@ -1,0 +1,139 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "UNIQ",
+            "CoinName": "Uniqredit",
+            "Type": "Webpagecoinp",
+            "Points": 50
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 188677,
+                    "Name": "Bogcoin",
+                    "FullName": "Bogcoin (BOG)",
+                    "ImageUrl": "\/media\/1383826\/bog.png",
+                    "Url": "\/coins\/bog\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28128,
+                    "Name": "MedicCoin",
+                    "FullName": "MedicCoin (MDC)",
+                    "ImageUrl": "\/media\/351500\/mdc.png",
+                    "Url": "\/coins\/mdc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7590,
+                    "Name": "PharmaCoin",
+                    "FullName": "PharmaCoin (XPH)",
+                    "ImageUrl": "\/media\/20641\/xph.png",
+                    "Url": "\/coins\/xph\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5022,
+                    "Name": "SocialXbotCoin",
+                    "FullName": "SocialXbotCoin (XBOT)",
+                    "ImageUrl": "\/media\/20073\/xbot.png",
+                    "Url": "\/coins\/xbot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35407,
+                    "Name": "BAM",
+                    "FullName": "BAM (BamitCoin)",
+                    "ImageUrl": "\/media\/352236\/bam.png",
+                    "Url": "\/coins\/bam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 667050,
+                    "Name": "MediShares",
+                    "FullName": "MediShares (MDS)",
+                    "ImageUrl": "\/media\/20780773\/ipnvhhke_400x400.jpg",
+                    "Url": "\/coins\/mds\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 25825,
+                    "Name": "Coinomat",
+                    "FullName": "Coinomat (CNMT)",
+                    "ImageUrl": "\/media\/351396\/cnmt.png",
+                    "Url": "\/coins\/cnmt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43598,
+                    "Name": "CircuitCoin",
+                    "FullName": "CircuitCoin (CIR)",
+                    "ImageUrl": "\/media\/1382506\/cir.png",
+                    "Url": "\/coins\/cir\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29455,
+                    "Name": "Tianhe",
+                    "FullName": "Tianhe (TIA)",
+                    "ImageUrl": "\/media\/351636\/tia.png",
+                    "Url": "\/coins\/tia\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4588,
+                    "Name": "PseudoCash",
+                    "FullName": "PseudoCash (PSEUD)",
+                    "ImageUrl": "\/media\/20052\/pseud.png",
+                    "Url": "\/coins\/pseud\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 625970,
+                    "Name": "hausmann231",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/625970\/fcadea24-b795-4347-be94-eea9d125cbad.jpg",
+                    "Url": "\/profile\/hausmann231\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 50,
+            "Followers": 2,
+            "PageViewsSplit": {
+                "Overview": 316,
+                "Markets": 34,
+                "Analysis": 31,
+                "Charts": 20,
+                "Trades": 25,
+                "Orderbook": 1,
+                "Forum": 13,
+                "Influence": 19
+            },
+            "PageViews": 459
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

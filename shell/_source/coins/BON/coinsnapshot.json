@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "BON",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "1",
+            "PRICE": "0.00001714",
+            "LASTUPDATE": "1516092918",
+            "LASTVOLUME": "2.3531857",
+            "LASTVOLUMETO": "0.00027584",
+            "LASTTRADEID": "1516092918.001",
+            "VOLUMEDAY": "443501.40355389",
+            "VOLUMEDAYTO": "1.2654312513414763",
+            "VOLUME24HOUR": "16653866.562942788",
+            "VOLUME24HOURTO": "4.451073263036264",
+            "OPENDAY": "5e-7",
+            "HIGHDAY": "0.00002034",
+            "LOWDAY": "2e-8",
+            "OPEN24HOUR": "0.0000175",
+            "HIGH24HOUR": "0.00001751",
+            "LOW24HOUR": "0.00001484",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "BON",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00011722",
+                "LASTUPDATE": "1516092918",
+                "LASTVOLUME": "2.3531857",
+                "LASTVOLUMETO": "0.00027584",
+                "LASTTRADEID": "1516092918.001",
+                "VOLUME24HOUR": "35506.72451639",
+                "VOLUME24HOURTO": "3.8876940900000005",
+                "OPEN24HOUR": "0.00011965",
+                "HIGH24HOUR": "0.00011965",
+                "LOW24HOUR": "0.00010156"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Novaexchange",
+                "FROMSYMBOL": "BON",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "2e-8",
+                "LASTUPDATE": "1510210767",
+                "LASTVOLUME": "288979.5",
+                "LASTVOLUMETO": "0.00577959",
+                "LASTTRADEID": "1510210767001",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "2e-8",
+                "HIGH24HOUR": "2e-8",
+                "LOW24HOUR": "2e-8"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "BON",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "3e-8",
+                "LASTUPDATE": "1516091740",
+                "LASTVOLUME": "3333.66666666",
+                "LASTVOLUMETO": "0.00010000999999979999",
+                "LASTTRADEID": "200001391",
+                "VOLUME24HOUR": "16618359.838426398",
+                "VOLUME24HOURTO": "0.5633791730362632",
+                "OPEN24HOUR": "4e-8",
+                "HIGH24HOUR": "5e-8",
+                "LOW24HOUR": "2e-8"
+            }
+        ]
+    },
+    "Type": 100
+}

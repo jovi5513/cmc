@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 810253,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 10000303304.908,
+        "BlockReward": 0.38000542776925,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "WEX",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00000571",
+            "LASTUPDATE": "1510121161",
+            "LASTVOLUME": "45",
+            "LASTVOLUMETO": "0.00025695000000000004",
+            "LASTTRADEID": "17073",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.00000571",
+            "HIGHDAY": "0.00000571",
+            "LOWDAY": "0.00000571",
+            "OPEN24HOUR": "0.00000571",
+            "HIGH24HOUR": "0.00000571",
+            "LOW24HOUR": "0.00000571",
+            "LASTMARKET": "CCEX"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "WEX",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000571",
+                "LASTUPDATE": "1510121161",
+                "LASTVOLUME": "45",
+                "LASTVOLUMETO": "0.00025695000000000004",
+                "LASTTRADEID": "17073",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000571",
+                "HIGH24HOUR": "0.00000571",
+                "LOW24HOUR": "0.00000571"
+            }
+        ]
+    },
+    "Type": 100
+}

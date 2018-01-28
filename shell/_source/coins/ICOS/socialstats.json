@@ -1,0 +1,217 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ICOS",
+            "CoinName": "ICOBox",
+            "Type": "Webpagecoinp",
+            "Points": 9568
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 62529,
+                    "Name": "EncryptoTel",
+                    "FullName": "EncryptoTel (ETT)",
+                    "ImageUrl": "\/media\/1383046\/ett.png",
+                    "Url": "\/coins\/ett\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 136269,
+                    "Name": "Skycoin",
+                    "FullName": "Skycoin (SKY)",
+                    "ImageUrl": "\/media\/1383565\/sky.png",
+                    "Url": "\/coins\/sky\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 305252,
+                    "Name": "Sense Token",
+                    "FullName": "Sense Token (SENSE)",
+                    "ImageUrl": "\/media\/12318034\/sense.png",
+                    "Url": "\/coins\/sense\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29721,
+                    "Name": "Atomic Coin",
+                    "FullName": "Atomic Coin (ATOM)",
+                    "ImageUrl": "\/media\/351685\/atom.png",
+                    "Url": "\/coins\/atom\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 439136,
+                    "Name": "Gold Reward Token",
+                    "FullName": "Gold Reward Token (GRX)",
+                    "ImageUrl": "\/media\/16746557\/grx.png",
+                    "Url": "\/coins\/grx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 360740,
+                    "Name": "Xios",
+                    "FullName": "Xios (XIOS)",
+                    "ImageUrl": "\/media\/14761915\/xios.png",
+                    "Url": "\/coins\/xios\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4442,
+                    "Name": "Exclusive Coin",
+                    "FullName": "Exclusive Coin (EXCL)",
+                    "ImageUrl": "\/media\/20035\/excl.png",
+                    "Url": "\/coins\/excl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45258,
+                    "Name": "FirstCoin",
+                    "FullName": "FirstCoin (FRST)",
+                    "ImageUrl": "\/media\/352116\/first.png",
+                    "Url": "\/coins\/frst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 350048,
+                    "Name": "Ethereum Blue",
+                    "FullName": "Ethereum Blue (BLUE)",
+                    "ImageUrl": "\/media\/12318407\/blue.png",
+                    "Url": "\/coins\/blue\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4340,
+                    "Name": "BlueCoin",
+                    "FullName": "BlueCoin (BLU)",
+                    "ImageUrl": "\/media\/19624\/blu.png",
+                    "Url": "\/coins\/blu\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 499644,
+                    "Name": "toddicus13",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/499644\/72b35b12-e80c-4095-8584-8e62e6e5e9b0.jpg",
+                    "Url": "\/profile\/toddicus13\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 52123,
+                    "Name": "hazem.fanto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/52123\/cb912c2a-ec4d-4cc0-9518-d87d78c6fa50.jpg",
+                    "Url": "\/profile\/hazem.fanto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 380402,
+                    "Name": "jumpingbadger",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/380402\/9280d308-fdba-4536-9963-2e4d5fff05e7.png",
+                    "Url": "\/profile\/jumpingbadger\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 164579,
+                    "Name": "requestingbeer",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/164579\/68247ba1-e25b-48a7-8815-c9d5bd5319e2.jpg",
+                    "Url": "\/profile\/requestingbeer\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 233525,
+                    "Name": "michaelconsoli",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/233525\/2e2cdee9-b2be-4e28-baaf-556e39ff28d7.jpg",
+                    "Url": "\/profile\/michaelconsoli\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 288634,
+                    "Name": "4698AB99",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/288634\/5cf0770f-9237-4483-900b-7d6eaa843abc.jpg",
+                    "Url": "\/profile\/4698AB99\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 226032,
+                    "Name": "mnsor",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/226032\/8084f42f-e71a-4b02-adc0-d271e5181e9b.png",
+                    "Url": "\/profile\/mnsor\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 422468,
+                    "Name": "edbond88",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/422468\/df38cde2-7a54-4b1d-aa49-813461fecc65.jpg",
+                    "Url": "\/profile\/edbond88\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 367393,
+                    "Name": "leejaycant",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/367393\/604a5005-039e-4ebd-81bd-894b8f21d32e.jpg",
+                    "Url": "\/profile\/leejaycant\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 360486,
+                    "Name": "shestov93",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/360486\/2e31c4d9-95f3-4f12-941b-6945be87f5c0.jpg",
+                    "Url": "\/profile\/shestov93\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 374607,
+                    "Name": "zaza2017",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/374607\/329a46a0-e65f-4978-ab52-9c22511a4665.jpg",
+                    "Url": "\/profile\/zaza2017\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1830,
+            "Posts": "3",
+            "Comments": "3",
+            "Followers": 69,
+            "PageViewsSplit": {
+                "Overview": 8341,
+                "Markets": 1206,
+                "Analysis": 408,
+                "Charts": 508,
+                "Trades": 430,
+                "Orderbook": 12,
+                "Forum": 123,
+                "Influence": 71
+            },
+            "PageViews": 11099
+        },
+        "Twitter": {
+            "favourites": "550",
+            "statuses": 708,
+            "following": "103",
+            "account_creation": "1407969342",
+            "followers": 4354,
+            "name": "ICObox",
+            "link": "https:\/\/twitter.com\/icobox_io",
+            "lists": 52,
+            "Points": 4614
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "is_closed": "false",
+            "talking_about": "174",
+            "name": "ICObox",
+            "likes": 3123,
+            "link": "https:\/\/www.facebook.com\/icobox.io\/",
+            "Points": 3123
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

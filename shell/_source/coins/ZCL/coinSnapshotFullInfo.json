@@ -1,0 +1,81 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "ZClassic (ZCL) - Live streaming prices and market cap",
+            "PageDescription": "Live ZClassic prices from all markets and ZCL coin market Capitalization. Stay up to date with the latest ZClassic price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/351926\/zcl.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "32544",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "ZClassic (ZCL)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ZCL",
+            "Url": "\/coins\/zcl\/",
+            "BaseAngularUrl": "\/coins\/zcl\/",
+            "Name": "ZClassic",
+            "ImageUrl": "\/media\/351926\/zcl.png",
+            "Description": "<p>ZClassic is a cryptocurrency forked from Zcash. It has the exact same features as ZEC, including its private transactions protected by zero knowledge proofs and its Equihash Proof of Stake mining, but with no founder&#39;s reward. This founder&#39;s reward is currently deducted from mined zcash blocks (20% of all block rewards during the first four years of mining which will amount to 10% of the total zcash supply). By removing this founder&#39;s reward ZClassic wants to make mining fair for everyone involved.<\/p><p><span>Block explorer data from <a href=\"https:\/\/classic.zcha.in\/\" target=\"_blank\">https:\/\/classic.zcha.in\/<\/a><\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "21000000",
+            "Algorithm": "Equihash",
+            "ProofType": "PoW",
+            "StartDate": "06\/11\/2016",
+            "Twitter": "@ZclassicCoin",
+            "AffiliateUrl": "http:\/\/zclassic.org\/",
+            "Website": "<a href='http:\/\/zclassic.org\/' target='_blank'>ZClassic<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1497842539,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 150,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 0,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 12.5
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~BitTrex~ZCL~BTC",
+            "2~Cryptopia~ZCL~BTC",
+            "2~CCEX~ZCL~USD",
+            "2~Cryptopia~ZCL~UNO",
+            "2~Cryptopia~ZCL~DOT",
+            "2~CCEX~ZCL~ETH",
+            "2~Cryptopia~ZCL~LTC",
+            "2~CCEX~ZCL~LTC",
+            "2~Cryptopia~ZCL~DOGE",
+            "2~CCEX~ZCL~BTC",
+            "2~CCEX~ZCL~DOGE",
+            "2~Cryptopia~ZCL~XMR"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ZCL~BTC~4~0.01516~1515951553~11.67834867~0.17751089~14040560~86377.32358847944~1253.0138158799864~145648.29695704003~2146.6983917700004~0.01561~0.01561~0.01345~0.01453~0.01587~0.01343~BitTrex~7ffe9",
+            "5~CCCAGG~ZCL~USD~4~0.77000002~1505558281~0.001~0.00077000002~1693981~0~0~0~0~0.77000002~0.77000002~0.77000002~0.77000002~0.77000002~0.77000002~CCEX~7ffe9",
+            "5~CCCAGG~ZCL~UNO~4~0.089~1498084276~0.14309368~0.01273534~1498084276~0~0~0~0~0.089~0.089~0.089~0.089~0.089~0.089~Cryptopia~7ffe9",
+            "5~CCCAGG~ZCL~DOT~4~1500.00000013~1489096544~0.001131~1.6965~1489096544~0~0~0~0~1500.00000013~1500.00000013~1500.00000013~1500.00000013~1500.00000013~1500.00000013~Cryptopia~7ffe9",
+            "5~CCCAGG~ZCL~ETH~4~0.01000128~1482127921~2.00801521~0.0200827223594688~70764~0~0~0~0~0.01000128~0.01000128~0.01000128~0.01000128~0.01000128~0.01000128~CCEX~7ffe9",
+            "5~CCCAGG~ZCL~LTC~4~0.56000001~1515197074~0.10506191~0.05883467~1515197074~0~0~0~0~0.56~0.56000001~0.56~0.56000001~0.56000001~0.56000001~Cryptopia~7ffe9",
+            "5~CCCAGG~ZCL~DOGE~4~10841.442~1515194684~0.03735336~404.96428595~1515194684.002~0~0~0~0~10841.44~10841.442~10841.44~10841.442~10841.442~10841.442~Cryptopia~7ffe9",
+            "5~CCCAGG~ZCL~XMR~4~0.0006748~1486694874~37.96528705~0.025619~1486694874~0~0~0~0~0.0006748~0.0006748~0.0006748~0.0006748~0.0006748~0.0006748~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

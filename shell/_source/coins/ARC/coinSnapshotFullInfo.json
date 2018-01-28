@@ -1,0 +1,86 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "ArcticCoin (ARC) - Live streaming prices and market cap",
+            "PageDescription": "Live ArcticCoin prices from all markets and ARC coin market Capitalization. Stay up to date with the latest ArcticCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1383824\/arc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "188615",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "ArcticCoin (ARC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ARC",
+            "Url": "\/coins\/arc\/",
+            "BaseAngularUrl": "\/coins\/arc\/",
+            "Name": "ArcticCoin",
+            "ImageUrl": "\/media\/1383824\/arc.png",
+            "Description": "<p>ArcticCoin is a PoW cryptocurrency based on the X11 algorithm. It has a 60M supply.<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "60000000",
+            "Algorithm": "X11",
+            "ProofType": "PoW",
+            "StartDate": "24\/07\/2014",
+            "Twitter": "",
+            "AffiliateUrl": "https:\/\/arcticcoin.org\/",
+            "Website": "<a href='https:\/\/arcticcoin.org\/' target='_blank'>ArcticCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515972761,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 275579,
+            "BlockTime": 90,
+            "NetHashesPerSecond": 171856732997.16,
+            "TotalCoinsMined": 24620870.858586,
+            "PreviousTotalCoinsMined": 24620789.858586,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~LiveCoin~ARC~USD",
+            "2~Cryptopia~ARC~LTC",
+            "2~LiveCoin~ARC~ETH",
+            "2~CCEX~ARC~DOGE",
+            "2~Cryptopia~ARC~DOT",
+            "2~Cryptopia~ARC~FTC",
+            "2~LiveCoin~ARC~RUR",
+            "2~CCEX~ARC~USD",
+            "2~LiveCoin~ARC~BTC",
+            "2~EtherDelta~ARC~ETH",
+            "2~CCEX~ARC~LTC",
+            "2~Cryptopia~ARC~BTC",
+            "2~Cryptopia~ARC~XMR",
+            "2~Cryptopia~ARC~DOGE",
+            "2~Cryptopia~ARC~UNO"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ARC~USD~4~0.094~1502406038~0.09996~0.00939624~144564998~0~0~0~0~0.094~0.094~0.094~0.094~0.094~0.094~LiveCoin~7ffe9",
+            "5~CCCAGG~ARC~LTC~4~0.00085686~1515196200~14.01410443~0.01200813~1515196200~0~0~0~0~0.00085686~0.00085686~0.00085686~0.00085686~0.00085686~0.00085686~Cryptopia~7ffe9",
+            "5~CCCAGG~ARC~ETH~4~0.0003~1502225855~26.49194782~0.007947584346~143255176~0~0~0~0~0.0003~0.0003~0.0003~0.0003~0.0003~0.0003~LiveCoin~7ffe9",
+            "5~CCCAGG~ARC~DOGE~4~13.00010001~1515183788~16.59226699~215.70113026~1515183788~0~0~0~0~13~13.00010001~13~13.00010001~13.00010001~13.00010001~Cryptopia~7ffe9",
+            "5~CCCAGG~ARC~DOT~4~98~1489047862~7.32276356~717.630829~1489047862.001~0~0~0~0~98~98~98~98~98~98~Cryptopia~7ffe9",
+            "5~CCCAGG~ARC~FTC~4~0.15800016~1486604985~19.99999105~3.160002~1486604985.001~0~0~0~0~0.15800016~0.15800016~0.15800016~0.15800016~0.15800016~0.15800016~Cryptopia~7ffe9",
+            "5~CCCAGG~ARC~RUR~4~3.2~1501736419~179.90199~575.686368~140695430~0~0~0~0~3.2~3.2~3.2~3.2~3.2~3.2~LiveCoin~7ffe9",
+            "5~CCCAGG~ARC~BTC~4~0.00002047~1515977384~170~0.0034799~1515977384~8279.224239809999~0.16280526~191548.43604079998~4.186264550000001~0.00002036~0.00002047~0.00001952~0.00002246~0.0000251~0.0000194~Cryptopia~7ffe9",
+            "5~CCCAGG~ARC~XMR~4~0.00001504~1486694951~1164.76277658~0.017518~1486694951~0~0~0~0~0.00001504~0.00001504~0.00001504~0.00001504~0.00001504~0.00001504~Cryptopia~7ffe9",
+            "5~CCCAGG~ARC~UNO~4~0.001~1496981382~1000~1~1496981382~0~0~0~0~0.001~0.001~0.001~0.001~0.001~0.001~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

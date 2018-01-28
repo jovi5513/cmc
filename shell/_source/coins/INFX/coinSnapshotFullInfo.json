@@ -1,0 +1,87 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Influxcoin (INFX) - Live streaming prices and market cap",
+            "PageDescription": "Live Influxcoin prices from all markets and INFX coin market Capitalization. Stay up to date with the latest Influxcoin price movements and forum discussion. Check our our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/350919\/infx.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "20446",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Influxcoin (INFX)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "INFX",
+            "Url": "\/coins\/infx\/",
+            "BaseAngularUrl": "\/coins\/infx\/",
+            "Name": "Influxcoin",
+            "ImageUrl": "\/media\/350919\/infx.png",
+            "Description": "<p><span>Influxcoin is a X11 algorithm based coin with no pre-mine using a Pow+Pos Hybrid backend and designed specifically for CPU\/GPU mining. INFX focuses on web hosting.\u00a0<\/span><span>You can exchange BTC for INFX directly on the Influxcoin website.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "12000000",
+            "Algorithm": "X11",
+            "ProofType": "PoW\/PoS",
+            "StartDate": "26\/08\/2015",
+            "Twitter": "@Infxcoin",
+            "AffiliateUrl": "http:\/\/chainworksindustries.com\/",
+            "Website": "<a href='http:\/\/chainworksindustries.com\/' target='_blank'>Influxcoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515950401,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 460987,
+            "BlockTime": 420,
+            "NetHashesPerSecond": 8490001521031.5,
+            "TotalCoinsMined": 2839814.514349,
+            "PreviousTotalCoinsMined": 2839790.1725074,
+            "BlockReward": 1.5952621200122
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Cryptopia~INFX~ETH",
+            "2~Yobit~INFX~DOGE",
+            "2~BitTrex~INFX~BTC",
+            "2~Yobit~INFX~ETH",
+            "2~Cryptopia~INFX~FTC",
+            "2~Cryptopia~INFX~XMR",
+            "2~Yobit~INFX~USD",
+            "2~Cryptopia~INFX~UNO",
+            "2~Cryptopia~INFX~DOT",
+            "2~Yobit~INFX~RUR",
+            "2~Cryptopia~INFX~LTC",
+            "2~Yobit~INFX~BTC",
+            "2~Cryptopia~INFX~POP",
+            "2~Cryptopia~INFX~BTC",
+            "2~Cryptopia~INFX~DOGE"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~INFX~ETH~4~0.22999999~1515767197~0.05593624~0.0128653346406376~200000000~0~0~0~0~0.22999999~0.22999999~0.22999999~0.22999999~0.22999999~0.22999999~Yobit~7ffe9",
+            "5~CCCAGG~INFX~DOGE~4~82.13100107~1515404027~0.28946616~23.77414549668879~182101165~0~0~0~0~82.13~82.13100107~82.13~82.13100107~82.13100107~82.13100107~Yobit~7ffe9",
+            "5~CCCAGG~INFX~BTC~1~0.0002091~1515950335~181.22787516~0.03784581~9046776~130959.16420001995~28.109064024861098~156984.34407064004~33.409527221398825~0.0002002~0.0002385~0.0001913~0.0002091~0.0002392~0.0001909~BitTrex~7ffe9",
+            "5~CCCAGG~INFX~FTC~4~0.28000052~1477581898~2.54223196~0.711826~1477581898~0~0~0~0~0.28000052~0.28000052~0.28000052~0.28000052~0.28000052~0.28000052~Cryptopia~7ffe9",
+            "5~CCCAGG~INFX~XMR~4~0.00050004~1478568450~4~0.002~1478568450~0~0~0~0~0.00050004~0.00050004~0.00050004~0.00050004~0.00050004~0.00050004~Cryptopia~7ffe9",
+            "5~CCCAGG~INFX~USD~4~3.1~1515943861~1~3.10000013~200000014~2~6.20000026~2~6.20000026~3~3.1~3~3.1~3.1~3.1~Yobit~7ffe9",
+            "5~CCCAGG~INFX~UNO~4~0.0224~1497537255~0.00757543~0.00016969~1497537255~0~0~0~0~0.0224~0.0224~0.0224~0.0224~0.0224~0.0224~Cryptopia~7ffe9",
+            "5~CCCAGG~INFX~DOT~4~4.11000089~1483623894~0.00974047~0.040033~1483623894~0~0~0~0~4.11000089~4.11000089~4.11000089~4.11000089~4.11000089~4.11000089~Cryptopia~7ffe9",
+            "5~CCCAGG~INFX~RUR~4~191~1515782007~0.33690586~64.34901926~200000004~0~0~0~0~191~191~191~191~191~191~Yobit~7ffe9",
+            "5~CCCAGG~INFX~LTC~4~0.02199995~1515189290~1~0.02199995~1515189290~0~0~0~0~0.022~0.022~0.02199995~0.02199995~0.02199995~0.02199995~Cryptopia~7ffe9",
+            "5~CCCAGG~INFX~POP~4~70002~1457435158~1e-7~0.007~1457435158~0~0~0~0~70002~70002~70002~70002~70002~70002~Cryptopia~7ffe9"
+        ]
+    },
+    "Type": 100
+}

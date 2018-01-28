@@ -1,0 +1,149 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "INK",
+            "CoinName": "Ink",
+            "Type": "Webpagecoinp",
+            "Points": 1776
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 32686,
+                    "Name": "Pabyosi Coin",
+                    "FullName": "Pabyosi Coin (PCS)",
+                    "ImageUrl": "\/media\/351927\/pabyosi.png",
+                    "Url": "\/coins\/pcs\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5400,
+                    "Name": "Quotient",
+                    "FullName": "Quotient (XQN)",
+                    "ImageUrl": "\/media\/12318067\/xqn.png",
+                    "Url": "\/coins\/xqn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 8716,
+                    "Name": "SpecCoin",
+                    "FullName": "SpecCoin (SPEC)",
+                    "ImageUrl": "\/media\/20689\/spec.png",
+                    "Url": "\/coins\/spec\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 645936,
+                    "Name": "GunCoin",
+                    "FullName": "GunCoin (GUN)",
+                    "ImageUrl": "\/media\/20780703\/gun.png",
+                    "Url": "\/coins\/gun\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28776,
+                    "Name": "DollarCoin",
+                    "FullName": "DollarCoin (DLC)",
+                    "ImageUrl": "\/media\/351559\/dlc.png",
+                    "Url": "\/coins\/dlc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20644,
+                    "Name": "SunShotCoin",
+                    "FullName": "SunShotCoin (SSTC)",
+                    "ImageUrl": "\/media\/350937\/ssc.png",
+                    "Url": "\/coins\/sstc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 372608,
+                    "Name": "Rupaya",
+                    "FullName": "Rupaya (RUPX)",
+                    "ImageUrl": "\/media\/14913484\/rupx.png",
+                    "Url": "\/coins\/rupx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 660438,
+                    "Name": "IrishCoin",
+                    "FullName": "IrishCoin (IRL)",
+                    "ImageUrl": "\/media\/20780751\/irl.png",
+                    "Url": "\/coins\/irl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 32548,
+                    "Name": "RoyalCoin 2.0",
+                    "FullName": "RoyalCoin 2.0 (RYCN)",
+                    "ImageUrl": "\/media\/351756\/royal.png",
+                    "Url": "\/coins\/rycn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 59973,
+                    "Name": "The Vegan Initiative",
+                    "FullName": "The Vegan Initiative (XVE)",
+                    "ImageUrl": "\/media\/1382937\/xve.png",
+                    "Url": "\/coins\/xve\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 608883,
+                    "Name": "cricabeto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/608883\/c16e7750-a277-43a8-81a9-90e3b788118b.jpg",
+                    "Url": "\/profile\/cricabeto\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 25,
+            "Followers": 1,
+            "PageViewsSplit": {
+                "Overview": 23,
+                "Markets": 3,
+                "Analysis": 1,
+                "Charts": 0,
+                "Trades": 0,
+                "Orderbook": 0,
+                "Forum": 0,
+                "Influence": 1
+            },
+            "PageViews": 28
+        },
+        "Twitter": {
+            "favourites": "0",
+            "statuses": 72,
+            "following": "2",
+            "account_creation": "1507063038",
+            "followers": 1345,
+            "name": "Ink Labs Foundation",
+            "link": "https:\/\/twitter.com\/inklabsfound",
+            "lists": 32,
+            "Points": 1505
+        },
+        "Reddit": {
+            "posts_per_hour": "0.01",
+            "link": "https:\/\/www.reddit.com\/r\/InkLabsFoundation\/",
+            "comments_per_hour": "0.01",
+            "posts_per_day": "0.27",
+            "active_users": 39,
+            "community_creation": "1509265668",
+            "subscribers": 129,
+            "name": "InkLabsFoundation",
+            "comments_per_day": 0.3,
+            "Points": 246
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [],
+            "Points": 0
+        }
+    }
+}

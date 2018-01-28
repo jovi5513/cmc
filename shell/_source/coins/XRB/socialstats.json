@@ -1,0 +1,242 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XRB",
+            "CoinName": "RaiBlocks",
+            "Type": "Webpagecoinp",
+            "Points": 89548
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5288,
+                    "Name": "StorjCoin",
+                    "FullName": "StorjCoin (SJCX)",
+                    "ImageUrl": "\/media\/20422\/sjcx.png",
+                    "Url": "\/coins\/sjcx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 166548,
+                    "Name": "Monaco",
+                    "FullName": "Monaco (MCO)",
+                    "ImageUrl": "\/media\/1383653\/mco.jpg",
+                    "Url": "\/coins\/mco\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 23432,
+                    "Name": "LBRY Credits",
+                    "FullName": "LBRY Credits (LBC)",
+                    "ImageUrl": "\/media\/351211\/lbc.png",
+                    "Url": "\/coins\/lbc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43042,
+                    "Name": "Waves Community Token",
+                    "FullName": "Waves Community Token (WCT)",
+                    "ImageUrl": "\/media\/350884\/waves_1.png",
+                    "Url": "\/coins\/wct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 26132,
+                    "Name": "Komodo",
+                    "FullName": "Komodo (KMD)",
+                    "ImageUrl": "\/media\/351408\/kmd.png",
+                    "Url": "\/coins\/kmd\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 2349,
+                    "Name": "PeerCoin",
+                    "FullName": "PeerCoin (PPC)",
+                    "ImageUrl": "\/media\/19864\/peercoin-logo.png",
+                    "Url": "\/coins\/ppc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 44003,
+                    "Name": "PacCoin",
+                    "FullName": "PacCoin (PAC)",
+                    "ImageUrl": "\/media\/20780670\/pac.png",
+                    "Url": "\/coins\/pac\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 314580,
+                    "Name": "Salt Lending",
+                    "FullName": "Salt Lending (SALT)",
+                    "ImageUrl": "\/media\/9350744\/salt.jpg",
+                    "Url": "\/coins\/salt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 75475,
+                    "Name": "MinersReward",
+                    "FullName": "MinersReward (MRT)",
+                    "ImageUrl": "\/media\/350884\/waves_1.png",
+                    "Url": "\/coins\/mrt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 177918,
+                    "Name": "Kin",
+                    "FullName": "Kin (KIN)",
+                    "ImageUrl": "\/media\/1383731\/kin.png",
+                    "Url": "\/coins\/kin\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 670606,
+                    "Name": "jaramosiii35",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670606\/22dad5ca-3937-44f7-968e-d86c9fd3be30.jpg",
+                    "Url": "\/profile\/jaramosiii35\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 130157,
+                    "Name": "TEAMTRAE",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/130157\/2fe02c33-2ca5-409c-8ff8-1e244af83667.jpg",
+                    "Url": "\/profile\/TEAMTRAE\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676497,
+                    "Name": "johnclarity",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676497\/a2840ade-158e-4500-bead-76789771533e.jpg",
+                    "Url": "\/profile\/johnclarity\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 676364,
+                    "Name": "ivanmailes",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/676364\/c9ef0a3e-b056-4841-8ddc-8d7622750055.jpg",
+                    "Url": "\/profile\/ivanmailes\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 673843,
+                    "Name": "uns.younas",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/673843\/f908e9e5-a705-42e7-9b84-14d413a88eca.jpg",
+                    "Url": "\/profile\/uns.younas\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 468791,
+                    "Name": "lilycocoanut",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/468791\/7a6db4bf-ede2-4c3f-a6d9-0ce3e88e2cd1.jpg",
+                    "Url": "\/profile\/lilycocoanut\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 637726,
+                    "Name": "rasheddaka3",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/637726\/61bb84e6-2b20-443d-b726-2c529ca712c8.jpg",
+                    "Url": "\/profile\/rasheddaka3\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 420742,
+                    "Name": "luismufe",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/420742\/0f3becfa-6c08-4e4e-802c-eb44222f1eac.jpg",
+                    "Url": "\/profile\/luismufe\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 330347,
+                    "Name": "i.okwor71",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/330347\/9b50aa34-903e-4fe4-b132-6ad658f8fc6b.jpg",
+                    "Url": "\/profile\/i.okwor71\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 428782,
+                    "Name": "dykapero",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/428782\/c8277188-1e0b-434c-bc6c-cb7ad6e2483c.jpg",
+                    "Url": "\/profile\/dykapero\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 394467,
+                    "Name": "hp.poczta",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/394467\/e7245d0b-eb7f-4219-b736-3c110ff53046.jpg",
+                    "Url": "\/profile\/hp.poczta\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 753,
+            "Posts": "233",
+            "Comments": "131",
+            "Points": 25960,
+            "PageViewsSplit": {
+                "Overview": 42254,
+                "Markets": 4087,
+                "Analysis": 1149,
+                "Charts": 3194,
+                "Trades": 1011,
+                "Orderbook": 4,
+                "Forum": 5692,
+                "Influence": 315
+            },
+            "PageViews": 57706
+        },
+        "Twitter": {
+            "favourites": "441",
+            "statuses": 280,
+            "following": "69",
+            "account_creation": "1456795306",
+            "name": "RaiBlocks",
+            "link": "https:\/\/twitter.com\/raiblocks",
+            "lists": 513,
+            "followers": 58658,
+            "Points": 61223
+        },
+        "Reddit": {
+            "link": "https:\/\/www.reddit.com\/r\/RaiBlocks\/\/",
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "url": "https:\/\/github.com\/clemahieu\/raiblocks",
+                    "last_update": "1515972892",
+                    "subscribers": 195,
+                    "size": "11995",
+                    "created_at": "1398955765",
+                    "open_pull_issues": "14",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "language": "C++",
+                    "open_total_issues": "225",
+                    "stars": 1301,
+                    "forks": 237,
+                    "closed_pull_issues": "147",
+                    "closed_total_issues": "268",
+                    "open_issues": "211",
+                    "closed_issues": "121",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "fork": "false",
+                    "last_push": "1515972928"
+                }
+            ],
+            "Points": 2360
+        }
+    }
+}

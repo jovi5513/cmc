@@ -1,0 +1,84 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "SocialCoin (SOCC) - Live streaming prices and market cap",
+            "PageDescription": "Live SocialCoin prices from all markets and SOCC coin market Capitalization. Stay up to date with the latest SocialCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/1383779\/socc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "183189",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "SocialCoin (SOCC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "SOCC",
+            "Url": "\/coins\/socc\/",
+            "BaseAngularUrl": "\/coins\/socc\/",
+            "Name": "SocialCoin",
+            "ImageUrl": "\/media\/1383779\/socc.png",
+            "Description": "<p>SocialCoin is a Proof of Work cryptocurrency based on the Scrypt algorithm. The coin was created to be used as a reward for interactive with certain content in<span>\u00a0platforms such as Facebook, Twitter, YouTube, TripAdvisor, online forums such as Pistonheads and so on.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": " 75000000",
+            "Algorithm": "Scrypt",
+            "ProofType": "PoW",
+            "StartDate": "20\/06\/2017",
+            "Twitter": "@SocialCoinNetwk",
+            "AffiliateUrl": "http:\/\/www.social-coin.co.uk\/",
+            "Website": "<a href='http:\/\/www.social-coin.co.uk\/' target='_blank'>SocialCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": 1515970001,
+            "DifficultyAdjustment": null,
+            "BlockRewardReduction": null,
+            "BlockNumber": 0,
+            "BlockTime": 240,
+            "NetHashesPerSecond": 0,
+            "TotalCoinsMined": 1384879,
+            "PreviousTotalCoinsMined": 0,
+            "BlockReward": 0
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~Novaexchange~SOCC~KIC",
+            "2~Novaexchange~SOCC~LTC",
+            "2~Novaexchange~SOCC~DOGE",
+            "2~Yobit~SOCC~BTC",
+            "2~Novaexchange~SOCC~BTC",
+            "2~Yobit~SOCC~WAVES",
+            "2~Novaexchange~SOCC~MOON",
+            "2~Yobit~SOCC~RUR",
+            "2~Yobit~SOCC~ETH",
+            "2~Yobit~SOCC~DOGE",
+            "2~Novaexchange~SOCC~ETH",
+            "2~Yobit~SOCC~USD",
+            "2~Novaexchange~SOCC~ESP2"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~SOCC~KIC~4~90.01~1505785047~0.00555493~0.4999992493~1505785047000~0~0~0~0~90.01~90.01~90.01~90.01~90.01~90.01~Novaexchange~7ffe9",
+            "5~CCCAGG~SOCC~LTC~4~0.00000301~1504732844~747.28607583~0.0022493310882483~1504732844000~0~0~0~0~0.00000301~0.00000301~0.00000301~0.00000301~0.00000301~0.00000301~Novaexchange~7ffe9",
+            "5~CCCAGG~SOCC~DOGE~4~8.5~1515933355~20~169.99999939999998~200000010~0~0~20~169.99999939999998~8.5~8.5~8.5~8.5~8.5~8.5~Yobit~7ffe9",
+            "5~CCCAGG~SOCC~BTC~4~0.00000692~1515974073~350~0.002422~200000189~0~0~15428.468031810002~0.09930684873175871~0.00000692~0.00000692~0.00000692~0.00000567~0.00000695~0.00000454~Yobit~7ffe9",
+            "5~CCCAGG~SOCC~WAVES~4~0.00999989~1515661686~96.73657581~0.967355117076661~184060703~0~0~0~0~0.01~0.01~0.00999989~0.00999989~0.00999989~0.00999989~Yobit~7ffe9",
+            "5~CCCAGG~SOCC~MOON~4~1000000~1501404690~0.0001~100~1501404690000~0~0~0~0~1000000~1000000~1000000~1000000~1000000~1000000~Novaexchange~7ffe9",
+            "5~CCCAGG~SOCC~RUR~4~2.5~1515812773~0.91920848~2.2980212~200000003~0~0~0~0~2.5~2.5~2.5~2.5~2.5~2.5~Yobit~7ffe9",
+            "5~CCCAGG~SOCC~ETH~4~0.00001027~1515902011~11~0.00011297~200000003~0~0~41~0.009681770000000001~0.00001027~0.00001027~0.00001027~0.00036~0.00036~0.00001027~Yobit~7ffe9",
+            "5~CCCAGG~SOCC~USD~4~0.08000002~1515763541~125.00038539~10.000033331207709~200000001~0~0~0~0~0.08000002~0.08000002~0.08000002~0.08000002~0.08000002~0.08000002~Yobit~7ffe9",
+            "5~CCCAGG~SOCC~ESP2~4~8999.99999999~1505784381~0.00011111~0.9999899999988888~1505784381000~0~0~0~0~8999.99999999~8999.99999999~8999.99999999~8999.99999999~8999.99999999~8999.99999999~Novaexchange~7ffe9"
+        ]
+    },
+    "Type": 100
+}

@@ -1,0 +1,232 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "HALLO",
+            "CoinName": "Halloween Coin",
+            "Type": "Webpagecoinp",
+            "Points": 406
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5333,
+                    "Name": "JackPotCoin",
+                    "FullName": "JackPotCoin (JPC)",
+                    "ImageUrl": "\/media\/19759\/jpc.png",
+                    "Url": "\/coins\/jpc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 388076,
+                    "Name": "Emphy",
+                    "FullName": "Emphy (EPY*)",
+                    "ImageUrl": "\/media\/14913643\/epy.png",
+                    "Url": "\/coins\/epystar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 53915,
+                    "Name": "Honey",
+                    "FullName": "Honey (HONEY)",
+                    "ImageUrl": "\/media\/1382937\/honey1.png",
+                    "Url": "\/coins\/honey\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4611,
+                    "Name": "SecureCoin",
+                    "FullName": "SecureCoin (SRC)",
+                    "ImageUrl": "\/media\/19918\/src.png",
+                    "Url": "\/coins\/src\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 334856,
+                    "Name": "Arbi",
+                    "FullName": "Arbi (ARBI)",
+                    "ImageUrl": "\/media\/12318258\/arbi.png",
+                    "Url": "\/coins\/arbi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5358,
+                    "Name": "GSM Coin",
+                    "FullName": "GSM Coin (GSM)",
+                    "ImageUrl": "\/media\/20316\/gsm.png",
+                    "Url": "\/coins\/gsm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4447,
+                    "Name": "FireflyCoin",
+                    "FullName": "FireflyCoin (FFC)",
+                    "ImageUrl": "\/media\/19706\/ffc.png",
+                    "Url": "\/coins\/ffc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28342,
+                    "Name": "Pioneershares",
+                    "FullName": "Pioneershares (PIO)",
+                    "ImageUrl": "\/media\/351528\/pio.png",
+                    "Url": "\/coins\/pio\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 336556,
+                    "Name": "Rockchain",
+                    "FullName": "Rockchain (ROK)",
+                    "ImageUrl": "\/media\/12318268\/rok.png",
+                    "Url": "\/coins\/rok\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 41989,
+                    "Name": "GoldenBird",
+                    "FullName": "GoldenBird (XGB)",
+                    "ImageUrl": "\/media\/1382372\/xgb.png",
+                    "Url": "\/coins\/xgb\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 542880,
+                    "Name": "andrewgorman113",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/542880\/4fa12e89-f022-49e2-8c01-bdf2d5801fc2.jpg",
+                    "Url": "\/profile\/andrewgorman113\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 524371,
+                    "Name": "sahherry",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/524371\/6068e14b-7485-4381-b37d-ae4fc281d063.jpg",
+                    "Url": "\/profile\/sahherry\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 368856,
+                    "Name": "diego.giero",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/368856\/260b8b3a-49f7-44d3-b453-1677c0da2adf.jpg",
+                    "Url": "\/profile\/diego.giero\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 155237,
+                    "Name": "binucek78",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/155237\/1ed19f16-68c1-421b-b7fd-81b5b150f865.jpg",
+                    "Url": "\/profile\/binucek78\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 338428,
+                    "Name": "jdallas111",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/338428\/89518337-505e-4076-857c-349f5b0c46f5.jpg",
+                    "Url": "\/profile\/jdallas111\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 362543,
+                    "Name": "gestitzer",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/362543\/c997bc19-46f3-4530-8fca-26dc4370b738.jpg",
+                    "Url": "\/profile\/gestitzer\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 309559,
+                    "Name": "OkittaSama",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/309559\/ca96af6b-bba7-456f-ac87-f2f4f6c4cad6.jpg",
+                    "Url": "\/profile\/OkittaSama\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 304989,
+                    "Name": "ange.michael2013",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/304989\/4baf5f65-197f-4954-9cad-7e7f7fffafbb.jpg",
+                    "Url": "\/profile\/ange.michael2013\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 14,
+            "Points": 400,
+            "Posts": "2",
+            "PageViewsSplit": {
+                "Overview": 1272,
+                "Markets": 134,
+                "Analysis": 163,
+                "Charts": 56,
+                "Trades": 76,
+                "Orderbook": 4,
+                "Forum": 41,
+                "Influence": 22
+            },
+            "PageViews": 1768
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 1,
+                    "language": "C++",
+                    "forks": 1,
+                    "open_total_issues": "0",
+                    "subscribers": 1,
+                    "size": "3574",
+                    "url": "https:\/\/github.com\/hallodev\/Halloween",
+                    "last_update": "1475524831",
+                    "last_push": "1475251349",
+                    "created_at": "1475196877",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 6
+        }
+    }
+}

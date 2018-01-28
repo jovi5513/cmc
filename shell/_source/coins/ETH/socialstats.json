@@ -1,0 +1,339 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "ETH",
+            "CoinName": "Ethereum",
+            "Type": "Webpagecoinp",
+            "Points": 3196990
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 1182,
+                    "Name": "Bitcoin",
+                    "FullName": "Bitcoin (BTC)",
+                    "ImageUrl": "\/media\/19633\/btc.png",
+                    "Url": "\/coins\/btc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5031,
+                    "Name": "Ripple",
+                    "FullName": "Ripple (XRP)",
+                    "ImageUrl": "\/media\/19972\/ripple.png",
+                    "Url": "\/coins\/xrp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 3808,
+                    "Name": "Litecoin",
+                    "FullName": "Litecoin (LTC)",
+                    "ImageUrl": "\/media\/19782\/litecoin-logo.png",
+                    "Url": "\/coins\/ltc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 127356,
+                    "Name": "IOTA",
+                    "FullName": "IOTA (IOT)",
+                    "ImageUrl": "\/media\/1383540\/iota_logo.png",
+                    "Url": "\/coins\/iot\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 202330,
+                    "Name": "Bitcoin Cash \/ BCC",
+                    "FullName": "Bitcoin Cash \/ BCC (BCH)",
+                    "ImageUrl": "\/media\/1383919\/bch.jpg",
+                    "Url": "\/coins\/bch\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4614,
+                    "Name": "Stellar",
+                    "FullName": "Stellar (XLM)",
+                    "ImageUrl": "\/media\/20696\/str.png",
+                    "Url": "\/coins\/xlm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5038,
+                    "Name": "Monero",
+                    "FullName": "Monero (XMR)",
+                    "ImageUrl": "\/media\/19969\/xmr.png",
+                    "Url": "\/coins\/xmr\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 27368,
+                    "Name": "NEO",
+                    "FullName": "NEO (NEO)",
+                    "ImageUrl": "\/media\/1383858\/neo.jpg",
+                    "Url": "\/coins\/neo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4433,
+                    "Name": "Verge",
+                    "FullName": "Verge (XVG)",
+                    "ImageUrl": "\/media\/12318032\/xvg.png",
+                    "Url": "\/coins\/xvg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24854,
+                    "Name": "ZCash",
+                    "FullName": "ZCash (ZEC)",
+                    "ImageUrl": "\/media\/351360\/zec.png",
+                    "Url": "\/coins\/zec\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 678182,
+                    "Name": "madridpimp36",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/678182\/3f74ab67-0b4e-49bd-9fb2-89b6e114b468.jpg",
+                    "Url": "\/profile\/madridpimp36\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 678160,
+                    "Name": "SabirlaMG",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/678160\/6c3b9dc4-e598-442b-bfa8-2563c4db3266.jpg",
+                    "Url": "\/profile\/SabirlaMG\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 678120,
+                    "Name": "nicolas_luckie",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/678120\/a37a5b14-7672-48ed-bafa-7c28c9c12bd4.jpg",
+                    "Url": "\/profile\/nicolas_luckie\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 653881,
+                    "Name": "nijtram99",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/653881\/aeac68c7-0ffb-4f79-a807-7ce7ade9f857.jpg",
+                    "Url": "\/profile\/nijtram99\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677544,
+                    "Name": "2E17B0CB",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677544\/5b4c9fee-4f04-4e98-8b03-a236d890bcb1.jpg",
+                    "Url": "\/profile\/2E17B0CB\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 605973,
+                    "Name": "3E19F02",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/605973\/350a04a5-1b96-43ae-91c7-3388b07af9f2.png",
+                    "Url": "\/profile\/3E19F02\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677921,
+                    "Name": "addis1719",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677921\/cd18c29b-a309-491b-92fd-e51c7124538b.jpg",
+                    "Url": "\/profile\/addis1719\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 483743,
+                    "Name": "sami.ghariani",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/483743\/234b3a9e-ac1a-450b-b563-1e4f8757299a.jpg",
+                    "Url": "\/profile\/sami.ghariani\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 677986,
+                    "Name": "josemvbrites",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/677986\/c4b1b790-b28d-4550-9930-112d1c17e226.jpg",
+                    "Url": "\/profile\/josemvbrites\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 591581,
+                    "Name": "rjfrates",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/591581\/9350e1ac-fabd-4834-93b8-56ad1364e9e9.jpg",
+                    "Url": "\/profile\/rjfrates\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 651155,
+                    "Name": "nntt73",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/651155\/b510520e-835d-488c-ba88-8fff1a8bfd90.jpg",
+                    "Url": "\/profile\/nntt73\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 2387370,
+            "Followers": 47803,
+            "Posts": "22678",
+            "Comments": "62527",
+            "PageViewsSplit": {
+                "Overview": 8865384,
+                "Markets": 487068,
+                "Analysis": 283592,
+                "Charts": 2719695,
+                "Trades": 277332,
+                "Orderbook": 67267,
+                "Forum": 2440588,
+                "Influence": 30816
+            },
+            "PageViews": 15171742
+        },
+        "Twitter": {
+            "following": "0",
+            "account_creation": "1390763724",
+            "name": "Ethereum",
+            "lists": 4857,
+            "statuses": 1890,
+            "favourites": "2240",
+            "followers": 316887,
+            "link": "https:\/\/twitter.com\/ethereumproject",
+            "Points": 341173
+        },
+        "Reddit": {
+            "posts_per_hour": "1.82",
+            "comments_per_hour": "55.12",
+            "posts_per_day": "43.76",
+            "comments_per_day": 1322.92,
+            "name": "ethereum",
+            "link": "https:\/\/www.reddit.com\/r\/ethereum\/",
+            "active_users": 10825,
+            "community_creation": "1387037735",
+            "subscribers": 275948,
+            "Points": 311068
+        },
+        "Facebook": {
+            "likes": 126054,
+            "link": "https:\/\/www.facebook.com\/ethereumproject\/",
+            "is_closed": "false",
+            "talking_about": "4935",
+            "name": "Ethereum",
+            "Points": 126054
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1399967414",
+                    "open_total_issues": "79",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "45247",
+                    "closed_total_issues": "92",
+                    "stars": 1035,
+                    "last_update": "1515967095",
+                    "forks": 557,
+                    "url": "https:\/\/github.com\/ethereum\/ethereumj",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "92",
+                    "fork": "false",
+                    "last_push": "1515849013",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "Java",
+                    "subscribers": 198,
+                    "open_issues": "0"
+                },
+                {
+                    "created_at": "1387852805",
+                    "open_total_issues": "84",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "5504",
+                    "closed_total_issues": "508",
+                    "stars": 1979,
+                    "last_update": "1515972851",
+                    "forks": 585,
+                    "url": "https:\/\/github.com\/ethereum\/pyethereum",
+                    "closed_issues": "229",
+                    "closed_pull_issues": "279",
+                    "fork": "false",
+                    "last_push": "1515880742",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "29",
+                    "language": "Python",
+                    "subscribers": 269,
+                    "open_issues": "55"
+                },
+                {
+                    "created_at": "1441653399",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "6739",
+                    "closed_total_issues": "810",
+                    "stars": 8,
+                    "last_update": "1513776656",
+                    "forks": 28,
+                    "url": "https:\/\/github.com\/ethereum\/libweb3core",
+                    "closed_issues": "356",
+                    "closed_pull_issues": "454",
+                    "fork": "false",
+                    "last_push": "1471550273",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "27",
+                    "language": "null",
+                    "subscribers": 27,
+                    "open_issues": "52"
+                },
+                {
+                    "created_at": "1388063146",
+                    "open_total_issues": "760",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "94733",
+                    "closed_total_issues": "4666",
+                    "stars": 11892,
+                    "last_update": "1515976810",
+                    "forks": 3601,
+                    "url": "https:\/\/github.com\/ethereum\/go-ethereum",
+                    "closed_issues": "2181",
+                    "closed_pull_issues": "2485",
+                    "fork": "false",
+                    "last_push": "1515941989",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "58",
+                    "language": "Go",
+                    "subscribers": 1290,
+                    "open_issues": "702"
+                }
+            ],
+            "Points": 29808
+        }
+    }
+}

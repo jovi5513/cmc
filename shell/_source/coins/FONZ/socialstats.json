@@ -1,0 +1,204 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "FONZ",
+            "CoinName": "FonzieCoin",
+            "Type": "Webpagecoinp",
+            "Points": 206
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 61066,
+                    "Name": "Dark",
+                    "FullName": "Dark (DARK)",
+                    "ImageUrl": "\/media\/1382995\/dark.png",
+                    "Url": "\/coins\/dark\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4546,
+                    "Name": "KeyCoin",
+                    "FullName": "KeyCoin (KEY)",
+                    "ImageUrl": "\/media\/20331\/key.png",
+                    "Url": "\/coins\/keystar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7484,
+                    "Name": "CryptoCircuits",
+                    "FullName": "CryptoCircuits (CIRC)",
+                    "ImageUrl": "\/media\/20603\/circ.png",
+                    "Url": "\/coins\/circ\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24885,
+                    "Name": "ExtremeCoin",
+                    "FullName": "ExtremeCoin (XT)",
+                    "ImageUrl": "\/media\/351364\/xt.png",
+                    "Url": "\/coins\/xt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28229,
+                    "Name": "DickCoin",
+                    "FullName": "DickCoin (DCK)",
+                    "ImageUrl": "\/media\/351516\/dck.png",
+                    "Url": "\/coins\/dck\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 24307,
+                    "Name": "EnterCoin (ENTER)",
+                    "FullName": "EnterCoin (ENTER) (ENTER)",
+                    "ImageUrl": "\/media\/351305\/enter.png",
+                    "Url": "\/coins\/enter\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30536,
+                    "Name": "ScryptToken",
+                    "FullName": "ScryptToken (SCT)",
+                    "ImageUrl": "\/media\/351791\/sct.png",
+                    "Url": "\/coins\/sct\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7627,
+                    "Name": "DubCoin",
+                    "FullName": "DubCoin (DUB)",
+                    "ImageUrl": "\/media\/19986\/a3c.png",
+                    "Url": "\/coins\/dub\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4526,
+                    "Name": "GrandCoin",
+                    "FullName": "GrandCoin (GDC)",
+                    "ImageUrl": "\/media\/20054\/gdc.png",
+                    "Url": "\/coins\/gdc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35684,
+                    "Name": "Blackstar",
+                    "FullName": "Blackstar (BSTAR)",
+                    "ImageUrl": "\/media\/352250\/bstar.png",
+                    "Url": "\/coins\/bstar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 434731,
+                    "Name": "4C7DAA0C",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/434731\/9f7349bf-87ee-495a-b199-88a15ce13b09.jpg",
+                    "Url": "\/profile\/4C7DAA0C\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509560,
+                    "Name": "gleb.kochubey",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509560\/70202639-bdcc-45aa-85b0-583747a32a82.jpg",
+                    "Url": "\/profile\/gleb.kochubey\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614865,
+                    "Name": "ander_2009live",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614865\/7944d71a-c819-4f19-bd05-2baacaff927e.jpg",
+                    "Url": "\/profile\/ander_2009live\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 79863,
+                    "Name": "crankgirl",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/79863\/e11b0355-be78-4955-9baa-bb001f848745.jpg",
+                    "Url": "\/profile\/crankgirl\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 368104,
+                    "Name": "denizaltun",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/368104\/f56735e3-57a3-4416-9522-4527c2b68714.jpg",
+                    "Url": "\/profile\/denizaltun\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 239766,
+                    "Name": "mrsniper1205",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/239766\/d5526a24-0ddd-4628-8708-8f5149b7debd.jpg",
+                    "Url": "\/profile\/mrsniper1205\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 36344,
+                    "Name": "ditskon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/36344\/990b9e82-ab1d-4cd8-890f-601eb3f94b84.jpg",
+                    "Url": "\/profile\/ditskon\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 200,
+            "Posts": "1",
+            "Followers": 7,
+            "PageViewsSplit": {
+                "Overview": 645,
+                "Markets": 98,
+                "Analysis": 37,
+                "Charts": 44,
+                "Trades": 49,
+                "Orderbook": 1,
+                "Forum": 25,
+                "Influence": 15
+            },
+            "PageViews": 914
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1426656496",
+                    "open_total_issues": "0",
+                    "fork": "true",
+                    "parent": {
+                        "Name": "DARK",
+                        "Url": "https:\/\/github.com\/CarsonCloak\/DARK",
+                        "InternalId": -1
+                    },
+                    "closed_total_issues": "0",
+                    "size": "5320",
+                    "last_push": "1428553245",
+                    "stars": 0,
+                    "source": {
+                        "Name": "DARK",
+                        "Url": "https:\/\/github.com\/CarsonCloak\/DARK",
+                        "InternalId": -1
+                    },
+                    "last_update": "1428553246",
+                    "open_pull_issues": "0",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/fonziecoin\/fonzie",
+                    "closed_issues": "0",
+                    "open_issues": "0",
+                    "subscribers": 2,
+                    "language": "C",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 6
+        }
+    }
+}

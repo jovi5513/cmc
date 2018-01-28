@@ -1,0 +1,178 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GRW",
+            "CoinName": "GrowthCoin",
+            "Type": "Webpagecoinp",
+            "Points": 79
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 5330,
+                    "Name": "AeroMe",
+                    "FullName": "AeroMe (AM)",
+                    "ImageUrl": "\/media\/20191\/am.png",
+                    "Url": "\/coins\/am\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4544,
+                    "Name": "JudgeCoin",
+                    "FullName": "JudgeCoin (JUDGE)",
+                    "ImageUrl": "\/media\/20038\/judge.png",
+                    "Url": "\/coins\/judge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28770,
+                    "Name": "Save and Gain",
+                    "FullName": "Save and Gain (SANDG)",
+                    "ImageUrl": "\/media\/351556\/sandt.png",
+                    "Url": "\/coins\/sandg\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29926,
+                    "Name": "Tetra",
+                    "FullName": "Tetra (TRA)",
+                    "ImageUrl": "\/media\/351700\/tra.png",
+                    "Url": "\/coins\/tra\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 35811,
+                    "Name": "HazMatCoin",
+                    "FullName": "HazMatCoin (HZT)",
+                    "ImageUrl": "\/media\/352291\/hzt.png",
+                    "Url": "\/coins\/hzt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 23435,
+                    "Name": "Specie",
+                    "FullName": "Specie (SPX)",
+                    "ImageUrl": "\/media\/351212\/spx.png",
+                    "Url": "\/coins\/spx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5380,
+                    "Name": "ROS Coin",
+                    "FullName": "ROS Coin (ROS)",
+                    "ImageUrl": "\/media\/19710\/frac.png",
+                    "Url": "\/coins\/ros\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 43046,
+                    "Name": "Ratio",
+                    "FullName": "Ratio (RATIO)",
+                    "ImageUrl": "\/media\/1382442\/ratio.png",
+                    "Url": "\/coins\/ratio\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 247259,
+                    "Name": "FrazCoin",
+                    "FullName": "FrazCoin (FRAZ)",
+                    "ImageUrl": "\/media\/9350764\/fraz.png",
+                    "Url": "\/coins\/fraz\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 30421,
+                    "Name": "Tennet",
+                    "FullName": "Tennet (TENNET)",
+                    "ImageUrl": "\/media\/351760\/tennet.png",
+                    "Url": "\/coins\/tennet\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 373401,
+                    "Name": "the_quest",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/373401\/d83dc0b9-55cc-43e5-b975-a453da05f711.png",
+                    "Url": "\/profile\/the_quest\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 161463,
+                    "Name": "FHDMINER",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/161463\/cf99f501-2512-4ad7-9f9e-b85012000ec2.jpg",
+                    "Url": "\/profile\/FHDMINER\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 50,
+            "Posts": "0",
+            "Followers": 2,
+            "PageViewsSplit": {
+                "Overview": 336,
+                "Markets": 23,
+                "Analysis": 10,
+                "Charts": 16,
+                "Trades": 13,
+                "Orderbook": 0,
+                "Forum": 11,
+                "Influence": 3
+            },
+            "PageViews": 412
+        },
+        "Twitter": {
+            "Points": 0
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "link": "https:\/\/www.reddit.com\/r\/growthcoin\/",
+            "comments_per_hour": "0.00",
+            "posts_per_day": "0.00",
+            "active_users": 5,
+            "community_creation": "1399256693",
+            "name": "growthcoin",
+            "subscribers": 2,
+            "comments_per_day": 0,
+            "Points": 17
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1400606047",
+                    "open_total_issues": "0",
+                    "fork": "true",
+                    "parent": {
+                        "Name": "growthcoin-resurection",
+                        "Url": "https:\/\/github.com\/sherlockcoin\/growthcoin-resurection",
+                        "InternalId": -1
+                    },
+                    "last_push": "1405386516",
+                    "closed_total_issues": "0",
+                    "size": "60209",
+                    "stars": 1,
+                    "source": {
+                        "Name": "growthcoin-resurection",
+                        "Url": "https:\/\/github.com\/sherlockcoin\/growthcoin-resurection",
+                        "InternalId": -1
+                    },
+                    "last_update": "1405058848",
+                    "open_pull_issues": "0",
+                    "forks": 1,
+                    "url": "https:\/\/github.com\/iamunick\/growthcoin",
+                    "closed_issues": "0",
+                    "open_issues": "0",
+                    "subscribers": 3,
+                    "language": "C++",
+                    "closed_pull_issues": "0"
+                }
+            ],
+            "Points": 12
+        }
+    }
+}

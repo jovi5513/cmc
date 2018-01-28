@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "SETH",
+            "CoinName": "Sether",
+            "Type": "Webpagecoinp",
+            "Points": 40472
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 131154,
+                    "Name": "MCAP",
+                    "FullName": "MCAP (MCAP)",
+                    "ImageUrl": "\/media\/1383559\/mcap.png",
+                    "Url": "\/coins\/mcap\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 369251,
+                    "Name": "HEROcoin",
+                    "FullName": "HEROcoin (PLAY)",
+                    "ImageUrl": "\/media\/14913441\/play.png",
+                    "Url": "\/coins\/play\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 127667,
+                    "Name": "Quantum Resistant Ledger",
+                    "FullName": "Quantum Resistant Ledger (QRL)",
+                    "ImageUrl": "\/media\/1383543\/qrl.png",
+                    "Url": "\/coins\/qrl\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4345,
+                    "Name": "MyriadCoin",
+                    "FullName": "MyriadCoin (XMY)",
+                    "ImageUrl": "\/media\/19815\/myr.png",
+                    "Url": "\/coins\/xmy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 371064,
+                    "Name": "Bitcoin Red",
+                    "FullName": "Bitcoin Red (BTCRED)",
+                    "ImageUrl": "\/media\/14913463\/btcred.png",
+                    "Url": "\/coins\/btcred\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 341267,
+                    "Name": "Red Pulse",
+                    "FullName": "Red Pulse (RPX)",
+                    "ImageUrl": "\/media\/12318339\/rpx.png",
+                    "Url": "\/coins\/rpx\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 321189,
+                    "Name": "eBitcoin",
+                    "FullName": "eBitcoin (EBTC)",
+                    "ImageUrl": "\/media\/12318175\/ebtc.png",
+                    "Url": "\/coins\/ebtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 335127,
+                    "Name": "Aeron",
+                    "FullName": "Aeron (ARN)",
+                    "ImageUrl": "\/media\/12318261\/arn.png",
+                    "Url": "\/coins\/arn\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 33914,
+                    "Name": "Time",
+                    "FullName": "Time (TIME)",
+                    "ImageUrl": "\/media\/352105\/time.png",
+                    "Url": "\/coins\/time\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 307219,
+                    "Name": "Ripio",
+                    "FullName": "Ripio (RCN)",
+                    "ImageUrl": "\/media\/12318046\/rnc.png",
+                    "Url": "\/coins\/rcn\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 678021,
+                    "Name": "A8688753",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/678021\/0da0112b-d77e-4bda-9a2d-70bd6951908d.jpg",
+                    "Url": "\/profile\/A8688753\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 313371,
+                    "Name": "jpvanderelst",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/313371\/dd91c875-ef8d-49f4-b67d-90ff76f41cf6.jpg",
+                    "Url": "\/profile\/jpvanderelst\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 404997,
+                    "Name": "doru.vitalariu",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/404997\/54273598-a7eb-44aa-b96c-4265b9f2aed2.jpg",
+                    "Url": "\/profile\/doru.vitalariu\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 527017,
+                    "Name": "Katiee",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/527017\/e72d0edc-4529-4d5f-aa9e-dbb3d7d50045.jpg",
+                    "Url": "\/profile\/Katiee\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 634019,
+                    "Name": "apuzankov",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/634019\/7e220082-0548-48db-86bf-14f10779ef08.jpg",
+                    "Url": "\/profile\/apuzankov\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 675725,
+                    "Name": "carlcarl",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/675725\/61550dae-8d90-46b4-9091-dfb860918036.jpg",
+                    "Url": "\/profile\/carlcarl\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 437888,
+                    "Name": "salomonsaadia",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/437888\/d0c0a77b-6dfd-4b55-8b40-574c86e6429f.jpg",
+                    "Url": "\/profile\/salomonsaadia\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 378478,
+                    "Name": "pgoel999",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/378478\/03533693-b931-42c2-bdde-921b884547b4.jpg",
+                    "Url": "\/profile\/pgoel999\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 598947,
+                    "Name": "naciriy2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/598947\/1c85ab60-7d1c-4dcf-9411-4039dbdeb575.jpg",
+                    "Url": "\/profile\/naciriy2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 300276,
+                    "Name": "aroberts",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/300276\/e725b08d-5ff6-4fa6-99e7-72ba4332a510.jpg",
+                    "Url": "\/profile\/aroberts\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 288133,
+                    "Name": "iamtonycheung",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/288133\/54012ccf-3792-4d73-a192-e96d1d0b9acf.jpg",
+                    "Url": "\/profile\/iamtonycheung\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 4630,
+            "Followers": 159,
+            "Posts": "21",
+            "Comments": "13",
+            "PageViewsSplit": {
+                "Overview": 14567,
+                "Markets": 255,
+                "Analysis": 534,
+                "Charts": 146,
+                "Trades": 100,
+                "Orderbook": 0,
+                "Forum": 940,
+                "Influence": 295
+            },
+            "PageViews": 16837
+        },
+        "Twitter": {
+            "following": "11",
+            "account_creation": "1510245529",
+            "name": "sether",
+            "lists": 62,
+            "statuses": 79,
+            "favourites": "14",
+            "followers": 18227,
+            "link": "https:\/\/twitter.com\/setherplatform",
+            "Points": 18537
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 17286,
+            "link": "https:\/\/www.facebook.com\/setherplatform\/",
+            "is_closed": "false",
+            "talking_about": "1416",
+            "name": "Sether",
+            "Points": 17286
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1510298875",
+                    "open_total_issues": "4",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "1422",
+                    "closed_total_issues": "0",
+                    "stars": 5,
+                    "last_update": "1515877764",
+                    "forks": 2,
+                    "url": "https:\/\/github.com\/mware-solutions\/sether",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1511881872",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "2",
+                    "language": "Java",
+                    "subscribers": 3,
+                    "open_issues": "2"
+                }
+            ],
+            "Points": 18
+        }
+    }
+}

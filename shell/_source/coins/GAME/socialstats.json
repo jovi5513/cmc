@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "GAME",
+            "CoinName": "Gamecredits",
+            "Type": "Webpagecoinp",
+            "Points": 22889
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 12194,
+                    "Name": "Expanse",
+                    "FullName": "Expanse (EXP)",
+                    "ImageUrl": "\/media\/20707\/exp.png",
+                    "Url": "\/coins\/exp\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 299397,
+                    "Name": "Waltonchain",
+                    "FullName": "Waltonchain (WTC)",
+                    "ImageUrl": "\/media\/12317959\/wtc.png",
+                    "Url": "\/coins\/wtc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 335059,
+                    "Name": "Request Network",
+                    "FullName": "Request Network (REQ)",
+                    "ImageUrl": "\/media\/12318260\/req.png",
+                    "Url": "\/coins\/req\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 340940,
+                    "Name": "WaBi",
+                    "FullName": "WaBi (WABI)",
+                    "ImageUrl": "\/media\/12318331\/wabi.png",
+                    "Url": "\/coins\/wabi\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 20730,
+                    "Name": "AeonCoin",
+                    "FullName": "AeonCoin (AEON)",
+                    "ImageUrl": "\/media\/350955\/aeon.png",
+                    "Url": "\/coins\/aeon\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 67447,
+                    "Name": "Lunyr",
+                    "FullName": "Lunyr (LUN)",
+                    "ImageUrl": "\/media\/1383112\/lunyr-logo.png",
+                    "Url": "\/coins\/lun\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 346812,
+                    "Name": "AppCoins",
+                    "FullName": "AppCoins (APPC)",
+                    "ImageUrl": "\/media\/12318370\/app.png",
+                    "Url": "\/coins\/appc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 136211,
+                    "Name": "Veritaseum",
+                    "FullName": "Veritaseum (VERI)",
+                    "ImageUrl": "\/media\/1383562\/veri.png",
+                    "Url": "\/coins\/veri\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29924,
+                    "Name": "The Hempcoin",
+                    "FullName": "The Hempcoin (THC)",
+                    "ImageUrl": "\/media\/351699\/thc.png",
+                    "Url": "\/coins\/thc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 198710,
+                    "Name": "Viberate",
+                    "FullName": "Viberate (VIB)",
+                    "ImageUrl": "\/media\/1383893\/vib.png",
+                    "Url": "\/coins\/vib\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 209959,
+                    "Name": "anton.northern",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/209959\/149d67a0-08a1-4170-af09-e3014fa0ec15.jpg",
+                    "Url": "\/profile\/anton.northern\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670606,
+                    "Name": "jaramosiii35",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670606\/22dad5ca-3937-44f7-968e-d86c9fd3be30.jpg",
+                    "Url": "\/profile\/jaramosiii35\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 663567,
+                    "Name": "janb.l33t",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/663567\/8b9986eb-5630-4429-aa3b-2adb98112307.jpg",
+                    "Url": "\/profile\/janb.l33t\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 208204,
+                    "Name": "phmail2",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/208204\/013e4957-43de-4ebf-8c0c-12a817aa283c.jpg",
+                    "Url": "\/profile\/phmail2\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 671616,
+                    "Name": "nurdiyansah",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/671616\/076479b5-5fda-4f09-b483-9a5a214e26f4.jpg",
+                    "Url": "\/profile\/nurdiyansah\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 597966,
+                    "Name": "xavicn",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/597966\/b9f73e52-440e-4b25-bde4-2af2bd4da86e.jpg",
+                    "Url": "\/profile\/xavicn\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 670912,
+                    "Name": "leandro.franchi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/670912\/f3e50184-d889-41f2-8bae-7032ab4c9ee3.jpg",
+                    "Url": "\/profile\/leandro.franchi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 665065,
+                    "Name": "nashxp10",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/665065\/f756d7d5-feae-4656-8b84-e71ea6335d43.jpg",
+                    "Url": "\/profile\/nashxp10\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 652636,
+                    "Name": "grzesiek.golec",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/652636\/b238c8fd-417d-4184-a01c-bba2e19d43e0.jpg",
+                    "Url": "\/profile\/grzesiek.golec\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 170190,
+                    "Name": "bitjaff",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/170190\/67ace078-7b7e-42bc-935b-4d43e4f8f530.jpg",
+                    "Url": "\/profile\/bitjaff\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 658729,
+                    "Name": "furhovde",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/658729\/8cc1b803-ada3-41fb-bad3-18ddb12d4caf.jpg",
+                    "Url": "\/profile\/furhovde\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 17190,
+            "Followers": 617,
+            "Posts": "53",
+            "Comments": "44",
+            "PageViewsSplit": {
+                "Overview": 38640,
+                "Markets": 2226,
+                "Analysis": 1063,
+                "Charts": 17423,
+                "Trades": 1042,
+                "Orderbook": 347,
+                "Forum": 2328,
+                "Influence": 748
+            },
+            "PageViews": 63817
+        },
+        "Twitter": {
+            "following": "0",
+            "account_creation": "1502971938",
+            "name": "Game_Credits",
+            "lists": 3,
+            "statuses": 16,
+            "favourites": "1",
+            "followers": 132,
+            "link": "https:\/\/twitter.com\/Game_Credits",
+            "Points": 147
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 5469,
+            "link": "https:\/\/www.facebook.com\/gamecredits\/",
+            "is_closed": "false",
+            "talking_about": "103",
+            "name": "GameCredits",
+            "Points": 5469
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1434486293",
+                    "open_total_issues": "2",
+                    "parent": {
+                        "Name": "gamecredits",
+                        "Url": "https:\/\/github.com\/noise23\/gamecredits",
+                        "InternalId": -1
+                    },
+                    "size": "4555",
+                    "closed_total_issues": "10",
+                    "stars": 6,
+                    "last_update": "1514167731",
+                    "forks": 10,
+                    "url": "https:\/\/github.com\/gamecredits-project\/GameCredits",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "10",
+                    "fork": "true",
+                    "last_push": "1511414576",
+                    "source": {
+                        "Name": "gamecredits",
+                        "Url": "https:\/\/github.com\/MarkPfennig\/gamecredits",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "2",
+                    "language": "C++",
+                    "subscribers": 17,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 77
+        }
+    }
+}

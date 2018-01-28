@@ -1,0 +1,211 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "XPO",
+            "CoinName": "Opair",
+            "Type": "Webpagecoinp",
+            "Points": 1283
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 15272,
+                    "Name": "BitStone",
+                    "FullName": "BitStone (BST)",
+                    "ImageUrl": "\/media\/350558\/bst.png",
+                    "Url": "\/coins\/bst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 661398,
+                    "Name": "PumaPay",
+                    "FullName": "PumaPay (PMA)",
+                    "ImageUrl": "\/media\/20780758\/pma.png",
+                    "Url": "\/coins\/pma\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29713,
+                    "Name": "Invictus",
+                    "FullName": "Invictus (INV)",
+                    "ImageUrl": "\/media\/351682\/inv.png",
+                    "Url": "\/coins\/inv\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28083,
+                    "Name": "CarterCoin",
+                    "FullName": "CarterCoin (CTC)",
+                    "ImageUrl": "\/media\/351496\/ctc.png",
+                    "Url": "\/coins\/ctc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 28654,
+                    "Name": "Armory Coin",
+                    "FullName": "Armory Coin (ARM)",
+                    "ImageUrl": "\/media\/351545\/arm.png",
+                    "Url": "\/coins\/arm\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 7564,
+                    "Name": "Empyrean",
+                    "FullName": "Empyrean (EPY)",
+                    "ImageUrl": "\/media\/20628\/epy.png",
+                    "Url": "\/coins\/epy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 29460,
+                    "Name": "UPcoin",
+                    "FullName": "UPcoin (XUP)",
+                    "ImageUrl": "\/media\/351638\/xup.png",
+                    "Url": "\/coins\/xup\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22258,
+                    "Name": "OrlyCoin",
+                    "FullName": "OrlyCoin (ORLY)",
+                    "ImageUrl": "\/media\/351076\/orly.png",
+                    "Url": "\/coins\/orly\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4584,
+                    "Name": "OpenSourceCoin",
+                    "FullName": "OpenSourceCoin (OSC)",
+                    "ImageUrl": "\/media\/19847\/osc.png",
+                    "Url": "\/coins\/osc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 45612,
+                    "Name": "MasterCar",
+                    "FullName": "MasterCar (MCAR)",
+                    "ImageUrl": "\/media\/1382659\/mcar.png",
+                    "Url": "\/coins\/mcar\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 343384,
+                    "Name": "hary8283",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/343384\/cbe15baf-14e4-4993-b09d-c86825e98199.jpg",
+                    "Url": "\/profile\/hary8283\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 215089,
+                    "Name": "jarryddebono",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/215089\/db4459de-3ac3-4bc8-87d3-0da813b84ede.jpg",
+                    "Url": "\/profile\/jarryddebono\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 207628,
+                    "Name": "cathymailyy",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/207628\/78a366c0-411f-4374-aaca-046b4817e777.jpg",
+                    "Url": "\/profile\/cathymailyy\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 192077,
+                    "Name": "ismael.sillem",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/192077\/90bd6927-ca7d-4473-9fc1-aea4e01a7973.jpg",
+                    "Url": "\/profile\/ismael.sillem\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 196543,
+                    "Name": "bperrino",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/196543\/23fbb032-3ad4-4e5d-8fe5-e012d9c5dcb8.jpg",
+                    "Url": "\/profile\/bperrino\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 79198,
+                    "Name": "kseid",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/79198\/2de618d3-94c0-463e-b2ba-1a25b81eb846.jpg",
+                    "Url": "\/profile\/kseid\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 24664,
+                    "Name": "ranamuhammadyasin",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/24664\/ba378e0a-8da8-4a9e-b3cc-99ac269a97ed.png",
+                    "Url": "\/profile\/ranamuhammadyasin\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Followers": 7,
+            "Points": 175,
+            "PageViewsSplit": {
+                "Overview": 808,
+                "Markets": 74,
+                "Analysis": 31,
+                "Charts": 48,
+                "Trades": 38,
+                "Orderbook": 0,
+                "Forum": 16,
+                "Influence": 19
+            },
+            "PageViews": 1034
+        },
+        "Twitter": {
+            "followers": 955,
+            "following": "2505",
+            "lists": 29,
+            "favourites": "181",
+            "statuses": 1159,
+            "account_creation": "1420656615",
+            "name": "libra setiawan",
+            "link": "https:\/\/twitter.com\/OpairProject",
+            "Points": 1101
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "Points": 0
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "stars": 1,
+                    "language": "C++",
+                    "forks": 0,
+                    "open_total_issues": "0",
+                    "subscribers": 2,
+                    "size": "3596",
+                    "url": "https:\/\/github.com\/Opair\/Opair-Qt",
+                    "last_update": "1474338099",
+                    "last_push": "1474742970",
+                    "created_at": "1474220187",
+                    "fork": "false",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "closed_pull_issues": "0",
+                    "closed_total_issues": "0",
+                    "open_issues": "0",
+                    "closed_issues": "0"
+                }
+            ],
+            "Points": 7
+        }
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "AvonCoin (ACN) - Live streaming prices and market cap",
+            "PageDescription": "Live AvonCoin prices from all markets and ACN coin market Capitalization. Stay up to date with the latest AvonCoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/352310\/acn.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "35949",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "AvonCoin (ACN)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "ACN",
+            "Url": "\/coins\/acn\/",
+            "BaseAngularUrl": "\/coins\/acn\/",
+            "Name": "AvonCoin",
+            "ImageUrl": "\/media\/352310\/acn.png",
+            "Description": "<p><span>AvonCoin is a pure PoS coin which generates coins through PoS blocks. Except the first block where it generates the initial 100 million coins, no PoW mining will get any coins. The 1 billion coins were\u00a0distributed equally to 1000 individuals with 100,000 coin each, completely free.<\/span><\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "1000000000",
+            "Algorithm": "PoS",
+            "ProofType": "PoS",
+            "StartDate": "01\/01\/0001",
+            "Twitter": "",
+            "AffiliateUrl": "http:\/\/avoncoin.org\/",
+            "Website": "<a href='http:\/\/avoncoin.org\/' target='_blank'>AvonCoin<\/a>",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~ACN~DOGE",
+            "2~CCEX~ACN~USD",
+            "2~CCEX~ACN~LTC",
+            "2~CCEX~ACN~BTC",
+            "2~LiveCoin~ACN~BTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~ACN~DOGE~4~0.00300002~1487307289~332309.91793794~996.9364000121788~1724016~0~0~0~0~0.00300002~0.00300002~0.00300002~0.00300002~0.00300002~0.00300002~CCEX~7ffe9",
+            "5~CCCAGG~ACN~USD~4~9.4e-7~1487319318~5319148.9361702~4.999999999999988~1387384~0~0~0~0~9.4e-7~9.4e-7~9.4e-7~9.4e-7~9.4e-7~9.4e-7~CCEX~7ffe9",
+            "5~CCCAGG~ACN~LTC~4~1.1e-7~1487181927~45730.12696881~0.005030313966569101~1561955~0~0~0~0~1.1e-7~1.1e-7~1.1e-7~1.1e-7~1.1e-7~1.1e-7~CCEX~7ffe9",
+            "5~CCCAGG~ACN~BTC~4~1.9e-7~1515846127~66.66666667~0.0000126666666673~243555284~0~0~0~0~1.9e-7~1.9e-7~1.9e-7~1.9e-7~1.9e-7~1.9e-7~LiveCoin~7ffe9"
+        ]
+    },
+    "Type": 100
+}

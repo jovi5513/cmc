@@ -1,0 +1,83 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "DRKT",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00011882",
+            "LASTUPDATE": "1515875168",
+            "LASTVOLUME": "1",
+            "LASTVOLUMETO": "0.00011882",
+            "LASTTRADEID": "200000002",
+            "VOLUMEDAY": "0",
+            "VOLUMEDAYTO": "0",
+            "VOLUME24HOUR": "0",
+            "VOLUME24HOURTO": "0",
+            "OPENDAY": "0.0001188",
+            "HIGHDAY": "0.00011882",
+            "LOWDAY": "0.0001188",
+            "OPEN24HOUR": "0.00011882",
+            "HIGH24HOUR": "0.00011882",
+            "LOW24HOUR": "0.00011882",
+            "LASTMARKET": "Yobit"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "CCEX",
+                "FROMSYMBOL": "DRKT",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00001147",
+                "LASTUPDATE": "1445463907",
+                "LASTVOLUME": "2628.31904095",
+                "LASTVOLUMETO": "0.0301468193996965",
+                "LASTTRADEID": "1445463907100",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00001147",
+                "HIGH24HOUR": "0.00001147",
+                "LOW24HOUR": "0.00001147"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "Yobit",
+                "FROMSYMBOL": "DRKT",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "4",
+                "PRICE": "0.00011882",
+                "LASTUPDATE": "1515875168",
+                "LASTVOLUME": "1",
+                "LASTVOLUMETO": "0.00011882",
+                "LASTTRADEID": "200000002",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00011882",
+                "HIGH24HOUR": "0.00011882",
+                "LOW24HOUR": "0.00011882"
+            },
+            {
+                "TYPE": "2",
+                "MARKET": "BitTrex",
+                "FROMSYMBOL": "DRKT",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "1",
+                "PRICE": "0.00000131",
+                "LASTUPDATE": "1448650432",
+                "LASTVOLUME": "1098.36303219",
+                "LASTVOLUMETO": "0.00143885",
+                "LASTTRADEID": "328428",
+                "VOLUME24HOUR": "0",
+                "VOLUME24HOURTO": "0",
+                "OPEN24HOUR": "0.00000131",
+                "HIGH24HOUR": "0.00000131",
+                "LOW24HOUR": "0.00000131"
+            }
+        ]
+    },
+    "Type": 100
+}

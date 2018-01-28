@@ -1,0 +1,255 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "BTA",
+            "CoinName": "Bata",
+            "Type": "Webpagecoinp",
+            "Points": 7377
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 355117,
+                    "Name": "Ethereum Cash",
+                    "FullName": "Ethereum Cash (ECASH)",
+                    "ImageUrl": "\/media\/14543971\/ecash.png",
+                    "Url": "\/coins\/ecash\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 178861,
+                    "Name": "Elastic",
+                    "FullName": "Elastic (XEL)",
+                    "ImageUrl": "\/media\/1383737\/xel.png",
+                    "Url": "\/coins\/xel\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5322,
+                    "Name": "Dnotes",
+                    "FullName": "Dnotes (NOTE)",
+                    "ImageUrl": "\/media\/19832\/note.png",
+                    "Url": "\/coins\/note\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4416,
+                    "Name": "CLAMS",
+                    "FullName": "CLAMS (CLAM)",
+                    "ImageUrl": "\/media\/20020\/clam.png",
+                    "Url": "\/coins\/clam\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4630,
+                    "Name": "Unobtanium",
+                    "FullName": "Unobtanium (UNO)",
+                    "ImageUrl": "\/media\/20065\/uno.png",
+                    "Url": "\/coins\/uno\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 318169,
+                    "Name": "Loopring",
+                    "FullName": "Loopring (LRC)",
+                    "ImageUrl": "\/media\/12318135\/lrc.png",
+                    "Url": "\/coins\/lrc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 22325,
+                    "Name": "MonetaryUnit",
+                    "FullName": "MonetaryUnit (MUE)",
+                    "ImageUrl": "\/media\/351084\/mue.png",
+                    "Url": "\/coins\/mue\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 170958,
+                    "Name": "Quantum",
+                    "FullName": "Quantum (QAU)",
+                    "ImageUrl": "\/media\/1383669\/qau.png",
+                    "Url": "\/coins\/qau\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 304184,
+                    "Name": "Blackmoon Crypto",
+                    "FullName": "Blackmoon Crypto (BMC)",
+                    "ImageUrl": "\/media\/12318008\/bmc.png",
+                    "Url": "\/coins\/bmc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 71077,
+                    "Name": "TokenCard  ",
+                    "FullName": "TokenCard   (TKN)",
+                    "ImageUrl": "\/media\/1383157\/tkn.png",
+                    "Url": "\/coins\/tkn\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 625503,
+                    "Name": "nickbakko",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/625503\/564e9c29-ff95-4518-9198-51d859c18936.jpg",
+                    "Url": "\/profile\/nickbakko\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 550114,
+                    "Name": "ssarmad413",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/550114\/cd7dd6d2-5c99-48ce-803c-ce146942fdef.jpg",
+                    "Url": "\/profile\/ssarmad413\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 614363,
+                    "Name": "nimaataayi",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/614363\/bfccb129-e6fc-42ab-88b0-0455e7f75437.jpg",
+                    "Url": "\/profile\/nimaataayi\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 522904,
+                    "Name": "kencucchia",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/522904\/3af1daa7-6535-4ff5-805c-f6463f6851ae.jpg",
+                    "Url": "\/profile\/kencucchia\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 329520,
+                    "Name": "shahkhan_87",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/329520\/1fc7a918-abe2-41f3-8f4e-4d38530bb47d.jpg",
+                    "Url": "\/profile\/shahkhan_87\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 398691,
+                    "Name": "cvuk",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/398691\/43d19401-fe79-4cdf-9418-3becc58202ff.jpg",
+                    "Url": "\/profile\/cvuk\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 504108,
+                    "Name": "tj.nilon",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/504108\/fdb8080b-fe9e-49a5-81f1-584198a74b31.jpg",
+                    "Url": "\/profile\/tj.nilon\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 405607,
+                    "Name": "deus.joca",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/405607\/ee6dbedc-9997-4725-b1bb-3a00a404bdfa.jpg",
+                    "Url": "\/profile\/deus.joca\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 379466,
+                    "Name": "9486005B",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/379466\/329becb8-8610-4892-aa08-8db2a7cd23bc.jpg",
+                    "Url": "\/profile\/9486005B\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 382602,
+                    "Name": "MindCrypto",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/382602\/6243d0fb-07b0-4010-b54e-20c54e2bdf46.png",
+                    "Url": "\/profile\/MindCrypto\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 351337,
+                    "Name": "davemorello",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/351337\/a4c839a2-16aa-4103-a846-fccd255e13b1.jpg",
+                    "Url": "\/profile\/davemorello\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 6325,
+            "Followers": 94,
+            "Posts": "151",
+            "Comments": "20",
+            "PageViewsSplit": {
+                "Overview": 5379,
+                "Markets": 488,
+                "Analysis": 277,
+                "Charts": 463,
+                "Trades": 235,
+                "Orderbook": 7,
+                "Forum": 1092,
+                "Influence": 66
+            },
+            "PageViews": 8007
+        },
+        "Twitter": {
+            "following": "2",
+            "account_creation": "1410800728",
+            "name": "BATA | Barter And Trade Alternative",
+            "lists": 62,
+            "statuses": 7348,
+            "favourites": "821",
+            "followers": 321,
+            "link": "https:\/\/twitter.com\/Bata_Money",
+            "Points": 638
+        },
+        "Reddit": {
+            "posts_per_hour": "0.00",
+            "comments_per_hour": "0.00",
+            "posts_per_day": "0.07",
+            "comments_per_day": 0.03,
+            "name": "batamoney",
+            "link": "https:\/\/www.reddit.com\/r\/batamoney\/",
+            "active_users": 24,
+            "community_creation": "1431414211",
+            "subscribers": 74,
+            "Points": 146
+        },
+        "Facebook": {
+            "likes": 222,
+            "link": "https:\/\/www.facebook.com\/batacurrency\/",
+            "is_closed": "false",
+            "talking_about": "3",
+            "name": "Bata.io",
+            "Points": 222
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1431306980",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "15394",
+                    "closed_total_issues": "66",
+                    "stars": 5,
+                    "last_update": "1513439640",
+                    "forks": 13,
+                    "url": "https:\/\/github.com\/BTA-BATA\/BATA-SOURCE",
+                    "closed_issues": "9",
+                    "closed_pull_issues": "57",
+                    "fork": "false",
+                    "last_push": "1513601120",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "C++",
+                    "subscribers": 5,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 46
+        }
+    }
+}

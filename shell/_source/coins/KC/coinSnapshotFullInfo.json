@@ -1,0 +1,77 @@
+{
+    "Response": "Success",
+    "Message": "Coin full snapshot successfully returned",
+    "Data": {
+        "SEO": {
+            "PageTitle": "Kernalcoin (KC) - Live streaming prices and market cap",
+            "PageDescription": "Live Kernalcoin prices from all markets and KC coin market Capitalization. Stay up to date with the latest Kernalcoin price movements and forum discussion. Check out our snapshot charts and see when there is an opportunity to buy or sell.",
+            "BaseUrl": "https:\/\/www.cryptocompare.com",
+            "BaseImageUrl": "https:\/\/www.cryptocompare.com",
+            "OgImageUrl": "\/media\/352224\/kc.png",
+            "OgImageWidth": "300",
+            "OgImageHeight": "300"
+        },
+        "General": {
+            "Id": "35230",
+            "DocumentType": "Webpagecoinp",
+            "H1Text": "Kernalcoin (KC)",
+            "DangerTop": "",
+            "WarningTop": "",
+            "InfoTop": "",
+            "Symbol": "KC",
+            "Url": "\/coins\/kc\/",
+            "BaseAngularUrl": "\/coins\/kc\/",
+            "Name": "Kernalcoin",
+            "ImageUrl": "\/media\/352224\/kc.png",
+            "Description": "<p>Kernalcoin is a PoW\/PoS cryptocurrency. It uses the SHA256 algorithm and has a maximum PoW supply of\u00a02500000. The Proof of Stake APY for Kernalcoin is 2.25%\u00a0<\/p>",
+            "Features": "",
+            "Technology": "",
+            "TotalCoinSupply": "",
+            "Algorithm": "SHA256",
+            "ProofType": "PoW",
+            "StartDate": "20\/06\/2015",
+            "Twitter": "",
+            "Website": "-",
+            "AffiliateUrl": "-",
+            "Sponsor": {
+                "TextTop": "Sponsored by",
+                "Link": "http:\/\/wepowernetwork.go2cloud.org\/aff_c?offer_id=2&aff_id=1001",
+                "ImageUrl": "\/media\/20780605\/2.png"
+            },
+            "LastBlockExplorerUpdateTS": "",
+            "DifficultyAdjustment": "",
+            "BlockRewardReduction": "",
+            "BlockNumber": "",
+            "BlockTime": "",
+            "NetHashesPerSecond": "",
+            "TotalCoinsMined": "",
+            "PreviousTotalCoinsMined": "",
+            "BlockReward": ""
+        },
+        "ICO": {
+            "Status": "N\/A",
+            "WhitePaper": "-"
+        },
+        "Subs": [
+            "2~CCEX~KC~ETH",
+            "2~CCEX~KC~DOGE",
+            "2~CCEX~KC~BTC",
+            "2~Yobit~KC~RUR",
+            "2~Yobit~KC~BTC",
+            "2~CCEX~KC~USD",
+            "2~Yobit~KC~DOGE",
+            "2~Yobit~KC~USD",
+            "2~Yobit~KC~ETH",
+            "2~CCEX~KC~LTC"
+        ],
+        "StreamerDataRaw": [
+            "5~CCCAGG~KC~ETH~4~0.01~1515495461~0.016844~0.00016844~182836130~0~0~0~0~0.01~0.01~0.01~0.01~0.01~0.01~Yobit~7ffe9",
+            "5~CCCAGG~KC~DOGE~4~4.20079989~1515158230~1168.75844186~4909.720334002059~179980880~0~0~0~0~4.2~4.20079989~4.2~4.20079989~4.20079989~4.20079989~Yobit~7ffe9",
+            "5~CCCAGG~KC~BTC~4~0.0000029~1515751088~215.9~0.00062611~200000000~0~0~0~0~0.00000317~0.00000317~0.0000029~0.0000029~0.0000029~0.0000029~Yobit~7ffe9",
+            "5~CCCAGG~KC~RUR~4~11.9~1515527519~8.49538255~101.09505234500001~183085746~0~0~0~0~11.9~11.9~11.9~11.9~11.9~11.9~Yobit~7ffe9",
+            "5~CCCAGG~KC~USD~4~0.01200102~1515595273~17.5553911~0.210682599698922~183575933~0~0~0~0~0.012~0.01200102~0.012~0.01200102~0.01200102~0.01200102~Yobit~7ffe9",
+            "5~CCCAGG~KC~LTC~4~1e-8~1505903348~573878.7883556~0.005738787883556~1681585~0~0~0~0~1e-8~1e-8~1e-8~1e-8~1e-8~1e-8~CCEX~7ffe9"
+        ]
+    },
+    "Type": 100
+}

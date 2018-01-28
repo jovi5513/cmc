@@ -1,0 +1,246 @@
+{
+    "Response": "Success",
+    "Message": "Social data successfully returned",
+    "Type": 100,
+    "Data": {
+        "General": {
+            "Name": "STAR",
+            "CoinName": "Starbase",
+            "Type": "Webpagecoinp",
+            "Points": 45258
+        },
+        "CryptoCompare": {
+            "SimilarItems": [
+                {
+                    "Id": 198474,
+                    "Name": "BrickBlock",
+                    "FullName": "BrickBlock (BBT*)",
+                    "ImageUrl": "\/media\/1383883\/bbt.png",
+                    "Url": "\/coins\/bbtstar\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 4540,
+                    "Name": "IOCoin",
+                    "FullName": "IOCoin (IOC)",
+                    "ImageUrl": "\/media\/20042\/ioc.png",
+                    "Url": "\/coins\/ioc\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 21382,
+                    "Name": "Carboncoin",
+                    "FullName": "Carboncoin (CARBON)",
+                    "ImageUrl": "\/media\/351017\/carbon.png",
+                    "Url": "\/coins\/carbon\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 310812,
+                    "Name": "Sumokoin",
+                    "FullName": "Sumokoin (SUMO)",
+                    "ImageUrl": "\/media\/12318088\/sumo.png",
+                    "Url": "\/coins\/sumo\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5339,
+                    "Name": "LiteDoge",
+                    "FullName": "LiteDoge (LDOGE)",
+                    "ImageUrl": "\/media\/20332\/ldoge.png",
+                    "Url": "\/coins\/ldoge\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 242873,
+                    "Name": "Oxycoin",
+                    "FullName": "Oxycoin (OXY)",
+                    "ImageUrl": "\/media\/9350753\/oxy.png",
+                    "Url": "\/coins\/oxy\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 372029,
+                    "Name": "AIX",
+                    "FullName": "AIX (AXT)",
+                    "ImageUrl": "\/media\/14913467\/axt.png",
+                    "Url": "\/coins\/axt\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 374246,
+                    "Name": "Decision Token",
+                    "FullName": "Decision Token (HST)",
+                    "ImageUrl": "\/media\/14913538\/hst.png",
+                    "Url": "\/coins\/hst\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 336538,
+                    "Name": "VIBEHub",
+                    "FullName": "VIBEHub (VIBE)",
+                    "ImageUrl": "\/media\/12318267\/vibe.png",
+                    "Url": "\/coins\/vibe\/",
+                    "FollowingType": 1
+                },
+                {
+                    "Id": 5289,
+                    "Name": "StartCoin",
+                    "FullName": "StartCoin (START)",
+                    "ImageUrl": "\/media\/19916\/start.png",
+                    "Url": "\/coins\/start\/",
+                    "FollowingType": 1
+                }
+            ],
+            "CryptopianFollowers": [
+                {
+                    "Id": 439937,
+                    "Name": "sjdranch",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/439937\/b5f8fdc2-f75f-4125-9ee2-3b239d5b0403.jpg",
+                    "Url": "\/profile\/sjdranch\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 125318,
+                    "Name": "gototradeit",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/125318\/5bcfbb2c-5437-4877-b1f3-2282442b8192.jpg",
+                    "Url": "\/profile\/gototradeit\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 27329,
+                    "Name": "DZ88",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/27329\/5f82efd5-230b-408a-8b7e-94161e1b786a.png",
+                    "Url": "\/profile\/DZ88\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 608211,
+                    "Name": "ghazalaanis",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/608211\/013dbc9e-d04c-41d4-bd4d-6e7a97adde0d.jpg",
+                    "Url": "\/profile\/ghazalaanis\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 190115,
+                    "Name": "sursc",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/190115\/be7cdc4f-45eb-4276-a0e5-887239c8c4fc.jpg",
+                    "Url": "\/profile\/sursc\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 522904,
+                    "Name": "kencucchia",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/522904\/3af1daa7-6535-4ff5-805c-f6463f6851ae.jpg",
+                    "Url": "\/profile\/kencucchia\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 509807,
+                    "Name": "bit_chowder",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/509807\/0c322a0f-2622-47af-837c-80279e71c033.jpg",
+                    "Url": "\/profile\/bit_chowder\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 71674,
+                    "Name": "JBooth",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/71674\/f5bf5a0d-5331-43f6-a480-d30d04d782e7.jpg",
+                    "Url": "\/profile\/JBooth\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 483075,
+                    "Name": "angelakis9",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/483075\/ccdcd951-dc78-46bb-8708-f6759ba55578.jpg",
+                    "Url": "\/profile\/angelakis9\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 158762,
+                    "Name": "maxikserik",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/158762\/7e5786a4-7455-451c-a031-af84e43a931f.jpg",
+                    "Url": "\/profile\/maxikserik\/",
+                    "Type": "Cryptopian"
+                },
+                {
+                    "Id": 379761,
+                    "Name": "Farahdila91",
+                    "ImageUrl": "https:\/\/images.cryptocompare.com\/379761\/3a302d96-4cad-4891-8a89-97dfbc6ac51b.png",
+                    "Url": "\/profile\/Farahdila91\/",
+                    "Type": "Cryptopian"
+                }
+            ],
+            "Points": 1085,
+            "Followers": 42,
+            "Posts": "1",
+            "Comments": "1",
+            "PageViewsSplit": {
+                "Overview": 2771,
+                "Markets": 318,
+                "Analysis": 97,
+                "Charts": 96,
+                "Trades": 86,
+                "Orderbook": 4,
+                "Forum": 38,
+                "Influence": 26
+            },
+            "PageViews": 3436
+        },
+        "Twitter": {
+            "following": "7522",
+            "account_creation": "1477210305",
+            "name": "Starbase",
+            "lists": 214,
+            "statuses": 2835,
+            "favourites": "1250",
+            "followers": 24594,
+            "link": "https:\/\/twitter.com\/starbaseco",
+            "Points": 25666
+        },
+        "Reddit": {
+            "Points": 0
+        },
+        "Facebook": {
+            "likes": 18507,
+            "link": "https:\/\/www.facebook.com\/StarbaseCo\/",
+            "is_closed": "false",
+            "talking_about": "34",
+            "name": "Starbase",
+            "Points": 18507
+        },
+        "CodeRepository": {
+            "List": [
+                {
+                    "created_at": "1493396993",
+                    "open_total_issues": "0",
+                    "parent": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "size": "12099",
+                    "closed_total_issues": "0",
+                    "stars": 0,
+                    "last_update": "1493590215",
+                    "forks": 0,
+                    "url": "https:\/\/github.com\/decentralizedlove\/decentralizedlove.github.io",
+                    "closed_issues": "0",
+                    "closed_pull_issues": "0",
+                    "fork": "false",
+                    "last_push": "1504836544",
+                    "source": {
+                        "Name": "",
+                        "Url": "",
+                        "InternalId": -1
+                    },
+                    "open_pull_issues": "0",
+                    "language": "CSS",
+                    "subscribers": 0,
+                    "open_issues": "0"
+                }
+            ],
+            "Points": 0
+        }
+    }
+}

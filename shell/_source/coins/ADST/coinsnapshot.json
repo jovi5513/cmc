@@ -1,0 +1,55 @@
+{
+    "Response": "Success",
+    "Message": "This api will soon move to mi-api path.",
+    "Data": {
+        "Algorithm": null,
+        "ProofType": null,
+        "BlockNumber": 0,
+        "NetHashesPerSecond": 0,
+        "TotalCoinsMined": 19379103,
+        "BlockReward": 0,
+        "AggregatedData": {
+            "TYPE": "5",
+            "MARKET": "CCCAGG",
+            "FROMSYMBOL": "ADST",
+            "TOSYMBOL": "BTC",
+            "FLAGS": "4",
+            "PRICE": "0.00007249",
+            "LASTUPDATE": "1516093154",
+            "LASTVOLUME": "135.5843306",
+            "LASTVOLUMETO": "0.00982851",
+            "LASTTRADEID": "1516093154",
+            "VOLUMEDAY": "151254.91804078012",
+            "VOLUMEDAYTO": "12.037716099999994",
+            "VOLUME24HOUR": "777635.6978941301",
+            "VOLUME24HOURTO": "62.772447590000006",
+            "OPENDAY": "0.00007877",
+            "HIGHDAY": "0.00008697",
+            "LOWDAY": "0.00007101",
+            "OPEN24HOUR": "0.00008756",
+            "HIGH24HOUR": "0.00009951",
+            "LOW24HOUR": "0.00007101",
+            "LASTMARKET": "Cryptopia"
+        },
+        "Exchanges": [
+            {
+                "TYPE": "2",
+                "MARKET": "Cryptopia",
+                "FROMSYMBOL": "ADST",
+                "TOSYMBOL": "BTC",
+                "FLAGS": "2",
+                "PRICE": "0.00007249",
+                "LASTUPDATE": "1516093154",
+                "LASTVOLUME": "135.5843306",
+                "LASTVOLUMETO": "0.00982851",
+                "LASTTRADEID": "1516093154",
+                "VOLUME24HOUR": "777635.6978941301",
+                "VOLUME24HOURTO": "62.772447590000006",
+                "OPEN24HOUR": "0.00008756",
+                "HIGH24HOUR": "0.00009951",
+                "LOW24HOUR": "0.00007101"
+            }
+        ]
+    },
+    "Type": 100
+}
