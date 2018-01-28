@@ -41,9 +41,9 @@ paginate_path: "/blog/page:num/"
 
 future: true
 
-gems:
-  - jekyll-redirect-from
-  - jekyll-paginate
+# gems:
+#   - jekyll-redirect-from
+#   - jekyll-paginate
   # - jekyll-related-posts
   # http://jekyllrb.com/docs/templates/#gist
   # - jekyll-gist
